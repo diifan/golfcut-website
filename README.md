@@ -80,3 +80,18 @@ bun x vercel --prod
 - 参考：https://support.google.com/webmasters/answer/9008080
 
 已通过 1440、768、390、320 像素宽度的渲染、无横向溢出、图片加载，以及故事切换/键盘、滤镜、FAQ、移动菜单检查；5 个页面无脚本或资源响应错误。98 处本地资源/锚点、SVG 颜色和 sitemap 校验通过。详见 `validation/results.json` 和对应宽度截图（不进入发布目录）。当前环境对本地回环端口的访问超时，因此浏览器验证通过 Playwright 将构建产物作为 HTTP 响应提供；这验证页面渲染和交互，不代表真实部署或服务器网络已验证。Bun build 和预览服务启动均成功。正式发布后仍需真实 HTTP/HTTPS 验证。
+
+## Technical SEO maintenance
+
+Run `node scripts/check-seo.mjs` (or `bun run check:seo`). Every build also runs this check before copying `public/` into `dist/`.
+
+- Seven indexable pages use HTTPS canonical URLs, with no trailing slash except `/`. Internal links, Open Graph URLs, JSON-LD and sitemap use the same URLs.
+- Each page has a unique title/description, explicit robots preview directives, complete Open Graph and Twitter card metadata, image dimensions/alt, language, viewport and icons.
+- JSON-LD connects Organization, WebSite and WebPage entities; secondary pages have visible breadcrumbs and BreadcrumbList. Existing homepage FAQ matches visible content. This commercial site should not expect Google FAQ rich results.
+- `public/404.html` is excluded from sitemap and has `noindex`; unknown URLs must retain HTTP 404. The default `golfcut-website.vercel.app` alias permanently redirects to the custom domain, so the older note about a separately accessible preview no longer applies.
+- Google Fonts loads through HTML stylesheet links with preconnect and `display=swap`, rather than CSS `@import`. Images retain dimensions and below-the-fold lazy loading.
+- Keep the GSC verification file unchanged. Verify the production response after every hosting change.
+- No invented app prices, ratings, reviews, social profiles or publication dates are included. `hreflang` is not applicable while the site has only English pages. `meta keywords`, `revisit-after`, sitemap priority/changefreq and fabricated lastmod values are deliberately omitted.
+- Local validation does not establish Google indexing, rich-result eligibility or Core Web Vitals. Review GSC indexing/CWV and PageSpeed Insights separately once field data is available.
+
+References: [Google canonical guidance](https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls), [sitemaps](https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap), [Vercel routing](https://vercel.com/docs/project-configuration/vercel-json).

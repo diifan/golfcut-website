@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "check:seo": "node scripts/check-seo.mjs",
     "dev": "bun --watch scripts/serve.mjs",
     "build": "bun scripts/build.mjs",
     "preview": "bun scripts/serve.mjs --dist"

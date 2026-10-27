@@ -5,5 +5,13 @@
   "buildCommand": "bun run build",
   "outputDirectory": "dist",
   "cleanUrls": true,
-  "trailingSlash": false
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "golfcut-website.vercel.app" }],
+      "destination": "https://golfcut.goswie.com/:path*",
+      "permanent": true
+    }
+  ]
 }

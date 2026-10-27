@@ -24,3 +24,9 @@ button,a{-webkit-tap-highlight-color:transparent}button,.btn{touch-action:manipu
 
 /* Shared by the hero and closing App Store downloads. */
 .appstore-cta{background:#123E32;overflow:hidden}
+
+/* Company details and legal navigation shared by every page. */
+.footer-row{gap:24px;flex-wrap:wrap}.footer-row nav{flex-wrap:wrap}
+.footer-lower{display:flex;align-items:center;justify-content:space-between;gap:12px 24px;margin-top:24px;padding-top:20px;border-top:1px solid #d6dacb}
+.footer-lower p{margin:0;font-size:12px}.footer-email{display:inline-flex;align-items:center;gap:8px;font-size:13px;min-height:44px}.footer-email svg{width:18px;height:18px;flex-shrink:0}.footer-email:hover{text-decoration:underline;text-underline-offset:4px}
+@media(max-width:650px){.footer-lower{flex-direction:column;align-items:flex-start;gap:4px}.footer-row nav{grid-template-columns:repeat(2,minmax(0,1fr))}}

@@ -31,6 +31,14 @@ Keep assets local. Remove hosting-injected Cloudflare challenge scripts and prev
 
 Replace prototype origins in canonical URLs, Open Graph, JSON-LD, robots and sitemap with the intended production origin. Preserve page paths consistently. For button color requests, inspect the rendered asset as well as CSS: a filled SVG can conceal a CSS background. Change only the intended SVG background paths and preserve logo/text paths, accessible names and link targets.
 
+## Company footer and legal pages
+
+For SWINK app websites that should align with AceCut, use `© <year> SWINK AI INC.`, a visible `mailto:hello@goswie.com` contact link, and working `/terms` and `/privacy` links on every page, including feature pages and the legal pages themselves. Keep the current app's brand and visual style. Use root-relative assets and navigation so nested routes work; make legal links reachable without JavaScript. Let footer links wrap on tablets and use a compact mobile layout without horizontal overflow.
+
+When the user requests alignment, use the referenced app's Terms/Privacy structure and confirmed company/contact details, then adapt app names, actual features, dates, canonical URLs and cross-links. Do not blindly transfer another app's analytics provider, upload behavior, storage/retention promises or settings. Inspect available product evidence for such claims; omit unconfirmed specifics rather than invent them. Keep Terms and Privacy as readable standalone pages, add both to sitemap, and verify clean URLs in local tooling and Vercel.
+
+For footer/legal changes, check all affected pages at desktop, tablet and narrow mobile widths; verify company text, mailto target, both legal links, readable text, no overflow, and mobile navigation. Preserve requested download-button colors. After pushing, verify the new production deployment and fetch the real `/terms` and `/privacy` over HTTPS before reporting them live.
+
 ## Build and verify
 
 ```sh

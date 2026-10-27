@@ -17,6 +17,8 @@ bun run preview
 - 样式：`public/style.css`
 - 交互：`public/app.js`
 - 两个下载按钮共用 SVG：`public/assets/app-store-badge.svg`；其两个背景路径及按钮 CSS 均设为 `#123E32`，白色文字和 Apple 图形保持。
+- 法律页面：`public/terms.html`、`public/privacy.html`，阅读样式 `public/legal.css`
+- 全站页脚：`© 2026 SWINK AI INC.`、`hello@goswie.com`、Terms / Privacy，与 AceCut 公司信息对齐。法律内容按 GolfCut 的 AI Stories、Swing Cut 和 Shot Tracer 改写，未复制 AceCut 专属统计及处理方式声明。
 - 功能页：`public/{ai-golf-video-editor,automatic-swing-cut,golf-shot-tracer,golf-video-effects}/index.html`
 - App Store：https://apps.apple.com/us/app/golfcut-shot-tracer-ai-edit/id6808229443
 - canonical、Open Graph、JSON-LD、robots、sitemap 目标：https://golfcut.goswie.com
@@ -25,7 +27,7 @@ bun run preview
 
 ## 部署及子域名
 
-**状态：代码已推送，Vercel 项目已创建并完成生产部署；自定义域名等待 GoDaddy DNS。**
+**状态：代码已推送，Vercel 项目已创建并完成生产部署；自定义域名 DNS 已通过 Vercel 验证。**
 
 - GitHub：https://github.com/diifan/golfcut-website （main，已关联 Vercel）
 - 公开预览：https://golfcut-website.vercel.app
@@ -33,8 +35,8 @@ bun run preview
 - 团队：`diifans-projects`，与 AceCut 相同
 - 2026-10-27 首次部署：`dpl_CUCRPkLAhhAbJtQK2WXm19CSCRTZ`，READY
 - 已配置：Other / `bun install` / `bun run build` / `dist`
-- 已添加域名：`golfcut.goswie.com`；Vercel DNS 检查尚未通过
-- GoDaddy 待添加：CNAME，Name `golfcut`，Value `75135cd2d0614f92.vercel-dns-017.com`，TTL 默认。此值是该项目当前实际返回值，其他 App 必须重新读取自己的值。
+- 已添加域名：`golfcut.goswie.com`；Vercel DNS 检查已通过
+- GoDaddy 已配置：CNAME，Name `golfcut`，Value `75135cd2d0614f92.vercel-dns-017.com`，TTL 默认。此值是该项目当前实际返回值，其他 App 必须重新读取自己的值。
 
 官网首页、4 个功能页及 CSS、JS、徽章、robots、sitemap 已通过公网 HTTP 检查。下面保留新项目的通用操作步骤。
 

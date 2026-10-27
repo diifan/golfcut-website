@@ -42,7 +42,7 @@ The local server supports directory index routes and `.html` clean URLs, GET and
 
 ## GitHub publication and machine access
 
-On the SWI machine, AceCut was pushed using the existing GitHub CLI login under Linux user `ubuntu` (GitHub identity `CC-AIMI`). Confirm the current identity and repository write permission with `gh repo view <owner>/<repo> --json viewerPermission,defaultBranchRef,isEmpty` before relying on this precedent. A network/proxy error is not proof of an invalid login. Do not copy credentials between accounts or put passwords/tokens in this skill, shell arguments, source files or logs.
+On the SWI machine, AceCut was pushed using the existing GitHub CLI login under Linux user `ubuntu` (GitHub identity `CC-AIMI`). Confirm the current identity and repository write permission with `gh repo view <owner>/<repo> --json viewerPermission,defaultBranchRef,isEmpty` before relying on this precedent. A network/proxy error is not proof of an invalid login. If Git asks for a username despite a working `gh` login, use a per-command credential helper in that same authenticated Linux account: `git -c credential.helper='!gh auth git-credential' push origin <branch>`. This reuses the existing login without exposing its token or changing global Git configuration. Do not copy credentials between accounts or put passwords/tokens in this skill, shell arguments, source files or logs.
 
 When a user authorizes an administrator account to resolve a Unix permission issue, inspect `id` and `getfacl`, and grant only the needed project access (for example `setfacl -m u:<executor>:rwx,d:u:<executor>:rwx <project>`). Preserve owner/group and unrelated permissions. An administrator login does not authenticate Vercel or GoDaddy.
 

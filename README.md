@@ -25,7 +25,7 @@ bun run preview
 
 ## 部署及子域名
 
-**状态：本地构建完成；GitHub 目标仓库为 https://github.com/diifan/golfcut-website；Vercel 部署和自定义域名尚未验证完成。** 2026-10-27 查询公共 DNS 返回 NXDOMAIN。目录写权限已通过 ubuntu 管理员修复，项目已落地 GolfCut/website；Vercel、GoDaddy 账户接入仍待完成。
+**状态：本地构建完成；代码已推送至 https://github.com/diifan/golfcut-website（main）；Vercel 部署和自定义域名尚未验证完成。** 2026-10-27 查询公共 DNS 返回 NXDOMAIN。目录写权限已通过 ubuntu 管理员修复，项目已落地 GolfCut/website；已复用 Ubuntu / CC-AIMI GitHub 授权完成推送；Vercel CLI 登录等待浏览器授权，GoDaddy DNS 由用户操作。
 
 1. 将本目录放入独立官网仓库（例如 `golfcut-website`），或在有登录状态的 Vercel CLI 中直接部署本目录。
 2. Vercel 导入时 Framework 选择 Other；独立仓库 Root Directory 为 `./`，若使用 GolfCut 应用仓库则为 `website/`。

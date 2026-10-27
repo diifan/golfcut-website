@@ -72,4 +72,11 @@ bun x vercel --prod
 
 ## 验证
 
+### Google Search Console
+
+- 所有权验证文件：`public/google828db80516d18f39.html`，构建时原样复制到 `dist/`。验证成功后也必须保留此文件。
+- 验证地址：`https://golfcut.goswie.com/google828db80516d18f39.html`。Vercel 的 `cleanUrls` 会重定向到同域名的无扩展名地址；Google 支持同域名验证文件重定向。上线后须确认最终响应为 200，内容与原文件完全一致。
+- 在 GSC 的 `https://golfcut.goswie.com/` 资源中点击 Verify，成功后提交 `https://golfcut.goswie.com/sitemap.xml`。
+- 参考：https://support.google.com/webmasters/answer/9008080
+
 已通过 1440、768、390、320 像素宽度的渲染、无横向溢出、图片加载，以及故事切换/键盘、滤镜、FAQ、移动菜单检查；5 个页面无脚本或资源响应错误。98 处本地资源/锚点、SVG 颜色和 sitemap 校验通过。详见 `validation/results.json` 和对应宽度截图（不进入发布目录）。当前环境对本地回环端口的访问超时，因此浏览器验证通过 Playwright 将构建产物作为 HTTP 响应提供；这验证页面渲染和交互，不代表真实部署或服务器网络已验证。Bun build 和预览服务启动均成功。正式发布后仍需真实 HTTP/HTTPS 验证。

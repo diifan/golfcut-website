@@ -63,6 +63,28 @@ Current official references (consult when doing deployment work):
 - [Vercel custom domains](https://vercel.com/docs/domains/working-with-domains/add-a-domain)
 - [GoDaddy CNAME records](https://www.godaddy.com/help/add-a-cname-record-19236)
 
+## Verified CLI sequence
+
+GolfCut was deployed with Vercel CLI 65.4.0. After an authenticated login, use current `--help` if flags differ. Substitute the verified scope, project and repo; the actual SWI scope used for AceCut and GolfCut is `diifans-projects`.
+
+```sh
+bun x vercel teams list
+bun x vercel project list --scope <scope>
+bun x vercel project create <project> --scope <scope>
+bun x vercel link --yes --project <project> --scope <scope>
+bun x vercel git connect --yes --scope <scope>
+bun x vercel project update <project> --framework other --build-command 'bun run build' --install-command 'bun install' --output-directory dist --yes --scope <scope>
+bun x vercel --prod --yes --scope <scope>
+bun x vercel domains add <app-domain> <project> --scope <scope>
+bun x vercel domains verify <app-domain> --scope <scope>
+```
+
+Run these from the website checkout with the correct Git remote. Skip creation when the matching project exists. `git connect --yes` uses that remote; without `--yes`, agent-mode CLI can exit at a confirmation prompt without actually connecting. `link` may create `.env.local` with an OIDC token and `.vercel/`; keep both ignored. Never print or commit them.
+
+Send a newly generated device-login URL immediately, retain the login process, and wait for its explicit success. If a user reports an invalid/expired code, stop the old login, issue a fresh one and keep the turn active for authorization; do not keep returning the stale URL.
+
+A READY deployment and a custom-domain alias do not prove public DNS works. Test the public `<project>.vercel.app` URL without authentication as well as the requested domain. `domains verify` returns the exact recommended CNAME; record that value for the user if they manage DNS. Keep the public preview available while DNS is pending. When Git is connected, later pushes should trigger deployment; verify the deployment status if claiming a particular new commit is live.
+
 ## Handoff
 
 Record source origin, commands, build output, validation evidence and remaining limitations in the website README. Keep generated output, local validation artifacts, environment files and provider credentials out of Git. Report the actual live URL only after successful deployment; otherwise provide the ready project and precise blocker.

@@ -25,7 +25,18 @@ bun run preview
 
 ## 部署及子域名
 
-**状态：本地构建完成；代码已推送至 https://github.com/diifan/golfcut-website（main）；Vercel 部署和自定义域名尚未验证完成。** 2026-10-27 查询公共 DNS 返回 NXDOMAIN。目录写权限已通过 ubuntu 管理员修复，项目已落地 GolfCut/website；已复用 Ubuntu / CC-AIMI GitHub 授权完成推送；Vercel CLI 登录等待浏览器授权，GoDaddy DNS 由用户操作。
+**状态：代码已推送，Vercel 项目已创建并完成生产部署；自定义域名等待 GoDaddy DNS。**
+
+- GitHub：https://github.com/diifan/golfcut-website （main，已关联 Vercel）
+- 公开预览：https://golfcut-website.vercel.app
+- 项目：https://vercel.com/diifans-projects/golfcut-website
+- 团队：`diifans-projects`，与 AceCut 相同
+- 2026-10-27 首次部署：`dpl_CUCRPkLAhhAbJtQK2WXm19CSCRTZ`，READY
+- 已配置：Other / `bun install` / `bun run build` / `dist`
+- 已添加域名：`golfcut.goswie.com`；Vercel DNS 检查尚未通过
+- GoDaddy 待添加：CNAME，Name `golfcut`，Value `75135cd2d0614f92.vercel-dns-017.com`，TTL 默认。此值是该项目当前实际返回值，其他 App 必须重新读取自己的值。
+
+官网首页、4 个功能页及 CSS、JS、徽章、robots、sitemap 已通过公网 HTTP 检查。下面保留新项目的通用操作步骤。
 
 1. 将本目录放入独立官网仓库（例如 `golfcut-website`），或在有登录状态的 Vercel CLI 中直接部署本目录。
 2. Vercel 导入时 Framework 选择 Other；独立仓库 Root Directory 为 `./`，若使用 GolfCut 应用仓库则为 `website/`。
@@ -51,7 +62,7 @@ bun x vercel --prod
 
 如当前用户没有安装 Bun，先安装 Bun，或使用已安装 Bun 的 swi-codex 用户执行。不要把账号 token 写入仓库。
 
-部署后打开 Vercel Dashboard → golfcut-website → Settings → Domains，添加 golfcut.goswie.com；随后按上面的 GoDaddy CNAME 步骤操作。后续要求已更新为：推送到 diifan/golfcut-website 并创建 Vercel 项目；GoDaddy DNS 由用户操作。
+部署后打开 Vercel Dashboard → golfcut-website → Settings → Domains，添加 golfcut.goswie.com；随后按上面的 GoDaddy CNAME 步骤操作。GitHub 推送、Vercel 创建和部署已完成；GoDaddy DNS 由用户操作。
 
 ## 可复用技能
 

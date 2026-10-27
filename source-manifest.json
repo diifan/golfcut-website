@@ -5,12 +5,17 @@
   "target_domain": "golfcut.goswie.com",
   "hosting": "Vercel",
   "dns_provider_reference": "GoDaddy",
-  "deployment_status": "not_deployed",
+  "deployment_status": "deployed",
   "changes": [
     "App Store badge background paths and CTA CSS #123E32",
     "Production canonical, Open Graph, JSON-LD, sitemap, robots origin",
     "Removed Cloudflare injected challenge script",
     "Bun static build and local preview tooling",
     "Vercel build configuration"
-  ]
+  ],
+  "public_url": "https://golfcut-website.vercel.app",
+  "github": "https://github.com/diifan/golfcut-website",
+  "vercel_project": "golfcut-website",
+  "vercel_scope": "diifans-projects",
+  "custom_domain_status": "awaiting_dns"
 }

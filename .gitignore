@@ -5,3 +5,13 @@ validation/
 .env*
 .DS_Store
 .vercel
+
+.runtime-cuda/
+__pycache__/
+validation/
+
+.vercel/
+dist/
+
+server/tracer/native/*.so
+server/tracer/native/*.ptx

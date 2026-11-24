@@ -47,16 +47,23 @@ def process(task):
     thread=threading.Thread(target=heartbeat,daemon=True);thread.start()
     try:
         if not (folder/'source').exists() or (folder/'source').stat().st_size!=task['size_bytes']:
-            count=0;start=time.monotonic()
-            with httpx.stream('GET',task['source_url'],timeout=45,follow_redirects=False) as response:
-                response.raise_for_status()
-                with (folder/'source.part').open('wb') as out:
-                    for chunk in response.iter_bytes(262144):
-                        if lost.is_set() or time.monotonic()-start>600:raise LeaseLost()
-                        count+=len(chunk)
-                        if count>task['size_bytes'] or count>536870912:raise ValueError('source_size')
-                        out.write(chunk)
-            if count!=task['size_bytes']:raise ValueError('source_size')
+            for attempt in range(5):
+                try:
+                    count=0;start=time.monotonic()
+                    with httpx.stream('GET',task['source_url'],timeout=45,follow_redirects=False) as response:
+                        response.raise_for_status()
+                        with (folder/'source.part').open('wb') as out:
+                            for chunk in response.iter_bytes(262144):
+                                if lost.is_set() or time.monotonic()-start>600:raise LeaseLost()
+                                count+=len(chunk)
+                                if count>task['size_bytes'] or count>536870912:raise ValueError('source_size')
+                                out.write(chunk)
+                    if count!=task['size_bytes']:raise ValueError('source_size')
+                    break
+                except (httpx.TransportError,httpx.HTTPStatusError):
+                    if lost.is_set():raise LeaseLost()
+                    if attempt==4:raise
+                    time.sleep(2**attempt)
             (folder/'source.part').replace(folder/'source')
         if task['operation']=='probe':
             stage.update(stage='probing');video=probe(folder/'source')

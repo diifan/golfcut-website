@@ -1,7 +1,7 @@
 import {createClient} from 'npm:@supabase/supabase-js@2';
 const db=createClient(Deno.env.get('SUPABASE_URL')!,Deno.env.get('SUPABASE_SERVICE_ROLE_KEY')!,{auth:{persistSession:false}});
 const store=db.storage.from('golfcut-web-tracer');
-const effects=new Set(['firework','cosmic','ice','sunset']);
+const effects=new Set(['firework','cosmic','ice','sunset','comic-pop','splash-brush','comet-ink','manga-swish','arcane-spark','kinetic-pulse','plasma-jet','prism-shards','ink-smoke','holo-glitch','water-crown','meteor-impact','chain-lightning','aurora-bloom','green-release','heat-check','ice-cold','voltage','street-ink','court-manga','red-drive','ace-afterimage','pure-swish','manga-ink','clutch-impact']);
 const uuid=/^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/;
 const hex=/^[0-9a-f]{48}$/;
 const reply=(status:number,data:unknown)=>new Response(JSON.stringify(data),{status,headers:{'Content-Type':'application/json','Cache-Control':'no-store','X-Robots-Tag':'noindex, nofollow'}});

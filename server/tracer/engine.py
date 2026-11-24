@@ -35,11 +35,17 @@ def run(folder,app,task):
       '-r',str(fps),'-i','pipe:0','-i',str(target),'-map','0:v','-map','1:a?','-c:v','libx264','-threads','2',
       '-preset','fast','-crf','20','-pix_fmt','yuv420p','-movflags','+faststart','-shortest',str(output)],stdin=subprocess.PIPE)
     colors={'firework':(55,210,255),'ice':(255,225,80),'cosmic':(220,75,240),'sunset':(80,100,255)}
-    color=colors[task['effect']];i=0
+    sys.path.insert(0,str(Path(__file__).resolve().parent.parent/'tracer-styles'))
+    from gallery import Renderer,STYLES
+    arcs=[{'times':[p['time'] for p in track],'points':[[p['x'],p['y']] for p in track]} for track in result['tracks']]
+    gallery=Renderer(arcs,w,h,task['effect']) if task['effect'] in STYLES else None
+    color=colors.get(task['effect']);i=0
     try:
         while True:
             ok,image=cap.read()
             if not ok:break
+            if gallery is not None:
+                process.stdin.write(gallery.draw(image,i/fps).tobytes());i+=1;continue
             overlay=image.copy()
             for track in result['tracks']:
                 points=[p for p in track if i/fps-.30<=p['time']<=i/fps]

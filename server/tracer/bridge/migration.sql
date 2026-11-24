@@ -61,7 +61,7 @@ begin
   if j.state in ('processing','queued') then raise exception 'job_busy'; end if;
   if j.video is null then raise exception 'video_not_ready'; end if;
   s=(p_data->>'start')::double precision;e=(p_data->>'end')::double precision;f=p_data->>'effect';
-  if not (s>=0 and s<e and e<=(j.video->>'duration')::double precision+0.05 and e-s<=30.001) or f not in ('firework','cosmic','ice','sunset') then raise exception 'invalid_range'; end if;
+  if not (s>=0 and s<e and e<=(j.video->>'duration')::double precision+0.05 and e-s<=30.001) or f not in ('firework','cosmic','ice','sunset','comic-pop','splash-brush','comet-ink','manga-swish','arcane-spark','kinetic-pulse','plasma-jet','prism-shards','ink-smoke','holo-glitch','water-crown','meteor-impact','chain-lightning','aurora-bloom','green-release','heat-check','ice-cold','voltage','street-ink','court-manga','red-drive','ace-afterimage','pure-swish','manga-ink','clutch-impact') then raise exception 'invalid_range'; end if;
   chosen=p_data->'options';
   if j.trim=jsonb_build_array(s,e) and j.hoop is not distinct from chosen and j.renders ? f then
    update gc_tracer_jobs set state='ready',stage='ready',progress=100,effect=f,error=null,updated_at=now() where id=p_id returning * into j;return to_jsonb(j);

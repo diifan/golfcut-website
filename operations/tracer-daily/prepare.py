@@ -55,7 +55,7 @@ def prepare(day,refresh=True):
  progress(day,state='validating',generated_count=len(pages),pages_path=str(manifest),worktree=str(work),base_commit=base)
  build=run([BUN,'run','build'],work);(HOME/(day+'-build.log')).write_text(build)
  changed=run(['git','diff','--name-only'],work).splitlines()
- if any(x not in ['public/sitemap.xml','public/golf-shot-tracer/index.html'] for x in changed):raise RuntimeError('Unexpected change to existing production file')
+ if any(x not in ['public/sitemap.xml','public/golf-shot-tracer/index.html','public/shot-library/index.html'] and not re.fullmatch(r'public/shot-library/browse-\d+/index.html',x) for x in changed):raise RuntimeError('Unexpected change to existing production file')
  run(['git','add','public/shot-library','public/shot-library.css','public/shot-library.js','public/sitemap.xml','public/golf-shot-tracer/index.html','content/shot-library'],work)
  run(['git','commit','-m','Add '+str(target)+' sourced golf shot reference pages ('+day+')'],work)
  commit=run(['git','rev-parse','HEAD'],work)

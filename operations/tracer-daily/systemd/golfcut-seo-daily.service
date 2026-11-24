@@ -1,0 +1,18 @@
+[Unit]
+Description=GolfCut existing website incremental SEO prepare and publish executor
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=swi-codex
+Group=swi-codex
+WorkingDirectory=/data/swi-algo/Swi-App-Factory/GolfCut
+Environment=PATH=/var/lib/swi-codex/.bun/bin:/var/lib/swi-codex/agent-relay/bin:/usr/local/bin:/usr/bin:/bin
+Environment=HTTPS_PROXY=http://127.0.0.1:7890
+Environment=HTTP_PROXY=http://127.0.0.1:7890
+Environment=NO_PROXY=localhost,127.0.0.1,192.168.0.112
+ExecStart=/usr/bin/python3 /data/swi-algo/Swi-App-Factory/GolfCut/production/tracer-daily/scheduler.py
+TimeoutStartSec=7200
+UMask=0027
+NoNewPrivileges=true

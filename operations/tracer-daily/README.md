@@ -1,45 +1,38 @@
-# GolfCut existing website: incremental SEO execution
+# GolfCut existing website: Semrush daily executor
 
-**2026-11-24 correction:** only controller-supplied Semrush keywords may drive new batches. See [INPUT-CONTRACT.md](INPUT-CONTRACT.md). The video-catalog collector/renderer below describe the preserved historical release, not an authorized future keyword source. New generation awaits the real CSV/evidence handoff and source-specific writer adaptation; publication guards reject all video-title batches.
+Production entrypoints live in `/data/swi-algo/Swi-App-Factory/GolfCut/production/tracer-daily`; versioned copies are `operations/tracer-daily` in `diifan/golfcut-website`. This is an incremental existing-site pipeline, never a replacement site or a new Vercel project.
 
-Installed executor: `/data/swi-algo/Swi-App-Factory/GolfCut/production/tracer-daily`.
-This adds pages to `diifan/golfcut-website` and its existing `golfcut-website` Vercel project. It never creates a site/project, resets the inference worktree, changes DNS, or alters another app.
+## Current input and ownership
 
-## Controller contract
+[INPUT-CONTRACT.md](INPUT-CONTRACT.md) is the implemented controller interface. The controller owns `production/keyword-expansion`, its Semrush collector and its six-hour quota cooldown. The executor only reads its CSV/manifest/config/original exports and writes the expressly permitted `capacity.json`. It never calls Semrush.
 
-Only mutable operator config: `/data/swi-algo/Swi-IP-Config/swie-app-mac/data/tracer-daily-golfcut/config.json`.
-Fields: enabled, target, hour, minute, prepare_hour, prepare_minute, timezone.
-The timer ticks every minute; Python reads the config at each invocation. All publication and preparation dates use the configured zone. The prepare time prepares the **next** calendar day's batch. At publication time only a ready, validated deployment is promoted; no new build is started by the publish action. Target changes invalidate a prepared batch for publication. Disabled means no publication or preparation.
+Single runtime schedule: `/data/swi-algo/Swi-IP-Config/swie-app-mac/data/tracer-daily-golfcut/config.json`, fields `enabled,target,hour,minute,prepare_hour,prepare_minute,timezone`. `input-binding.json` binds the two producer paths. Independent keyword reservations, evidence cache, receipts and locks live in this same executor data directory, not the producer pool. `state.json` exposes heartbeat and runs for the controller UI.
 
-Same directory holds `state.json` (heartbeat and runs), `<day>-receipt.json`, append-only `keywords.json`, `source-manifest.json`, and cached evidence. The original short-term report is synchronized at `reports/seo-expansion-20261124/golfcut-{receipt.json,progress.md}`. Page generation and live verification update every 50 pages. The controller owns MAC UI/API integration.
+## Pipeline
 
-## Sources and editorial meaning
+1. `keyword_input.py`: shared producer-lock snapshot; reread latest export hashes; exact keyword/KD/volume/evidence URL tuple match against original exports; strict KD<30 and volume>100; normalized keyword/intent/source dedupe; preserve reserved/published state. Fetch evidence only from registered HTTPS domains with safe redirects, public addresses and bounded streaming. Incomplete fetching is distinct from unsuitable/duplicate/threshold-rejected candidates.
+2. `keyword_pages.py`: select exactly the configured target, reserve own state, render accepted keywords and corresponding source-linked recording guides in `/golf-guides`, add hubs and one existing tracer-article link, extend sitemap, run the original Bun build and commit in an isolated `website-seo-keywords-<day>` worktree. Existing home page, legacy references, worker/API, branding, styles and privacy stay unchanged. No partial batch is built when capacity is short.
+3. `release.py stage`: verify immutable manifests and file hashes, then deploy to the existing `golfcut-website` project with production environment and `--skip-domain`. Reconcile uncertain uploads by batch and commit metadata.
+4. At the configured publish minute, `release.py publish` only promotes a ready version with the matching target/main/project/commit. Verify production alias, every batch sitemap URL and every live HTML hash. Fast-forward Git main without force, then mark pool rows published. Fixtures and legacy video-title batches are rejected before any network call.
+5. `scheduler.py` runs each minute, reads settings anew, checks production baseline between release ticks, prepares the next calendar day after configured prepare time and retries failures with cooldown. A clean isolated rebase is rebuilt/restaged; conflicts remain explicit. `golfcut-seo-daily.timer` is enabled. Controller expansion timers remain separate.
 
-GolfCut started a new pool. `source_cache.py` reads the public PGA TOUR watch catalog using the same public read-only operation as its website. No paid Semrush requests, cookies, user keys, or subscription changes. Current entries are refreshed; a persisted archive cursor continues older collection. Cached pages expire after six hours. Each catalog response provides exact public video URLs and source metadata. Four collection threads, bounded retries, append-only normalized title/video-ID deduplication; reserved/published rows remain untouched. Raw unrelated NCSA exports are discovery-only and never enter this pool.
+Empty input yields `insufficient_keywords` and, when reported by the producer, `source_quota_blocked`. Empty, incomplete or fixture batches never stage or publish. A source quota is not a completed production acceptance. Current Semrush error `-32107 Report limits exceeded` is handled by the producer's cooldown; no forced retries are performed here.
 
-Candidates are real tee, approach, bunker and chip references, excluding putts, interviews and recap compilations. These are **source-derived topic candidates**, not claims of measured keyword volume. Each page is a source-linked recording worksheet: factual player/round/hole metadata, shot-specific filming guidance, interactive observation notes and the actual GolfCut trial limits. It explicitly does not claim visual analysis of the reference or editing the broadcast. No videos or copyrighted descriptions are republished. No affiliation or player endorsement is implied.
-
-A finite archive cannot guarantee 2,000 new worthwhile topics forever. When candidates are exhausted or sources fail, report `insufficient_candidates` or source failures separately; never synthesize permutations or republish old candidates to meet a number.
-
-## Execution
+## Commands and evidence
 
 ```
-python3 production/tracer-daily/source_cache.py YYYY-MM-DD
 python3 production/tracer-daily/prepare.py --day YYYY-MM-DD
 python3 production/tracer-daily/release.py stage --day YYYY-MM-DD
 python3 production/tracer-daily/release.py publish --day YYYY-MM-DD
 python3 production/tracer-daily/scheduler.py
-python3 production/tracer-daily/test_executor.py
+python3 -m unittest discover -s production/tracer-daily -p 'test_*.py'
+python3 production/tracer-daily/test_build_fixture.py
 ```
 
-`--immediate` on publish is for the explicitly authorized first-day release only, not ordinary scheduled operation. `--no-refresh` on prepare reuses the actual pool for recovery.
+The fixture test uses synthetic, labelled CSVs, mocked source fetches and an isolated temporary clone, then runs the actual original Bun build. It produces three visibly marked pages and proves stage/publish reject them. The release-flow test mocks **all** Git/Vercel/HTTP operations to check stage/promote/verification/finalization/idempotency; it is not an external deployment. Results: `semrush-fixture-build-result.json`, `semrush-fixture-browser-checks.json`, per-day receipts and `input-import-receipt.json` in executor data.
 
-Preparation uses an isolated detached worktree from protected `website-tracer` origin/main. It reserves source IDs, renders pages and paginated hubs, adds one related link to the existing tracer article, updates the flat sitemap, runs the existing Bun SEO/build checks, then commits. Home page, branding, 25 styles, APIs and legal files remain unchanged.
+Systemd evidence: `systemctl show golfcut-seo-daily.timer -p ActiveState -p UnitFileState -p LastTriggerUSec`; service `Result` and `ExecMainStatus`; receipt `schedule`. No group messages or notifications are sent.
 
-Staging reuses the existing Vercel project, production environment, with `--skip-domain`. It reconciles uncertain uploads using unique batch/commit metadata before retrying. Publishing verifies immutable page/manifest hashes, target, main baseline, deployment identity and READY state before promotion. It then checks the live alias, every batch sitemap URL and every live page hash; only afterwards fast-forwards Git main and marks pool rows published. Git's subsequent integration build can create an equivalent deployment with the same commit; compare commit and content, not only deployment ID.
+## Preserved history
 
-The scheduler checks ready baselines every 15 minutes outside the publish minute. Clean isolated rebases are rebuilt and restaged; conflicts are aborted and explicitly recorded, never overwritten. Transient failures retry with a 15-minute cooldown. An executor-wide flock prevents overlap. Source limits and content failures do not trigger partial publication.
-
-## Operations
-
-`golfcut-seo-daily.timer` invokes the sole executor. Read `systemctl status golfcut-seo-daily.timer`, `systemctl show golfcut-seo-daily.service -p Result -p ExecMainStatus`, and journal logs. Unit templates are in `systemd/`. Credentials are inherited from the existing restricted CLI login and never enter receipts or source control. Use verified 112:7890; source collection checks fallback 110:10808. Publication errors are recorded for retry; no group notifications are sent.
+Before the user's Semrush correction, 2,000 video-reference pages were published on 2026-11-24. They and their statuses remain intact. Another 2,000-page video batch was built/staged but not promoted; it is sealed in `2026-11-25-video-batch-preserved.json`. The old `source_cache.py`/video renderer are historical material only and are not wired into prepare/schedule/release. Official video titles are not a substitute for Semrush keywords.

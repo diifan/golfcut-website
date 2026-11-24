@@ -1,40 +1,20 @@
-# Controller Semrush handoff (2026-11-24 correction)
+# GolfCut controller handoff — implemented contract
 
-Controller owns `production/keyword-expansion`; executor never writes there.
-Supply two absolute paths: `keywords.csv` and `source-manifest.json`. Bind them in:
-`/data/swi-algo/Swi-IP-Config/swie-app-mac/data/tracer-daily-golfcut/input-binding.json`
+Controller-owned inputs (read-only):
+- `/data/swi-algo/Swi-App-Factory/GolfCut/production/keyword-expansion/keywords.csv`
+- same directory `manifest.json`, `config.json`, original CSV exports and `run.lock`.
 
-```json
-{"keywords_csv":"/absolute/path/keywords.csv","source_manifest":"/absolute/path/source-manifest.json"}
-```
+CSV: `keyword,status,url,batch_id,source,volume,kd,evidence_url,metric_timestamp,source_sha256`.
+Manifest `sources`: `path,sha256,rows`. Each preparation reads the current CSV/manifest and all referenced export hashes under a shared producer lock, then rechecks stability after evidence collection. No initial hash is pinned. Every accepted keyword/KD/volume/evidence_url tuple must exist in its original CSV export; a valid file hash alone cannot authenticate a forged row. Strict thresholds: `0 <= KD < 30`, `volume > 100`.
 
-This is an input-path binding, not a second schedule configuration. Daily mutable settings remain exclusively in `config.json`.
+Use `evidence_url` to fetch, not `source` or `url`. Source is the immutable original export. Only HTTPS on domains registered in controller `config.json` (and their www variants) is allowed, with public DNS, no credentials/unusual ports, checked redirects, maximum five redirects and 2 MB decompressed response. Eight bounded fetch workers and cached errors prevent repeated pressure. Source/title/keyword intent and golf relevance are checked before capacity is counted. Equivalent normalized intents and source paths are deduplicated.
 
-CSV required fields: `keyword,kd,volume,source_url` (aliases `Keyword,Keyword Difficulty,Search Volume,URL` supported; `url` accepted). Metrics must be numeric. Accept only **0 <= KD < 30 and volume > 100**. Exactly 30 or 100 fail. No fabricated metrics, blank metrics, video titles masquerading as keyword research, or basketball substitutions.
+Own state: `/data/swi-algo/Swi-IP-Config/swie-app-mac/data/tracer-daily-golfcut/semrush-keyword-state.json` and `keyword-pool.lock`. Imports preserve published/reserved status; no producer CSV or manifest writes. The only permitted output inside the controller directory is `capacity.json` with Unix `checked_at` and verified unoccupied `eligible_available`.
 
-Manifest contract:
-```json
-{
-  "keywords_sha256":"SHA256 of keywords.csv",
-  "sources":[{"provider":"semrush","local_path":"/original/export.csv","sha256":"SHA256 of export","database":"us","exported_at":"ISO date"}],
-  "evidence":{
-    "normalized keyword":{
-      "url":"https://the-corresponding-ranking-source/page",
-      "title":"Fetched source title",
-      "text":"Fetched source text (at least 200 characters)",
-      "sport":"golf",
-      "tracer_relevance":"Specific relationship between the keyword intent, source and usable golf video/tracer workflow"
-    }
-  }
-}
-```
-Evidence may instead be a list of records carrying `keyword`, or an external JSON specified by `evidence_file` and `evidence_sha256`. If controller already has another schema, provide a real sample and this executor adapter will map it; do not duplicate or modify the source exports to fit this proposal. Source hashes, keyword metrics and evidence references must remain traceable.
+`input-binding.json` binds paths; it is not a duplicate schedule. All mutable schedule/target settings remain in `config.json`. Empty/short pools produce `insufficient_keywords`, with `source_state=source_quota_blocked` when the producer reports report limits. They never generate, stage or publish a partial batch. The executor does not call Semrush or force retries; the producer owns its six-hour cooldown.
 
-The executor normalizes NFKC/whitespace/case; preserves prior Semrush published/reserved states in `semrush-keyword-state.json`; excludes historical video identities without changing their states; checks metric thresholds, source hash integrity, URL consistency, golf relevance and keyword/evidence alignment. Missing evidence is counted separately from threshold failures and duplicates. Import result is `input-import-receipt.json`.
+`keyword_pages.py` now renders actual accepted keywords into `/golf-guides`, paginated indexes, source references, recording worksheets and existing tracer links; runs the original Bun build; and commits in an isolated keyword worktree. `release.py` stages only exact validated Semrush batches to the original project, checks main and identity, then promotes and verifies sitemap/HTML before marking published. Existing worker, API, brand, privacy and legacy pages stay intact.
 
-Current release status:
-- 2026-11-24: 2,000 video-reference pages already published before correction; preserve them and their original receipts/pool states.
-- 2026-11-25: 2,000 video-reference pages built/staged but **not promoted**; preserved under `2026-11-25-video-batch-preserved.json`. New policy blocks staging/promotion of this input kind, including manual release commands.
-- Future accepted input must be `semrush_keywords_v1`. The first real CSV/evidence sample is needed to complete source-specific page-writer integration and verify it. Import validation is executable now; it is not a claim that a Semrush batch has been generated or published.
+Fixtures live exclusively under `/tmp/golfcut-semrush-TEST-FIXTURE-*`. They carry fixture flags and visible HTML markers. Stage/publish reject them before network operations. The release-flow test separately mocks all Git/Vercel/HTTP transports; mocked publication is not a real deployment. See `semrush-fixture-build-result.json` and tests.
 
-There is no video fallback. Do not promote legacy prebuilt versions to meet a quota. Keep existing domain/project, homepage, 25 styles, worker/API and privacy unchanged.
+Historical state: 2,000 video-reference pages were already published before the correction and remain preserved. The unpublished 2,000-page next-day video batch is sealed. No additional video-title batch may publish.

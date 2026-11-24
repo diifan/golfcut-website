@@ -1,24 +1,71 @@
-import unittest,tempfile,csv,json,hashlib
+import unittest,tempfile,csv,json,hashlib,socket
 from pathlib import Path
-from unittest.mock import patch
+from unittest.mock import patch,MagicMock
 import keyword_input as k
 from release import check_manifest
 class Tests(unittest.TestCase):
- def test_video_release_blocked(self):
-  with self.assertRaisesRegex(RuntimeError,'disabled for video'):check_manifest({'input_kind':'video'})
- def test_missing_binding_waits(self):
-  with tempfile.TemporaryDirectory() as d,patch.object(k,'HOME',Path(d)):
-   with self.assertRaises(k.InputPending):k.load_candidates('2026-11-25')
- def test_strict_thresholds_dedup_preservation(self):
-  with tempfile.TemporaryDirectory() as d,patch.object(k,'HOME',Path(d)),patch.object(k,'progress'):
-   home=Path(d);p=home/'keywords.csv'
-   rows=[['golf shot tracer','29','101','https://example.test/golf'],[' golf   SHOT tracer ','20','1000','https://example.test/golf'],['golf swing video','30','1000','https://example.test/golf'],['golf filming','10','100','https://example.test/golf'],['golf camera','10','200','https://example.test/missing']]
-   with p.open('w') as f:
-    w=csv.writer(f);w.writerow(['keyword','kd','volume','source_url']);w.writerows(rows)
-   sha=hashlib.sha256(p.read_bytes()).hexdigest();m=home/'manifest.json'
-   m.write_text(json.dumps({'keywords_sha256':sha,'sources':[{'provider':'semrush','local_path':str(p),'sha256':sha}],'evidence':{'golf shot tracer':{'url':'https://example.test/golf','title':'Golf shot tracer','text':'Golf shot tracer recording and ball visibility. '*10,'sport':'golf','tracer_relevance':'Golf recording'}}}))
-   (home/'input-binding.json').write_text(json.dumps({'keywords_csv':str(p),'source_manifest':str(m)}))
-   pool=k.load_candidates('2026-11-25');self.assertEqual(len(pool),1);identifier=next(iter(pool));pool[identifier]['status']='published';(home/'semrush-keyword-state.json').write_text(json.dumps(pool))
-   self.assertEqual(k.load_candidates('2026-11-25')[identifier]['status'],'published')
-   receipt=json.loads((home/'input-import-receipt.json').read_text());self.assertEqual(receipt['counts']['metric_rejected'],2);self.assertEqual(receipt['counts']['evidence_pending'],1)
+ def setUp(self):
+  self.tmp=tempfile.TemporaryDirectory();self.home=Path(self.tmp.name);self.patches=[patch.object(k,'HOME',self.home),patch.object(k,'SOURCE_ROOT',self.home),patch.object(k,'progress')]
+  for p in self.patches:p.start()
+  (self.home/'run.lock').touch();(self.home/'config.json').write_text(json.dumps({'domains':['example.test']}))
+ def tearDown(self):
+  for p in reversed(self.patches):p.stop()
+  self.tmp.cleanup()
+ def files(self,records):
+  source=self.home/'original.csv'
+  with source.open('w') as f:
+   w=csv.writer(f);w.writerow(['Keyword','Keyword Difficulty','Search Volume','URL']);w.writerows(records)
+  sha=k.digest(source);p=self.home/'keywords.csv'
+  with p.open('w') as f:
+   w=csv.DictWriter(f,fieldnames=['keyword','status','url','batch_id','source','volume','kd','evidence_url','metric_timestamp','source_sha256']);w.writeheader()
+   for word,kd,vol,url in records:w.writerow({'keyword':word,'status':'available','source':str(source),'volume':vol,'kd':kd,'evidence_url':url,'metric_timestamp':'TEST FIXTURE','source_sha256':sha})
+  (self.home/'manifest.json').write_text(json.dumps({'app':'golfcut','sport':'golf','sources':[{'path':str(source),'sha256':sha,'rows':len(records)}]}));return p
+ def evidence(self,url):return {'ok':True,'url':url,'resolved_url':url,'title':'Golf shot tracer camera swing video guide','text':('Golf shot tracer camera swing video recording and ball visibility. '*12),'sha256':'fixture-hash','checked_at':0}
+ def test_video_and_fixture_release_blocked(self):
+  for r in [{'input_kind':'video'},{'input_kind':'semrush_keywords_v1','test_fixture':True}]:
+   with self.assertRaises(RuntimeError):check_manifest(r)
+ def test_empty_then_incremental(self):
+  self.files([]);self.assertEqual(k.load_candidates('2099-01-01'),{})
+  self.files([['golf shot tracer',29,101,'https://example.test/a']])
+  with patch.object(k,'fetch_evidence',side_effect=self.evidence):self.assertEqual(len(k.load_candidates('2099-01-01')),1)
+  self.assertEqual(json.loads((self.home/'capacity.json').read_text())['eligible_available'],1)
+ def test_strict_thresholds(self):
+  self.files([['golf shot tracer',29,101,'https://example.test/a'],['golf camera',30,999,'https://example.test/b'],['golf swing',10,100,'https://example.test/c']])
+  with patch.object(k,'fetch_evidence',side_effect=self.evidence):self.assertEqual(len(k.load_candidates('2099-01-01')),1)
+ def test_forged_row(self):
+  p=self.files([['golf shot tracer',20,200,'https://example.test/a']]);s=p.read_text().replace(',200,20,',',999,20,');p.write_text(s)
+  with self.assertRaisesRegex(ValueError,'Forged'):k.load_candidates('2099-01-01')
+ def test_forged_url(self):
+  p=self.files([['golf shot tracer',20,200,'https://example.test/a']]);p.write_text(p.read_text().replace('https://example.test/a','https://example.test/b'))
+  with self.assertRaisesRegex(ValueError,'Forged'):k.load_candidates('2099-01-01')
+ def test_preserve_reservation_and_dedupe_source(self):
+  self.files([['golf shot tracer',20,200,'https://example.test/a'],['golf tracer camera',20,150,'https://example.test/a']])
+  with patch.object(k,'fetch_evidence',side_effect=self.evidence):
+   pool=k.load_candidates('2099-01-01');self.assertEqual(len(pool),1);i=next(iter(pool));pool[i].update(status='reserved',batch='2099-01-01');(self.home/'semrush-keyword-state.json').write_text(json.dumps(pool));again=k.load_candidates('2099-01-01');self.assertEqual(again[i]['status'],'reserved');self.assertEqual(json.loads((self.home/'capacity.json').read_text())['eligible_available'],0)
+ def test_source_hash_tampering(self):
+  self.files([['golf shot tracer',20,200,'https://example.test/a']]);(self.home/'original.csv').write_text('tampered')
+  with self.assertRaisesRegex(ValueError,'hash mismatch'):k.load_candidates('2099-01-01')
+ def test_concurrent_snapshot_change(self):
+  p=self.files([['golf shot tracer',20,200,'https://example.test/a']])
+  def changing(url):p.write_text(p.read_text()+'\n');return self.evidence(url)
+  with patch.object(k,'fetch_evidence',side_effect=changing):
+   with self.assertRaises(k.InputPending):k.load_candidates('2099-01-01')
+  self.assertFalse((self.home/'semrush-keyword-state.json').exists())
+ def test_equivalent_intent(self):
+  self.files([['golf shot tracer',20,200,'https://example.test/a'],['best golf shot tracer',20,150,'https://example.test/b']])
+  with patch.object(k,'fetch_evidence',side_effect=self.evidence):self.assertEqual(len(k.load_candidates('2099-01-01')),1)
+ def test_unsafe_urls(self):
+  for url in ['http://example.test/a','https://127.0.0.1/a','https://example.test.evil.test/a','https://user:pass@example.test/a','https://example.test:8080/a']:
+   with self.assertRaises(ValueError):k.allowed_url(url)
+ def test_private_dns(self):
+  with patch.object(socket,'getaddrinfo',return_value=[(2,1,6,'',('127.0.0.1',443))]):
+   with self.assertRaises(ValueError):k.allowed_url('https://example.test/a')
+ def test_unsafe_redirect(self):
+  response=MagicMock();response.__enter__.return_value=response;response.status_code=302;response.headers={'Location':'https://127.0.0.1/private'}
+  with patch.object(socket,'getaddrinfo',return_value=[(2,1,6,'',('93.184.216.34',443))]),patch.object(k.requests,'Session') as session:
+   session.return_value.get.return_value=response;r=k.fetch_evidence('https://example.test/a');self.assertFalse(r['ok']);self.assertEqual(session.return_value.get.call_count,2)
+ def test_stream_limit(self):
+  response=MagicMock();response.__enter__.return_value=response;response.status_code=200;response.headers={'Content-Type':'text/html'};response.iter_content.side_effect=lambda n:iter([b'x'*1000000]*3)
+  with patch.object(socket,'getaddrinfo',return_value=[(2,1,6,'',('93.184.216.34',443))]),patch.object(k.requests,'Session') as session:
+   session.return_value.get.return_value=response;r=k.fetch_evidence('https://example.test/a');self.assertFalse(r['ok']);self.assertIn('byte limit',r['error'])
 if __name__=='__main__':unittest.main()

@@ -1,5 +1,5 @@
 """Stage validated production deployment, promote only ready immutable batch, verify and fast-forward Git."""
-import subprocess,os,json,re,time,hashlib,concurrent.futures,requests
+import subprocess,os,json,re,time,hashlib,concurrent.futures,requests,fcntl
 from zoneinfo import ZoneInfo
 from common import *
 from prepare import run
@@ -8,14 +8,20 @@ def cli(args,work):return run([VC]+args+['--scope',SCOPE],work)
 def api(path,work):
  text=cli(['api',path],work);start=text.find('{');return json.loads(text[start:])
 def check_manifest(r):
+ if r.get('test_fixture'):raise RuntimeError('TEST FIXTURE cannot stage or publish')
  if r.get('input_kind')!='semrush_keywords_v1':raise RuntimeError('Publication disabled for video-title batches; a validated Semrush keyword batch is required')
+ if not r.get('target') or r.get('validated_count')!=r['target'] or r.get('generated_count')!=r['target'] or not r.get('pages_path'):raise RuntimeError('Empty or incomplete keyword batch cannot stage/publish')
  p=Path(r['pages_path'])
  if hashlib.sha256(p.read_bytes()).hexdigest()!=r['pages_sha256']:raise RuntimeError('Batch manifest changed')
  rows=read(p)
  if len(rows)!=r['target'] or r['validated_count']!=r['target']:raise RuntimeError('Batch not fully validated')
  work=Path(r['worktree'])
+ if r.get('page_prefix')!='/golf-guides':raise RuntimeError('Unexpected page namespace')
+ if any(row.get('test_fixture') for row in rows):raise RuntimeError('TEST FIXTURE cannot stage or publish')
+ if any(not (0<=row.get('kd',100)<30 and row.get('volume',0)>100) for row in rows):raise RuntimeError('Unqualified keyword metric in manifest')
  for row in rows:
-  f=work/'public/shot-library'/row['slug']/'index.html'
+  f=work/'public/golf-guides'/row['slug']/'index.html'
+  if b'TEST FIXTURE' in f.read_bytes():raise RuntimeError('TEST FIXTURE cannot stage or publish')
   if hashlib.sha256(f.read_bytes()).hexdigest()!=row['file_sha256']:raise RuntimeError('Validated page changed')
  return rows
 
@@ -58,10 +64,10 @@ def publish(day,immediate=False):
  if alias.get('deploymentId')!=r['deployment_id']:raise RuntimeError('Production alias does not point to prepared deployment')
  progress(day,state='verifying')
  session=requests.Session();session.proxies={'https':'http://127.0.0.1:7890'}
- sm=session.get(ORIGIN+'/sitemap.xml',timeout=40);sm.raise_for_status();urls=set(re.findall(r'<loc>(.*?)</loc>',sm.text));expected={ORIGIN+'/shot-library/'+x['slug'] for x in rows}
+ sm=session.get(ORIGIN+'/sitemap.xml',timeout=40);sm.raise_for_status();urls=set(re.findall(r'<loc>(.*?)</loc>',sm.text));expected={ORIGIN+'/golf-guides/'+x['slug'] for x in rows}
  if not expected.issubset(urls):raise RuntimeError('Live sitemap missing batch URLs')
  def verify(row):
-  url=ORIGIN+'/shot-library/'+row['slug']
+  url=ORIGIN+'/golf-guides/'+row['slug']
   for attempt in range(3):
    try:
     res=session.get(url,timeout=30);res.raise_for_status()
@@ -81,9 +87,11 @@ def publish(day,immediate=False):
  if base!=r['commit']:run(['git','-c','http.proxy=http://127.0.0.1:7890','push','origin',r['commit']+':refs/heads/main'],work)
  remote=run(['git','-c','http.proxy=http://127.0.0.1:7890','ls-remote','origin','refs/heads/main'],work).split()[0]
  if remote!=r['commit']:raise RuntimeError('Git remote commit verification failed')
- pool=read(HOME/'keywords.json',{})
- for row in rows:pool[row['video_id']].update(status='published',published_at=now(),url=ORIGIN+'/shot-library/'+row['slug'])
- save(HOME/'keywords.json',pool)
+ with (HOME/'keyword-pool.lock').open('a') as lock:
+  fcntl.flock(lock,fcntl.LOCK_EX)
+  pool=read(HOME/'semrush-keyword-state.json',{})
+  for row in rows:pool[row['keyword_id']].update(status='published',published_at=now(),url=ORIGIN+'/golf-guides/'+row['slug'])
+  save(HOME/'semrush-keyword-state.json',pool)
  return progress(day,state='published',published_count=len(rows),live_verified_count=verified,blockers=[],checks={**r.get('checks',{}),'live_sitemap_batch_count':len(expected&urls),'live_html_hash_count':verified,'vercel_project':PID,'alias_deployment_id':r['deployment_id'],'github_main':remote},public_examples=list(sorted(expected))[:3])
 if __name__=='__main__':
  import argparse,fcntl

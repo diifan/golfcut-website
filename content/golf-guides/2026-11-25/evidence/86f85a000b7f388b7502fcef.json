@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8b4c8b0-86ac-11e4-8c28-020000005b00/north-hills-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8b4c8b0-86ac-11e4-8c28-020000005b00/north-hills-country-club",
+  "checked_at": 1795524811.4417481,
+  "sha256": "5b994bf58544fdc202ca82f7b7d9b6ffe84d801c2744b3d7323fddf14360f5d2",
+  "title": "Golf North Hills - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b8b4c8b0-86ac-11e4-8c28-020000005b00",
+    "name": "Golf North Hills",
+    "address": "94 Co Rd 776 Jonesboro, AR",
+    "courses": [
+      {
+        "name": "Golf North Hills 18 holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5944,
+            "par": 70,
+            "rating": 67.2,
+            "slope": 113
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5944,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5072,
+            "par": 70,
+            "rating": 64.1,
+            "slope": 107
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5072,
+            "par": 70,
+            "rating": 65.1,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4064,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4064,
+            "par": 70,
+            "rating": 64.1,
+            "slope": 101
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8b4c8b0-86ac-11e4-8c28-020000005b00/north-hills-country-club"
+  }
+}

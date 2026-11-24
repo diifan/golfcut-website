@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/97696080-86ac-11e4-8c28-020000005b00/lake-ridge",
+  "resolved_url": "https://18birdies.com/golf-courses/club/97696080-86ac-11e4-8c28-020000005b00/lake-ridge",
+  "checked_at": 1795524140.5226786,
+  "sha256": "a3663bf008080e2708a6540361e212ae9f13a887af521cab96dfc0ba6bdd50c0",
+  "title": "LakeRidge - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "97696080-86ac-11e4-8c28-020000005b00",
+    "name": "LakeRidge",
+    "address": "1218 Golf Club Dr Reno, NV 89519",
+    "courses": [
+      {
+        "name": "LakeRidge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Jones",
+            "category": "MALE",
+            "yards": 6715,
+            "par": 71,
+            "rating": 71.6,
+            "slope": 134
+          },
+          {
+            "name": "Jones",
+            "category": "FEMALE",
+            "yards": 6715,
+            "par": 71,
+            "rating": 77.6,
+            "slope": 138
+          },
+          {
+            "name": "Lake ridge",
+            "category": "MALE",
+            "yards": 6141,
+            "par": 71,
+            "rating": 68.3,
+            "slope": 130
+          },
+          {
+            "name": "Lake ridge",
+            "category": "FEMALE",
+            "yards": 6141,
+            "par": 71,
+            "rating": 73.9,
+            "slope": 137
+          },
+          {
+            "name": "Manna",
+            "category": "MALE",
+            "yards": 5472,
+            "par": 71,
+            "rating": 64.7,
+            "slope": 124
+          },
+          {
+            "name": "Manna",
+            "category": "FEMALE",
+            "yards": 5472,
+            "par": 71,
+            "rating": 68.8,
+            "slope": 127
+          },
+          {
+            "name": "Nevada",
+            "category": "MALE",
+            "yards": 5156,
+            "par": 71,
+            "rating": 63.4,
+            "slope": 120
+          },
+          {
+            "name": "Nevada",
+            "category": "FEMALE",
+            "yards": 5156,
+            "par": 71,
+            "rating": 67.1,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/97696080-86ac-11e4-8c28-020000005b00/lake-ridge"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad3fe460-86ac-11e4-8c28-020000005b00/moon-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad3fe460-86ac-11e4-8c28-020000005b00/moon-golf-club",
+  "checked_at": 1795524133.4755607,
+  "sha256": "2017d2ba67278d1321c778ffae800bd4772f754813e8109c956df7118acb3c16",
+  "title": "Moon Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ad3fe460-86ac-11e4-8c28-020000005b00",
+    "name": "Moon Golf Club",
+    "address": "505 McCormick Road",
+    "courses": [
+      {
+        "name": "Moon",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5789,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5789,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5472,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5472,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4877,
+            "par": 72,
+            "rating": 64,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4877,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad3fe460-86ac-11e4-8c28-020000005b00/moon-golf-club"
+  }
+}

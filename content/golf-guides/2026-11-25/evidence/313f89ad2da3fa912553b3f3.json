@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/06257700-29b6-11ef-8e8b-06780482e2ce/green-valley-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/06257700-29b6-11ef-8e8b-06780482e2ce/green-valley-golf-club",
+  "checked_at": 1795524865.500225,
+  "sha256": "c5b25644d94e1fc051ef4dd7067c7ed609bc7eee6ad9119dfc869fbbdde7350d",
+  "title": "Green Valley Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "06257700-29b6-11ef-8e8b-06780482e2ce",
+    "name": "Green Valley Golf Club",
+    "address": "4420 Dresden Rd, Zanesville, OH",
+    "courses": [
+      {
+        "name": "Green Valley Golf Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2856,
+            "par": 59,
+            "rating": 53.7,
+            "slope": 104
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2856,
+            "par": 59,
+            "rating": 55.40684,
+            "slope": 82.80284
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2591,
+            "par": 59,
+            "rating": 54.30974,
+            "slope": 81.50699
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2591,
+            "par": 59,
+            "rating": 54.8,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/06257700-29b6-11ef-8e8b-06780482e2ce/green-valley-golf-club"
+  }
+}

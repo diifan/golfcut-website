@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ae46bc0-86ac-11e4-8c28-020000005b00/lake-arlington-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ae46bc0-86ac-11e4-8c28-020000005b00/lake-arlington-golf-course",
+  "checked_at": 1795524517.0458155,
+  "sha256": "ab43b5191fb201c550d6b28c4c14c9e78b242c7ad05ba983b2679b4379f21173",
+  "title": "Lake Arlington Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8ae46bc0-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Arlington Golf Course",
+    "address": "1516 W Green Oaks Blvd",
+    "courses": [
+      {
+        "name": "Lake Arlington",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6635,
+            "par": 71,
+            "rating": 72,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6635,
+            "par": 71,
+            "rating": 77.9,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6203,
+            "par": 71,
+            "rating": 70,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6203,
+            "par": 71,
+            "rating": 75.6,
+            "slope": 124
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5525,
+            "par": 71,
+            "rating": 66.8,
+            "slope": 108
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5525,
+            "par": 71,
+            "rating": 71.8,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5350,
+            "par": 71,
+            "rating": 65.9,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5350,
+            "par": 71,
+            "rating": 70.8,
+            "slope": 114
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 4496,
+            "par": 71,
+            "rating": 62.2,
+            "slope": 103
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 4496,
+            "par": 71,
+            "rating": 66,
+            "slope": 104
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ae46bc0-86ac-11e4-8c28-020000005b00/lake-arlington-golf-course"
+  }
+}

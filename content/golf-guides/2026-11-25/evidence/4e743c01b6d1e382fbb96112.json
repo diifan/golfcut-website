@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b950e1a0-86ac-11e4-8c28-020000005b00/minor-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b950e1a0-86ac-11e4-8c28-020000005b00/minor-park-golf-course",
+  "checked_at": 1795524877.5970209,
+  "sha256": "1c51de060da1ece70f4cf6d8098056430f063fe7d72732b7c0648866c76d34ca",
+  "title": "Minor Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b950e1a0-86ac-11e4-8c28-020000005b00",
+    "name": "Minor Park Golf Course",
+    "address": "11215 Holmes Rd, Kansas City, MO",
+    "courses": [
+      {
+        "name": "Minor Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5624,
+            "par": 70,
+            "rating": 66.1,
+            "slope": 113
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5624,
+            "par": 71,
+            "rating": 71.8,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5299,
+            "par": 70,
+            "rating": 65.9,
+            "slope": 103
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5299,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4790,
+            "par": 70,
+            "rating": 63.7,
+            "slope": 98
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4790,
+            "par": 71,
+            "rating": 66.7,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b950e1a0-86ac-11e4-8c28-020000005b00/minor-park-golf-course"
+  }
+}

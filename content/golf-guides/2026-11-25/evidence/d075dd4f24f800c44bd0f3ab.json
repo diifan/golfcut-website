@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2870ed0-86ac-11e4-8c28-020000005b00/the-fortress-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2870ed0-86ac-11e4-8c28-020000005b00/the-fortress-golf-course",
+  "checked_at": 1795524032.1026096,
+  "sha256": "545e2a57fc3d5d5fefbcecc7ff98600004d6e15c5baec068b34385dab4bc6fa6",
+  "title": "The Fortress Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b2870ed0-86ac-11e4-8c28-020000005b00",
+    "name": "The Fortress Golf Course",
+    "address": "950 Flint St",
+    "courses": [
+      {
+        "name": "The Fortress",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6840,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 142
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6840,
+            "par": 72,
+            "rating": 78.3,
+            "slope": 139
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6271,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 139
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6271,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 133
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 4837,
+            "par": 72,
+            "rating": 64.3,
+            "slope": 115
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 4837,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 129
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2870ed0-86ac-11e4-8c28-020000005b00/the-fortress-golf-course"
+  }
+}

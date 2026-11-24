@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b53abd20-86ac-11e4-8c28-020000005b00/brown-county-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b53abd20-86ac-11e4-8c28-020000005b00/brown-county-golf-course",
+  "checked_at": 1795524158.2243135,
+  "sha256": "c3aa74453c11b266bb0d18b014c696a790eccac92b341bb426425056eb6c7665",
+  "title": "Brown County Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b53abd20-86ac-11e4-8c28-020000005b00",
+    "name": "Brown County Golf Course",
+    "address": "897 Riverdale Dr, Oneida",
+    "courses": [
+      {
+        "name": "Brown County",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6749,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6749,
+            "par": 73,
+            "rating": 77.8,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6392,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6392,
+            "par": 73,
+            "rating": 76.6,
+            "slope": 134
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5675,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5675,
+            "par": 73,
+            "rating": 72.6,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5954,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5954,
+            "par": 73,
+            "rating": 74,
+            "slope": 130
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b53abd20-86ac-11e4-8c28-020000005b00/brown-county-golf-course"
+  }
+}

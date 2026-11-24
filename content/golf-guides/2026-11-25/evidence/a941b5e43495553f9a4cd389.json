@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/82bf0090-86ac-11e4-8c28-020000005b00/tanna-farms",
+  "resolved_url": "https://18birdies.com/golf-courses/club/82bf0090-86ac-11e4-8c28-020000005b00/tanna-farms",
+  "checked_at": 1795523852.2017157,
+  "sha256": "7e29cbf1e9f5bcc4f2781bb889c7153684909e56ce7effb453f8689b74e9c619",
+  "title": "Tanna Farms - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "82bf0090-86ac-11e4-8c28-020000005b00",
+    "name": "Tanna Farms",
+    "address": "39W808 Hughes Rd",
+    "courses": [
+      {
+        "name": "Tanna Farms",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6510,
+            "par": 71,
+            "rating": 71.8,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6033,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5437,
+            "par": 71,
+            "rating": 66.9,
+            "slope": 117
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4727,
+            "par": 71,
+            "rating": 66.4,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/82bf0090-86ac-11e4-8c28-020000005b00/tanna-farms"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b850d6c0-86ac-11e4-8c28-020000005b00/warwick-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b850d6c0-86ac-11e4-8c28-020000005b00/warwick-country-club",
+  "checked_at": 1795524009.192897,
+  "sha256": "0d0b524ffe921776dc184866a808194ac779cb75f0a46ba0b9309cb3877add91",
+  "title": "Warwick Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b850d6c0-86ac-11e4-8c28-020000005b00",
+    "name": "Warwick Country Club",
+    "address": "394 Narragansett Bay Avenue, Warwick, RI",
+    "courses": [
+      {
+        "name": "Warwick CC",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6467,
+            "par": 69,
+            "rating": 71.7,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6467,
+            "par": 73,
+            "rating": 76.3,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6269,
+            "par": 69,
+            "rating": 70.9,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6269,
+            "par": 73,
+            "rating": 76.9,
+            "slope": 134
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5815,
+            "par": 69,
+            "rating": 66.9,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5815,
+            "par": 73,
+            "rating": 72.4,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b850d6c0-86ac-11e4-8c28-020000005b00/warwick-country-club"
+  }
+}

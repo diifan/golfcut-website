@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ced82a50-6cab-11e7-932b-0680a328ea36/tpc-wisconsin",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ced82a50-6cab-11e7-932b-0680a328ea36/tpc-wisconsin",
+  "checked_at": 1795524839.575608,
+  "sha256": "0b5f6cc6931cf7d9d07acaa41caf0cbefbcdbd64071a709c9ea8b5c81431d83b",
+  "title": "TPC Wisconsin - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ced82a50-6cab-11e7-932b-0680a328ea36",
+    "name": "TPC Wisconsin",
+    "address": "5000 N Sherman Avenue, Madison, WI",
+    "courses": [
+      {
+        "name": "TPC Wisconsin",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "I",
+            "category": "MALE",
+            "yards": 7226,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 140
+          },
+          {
+            "name": "I",
+            "category": "FEMALE",
+            "yards": 7226,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 6770,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 135
+          },
+          {
+            "name": "II",
+            "category": "FEMALE",
+            "yards": 6770,
+            "par": 72,
+            "rating": 79.7,
+            "slope": 144
+          },
+          {
+            "name": "III",
+            "category": "MALE",
+            "yards": 6142,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 128
+          },
+          {
+            "name": "III",
+            "category": "FEMALE",
+            "yards": 6142,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 136
+          },
+          {
+            "name": "IV",
+            "category": "MALE",
+            "yards": 5398,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 121
+          },
+          {
+            "name": "IV",
+            "category": "FEMALE",
+            "yards": 5398,
+            "par": 72,
+            "rating": 72,
+            "slope": 128
+          },
+          {
+            "name": "V",
+            "category": "MALE",
+            "yards": 4642,
+            "par": 72,
+            "rating": 64.1,
+            "slope": 115
+          },
+          {
+            "name": "V",
+            "category": "FEMALE",
+            "yards": 4642,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ced82a50-6cab-11e7-932b-0680a328ea36/tpc-wisconsin"
+  }
+}

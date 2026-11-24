@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/aee72bc0-86ac-11e4-8c28-020000005b00/brainerd-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/aee72bc0-86ac-11e4-8c28-020000005b00/brainerd-golf-course",
+  "checked_at": 1795524191.724501,
+  "sha256": "19146b86264651d5c2d2fcf1e3a7dc998c554ba8537330bd869292740384133d",
+  "title": "Brainerd Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "aee72bc0-86ac-11e4-8c28-020000005b00",
+    "name": "Brainerd Golf Course",
+    "address": "5203 Old Mission Rd, Chattanooga, Tennessee",
+    "courses": [
+      {
+        "name": "Brainerd",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6470,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6470,
+            "par": 72,
+            "rating": 76.3,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6118,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6118,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5536,
+            "par": 72,
+            "rating": 66.9,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5536,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4962,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4962,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/aee72bc0-86ac-11e4-8c28-020000005b00/brainerd-golf-course"
+  }
+}

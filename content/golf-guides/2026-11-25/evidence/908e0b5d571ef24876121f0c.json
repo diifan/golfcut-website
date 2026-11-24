@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6ea1ad0-86ac-11e4-8c28-020000005b00/honey-creek-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6ea1ad0-86ac-11e4-8c28-020000005b00/honey-creek-golf-club",
+  "checked_at": 1795524113.1632044,
+  "sha256": "bf1a4ae4b0cec9d831292a1dfd427edede99d3159f6cec6398dcc316c1bbabc1",
+  "title": "Honey Creek Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6ea1ad0-86ac-11e4-8c28-020000005b00",
+    "name": "Honey Creek Golf Club",
+    "address": "1323 Noble Lynx Dr, Boone, IA",
+    "courses": [
+      {
+        "name": "Honey Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6808,
+            "par": 71,
+            "rating": 74.2,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6294,
+            "par": 71,
+            "rating": 71.7,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5882,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 122
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5517,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4957,
+            "par": 71,
+            "rating": 67.5,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6ea1ad0-86ac-11e4-8c28-020000005b00/honey-creek-golf-club"
+  }
+}

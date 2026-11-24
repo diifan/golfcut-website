@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95559bb0-86ac-11e4-8c28-020000005b00/cape-ann-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95559bb0-86ac-11e4-8c28-020000005b00/cape-ann-golf-course",
+  "checked_at": 1795523952.099189,
+  "sha256": "e6c4a9c85911c5fa2d09db66fff79d046eb8ad9787a13e471cabb473a48aa325",
+  "title": "Cape Ann Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95559bb0-86ac-11e4-8c28-020000005b00",
+    "name": "Cape Ann Golf Course",
+    "address": "99 John Wise Avenue, Essex, MA",
+    "courses": [
+      {
+        "name": "Cape Ann (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2826,
+            "par": 34,
+            "rating": 33.5,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2826,
+            "par": 34,
+            "rating": 36.7,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3036,
+            "par": 34,
+            "rating": 34.9,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3036,
+            "par": 34,
+            "rating": 37.4,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2212,
+            "par": 34,
+            "rating": 32.5,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2212,
+            "par": 34,
+            "rating": 32.7,
+            "slope": 111
+          }
+        ]
+      },
+      {
+        "name": "Cape Ann (18 Holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5652,
+            "par": 68,
+            "rating": 67,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5652,
+            "par": 68,
+            "rating": 73.4,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6072,
+            "par": 68,
+            "rating": 69.8,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6072,
+            "par": 68,
+            "rating": 74.8,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4424,
+            "par": 68,
+            "rating": 65.1,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4424,
+            "par": 68,
+            "rating": 65.4,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95559bb0-86ac-11e4-8c28-020000005b00/cape-ann-golf-course"
+  }
+}

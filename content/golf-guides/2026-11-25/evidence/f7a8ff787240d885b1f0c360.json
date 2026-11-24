@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/aee7c800-86ac-11e4-8c28-020000005b00/brown-acres-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/aee7c800-86ac-11e4-8c28-020000005b00/brown-acres-golf-course",
+  "checked_at": 1795523992.414888,
+  "sha256": "406cca0cff591595e196affe6d0fb2ed9c4ae4f6cf0210bde135f8fcf4c22cd0",
+  "title": "Brown Acres Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "aee7c800-86ac-11e4-8c28-020000005b00",
+    "name": "Brown Acres Golf Course",
+    "address": "406 Brown Rd",
+    "courses": [
+      {
+        "name": "Brown Acres",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6742,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6060,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5465,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4934,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/aee7c800-86ac-11e4-8c28-020000005b00/brown-acres-golf-course"
+  }
+}

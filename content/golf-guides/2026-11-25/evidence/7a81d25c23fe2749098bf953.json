@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/1875b820-cc8a-11e6-b63c-0680a328ea36/bluejack-national",
+  "resolved_url": "https://18birdies.com/golf-courses/club/1875b820-cc8a-11e6-b63c-0680a328ea36/bluejack-national",
+  "checked_at": 1795523710.3122334,
+  "sha256": "c3c690b5473626a101807e0068421f0ab54abd3c2f9e9917a2569f26c76e5b8a",
+  "title": "Bluejack National - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "1875b820-cc8a-11e6-b63c-0680a328ea36",
+    "name": "Bluejack National",
+    "address": "4430 South FM 1486, Montgomery, TX",
+    "courses": [
+      {
+        "name": "Bluejack National",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Tee 1",
+            "category": "MALE",
+            "yards": 6959,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 129
+          },
+          {
+            "name": "Tee 1",
+            "category": "FEMALE",
+            "yards": 6959,
+            "par": 72,
+            "rating": 79.7,
+            "slope": 142
+          },
+          {
+            "name": "Tiger",
+            "category": "MALE",
+            "yards": 7552,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 135
+          },
+          {
+            "name": "Tiger",
+            "category": "FEMALE",
+            "yards": 7552,
+            "par": 72,
+            "rating": 82.9,
+            "slope": 150
+          },
+          {
+            "name": "Tee 2",
+            "category": "MALE",
+            "yards": 6178,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 119
+          },
+          {
+            "name": "Tee 2",
+            "category": "FEMALE",
+            "yards": 6178,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 131
+          },
+          {
+            "name": "Tee 3",
+            "category": "MALE",
+            "yards": 5224,
+            "par": 72,
+            "rating": 64.8,
+            "slope": 111
+          },
+          {
+            "name": "Tee 3",
+            "category": "FEMALE",
+            "yards": 5224,
+            "par": 72,
+            "rating": 70,
+            "slope": 121
+          },
+          {
+            "name": "Acorn",
+            "category": "MALE",
+            "yards": 6688,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 127
+          },
+          {
+            "name": "Acorn",
+            "category": "FEMALE",
+            "yards": 6688,
+            "par": 72,
+            "rating": 78.1,
+            "slope": 140
+          }
+        ]
+      },
+      {
+        "name": "Playground",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1466,
+            "par": 54,
+            "rating": 54.2,
+            "slope": 102
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1466,
+            "par": 54,
+            "rating": 56,
+            "slope": 104
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/1875b820-cc8a-11e6-b63c-0680a328ea36/bluejack-national"
+  }
+}

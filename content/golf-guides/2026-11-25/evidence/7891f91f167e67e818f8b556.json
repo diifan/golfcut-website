@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8f6d2830-86ac-11e4-8c28-020000005b00/the-dye-preserve",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8f6d2830-86ac-11e4-8c28-020000005b00/the-dye-preserve",
+  "checked_at": 1795524119.2937899,
+  "sha256": "fba772b03fbd70d20d47f9dc43d107f15db71ed7f35e92f1d751dc0eaa41b878",
+  "title": "The Dye Preserve - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "8f6d2830-86ac-11e4-8c28-020000005b00",
+    "name": "The Dye Preserve",
+    "address": "1808 Colony Way",
+    "courses": [
+      {
+        "name": "The Dye Preserve",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7301,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 146
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6637,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 141
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6082,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5154,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8f6d2830-86ac-11e4-8c28-020000005b00/the-dye-preserve"
+  }
+}

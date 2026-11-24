@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9e0eca0-86ac-11e4-8c28-020000005b00/loudon-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9e0eca0-86ac-11e4-8c28-020000005b00/loudon-country-club",
+  "checked_at": 1795524326.339246,
+  "sha256": "992af640eb2b2330a903e1501fccc2b914f5f310ec053c372bef9873d69b7e6a",
+  "title": "Loudon Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b9e0eca0-86ac-11e4-8c28-020000005b00",
+    "name": "Loudon Country Club",
+    "address": "653 Route 106 North, Loudon, NH",
+    "courses": [
+      {
+        "name": "Loudon",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6298,
+            "par": 72,
+            "rating": 71,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5959,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5436,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5132,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 117
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 4463,
+            "par": 72,
+            "rating": 65.2,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9e0eca0-86ac-11e4-8c28-020000005b00/loudon-country-club"
+  }
+}

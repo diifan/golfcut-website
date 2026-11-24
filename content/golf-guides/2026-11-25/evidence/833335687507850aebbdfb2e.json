@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8996b610-86ac-11e4-8c28-020000005b00/claremont-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8996b610-86ac-11e4-8c28-020000005b00/claremont-country-club",
+  "checked_at": 1795523731.6629343,
+  "sha256": "01b2dde23b65b6753da50e902e463c0f27a085bed51ffec73aa845f5344c533d",
+  "title": "Claremont Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8996b610-86ac-11e4-8c28-020000005b00",
+    "name": "Claremont Country Club",
+    "address": "5295 Broadway Terrace, Oakland, CA",
+    "courses": [
+      {
+        "name": "Claremont Country Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5452,
+            "par": 68,
+            "rating": 67.7,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5452,
+            "par": 68,
+            "rating": 73.2,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5124,
+            "par": 68,
+            "rating": 66.1,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5124,
+            "par": 68,
+            "rating": 71.2,
+            "slope": 127
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 3544,
+            "par": 68,
+            "rating": 59.2,
+            "slope": 104
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 3544,
+            "par": 68,
+            "rating": 61.6,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8996b610-86ac-11e4-8c28-020000005b00/claremont-country-club"
+  }
+}

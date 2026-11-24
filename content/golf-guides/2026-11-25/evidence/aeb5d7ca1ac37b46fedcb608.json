@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/91f2e8b0-86ac-11e4-8c28-020000005b00/southridge-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/91f2e8b0-86ac-11e4-8c28-020000005b00/southridge-golf-course",
+  "checked_at": 1795523921.8900921,
+  "sha256": "183ea7e70127fced40360b28db761324fb69613c487e0ffed3c5fd51a889bf3a",
+  "title": "Southridge Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "91f2e8b0-86ac-11e4-8c28-020000005b00",
+    "name": "Southridge Golf Course",
+    "address": "5750 South Lemay Avenue, Fort Collins, CO 80525",
+    "courses": [
+      {
+        "name": "Southridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6630,
+            "par": 71,
+            "rating": 71.8,
+            "slope": 136
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6630,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6191,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6191,
+            "par": 71,
+            "rating": 75.4,
+            "slope": 146
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5768,
+            "par": 71,
+            "rating": 67.4,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5768,
+            "par": 71,
+            "rating": 73,
+            "slope": 140
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5088,
+            "par": 71,
+            "rating": 64.2,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5088,
+            "par": 71,
+            "rating": 68.4,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4911,
+            "par": 71,
+            "rating": 63.4,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4911,
+            "par": 71,
+            "rating": 68.4,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/91f2e8b0-86ac-11e4-8c28-020000005b00/southridge-golf-course"
+  }
+}

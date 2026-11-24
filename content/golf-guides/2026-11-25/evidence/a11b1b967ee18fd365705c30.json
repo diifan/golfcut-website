@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/958b78c0-86ac-11e4-8c28-020000005b00/whaling-city-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/958b78c0-86ac-11e4-8c28-020000005b00/whaling-city-golf-course",
+  "checked_at": 1795524350.820169,
+  "sha256": "8c3c0c3d5f7c9f51cc6b173c3e9907ef088ecfcb26ce5080f820eb5304a0816c",
+  "title": "Whaling City Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "958b78c0-86ac-11e4-8c28-020000005b00",
+    "name": "Whaling City Golf Course",
+    "address": "581 Hathaway Rd, New Bedford, Massachusetts",
+    "courses": [
+      {
+        "name": "New Bedford (Whaling City)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6780,
+            "par": 72,
+            "rating": 73,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6487,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 126
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5634,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5233,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/958b78c0-86ac-11e4-8c28-020000005b00/whaling-city-golf-course"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95f6e4c0-86ac-11e4-8c28-020000005b00/tpc-boston",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95f6e4c0-86ac-11e4-8c28-020000005b00/tpc-boston",
+  "checked_at": 1795523714.7843745,
+  "sha256": "f06753958918a3dd3b43e65a0461e4e3a58ad8346d199881d24f13bb744b4b38",
+  "title": "TPC Boston - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95f6e4c0-86ac-11e4-8c28-020000005b00",
+    "name": "TPC Boston",
+    "address": "400 Arnold Palmer Blvd.",
+    "courses": [
+      {
+        "name": "TPC Boston",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7261,
+            "par": 72,
+            "rating": 77.2,
+            "slope": 154
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 7261,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7011,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 145
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7011,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6484,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 139
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6484,
+            "par": 72,
+            "rating": 76.4,
+            "slope": 135
+          },
+          {
+            "name": "Blended",
+            "category": "MALE",
+            "yards": 6284,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 136
+          },
+          {
+            "name": "Blended",
+            "category": "FEMALE",
+            "yards": 6284,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6117,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6117,
+            "par": 72,
+            "rating": 76.4,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5201,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5201,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 132
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95f6e4c0-86ac-11e4-8c28-020000005b00/tpc-boston"
+  }
+}

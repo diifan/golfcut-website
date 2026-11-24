@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/82b1e130-86ac-11e4-8c28-020000005b00/indian-boundary-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/82b1e130-86ac-11e4-8c28-020000005b00/indian-boundary-golf-course",
+  "checked_at": 1795523828.0318425,
+  "sha256": "a5bf760e557ac30714fef1ada4c774b3bc2bbc25b5c7e71942f5fe6f43876590",
+  "title": "Indian Boundary Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "82b1e130-86ac-11e4-8c28-020000005b00",
+    "name": "Indian Boundary Golf Course",
+    "address": "8600 W Forest Preserve Ave, Chicago, IL 60634",
+    "courses": [
+      {
+        "name": "Indian Boundary",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6028,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6028,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5499,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5499,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4653,
+            "par": 72,
+            "rating": 62.9,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4653,
+            "par": 72,
+            "rating": 66.9,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/82b1e130-86ac-11e4-8c28-020000005b00/indian-boundary-golf-course"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96f08700-86ac-11e4-8c28-020000005b00/deer-run-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96f08700-86ac-11e4-8c28-020000005b00/deer-run-golf-club",
+  "checked_at": 1795524065.9420557,
+  "sha256": "bf72ef9a341751b2e8c0168f1cd8db1cd224b46d9f1fb5895362a316fc56065a",
+  "title": "Deer Run Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96f08700-86ac-11e4-8c28-020000005b00",
+    "name": "Deer Run Golf Club",
+    "address": "8661 Deer Run Drive, Victoria MN",
+    "courses": [
+      {
+        "name": "Deer Run",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6326,
+            "par": 71,
+            "rating": 70.8,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6146,
+            "par": 71,
+            "rating": 69.9,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5273,
+            "par": 71,
+            "rating": 65.9,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5040,
+            "par": 71,
+            "rating": 64.6,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96f08700-86ac-11e4-8c28-020000005b00/deer-run-golf-club"
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e32d370-86ac-11e4-8c28-020000005b00/grayhawk-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e32d370-86ac-11e4-8c28-020000005b00/grayhawk-golf-club",
+  "checked_at": 1795524263.180606,
+  "sha256": "0277e4c11012b7e811be89be1448c03ec8532617cc2950814b45116166cfdec2",
+  "title": "Grayhawk Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8e32d370-86ac-11e4-8c28-020000005b00",
+    "name": "Grayhawk Golf Club",
+    "address": "8620 E Thompson Peak Pkwy, Scottsdale, AZ",
+    "courses": [
+      {
+        "name": "Raptor",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Raptor",
+            "category": "MALE",
+            "yards": 7221,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 142
+          },
+          {
+            "name": "Raptor",
+            "category": "FEMALE",
+            "yards": 7221,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Raptor/Palo",
+            "category": "MALE",
+            "yards": 6859,
+            "par": 72,
+            "rating": 73,
+            "slope": 139
+          },
+          {
+            "name": "Raptor/Palo",
+            "category": "FEMALE",
+            "yards": 6859,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Palo Verde",
+            "category": "MALE",
+            "yards": 6526,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 137
+          },
+          {
+            "name": "Palo Verde",
+            "category": "FEMALE",
+            "yards": 6526,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Palo/Terra Cotta",
+            "category": "MALE",
+            "yards": 6318,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 133
+          },
+          {
+            "name": "Palo/Terra Cotta",
+            "category": "FEMALE",
+            "yards": 6318,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Terra Cotta",
+            "category": "MALE",
+            "yards": 6040,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 130
+          },
+          {
+            "name": "Terra Cotta",
+            "category": "FEMALE",
+            "yards": 6040,
+            "par": 72,
+            "rating": 75.6,
+            "slope": 138
+          },
+          {
+            "name": "Terra/Heather",
+            "category": "MALE",
+            "yards": 5633,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 125
+          },
+          {
+            "name": "Terra/Heather",
+            "category": "FEMALE",
+            "yards": 5633,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 122
+          },
+          {
+            "name": "Heather",
+            "category": "MALE",
+            "yards": 5175,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Heather",
+            "category": "FEMALE",
+            "yards": 5175,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 122
+          }
+        ]
+      },
+      {
+        "name": "Talon",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Raptor",
+            "category": "MALE",
+            "yards": 6973,
+            "par": 72,
+            "rating": 74,
+            "slope": 149
+          },
+          {
+            "name": "Raptor",
+            "category": "FEMALE",
+            "yards": 6973,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Raptor/Palo",
+            "category": "MALE",
+            "yards": 6653,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 141
+          },
+          {
+            "name": "Raptor/Palo",
+            "category": "FEMALE",
+            "yards": 6653,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Palo Verde",
+            "category": "MALE",
+            "yards": 6430,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 137
+          },
+          {
+            "name": "Palo Verde",
+            "category": "FEMALE",
+            "yards": 6430,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Palo/Terra Cotta",
+            "category": "MALE",
+            "yards": 6115,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 129
+          },
+          {
+            "name": "Palo/Terra Cotta",
+            "category": "FEMALE",
+            "yards": 6115,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Terra Cotta",
+            "category": "MALE",
+            "yards": 5867,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 124
+          },
+          {
+            "name": "Terra Cotta",
+            "category": "FEMALE",
+            "yards": 5867,
+            "par": 72,
+            "rating": 74,
+            "slope": 137
+          },
+          {
+            "name": "Terra/Heather",
+            "category": "MALE",
+            "yards": 5363,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 119
+          },
+          {
+            "name": "Terra/Heather",
+            "category": "FEMALE",
+            "yards": 5363,
+            "par": 72,
+            "rating": 70,
+            "slope": 121
+          },
+          {
+            "name": "Heather",
+            "category": "MALE",
+            "yards": 5143,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Heather",
+            "category": "FEMALE",
+            "yards": 5143,
+            "par": 72,
+            "rating": 70,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e32d370-86ac-11e4-8c28-020000005b00/grayhawk-golf-club"
+  }
+}

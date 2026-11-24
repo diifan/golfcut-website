@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9bfb1da0-86ac-11e4-8c28-020000005b00/harbor-hills",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9bfb1da0-86ac-11e4-8c28-020000005b00/harbor-hills",
+  "checked_at": 1795524856.6729982,
+  "sha256": "506427721d71aaa3071ef951d3c7276c84a9c192cf599b37433f1f15f5c4b6cd",
+  "title": "Harbor Hills - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9bfb1da0-86ac-11e4-8c28-020000005b00",
+    "name": "Harbor Hills",
+    "address": "225 Freeman Memorial Dr",
+    "courses": [
+      {
+        "name": "Harbor Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue/Blue",
+            "category": "MALE",
+            "yards": 6412,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 125
+          },
+          {
+            "name": "Blue/Blue",
+            "category": "FEMALE",
+            "yards": 6412,
+            "par": 72,
+            "rating": 76,
+            "slope": 134
+          },
+          {
+            "name": "Red/Red",
+            "category": "MALE",
+            "yards": 5900,
+            "par": 72,
+            "rating": 62.2,
+            "slope": 101
+          },
+          {
+            "name": "Red/Red",
+            "category": "FEMALE",
+            "yards": 5900,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 107
+          },
+          {
+            "name": "White/White",
+            "category": "MALE",
+            "yards": 6162,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 122
+          },
+          {
+            "name": "White/White",
+            "category": "FEMALE",
+            "yards": 6162,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 132
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9bfb1da0-86ac-11e4-8c28-020000005b00/harbor-hills"
+  }
+}

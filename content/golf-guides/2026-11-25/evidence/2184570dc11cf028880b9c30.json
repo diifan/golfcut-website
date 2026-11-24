@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b39d60d0-86ac-11e4-8c28-020000005b00/st-clair-shores-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b39d60d0-86ac-11e4-8c28-020000005b00/st-clair-shores-country-club",
+  "checked_at": 1795524248.7861865,
+  "sha256": "73e13812322f608e52a47180fe32bdb57ea5bc9d96c71483f009a7aa2e7263ab",
+  "title": "St. Clair Shores Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b39d60d0-86ac-11e4-8c28-020000005b00",
+    "name": "St. Clair Shores Country Club",
+    "address": "22185 Masonic Blvd, Saint Clair Shores, MI",
+    "courses": [
+      {
+        "name": "Saint Clair Shores",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6015,
+            "par": 70,
+            "rating": 68.3,
+            "slope": 123
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6015,
+            "par": 70,
+            "rating": 73.9,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5676,
+            "par": 70,
+            "rating": 66.9,
+            "slope": 115
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5676,
+            "par": 70,
+            "rating": 72.1,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5316,
+            "par": 70,
+            "rating": 65.4,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5316,
+            "par": 70,
+            "rating": 71.5,
+            "slope": 120
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4848,
+            "par": 70,
+            "rating": 67,
+            "slope": 115
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4848,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b39d60d0-86ac-11e4-8c28-020000005b00/st-clair-shores-country-club"
+  }
+}

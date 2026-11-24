@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d34d620-86ac-11e4-8c28-020000005b00/doylestown-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d34d620-86ac-11e4-8c28-020000005b00/doylestown-country-club",
+  "checked_at": 1795524226.1596568,
+  "sha256": "6205d2dfccfdd216e8887a5d578453e7b62578a74d2681f047277ec211965190",
+  "title": "Doylestown Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d34d620-86ac-11e4-8c28-020000005b00",
+    "name": "Doylestown Country Club",
+    "address": "Green St, Doylestown, PA",
+    "courses": [
+      {
+        "name": "Doylestown",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6589,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 145
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6589,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 137
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6248,
+            "par": 72,
+            "rating": 71,
+            "slope": 138
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 6248,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5479,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5479,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 129
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5479,
+            "par": 72,
+            "rating": 67,
+            "slope": 127
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5479,
+            "par": 72,
+            "rating": 71,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d34d620-86ac-11e4-8c28-020000005b00/doylestown-country-club"
+  }
+}

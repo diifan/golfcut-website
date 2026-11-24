@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a3b1e20-86ac-11e4-8c28-020000005b00/oak-valley-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a3b1e20-86ac-11e4-8c28-020000005b00/oak-valley-golf-club",
+  "checked_at": 1795524822.8514535,
+  "sha256": "bbab860c042382e67a7fcd752606ac754ecbad9229526d31abc75d3a1f80907d",
+  "title": "Oak Valley Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9a3b1e20-86ac-11e4-8c28-020000005b00",
+    "name": "Oak Valley Golf Club",
+    "address": "261 Oak Valley Blvd, Advance, NC",
+    "courses": [
+      {
+        "name": "Oak Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7033,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 142
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7033,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6682,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6682,
+            "par": 72,
+            "rating": 77.4,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6036,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6036,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 133
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5672,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5672,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4857,
+            "par": 72,
+            "rating": 64.2,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4857,
+            "par": 72,
+            "rating": 68,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a3b1e20-86ac-11e4-8c28-020000005b00/oak-valley-golf-club"
+  }
+}

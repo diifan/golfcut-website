@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a5fbd20-86ac-11e4-8c28-020000005b00/dr-charles-l-sifford-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a5fbd20-86ac-11e4-8c28-020000005b00/dr-charles-l-sifford-golf-course",
+  "checked_at": 1795523717.0655026,
+  "sha256": "d1a35dc362045bf01759a6398309416ee06d6bee9e4fd298a231735100d7d5a5",
+  "title": "Dr. Charles L. Sifford Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9a5fbd20-86ac-11e4-8c28-020000005b00",
+    "name": "Dr. Charles L. Sifford Golf Course",
+    "address": "1225 Remount Road, Charlotte, NC ",
+    "courses": [
+      {
+        "name": "Sifford 18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 5872,
+            "par": 70,
+            "rating": 68.2,
+            "slope": 120
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 5872,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5490,
+            "par": 70,
+            "rating": 66.6,
+            "slope": 110
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5490,
+            "par": 72,
+            "rating": 72,
+            "slope": 118
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4222,
+            "par": 70,
+            "rating": 62.6,
+            "slope": 95
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 4222,
+            "par": 72,
+            "rating": 64.6,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a5fbd20-86ac-11e4-8c28-020000005b00/dr-charles-l-sifford-golf-course"
+  }
+}

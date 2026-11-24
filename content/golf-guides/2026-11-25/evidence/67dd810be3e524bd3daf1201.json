@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/981000c0-86ac-11e4-8c28-020000005b00/weequahic-park",
+  "resolved_url": "https://18birdies.com/golf-courses/club/981000c0-86ac-11e4-8c28-020000005b00/weequahic-park",
+  "checked_at": 1795523679.3456824,
+  "sha256": "504566c96a4e2987b14a9e5227fa433a73f1e9856324a26d7e5a7b2a1920cb16",
+  "title": "Weequahic Golf Course  - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "981000c0-86ac-11e4-8c28-020000005b00",
+    "name": "Weequahic Golf Course ",
+    "address": "1 Thomas Carmichael Dr, Newark, NJ",
+    "courses": [
+      {
+        "name": "Weequahic Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5558,
+            "par": 70,
+            "rating": 66.4,
+            "slope": 114
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5558,
+            "par": 70,
+            "rating": 71.5,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5262,
+            "par": 70,
+            "rating": 64.8,
+            "slope": 107
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5262,
+            "par": 70,
+            "rating": 69.4,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4307,
+            "par": 70,
+            "rating": 61.2,
+            "slope": 99
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4307,
+            "par": 70,
+            "rating": 64.4,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/981000c0-86ac-11e4-8c28-020000005b00/weequahic-park"
+  }
+}

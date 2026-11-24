@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/94a3d7e0-86ac-11e4-8c28-020000005b00/juniper-hills",
+  "resolved_url": "https://18birdies.com/golf-courses/club/94a3d7e0-86ac-11e4-8c28-020000005b00/juniper-hills",
+  "checked_at": 1795524863.1423478,
+  "sha256": "b78f250c65f143158698232d442cffeb429f5d04ce9e601c4a2b5ea0ae652d07",
+  "title": "Juniper Hills Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "94a3d7e0-86ac-11e4-8c28-020000005b00",
+    "name": "Juniper Hills Golf Course",
+    "address": "800 Louisville rd, Frankfort, KY",
+    "courses": [
+      {
+        "name": "Juniper Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6035,
+            "par": 70,
+            "rating": 68.7,
+            "slope": 120
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6035,
+            "par": 70,
+            "rating": 74.2,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5802,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5802,
+            "par": 70,
+            "rating": 72.8,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5527,
+            "par": 70,
+            "rating": 66.6,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5527,
+            "par": 70,
+            "rating": 71.3,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5147,
+            "par": 70,
+            "rating": 64.2,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5147,
+            "par": 70,
+            "rating": 69.3,
+            "slope": 117
+          },
+          {
+            "name": "Wildcat",
+            "category": "MALE",
+            "yards": 3690,
+            "par": 70,
+            "rating": 60.1,
+            "slope": 101
+          },
+          {
+            "name": "Wildcat",
+            "category": "FEMALE",
+            "yards": 3690,
+            "par": 70,
+            "rating": 62.2,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/94a3d7e0-86ac-11e4-8c28-020000005b00/juniper-hills"
+  }
+}

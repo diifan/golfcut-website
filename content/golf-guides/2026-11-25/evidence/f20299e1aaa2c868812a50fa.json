@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af11be30-86ac-11e4-8c28-020000005b00/pine-oaks-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af11be30-86ac-11e4-8c28-020000005b00/pine-oaks-golf-club",
+  "checked_at": 1795524308.9165392,
+  "sha256": "e49c5e0f2650b073d907def9644933a8f824a97c6697416a4578d88dc24fe984",
+  "title": "Pine Oaks Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af11be30-86ac-11e4-8c28-020000005b00",
+    "name": "Pine Oaks Golf Club",
+    "address": "1709 Buffalo Rd, Johnson City, TN 37604",
+    "courses": [
+      {
+        "name": "Pine Oaks",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6543,
+            "par": 71,
+            "rating": 71.3,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6543,
+            "par": 73,
+            "rating": 76.7,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6153,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6153,
+            "par": 73,
+            "rating": 74.6,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5705,
+            "par": 71,
+            "rating": 67.6,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5705,
+            "par": 73,
+            "rating": 72.2,
+            "slope": 126
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5376,
+            "par": 71,
+            "rating": 65.9,
+            "slope": 114
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5376,
+            "par": 73,
+            "rating": 70.5,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4464,
+            "par": 71,
+            "rating": 65.2,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4464,
+            "par": 73,
+            "rating": 65.8,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af11be30-86ac-11e4-8c28-020000005b00/pine-oaks-golf-club"
+  }
+}

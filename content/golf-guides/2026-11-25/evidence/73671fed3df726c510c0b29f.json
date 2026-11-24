@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b56cf0b0-86ac-11e4-8c28-020000005b00/legend-at-brandybrook",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b56cf0b0-86ac-11e4-8c28-020000005b00/legend-at-brandybrook",
+  "checked_at": 1795524402.835521,
+  "sha256": "58282fd5b4d26cbadd5734138d775f74ba2475b7c2a198a3c68df54ff9bcddc6",
+  "title": "Legend At Brandybrook - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b56cf0b0-86ac-11e4-8c28-020000005b00",
+    "name": "Legend At Brandybrook",
+    "address": "1 Legend Way, Wales, WI",
+    "courses": [
+      {
+        "name": "Legend At Brandybrook",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7006,
+            "par": 72,
+            "rating": 74,
+            "slope": 140
+          },
+          {
+            "name": "Gentlemen",
+            "category": "MALE",
+            "yards": 6566,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 135
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 6227,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 132
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 5400,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 119
+          },
+          {
+            "name": "Junior",
+            "category": "MALE",
+            "yards": 4725,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b56cf0b0-86ac-11e4-8c28-020000005b00/legend-at-brandybrook"
+  }
+}

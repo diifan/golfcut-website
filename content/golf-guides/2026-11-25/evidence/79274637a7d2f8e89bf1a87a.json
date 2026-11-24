@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afe254a0-86ac-11e4-8c28-020000005b00/the-dominion-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afe254a0-86ac-11e4-8c28-020000005b00/the-dominion-club",
+  "checked_at": 1795524094.421671,
+  "sha256": "f362765f23f36e0403a81ea7489fd3b089398a863e396d8d10bcd4d03e12cb71",
+  "title": "The Dominion Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "afe254a0-86ac-11e4-8c28-020000005b00",
+    "name": "The Dominion Club",
+    "address": "6000 Dominion Club Drive, Glenn Allen, VA",
+    "courses": [
+      {
+        "name": "The Dominion",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Tour",
+            "category": "MALE",
+            "yards": 7229,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 139
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6988,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6520,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6023,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5119,
+            "par": 72,
+            "rating": 65,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afe254a0-86ac-11e4-8c28-020000005b00/the-dominion-club"
+  }
+}

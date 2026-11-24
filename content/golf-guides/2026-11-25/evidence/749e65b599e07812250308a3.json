@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/94b711c0-86ac-11e4-8c28-020000005b00/carroll-park",
+  "resolved_url": "https://18birdies.com/golf-courses/club/94b711c0-86ac-11e4-8c28-020000005b00/carroll-park",
+  "checked_at": 1795524115.4006045,
+  "sha256": "6a9d7918ed843adbee5970edcc3cea6c9674269512bbb25732bda371d8c34d91",
+  "title": "Carroll Park - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "94b711c0-86ac-11e4-8c28-020000005b00",
+    "name": "Carroll Park",
+    "address": "2100 Washington Blvd, Baltimore, MD",
+    "courses": [
+      {
+        "name": "Carroll Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5574,
+            "par": 68,
+            "rating": 66.2,
+            "slope": 116
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5574,
+            "par": 68,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5186,
+            "par": 68,
+            "rating": 64,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5186,
+            "par": 68,
+            "rating": 70,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5072,
+            "par": 68,
+            "rating": 63.4,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5072,
+            "par": 68,
+            "rating": 69,
+            "slope": 116
+          }
+        ]
+      },
+      {
+        "name": "Carroll Park (9Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2787,
+            "par": 34,
+            "rating": 33.1,
+            "slope": 116
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2787,
+            "par": 34,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2593,
+            "par": 34,
+            "rating": 32,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2593,
+            "par": 34,
+            "rating": 35,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2536,
+            "par": 34,
+            "rating": 31.7,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2536,
+            "par": 34,
+            "rating": 34.5,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/94b711c0-86ac-11e4-8c28-020000005b00/carroll-park"
+  }
+}

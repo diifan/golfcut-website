@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afb37c70-86ac-11e4-8c28-020000005b00/river-ridge-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afb37c70-86ac-11e4-8c28-020000005b00/river-ridge-golf-course",
+  "checked_at": 1795524111.701245,
+  "sha256": "a7280f45c8ee13f46b068d668b92cca27ec0fb87c95dcb54ac30316b407f4ac6",
+  "title": "River Ridge Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "afb37c70-86ac-11e4-8c28-020000005b00",
+    "name": "River Ridge Golf Club",
+    "address": "705 Laramie Dr",
+    "courses": [
+      {
+        "name": "River Ridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5532,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 106
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5532,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow (Senior)",
+            "category": "MALE",
+            "yards": 4892,
+            "par": 72,
+            "rating": 63,
+            "slope": 97
+          },
+          {
+            "name": "Yellow (Senior)",
+            "category": "FEMALE",
+            "yards": 4892,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4404,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4404,
+            "par": 72,
+            "rating": 65,
+            "slope": 102
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6156,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6156,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afb37c70-86ac-11e4-8c28-020000005b00/river-ridge-golf-course"
+  }
+}

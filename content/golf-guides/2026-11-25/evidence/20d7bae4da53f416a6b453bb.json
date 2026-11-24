@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8b3a2ce0-86ac-11e4-8c28-020000005b00/the-golf-club-of-dallas",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8b3a2ce0-86ac-11e4-8c28-020000005b00/the-golf-club-of-dallas",
+  "checked_at": 1795524114.0919578,
+  "sha256": "fd15fc0200c593ef5d99c204b92173a9d954bfb7e524289ae17609f156103c29",
+  "title": "The Golf Club of Dallas - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8b3a2ce0-86ac-11e4-8c28-020000005b00",
+    "name": "The Golf Club of Dallas",
+    "address": "2200 W Red Bird Ln, Dallas, TX",
+    "courses": [
+      {
+        "name": "Dallas",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6719,
+            "par": 70,
+            "rating": 73.5,
+            "slope": 130
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6719,
+            "par": 72,
+            "rating": 77.6,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6202,
+            "par": 70,
+            "rating": 70.7,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6202,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5727,
+            "par": 70,
+            "rating": 68.2,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5727,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5472,
+            "par": 70,
+            "rating": 67.1,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5472,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8b3a2ce0-86ac-11e4-8c28-020000005b00/the-golf-club-of-dallas"
+  }
+}

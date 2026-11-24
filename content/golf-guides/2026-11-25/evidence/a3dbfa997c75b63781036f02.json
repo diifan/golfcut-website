@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8ee9d60-86ac-11e4-8c28-020000005b00/bay-view",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8ee9d60-86ac-11e4-8c28-020000005b00/bay-view",
+  "checked_at": 1795523706.874799,
+  "sha256": "6303c3c67b4c60738fc9ae36abea4b77e8334f860937f44ed08d8995660170fb",
+  "title": "Bay View - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b8ee9d60-86ac-11e4-8c28-020000005b00",
+    "name": "Bay View",
+    "address": "45-285 Kaneohe Bay Dr, Kaneohe, HI",
+    "courses": [
+      {
+        "name": "Bay View",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3391,
+            "par": 60,
+            "rating": 58.8,
+            "slope": 97
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3391,
+            "par": 60,
+            "rating": 60.5,
+            "slope": 101
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2996,
+            "par": 60,
+            "rating": 56.3,
+            "slope": 87
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2996,
+            "par": 60,
+            "rating": 57.9,
+            "slope": 95
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2507,
+            "par": 60,
+            "rating": 52.1,
+            "slope": 77
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2507,
+            "par": 60,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8ee9d60-86ac-11e4-8c28-020000005b00/bay-view"
+  }
+}

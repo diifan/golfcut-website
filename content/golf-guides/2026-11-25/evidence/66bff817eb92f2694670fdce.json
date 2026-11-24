@@ -1,0 +1,273 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/89e6aad0-86ac-11e4-8c28-020000005b00/fairbanks-ranch",
+  "resolved_url": "https://18birdies.com/golf-courses/club/89e6aad0-86ac-11e4-8c28-020000005b00/fairbanks-ranch",
+  "checked_at": 1795523832.7463872,
+  "sha256": "6384570a6cc157f924406e26b697236eedcd42d3616dba77b8179c4d0f1186b5",
+  "title": "Fairbanks Ranch - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "89e6aad0-86ac-11e4-8c28-020000005b00",
+    "name": "Fairbanks Ranch",
+    "address": "15150 San Dieguito Road, Rancho Sante Fe, CA",
+    "courses": [
+      {
+        "name": "Valley to Lakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7196,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 133
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7196,
+            "par": 72,
+            "rating": 81.7,
+            "slope": 151
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6744,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6744,
+            "par": 72,
+            "rating": 79,
+            "slope": 146
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6404,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6404,
+            "par": 72,
+            "rating": 77.1,
+            "slope": 142
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6146,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6146,
+            "par": 72,
+            "rating": 75.7,
+            "slope": 139
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5624,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 115
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5624,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 133
+          }
+        ]
+      },
+      {
+        "name": "Lakes to Ocean",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7061,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 133
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7061,
+            "par": 72,
+            "rating": 81.4,
+            "slope": 149
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6701,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6701,
+            "par": 72,
+            "rating": 79.3,
+            "slope": 145
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6334,
+            "par": 72,
+            "rating": 71,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6334,
+            "par": 72,
+            "rating": 77.3,
+            "slope": 140
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5912,
+            "par": 72,
+            "rating": 69,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5912,
+            "par": 72,
+            "rating": 75,
+            "slope": 135
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5374,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 114
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5374,
+            "par": 72,
+            "rating": 72,
+            "slope": 129
+          }
+        ]
+      },
+      {
+        "name": "Ocean to Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7069,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 132
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7069,
+            "par": 72,
+            "rating": 81.5,
+            "slope": 150
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6667,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6667,
+            "par": 72,
+            "rating": 79.3,
+            "slope": 145
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6372,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6372,
+            "par": 72,
+            "rating": 77.6,
+            "slope": 141
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5980,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5980,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 136
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5430,
+            "par": 72,
+            "rating": 67,
+            "slope": 115
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5430,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 129
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/89e6aad0-86ac-11e4-8c28-020000005b00/fairbanks-ranch"
+  }
+}

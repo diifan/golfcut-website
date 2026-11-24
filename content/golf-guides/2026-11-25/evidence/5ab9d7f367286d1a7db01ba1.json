@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/898c55d0-86ac-11e4-8c28-020000005b00/national-city",
+  "resolved_url": "https://18birdies.com/golf-courses/club/898c55d0-86ac-11e4-8c28-020000005b00/national-city",
+  "checked_at": 1795523963.6945202,
+  "sha256": "9be7d03e52a00da981a5cc982dbf351d80d4792ae260a42dffefd9e26ba1dbe7",
+  "title": "National City  - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "898c55d0-86ac-11e4-8c28-020000005b00",
+    "name": "National City ",
+    "address": "1439 Sweetwater Road, National City, CA",
+    "courses": [
+      {
+        "name": "National City (9 holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2197,
+            "par": 34,
+            "rating": 31.7,
+            "slope": 102
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1877,
+            "par": 34,
+            "rating": 30.4,
+            "slope": 95
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/898c55d0-86ac-11e4-8c28-020000005b00/national-city"
+  }
+}

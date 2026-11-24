@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/aeee57b0-86ac-11e4-8c28-020000005b00/cleveland-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/aeee57b0-86ac-11e4-8c28-020000005b00/cleveland-country-club",
+  "checked_at": 1795524156.0926793,
+  "sha256": "bbc80b3e59f52892201525a011ddac1adcb89168b60e88c5bdb90c7da458237c",
+  "title": "Cleveland Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "aeee57b0-86ac-11e4-8c28-020000005b00",
+    "name": "Cleveland Country Club",
+    "address": "345 Kyle Ln, Cleveland, TN",
+    "courses": [
+      {
+        "name": "Cleveland",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6659,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 139
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6206,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5507,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 118
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5083,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5031,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 116
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 4403,
+            "par": 72,
+            "rating": 65,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/aeee57b0-86ac-11e4-8c28-020000005b00/cleveland-country-club"
+  }
+}

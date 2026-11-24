@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b47bb2e0-86ac-11e4-8c28-020000005b00/heritage-hills-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b47bb2e0-86ac-11e4-8c28-020000005b00/heritage-hills-golf-course",
+  "checked_at": 1795524834.102002,
+  "sha256": "a43604dd07f15e381912f6b57d26c360289bf11c7f961aca212917998ecc1d6f",
+  "title": "Heritage Hills Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b47bb2e0-86ac-11e4-8c28-020000005b00",
+    "name": "Heritage Hills Golf Course",
+    "address": "6000 Club House Dr",
+    "courses": [
+      {
+        "name": "Heritage Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6715,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6095,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5775,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5475,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b47bb2e0-86ac-11e4-8c28-020000005b00/heritage-hills-golf-course"
+  }
+}

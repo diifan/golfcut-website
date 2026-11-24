@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/886ae040-86ac-11e4-8c28-020000005b00/chicago-highlands",
+  "resolved_url": "https://18birdies.com/golf-courses/club/886ae040-86ac-11e4-8c28-020000005b00/chicago-highlands",
+  "checked_at": 1795524240.457157,
+  "sha256": "144660be93d12ed4495d2521945f8e3773ed1520f5c6a135fba2dfed69c42d54",
+  "title": "Chicago Highlands - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "886ae040-86ac-11e4-8c28-020000005b00",
+    "name": "Chicago Highlands",
+    "address": "2 Bluebird Trail",
+    "courses": [
+      {
+        "name": "Chicago Highlands",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7490,
+            "par": 72,
+            "rating": 77,
+            "slope": 145
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7066,
+            "par": 72,
+            "rating": 75,
+            "slope": 140
+          },
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 6793,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6580,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 135
+          },
+          {
+            "name": "Member",
+            "category": "MALE",
+            "yards": 6347,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6164,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 130
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5646,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 121
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 5049,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/886ae040-86ac-11e4-8c28-020000005b00/chicago-highlands"
+  }
+}

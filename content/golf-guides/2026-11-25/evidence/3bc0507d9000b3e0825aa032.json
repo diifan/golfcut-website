@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5d57680-86ac-11e4-8c28-020000005b00/eagle-springs-golf-resort",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5d57680-86ac-11e4-8c28-020000005b00/eagle-springs-golf-resort",
+  "checked_at": 1795523841.3102016,
+  "sha256": "faff2768ed862bc0d8ade03727b28802d3899c20eb2e3f117d049f7a026ed207",
+  "title": "Eagle Springs Golf Resort - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b5d57680-86ac-11e4-8c28-020000005b00",
+    "name": "Eagle Springs Golf Resort",
+    "address": "W352 S10355 Tuohy Rd., Eagle, WI",
+    "courses": [
+      {
+        "name": "Eagle Springs",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue ",
+            "category": "MALE",
+            "yards": 2860,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue ",
+            "category": "FEMALE",
+            "yards": 2860,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2757,
+            "par": 35,
+            "rating": 66.6,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2757,
+            "par": 35,
+            "rating": 71.4,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2315,
+            "par": 35,
+            "rating": 62.4,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2315,
+            "par": 35,
+            "rating": 66,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5d57680-86ac-11e4-8c28-020000005b00/eagle-springs-golf-resort"
+  }
+}

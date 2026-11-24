@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/295a26c0-86c9-11e4-8f92-020000005b00/seven-springs-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/295a26c0-86c9-11e4-8f92-020000005b00/seven-springs-golf-country-club",
+  "checked_at": 1795524144.3260925,
+  "sha256": "bef979e05abb3661676dc9758c68d92c7c80c62b7b6c55acb6b6b6f067bf71ce",
+  "title": "Seven Springs Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "295a26c0-86c9-11e4-8f92-020000005b00",
+    "name": "Seven Springs Golf & Country Club",
+    "address": "3535 Trophy Blvd, New Port Richey, FL",
+    "courses": [
+      {
+        "name": "Seven Springs (Championship)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6566,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5250,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 118
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6130,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5914,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 122
+          }
+        ]
+      },
+      {
+        "name": "Seven Springs (Executive)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4145,
+            "par": 64,
+            "rating": 61.2,
+            "slope": 104
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4145,
+            "par": 65,
+            "rating": 63.9,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3963,
+            "par": 64,
+            "rating": 60.7,
+            "slope": 99
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3963,
+            "par": 65,
+            "rating": 64.1,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/295a26c0-86c9-11e4-8f92-020000005b00/seven-springs-golf-country-club"
+  }
+}

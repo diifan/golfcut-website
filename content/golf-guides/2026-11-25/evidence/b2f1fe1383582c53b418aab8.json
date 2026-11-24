@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8981f590-86ac-11e4-8c28-020000005b00/monterey-park",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8981f590-86ac-11e4-8c28-020000005b00/monterey-park",
+  "checked_at": 1795524327.0587394,
+  "sha256": "17c5a99b3e08f00e2c929939b6b20ada944f83b157720382ec54adf9071025b4",
+  "title": "Monterey‎ Park‎ Golf‎ Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8981f590-86ac-11e4-8c28-020000005b00",
+    "name": "Monterey‎ Park‎ Golf‎ Club",
+    "address": "3600 W Ramona Blvd, Monterey Park, CA",
+    "courses": [
+      {
+        "name": "Monterey‎ Park‎ Los Angeles",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1489,
+            "par": 29,
+            "rating": 27.7,
+            "slope": 86
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1489,
+            "par": 29,
+            "rating": 28.8,
+            "slope": 89
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8981f590-86ac-11e4-8c28-020000005b00/monterey-park"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/88ea2260-86ac-11e4-8c28-020000005b00/iron-wood-nine-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/88ea2260-86ac-11e4-8c28-020000005b00/iron-wood-nine-golf-course",
+  "checked_at": 1795524181.099304,
+  "sha256": "cae528cca68d6e5b7ff4079c314f1e0122800683e960026f463771e0b28fbc57",
+  "title": "Cerritos Iron-Wood Nine Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "88ea2260-86ac-11e4-8c28-020000005b00",
+    "name": "Cerritos Iron-Wood Nine Golf Course",
+    "address": "16449 Piuma Ave, Cerritos, CA",
+    "courses": [
+      {
+        "name": "Cerritos Ironwood (18 Holes Course)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2936,
+            "par": 58,
+            "rating": 57,
+            "slope": 101
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2936,
+            "par": 58,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2578,
+            "par": 58,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2578,
+            "par": 58,
+            "rating": 58.1,
+            "slope": 103
+          }
+        ]
+      },
+      {
+        "name": "Cerritos Ironwood (9 Holes Course)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1468,
+            "par": 29,
+            "rating": 28.5,
+            "slope": 101
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1468,
+            "par": 29,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1289,
+            "par": 29,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1289,
+            "par": 29,
+            "rating": 29.1,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/88ea2260-86ac-11e4-8c28-020000005b00/iron-wood-nine-golf-course"
+  }
+}

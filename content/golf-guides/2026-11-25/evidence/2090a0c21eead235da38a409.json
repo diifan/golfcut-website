@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d364b00-86ac-11e4-8c28-020000005b00/greensburg-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d364b00-86ac-11e4-8c28-020000005b00/greensburg-country-club",
+  "checked_at": 1795524102.7268305,
+  "sha256": "5b8d1ee0d6e2a662fc94548f2a88f44b42bef940cac1cf5cdfd985a9f6c6ab9e",
+  "title": "Greensburg Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d364b00-86ac-11e4-8c28-020000005b00",
+    "name": "Greensburg Country Club",
+    "address": "1630 W Park Rd",
+    "courses": [
+      {
+        "name": "Greensburg",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6214,
+            "par": 70,
+            "rating": 69.9,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6214,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5932,
+            "par": 70,
+            "rating": 68.7,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5932,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5108,
+            "par": 70,
+            "rating": 64.7,
+            "slope": 114
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5108,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4540,
+            "par": 70,
+            "rating": 62.3,
+            "slope": 104
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4540,
+            "par": 70,
+            "rating": 66.2,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d364b00-86ac-11e4-8c28-020000005b00/greensburg-country-club"
+  }
+}

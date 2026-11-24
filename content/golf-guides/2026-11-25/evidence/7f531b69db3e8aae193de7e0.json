@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8bd693f0-86ac-11e4-8c28-020000005b00/the-rawls-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8bd693f0-86ac-11e4-8c28-020000005b00/the-rawls-course",
+  "checked_at": 1795524211.58134,
+  "sha256": "603f6b720b4c5e535c8a338cb05c427be7ef0cc8858baf5172d7b36d54b7958f",
+  "title": "The Rawls Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8bd693f0-86ac-11e4-8c28-020000005b00",
+    "name": "The Rawls Course",
+    "address": "3720 4th St, Lubbock, TX",
+    "courses": [
+      {
+        "name": "The Rawls",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7323,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 138
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 6582,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6236,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5373,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8bd693f0-86ac-11e4-8c28-020000005b00/the-rawls-course"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9903d6a0-86ac-11e4-8c28-020000005b00/shamrock-hills-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9903d6a0-86ac-11e4-8c28-020000005b00/shamrock-hills-golf-club",
+  "checked_at": 1795524881.6647513,
+  "sha256": "07ef3c2c163ce96e18f4928c088ddb47e96ba161a23c5dba0d2f677c540d461b",
+  "title": "Shamrock Hills Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9903d6a0-86ac-11e4-8c28-020000005b00",
+    "name": "Shamrock Hills Golf Club",
+    "address": "10438 Holland-Gleenwood Road, Glenwood, NY",
+    "courses": [
+      {
+        "name": "Shamrock Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6511,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6511,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5800,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5800,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5220,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5220,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9903d6a0-86ac-11e4-8c28-020000005b00/shamrock-hills-golf-club"
+  }
+}

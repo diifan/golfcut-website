@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ec9e350-86ac-11e4-8c28-020000005b00/spring-run-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ec9e350-86ac-11e4-8c28-020000005b00/spring-run-golf-club",
+  "checked_at": 1795524335.886977,
+  "sha256": "ee2955d801d39aa86aaaf628daf05700b0739edf46d37fd94529c9416a8e50e2",
+  "title": "Spring Run Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8ec9e350-86ac-11e4-8c28-020000005b00",
+    "name": "Spring Run Golf Club",
+    "address": "9501 Spring Run Blvd",
+    "courses": [
+      {
+        "name": "Spring Run",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6989,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6554,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6158,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 127
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5356,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4759,
+            "par": 72,
+            "rating": 65.2,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4466,
+            "par": 72,
+            "rating": 62.9,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ec9e350-86ac-11e4-8c28-020000005b00/spring-run-golf-club"
+  }
+}

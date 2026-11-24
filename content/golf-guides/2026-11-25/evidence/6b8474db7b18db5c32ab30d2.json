@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af3831f0-86ac-11e4-8c28-020000005b00/woodland-hills-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af3831f0-86ac-11e4-8c28-020000005b00/woodland-hills-golf-country-club",
+  "checked_at": 1795523946.0197113,
+  "sha256": "b2de54aa8ea61cfa48df7be17742155902f93b582d44b706d4a29eaca7996940",
+  "title": "Woodland Hills Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af3831f0-86ac-11e4-8c28-020000005b00",
+    "name": "Woodland Hills Golf & Country Club",
+    "address": "2 Club House Dr",
+    "courses": [
+      {
+        "name": "Woodland Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6442,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6194,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5057,
+            "par": 72,
+            "rating": 68,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af3831f0-86ac-11e4-8c28-020000005b00/woodland-hills-golf-country-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99677a70-86ac-11e4-8c28-020000005b00/winding-hills-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99677a70-86ac-11e4-8c28-020000005b00/winding-hills-golf-club",
+  "checked_at": 1795524107.9542444,
+  "sha256": "2619d457a00044bd6606da7667c52b1123ca67b0ec290d97193bd7ae813ffcc9",
+  "title": "Winding Hills Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99677a70-86ac-11e4-8c28-020000005b00",
+    "name": "Winding Hills Golf Club",
+    "address": "1847 Route 17K Montgomery, NY 12549",
+    "courses": [
+      {
+        "name": "Winding Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2603,
+            "par": 57,
+            "rating": 56,
+            "slope": 101
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2603,
+            "par": 57,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2172,
+            "par": 57,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2172,
+            "par": 57,
+            "rating": 57.1,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99677a70-86ac-11e4-8c28-020000005b00/winding-hills-golf-club"
+  }
+}

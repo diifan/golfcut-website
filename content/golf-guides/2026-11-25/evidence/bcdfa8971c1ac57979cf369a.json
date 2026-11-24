@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/953ae7c0-86ac-11e4-8c28-020000005b00/country-club-of-billerica",
+  "resolved_url": "https://18birdies.com/golf-courses/club/953ae7c0-86ac-11e4-8c28-020000005b00/country-club-of-billerica",
+  "checked_at": 1795524000.4434266,
+  "sha256": "a428f865bdb958d9d24e23d23c947cfe64e6e44f6a3cd32a0ec283d75ec042d3",
+  "title": "Country Club of Billerica - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "953ae7c0-86ac-11e4-8c28-020000005b00",
+    "name": "Country Club of Billerica",
+    "address": "51 Baldwin Rd, Billerica, MA",
+    "courses": [
+      {
+        "name": "Billerica",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5798,
+            "par": 69,
+            "rating": 67.9,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5798,
+            "par": 69,
+            "rating": 72.7,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5501,
+            "par": 69,
+            "rating": 66.4,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5501,
+            "par": 69,
+            "rating": 71.4,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4485,
+            "par": 69,
+            "rating": 63.9,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4485,
+            "par": 69,
+            "rating": 66.5,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/953ae7c0-86ac-11e4-8c28-020000005b00/country-club-of-billerica"
+  }
+}

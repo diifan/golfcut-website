@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8aae8eb0-86ac-11e4-8c28-020000005b00/la-canada-flintridge-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8aae8eb0-86ac-11e4-8c28-020000005b00/la-canada-flintridge-country-club",
+  "checked_at": 1795524841.4153447,
+  "sha256": "d077f430b29ce5ac4684391ff9eaf41ca95f5e715da3728fe1f56014b2417795",
+  "title": "La Canada Flintridge Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8aae8eb0-86ac-11e4-8c28-020000005b00",
+    "name": "La Canada Flintridge Country Club",
+    "address": "5500 Godbey Drive La Cañada Flintridge",
+    "courses": [
+      {
+        "name": "La Canada",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5690,
+            "par": 70,
+            "rating": 69.5,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5690,
+            "par": 70,
+            "rating": 74.6,
+            "slope": 137
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5016,
+            "par": 70,
+            "rating": 66.2,
+            "slope": 120
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5016,
+            "par": 70,
+            "rating": 71,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8aae8eb0-86ac-11e4-8c28-020000005b00/la-canada-flintridge-country-club"
+  }
+}

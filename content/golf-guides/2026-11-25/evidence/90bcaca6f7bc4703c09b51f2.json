@@ -1,0 +1,273 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83c8a860-86ac-11e4-8c28-020000005b00/white-eagle-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83c8a860-86ac-11e4-8c28-020000005b00/white-eagle-golf-course",
+  "checked_at": 1795523748.53685,
+  "sha256": "92a4d4f3b5face586ccd2d4f80cc466834bf565d07e2287682d72aaaefa11219",
+  "title": "White Eagle Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "83c8a860-86ac-11e4-8c28-020000005b00",
+    "name": "White Eagle Golf Course",
+    "address": "3400 Club Dr, Naperville, IL",
+    "courses": [
+      {
+        "name": "White Eagle (Blue - Red)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7099,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 145
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7099,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6630,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 140
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6630,
+            "par": 72,
+            "rating": 77.2,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6314,
+            "par": 72,
+            "rating": 71,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6314,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5939,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5939,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 138
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5052,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5052,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 127
+          }
+        ]
+      },
+      {
+        "name": "White Eagle (Red - White)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7211,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 142
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7211,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6678,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6678,
+            "par": 72,
+            "rating": 77.4,
+            "slope": 138
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6394,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 133
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6394,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6087,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6087,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 134
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5171,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5171,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 124
+          }
+        ]
+      },
+      {
+        "name": "White Eagle (White - Blue)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7048,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 140
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7048,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6586,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6586,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 136
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6296,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 132
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6296,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5978,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5978,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 136
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5197,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5197,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83c8a860-86ac-11e4-8c28-020000005b00/white-eagle-golf-course"
+  }
+}

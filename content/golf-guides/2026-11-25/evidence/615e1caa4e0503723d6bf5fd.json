@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/897bb400-86ac-11e4-8c28-020000005b00/oso-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/897bb400-86ac-11e4-8c28-020000005b00/oso-creek-golf-course",
+  "checked_at": 1795523704.4900508,
+  "sha256": "b6bbcfdbcd05838bc836df2d9e21ec61dbc6838b9f090d73834cbb13ab9bb999",
+  "title": "Oso Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "897bb400-86ac-11e4-8c28-020000005b00",
+    "name": "Oso Creek Golf Course",
+    "address": "27601 Casta del Sol Rd, Orange County",
+    "courses": [
+      {
+        "name": "Oso Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3630,
+            "par": 59,
+            "rating": 57.9,
+            "slope": 97
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3630,
+            "par": 59,
+            "rating": 61.2,
+            "slope": 102
+          },
+          {
+            "name": "Blue/Silver Combo",
+            "category": "MALE",
+            "yards": 3484,
+            "par": 59,
+            "rating": 57.2,
+            "slope": 95
+          },
+          {
+            "name": "Blue/Silver Combo",
+            "category": "FEMALE",
+            "yards": 3484,
+            "par": 59,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 3337,
+            "par": 59,
+            "rating": 56.5,
+            "slope": 93
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 3337,
+            "par": 59,
+            "rating": 59.5,
+            "slope": 98
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/897bb400-86ac-11e4-8c28-020000005b00/oso-creek-golf-course"
+  }
+}

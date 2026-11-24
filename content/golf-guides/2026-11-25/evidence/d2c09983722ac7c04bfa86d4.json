@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/97a11250-86ac-11e4-8c28-020000005b00/howell-park",
+  "resolved_url": "https://18birdies.com/golf-courses/club/97a11250-86ac-11e4-8c28-020000005b00/howell-park",
+  "checked_at": 1795524877.5949113,
+  "sha256": "004a3978f7d1393409a66a598dced848e93f5018136541c7466d75995538e067",
+  "title": "Howell Park - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "97a11250-86ac-11e4-8c28-020000005b00",
+    "name": "Howell Park",
+    "address": "524 Preventorium Rd",
+    "courses": [
+      {
+        "name": "Howell Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6964,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6321,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5779,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5682,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/97a11250-86ac-11e4-8c28-020000005b00/howell-park"
+  }
+}

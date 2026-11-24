@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/94a1dc10-86ac-11e4-8c28-020000005b00/tates-creek",
+  "resolved_url": "https://18birdies.com/golf-courses/club/94a1dc10-86ac-11e4-8c28-020000005b00/tates-creek",
+  "checked_at": 1795524105.4372845,
+  "sha256": "218d6a223307c1d47e184f1bbdb8f674a4cbf17fd7dec054fa0bf5e63a176620",
+  "title": "Tates Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "94a1dc10-86ac-11e4-8c28-020000005b00",
+    "name": "Tates Creek Golf Course",
+    "address": "1400 Gainesway Dr.",
+    "courses": [
+      {
+        "name": "Tates Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6430,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6430,
+            "par": 73,
+            "rating": 75.8,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6023,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6023,
+            "par": 73,
+            "rating": 73.5,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5394,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 110
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5394,
+            "par": 73,
+            "rating": 70.4,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4494,
+            "par": 72,
+            "rating": 61.6,
+            "slope": 102
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4494,
+            "par": 73,
+            "rating": 65.1,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/94a1dc10-86ac-11e4-8c28-020000005b00/tates-creek"
+  }
+}

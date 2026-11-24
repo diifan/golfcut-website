@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2fb7b80-86ac-11e4-8c28-020000005b00/maple-grove-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2fb7b80-86ac-11e4-8c28-020000005b00/maple-grove-golf-course",
+  "checked_at": 1795524887.8730125,
+  "sha256": "242ced81f8d3c39c5b67ccfef0182a7721371762600aaba63e9bd65bb25c466a",
+  "title": "Maple Grove Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b2fb7b80-86ac-11e4-8c28-020000005b00",
+    "name": "Maple Grove Golf Course",
+    "address": "6360 Secor Rd, Lambertville, MI",
+    "courses": [
+      {
+        "name": "Maple Grove (Regulation)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5403,
+            "par": 69,
+            "rating": 70.5,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5403,
+            "par": 69,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4760,
+            "par": 69,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4760,
+            "par": 69,
+            "rating": 71.7,
+            "slope": 123
+          }
+        ]
+      },
+      {
+        "name": "Maple Course (Executive Course)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1272,
+            "par": 27,
+            "rating": 27.59988,
+            "slope": 83.34904
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1272,
+            "par": 27,
+            "rating": 27.59988,
+            "slope": 83.34904
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1272,
+            "par": 27,
+            "rating": 27.59988,
+            "slope": 83.34904
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1272,
+            "par": 27,
+            "rating": 27.59988,
+            "slope": 83.34904
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2fb7b80-86ac-11e4-8c28-020000005b00/maple-grove-golf-course"
+  }
+}

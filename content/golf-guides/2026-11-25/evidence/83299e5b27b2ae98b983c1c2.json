@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/77e87f20-86ac-11e4-8c28-020000005b00/wolf-run-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/77e87f20-86ac-11e4-8c28-020000005b00/wolf-run-golf-club",
+  "checked_at": 1795524344.7996235,
+  "sha256": "4b2b300ce10b2e728a3260866545772fa58eb5d196350186ba4c748422f5397e",
+  "title": "Wolf Run Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "77e87f20-86ac-11e4-8c28-020000005b00",
+    "name": "Wolf Run Golf Club",
+    "address": "51 Golf Course Road, Janetville",
+    "courses": [
+      {
+        "name": "Wolf Run",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6716,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6716,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6250,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6250,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5522,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5522,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 124
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5029,
+            "par": 72,
+            "rating": 63.9,
+            "slope": 107
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5029,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/77e87f20-86ac-11e4-8c28-020000005b00/wolf-run-golf-club"
+  }
+}

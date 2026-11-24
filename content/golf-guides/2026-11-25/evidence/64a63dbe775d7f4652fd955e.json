@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8b248200-86ac-11e4-8c28-020000005b00/pebble-creek-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8b248200-86ac-11e4-8c28-020000005b00/pebble-creek-country-club",
+  "checked_at": 1795523683.5249887,
+  "sha256": "17d8953219fc94e942b616f5b0e45a5a34abdf201b6acab43fe97a0687be5343",
+  "title": "Pebble Creek Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8b248200-86ac-11e4-8c28-020000005b00",
+    "name": "Pebble Creek Country Club",
+    "address": "4500 Pebble Creek Pkwy, College Station, TX",
+    "courses": [
+      {
+        "name": "Pebble Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Maroon",
+            "category": "MALE",
+            "yards": 6861,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 132
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6332,
+            "par": 72,
+            "rating": 71,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5780,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 117
+          },
+          {
+            "name": "Combo (Gold/White)",
+            "category": "MALE",
+            "yards": 5360,
+            "par": 72,
+            "rating": 66.9,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4991,
+            "par": 72,
+            "rating": 64.7,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8b248200-86ac-11e4-8c28-020000005b00/pebble-creek-country-club"
+  }
+}

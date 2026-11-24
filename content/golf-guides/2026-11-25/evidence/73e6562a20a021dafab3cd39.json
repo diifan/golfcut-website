@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/93985b50-86ac-11e4-8c28-020000005b00/marietta-city-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/93985b50-86ac-11e4-8c28-020000005b00/marietta-city-club",
+  "checked_at": 1795523696.5055275,
+  "sha256": "03f82017b691333a75a9d22ab0f55fd8205298023c616549f70ebc49143fef04",
+  "title": "Marietta City Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "93985b50-86ac-11e4-8c28-020000005b00",
+    "name": "Marietta City Club",
+    "address": "510 Powder Springs Street, GA",
+    "courses": [
+      {
+        "name": "Marietta City Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5656,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5656,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5362,
+            "par": 71,
+            "rating": 67.2,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5362,
+            "par": 71,
+            "rating": 72.8,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4866,
+            "par": 71,
+            "rating": 64.9,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4866,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4496,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4496,
+            "par": 71,
+            "rating": 67.5,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/93985b50-86ac-11e4-8c28-020000005b00/marietta-city-club"
+  }
+}

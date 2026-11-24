@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/89645b70-86ac-11e4-8c28-020000005b00/micke-grove-golf-links",
+  "resolved_url": "https://18birdies.com/golf-courses/club/89645b70-86ac-11e4-8c28-020000005b00/micke-grove-golf-links",
+  "checked_at": 1795523955.7690475,
+  "sha256": "ffc80c7f87293b6e718bc573e0dbb8f322cd1ba2fdddcb8a7860e63479a83a77",
+  "title": "Micke Grove Golf Links - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "89645b70-86ac-11e4-8c28-020000005b00",
+    "name": "Micke Grove Golf Links",
+    "address": "11401 N Micke Grove Rd, Lodi, CA",
+    "courses": [
+      {
+        "name": "Micke Grove",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6565,
+            "par": 72,
+            "rating": 72,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6565,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 6293,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 126
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 6293,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6026,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6026,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5286,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5286,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/89645b70-86ac-11e4-8c28-020000005b00/micke-grove-golf-links"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95de0590-86ac-11e4-8c28-020000005b00/wenham-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95de0590-86ac-11e4-8c28-020000005b00/wenham-country-club",
+  "checked_at": 1795524109.843865,
+  "sha256": "073b560b91ea7445aa0d1ac48eb421346a7d70b5f3bb5818ea07d428131c1789",
+  "title": "Wenham Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "95de0590-86ac-11e4-8c28-020000005b00",
+    "name": "Wenham Country Club",
+    "address": "94 Main St, Wenham, MA",
+    "courses": [
+      {
+        "name": "Wenham",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4567,
+            "par": 65,
+            "rating": 63.3,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4567,
+            "par": 65,
+            "rating": 66.2,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4345,
+            "par": 65,
+            "rating": 64.7,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4345,
+            "par": 65,
+            "rating": 65.3,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95de0590-86ac-11e4-8c28-020000005b00/wenham-country-club"
+  }
+}

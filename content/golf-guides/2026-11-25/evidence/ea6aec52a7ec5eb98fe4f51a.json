@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9289f890-86ac-11e4-8c28-020000005b00/tashua-knolls-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9289f890-86ac-11e4-8c28-020000005b00/tashua-knolls-golf-course",
+  "checked_at": 1795523970.264811,
+  "sha256": "21f0c045627d568ec4dd36efbccb0cbdf53c2eb9353654f7a399543407c9d198",
+  "title": "Tashua Knolls Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9289f890-86ac-11e4-8c28-020000005b00",
+    "name": "Tashua Knolls Golf Course",
+    "address": "40 Tashua Knolls Lane, Trumbull, CT",
+    "courses": [
+      {
+        "name": "Tashua Knolls(18 holes )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6540,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6119,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5656,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 124
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5050,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 119
+          }
+        ]
+      },
+      {
+        "name": "Tashua Glen (9 holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 2183,
+            "par": 33,
+            "rating": 31,
+            "slope": 103
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2036,
+            "par": 33,
+            "rating": 30.8,
+            "slope": 100
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1851,
+            "par": 33,
+            "rating": 30,
+            "slope": 98
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 1664,
+            "par": 33,
+            "rating": 29.4,
+            "slope": 91
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9289f890-86ac-11e4-8c28-020000005b00/tashua-knolls-golf-course"
+  }
+}

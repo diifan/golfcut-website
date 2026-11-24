@@ -1,0 +1,107 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d71a650-86ac-11e4-8c28-020000005b00/stony-creek",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d71a650-86ac-11e4-8c28-020000005b00/stony-creek",
+  "checked_at": 1795524323.2036204,
+  "sha256": "c09f25688eeca1ea061fe6996398166adbfe0502684169d5d22667cdd0d2ab4e",
+  "title": "Stony Creek - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d71a650-86ac-11e4-8c28-020000005b00",
+    "name": "Stony Creek",
+    "address": "11800 E 166th St, Noblesville, IN",
+    "courses": [
+      {
+        "name": "18 Hole The Championship",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6371,
+            "par": 71,
+            "rating": 70.5,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5812,
+            "par": 71,
+            "rating": 68,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6531,
+            "par": 71,
+            "rating": 71,
+            "slope": 124
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5209,
+            "par": 71,
+            "rating": 65.2,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5093,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 117
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 3594,
+            "par": 71,
+            "rating": 61.3,
+            "slope": 104
+          }
+        ]
+      },
+      {
+        "name": "9 Hole Par 3",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1022,
+            "par": 27,
+            "rating": 27.3,
+            "slope": 87
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1022,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 885,
+            "par": 27,
+            "rating": 26.3,
+            "slope": 85
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 885,
+            "par": 27,
+            "rating": 28.5,
+            "slope": 89
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d71a650-86ac-11e4-8c28-020000005b00/stony-creek"
+  }
+}

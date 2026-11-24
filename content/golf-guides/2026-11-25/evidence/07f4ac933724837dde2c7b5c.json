@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/addd0ec0-86ac-11e4-8c28-020000005b00/birdsfoot-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/addd0ec0-86ac-11e4-8c28-020000005b00/birdsfoot-golf-club",
+  "checked_at": 1795524205.510105,
+  "sha256": "aafb6c8686f1280c342bcab935a71f32cbe5510be937771fbf807aa1604164d5",
+  "title": "Birdsfoot Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "addd0ec0-86ac-11e4-8c28-020000005b00",
+    "name": "Birdsfoot Golf Club",
+    "address": "225 Furnace Run Rd",
+    "courses": [
+      {
+        "name": "Birdsfoot",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7047,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6547,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6106,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5611,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4800,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/addd0ec0-86ac-11e4-8c28-020000005b00/birdsfoot-golf-club"
+  }
+}

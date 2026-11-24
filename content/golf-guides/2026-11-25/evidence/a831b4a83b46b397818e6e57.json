@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/d49c9c10-47a8-11e6-8dda-0680a328ea36/ledgeview-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/d49c9c10-47a8-11e6-8dda-0680a328ea36/ledgeview-golf-course",
+  "checked_at": 1795524202.1449106,
+  "sha256": "0954f008c16c25726fe2d9f597e3c18a20a7791f18db4998b726683dca1235de",
+  "title": "Ledgeview Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "d49c9c10-47a8-11e6-8dda-0680a328ea36",
+    "name": "Ledgeview Golf Course",
+    "address": "3149 Dickinson Road - De Pere, WI 54115",
+    "courses": [
+      {
+        "name": "Championship Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6049,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6049,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6269,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6269,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5569,
+            "par": 72,
+            "rating": 67,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5569,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 120
+          }
+        ]
+      },
+      {
+        "name": "Executive Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1461,
+            "par": 31,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1461,
+            "par": 31,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Mens",
+            "category": "MALE",
+            "yards": 1461,
+            "par": 31,
+            "rating": 30.2,
+            "slope": 90
+          },
+          {
+            "name": "Mens",
+            "category": "FEMALE",
+            "yards": 1461,
+            "par": 31,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 1461,
+            "par": 31,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ladies",
+            "category": "FEMALE",
+            "yards": 1461,
+            "par": 31,
+            "rating": 31.2,
+            "slope": 93
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/d49c9c10-47a8-11e6-8dda-0680a328ea36/ledgeview-golf-course"
+  }
+}

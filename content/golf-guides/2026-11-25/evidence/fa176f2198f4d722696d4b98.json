@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b34507a0-86ac-11e4-8c28-020000005b00/salem-hills-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b34507a0-86ac-11e4-8c28-020000005b00/salem-hills-golf-club",
+  "checked_at": 1795524835.387132,
+  "sha256": "c5ef58aaaf8c552581bd9d6a0384f65f33693afdfb7eaffe76ae9b916ff9d723",
+  "title": "Salem Hills Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b34507a0-86ac-11e4-8c28-020000005b00",
+    "name": "Salem Hills Golf Club",
+    "address": "8820 W Six Mile Rd",
+    "courses": [
+      {
+        "name": "Salem Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6906,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6906,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6504,
+            "par": 72,
+            "rating": 71,
+            "slope": 126
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 6504,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6078,
+            "par": 72,
+            "rating": 69,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6078,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 133
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4915,
+            "par": 72,
+            "rating": 63.3,
+            "slope": 107
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4915,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b34507a0-86ac-11e4-8c28-020000005b00/salem-hills-golf-club"
+  }
+}

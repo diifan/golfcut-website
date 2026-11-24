@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b59cda50-86ac-11e4-8c28-020000005b00/the-bridges-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b59cda50-86ac-11e4-8c28-020000005b00/the-bridges-golf-course",
+  "checked_at": 1795523838.935135,
+  "sha256": "a21175a0f9ee59b9907cd866b9b60e27e2ad06757afc34d2fdccd9ba386adea6",
+  "title": "The Bridges Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b59cda50-86ac-11e4-8c28-020000005b00",
+    "name": "The Bridges Golf Course",
+    "address": "2702 Shopko Drive",
+    "courses": [
+      {
+        "name": "Bridges",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6867,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 128
+          },
+          {
+            "name": "Blue/white",
+            "category": "MALE",
+            "yards": 6422,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6093,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 120
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5302,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4806,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b59cda50-86ac-11e4-8c28-020000005b00/the-bridges-golf-course"
+  }
+}

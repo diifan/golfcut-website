@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c478ff0-86ac-11e4-8c28-020000005b00/chapel-hill-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c478ff0-86ac-11e4-8c28-020000005b00/chapel-hill-golf-course",
+  "checked_at": 1795524813.4847376,
+  "sha256": "be402eb7cf9c174f872011d7992e019271b16925c18a627d50efa8fbb5b546cf",
+  "title": "Chapel Hill Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9c478ff0-86ac-11e4-8c28-020000005b00",
+    "name": "Chapel Hill Golf Course",
+    "address": "7516 Johnstown Rd",
+    "courses": [
+      {
+        "name": "Chapel Hill F + B",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6856,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 128
+          },
+          {
+            "name": "Teal",
+            "category": "MALE",
+            "yards": 6351,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6034,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5221,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 111
+          },
+          {
+            "name": "Magenta",
+            "category": "MALE",
+            "yards": 4621,
+            "par": 72,
+            "rating": 66,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c478ff0-86ac-11e4-8c28-020000005b00/chapel-hill-golf-course"
+  }
+}

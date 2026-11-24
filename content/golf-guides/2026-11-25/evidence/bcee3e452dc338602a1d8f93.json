@@ -1,0 +1,263 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5824d70-86ac-11e4-8c28-020000005b00/winagamie-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5824d70-86ac-11e4-8c28-020000005b00/winagamie-golf",
+  "checked_at": 1795524156.080348,
+  "sha256": "c9a5b20eefbb75f605cfc853ffb6b3eed174588776319d5abad30729213c8315",
+  "title": "Winagamie Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b5824d70-86ac-11e4-8c28-020000005b00",
+    "name": "Winagamie Golf",
+    "address": "3501 Winagamie Drive, Neenah, WI",
+    "courses": [
+      {
+        "name": "Pines / Woodlands",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6276,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6276,
+            "par": 72,
+            "rating": 75,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5916,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5916,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4851,
+            "par": 72,
+            "rating": 64,
+            "slope": 109
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4851,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4607,
+            "par": 72,
+            "rating": 63.1,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4607,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 114
+          }
+        ]
+      },
+      {
+        "name": "Highlands / Woodlands",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5683,
+            "par": 69,
+            "rating": 66.2,
+            "slope": 111
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5683,
+            "par": 69,
+            "rating": 72.1,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5301,
+            "par": 69,
+            "rating": 63.1,
+            "slope": 105
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5301,
+            "par": 69,
+            "rating": 70.1,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4230,
+            "par": 69,
+            "rating": 62.9,
+            "slope": 101
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4230,
+            "par": 69,
+            "rating": 63.9,
+            "slope": 103
+          }
+        ]
+      },
+      {
+        "name": "Pines / Highlands",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5718,
+            "par": 69,
+            "rating": 65.3,
+            "slope": 106
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5718,
+            "par": 69,
+            "rating": 72.3,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5272,
+            "par": 69,
+            "rating": 63.1,
+            "slope": 104
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5272,
+            "par": 69,
+            "rating": 70.1,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4376,
+            "par": 69,
+            "rating": 63.1,
+            "slope": 104
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4376,
+            "par": 69,
+            "rating": 70.1,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4217,
+            "par": 69,
+            "rating": 64.7,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4217,
+            "par": 69,
+            "rating": 64.5,
+            "slope": 103
+          }
+        ]
+      },
+      {
+        "name": "Highlands",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2580,
+            "par": 33,
+            "rating": 31.5,
+            "slope": 107
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2580,
+            "par": 33,
+            "rating": 34.7,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2271,
+            "par": 33,
+            "rating": 30.6,
+            "slope": 102
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2271,
+            "par": 33,
+            "rating": 33,
+            "slope": 111
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 1872,
+            "par": 33,
+            "rating": 31,
+            "slope": 97
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 1872,
+            "par": 33,
+            "rating": 29.1,
+            "slope": 96
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5824d70-86ac-11e4-8c28-020000005b00/winagamie-golf"
+  }
+}

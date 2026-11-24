@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9bb49ec0-86ac-11e4-8c28-020000005b00/little-met-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9bb49ec0-86ac-11e4-8c28-020000005b00/little-met-golf-course",
+  "checked_at": 1795524114.8622904,
+  "sha256": "6a64b17729f4e9a8185fbb33050b828107166d0e4af598325d3a8500cdba2890",
+  "title": "Little Met Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9bb49ec0-86ac-11e4-8c28-020000005b00",
+    "name": "Little Met Golf Course",
+    "address": "18599 Old Lorain Rd, Cleveland, OH",
+    "courses": [
+      {
+        "name": "9 Hole Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2527,
+            "par": 34,
+            "rating": 34,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2527,
+            "par": 34,
+            "rating": 34.4,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2194,
+            "par": 34,
+            "rating": 32.4,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2194,
+            "par": 34,
+            "rating": 32.6,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9bb49ec0-86ac-11e4-8c28-020000005b00/little-met-golf-course"
+  }
+}

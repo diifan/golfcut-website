@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/987c3010-86ac-11e4-8c28-020000005b00/grover-cleveland-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/987c3010-86ac-11e4-8c28-020000005b00/grover-cleveland-golf-course",
+  "checked_at": 1795523785.44117,
+  "sha256": "15fa24a7b5e00556f14bfe7c8c7f66a3c759526e25d2bf83418f41b3ed53aaee",
+  "title": "Grover Cleveland Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "987c3010-86ac-11e4-8c28-020000005b00",
+    "name": "Grover Cleveland Golf Course",
+    "address": "3781 Main St",
+    "courses": [
+      {
+        "name": "Grover Cleveland",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5621,
+            "par": 69,
+            "rating": 66.5,
+            "slope": 107
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5621,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5240,
+            "par": 69,
+            "rating": 64.1,
+            "slope": 100
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5240,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/987c3010-86ac-11e4-8c28-020000005b00/grover-cleveland-golf-course"
+  }
+}

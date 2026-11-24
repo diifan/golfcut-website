@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/984d30d0-86ac-11e4-8c28-020000005b00/rock-spring-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/984d30d0-86ac-11e4-8c28-020000005b00/rock-spring-club",
+  "checked_at": 1795524820.2825556,
+  "sha256": "325e4d2522dbb51c91f07046c83f64840d3c88554e95374760560f9210d5d551",
+  "title": "Rock Spring Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "984d30d0-86ac-11e4-8c28-020000005b00",
+    "name": "Rock Spring Club",
+    "address": "90 Rock Spring Road",
+    "courses": [
+      {
+        "name": "Rock Spring",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6462,
+            "par": 71,
+            "rating": 71.7,
+            "slope": 136
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6462,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6280,
+            "par": 71,
+            "rating": 70.8,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6280,
+            "par": 71,
+            "rating": 77.5,
+            "slope": 142
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5780,
+            "par": 71,
+            "rating": 68.6,
+            "slope": 131
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5780,
+            "par": 71,
+            "rating": 74.7,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5385,
+            "par": 71,
+            "rating": 66.8,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5385,
+            "par": 71,
+            "rating": 72.1,
+            "slope": 131
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/984d30d0-86ac-11e4-8c28-020000005b00/rock-spring-club"
+  }
+}

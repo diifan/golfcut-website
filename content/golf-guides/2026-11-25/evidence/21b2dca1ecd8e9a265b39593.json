@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/904b7a40-86ac-11e4-8c28-020000005b00/sara-bay-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/904b7a40-86ac-11e4-8c28-020000005b00/sara-bay-country-club",
+  "checked_at": 1795524874.3829722,
+  "sha256": "b566dd10cd59d77f30d77a625d796a54047314b9372f803fd8b7c63754e33580",
+  "title": "Sara Bay Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "904b7a40-86ac-11e4-8c28-020000005b00",
+    "name": "Sara Bay Country Club",
+    "address": "7011 Willow St",
+    "courses": [
+      {
+        "name": "Sara Bay",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7021,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6414,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 126
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5832,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5559,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5256,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/904b7a40-86ac-11e4-8c28-020000005b00/sara-bay-country-club"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8363f320-86ac-11e4-8c28-020000005b00/country-hills-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8363f320-86ac-11e4-8c28-020000005b00/country-hills-golf-course",
+  "checked_at": 1795524130.2697804,
+  "sha256": "8b2200a176c51a7a9966ffddd2434c09844b70f9c56c0f40a65f218944cdbbcd",
+  "title": "Country Hills Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8363f320-86ac-11e4-8c28-020000005b00",
+    "name": "Country Hills Golf Course",
+    "address": "21723 Smoot St",
+    "courses": [
+      {
+        "name": "Country Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 6414,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6164,
+            "par": 72,
+            "rating": 73,
+            "slope": 125
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4951,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8363f320-86ac-11e4-8c28-020000005b00/country-hills-golf-course"
+  }
+}

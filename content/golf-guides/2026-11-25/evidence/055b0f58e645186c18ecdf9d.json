@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1a20600-86ac-11e4-8c28-020000005b00/los-altos-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1a20600-86ac-11e4-8c28-020000005b00/los-altos-golf-course",
+  "checked_at": 1795524060.5396705,
+  "sha256": "e3283ae582092b775adf6d50bf542c66ceae6ddbc0bf5ca4ae60b234856710c2",
+  "title": "Los Altos Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1a20600-86ac-11e4-8c28-020000005b00",
+    "name": "Los Altos Golf Course",
+    "address": "9717 Copper Ave NE, Albuquerque, NM 87123",
+    "courses": [
+      {
+        "name": "Los Altos (Regulation)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6722,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6722,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6305,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6305,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 134
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5808,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 111
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5808,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5536,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 102
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5536,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1a20600-86ac-11e4-8c28-020000005b00/los-altos-golf-course"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/1a4f4c70-a938-11ec-b5d7-06780482e2ce/the-grove-xxiii",
+  "resolved_url": "https://18birdies.com/golf-courses/club/1a4f4c70-a938-11ec-b5d7-06780482e2ce/the-grove-xxiii",
+  "checked_at": 1795523883.522288,
+  "sha256": "ceb2da1efc7676a516f42ea874b8d67ccd98ef3ff771add0b13f99c3be4f2996",
+  "title": "The Grove XXIII - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "1a4f4c70-a938-11ec-b5d7-06780482e2ce",
+    "name": "The Grove XXIII",
+    "address": "2323 SE Blackcat Way, Hobe Sound, FL",
+    "courses": [
+      {
+        "name": "Grove XXIII",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Teal",
+            "category": "MALE",
+            "yards": 6963,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 139
+          },
+          {
+            "name": "Teal",
+            "category": "FEMALE",
+            "yards": 6963,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 6395,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 6395,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5766,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5766,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5234,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5234,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/1a4f4c70-a938-11ec-b5d7-06780482e2ce/the-grove-xxiii"
+  }
+}

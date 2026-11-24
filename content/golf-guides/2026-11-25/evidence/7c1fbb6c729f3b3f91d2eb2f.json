@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e197f10-86ac-11e4-8c28-020000005b00/encanto-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e197f10-86ac-11e4-8c28-020000005b00/encanto-golf-course",
+  "checked_at": 1795524238.1879098,
+  "sha256": "4769aeb5bfa8501b83b26b745993ea2341f4c14fa51d263e1fcecbd591d3cbd4",
+  "title": "Encanto Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8e197f10-86ac-11e4-8c28-020000005b00",
+    "name": "Encanto Golf Course",
+    "address": "2745 N 15th Ave, Phoenix, AZ",
+    "courses": [
+      {
+        "name": "18 Hole Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6404,
+            "par": 70,
+            "rating": 69.4,
+            "slope": 113
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6404,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5694,
+            "par": 70,
+            "rating": 66.3,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5694,
+            "par": 72,
+            "rating": 72,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6040,
+            "par": 70,
+            "rating": 68.3,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6040,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 122
+          }
+        ]
+      },
+      {
+        "name": "Executive (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1710,
+            "par": 30,
+            "rating": 28.6,
+            "slope": 80
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1710,
+            "par": 30,
+            "rating": 28.9,
+            "slope": 81
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e197f10-86ac-11e4-8c28-020000005b00/encanto-golf-course"
+  }
+}

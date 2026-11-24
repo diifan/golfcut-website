@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83448440-86ac-11e4-8c28-020000005b00/wing-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83448440-86ac-11e4-8c28-020000005b00/wing-park-golf-course",
+  "checked_at": 1795524320.193082,
+  "sha256": "39aee010e431586938fc8273131aa188e3a57ae2b949c8d895ee96f67b8fb512",
+  "title": "Wing Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "83448440-86ac-11e4-8c28-020000005b00",
+    "name": "Wing Park Golf Course",
+    "address": "1000 Wing St, Elgin, IL",
+    "courses": [
+      {
+        "name": "Wing Park",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3131,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 114
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3131,
+            "par": 36,
+            "rating": 37.6,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2778,
+            "par": 36,
+            "rating": 32.9,
+            "slope": 107
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2778,
+            "par": 36,
+            "rating": 35.7,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2629,
+            "par": 36,
+            "rating": 34.4,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2629,
+            "par": 36,
+            "rating": 35.4,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83448440-86ac-11e4-8c28-020000005b00/wing-park-golf-course"
+  }
+}

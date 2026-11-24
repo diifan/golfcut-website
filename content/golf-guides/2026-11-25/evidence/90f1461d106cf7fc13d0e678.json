@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8375f480-86ac-11e4-8c28-020000005b00/jacksonville-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8375f480-86ac-11e4-8c28-020000005b00/jacksonville-country-club",
+  "checked_at": 1795524343.5359254,
+  "sha256": "7668177eb1b60455a3198c5c44b6719544681b65d256f2c6fa961ab8a7b8baab",
+  "title": "Jacksonville Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8375f480-86ac-11e4-8c28-020000005b00",
+    "name": "Jacksonville Country Club",
+    "address": "100 Country Club Rd, Jacksonville, IL",
+    "courses": [
+      {
+        "name": "Jacksonville",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6507,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6507,
+            "par": 75,
+            "rating": 76.5,
+            "slope": 136
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5925,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5925,
+            "par": 75,
+            "rating": 71.2,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8375f480-86ac-11e4-8c28-020000005b00/jacksonville-country-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8f377230-86ac-11e4-8c28-020000005b00/cross-creek-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8f377230-86ac-11e4-8c28-020000005b00/cross-creek-country-club",
+  "checked_at": 1795523894.7184963,
+  "sha256": "8790020629744383d91eb6477515cece30a6cf7924fbd872b2649781b6bb06da",
+  "title": "Cross Creek Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8f377230-86ac-11e4-8c28-020000005b00",
+    "name": "Cross Creek Country Club",
+    "address": "13050 Cross Creek Blvd, Fort Myers, FL",
+    "courses": [
+      {
+        "name": "Cross Creek CC",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3486,
+            "par": 60,
+            "rating": 60.5,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 3079,
+            "par": 60,
+            "rating": 59.5,
+            "slope": 110
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 2835,
+            "par": 60,
+            "rating": 58.9,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2682,
+            "par": 60,
+            "rating": 53.6,
+            "slope": 84
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8f377230-86ac-11e4-8c28-020000005b00/cross-creek-country-club"
+  }
+}

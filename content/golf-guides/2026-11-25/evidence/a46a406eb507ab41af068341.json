@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9426b8a0-86ac-11e4-8c28-020000005b00/south-park-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9426b8a0-86ac-11e4-8c28-020000005b00/south-park-country-club",
+  "checked_at": 1795523711.444616,
+  "sha256": "28c3b25c281cefa8926a4499ecc02fb7ae03f9e3082c633110611e78b34d38dd",
+  "title": "South Park Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9426b8a0-86ac-11e4-8c28-020000005b00",
+    "name": "South Park Country Club",
+    "address": "915 South Park Rd, Fairdale, KY",
+    "courses": [
+      {
+        "name": "South Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6601,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6601,
+            "par": 72,
+            "rating": 79.1,
+            "slope": 145
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6306,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6306,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 141
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5634,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5634,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5087,
+            "par": 72,
+            "rating": 64.6,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5087,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 130
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9426b8a0-86ac-11e4-8c28-020000005b00/south-park-country-club"
+  }
+}

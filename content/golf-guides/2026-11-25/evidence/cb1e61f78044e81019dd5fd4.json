@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/93d31a60-86ac-11e4-8c28-020000005b00/ocean-forest",
+  "resolved_url": "https://18birdies.com/golf-courses/club/93d31a60-86ac-11e4-8c28-020000005b00/ocean-forest",
+  "checked_at": 1795524133.8395154,
+  "sha256": "5705ef70494deaa00af8aac9f1d944df76c1d44fcd752de3bfa63104b6a4b8be",
+  "title": "Ocean Forest - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "93d31a60-86ac-11e4-8c28-020000005b00",
+    "name": "Ocean Forest",
+    "address": "200 Ocean Rd, Sea Island, GA",
+    "courses": [
+      {
+        "name": "Ocean Forest",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7321,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 149
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6656,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 142
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6320,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5898,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 131
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5457,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5101,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/93d31a60-86ac-11e4-8c28-020000005b00/ocean-forest"
+  }
+}

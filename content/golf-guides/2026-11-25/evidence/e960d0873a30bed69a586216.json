@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/91f64410-86ac-11e4-8c28-020000005b00/chipeta-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/91f64410-86ac-11e4-8c28-020000005b00/chipeta-golf-course",
+  "checked_at": 1795524068.7942019,
+  "sha256": "62fd47a00158961ff4d03c5fea940f03ed5c9563e7ee270557a3c42da33ed373",
+  "title": "Chipeta Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "91f64410-86ac-11e4-8c28-020000005b00",
+    "name": "Chipeta Golf Course",
+    "address": "222 29 Road, Grand Junction, CO",
+    "courses": [
+      {
+        "name": "Chipeta",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 3835,
+            "par": 59,
+            "rating": 58.8,
+            "slope": 86
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 3835,
+            "par": 60,
+            "rating": 60.9,
+            "slope": 95
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 3395,
+            "par": 59,
+            "rating": 55.9,
+            "slope": 80
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 3395,
+            "par": 60,
+            "rating": 58.1,
+            "slope": 88
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/91f64410-86ac-11e4-8c28-020000005b00/chipeta-golf-course"
+  }
+}

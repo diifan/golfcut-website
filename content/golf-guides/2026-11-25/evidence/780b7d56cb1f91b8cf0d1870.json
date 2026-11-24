@@ -1,0 +1,435 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95df8c30-86ac-11e4-8c28-020000005b00/far-corner-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95df8c30-86ac-11e4-8c28-020000005b00/far-corner-golf",
+  "checked_at": 1795523732.0276282,
+  "sha256": "4f0c3e2e4cef3bf5df12a35fa0a95be47ef052781e61940cbab8df28b093875d",
+  "title": "Far Corner Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95df8c30-86ac-11e4-8c28-020000005b00",
+    "name": "Far Corner Golf",
+    "address": "5 Barker Road, MA",
+    "courses": [
+      {
+        "name": "Fox/Heron",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6711,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6711,
+            "par": 73,
+            "rating": 77.6,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6185,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6185,
+            "par": 73,
+            "rating": 74.8,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5655,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5655,
+            "par": 73,
+            "rating": 73.3,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5090,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5090,
+            "par": 73,
+            "rating": 69.3,
+            "slope": 119
+          }
+        ]
+      },
+      {
+        "name": "Heron/Hawk",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6493,
+            "par": 72,
+            "rating": 72,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6493,
+            "par": 74,
+            "rating": 76.4,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6097,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6097,
+            "par": 74,
+            "rating": 74.3,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5677,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5677,
+            "par": 74,
+            "rating": 74.2,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5291,
+            "par": 72,
+            "rating": 69,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5291,
+            "par": 74,
+            "rating": 71.4,
+            "slope": 125
+          }
+        ]
+      },
+      {
+        "name": "Hawk/Fox",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6658,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6658,
+            "par": 75,
+            "rating": 77.3,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6232,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6232,
+            "par": 75,
+            "rating": 75,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5912,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5912,
+            "par": 75,
+            "rating": 74.7,
+            "slope": 134
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5411,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5411,
+            "par": 75,
+            "rating": 71.5,
+            "slope": 128
+          }
+        ]
+      },
+      {
+        "name": "Fox",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3438,
+            "par": 36,
+            "rating": 36.7,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3438,
+            "par": 37,
+            "rating": 39.2,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3160,
+            "par": 36,
+            "rating": 35.7,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3160,
+            "par": 37,
+            "rating": 37.8,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2945,
+            "par": 36,
+            "rating": 35.9,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2945,
+            "par": 37,
+            "rating": 36.9,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2605,
+            "par": 36,
+            "rating": 34.3,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2605,
+            "par": 37,
+            "rating": 34.7,
+            "slope": 122
+          }
+        ]
+      },
+      {
+        "name": "Heron",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3273,
+            "par": 36,
+            "rating": 36.2,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3273,
+            "par": 36,
+            "rating": 38.4,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3025,
+            "par": 36,
+            "rating": 35.2,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3025,
+            "par": 36,
+            "rating": 37,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2710,
+            "par": 36,
+            "rating": 34.8,
+            "slope": 112
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2710,
+            "par": 36,
+            "rating": 36.4,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2485,
+            "par": 36,
+            "rating": 33.8,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2485,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 116
+          }
+        ]
+      },
+      {
+        "name": "Hawk",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3220,
+            "par": 36,
+            "rating": 36.7,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3220,
+            "par": 38,
+            "rating": 38.1,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3072,
+            "par": 36,
+            "rating": 35.7,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3072,
+            "par": 38,
+            "rating": 37.3,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2967,
+            "par": 36,
+            "rating": 36,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2967,
+            "par": 38,
+            "rating": 36.9,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2806,
+            "par": 36,
+            "rating": 35.2,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2806,
+            "par": 38,
+            "rating": 34.7,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95df8c30-86ac-11e4-8c28-020000005b00/far-corner-golf"
+  }
+}

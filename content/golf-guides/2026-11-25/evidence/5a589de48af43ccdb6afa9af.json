@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c713800-86ac-11e4-8c28-020000005b00/pleasant-hill-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c713800-86ac-11e4-8c28-020000005b00/pleasant-hill-golf",
+  "checked_at": 1795524033.174095,
+  "sha256": "56dd8c23e0028b3f83ee2ea31476fe82161801a92ca86a5b33207a0810084d74",
+  "title": "Pleasant Hill Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9c713800-86ac-11e4-8c28-020000005b00",
+    "name": "Pleasant Hill Golf",
+    "address": "4089 Pleasant Hill Rd",
+    "courses": [
+      {
+        "name": "Pleasant Hill GC",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2536,
+            "par": 55,
+            "rating": 54.08204,
+            "slope": 81.23804
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2425,
+            "par": 55,
+            "rating": 53.6225,
+            "slope": 80.69525
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c713800-86ac-11e4-8c28-020000005b00/pleasant-hill-golf"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/835e74e0-86ac-11e4-8c28-020000005b00/valley-lo-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/835e74e0-86ac-11e4-8c28-020000005b00/valley-lo-club",
+  "checked_at": 1795524169.6482317,
+  "sha256": "4b5fd74b24f9f0ec3a3f82238044277ec6ebf6e59154d69988d9028a97a16184",
+  "title": "Valley Lo Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "835e74e0-86ac-11e4-8c28-020000005b00",
+    "name": "Valley Lo Club",
+    "address": "2200 Tanglewood Drive, Glenview, IL",
+    "courses": [
+      {
+        "name": "Valley Lo",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2249,
+            "par": 55,
+            "rating": 54,
+            "slope": 80
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2249,
+            "par": 55,
+            "rating": 52.89386,
+            "slope": 79.83461
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2249,
+            "par": 55,
+            "rating": 52.89386,
+            "slope": 79.83461
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2249,
+            "par": 55,
+            "rating": 54,
+            "slope": 80
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/835e74e0-86ac-11e4-8c28-020000005b00/valley-lo-club"
+  }
+}

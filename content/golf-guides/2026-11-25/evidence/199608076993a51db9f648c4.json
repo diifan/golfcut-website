@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99029e20-86ac-11e4-8c28-020000005b00/nassau",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99029e20-86ac-11e4-8c28-020000005b00/nassau",
+  "checked_at": 1795524046.2104392,
+  "sha256": "048ccd5ae3a02ff30bdc9108339af85875f0f53f1fab3e275a5dacdf1f108450",
+  "title": "Nassau - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99029e20-86ac-11e4-8c28-020000005b00",
+    "name": "Nassau",
+    "address": "30 St Andrews Ln, Glen Cove, NY",
+    "courses": [
+      {
+        "name": "Nassau",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6603,
+            "par": 70,
+            "rating": 72.7,
+            "slope": 132
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6603,
+            "par": 70,
+            "rating": 77,
+            "slope": 137
+          },
+          {
+            "name": "Brown",
+            "category": "MALE",
+            "yards": 6218,
+            "par": 70,
+            "rating": 70.7,
+            "slope": 130
+          },
+          {
+            "name": "Brown",
+            "category": "FEMALE",
+            "yards": 6218,
+            "par": 70,
+            "rating": 77,
+            "slope": 141
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5558,
+            "par": 70,
+            "rating": 67.9,
+            "slope": 126
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5558,
+            "par": 70,
+            "rating": 73.4,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5157,
+            "par": 70,
+            "rating": 68.4,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5157,
+            "par": 70,
+            "rating": 71,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99029e20-86ac-11e4-8c28-020000005b00/nassau"
+  }
+}

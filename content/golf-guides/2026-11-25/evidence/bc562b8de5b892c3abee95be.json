@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1815ea0-86ac-11e4-8c28-020000005b00/black-mesa-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1815ea0-86ac-11e4-8c28-020000005b00/black-mesa-golf-club",
+  "checked_at": 1795524272.7576733,
+  "sha256": "2a224819c44e4501b0e0ff36565221c7423d94e1903acc60c6f9fc38039e9f63",
+  "title": "Black Mesa Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1815ea0-86ac-11e4-8c28-020000005b00",
+    "name": "Black Mesa Golf Club",
+    "address": "115 St Rd 399",
+    "courses": [
+      {
+        "name": "Black Mesa",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7307,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6719,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6277,
+            "par": 72,
+            "rating": 68,
+            "slope": 125
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5876,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5157,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1815ea0-86ac-11e4-8c28-020000005b00/black-mesa-golf-club"
+  }
+}

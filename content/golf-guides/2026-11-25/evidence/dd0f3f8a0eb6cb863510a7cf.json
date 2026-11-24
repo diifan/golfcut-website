@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83f33ad0-86ac-11e4-8c28-020000005b00/spring-lake-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83f33ad0-86ac-11e4-8c28-020000005b00/spring-lake-country-club",
+  "checked_at": 1795524841.359879,
+  "sha256": "8174b184512c74bfa8da993ebfee8d9435f838291cad5b477a7279392cbbd0eb",
+  "title": "Spring Lake Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "83f33ad0-86ac-11e4-8c28-020000005b00",
+    "name": "Spring Lake Country Club",
+    "address": "5215 Clubhouse Drive Quincy, IL 62305 ",
+    "courses": [
+      {
+        "name": "Spring Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6408,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6408,
+            "par": 74,
+            "rating": 76,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6023,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6023,
+            "par": 74,
+            "rating": 75.1,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5407,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5407,
+            "par": 74,
+            "rating": 69.7,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83f33ad0-86ac-11e4-8c28-020000005b00/spring-lake-country-club"
+  }
+}

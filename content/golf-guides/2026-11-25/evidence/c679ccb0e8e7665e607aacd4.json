@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95df5f90-ff77-11ef-a55a-06780482e2ce/the-tree-farm",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95df5f90-ff77-11ef-a55a-06780482e2ce/the-tree-farm",
+  "checked_at": 1795523806.216123,
+  "sha256": "32d568892547134d533dc5e3f0942f89d8f3bfab8cdd7ea8e8a02b24a71d8895",
+  "title": "The Tree Farm - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "95df5f90-ff77-11ef-a55a-06780482e2ce",
+    "name": "The Tree Farm",
+    "address": "4456 Tree Farm Trl, Batesburg-Leesville, SC",
+    "courses": [
+      {
+        "name": "The Tree Farm",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7293,
+            "par": 71,
+            "rating": 75.1,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7293,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6980,
+            "par": 71,
+            "rating": 73.7,
+            "slope": 136
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6980,
+            "par": 71,
+            "rating": 79,
+            "slope": 141
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6473,
+            "par": 71,
+            "rating": 71.3,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6473,
+            "par": 71,
+            "rating": 76.3,
+            "slope": 135
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5777,
+            "par": 71,
+            "rating": 67.6,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5777,
+            "par": 71,
+            "rating": 73.3,
+            "slope": 134
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95df5f90-ff77-11ef-a55a-06780482e2ce/the-tree-farm"
+  }
+}

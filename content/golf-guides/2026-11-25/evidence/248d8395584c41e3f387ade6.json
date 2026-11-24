@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae136100-86ac-11e4-8c28-020000005b00/carolina-springs-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae136100-86ac-11e4-8c28-020000005b00/carolina-springs-golf-club",
+  "checked_at": 1795524137.0210335,
+  "sha256": "601c486616e4ae3537a2cccf1ba735eac69760d876bc391c69697a1a5e65be96",
+  "title": "Carolina Springs Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae136100-86ac-11e4-8c28-020000005b00",
+    "name": "Carolina Springs Golf Club",
+    "address": "1680 Scuffletown Rd",
+    "courses": [
+      {
+        "name": "Carolina Springs(A/B )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6803,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6404,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 130
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5976,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5191,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae136100-86ac-11e4-8c28-020000005b00/carolina-springs-golf-club"
+  }
+}

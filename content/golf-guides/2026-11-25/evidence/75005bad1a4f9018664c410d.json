@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e1698e0-86ac-11e4-8c28-020000005b00/arizona-biltmore-golf-club-resort",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e1698e0-86ac-11e4-8c28-020000005b00/arizona-biltmore-golf-club-resort",
+  "checked_at": 1795523849.2447317,
+  "sha256": "c0f998ba945d0fa331afd12799b65ce17193a4d60ab690d0a0f9e453b2d8d48b",
+  "title": "Arizona Biltmore Golf Club & Resort (Links) - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8e1698e0-86ac-11e4-8c28-020000005b00",
+    "name": "Arizona Biltmore Golf Club & Resort (Links)",
+    "address": "2400 East Missouri Avenue Phoenix, AZ",
+    "courses": [
+      {
+        "name": "Links Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6300,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 124
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6300,
+            "par": 71,
+            "rating": 75.4,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5726,
+            "par": 71,
+            "rating": 67.2,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5726,
+            "par": 71,
+            "rating": 72.7,
+            "slope": 129
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5255,
+            "par": 71,
+            "rating": 64.9,
+            "slope": 111
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5255,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 121
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 4747,
+            "par": 71,
+            "rating": 62.7,
+            "slope": 100
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 4747,
+            "par": 71,
+            "rating": 67.1,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e1698e0-86ac-11e4-8c28-020000005b00/arizona-biltmore-golf-club-resort"
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/935f7100-86ac-11e4-8c28-020000005b00/tpc-sugarloaf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/935f7100-86ac-11e4-8c28-020000005b00/tpc-sugarloaf",
+  "checked_at": 1795523728.8480062,
+  "sha256": "ab94a115b1fc17a6e8ec6fa110bd5ca73ab07a843bd2d0f3ec0bafbf4835d0b8",
+  "title": "TPC Sugarloaf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "935f7100-86ac-11e4-8c28-020000005b00",
+    "name": "TPC Sugarloaf",
+    "address": "2595 Sugarloaf Club Drive, Duluth, GA",
+    "courses": [
+      {
+        "name": "Meadows / Pines",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7038,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 145
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7038,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6768,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 143
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6768,
+            "par": 72,
+            "rating": 77.9,
+            "slope": 139
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 6441,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 139
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 6441,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6214,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6214,
+            "par": 72,
+            "rating": 75,
+            "slope": 132
+          },
+          {
+            "name": "White/Green",
+            "category": "MALE",
+            "yards": 6128,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 132
+          },
+          {
+            "name": "White/Green",
+            "category": "FEMALE",
+            "yards": 6128,
+            "par": 72,
+            "rating": 75,
+            "slope": 142
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5574,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 129
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5574,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 138
+          },
+          {
+            "name": "Green/Gold",
+            "category": "MALE",
+            "yards": 5280,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 125
+          },
+          {
+            "name": "Green/Gold",
+            "category": "FEMALE",
+            "yards": 5280,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 133
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4882,
+            "par": 72,
+            "rating": 64,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4882,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 128
+          }
+        ]
+      },
+      {
+        "name": "Pines / Stables",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7153,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 144
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7153,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6805,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 142
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6805,
+            "par": 72,
+            "rating": 78.1,
+            "slope": 139
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 6509,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 139
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 6509,
+            "par": 72,
+            "rating": 76.5,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6236,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6236,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 132
+          },
+          {
+            "name": "White/Green",
+            "category": "MALE",
+            "yards": 5920,
+            "par": 72,
+            "rating": 69,
+            "slope": 133
+          },
+          {
+            "name": "White/Green",
+            "category": "FEMALE",
+            "yards": 5920,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 143
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5620,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 131
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5620,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 139
+          },
+          {
+            "name": "Green/Gold",
+            "category": "MALE",
+            "yards": 5324,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 126
+          },
+          {
+            "name": "Green/Gold",
+            "category": "FEMALE",
+            "yards": 5324,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4822,
+            "par": 72,
+            "rating": 64.1,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4822,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 130
+          }
+        ]
+      },
+      {
+        "name": "Stables / Meadows",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7309,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 145
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7309,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6845,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 143
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6845,
+            "par": 72,
+            "rating": 78.3,
+            "slope": 140
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 6620,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 141
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 6620,
+            "par": 72,
+            "rating": 77.1,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6408,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6408,
+            "par": 72,
+            "rating": 76,
+            "slope": 134
+          },
+          {
+            "name": "White/Green",
+            "category": "MALE",
+            "yards": 6344,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 134
+          },
+          {
+            "name": "White/Green",
+            "category": "FEMALE",
+            "yards": 6344,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 144
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5792,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 131
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5792,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 140
+          },
+          {
+            "name": "Green/Gold",
+            "category": "MALE",
+            "yards": 5420,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 126
+          },
+          {
+            "name": "Green/Gold",
+            "category": "FEMALE",
+            "yards": 5420,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 134
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5090,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5090,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 130
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/935f7100-86ac-11e4-8c28-020000005b00/tpc-sugarloaf"
+  }
+}

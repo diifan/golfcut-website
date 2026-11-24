@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/fb87cc00-2b23-11e7-9641-0680a328ea36/holbrook-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/fb87cc00-2b23-11e7-9641-0680a328ea36/holbrook-golf-club",
+  "checked_at": 1795524835.4441736,
+  "sha256": "9dccd31e5f8490bc17cebf1384c9d5c1fd0924b5b15d476f0a674d605d71492e",
+  "title": "Holbrook Golf Club - Scorecards, Reviews | 18Birdies star star star star star google-play",
+  "course_profile": {
+    "id": "fb87cc00-2b23-11e7-9641-0680a328ea36",
+    "name": "Holbrook Golf Club",
+    "address": "38 Swift Street, Holbrook",
+    "courses": [
+      {
+        "name": "Holbrook",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Men",
+            "category": "MALE",
+            "yards": 6621,
+            "par": 72,
+            "rating": 72,
+            "slope": 115
+          },
+          {
+            "name": "Men",
+            "category": "FEMALE",
+            "yards": 6621,
+            "par": 72,
+            "rating": 77.1,
+            "slope": 137
+          },
+          {
+            "name": "Senior",
+            "category": "MALE",
+            "yards": 5756,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 106
+          },
+          {
+            "name": "Senior",
+            "category": "FEMALE",
+            "yards": 5756,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 127
+          },
+          {
+            "name": "Women",
+            "category": "MALE",
+            "yards": 5727,
+            "par": 72,
+            "rating": 71,
+            "slope": 122
+          },
+          {
+            "name": "Women",
+            "category": "FEMALE",
+            "yards": 5727,
+            "par": 72,
+            "rating": 72,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/fb87cc00-2b23-11e7-9641-0680a328ea36/holbrook-golf-club"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/996d1fc0-86ac-11e4-8c28-020000005b00/wykagyl-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/996d1fc0-86ac-11e4-8c28-020000005b00/wykagyl-country-club",
+  "checked_at": 1795523767.4503593,
+  "sha256": "d5b7950e6148578ed42a7d2e8077658e89b41c143c02df676999e50258d53052",
+  "title": "Wykagyl Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "996d1fc0-86ac-11e4-8c28-020000005b00",
+    "name": "Wykagyl Country Club",
+    "address": "1195 N Ave",
+    "courses": [
+      {
+        "name": "Wykagyl",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6690,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6402,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 136
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5693,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/996d1fc0-86ac-11e4-8c28-020000005b00/wykagyl-country-club"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8b36aa70-86ac-11e4-8c28-020000005b00/luna-vista-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8b36aa70-86ac-11e4-8c28-020000005b00/luna-vista-golf-course",
+  "checked_at": 1795523737.11075,
+  "sha256": "ba58f9c9342167b8dd33cef3d1f47ab2cfeb52c6d8b6e11028c97f7293a6df35",
+  "title": "Luna Vista Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8b36aa70-86ac-11e4-8c28-020000005b00",
+    "name": "Luna Vista Golf Course",
+    "address": "11223 Luna Rd, Dallas, Texas",
+    "courses": [
+      {
+        "name": "Luna Vista",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6847,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6847,
+            "par": 72,
+            "rating": 78.3,
+            "slope": 140
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6309,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6309,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 133
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5801,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 120
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5801,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5249,
+            "par": 72,
+            "rating": 65.2,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5249,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8b36aa70-86ac-11e4-8c28-020000005b00/luna-vista-golf-course"
+  }
+}

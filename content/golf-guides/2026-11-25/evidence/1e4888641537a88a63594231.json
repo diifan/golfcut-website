@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/93a1f840-86ac-11e4-8c28-020000005b00/turtle-cove-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/93a1f840-86ac-11e4-8c28-020000005b00/turtle-cove-golf-course",
+  "checked_at": 1795524256.7093196,
+  "sha256": "45732d1711c06aad4d3fb1ca00bb9225d0c9a2eb1d31ce6988d56e9479302430",
+  "title": "Turtle Cove Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "93a1f840-86ac-11e4-8c28-020000005b00",
+    "name": "Turtle Cove Golf Course",
+    "address": "222 Clubhouse Dr",
+    "courses": [
+      {
+        "name": "Turtle Cove",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2015,
+            "par": 30,
+            "rating": 30.3,
+            "slope": 96
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1780,
+            "par": 30,
+            "rating": 29.6,
+            "slope": 90
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/93a1f840-86ac-11e4-8c28-020000005b00/turtle-cove-golf-course"
+  }
+}

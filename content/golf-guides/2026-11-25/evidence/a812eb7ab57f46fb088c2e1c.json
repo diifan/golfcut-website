@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8e638f0-86ac-11e4-8c28-020000005b00/west-loch-municipal",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8e638f0-86ac-11e4-8c28-020000005b00/west-loch-municipal",
+  "checked_at": 1795524324.9017577,
+  "sha256": "3515a8777b6671c83301dcf8b28bbf1b7531e372d775dc9ef5b9455578f8b334",
+  "title": "West Loch Municipal - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b8e638f0-86ac-11e4-8c28-020000005b00",
+    "name": "West Loch Municipal",
+    "address": "91-1126 Okupe St, Ewa Beach, HI",
+    "courses": [
+      {
+        "name": "West Loch Municipal",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6335,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 112
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6335,
+            "par": 72,
+            "rating": 75.6,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5811,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5811,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5018,
+            "par": 72,
+            "rating": 62.8,
+            "slope": 96
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5018,
+            "par": 72,
+            "rating": 68,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8e638f0-86ac-11e4-8c28-020000005b00/west-loch-municipal"
+  }
+}

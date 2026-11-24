@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b7433750-86ac-11e4-8c28-020000005b00/silver-lake-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b7433750-86ac-11e4-8c28-020000005b00/silver-lake-country-club",
+  "checked_at": 1795523676.6899366,
+  "sha256": "bcbebc8f972a888f43786f75021f029efdbc7a550ff1d3be8abca57b11dfc01d",
+  "title": "Silver Lake Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b7433750-86ac-11e4-8c28-020000005b00",
+    "name": "Silver Lake Country Club",
+    "address": "165 Country Club Drive, Lake Park, IA",
+    "courses": [
+      {
+        "name": "9 Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3220,
+            "par": 36,
+            "rating": 35.4,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3220,
+            "par": 36,
+            "rating": 38.1,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2872,
+            "par": 36,
+            "rating": 35.5,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2872,
+            "par": 36,
+            "rating": 36.2,
+            "slope": 123
+          }
+        ]
+      },
+      {
+        "name": "18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6440,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6440,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 135
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5744,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5744,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b7433750-86ac-11e4-8c28-020000005b00/silver-lake-country-club"
+  }
+}

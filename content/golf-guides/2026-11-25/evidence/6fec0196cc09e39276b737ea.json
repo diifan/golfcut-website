@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9aa02180-86ac-11e4-8c28-020000005b00/catawba-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9aa02180-86ac-11e4-8c28-020000005b00/catawba-creek-golf-course",
+  "checked_at": 1795524879.8665204,
+  "sha256": "74fe239e31ca322bf30907b0ec6424099415350c28f32dcc409a0722cbc88f43",
+  "title": "Catawba Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9aa02180-86ac-11e4-8c28-020000005b00",
+    "name": "Catawba Creek Golf Course",
+    "address": "530 Niblick Dr, Gastonia, NC",
+    "courses": [
+      {
+        "name": "Catawba",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6172,
+            "par": 70,
+            "rating": 69.3,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6172,
+            "par": 70,
+            "rating": 74.7,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5544,
+            "par": 70,
+            "rating": 66.5,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5544,
+            "par": 70,
+            "rating": 72.6,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4371,
+            "par": 70,
+            "rating": 62.7,
+            "slope": 97
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4371,
+            "par": 70,
+            "rating": 65.7,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9aa02180-86ac-11e4-8c28-020000005b00/catawba-creek-golf-course"
+  }
+}

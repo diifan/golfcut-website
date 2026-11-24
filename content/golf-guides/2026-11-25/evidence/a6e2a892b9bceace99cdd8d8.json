@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8124720-86ac-11e4-8c28-020000005b00/tomahawk-hills",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8124720-86ac-11e4-8c28-020000005b00/tomahawk-hills",
+  "checked_at": 1795524092.276368,
+  "sha256": "50d4b59a493233f0a19ec41b1b9c1e11b397470382930480ecd4b78a3721b196",
+  "title": "Tomahawk Hills - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b8124720-86ac-11e4-8c28-020000005b00",
+    "name": "Tomahawk Hills",
+    "address": "17501 Midland Dr., Shawnee, KS",
+    "courses": [
+      {
+        "name": "Tomahawk Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6003,
+            "par": 70,
+            "rating": 69.7,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6003,
+            "par": 71,
+            "rating": 73.8,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5895,
+            "par": 70,
+            "rating": 68.5,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5895,
+            "par": 71,
+            "rating": 73.3,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5633,
+            "par": 70,
+            "rating": 65.3,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5633,
+            "par": 71,
+            "rating": 70.6,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8124720-86ac-11e4-8c28-020000005b00/tomahawk-hills"
+  }
+}

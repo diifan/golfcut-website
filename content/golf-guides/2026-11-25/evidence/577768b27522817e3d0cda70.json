@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d36e740-86ac-11e4-8c28-020000005b00/valle-vista-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d36e740-86ac-11e4-8c28-020000005b00/valle-vista-golf-club",
+  "checked_at": 1795524878.4885938,
+  "sha256": "96608fb1a03f49e0d501417640e902fb118c9f05f1ef8ac2464946ecdae75a7c",
+  "title": "Valle Vista Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d36e740-86ac-11e4-8c28-020000005b00",
+    "name": "Valle Vista Golf Club",
+    "address": "755 E Main St, Greenwood, IN",
+    "courses": [
+      {
+        "name": "Valle Vista",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6306,
+            "par": 70,
+            "rating": 70.3,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6306,
+            "par": 73,
+            "rating": 75.4,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5913,
+            "par": 70,
+            "rating": 68.3,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5913,
+            "par": 73,
+            "rating": 73.3,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5654,
+            "par": 70,
+            "rating": 67,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5654,
+            "par": 73,
+            "rating": 72.9,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4959,
+            "par": 70,
+            "rating": 63.2,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4959,
+            "par": 73,
+            "rating": 68.5,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d36e740-86ac-11e4-8c28-020000005b00/valle-vista-golf-club"
+  }
+}

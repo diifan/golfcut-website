@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/2cc92970-cedb-11e7-938b-0680a328ea36/the-belmont-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/2cc92970-cedb-11e7-938b-0680a328ea36/the-belmont-golf-club",
+  "checked_at": 1795523872.9685676,
+  "sha256": "88a1515091ce7144eaf6b023fea9d668c68f5e9c968e5e4fee856711f31a9826",
+  "title": "The Belmont Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "2cc92970-cedb-11e7-938b-0680a328ea36",
+    "name": "The Belmont Golf Club",
+    "address": "Belmont Valley Rd, Grahamstown, 6139, South Africa",
+    "courses": [
+      {
+        "name": "Belmont",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Club (White)",
+            "category": "MALE",
+            "yards": 5797.22661,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 140
+          },
+          {
+            "name": "Club (White)",
+            "category": "FEMALE",
+            "yards": 5797.22661,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 127
+          },
+          {
+            "name": "Forward (Blue)",
+            "category": "MALE",
+            "yards": 5217.613309999999,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 133
+          },
+          {
+            "name": "Forward (Blue)",
+            "category": "FEMALE",
+            "yards": 5217.613309999999,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 140
+          },
+          {
+            "name": "Ladies (Red)",
+            "category": "MALE",
+            "yards": 4817.3520499999995,
+            "par": 72,
+            "rating": 67,
+            "slope": 128
+          },
+          {
+            "name": "Ladies (Red)",
+            "category": "FEMALE",
+            "yards": 4817.3520499999995,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 137
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/2cc92970-cedb-11e7-938b-0680a328ea36/the-belmont-golf-club"
+  }
+}

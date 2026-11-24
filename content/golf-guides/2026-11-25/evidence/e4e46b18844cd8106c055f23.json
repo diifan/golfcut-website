@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/899ad4c0-86ac-11e4-8c28-020000005b00/franklin-canyon-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/899ad4c0-86ac-11e4-8c28-020000005b00/franklin-canyon-golf-course",
+  "checked_at": 1795524016.67618,
+  "sha256": "cdf25d3a1ec7d761ec29b0f59d688ae7b9aeaed8a84c1f6ef64c2e00f01ab1ed",
+  "title": "Franklin Canyon Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "899ad4c0-86ac-11e4-8c28-020000005b00",
+    "name": "Franklin Canyon Golf Course",
+    "address": "Highway 4",
+    "courses": [
+      {
+        "name": "Franklin Canyon",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6550,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6145,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5373,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/899ad4c0-86ac-11e4-8c28-020000005b00/franklin-canyon-golf-course"
+  }
+}

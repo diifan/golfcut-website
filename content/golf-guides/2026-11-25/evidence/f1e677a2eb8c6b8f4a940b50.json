@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b593850-86ac-11e4-8c28-020000005b00/eagle-point-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b593850-86ac-11e4-8c28-020000005b00/eagle-point-golf-club",
+  "checked_at": 1795524019.862337,
+  "sha256": "fa84af6d04402f3b4a22d040c2f3504d92cffd3513a6693b22020209bea52dbe",
+  "title": "Eagle Point Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9b593850-86ac-11e4-8c28-020000005b00",
+    "name": "Eagle Point Golf Club",
+    "address": "8131 Bald Eagle Ln, Wilmington, NC",
+    "courses": [
+      {
+        "name": "Eagle Point",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 7258,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 137
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 7258,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6742,
+            "par": 72,
+            "rating": 71,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6742,
+            "par": 73,
+            "rating": 77.8,
+            "slope": 138
+          },
+          {
+            "name": "Double Tees",
+            "category": "MALE",
+            "yards": 6337,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 128
+          },
+          {
+            "name": "Double Tees",
+            "category": "FEMALE",
+            "yards": 6337,
+            "par": 73,
+            "rating": 75.6,
+            "slope": 134
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6192,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 125
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 6192,
+            "par": 73,
+            "rating": 73.7,
+            "slope": 135
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5243,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5243,
+            "par": 73,
+            "rating": 70.7,
+            "slope": 129
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b593850-86ac-11e4-8c28-020000005b00/eagle-point-golf-club"
+  }
+}

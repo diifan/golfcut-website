@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e1ab790-86ac-11e4-8c28-020000005b00/foothills-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e1ab790-86ac-11e4-8c28-020000005b00/foothills-golf-club",
+  "checked_at": 1795524874.413756,
+  "sha256": "034f475a54c8978757e9214c268cb5b3bb0fc69ad7d5116a5ef00de9c9ede05f",
+  "title": "The Foothills Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8e1ab790-86ac-11e4-8c28-020000005b00",
+    "name": "The Foothills Golf Club",
+    "address": "2201 E Clubhouse Drive Phoenix, AZ 85048",
+    "courses": [
+      {
+        "name": "Foothills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6905,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 130
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6905,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6415,
+            "par": 72,
+            "rating": 70,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6415,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6041,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6041,
+            "par": 72,
+            "rating": 74,
+            "slope": 130
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5441,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 108
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5441,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e1ab790-86ac-11e4-8c28-020000005b00/foothills-golf-club"
+  }
+}

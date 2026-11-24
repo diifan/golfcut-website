@@ -1,0 +1,273 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/aff93800-86ac-11e4-8c28-020000005b00/meadows-farms-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/aff93800-86ac-11e4-8c28-020000005b00/meadows-farms-golf-course",
+  "checked_at": 1795523858.548092,
+  "sha256": "ef1e5700810155fd7047b5ab5fc1b5ef00ee5b77503922a86d92997e4feb780f",
+  "title": "Meadows Farms Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "aff93800-86ac-11e4-8c28-020000005b00",
+    "name": "Meadows Farms Golf Course",
+    "address": "4300 Flat Run Road, Locust Grove, VA",
+    "courses": [
+      {
+        "name": "Island to Longest",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7014,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 142
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7014,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6312,
+            "par": 72,
+            "rating": 71,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6312,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 141
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5351,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5351,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 136
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4679,
+            "par": 72,
+            "rating": 63.7,
+            "slope": 115
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4679,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4541,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4541,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 120
+          }
+        ]
+      },
+      {
+        "name": "Island to Waterfall",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6067,
+            "par": 70,
+            "rating": 69.4,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6067,
+            "par": 70,
+            "rating": 74.2,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5560,
+            "par": 70,
+            "rating": 66.9,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5560,
+            "par": 70,
+            "rating": 71.7,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4809,
+            "par": 70,
+            "rating": 64.7,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4809,
+            "par": 70,
+            "rating": 69.4,
+            "slope": 123
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4088,
+            "par": 70,
+            "rating": 63.9,
+            "slope": 116
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4088,
+            "par": 70,
+            "rating": 63.9,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4075,
+            "par": 70,
+            "rating": 61.1,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4075,
+            "par": 70,
+            "rating": 63.4,
+            "slope": 112
+          }
+        ]
+      },
+      {
+        "name": "Longest to Waterfall",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6871,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6871,
+            "par": 72,
+            "rating": 78,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6320,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6320,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5568,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 108
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5568,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 105
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4425,
+            "par": 72,
+            "rating": 62.7,
+            "slope": 98
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4425,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4424,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4424,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/aff93800-86ac-11e4-8c28-020000005b00/meadows-farms-golf-course"
+  }
+}

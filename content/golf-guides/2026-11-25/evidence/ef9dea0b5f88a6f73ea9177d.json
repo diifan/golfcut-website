@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9952e100-86ac-11e4-8c28-020000005b00/hampshire-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9952e100-86ac-11e4-8c28-020000005b00/hampshire-country-club",
+  "checked_at": 1795524372.1247377,
+  "sha256": "602ea3febef348d3334c547d0b7942e6d6691c999f2f084492cf8b6b250e2229",
+  "title": "Hampshire Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "9952e100-86ac-11e4-8c28-020000005b00",
+    "name": "Hampshire Country Club",
+    "address": "1025 Cove Rd, Mamaroneck, NY",
+    "courses": [
+      {
+        "name": "Hampshire",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6326,
+            "par": 71,
+            "rating": 71.6,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6055,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5512,
+            "par": 71,
+            "rating": 66.1,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5512,
+            "par": 71,
+            "rating": 70,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9952e100-86ac-11e4-8c28-020000005b00/hampshire-country-club"
+  }
+}

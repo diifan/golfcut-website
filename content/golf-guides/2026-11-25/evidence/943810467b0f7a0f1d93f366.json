@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/94a7f690-86ac-11e4-8c28-020000005b00/enterprise-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/94a7f690-86ac-11e4-8c28-020000005b00/enterprise-golf-course",
+  "checked_at": 1795523770.1214228,
+  "sha256": "474182f84bd11fc2e11d8796b45b67a3f4a9d842b9b431110929c144df11c297",
+  "title": "Enterprise Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "94a7f690-86ac-11e4-8c28-020000005b00",
+    "name": "Enterprise Golf Course",
+    "address": "2802 Enterprise Rd, Mitchellville, MD",
+    "courses": [
+      {
+        "name": "Enterprise",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6750,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6335,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5933,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5497,
+            "par": 72,
+            "rating": 70,
+            "slope": 120
+          },
+          {
+            "name": "First tee",
+            "category": "MALE",
+            "yards": 4992,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/94a7f690-86ac-11e4-8c28-020000005b00/enterprise-golf-course"
+  }
+}

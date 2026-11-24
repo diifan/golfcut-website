@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae7de2a0-86ac-11e4-8c28-020000005b00/world-tour-golf-links",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae7de2a0-86ac-11e4-8c28-020000005b00/world-tour-golf-links",
+  "checked_at": 1795523739.920407,
+  "sha256": "e89e0f7de0011760d84cdc3558ac01749e29018e7aebbf9b8f37176e8917083f",
+  "title": "World Tour Golf Links - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae7de2a0-86ac-11e4-8c28-020000005b00",
+    "name": "World Tour Golf Links",
+    "address": "2000 World Tour Blvd, Myrtle Beach, SC",
+    "courses": [
+      {
+        "name": "World Tour (Open / Championship)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 6516,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 135
+          },
+          {
+            "name": "Tournament",
+            "category": "FEMALE",
+            "yards": 6516,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6179,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 132
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6179,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 140
+          },
+          {
+            "name": "Member",
+            "category": "MALE",
+            "yards": 5754,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 128
+          },
+          {
+            "name": "Member",
+            "category": "FEMALE",
+            "yards": 5754,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 135
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5258,
+            "par": 72,
+            "rating": 65.6,
+            "slope": 115
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5258,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4907,
+            "par": 72,
+            "rating": 64.1,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4907,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae7de2a0-86ac-11e4-8c28-020000005b00/world-tour-golf-links"
+  }
+}

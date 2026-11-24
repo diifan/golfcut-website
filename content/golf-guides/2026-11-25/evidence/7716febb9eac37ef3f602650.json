@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a029740-86ac-11e4-8c28-020000005b00/colina-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a029740-86ac-11e4-8c28-020000005b00/colina-park-golf-course",
+  "checked_at": 1795523755.1854517,
+  "sha256": "ae782a41975d9cfaea2b8c782dd3763b81db72d46fef696ee97106b5c3ea72da",
+  "title": "Colina Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a029740-86ac-11e4-8c28-020000005b00",
+    "name": "Colina Park Golf Course",
+    "address": "4085 52nd St, San Diego, CA",
+    "courses": [
+      {
+        "name": "Colina Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1250,
+            "par": 54,
+            "rating": 49.9,
+            "slope": 86
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1250,
+            "par": 54,
+            "rating": 54.1,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a029740-86ac-11e4-8c28-020000005b00/colina-park-golf-course"
+  }
+}

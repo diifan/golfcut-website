@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b06a4950-86ac-11e4-8c28-020000005b00/ballyhack-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b06a4950-86ac-11e4-8c28-020000005b00/ballyhack-golf-club",
+  "checked_at": 1795524071.6211724,
+  "sha256": "cc08312eb454d0fa8912409350dcf21b7fad797ef6a80860de75b3f98d1b0568",
+  "title": "Ballyhack Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b06a4950-86ac-11e4-8c28-020000005b00",
+    "name": "Ballyhack Golf Club",
+    "address": "3609 Pitzer Rd, Roanoke, VA",
+    "courses": [
+      {
+        "name": "Ballyhack",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Big lick",
+            "category": "MALE",
+            "yards": 7294,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 155
+          },
+          {
+            "name": "Ballyhack",
+            "category": "MALE",
+            "yards": 6753,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 152
+          },
+          {
+            "name": "Ridge",
+            "category": "MALE",
+            "yards": 6131,
+            "par": 72,
+            "rating": 71,
+            "slope": 146
+          },
+          {
+            "name": "Star",
+            "category": "MALE",
+            "yards": 5637,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 139
+          },
+          {
+            "name": "Valley",
+            "category": "MALE",
+            "yards": 5108,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b06a4950-86ac-11e4-8c28-020000005b00/ballyhack-golf-club"
+  }
+}

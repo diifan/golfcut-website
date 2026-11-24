@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4449d50-86ac-11e4-8c28-020000005b00/sunkist-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4449d50-86ac-11e4-8c28-020000005b00/sunkist-country-club",
+  "checked_at": 1795524238.2641184,
+  "sha256": "0fae8326c4a745634e3519e4fa2b03a8ef70390d055c896e1131384472c3f009",
+  "title": "Sunkist Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b4449d50-86ac-11e4-8c28-020000005b00",
+    "name": "Sunkist Country Club",
+    "address": "2381 Sunkist Country Club Rd, Biloxi, MS",
+    "courses": [
+      {
+        "name": "Sunkist CC",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6288,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6045,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5382,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 109
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 4584,
+            "par": 72,
+            "rating": 59.8,
+            "slope": 97
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4449d50-86ac-11e4-8c28-020000005b00/sunkist-country-club"
+  }
+}

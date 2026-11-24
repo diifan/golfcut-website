@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3f6a460-86ac-11e4-8c28-020000005b00/red-oaks-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3f6a460-86ac-11e4-8c28-020000005b00/red-oaks-golf-course",
+  "checked_at": 1795524673.2996254,
+  "sha256": "fb8530fb8f4108b15edb09c35ed120a80dd6c4c82dbdc1145a5e6f3f7c15d66c",
+  "title": "Red Oaks Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b3f6a460-86ac-11e4-8c28-020000005b00",
+    "name": "Red Oaks Golf Course",
+    "address": "29866 John R Rd, Madison Heights, MI ",
+    "courses": [
+      {
+        "name": "Red Oaks",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2442,
+            "par": 31,
+            "rating": 31.5,
+            "slope": 108
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2442,
+            "par": 31,
+            "rating": 33.8,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2256,
+            "par": 31,
+            "rating": 30.6,
+            "slope": 102
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2256,
+            "par": 31,
+            "rating": 32.7,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1681,
+            "par": 31,
+            "rating": 28.9,
+            "slope": 88
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1681,
+            "par": 31,
+            "rating": 29.3,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3f6a460-86ac-11e4-8c28-020000005b00/red-oaks-golf-course"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a1d2420-86ac-11e4-8c28-020000005b00/pruneridge-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a1d2420-86ac-11e4-8c28-020000005b00/pruneridge-golf-club",
+  "checked_at": 1795523851.863945,
+  "sha256": "6d57e0e81675093c90bd51d416a811d434711854fc5e9420239f994e1c7bfa94",
+  "title": "Pruneridge Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a1d2420-86ac-11e4-8c28-020000005b00",
+    "name": "Pruneridge Golf Club",
+    "address": "400 N Saratoga Ave, Santa Clara, CA",
+    "courses": [
+      {
+        "name": "Pruneridge ( 9 HOLES )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 1770,
+            "par": 30,
+            "rating": 29.1,
+            "slope": 94
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 1770,
+            "par": 30,
+            "rating": 29.8,
+            "slope": 95
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1504,
+            "par": 30,
+            "rating": 28.2,
+            "slope": 88
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1504,
+            "par": 30,
+            "rating": 28.6,
+            "slope": 90
+          }
+        ]
+      },
+      {
+        "name": "Pruneridge ( 18 HOLES )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 3540,
+            "par": 60,
+            "rating": 58.2,
+            "slope": 94
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 3540,
+            "par": 60,
+            "rating": 59.6,
+            "slope": 95
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3008,
+            "par": 60,
+            "rating": 56.4,
+            "slope": 88
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3008,
+            "par": 60,
+            "rating": 57.2,
+            "slope": 90
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a1d2420-86ac-11e4-8c28-020000005b00/pruneridge-golf-club"
+  }
+}

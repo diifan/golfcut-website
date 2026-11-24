@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8fa3c890-86ac-11e4-8c28-020000005b00/briar-bay-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8fa3c890-86ac-11e4-8c28-020000005b00/briar-bay-golf-course",
+  "checked_at": 1795524337.2079751,
+  "sha256": "ad7034edc6f98bbb929899e5b92935d26f297fa8862fc0cc85b75629e688c1ac",
+  "title": "Briar Bay Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8fa3c890-86ac-11e4-8c28-020000005b00",
+    "name": "Briar Bay Golf Course",
+    "address": "9373 SW 134th St, Miami, FL",
+    "courses": [
+      {
+        "name": "Briar Bay",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1949,
+            "par": 31,
+            "rating": 32.6,
+            "slope": 113
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1949,
+            "par": 31,
+            "rating": 31.3,
+            "slope": 105
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1794,
+            "par": 31,
+            "rating": 31.4,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1794,
+            "par": 31,
+            "rating": 30.5,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1580,
+            "par": 31,
+            "rating": 29.6,
+            "slope": 92
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1580,
+            "par": 31,
+            "rating": 33.3,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8fa3c890-86ac-11e4-8c28-020000005b00/briar-bay-golf-course"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9591e160-86ac-11e4-8c28-020000005b00/chemawa-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9591e160-86ac-11e4-8c28-020000005b00/chemawa-golf-course",
+  "checked_at": 1795523913.6908436,
+  "sha256": "58750a9836c93c32d242a1a52de023efeabd2e6f420e4631620b3c9b81a40aa3",
+  "title": "Chemawa Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9591e160-86ac-11e4-8c28-020000005b00",
+    "name": "Chemawa Golf Course",
+    "address": "350 Cushman Rd, North Attleborough, MA 02760",
+    "courses": [
+      {
+        "name": "Chemawa",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5285,
+            "par": 68,
+            "rating": 65.1,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4914,
+            "par": 68,
+            "rating": 63.5,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4368,
+            "par": 68,
+            "rating": 64.8,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9591e160-86ac-11e4-8c28-020000005b00/chemawa-golf-course"
+  }
+}

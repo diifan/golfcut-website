@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e04e5a0-86ac-11e4-8c28-020000005b00/augusta-ranch-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e04e5a0-86ac-11e4-8c28-020000005b00/augusta-ranch-golf-club",
+  "checked_at": 1795523761.2050326,
+  "sha256": "fbc9d42b1aab561b6baa3ced2f8e9693c854bc031d47ba62eea0171719d1f4c5",
+  "title": "Augusta Ranch Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8e04e5a0-86ac-11e4-8c28-020000005b00",
+    "name": "Augusta Ranch Golf Club",
+    "address": "2401 S Lansing, Mesa, AZ",
+    "courses": [
+      {
+        "name": "Augusta Ranch",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 3846,
+            "par": 61,
+            "rating": 58.7,
+            "slope": 90
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 3846,
+            "par": 61,
+            "rating": 59.8,
+            "slope": 98
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3240,
+            "par": 61,
+            "rating": 56.6,
+            "slope": 81
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3240,
+            "par": 61,
+            "rating": 56.9,
+            "slope": 89
+          },
+          {
+            "name": "Purple",
+            "category": "MALE",
+            "yards": 2806,
+            "par": 61,
+            "rating": 55.19984,
+            "slope": 82.55834
+          },
+          {
+            "name": "Purple",
+            "category": "FEMALE",
+            "yards": 2806,
+            "par": 61,
+            "rating": 53.8,
+            "slope": 78
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e04e5a0-86ac-11e4-8c28-020000005b00/augusta-ranch-golf-club"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/932ca130-86ac-11e4-8c28-020000005b00/candler-park",
+  "resolved_url": "https://18birdies.com/golf-courses/club/932ca130-86ac-11e4-8c28-020000005b00/candler-park",
+  "checked_at": 1795524875.6978548,
+  "sha256": "0383fedb427b778374354f28ba2193d60800f88f877d848e61f0b17bdb9e15f9",
+  "title": "Candler Park - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "932ca130-86ac-11e4-8c28-020000005b00",
+    "name": "Candler Park",
+    "address": "585 Candler Park Dr NE",
+    "courses": [
+      {
+        "name": "Candler Park",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1981,
+            "par": 31,
+            "rating": 30.4,
+            "slope": 100
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1981,
+            "par": 31,
+            "rating": 31.5,
+            "slope": 102
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1858,
+            "par": 31,
+            "rating": 29.8,
+            "slope": 97
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1858,
+            "par": 31,
+            "rating": 30.8,
+            "slope": 99
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 1728,
+            "par": 31,
+            "rating": 29.4,
+            "slope": 95
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 1728,
+            "par": 31,
+            "rating": 29.8,
+            "slope": 97
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/932ca130-86ac-11e4-8c28-020000005b00/candler-park"
+  }
+}

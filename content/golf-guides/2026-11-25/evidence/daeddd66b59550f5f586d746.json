@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/832ae1c0-86ac-11e4-8c28-020000005b00/columbia-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/832ae1c0-86ac-11e4-8c28-020000005b00/columbia-golf-club",
+  "checked_at": 1795523757.875882,
+  "sha256": "cf930c9a5be12c75947a53653fe5bcbcdf7ebfe1de868f9895873e95a2990651",
+  "title": "Columbia Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "832ae1c0-86ac-11e4-8c28-020000005b00",
+    "name": "Columbia Golf Club",
+    "address": "125 AA Rd, Columbia, IL",
+    "courses": [
+      {
+        "name": "Columbia",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6062,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6062,
+            "par": 70,
+            "rating": 74.1,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5701,
+            "par": 71,
+            "rating": 66.8,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5701,
+            "par": 70,
+            "rating": 72.6,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5233,
+            "par": 71,
+            "rating": 68.8,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5233,
+            "par": 70,
+            "rating": 69.7,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4612,
+            "par": 71,
+            "rating": 65.9,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4612,
+            "par": 70,
+            "rating": 66.5,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/832ae1c0-86ac-11e4-8c28-020000005b00/columbia-golf-club"
+  }
+}

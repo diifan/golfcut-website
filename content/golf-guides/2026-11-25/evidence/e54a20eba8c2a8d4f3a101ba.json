@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b426b510-86ac-11e4-8c28-020000005b00/briarwood",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b426b510-86ac-11e4-8c28-020000005b00/briarwood",
+  "checked_at": 1795523828.9390604,
+  "sha256": "89187eb4a4fc0c161eb9427798bbac06a300e210acec46bdbd26b1ac14a625f0",
+  "title": "Briarwood Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b426b510-86ac-11e4-8c28-020000005b00",
+    "name": "Briarwood Golf Club",
+    "address": "308 Briarwood Rd, Meridian, MS",
+    "courses": [
+      {
+        "name": "Briarwood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7022,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 131
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7022,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6356,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 123
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 6356,
+            "par": 72,
+            "rating": 75.7,
+            "slope": 134
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5919,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5919,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5289,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5289,
+            "par": 72,
+            "rating": 70,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4534,
+            "par": 72,
+            "rating": 65.6,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4534,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b426b510-86ac-11e4-8c28-020000005b00/briarwood"
+  }
+}

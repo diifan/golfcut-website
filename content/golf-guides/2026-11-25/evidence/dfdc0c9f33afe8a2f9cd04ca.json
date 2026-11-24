@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af78bd60-86ac-11e4-8c28-020000005b00/sun-hills-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af78bd60-86ac-11e4-8c28-020000005b00/sun-hills-golf-course",
+  "checked_at": 1795524061.804004,
+  "sha256": "3a3165a4c5613a299e54149cdf6c51e4a8cfcca048d7d27603db47dd6db24140",
+  "title": "Sun Hills Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "af78bd60-86ac-11e4-8c28-020000005b00",
+    "name": "Sun Hills Golf Course",
+    "address": "3185 N Hills Dr",
+    "courses": [
+      {
+        "name": "Sun Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6548,
+            "par": 71,
+            "rating": 69.9,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6548,
+            "par": 71,
+            "rating": 76.7,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6071,
+            "par": 71,
+            "rating": 68.4,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6071,
+            "par": 71,
+            "rating": 73.9,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5632,
+            "par": 71,
+            "rating": 69.9,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5632,
+            "par": 71,
+            "rating": 68.7,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af78bd60-86ac-11e4-8c28-020000005b00/sun-hills-golf-course"
+  }
+}

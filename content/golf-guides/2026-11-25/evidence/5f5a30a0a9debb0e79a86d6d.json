@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a446cf0-86ac-11e4-8c28-020000005b00/bayview-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a446cf0-86ac-11e4-8c28-020000005b00/bayview-golf-club",
+  "checked_at": 1795524823.6938155,
+  "sha256": "31adbf96c683012f320c128b7d002de12af7e722836905ce65e046535f6ba6a5",
+  "title": "Bayview Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star-o star star-o star-o star star star-o star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "9a446cf0-86ac-11e4-8c28-020000005b00",
+    "name": "Bayview Golf Club",
+    "address": "49 King Blount Dr, Bath, NC",
+    "courses": [
+      {
+        "name": "Bayview",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2611,
+            "par": 36,
+            "rating": 34.4,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2611,
+            "par": 36,
+            "rating": 34.8,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2296,
+            "par": 36,
+            "rating": 32.9,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2296,
+            "par": 36,
+            "rating": 33.2,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a446cf0-86ac-11e4-8c28-020000005b00/bayview-golf-club"
+  }
+}

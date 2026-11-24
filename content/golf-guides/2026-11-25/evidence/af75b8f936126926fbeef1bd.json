@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afb689b0-86ac-11e4-8c28-020000005b00/bristow-manor-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afb689b0-86ac-11e4-8c28-020000005b00/bristow-manor-golf-club",
+  "checked_at": 1795524879.6977267,
+  "sha256": "051dba7905398ec1a4d389224bd99b0ac8eae5ce0bf9d5761a9585f1809946aa",
+  "title": "Bristow Manor Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "afb689b0-86ac-11e4-8c28-020000005b00",
+    "name": "Bristow Manor Golf Club",
+    "address": "11507 Valley View Dr, Bristow, VA",
+    "courses": [
+      {
+        "name": "Bristow Manor",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 7102,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 141
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 7102,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6760,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 139
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6760,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6313,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 133
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6313,
+            "par": 73,
+            "rating": 76.6,
+            "slope": 138
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5196,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5196,
+            "par": 73,
+            "rating": 71.6,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afb689b0-86ac-11e4-8c28-020000005b00/bristow-manor-golf-club"
+  }
+}

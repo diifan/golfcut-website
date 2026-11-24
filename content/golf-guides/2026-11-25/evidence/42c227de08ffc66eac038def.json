@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/924cef90-86ac-11e4-8c28-020000005b00/cattail-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/924cef90-86ac-11e4-8c28-020000005b00/cattail-creek-golf-course",
+  "checked_at": 1795524879.0799654,
+  "sha256": "398fa8377f6de2964051ce93c54a33b97074069838c126ab9c717fd607fed666",
+  "title": "Cattail Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "924cef90-86ac-11e4-8c28-020000005b00",
+    "name": "Cattail Creek Golf Course",
+    "address": "2116 W 29th St",
+    "courses": [
+      {
+        "name": "Cattail Creek",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1426,
+            "par": 27,
+            "rating": 68.6,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1175,
+            "par": 27,
+            "rating": 27.1595,
+            "slope": 81.572
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 973,
+            "par": 27,
+            "rating": 26.24242,
+            "slope": 77.87136
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 831,
+            "par": 27,
+            "rating": 25.59774,
+            "slope": 75.26992
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/924cef90-86ac-11e4-8c28-020000005b00/cattail-creek-golf-course"
+  }
+}

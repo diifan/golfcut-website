@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c0aae00-86ac-11e4-8c28-020000005b00/kyber-run-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c0aae00-86ac-11e4-8c28-020000005b00/kyber-run-golf-course",
+  "checked_at": 1795524015.2561555,
+  "sha256": "e840dc1f61f4c060a4cd37bae9cbfd2840fef2e171e88545392aface2deac662",
+  "title": "Kyber Run Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9c0aae00-86ac-11e4-8c28-020000005b00",
+    "name": "Kyber Run Golf Course",
+    "address": "5261 Mink Rd",
+    "courses": [
+      {
+        "name": "Kyber Run",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6658,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6141,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5360,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4705,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c0aae00-86ac-11e4-8c28-020000005b00/kyber-run-golf-course"
+  }
+}

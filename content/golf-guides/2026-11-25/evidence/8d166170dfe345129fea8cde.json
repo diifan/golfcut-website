@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a3b8190-86ac-11e4-8c28-020000005b00/buena-vista-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a3b8190-86ac-11e4-8c28-020000005b00/buena-vista-golf-course",
+  "checked_at": 1795523794.3017037,
+  "sha256": "f23c55196851f83473d9b6a1aff0254f740093c0086faeb399c2a37e3a382f84",
+  "title": "Buena Vista Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a3b8190-86ac-11e4-8c28-020000005b00",
+    "name": "Buena Vista Golf Course",
+    "address": "10256 Golf Course Rd",
+    "courses": [
+      {
+        "name": "Buena Vista Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6710,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6338,
+            "par": 72,
+            "rating": 70,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5858,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5566,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a3b8190-86ac-11e4-8c28-020000005b00/buena-vista-golf-course"
+  }
+}

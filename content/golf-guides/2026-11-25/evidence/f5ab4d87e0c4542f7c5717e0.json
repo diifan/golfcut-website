@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/aef0efc0-86ac-11e4-8c28-020000005b00/white-plains-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/aef0efc0-86ac-11e4-8c28-020000005b00/white-plains-golf-course",
+  "checked_at": 1795523813.5260482,
+  "sha256": "f87176c86be954ac1eaa187dd9bb9f6170f3901f3088572af2dd6a628f413205",
+  "title": "White Plains Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "aef0efc0-86ac-11e4-8c28-020000005b00",
+    "name": "White Plains Golf Course",
+    "address": "4000 Plantation Drive",
+    "courses": [
+      {
+        "name": "White Plains",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 6354,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5858,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5547,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 111
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5047,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4577,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 112
+          },
+          {
+            "name": "Purple",
+            "category": "MALE",
+            "yards": 4000,
+            "par": 72,
+            "rating": 63.1,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/aef0efc0-86ac-11e4-8c28-020000005b00/white-plains-golf-course"
+  }
+}

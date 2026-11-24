@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/adfea080-86ac-11e4-8c28-020000005b00/green-river-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/adfea080-86ac-11e4-8c28-020000005b00/green-river-country-club",
+  "checked_at": 1795523924.1367245,
+  "sha256": "88f6c600487261d2a12b2e5410738789654486a8180341882fe41593e72d8896",
+  "title": "Green River Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "adfea080-86ac-11e4-8c28-020000005b00",
+    "name": "Green River Country Club",
+    "address": "714 Country Club Road",
+    "courses": [
+      {
+        "name": "Green River",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6706,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6706,
+            "par": 72,
+            "rating": 77.6,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6257,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6257,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 133
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5513,
+            "par": 72,
+            "rating": 70,
+            "slope": 120
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5513,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5245,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5245,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/adfea080-86ac-11e4-8c28-020000005b00/green-river-country-club"
+  }
+}

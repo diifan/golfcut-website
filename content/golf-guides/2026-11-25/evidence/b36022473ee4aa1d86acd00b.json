@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b837f790-86ac-11e4-8c28-020000005b00/lawrence-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b837f790-86ac-11e4-8c28-020000005b00/lawrence-country-club",
+  "checked_at": 1795524240.0545356,
+  "sha256": "4f209e36ab6fbf5b72e6b3fcafb6ae6e2c0392fb407c7907987f0c1315925863",
+  "title": "Lawrence Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b837f790-86ac-11e4-8c28-020000005b00",
+    "name": "Lawrence Country Club",
+    "address": "400 Country Club Terrace, Lawrence, KS",
+    "courses": [
+      {
+        "name": "Lawrence",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6510,
+            "par": 70,
+            "rating": 73.5,
+            "slope": 140
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6510,
+            "par": 70,
+            "rating": 79.4,
+            "slope": 146
+          },
+          {
+            "name": "Bronze",
+            "category": "MALE",
+            "yards": 6062,
+            "par": 70,
+            "rating": 71.6,
+            "slope": 136
+          },
+          {
+            "name": "Bronze",
+            "category": "FEMALE",
+            "yards": 6062,
+            "par": 70,
+            "rating": 76.7,
+            "slope": 143
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5621,
+            "par": 70,
+            "rating": 69.5,
+            "slope": 132
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5621,
+            "par": 70,
+            "rating": 75.1,
+            "slope": 137
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4858,
+            "par": 70,
+            "rating": 66,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4858,
+            "par": 70,
+            "rating": 70.2,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b837f790-86ac-11e4-8c28-020000005b00/lawrence-country-club"
+  }
+}

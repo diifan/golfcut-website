@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b58a15a0-86ac-11e4-8c28-020000005b00/oakwood-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b58a15a0-86ac-11e4-8c28-020000005b00/oakwood-park-golf-course",
+  "checked_at": 1795523864.4975073,
+  "sha256": "5ea956a2e4d741fc45a93b996c22cb2522de56dc5866ede3453e6cc9f5d39db9",
+  "title": "Oakwood Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b58a15a0-86ac-11e4-8c28-020000005b00",
+    "name": "Oakwood Park Golf Course",
+    "address": "3600 W. Oakwood Road, Franklin, WI",
+    "courses": [
+      {
+        "name": "Oakwood Park Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7074,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 128
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7074,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6737,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6737,
+            "par": 72,
+            "rating": 77.7,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6301,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6301,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5562,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5562,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b58a15a0-86ac-11e4-8c28-020000005b00/oakwood-park-golf-course"
+  }
+}

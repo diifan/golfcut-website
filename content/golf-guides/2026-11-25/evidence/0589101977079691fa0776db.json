@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae6578a0-86ac-11e4-8c28-020000005b00/carolina-lakes-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae6578a0-86ac-11e4-8c28-020000005b00/carolina-lakes-golf-course",
+  "checked_at": 1795524860.4948106,
+  "sha256": "41c3a20d7aaa2dc400f9023a8f0a1ba8c79da15ba1244129b5b2b4c797b9a3f5",
+  "title": "Carolina Lakes Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae6578a0-86ac-11e4-8c28-020000005b00",
+    "name": "Carolina Lakes Golf Course",
+    "address": "400 Stuart St Shaw AFB, SC 29152-5022, US",
+    "courses": [
+      {
+        "name": "Carolina Lakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6363,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5978,
+            "par": 71,
+            "rating": 68.8,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5352,
+            "par": 71,
+            "rating": 65,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4867,
+            "par": 71,
+            "rating": 67.1,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae6578a0-86ac-11e4-8c28-020000005b00/carolina-lakes-golf-course"
+  }
+}

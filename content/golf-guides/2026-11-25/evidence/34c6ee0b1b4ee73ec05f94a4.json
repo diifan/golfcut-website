@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afd3aea0-86ac-11e4-8c28-020000005b00/great-oaks-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afd3aea0-86ac-11e4-8c28-020000005b00/great-oaks-country-club",
+  "checked_at": 1795524145.2514918,
+  "sha256": "224e4f824208d70d8515e391f24c6ca3e975996dde2f5ed6032d082b39fcf3d1",
+  "title": "Great Oaks Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "afd3aea0-86ac-11e4-8c28-020000005b00",
+    "name": "Great Oaks Country Club",
+    "address": "1167 U.S. 221, Floyd, VA ",
+    "courses": [
+      {
+        "name": "Great Oaks",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6437,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6173,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5278,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4998,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afd3aea0-86ac-11e4-8c28-020000005b00/great-oaks-country-club"
+  }
+}

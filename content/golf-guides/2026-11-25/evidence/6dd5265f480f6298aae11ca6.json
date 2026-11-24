@@ -1,0 +1,295 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/97db0e10-86ac-11e4-8c28-020000005b00/flanders-valley-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/97db0e10-86ac-11e4-8c28-020000005b00/flanders-valley-golf-course",
+  "checked_at": 1795523838.139934,
+  "sha256": "5eff2a2f784c5759dbb5b5dcc054c1364650f434e48afe6cfccf060d3345c44f",
+  "title": "Flanders Valley Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "97db0e10-86ac-11e4-8c28-020000005b00",
+    "name": "Flanders Valley Golf Course",
+    "address": "81 Pleasant Hill Road, Flanders, NJ",
+    "courses": [
+      {
+        "name": "Blue to White",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6825,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6825,
+            "par": 72,
+            "rating": 78.2,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6417,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6417,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6075,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6075,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5534,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5534,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 122
+          }
+        ]
+      },
+      {
+        "name": "Gold to Red",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6770,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6770,
+            "par": 73,
+            "rating": 77.9,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6429,
+            "par": 72,
+            "rating": 71,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6429,
+            "par": 73,
+            "rating": 77.6,
+            "slope": 137
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6091,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6091,
+            "par": 73,
+            "rating": 75.3,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5540,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5540,
+            "par": 73,
+            "rating": 72.2,
+            "slope": 124
+          }
+        ]
+      },
+      {
+        "name": "Red to White",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6801,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6801,
+            "par": 73,
+            "rating": 78.1,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6477,
+            "par": 72,
+            "rating": 71,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6477,
+            "par": 73,
+            "rating": 76.8,
+            "slope": 134.5
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6207,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6207,
+            "par": 73,
+            "rating": 71.4,
+            "slope": 120.5
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5612,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5612,
+            "par": 73,
+            "rating": 74.3,
+            "slope": 128
+          }
+        ]
+      },
+      {
+        "name": "Blue to Red",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6832,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6832,
+            "par": 73,
+            "rating": 78.2,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6426,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6426,
+            "par": 73,
+            "rating": 77.3,
+            "slope": 134
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6162,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6162,
+            "par": 73,
+            "rating": 72.1,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5540,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5540,
+            "par": 73,
+            "rating": 74.8,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/97db0e10-86ac-11e4-8c28-020000005b00/flanders-valley-golf-course"
+  }
+}

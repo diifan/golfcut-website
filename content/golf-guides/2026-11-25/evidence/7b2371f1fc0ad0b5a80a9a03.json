@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a925420-86ac-11e4-8c28-020000005b00/welk-resort-san-diego",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a925420-86ac-11e4-8c28-020000005b00/welk-resort-san-diego",
+  "checked_at": 1795524302.1437304,
+  "sha256": "7e29a43bb227fcce6505cf27ed23f719714d7483f04a449f1500491650822396",
+  "title": "Welk Resort San Diego - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a925420-86ac-11e4-8c28-020000005b00",
+    "name": "Welk Resort San Diego",
+    "address": "8860 Lawrence Welk Drive, Escondido, CA",
+    "courses": [
+      {
+        "name": "Fountains",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3940,
+            "par": 62,
+            "rating": 61.6,
+            "slope": 102
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3940,
+            "par": 61,
+            "rating": 62.6,
+            "slope": 108
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3463,
+            "par": 62,
+            "rating": 58.7,
+            "slope": 97
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3463,
+            "par": 61,
+            "rating": 60.2,
+            "slope": 102
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3026,
+            "par": 62,
+            "rating": 56.5,
+            "slope": 91
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3026,
+            "par": 61,
+            "rating": 57.6,
+            "slope": 96
+          }
+        ]
+      },
+      {
+        "name": "Oaks",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1764,
+            "par": 54,
+            "rating": 50.1,
+            "slope": 70
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1764,
+            "par": 54,
+            "rating": 51.9,
+            "slope": 73
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1615,
+            "par": 54,
+            "rating": 49.3,
+            "slope": 68
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1615,
+            "par": 54,
+            "rating": 50.9,
+            "slope": 71
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1615,
+            "par": 54,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1615,
+            "par": 54,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a925420-86ac-11e4-8c28-020000005b00/welk-resort-san-diego"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b587500-86ac-11e4-8c28-020000005b00/duck-woods-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b587500-86ac-11e4-8c28-020000005b00/duck-woods-country-club",
+  "checked_at": 1795524334.8294325,
+  "sha256": "fa1583ffbf1f6a2959e38aff57515392416e9f9e1d56c7925b17b65284764c0b",
+  "title": "Duck Woods Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9b587500-86ac-11e4-8c28-020000005b00",
+    "name": "Duck Woods Country Club",
+    "address": "50 S Dogwood Trl, Southern Shores, NC",
+    "courses": [
+      {
+        "name": "Duck Woods",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6650,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6183,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5655,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 114
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5182,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b587500-86ac-11e4-8c28-020000005b00/duck-woods-country-club"
+  }
+}

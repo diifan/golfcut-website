@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/2221ced0-586d-11e7-b9f3-0680a328ea36/tekoa-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/2221ced0-586d-11e7-b9f3-0680a328ea36/tekoa-golf-club",
+  "checked_at": 1795524276.8070188,
+  "sha256": "cdb21d3a5d5d25d87ba32f1b8ce838c3464fa1ad36c3cb3133331a633fefbaa0",
+  "title": "Tekoa Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "2221ced0-586d-11e7-b9f3-0680a328ea36",
+    "name": "Tekoa Golf Club",
+    "address": "202 Golf Course Road, Tekoa, WA 99033",
+    "courses": [
+      {
+        "name": "Tekoa",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 5380,
+            "par": 70,
+            "rating": 71.2,
+            "slope": 124
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 5380,
+            "par": 70,
+            "rating": 73.9,
+            "slope": 126
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5100,
+            "par": 70,
+            "rating": 69,
+            "slope": 120
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5100,
+            "par": 70,
+            "rating": 72.3,
+            "slope": 121
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4740,
+            "par": 70,
+            "rating": 66.5,
+            "slope": 114
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 4740,
+            "par": 70,
+            "rating": 69.8,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/2221ced0-586d-11e7-b9f3-0680a328ea36/tekoa-golf-club"
+  }
+}

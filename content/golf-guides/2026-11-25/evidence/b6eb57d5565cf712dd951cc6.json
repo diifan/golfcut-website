@@ -1,0 +1,107 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/998ba440-86ac-11e4-8c28-020000005b00/shadow-lake-golf-racquet-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/998ba440-86ac-11e4-8c28-020000005b00/shadow-lake-golf-racquet-club",
+  "checked_at": 1795524350.3011353,
+  "sha256": "166140a8536dd27bd4608098080e774feab342763ddc816935958d03cb61b17c",
+  "title": "Shadow Lake Golf & Racquet Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "998ba440-86ac-11e4-8c28-020000005b00",
+    "name": "Shadow Lake Golf & Racquet Club",
+    "address": "1850 Five Mile Line Rd, Penfield, NY",
+    "courses": [
+      {
+        "name": "Executive Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1890,
+            "par": 32,
+            "rating": 29.7,
+            "slope": 93
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1890,
+            "par": 32,
+            "rating": 30.5,
+            "slope": 96
+          }
+        ]
+      },
+      {
+        "name": "Championship Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6159,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 116
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6159,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6159,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6159,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5770,
+            "par": 71,
+            "rating": 67,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5770,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5502,
+            "par": 71,
+            "rating": 65.1,
+            "slope": 102
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5502,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/998ba440-86ac-11e4-8c28-020000005b00/shadow-lake-golf-racquet-club"
+  }
+}

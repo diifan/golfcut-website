@@ -1,0 +1,407 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/82a2c600-86ac-11e4-8c28-020000005b00/cog-hill-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/82a2c600-86ac-11e4-8c28-020000005b00/cog-hill-golf-country-club",
+  "checked_at": 1795524042.448669,
+  "sha256": "ee4b759b935699bca00b06b135cda349b5050d1b64d6ddfceb50402e6da22d1f",
+  "title": "Cog Hill Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "82a2c600-86ac-11e4-8c28-020000005b00",
+    "name": "Cog Hill Golf & Country Club",
+    "address": "12294 Archer Avenue, Lemont, IL",
+    "courses": [
+      {
+        "name": "Cog Hill No.1",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6318,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 120
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6318,
+            "par": 71,
+            "rating": 75.8,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6005,
+            "par": 71,
+            "rating": 68.8,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6005,
+            "par": 71,
+            "rating": 74.2,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5754,
+            "par": 71,
+            "rating": 67.6,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5754,
+            "par": 71,
+            "rating": 72.8,
+            "slope": 127
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5338,
+            "par": 71,
+            "rating": 65.7,
+            "slope": 110
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5338,
+            "par": 71,
+            "rating": 70.5,
+            "slope": 122
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4414,
+            "par": 71,
+            "rating": 61.6,
+            "slope": 100
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 4414,
+            "par": 71,
+            "rating": 65.5,
+            "slope": 122
+          }
+        ]
+      },
+      {
+        "name": "Cog Hill No.2: Ravines",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6863,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 127
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6863,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6584,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6584,
+            "par": 72,
+            "rating": 77.5,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6283,
+            "par": 72,
+            "rating": 70,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6283,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 131
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5767,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 115
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5767,
+            "par": 72,
+            "rating": 73,
+            "slope": 125
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5212,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 109
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5212,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 118
+          },
+          {
+            "name": "Green/Forward",
+            "category": "MALE",
+            "yards": 5477,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green/Forward",
+            "category": "FEMALE",
+            "yards": 5477,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 121
+          }
+        ]
+      },
+      {
+        "name": "Cog Hill No.3",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6424,
+            "par": 72,
+            "rating": 70,
+            "slope": 120
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6424,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6176,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6176,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5897,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5897,
+            "par": 72,
+            "rating": 73,
+            "slope": 123
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5196,
+            "par": 72,
+            "rating": 64.6,
+            "slope": 107
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5196,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 115
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4513,
+            "par": 72,
+            "rating": 61.4,
+            "slope": 99
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 4513,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 107
+          }
+        ]
+      },
+      {
+        "name": "Cog Hill No.4: Dubsdread",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7554,
+            "par": 72,
+            "rating": 78,
+            "slope": 153
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7554,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6750,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 140
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6750,
+            "par": 72,
+            "rating": 80.6,
+            "slope": 150
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6382,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6382,
+            "par": 72,
+            "rating": 78.6,
+            "slope": 146
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5955,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 132
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5955,
+            "par": 72,
+            "rating": 76.6,
+            "slope": 142
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5422,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 124
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5422,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 134
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7144,
+            "par": 72,
+            "rating": 76,
+            "slope": 146
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7144,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Combo",
+            "category": "MALE",
+            "yards": 6564,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 138
+          },
+          {
+            "name": "Combo",
+            "category": "FEMALE",
+            "yards": 6564,
+            "par": 72,
+            "rating": 79.6,
+            "slope": 148
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/82a2c600-86ac-11e4-8c28-020000005b00/cog-hill-golf-country-club"
+  }
+}

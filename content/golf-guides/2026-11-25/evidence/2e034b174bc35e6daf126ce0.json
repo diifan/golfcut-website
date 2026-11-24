@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9766c870-86ac-11e4-8c28-020000005b00/los-prados-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9766c870-86ac-11e4-8c28-020000005b00/los-prados-golf-course",
+  "checked_at": 1795524896.198735,
+  "sha256": "b6a5f15ee1ef05eeadabf7837ee857bcdb3cdb570777687691b6d370a3ebd46e",
+  "title": "Los Prados Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9766c870-86ac-11e4-8c28-020000005b00",
+    "name": "Los Prados Golf Course",
+    "address": "5150 Los Prados Circle",
+    "courses": [
+      {
+        "name": "Los Prados",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "ChampionShip Tee",
+            "category": "MALE",
+            "yards": 5450,
+            "par": 70,
+            "rating": 65.6,
+            "slope": 110
+          },
+          {
+            "name": "Regular",
+            "category": "MALE",
+            "yards": 4883,
+            "par": 70,
+            "rating": 63.9,
+            "slope": 104
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4426,
+            "par": 70,
+            "rating": 62,
+            "slope": 95
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9766c870-86ac-11e4-8c28-020000005b00/los-prados-golf-course"
+  }
+}

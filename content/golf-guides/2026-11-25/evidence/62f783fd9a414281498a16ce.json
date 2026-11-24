@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/894bca60-86ac-11e4-8c28-020000005b00/la-mirada-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/894bca60-86ac-11e4-8c28-020000005b00/la-mirada-golf-club",
+  "checked_at": 1795523637.4116366,
+  "sha256": "3f3a9914b8cb739f57491220c1724b00ca9f2ba456d3965164896a9dd94be95c",
+  "title": "La Mirada Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "894bca60-86ac-11e4-8c28-020000005b00",
+    "name": "La Mirada Golf Club",
+    "address": "15501 E Alicante Rd, La Mirada, CA",
+    "courses": [
+      {
+        "name": "La Mirada",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6083,
+            "par": 70,
+            "rating": 69.2,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6083,
+            "par": 71,
+            "rating": 75.4,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5832,
+            "par": 70,
+            "rating": 67.9,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5832,
+            "par": 71,
+            "rating": 73.7,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5634,
+            "par": 70,
+            "rating": 66.1,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5634,
+            "par": 71,
+            "rating": 72,
+            "slope": 124
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 3970,
+            "par": 70,
+            "rating": 59.4,
+            "slope": 95
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 3970,
+            "par": 71,
+            "rating": 62.6,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/894bca60-86ac-11e4-8c28-020000005b00/la-mirada-golf-club"
+  }
+}

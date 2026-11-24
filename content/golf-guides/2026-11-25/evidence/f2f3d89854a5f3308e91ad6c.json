@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b7b18980-86ac-11e4-8c28-020000005b00/turkey-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b7b18980-86ac-11e4-8c28-020000005b00/turkey-creek-golf-course",
+  "checked_at": 1795524818.84746,
+  "sha256": "0c031ec46a8d73b954e40881b6418b909007d267c35f3ad9cfe244e98d1253ba",
+  "title": "Turkey Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b7b18980-86ac-11e4-8c28-020000005b00",
+    "name": "Turkey Creek Golf Course",
+    "address": "1000 Fox Run Drive, McPherson, KS",
+    "courses": [
+      {
+        "name": "Turkey Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6282,
+            "par": 70,
+            "rating": 71.3,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5727,
+            "par": 70,
+            "rating": 67.8,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4845,
+            "par": 70,
+            "rating": 67,
+            "slope": 115
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4605,
+            "par": 70,
+            "rating": 65.9,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b7b18980-86ac-11e4-8c28-020000005b00/turkey-creek-golf-course"
+  }
+}

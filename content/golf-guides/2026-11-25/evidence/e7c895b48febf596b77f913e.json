@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/93dcb750-86ac-11e4-8c28-020000005b00/bears-best-atlanta",
+  "resolved_url": "https://18birdies.com/golf-courses/club/93dcb750-86ac-11e4-8c28-020000005b00/bears-best-atlanta",
+  "checked_at": 1795524216.2474084,
+  "sha256": "7606c79c4a9b2fa877023dd1732d4fade804ec02ad677f1ce796b6fefc968039",
+  "title": "Bears Best Atlanta - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "93dcb750-86ac-11e4-8c28-020000005b00",
+    "name": "Bears Best Atlanta",
+    "address": "5342 Aldeburgh Drive",
+    "courses": [
+      {
+        "name": "Bears Best",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6824,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 143
+          },
+          {
+            "name": "Nicklaus",
+            "category": "MALE",
+            "yards": 6513,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 140
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6138,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5624,
+            "par": 72,
+            "rating": 68,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4725,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/93dcb750-86ac-11e4-8c28-020000005b00/bears-best-atlanta"
+  }
+}

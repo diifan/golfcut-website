@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/835462c0-86ac-11e4-8c28-020000005b00/the-freeport-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/835462c0-86ac-11e4-8c28-020000005b00/the-freeport-club",
+  "checked_at": 1795524351.9581726,
+  "sha256": "600c2e4defc705d5d1f9f16c9cf15036360da8f6296300257715f0fe2165fbb0",
+  "title": "The Freeport Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "835462c0-86ac-11e4-8c28-020000005b00",
+    "name": "The Freeport Club",
+    "address": "1614 S Park Blvd, Freeport, IL",
+    "courses": [
+      {
+        "name": "Freeport",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6365,
+            "par": 70,
+            "rating": 71.1,
+            "slope": 124
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6365,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6168,
+            "par": 70,
+            "rating": 70.2,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6168,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5518,
+            "par": 70,
+            "rating": 66.8,
+            "slope": 114
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5518,
+            "par": 70,
+            "rating": 71.5,
+            "slope": 124
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5238,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5238,
+            "par": 70,
+            "rating": 70.5,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/835462c0-86ac-11e4-8c28-020000005b00/the-freeport-club"
+  }
+}

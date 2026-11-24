@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/2dcac270-8fee-11e6-9e90-0680a328ea36/southgate-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/2dcac270-8fee-11e6-9e90-0680a328ea36/southgate-golf-club",
+  "checked_at": 1795524284.025193,
+  "sha256": "e9f775cd86e27f82e175551801385cfff008cb772ed1be60a860cff76b4f5682",
+  "title": "Southgate Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "2dcac270-8fee-11e6-9e90-0680a328ea36",
+    "name": "Southgate Golf Club",
+    "address": "1975 S Tonaquint Dr",
+    "courses": [
+      {
+        "name": "Southgate Golf Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6321,
+            "par": 71,
+            "rating": 70,
+            "slope": 129
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6321,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5802,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5802,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5243,
+            "par": 71,
+            "rating": 65.5,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5243,
+            "par": 71,
+            "rating": 70.1,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4542,
+            "par": 71,
+            "rating": 62.2,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4542,
+            "par": 71,
+            "rating": 65.9,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/2dcac270-8fee-11e6-9e90-0680a328ea36/southgate-golf-club"
+  }
+}

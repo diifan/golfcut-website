@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95ca5680-86ac-11e4-8c28-020000005b00/bass-river-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95ca5680-86ac-11e4-8c28-020000005b00/bass-river-golf-course",
+  "checked_at": 1795523940.3798678,
+  "sha256": "a768291c7b8c1217df824518a5ef0f42a7f2c9a01362177befb86f4f5430e08b",
+  "title": "Bass River Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95ca5680-86ac-11e4-8c28-020000005b00",
+    "name": "Bass River Golf Course",
+    "address": "62 High Bank Rd, South Yarmouth, MA",
+    "courses": [
+      {
+        "name": "Bass River",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6138,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 128
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6138,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 131
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5716,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 121
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5716,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 129
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5105,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 113
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5105,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 122
+          },
+          {
+            "name": "Forward (L)",
+            "category": "MALE",
+            "yards": 5105,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 115
+          },
+          {
+            "name": "Forward (L)",
+            "category": "FEMALE",
+            "yards": 5105,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95ca5680-86ac-11e4-8c28-020000005b00/bass-river-golf-course"
+  }
+}

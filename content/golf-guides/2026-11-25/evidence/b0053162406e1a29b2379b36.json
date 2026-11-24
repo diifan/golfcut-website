@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/bccf8110-86ac-11e4-8c28-020000005b00/shark-river-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/bccf8110-86ac-11e4-8c28-020000005b00/shark-river-golf-club",
+  "checked_at": 1795523788.0609314,
+  "sha256": "f3bb1fd04c0d80c44fcfdea67f8da348e5b55489be1413f2cbfbaab2130c2af8",
+  "title": "Shark River Golf Club - Scorecards, Reviews | 18Birdies star star star star star google-play",
+  "course_profile": {
+    "id": "bccf8110-86ac-11e4-8c28-020000005b00",
+    "name": "Shark River Golf Club",
+    "address": "Tasker St Military Base, Forest Hill, Port Elizabeth, 6001, South Africa",
+    "courses": [
+      {
+        "name": "Shark River",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Mens",
+            "category": "MALE",
+            "yards": 5908.77483,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 123
+          },
+          {
+            "name": "Mens",
+            "category": "FEMALE",
+            "yards": 5908.77483,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 129
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 5390.403689999999,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 119
+          },
+          {
+            "name": "Ladies",
+            "category": "FEMALE",
+            "yards": 5390.403689999999,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/bccf8110-86ac-11e4-8c28-020000005b00/shark-river-golf-club"
+  }
+}

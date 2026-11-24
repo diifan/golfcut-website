@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/c2ae1710-87ee-11ef-9d46-06780482e2ce/harvest-hill-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/c2ae1710-87ee-11ef-9d46-06780482e2ce/harvest-hill-golf-course",
+  "checked_at": 1795523974.9593832,
+  "sha256": "d542dcb085d621be923d6058edfbc649b3dfffeb48ce4ccca23c7af016facf25",
+  "title": "Harvest Hill Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "c2ae1710-87ee-11ef-9d46-06780482e2ce",
+    "name": "Harvest Hill Golf Course",
+    "address": "5894 Poelma Drive, Waunakee, WI",
+    "courses": [
+      {
+        "name": "Harvest Hill Golf Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1450,
+            "par": 27,
+            "rating": 28.408,
+            "slope": 86.61
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1450,
+            "par": 27,
+            "rating": 28.408,
+            "slope": 86.61
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/c2ae1710-87ee-11ef-9d46-06780482e2ce/harvest-hill-golf-course"
+  }
+}

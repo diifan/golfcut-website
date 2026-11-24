@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99fba420-86ac-11e4-8c28-020000005b00/highland-meadows-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99fba420-86ac-11e4-8c28-020000005b00/highland-meadows-golf-country-club",
+  "checked_at": 1795524852.555631,
+  "sha256": "45029700ad84c12bfe1d435f3b41e01ba8ea0673f06901392385a32e1b08d46f",
+  "title": "Highland Meadows Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99fba420-86ac-11e4-8c28-020000005b00",
+    "name": "Highland Meadows Golf & Country Club",
+    "address": "24201 New York State Route 342",
+    "courses": [
+      {
+        "name": "Highland Meadows Golf & Country Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6311,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5893,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5273,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99fba420-86ac-11e4-8c28-020000005b00/highland-meadows-golf-country-club"
+  }
+}

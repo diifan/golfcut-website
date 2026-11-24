@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d465090-86ac-11e4-8c28-020000005b00/crooked-creek",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d465090-86ac-11e4-8c28-020000005b00/crooked-creek",
+  "checked_at": 1795524847.390913,
+  "sha256": "f0a12c2ae801e11213cc05e0709b60e0858ea96e45553f60cd0284dad3e7dfba",
+  "title": "[Closed] Crooked Creek - Scorecards, Reviews | 18Birdies star star star star star star star-o star-o star-o star-o star star-o star-o star-o star-o star star google-play",
+  "course_profile": {
+    "id": "8d465090-86ac-11e4-8c28-020000005b00",
+    "name": "[Closed] Crooked Creek",
+    "address": "7511 New Augusta Rd, Indianapolis, IN",
+    "courses": [
+      {
+        "name": "Crooked Creek",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1946,
+            "par": 31,
+            "rating": 31.3,
+            "slope": 99
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1536,
+            "par": 31,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d465090-86ac-11e4-8c28-020000005b00/crooked-creek"
+  }
+}

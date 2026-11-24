@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/892815c0-86ac-11e4-8c28-020000005b00/glen-annie-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/892815c0-86ac-11e4-8c28-020000005b00/glen-annie-golf-club",
+  "checked_at": 1795524161.5139241,
+  "sha256": "28dd356326146b02faadd6601eb325c61d64c73d1e6a0019a3a9f541e7bdb9be",
+  "title": "Glen Annie Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "892815c0-86ac-11e4-8c28-020000005b00",
+    "name": "Glen Annie Golf Club",
+    "address": "405 Glen Annie Rd, Santa Barbara, CA",
+    "courses": [
+      {
+        "name": "Glen Annie",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6417,
+            "par": 71,
+            "rating": 71.3,
+            "slope": 130
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 6417,
+            "par": 71,
+            "rating": 76,
+            "slope": 134
+          },
+          {
+            "name": "Combo",
+            "category": "MALE",
+            "yards": 6122,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 127
+          },
+          {
+            "name": "Combo",
+            "category": "FEMALE",
+            "yards": 6122,
+            "par": 71,
+            "rating": 74.5,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5945,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5945,
+            "par": 71,
+            "rating": 74.7,
+            "slope": 136
+          },
+          {
+            "name": "Burgundy",
+            "category": "MALE",
+            "yards": 5005,
+            "par": 71,
+            "rating": 64.2,
+            "slope": 113
+          },
+          {
+            "name": "Burgundy",
+            "category": "FEMALE",
+            "yards": 5005,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/892815c0-86ac-11e4-8c28-020000005b00/glen-annie-golf-club"
+  }
+}

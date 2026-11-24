@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92c9e7c0-86ac-11e4-8c28-020000005b00/the-fenwick-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92c9e7c0-86ac-11e4-8c28-020000005b00/the-fenwick-golf-course",
+  "checked_at": 1795524194.2341347,
+  "sha256": "ea0f61a0d9ba7ccc75d250f5e4e6f9adb6c4632f3dc4b02d5e70dd8f5b708c27",
+  "title": "The Fenwick Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92c9e7c0-86ac-11e4-8c28-020000005b00",
+    "name": "The Fenwick Golf Course",
+    "address": "580 Maple Ave, Old Saybrook, CT",
+    "courses": [
+      {
+        "name": "9 Hole Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2867,
+            "par": 34,
+            "rating": 33.7,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2867,
+            "par": 34,
+            "rating": 36.2,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2712,
+            "par": 34,
+            "rating": 32.4,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2712,
+            "par": 34,
+            "rating": 34.9,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2441,
+            "par": 34,
+            "rating": 31,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2441,
+            "par": 34,
+            "rating": 33.6,
+            "slope": 114
+          }
+        ]
+      },
+      {
+        "name": "18 Hole Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5734,
+            "par": 69,
+            "rating": 68.4,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5734,
+            "par": 69,
+            "rating": 72.4,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5424,
+            "par": 69,
+            "rating": 65.4,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5424,
+            "par": 69,
+            "rating": 70.2,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4882,
+            "par": 69,
+            "rating": 62,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4882,
+            "par": 69,
+            "rating": 67.4,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92c9e7c0-86ac-11e4-8c28-020000005b00/the-fenwick-golf-course"
+  }
+}

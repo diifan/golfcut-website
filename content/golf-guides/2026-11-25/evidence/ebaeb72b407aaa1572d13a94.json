@@ -1,0 +1,67 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3bd6bf0-86ac-11e4-8c28-020000005b00/rammler-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3bd6bf0-86ac-11e4-8c28-020000005b00/rammler-golf-club",
+  "checked_at": 1795524267.5128255,
+  "sha256": "eb40c83e3e4b888d4cd7a069cab1e83669d62646ac2131f6327b9402f8153b0c",
+  "title": "Rammler Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b3bd6bf0-86ac-11e4-8c28-020000005b00",
+    "name": "Rammler Golf Club",
+    "address": "38180 Utica Rd.",
+    "courses": [
+      {
+        "name": "Rammler(Par 3 )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1208,
+            "par": 27,
+            "rating": 27.30932,
+            "slope": 82.17656
+          }
+        ]
+      },
+      {
+        "name": "Rammler",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6305,
+            "par": 71,
+            "rating": 70,
+            "slope": 123
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5954,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 115
+          },
+          {
+            "name": "Hybrid",
+            "category": "MALE",
+            "yards": 5478,
+            "par": 71,
+            "rating": 66,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4951,
+            "par": 71,
+            "rating": 63,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3bd6bf0-86ac-11e4-8c28-020000005b00/rammler-golf-club"
+  }
+}

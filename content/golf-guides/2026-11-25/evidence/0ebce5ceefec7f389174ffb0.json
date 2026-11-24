@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/956d9080-86ac-11e4-8c28-020000005b00/hyannis-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/956d9080-86ac-11e4-8c28-020000005b00/hyannis-golf-course",
+  "checked_at": 1795524884.850323,
+  "sha256": "6c29bf98784ae452474b427da8e8c79c577c1422948b066f495b922b545501ce",
+  "title": "Hyannis golf course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "956d9080-86ac-11e4-8c28-020000005b00",
+    "name": "Hyannis golf course",
+    "address": "Route 132",
+    "courses": [
+      {
+        "name": "Hyannis",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6621,
+            "par": 71,
+            "rating": 71.7,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6002,
+            "par": 71,
+            "rating": 70.6,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5400,
+            "par": 71,
+            "rating": 65.8,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5149,
+            "par": 71,
+            "rating": 68.4,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/956d9080-86ac-11e4-8c28-020000005b00/hyannis-golf-course"
+  }
+}

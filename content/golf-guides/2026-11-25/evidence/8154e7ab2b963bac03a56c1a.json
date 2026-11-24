@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ac10540-86ac-11e4-8c28-020000005b00/oak-quarry-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ac10540-86ac-11e4-8c28-020000005b00/oak-quarry-golf-club",
+  "checked_at": 1795523666.8041265,
+  "sha256": "7e725595b56253c2291f7e3412d5e28685951694e7412d2b7985a768494e0101",
+  "title": "Oak Quarry Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8ac10540-86ac-11e4-8c28-020000005b00",
+    "name": "Oak Quarry Golf Club",
+    "address": "7151 Sierra Avenue Riverside, CA",
+    "courses": [
+      {
+        "name": "Oak Quarry",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 7002,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 137
+          },
+          {
+            "name": "Tournament",
+            "category": "FEMALE",
+            "yards": 7002,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6600,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 131
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 6600,
+            "par": 72,
+            "rating": 78.3,
+            "slope": 138
+          },
+          {
+            "name": "Regular",
+            "category": "MALE",
+            "yards": 6028,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 125
+          },
+          {
+            "name": "Regular",
+            "category": "FEMALE",
+            "yards": 6028,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5408,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5408,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ac10540-86ac-11e4-8c28-020000005b00/oak-quarry-golf-club"
+  }
+}

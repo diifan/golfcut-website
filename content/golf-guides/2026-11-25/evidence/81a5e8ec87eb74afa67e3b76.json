@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8eb6f790-86ac-11e4-8c28-020000005b00/bartow-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8eb6f790-86ac-11e4-8c28-020000005b00/bartow-golf-course",
+  "checked_at": 1795524199.3300502,
+  "sha256": "a8f1a242c1a44a17c12560d3b0ec25677bf5cf8f0f47e51a2c237a46939537e0",
+  "title": "Bartow Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8eb6f790-86ac-11e4-8c28-020000005b00",
+    "name": "Bartow Golf Course",
+    "address": "150 Idlewood Ave, Bartow FL",
+    "courses": [
+      {
+        "name": "Bartow",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6453,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6453,
+            "par": 72,
+            "rating": 77.3,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6018,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6018,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 122
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5399,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 109
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5399,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5172,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5172,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 112
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 4303,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 4303,
+            "par": 72,
+            "rating": 64.7,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8eb6f790-86ac-11e4-8c28-020000005b00/bartow-golf-course"
+  }
+}

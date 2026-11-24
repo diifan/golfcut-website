@@ -1,0 +1,257 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a1498a0-86ac-11e4-8c28-020000005b00/monarch-bay-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a1498a0-86ac-11e4-8c28-020000005b00/monarch-bay-golf-club",
+  "checked_at": 1795523700.9904215,
+  "sha256": "2f9257316bb08b04d6a6a21798c13b6b2b29f486dc2b2b75d7b6ee0e9c2bee81",
+  "title": "Monarch Bay Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a1498a0-86ac-11e4-8c28-020000005b00",
+    "name": "Monarch Bay Golf Club",
+    "address": "13800 Monarch Bay Dr, San Leandro, CA",
+    "courses": [
+      {
+        "name": "Tony Lema",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6937,
+            "par": 71,
+            "rating": 73.8,
+            "slope": 132
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6937,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6583,
+            "par": 71,
+            "rating": 72.2,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6583,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Combo",
+            "category": "MALE",
+            "yards": 6356,
+            "par": 71,
+            "rating": 70.9,
+            "slope": 126
+          },
+          {
+            "name": "Combo",
+            "category": "FEMALE",
+            "yards": 6356,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White/Gold",
+            "category": "MALE",
+            "yards": 6286,
+            "par": 71,
+            "rating": 70.8,
+            "slope": 127
+          },
+          {
+            "name": "White/Gold",
+            "category": "FEMALE",
+            "yards": 6286,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6054,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6054,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 132
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5502,
+            "par": 71,
+            "rating": 66.8,
+            "slope": 114
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5502,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5140,
+            "par": 71,
+            "rating": 65,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5140,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 119
+          },
+          {
+            "name": "Marina",
+            "category": "MALE",
+            "yards": 3655,
+            "par": 71,
+            "rating": 58.6,
+            "slope": 94
+          },
+          {
+            "name": "Marina",
+            "category": "FEMALE",
+            "yards": 3655,
+            "par": 72,
+            "rating": 60.6,
+            "slope": 101
+          }
+        ]
+      },
+      {
+        "name": "Marina 9",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1734,
+            "par": 30,
+            "rating": 29.4,
+            "slope": 89
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1734,
+            "par": 30,
+            "rating": 29.7,
+            "slope": 94
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 1484,
+            "par": 30,
+            "rating": 28.5,
+            "slope": 87
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 1484,
+            "par": 30,
+            "rating": 29,
+            "slope": 90
+          },
+          {
+            "name": "Blue/Silver",
+            "category": "MALE",
+            "yards": 1484,
+            "par": 30,
+            "rating": 29.4,
+            "slope": 89
+          },
+          {
+            "name": "Blue/Silver",
+            "category": "FEMALE",
+            "yards": 1484,
+            "par": 30,
+            "rating": 29.7,
+            "slope": 94
+          }
+        ]
+      },
+      {
+        "name": "Marina 18",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3468,
+            "par": 60,
+            "rating": 58.8,
+            "slope": 89
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3468,
+            "par": 60,
+            "rating": 59.4,
+            "slope": 94
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 2968,
+            "par": 60,
+            "rating": 57,
+            "slope": 87
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 2968,
+            "par": 60,
+            "rating": 58,
+            "slope": 90
+          },
+          {
+            "name": "Blue/Silver",
+            "category": "MALE",
+            "yards": 2968,
+            "par": 60,
+            "rating": 57.9,
+            "slope": 88
+          },
+          {
+            "name": "Blue/Silver",
+            "category": "FEMALE",
+            "yards": 2968,
+            "par": 60,
+            "rating": 58.7,
+            "slope": 92
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a1498a0-86ac-11e4-8c28-020000005b00/monarch-bay-golf-club"
+  }
+}

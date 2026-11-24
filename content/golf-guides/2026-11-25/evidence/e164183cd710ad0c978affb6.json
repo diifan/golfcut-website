@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2131750-86ac-11e4-8c28-020000005b00/maple-hills-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2131750-86ac-11e4-8c28-020000005b00/maple-hills-golf-course",
+  "checked_at": 1795524212.1328974,
+  "sha256": "af2fcd39f603abab3132e2d4408446724e4e10797e5c0e0904e8678ef1bfde2e",
+  "title": "Maple Hills Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b2131750-86ac-11e4-8c28-020000005b00",
+    "name": "Maple Hills Golf Course",
+    "address": "16344 E C Ave",
+    "courses": [
+      {
+        "name": "Maple Hills",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2994,
+            "par": 35,
+            "rating": 36.1,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2827,
+            "par": 35,
+            "rating": 35.3,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2131750-86ac-11e4-8c28-020000005b00/maple-hills-golf-course"
+  }
+}

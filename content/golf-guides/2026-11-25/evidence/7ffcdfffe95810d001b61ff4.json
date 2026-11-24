@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af83b9e0-86ac-11e4-8c28-020000005b00/nibley-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af83b9e0-86ac-11e4-8c28-020000005b00/nibley-park-golf-course",
+  "checked_at": 1795523773.9208124,
+  "sha256": "025416dc043af34110fe09b0f99534102b7c83d60b6cda28349a9495fc31f77c",
+  "title": "Nibley Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "af83b9e0-86ac-11e4-8c28-020000005b00",
+    "name": "Nibley Park Golf Course",
+    "address": "2780 S 700 E",
+    "courses": [
+      {
+        "name": "Nibley Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5648,
+            "par": 68,
+            "rating": 66,
+            "slope": 114
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5648,
+            "par": 68,
+            "rating": 71.6,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5142,
+            "par": 68,
+            "rating": 63.8,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5142,
+            "par": 68,
+            "rating": 68.6,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4538,
+            "par": 68,
+            "rating": 61.8,
+            "slope": 104
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4538,
+            "par": 68,
+            "rating": 65.6,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3504,
+            "par": 68,
+            "rating": 57,
+            "slope": 95
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3504,
+            "par": 68,
+            "rating": 59.2,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af83b9e0-86ac-11e4-8c28-020000005b00/nibley-park-golf-course"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9854aae0-86ac-11e4-8c28-020000005b00/rancocas-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9854aae0-86ac-11e4-8c28-020000005b00/rancocas-golf-club",
+  "checked_at": 1795524514.9455125,
+  "sha256": "456c005f1078409ab38ad8bb634a10d192215c6b770746440fa495c3ae10d2fb",
+  "title": "Rancocas Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9854aae0-86ac-11e4-8c28-020000005b00",
+    "name": "Rancocas Golf Club",
+    "address": "12 Club Ridge Ln, Willingboro, NJ",
+    "courses": [
+      {
+        "name": "Rancocas",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6602,
+            "par": 71,
+            "rating": 71.4,
+            "slope": 136
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6602,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6140,
+            "par": 71,
+            "rating": 68.8,
+            "slope": 130
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6140,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Middle-White",
+            "category": "MALE",
+            "yards": 6140,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Middle-White",
+            "category": "FEMALE",
+            "yards": 6140,
+            "par": 71,
+            "rating": 74.6,
+            "slope": 135
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5074,
+            "par": 71,
+            "rating": 64.9,
+            "slope": 123
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5074,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Forward-Silver",
+            "category": "MALE",
+            "yards": 5074,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Forward-Silver",
+            "category": "FEMALE",
+            "yards": 5074,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9854aae0-86ac-11e4-8c28-020000005b00/rancocas-golf-club"
+  }
+}

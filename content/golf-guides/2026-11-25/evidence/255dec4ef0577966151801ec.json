@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1bbcf90-86ac-11e4-8c28-020000005b00/falmouth-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1bbcf90-86ac-11e4-8c28-020000005b00/falmouth-country-club",
+  "checked_at": 1795523852.8788617,
+  "sha256": "11ca91e4a4032ee85d0e85985c01d3bf3d44d1dc06103e72af213b6f10393239",
+  "title": "Falmouth Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1bbcf90-86ac-11e4-8c28-020000005b00",
+    "name": "Falmouth Country Club",
+    "address": "1 Congressional Drive, Falmouth, ME",
+    "courses": [
+      {
+        "name": "Falmouth",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7080,
+            "par": 72,
+            "rating": 75.7,
+            "slope": 139
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6544,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 137
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6224,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5868,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5074,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1bbcf90-86ac-11e4-8c28-020000005b00/falmouth-country-club"
+  }
+}

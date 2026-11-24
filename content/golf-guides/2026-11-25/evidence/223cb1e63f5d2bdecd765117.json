@@ -1,0 +1,139 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99ac2490-86ac-11e4-8c28-020000005b00/genesee-valley-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99ac2490-86ac-11e4-8c28-020000005b00/genesee-valley-golf-course",
+  "checked_at": 1795523769.968402,
+  "sha256": "cb370e5e386476722b4c0ec1c7ec5a8632f3737ce8c0c158517afb2a7ff1153b",
+  "title": "Genesee Valley Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "99ac2490-86ac-11e4-8c28-020000005b00",
+    "name": "Genesee Valley Golf Course",
+    "address": "1000 E River Rd, Rochester, NY",
+    "courses": [
+      {
+        "name": "North",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6444,
+            "par": 71,
+            "rating": 70.6,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6444,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6086,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6086,
+            "par": 71,
+            "rating": 74.9,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5433,
+            "par": 71,
+            "rating": 65.7,
+            "slope": 107
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5433,
+            "par": 71,
+            "rating": 71,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5537,
+            "par": 71,
+            "rating": 66.3,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5537,
+            "par": 71,
+            "rating": 71.6,
+            "slope": 118
+          }
+        ]
+      },
+      {
+        "name": "South",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5338,
+            "par": 67,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5338,
+            "par": 67,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5230,
+            "par": 67,
+            "rating": 65.2,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5230,
+            "par": 67,
+            "rating": 70.4,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4584,
+            "par": 67,
+            "rating": 62.4,
+            "slope": 102
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4584,
+            "par": 67,
+            "rating": 66.6,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99ac2490-86ac-11e4-8c28-020000005b00/genesee-valley-golf-course"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8cbb9cc0-86ac-11e4-8c28-020000005b00/whitestone-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8cbb9cc0-86ac-11e4-8c28-020000005b00/whitestone-golf-club",
+  "checked_at": 1795523721.9081314,
+  "sha256": "ef4fadfff21edd1273e97797d1e5d014e292dd6328d5587fbcd04286c5f70785",
+  "title": "Whitestone Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8cbb9cc0-86ac-11e4-8c28-020000005b00",
+    "name": "Whitestone Golf Club",
+    "address": "10650 Highway 377 South, Benbrook, TX",
+    "courses": [
+      {
+        "name": "Whitestone",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7268,
+            "par": 72,
+            "rating": 76.5,
+            "slope": 143
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7268,
+            "par": 72,
+            "rating": 83.7,
+            "slope": 151
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6774,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 139
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6774,
+            "par": 72,
+            "rating": 81,
+            "slope": 145
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6235,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6235,
+            "par": 72,
+            "rating": 77.8,
+            "slope": 143
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5351,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5351,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8cbb9cc0-86ac-11e4-8c28-020000005b00/whitestone-golf-club"
+  }
+}

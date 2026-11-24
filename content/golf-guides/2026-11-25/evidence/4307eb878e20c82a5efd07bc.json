@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9314ac60-86ac-11e4-8c28-020000005b00/steel-canyon-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9314ac60-86ac-11e4-8c28-020000005b00/steel-canyon-golf-club",
+  "checked_at": 1795523723.8526769,
+  "sha256": "3acf58d0fbb490567f96370aec4b23a19849c3391ecdf66c00321be754a45433",
+  "title": "Steel Canyon Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9314ac60-86ac-11e4-8c28-020000005b00",
+    "name": "Steel Canyon Golf Club",
+    "address": "460 Morgan Falls Road, Sandy Springs, GA",
+    "courses": [
+      {
+        "name": "Steel Canyon",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 3842,
+            "par": 61,
+            "rating": 60.1,
+            "slope": 102
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 3842,
+            "par": 61,
+            "rating": 61.8,
+            "slope": 106
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3397,
+            "par": 61,
+            "rating": 58.1,
+            "slope": 97
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3397,
+            "par": 61,
+            "rating": 59,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2834,
+            "par": 61,
+            "rating": 55.31576,
+            "slope": 82.69526
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2834,
+            "par": 61,
+            "rating": 55.31576,
+            "slope": 82.69526
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9314ac60-86ac-11e4-8c28-020000005b00/steel-canyon-golf-club"
+  }
+}

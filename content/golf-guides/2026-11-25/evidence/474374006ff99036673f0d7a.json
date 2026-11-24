@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8bfa96b0-86ac-11e4-8c28-020000005b00/odessa-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8bfa96b0-86ac-11e4-8c28-020000005b00/odessa-country-club",
+  "checked_at": 1795524894.7095127,
+  "sha256": "d4dccdcb4f45066e281538478fa9a1ddb8e23f81d36630abc156ca6c7c15210f",
+  "title": "Odessa Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8bfa96b0-86ac-11e4-8c28-020000005b00",
+    "name": "Odessa Country Club",
+    "address": "1, Fairway Dr, Odessa, TX 79765, United States",
+    "courses": [
+      {
+        "name": "Odessa (Links)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7388,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6690,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6200,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5595,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 121
+          }
+        ]
+      },
+      {
+        "name": "Odessa (Old)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7069,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6704,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6165,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5235,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8bfa96b0-86ac-11e4-8c28-020000005b00/odessa-country-club"
+  }
+}

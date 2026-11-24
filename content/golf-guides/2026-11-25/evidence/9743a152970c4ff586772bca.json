@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/94a42600-86ac-11e4-8c28-020000005b00/sligo-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/94a42600-86ac-11e4-8c28-020000005b00/sligo-creek-golf-course",
+  "checked_at": 1795523841.7144048,
+  "sha256": "53aa8fd6dfcf4b3c9fb220daf7689258be1e4bc6bceef997716d3291334f9bf9",
+  "title": "Sligo Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "94a42600-86ac-11e4-8c28-020000005b00",
+    "name": "Sligo Creek Golf Course",
+    "address": "9701 Sligo Creek Parkway, Silver Spring, MD",
+    "courses": [
+      {
+        "name": "18 holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 4540,
+            "par": 68,
+            "rating": 62.4,
+            "slope": 102
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 4540,
+            "par": 68,
+            "rating": 66.8,
+            "slope": 112
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4060,
+            "par": 68,
+            "rating": 60,
+            "slope": 96
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 4060,
+            "par": 68,
+            "rating": 63.8,
+            "slope": 107
+          }
+        ]
+      },
+      {
+        "name": "9 holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 2270,
+            "par": 34,
+            "rating": 31,
+            "slope": 101
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 2270,
+            "par": 34,
+            "rating": 32.9,
+            "slope": 111
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 2030,
+            "par": 34,
+            "rating": 30,
+            "slope": 96
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 2030,
+            "par": 34,
+            "rating": 31.9,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/94a42600-86ac-11e4-8c28-020000005b00/sligo-creek-golf-course"
+  }
+}

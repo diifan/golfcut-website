@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98d8f610-86ac-11e4-8c28-020000005b00/dix-hills-park",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98d8f610-86ac-11e4-8c28-020000005b00/dix-hills-park",
+  "checked_at": 1795524331.0217032,
+  "sha256": "dc61f1371651b83fdcfb2430cb5ae51911e9d718c4c289f0750a71880504f7e9",
+  "title": "Dix Hills Park - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "98d8f610-86ac-11e4-8c28-020000005b00",
+    "name": "Dix Hills Park",
+    "address": "575 Vanderbilt Pkwy, Dix Hills, NY",
+    "courses": [
+      {
+        "name": "18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3880,
+            "par": 64,
+            "rating": 61.4,
+            "slope": 98
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3880,
+            "par": 64,
+            "rating": 61.6,
+            "slope": 98
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3764,
+            "par": 64,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3764,
+            "par": 64,
+            "rating": 61,
+            "slope": 99
+          }
+        ]
+      },
+      {
+        "name": "9 Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1940,
+            "par": 32,
+            "rating": 29.5,
+            "slope": 97
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1940,
+            "par": 32,
+            "rating": 30.7,
+            "slope": 98
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1882,
+            "par": 32,
+            "rating": 31,
+            "slope": 97
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1882,
+            "par": 32,
+            "rating": 30.1,
+            "slope": 97
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98d8f610-86ac-11e4-8c28-020000005b00/dix-hills-park"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ded3ef0-86ac-11e4-8c28-020000005b00/greenfield-lakes-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ded3ef0-86ac-11e4-8c28-020000005b00/greenfield-lakes-golf-course",
+  "checked_at": 1795523956.6188202,
+  "sha256": "1a8b424a011e4c22b172b30b1b39c08cb365cb293d2d71e231ae77fd137ccfba",
+  "title": "Greenfield Lakes Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8ded3ef0-86ac-11e4-8c28-020000005b00",
+    "name": "Greenfield Lakes Golf Course",
+    "address": "2484 E Warner Road, Gilbert, AZ",
+    "courses": [
+      {
+        "name": "Greenfield Lakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4107,
+            "par": 62,
+            "rating": 59.6,
+            "slope": 88
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4107,
+            "par": 62,
+            "rating": 62.6,
+            "slope": 97
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3626,
+            "par": 62,
+            "rating": 57.4,
+            "slope": 84
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3626,
+            "par": 62,
+            "rating": 59,
+            "slope": 88
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2792,
+            "par": 62,
+            "rating": 55.1,
+            "slope": 78
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2792,
+            "par": 62,
+            "rating": 56.7,
+            "slope": 82
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ded3ef0-86ac-11e4-8c28-020000005b00/greenfield-lakes-golf-course"
+  }
+}

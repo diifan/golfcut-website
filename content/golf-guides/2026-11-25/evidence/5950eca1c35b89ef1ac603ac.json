@@ -1,0 +1,75 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/aeb34a80-86ac-11e4-8c28-020000005b00/edgebrook-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/aeb34a80-86ac-11e4-8c28-020000005b00/edgebrook-golf-course",
+  "checked_at": 1795524820.8411245,
+  "sha256": "896f680cdd5a0ba0d1b6f239e1c6be0f8a19d3d4a6fb47be1e93732a1cf4d279",
+  "title": "Edgebrook Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "aeb34a80-86ac-11e4-8c28-020000005b00",
+    "name": "Edgebrook Golf Course",
+    "address": "Rural Route 1, Brookings, SD",
+    "courses": [
+      {
+        "name": "Edgebrook",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6336,
+            "par": 70,
+            "rating": 70.7,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6064,
+            "par": 70,
+            "rating": 70,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5093,
+            "par": 70,
+            "rating": 63.7,
+            "slope": 104
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4021,
+            "par": 70,
+            "rating": 63.2,
+            "slope": 108
+          }
+        ]
+      },
+      {
+        "name": "Executive Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 809,
+            "par": 27,
+            "rating": 25.3,
+            "slope": 71
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 809,
+            "par": 27,
+            "rating": 26.7,
+            "slope": 75
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/aeb34a80-86ac-11e4-8c28-020000005b00/edgebrook-golf-course"
+  }
+}

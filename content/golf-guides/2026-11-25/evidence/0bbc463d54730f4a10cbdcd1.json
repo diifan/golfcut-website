@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/91f1b030-86ac-11e4-8c28-020000005b00/valley-hi-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/91f1b030-86ac-11e4-8c28-020000005b00/valley-hi-golf-course",
+  "checked_at": 1795523847.9411094,
+  "sha256": "4f85496c6e212ecbd3ee532204e8163208cccfe01044fef33cd05a91b4599572",
+  "title": "Valley Hi Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "91f1b030-86ac-11e4-8c28-020000005b00",
+    "name": "Valley Hi Golf Course",
+    "address": "610 S. Chelton Rd, Colorado Springs, CO",
+    "courses": [
+      {
+        "name": "Valley High",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6910,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6459,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 119
+          },
+          {
+            "name": "Sandstone",
+            "category": "MALE",
+            "yards": 5616,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 112
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5153,
+            "par": 72,
+            "rating": 63.3,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/91f1b030-86ac-11e4-8c28-020000005b00/valley-hi-golf-course"
+  }
+}

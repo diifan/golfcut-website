@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/89c9d400-86ac-11e4-8c28-020000005b00/rancho-vista",
+  "resolved_url": "https://18birdies.com/golf-courses/club/89c9d400-86ac-11e4-8c28-020000005b00/rancho-vista",
+  "checked_at": 1795524251.1327462,
+  "sha256": "ec4fc62e50e05c87fc40ec27f469fe16b9ffa3375055f5212fd6dba58302f064",
+  "title": "Rancho Vista - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "89c9d400-86ac-11e4-8c28-020000005b00",
+    "name": "Rancho Vista",
+    "address": "3905 Club Rancho Dr., Palmdale, CA",
+    "courses": [
+      {
+        "name": "Rancho Vista",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6659,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6659,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6279,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6279,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5727,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5727,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 129
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5262,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 109
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5262,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/89c9d400-86ac-11e4-8c28-020000005b00/rancho-vista"
+  }
+}

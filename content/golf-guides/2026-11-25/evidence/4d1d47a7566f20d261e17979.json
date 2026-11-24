@@ -1,0 +1,99 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a05a480-86ac-11e4-8c28-020000005b00/sea-and-air",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a05a480-86ac-11e4-8c28-020000005b00/sea-and-air",
+  "checked_at": 1795523929.2139113,
+  "sha256": "1d6dc32944a77301775ca8e7a9261181b7d6bb161225163cb69483fde57b88cc",
+  "title": "Sea and Air - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a05a480-86ac-11e4-8c28-020000005b00",
+    "name": "Sea and Air",
+    "address": "Navel Air Station N Island, San Diego, CA",
+    "courses": [
+      {
+        "name": "Sea and Air",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6353,
+            "par": 71,
+            "rating": 70.6,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6353,
+            "par": 71,
+            "rating": 77.5,
+            "slope": 140
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6001,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6001,
+            "par": 71,
+            "rating": 75.4,
+            "slope": 137
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5259,
+            "par": 71,
+            "rating": 66,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5259,
+            "par": 71,
+            "rating": 71.8,
+            "slope": 124
+          }
+        ]
+      },
+      {
+        "name": "Sea and Air (Temporary Safety)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6093,
+            "par": 71,
+            "rating": 70.6,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5755,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5074,
+            "par": 71,
+            "rating": 66,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a05a480-86ac-11e4-8c28-020000005b00/sea-and-air"
+  }
+}

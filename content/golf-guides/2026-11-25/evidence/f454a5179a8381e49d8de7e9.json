@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/6e2bd220-86ac-11e4-8c28-020000005b00/evian-resort-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/6e2bd220-86ac-11e4-8c28-020000005b00/evian-resort-golf-club",
+  "checked_at": 1795524261.474586,
+  "sha256": "f483510c0594ffd39c63035f1408619a1d8beeb4e958f331d47bef5b9b31846f",
+  "title": "Evian resort golf club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "6e2bd220-86ac-11e4-8c28-020000005b00",
+    "name": "Evian resort golf club",
+    "address": "Route du Golf, Évian-les-Bains,Rhone-Alpes",
+    "courses": [
+      {
+        "name": "Evian Championship",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6693,
+            "par": 72,
+            "rating": 73,
+            "slope": 145
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6510,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 140
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6104,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5655,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 136
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5147,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/6e2bd220-86ac-11e4-8c28-020000005b00/evian-resort-golf-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ce014b0-86ac-11e4-8c28-020000005b00/eagle-pointe-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ce014b0-86ac-11e4-8c28-020000005b00/eagle-pointe-golf",
+  "checked_at": 1795524836.3352902,
+  "sha256": "8dda957a5efdfe236ad5303b7a1e46bbffc9d2a5d2c3873c6aed09df0cea6152",
+  "title": "Eagle Pointe Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8ce014b0-86ac-11e4-8c28-020000005b00",
+    "name": "Eagle Pointe Golf",
+    "address": "2250 E Pointe Rd",
+    "courses": [
+      {
+        "name": "Eagle Pointe",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6678,
+            "par": 71,
+            "rating": 72.4,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6134,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 129
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5618,
+            "par": 71,
+            "rating": 67.3,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4994,
+            "par": 71,
+            "rating": 67.7,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ce014b0-86ac-11e4-8c28-020000005b00/eagle-pointe-golf"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95d9bfd0-86ac-11e4-8c28-020000005b00/presidents-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95d9bfd0-86ac-11e4-8c28-020000005b00/presidents-golf-course",
+  "checked_at": 1795523684.9377375,
+  "sha256": "7270445f7c320279411b5874d8dd84fe62c39fa5863050c44bcf0939f008cdbd",
+  "title": "Presidents Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95d9bfd0-86ac-11e4-8c28-020000005b00",
+    "name": "Presidents Golf Course",
+    "address": "357 W Squantum St, North Quincy, MA",
+    "courses": [
+      {
+        "name": "Presidents",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 5690,
+            "par": 70,
+            "rating": 68.3,
+            "slope": 127
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 5690,
+            "par": 70,
+            "rating": 72.2,
+            "slope": 126
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5170,
+            "par": 70,
+            "rating": 66,
+            "slope": 117
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5170,
+            "par": 70,
+            "rating": 70.2,
+            "slope": 124
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 4425,
+            "par": 70,
+            "rating": 63.4,
+            "slope": 106
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 4425,
+            "par": 70,
+            "rating": 67.7,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95d9bfd0-86ac-11e4-8c28-020000005b00/presidents-golf-course"
+  }
+}

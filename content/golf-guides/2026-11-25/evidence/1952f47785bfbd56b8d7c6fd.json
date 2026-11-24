@@ -1,0 +1,273 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9384ac40-86ac-11e4-8c28-020000005b00/jekyll-island-golf-resort",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9384ac40-86ac-11e4-8c28-020000005b00/jekyll-island-golf-resort",
+  "checked_at": 1795524079.8351665,
+  "sha256": "6ae247becea6d0ec4c8e4c4b05a5985a7349264492359ae82366dabe38cd7977",
+  "title": "Jekyll Island Golf Resort - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9384ac40-86ac-11e4-8c28-020000005b00",
+    "name": "Jekyll Island Golf Resort",
+    "address": "322 Captain Wylly Rd, Jekyll Island, GA",
+    "courses": [
+      {
+        "name": "Indian Mound",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6408,
+            "par": 75,
+            "rating": 70.8,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6408,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6166,
+            "par": 75,
+            "rating": 69.6,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6166,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5609,
+            "par": 75,
+            "rating": 67,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5609,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4838,
+            "par": 75,
+            "rating": 63.4,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4838,
+            "par": 72,
+            "rating": 68,
+            "slope": 113
+          },
+          {
+            "name": "Purple",
+            "category": "MALE",
+            "yards": 5080,
+            "par": 75,
+            "rating": 64.4,
+            "slope": 108
+          },
+          {
+            "name": "Purple",
+            "category": "FEMALE",
+            "yards": 5080,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 116
+          }
+        ]
+      },
+      {
+        "name": "Pine Lakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6700,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6700,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6303,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6303,
+            "par": 72,
+            "rating": 75.6,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5810,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5810,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4975,
+            "par": 72,
+            "rating": 63.4,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4975,
+            "par": 72,
+            "rating": 68,
+            "slope": 113
+          },
+          {
+            "name": "Purple",
+            "category": "MALE",
+            "yards": 5321,
+            "par": 72,
+            "rating": 65.2,
+            "slope": 107
+          },
+          {
+            "name": "Purple",
+            "category": "FEMALE",
+            "yards": 5321,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 115
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 3497,
+            "par": 72,
+            "rating": 58.4,
+            "slope": 91
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 3497,
+            "par": 72,
+            "rating": 59.5,
+            "slope": 92
+          }
+        ]
+      },
+      {
+        "name": "Great Dunes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7014,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7014,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6465,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6465,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5804,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 112
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5804,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4838,
+            "par": 72,
+            "rating": 63.2,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4838,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9384ac40-86ac-11e4-8c28-020000005b00/jekyll-island-golf-resort"
+  }
+}

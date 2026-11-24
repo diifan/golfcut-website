@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/91bb5df0-86ac-11e4-8c28-020000005b00/oak-mountain-state-park",
+  "resolved_url": "https://18birdies.com/golf-courses/club/91bb5df0-86ac-11e4-8c28-020000005b00/oak-mountain-state-park",
+  "checked_at": 1795524326.470537,
+  "sha256": "0c6d5fca5eb144b9f49ea7f82cf34549938a33d43909df4f87ed1c4c3a05792e",
+  "title": "Oak Mountain State Park - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "91bb5df0-86ac-11e4-8c28-020000005b00",
+    "name": "Oak Mountain State Park",
+    "address": "Finley Dr",
+    "courses": [
+      {
+        "name": "Oak Mountain State Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6842,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6360,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 119
+          },
+          {
+            "name": "Grey",
+            "category": "MALE",
+            "yards": 6102,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5488,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5392,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/91bb5df0-86ac-11e4-8c28-020000005b00/oak-mountain-state-park"
+  }
+}

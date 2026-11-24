@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad5f7a50-86ac-11e4-8c28-020000005b00/walnut-lane-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad5f7a50-86ac-11e4-8c28-020000005b00/walnut-lane-golf-course",
+  "checked_at": 1795523723.745096,
+  "sha256": "c02b1dc40f775c5baaf97308678ae3a5e407ae7ba66c5bded3e0483f2a9f257b",
+  "title": "Walnut Lane Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "ad5f7a50-86ac-11e4-8c28-020000005b00",
+    "name": "Walnut Lane Golf Course",
+    "address": "800 Walnut Lane, Philidelphia, PA",
+    "courses": [
+      {
+        "name": "Walnut Lane",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 4509,
+            "par": 62,
+            "rating": 60.3,
+            "slope": 100
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 4509,
+            "par": 62,
+            "rating": 65.9,
+            "slope": 112
+          },
+          {
+            "name": "Regulation",
+            "category": "MALE",
+            "yards": 4271,
+            "par": 62,
+            "rating": 59.9,
+            "slope": 99
+          },
+          {
+            "name": "Regulation",
+            "category": "FEMALE",
+            "yards": 4271,
+            "par": 62,
+            "rating": 62.3,
+            "slope": 101
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 3993,
+            "par": 62,
+            "rating": 59,
+            "slope": 96
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 3993,
+            "par": 62,
+            "rating": 60.4,
+            "slope": 97
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad5f7a50-86ac-11e4-8c28-020000005b00/walnut-lane-golf-course"
+  }
+}

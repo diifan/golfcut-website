@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0ea75d0-86ac-11e4-8c28-020000005b00/fairway-village-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0ea75d0-86ac-11e4-8c28-020000005b00/fairway-village-golf-country-club",
+  "checked_at": 1795524869.6617754,
+  "sha256": "87e136ed3965ac170b3304deae02e70cbb01b4bde926a9967569002a357d0258",
+  "title": "Fairway Village Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b0ea75d0-86ac-11e4-8c28-020000005b00",
+    "name": "Fairway Village Golf & Country Club",
+    "address": "15509 SE Fernwood Drive, Vancouver, WA",
+    "courses": [
+      {
+        "name": "Fairway Village (9 holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 5121,
+            "par": 68,
+            "rating": 64.9,
+            "slope": 111
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 5121,
+            "par": 70,
+            "rating": 69.8,
+            "slope": 122
+          },
+          {
+            "name": "Red/White",
+            "category": "MALE",
+            "yards": 4784,
+            "par": 68,
+            "rating": 63.5,
+            "slope": 110
+          },
+          {
+            "name": "Red/White",
+            "category": "FEMALE",
+            "yards": 4784,
+            "par": 70,
+            "rating": 67.9,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0ea75d0-86ac-11e4-8c28-020000005b00/fairway-village-golf-country-club"
+  }
+}

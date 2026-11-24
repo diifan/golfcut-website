@@ -1,0 +1,369 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afb9be00-86ac-11e4-8c28-020000005b00/bay-creek-resort-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afb9be00-86ac-11e4-8c28-020000005b00/bay-creek-resort-club",
+  "checked_at": 1795524128.8092985,
+  "sha256": "0d68855c66a90ad84d86b466cb7adcff51f07cd0ebb51f003bb981cef2a1124f",
+  "title": "Bay Creek Resort & Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "afb9be00-86ac-11e4-8c28-020000005b00",
+    "name": "Bay Creek Resort & Club",
+    "address": "3335 Stone Road, Cape Charles, VA",
+    "courses": [
+      {
+        "name": "Palmer Front/Back",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7250,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 143
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7250,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 6832,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 139
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 6832,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6328,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6328,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5195,
+            "par": 72,
+            "rating": 66,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5195,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5687,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5687,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 137
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4000,
+            "par": 72,
+            "rating": 61.1,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4000,
+            "par": 72,
+            "rating": 63.8,
+            "slope": 115
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 3066,
+            "par": 72,
+            "rating": 58,
+            "slope": 101
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 3066,
+            "par": 72,
+            "rating": 59.1,
+            "slope": 105
+          }
+        ]
+      },
+      {
+        "name": "Nicklaus/Palmer front",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7301,
+            "par": 72,
+            "rating": 75.6,
+            "slope": 144
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7301,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 6816,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 139
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 6816,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6360,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6360,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5221,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5221,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5804,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5804,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 138
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4036,
+            "par": 72,
+            "rating": 61.3,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4036,
+            "par": 72,
+            "rating": 63.6,
+            "slope": 115
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 3007,
+            "par": 72,
+            "rating": 58.3,
+            "slope": 103
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 3007,
+            "par": 72,
+            "rating": 58.9,
+            "slope": 105
+          }
+        ]
+      },
+      {
+        "name": "Palmer Back/Nicklaus Front",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7239,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 145
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7239,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 6750,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 141
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 6750,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6392,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6392,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5320,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5320,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5843,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5843,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 137
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4044,
+            "par": 72,
+            "rating": 61,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4044,
+            "par": 72,
+            "rating": 63.2,
+            "slope": 113
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 3073,
+            "par": 72,
+            "rating": 58.3,
+            "slope": 102
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 3073,
+            "par": 72,
+            "rating": 59,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afb9be00-86ac-11e4-8c28-020000005b00/bay-creek-resort-club"
+  }
+}

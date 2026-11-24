@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b572bd10-86ac-11e4-8c28-020000005b00/the-rock-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b572bd10-86ac-11e4-8c28-020000005b00/the-rock-golf-club",
+  "checked_at": 1795523809.136774,
+  "sha256": "cc631e1e40fdc32757cfc044fa622fe8b6833c7086036718c6ff032939faed9a",
+  "title": "The Rock Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b572bd10-86ac-11e4-8c28-020000005b00",
+    "name": "The Rock Golf Club",
+    "address": "700 County Park Road, Waupun, WI",
+    "courses": [
+      {
+        "name": "The Rock",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6773,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6773,
+            "par": 72,
+            "rating": 77.9,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6445,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6445,
+            "par": 72,
+            "rating": 78.7,
+            "slope": 138
+          },
+          {
+            "name": "Combo R/G",
+            "category": "MALE",
+            "yards": 5542,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 124
+          },
+          {
+            "name": "Combo R/G",
+            "category": "FEMALE",
+            "yards": 5542,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 133
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b572bd10-86ac-11e4-8c28-020000005b00/the-rock-golf-club"
+  }
+}

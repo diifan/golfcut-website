@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8305a680-86ac-11e4-8c28-020000005b00/elmwood-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8305a680-86ac-11e4-8c28-020000005b00/elmwood-golf-club",
+  "checked_at": 1795524831.448027,
+  "sha256": "4e4a29fcb369a58d49b264e4e75272474e304363702d227c7bcda6c3b50b1e00",
+  "title": "Elmwood Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8305a680-86ac-11e4-8c28-020000005b00",
+    "name": "Elmwood Golf Club",
+    "address": "1400 Eiler Rd",
+    "courses": [
+      {
+        "name": "Elmwood",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3030,
+            "par": 36,
+            "rating": 36.3,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3030,
+            "par": 36,
+            "rating": 37.1,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2931,
+            "par": 36,
+            "rating": 35.8,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2931,
+            "par": 36,
+            "rating": 36.5,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2660,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2660,
+            "par": 36,
+            "rating": 35.1,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8305a680-86ac-11e4-8c28-020000005b00/elmwood-golf-club"
+  }
+}

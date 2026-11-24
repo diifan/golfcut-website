@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b157890-86ac-11e4-8c28-020000005b00/the-500-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b157890-86ac-11e4-8c28-020000005b00/the-500-club",
+  "checked_at": 1795524223.7186286,
+  "sha256": "63a5375417e0bdfb13f250d192b152410a13060b9c1009ee7aac6a710c13afb9",
+  "title": "The 500 Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9b157890-86ac-11e4-8c28-020000005b00",
+    "name": "The 500 Club",
+    "address": "175 Club House Dr, Statesville, NC",
+    "courses": [
+      {
+        "name": "The 500 Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6721,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 135
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 6721,
+            "par": 72,
+            "rating": 77.7,
+            "slope": 138
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6364,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 130
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6364,
+            "par": 72,
+            "rating": 75.7,
+            "slope": 134
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5811,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 123
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5811,
+            "par": 72,
+            "rating": 74,
+            "slope": 132
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 5071,
+            "par": 72,
+            "rating": 64.8,
+            "slope": 110
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 5071,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b157890-86ac-11e4-8c28-020000005b00/the-500-club"
+  }
+}

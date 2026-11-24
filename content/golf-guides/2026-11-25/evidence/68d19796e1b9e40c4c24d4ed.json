@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/952d5330-86ac-11e4-8c28-020000005b00/strawberry-valley-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/952d5330-86ac-11e4-8c28-020000005b00/strawberry-valley-golf-course",
+  "checked_at": 1795524304.097027,
+  "sha256": "91d6857940705bb2efd64e1a2b9ab89c19722d07edeeb903e05484e860af5b4c",
+  "title": "Strawberry Valley Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "952d5330-86ac-11e4-8c28-020000005b00",
+    "name": "Strawberry Valley Golf Course",
+    "address": "164 Washington St.",
+    "courses": [
+      {
+        "name": "Strawberry Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 5156,
+            "par": 70,
+            "rating": 64.8,
+            "slope": 115
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 5156,
+            "par": 70,
+            "rating": 68.9,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4118,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4118,
+            "par": 70,
+            "rating": 64.3,
+            "slope": 109
+          }
+        ]
+      },
+      {
+        "name": "Strawberry Valley (9Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 2578,
+            "par": 35,
+            "rating": 33.1,
+            "slope": 115
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 2578,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2059,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2059,
+            "par": 35,
+            "rating": 32.2,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/952d5330-86ac-11e4-8c28-020000005b00/strawberry-valley-golf-course"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b48b6a50-86ac-11e4-8c28-020000005b00/omaha-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b48b6a50-86ac-11e4-8c28-020000005b00/omaha-country-club",
+  "checked_at": 1795523933.508216,
+  "sha256": "97faa7e9bc1ceabe568e5e8531c9730d37d6854a429ffc03b4456bf11d1fb2d7",
+  "title": "Omaha Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b48b6a50-86ac-11e4-8c28-020000005b00",
+    "name": "Omaha Country Club",
+    "address": "6900 Country Club Rd, Omaha, NE",
+    "courses": [
+      {
+        "name": "Omaha",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6798,
+            "par": 71,
+            "rating": 74.6,
+            "slope": 136
+          },
+          {
+            "name": "Maxwell",
+            "category": "MALE",
+            "yards": 6338,
+            "par": 71,
+            "rating": 72.2,
+            "slope": 130
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6024,
+            "par": 71,
+            "rating": 70.9,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5485,
+            "par": 71,
+            "rating": 68,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5149,
+            "par": 71,
+            "rating": 66.3,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b48b6a50-86ac-11e4-8c28-020000005b00/omaha-country-club"
+  }
+}

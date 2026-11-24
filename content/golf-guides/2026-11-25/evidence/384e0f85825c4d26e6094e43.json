@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a041de0-86ac-11e4-8c28-020000005b00/mission-bay-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a041de0-86ac-11e4-8c28-020000005b00/mission-bay-golf-course",
+  "checked_at": 1795523657.518816,
+  "sha256": "55e4da0d56ec29ee94b07abd8697b57cb90b473531baafcc6258906af1c5af72",
+  "title": "Mission Bay Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a041de0-86ac-11e4-8c28-020000005b00",
+    "name": "Mission Bay Golf Course",
+    "address": "2702 N Mission Bay Drive, San Diego, CA",
+    "courses": [
+      {
+        "name": "Mission Bay",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2706,
+            "par": 58,
+            "rating": 53.4,
+            "slope": 73
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2706,
+            "par": 58,
+            "rating": 55.9,
+            "slope": 79
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2427,
+            "par": 58,
+            "rating": 52.1,
+            "slope": 70
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2427,
+            "par": 58,
+            "rating": 54.3,
+            "slope": 76
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a041de0-86ac-11e4-8c28-020000005b00/mission-bay-golf-course"
+  }
+}

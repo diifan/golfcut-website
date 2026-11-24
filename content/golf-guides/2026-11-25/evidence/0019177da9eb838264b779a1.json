@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9515ac80-86ac-11e4-8c28-020000005b00/westminster-national-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9515ac80-86ac-11e4-8c28-020000005b00/westminster-national-golf-course",
+  "checked_at": 1795524884.2946408,
+  "sha256": "66f9fff6364840217e4468b091e6c8e3e88e70898e37941f06c172707e71cd6e",
+  "title": "Westminster National Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9515ac80-86ac-11e4-8c28-020000005b00",
+    "name": "Westminster National Golf Course",
+    "address": "2158 Littlestown Pike",
+    "courses": [
+      {
+        "name": "Bear Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5945,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5753,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5241,
+            "par": 71,
+            "rating": 66.3,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4863,
+            "par": 71,
+            "rating": 64.5,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9515ac80-86ac-11e4-8c28-020000005b00/westminster-national-golf-course"
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d5110b0-86ac-11e4-8c28-020000005b00/penn-national-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d5110b0-86ac-11e4-8c28-020000005b00/penn-national-golf-course",
+  "checked_at": 1795524083.5940773,
+  "sha256": "74894c7e3889fa8d5b91616c2c53836f153cb05075ac1e0379794348c2b90a78",
+  "title": "Penn National Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d5110b0-86ac-11e4-8c28-020000005b00",
+    "name": "Penn National Golf Course",
+    "address": "3720 Club House Dr Fayetteville, PA",
+    "courses": [
+      {
+        "name": "Founders Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6972,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6972,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6465,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6465,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Dark Green",
+            "category": "MALE",
+            "yards": 6465,
+            "par": 72,
+            "rating": 71,
+            "slope": 132
+          },
+          {
+            "name": "Dark Green",
+            "category": "FEMALE",
+            "yards": 6465,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Forward Mix",
+            "category": "MALE",
+            "yards": 4749,
+            "par": 72,
+            "rating": 63.4,
+            "slope": 118
+          },
+          {
+            "name": "Forward Mix",
+            "category": "FEMALE",
+            "yards": 4749,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 118
+          },
+          {
+            "name": "Light Green",
+            "category": "MALE",
+            "yards": 5352,
+            "par": 72,
+            "rating": 63.4,
+            "slope": 118
+          },
+          {
+            "name": "Light Green",
+            "category": "FEMALE",
+            "yards": 5352,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3102,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3102,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow Forward",
+            "category": "MALE",
+            "yards": 4022,
+            "par": 72,
+            "rating": 58.4,
+            "slope": 109
+          },
+          {
+            "name": "Yellow Forward",
+            "category": "FEMALE",
+            "yards": 4022,
+            "par": 72,
+            "rating": 63.9,
+            "slope": 109
+          },
+          {
+            "name": "Blue Forward",
+            "category": "MALE",
+            "yards": 3102,
+            "par": 72,
+            "rating": 58.4,
+            "slope": 109
+          },
+          {
+            "name": "Blue Forward",
+            "category": "FEMALE",
+            "yards": 3102,
+            "par": 72,
+            "rating": 59.6,
+            "slope": 99
+          },
+          {
+            "name": "Dark Green /Grey",
+            "category": "MALE",
+            "yards": 6049,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 129
+          },
+          {
+            "name": "Dark Green /Grey",
+            "category": "FEMALE",
+            "yards": 6049,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Grey",
+            "category": "MALE",
+            "yards": 5802,
+            "par": 72,
+            "rating": 68,
+            "slope": 128
+          },
+          {
+            "name": "Grey",
+            "category": "FEMALE",
+            "yards": 5802,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 130
+          }
+        ]
+      },
+      {
+        "name": "Iron Forge Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6602,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6602,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7009,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 131
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7009,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Dark Green",
+            "category": "MALE",
+            "yards": 6001,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Dark Green",
+            "category": "FEMALE",
+            "yards": 6001,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Forward Mix",
+            "category": "MALE",
+            "yards": 4694,
+            "par": 72,
+            "rating": 62.5,
+            "slope": 110
+          },
+          {
+            "name": "Forward Mix",
+            "category": "FEMALE",
+            "yards": 4694,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 109
+          },
+          {
+            "name": "Light Green",
+            "category": "MALE",
+            "yards": 4016,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Light Green",
+            "category": "FEMALE",
+            "yards": 4016,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5246,
+            "par": 72,
+            "rating": 62.5,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5246,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 114
+          },
+          {
+            "name": "Yellow Forward",
+            "category": "MALE",
+            "yards": 4016,
+            "par": 72,
+            "rating": 57.9,
+            "slope": 101
+          },
+          {
+            "name": "Yellow Forward",
+            "category": "FEMALE",
+            "yards": 4016,
+            "par": 72,
+            "rating": 58.5,
+            "slope": 92
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6300,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6300,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue Forward",
+            "category": "MALE",
+            "yards": 3064,
+            "par": 72,
+            "rating": 57.9,
+            "slope": 101
+          },
+          {
+            "name": "Blue Forward",
+            "category": "FEMALE",
+            "yards": 3064,
+            "par": 72,
+            "rating": 58.5,
+            "slope": 92
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6001,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6001,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 124
+          },
+          {
+            "name": "Gold/Red",
+            "category": "MALE",
+            "yards": 5617,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 118
+          },
+          {
+            "name": "Gold/Red",
+            "category": "FEMALE",
+            "yards": 5617,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d5110b0-86ac-11e4-8c28-020000005b00/penn-national-golf-course"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0a44510-86ac-11e4-8c28-020000005b00/three-rivers-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0a44510-86ac-11e4-8c28-020000005b00/three-rivers-golf-course",
+  "checked_at": 1795523927.6459818,
+  "sha256": "84830c677b6314803e690d00231d9c5a0c4817e80da6e9fe7bf16e389bf4cfd2",
+  "title": "Three Rivers Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b0a44510-86ac-11e4-8c28-020000005b00",
+    "name": "Three Rivers Golf Course",
+    "address": "2222 S River Rd, Kelso, Washington",
+    "courses": [
+      {
+        "name": "Three Rivers",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6629,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6629,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6094,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6094,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5703,
+            "par": 72,
+            "rating": 67,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5703,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5295,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5295,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0a44510-86ac-11e4-8c28-020000005b00/three-rivers-golf-course"
+  }
+}

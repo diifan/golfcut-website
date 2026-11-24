@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8f8914a0-86ac-11e4-8c28-020000005b00/largo-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8f8914a0-86ac-11e4-8c28-020000005b00/largo-golf-course",
+  "checked_at": 1795524213.4474125,
+  "sha256": "320bed07b00850f7dc88526d499e5146c0c1ca44dad2274c9943a313b5ddb15e",
+  "title": "Largo Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8f8914a0-86ac-11e4-8c28-020000005b00",
+    "name": "Largo Golf Course",
+    "address": "12500 131St St No, Largo, FL",
+    "courses": [
+      {
+        "name": "Largo",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 3335,
+            "par": 62,
+            "rating": 60.1,
+            "slope": 102
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2655,
+            "par": 62,
+            "rating": 54.5747,
+            "slope": 81.81995
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8f8914a0-86ac-11e4-8c28-020000005b00/largo-golf-course"
+  }
+}

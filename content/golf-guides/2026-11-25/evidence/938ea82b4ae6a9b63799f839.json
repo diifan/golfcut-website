@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b513d430-86ac-11e4-8c28-020000005b00/mayville",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b513d430-86ac-11e4-8c28-020000005b00/mayville",
+  "checked_at": 1795524317.4248316,
+  "sha256": "c60e0ff039be11f70321307e5a67eee168dfb71467f4c9fe8a3f8a4e42747c0d",
+  "title": "Mayville - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b513d430-86ac-11e4-8c28-020000005b00",
+    "name": "Mayville",
+    "address": "325 S German St, Mayville, WI",
+    "courses": [
+      {
+        "name": "Mayville",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6188,
+            "par": 71,
+            "rating": 70.6,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6188,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5915,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5915,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4903,
+            "par": 71,
+            "rating": 67.3,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4903,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b513d430-86ac-11e4-8c28-020000005b00/mayville"
+  }
+}

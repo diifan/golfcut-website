@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0f683c0-86ac-11e4-8c28-020000005b00/lake-padden",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0f683c0-86ac-11e4-8c28-020000005b00/lake-padden",
+  "checked_at": 1795524035.0141335,
+  "sha256": "ecb0c52a3d697ece792b51eea4e3dee4bc82039a8127fa5f4d3cb692cb305898",
+  "title": "Lake Padden Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b0f683c0-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Padden Golf Course",
+    "address": "4882 S. Amish Way, Bellingham, Washington 98226, Whatcom County",
+    "courses": [
+      {
+        "name": "Lake Padden",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6524,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6524,
+            "par": 72,
+            "rating": 77.5,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6107,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6107,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 131
+          },
+          {
+            "name": "Black/Red",
+            "category": "MALE",
+            "yards": 5448,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 117
+          },
+          {
+            "name": "Black/Red",
+            "category": "FEMALE",
+            "yards": 5448,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 122
+          },
+          {
+            "name": "White/Black",
+            "category": "MALE",
+            "yards": 5735,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 120
+          },
+          {
+            "name": "White/Black",
+            "category": "FEMALE",
+            "yards": 5735,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0f683c0-86ac-11e4-8c28-020000005b00/lake-padden"
+  }
+}

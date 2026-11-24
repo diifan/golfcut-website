@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1862de0-d7c6-11ec-801b-06780482e2ce/garden-city-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1862de0-d7c6-11ec-801b-06780482e2ce/garden-city-golf-club",
+  "checked_at": 1795523944.9410896,
+  "sha256": "82ca16b00f8251e9e96518c5fc0f8a727962b07538b7e0922b3f45e86fb6126f",
+  "title": "Garden City Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "b1862de0-d7c6-11ec-801b-06780482e2ce",
+    "name": "Garden City Golf Club",
+    "address": "315 Stewart Ave, Garden City, NY",
+    "courses": [
+      {
+        "name": "Garden City",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6926,
+            "par": 73,
+            "rating": 74,
+            "slope": 141
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6926,
+            "par": 73,
+            "rating": 78.7,
+            "slope": 140
+          },
+          {
+            "name": "Hybrid",
+            "category": "MALE",
+            "yards": 6682,
+            "par": 73,
+            "rating": 72.6,
+            "slope": 140
+          },
+          {
+            "name": "Hybrid",
+            "category": "FEMALE",
+            "yards": 6682,
+            "par": 73,
+            "rating": 77.4,
+            "slope": 138
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6563,
+            "par": 73,
+            "rating": 71,
+            "slope": 140
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6563,
+            "par": 73,
+            "rating": 76.8,
+            "slope": 136
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 5215,
+            "par": 73,
+            "rating": 65.7,
+            "slope": 112
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 5215,
+            "par": 73,
+            "rating": 65.7,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1862de0-d7c6-11ec-801b-06780482e2ce/garden-city-golf-club"
+  }
+}

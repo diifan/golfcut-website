@@ -1,0 +1,407 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/980e2c00-86ac-11e4-8c28-020000005b00/neshanic-valley-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/980e2c00-86ac-11e4-8c28-020000005b00/neshanic-valley-golf-course",
+  "checked_at": 1795524328.4348292,
+  "sha256": "cd3759382789c299fa7e063550491698cc0de6a17271b161c008bafa44971bea",
+  "title": "Neshanic Valley Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "980e2c00-86ac-11e4-8c28-020000005b00",
+    "name": "Neshanic Valley Golf Course",
+    "address": "2301 S Branch Rd, Neshanic Station, NJ",
+    "courses": [
+      {
+        "name": "Lake - Ridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7065,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 131
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7065,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6665,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6665,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6210,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6210,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 134
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5580,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 115
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5580,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 126
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5061,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5061,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 119
+          },
+          {
+            "name": "Blended",
+            "category": "MALE",
+            "yards": 5938,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 122
+          },
+          {
+            "name": "Blended",
+            "category": "FEMALE",
+            "yards": 5938,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      },
+      {
+        "name": "Meadow - Ridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7036,
+            "par": 72,
+            "rating": 73,
+            "slope": 132
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7036,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6634,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6634,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6176,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6176,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 131
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5573,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 117
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5573,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 125
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5013,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5013,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 120
+          },
+          {
+            "name": "Blended",
+            "category": "MALE",
+            "yards": 5911,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 120
+          },
+          {
+            "name": "Blended",
+            "category": "FEMALE",
+            "yards": 5911,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      },
+      {
+        "name": "Meadow - Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7069,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 130
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7069,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6645,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6645,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6174,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6174,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 137
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5677,
+            "par": 72,
+            "rating": 67,
+            "slope": 119
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5677,
+            "par": 72,
+            "rating": 73,
+            "slope": 131
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5096,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5096,
+            "par": 72,
+            "rating": 69,
+            "slope": 121
+          },
+          {
+            "name": "Blended",
+            "category": "MALE",
+            "yards": 5945,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 120
+          },
+          {
+            "name": "Blended",
+            "category": "FEMALE",
+            "yards": 5945,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      },
+      {
+        "name": "Academy Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 3559,
+            "par": 32,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 3559,
+            "par": 32,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 3357,
+            "par": 32,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 3357,
+            "par": 32,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2019,
+            "par": 32,
+            "rating": 30.2,
+            "slope": 94
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2019,
+            "par": 32,
+            "rating": 31.7,
+            "slope": 111
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 1712,
+            "par": 32,
+            "rating": 29.4,
+            "slope": 86
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 1712,
+            "par": 32,
+            "rating": 30,
+            "slope": 99
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 1451,
+            "par": 32,
+            "rating": 27.1,
+            "slope": 77
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 1451,
+            "par": 32,
+            "rating": 28.5,
+            "slope": 92
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/980e2c00-86ac-11e4-8c28-020000005b00/neshanic-valley-golf-course"
+  }
+}

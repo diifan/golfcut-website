@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8caafaf0-86ac-11e4-8c28-020000005b00/the-club-at-frisco-farms",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8caafaf0-86ac-11e4-8c28-020000005b00/the-club-at-frisco-farms",
+  "checked_at": 1795524843.403037,
+  "sha256": "06ce446f0697f840ce1a07445d180ca047f59b7af39148a1d48ae2cede7a4a5a",
+  "title": "The Club at Frisco Farms - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8caafaf0-86ac-11e4-8c28-020000005b00",
+    "name": "The Club at Frisco Farms",
+    "address": "4701 Plantation Ln, Frisco, TX",
+    "courses": [
+      {
+        "name": "Plantation Resort",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6375,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 121
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6375,
+            "par": 72,
+            "rating": 77.3,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5876,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 116
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5876,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 134
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4897,
+            "par": 72,
+            "rating": 64.2,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4897,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8caafaf0-86ac-11e4-8c28-020000005b00/the-club-at-frisco-farms"
+  }
+}

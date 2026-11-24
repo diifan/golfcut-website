@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/88ed2fa0-86ac-11e4-8c28-020000005b00/el-prado-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/88ed2fa0-86ac-11e4-8c28-020000005b00/el-prado-golf-course",
+  "checked_at": 1795523659.2204213,
+  "sha256": "bc97354597954ef2ad22c09a417f2a363e6e9185baf4cee9db75961b75710c47",
+  "title": "El Prado Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "88ed2fa0-86ac-11e4-8c28-020000005b00",
+    "name": "El Prado Golf Course",
+    "address": "6555 Pine Ave, Chino, CA",
+    "courses": [
+      {
+        "name": "El Prado (Butterfield Stage)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6568,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6568,
+            "par": 72,
+            "rating": 77.4,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6251,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6251,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5507,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5507,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 118
+          }
+        ]
+      },
+      {
+        "name": "El Prado (Chino Creek)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6858,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6858,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6312,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6312,
+            "par": 73,
+            "rating": 76.7,
+            "slope": 141
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5584,
+            "par": 72,
+            "rating": 67,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5584,
+            "par": 73,
+            "rating": 72.4,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/88ed2fa0-86ac-11e4-8c28-020000005b00/el-prado-golf-course"
+  }
+}

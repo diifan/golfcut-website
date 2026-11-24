@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8cb64590-86ac-11e4-8c28-020000005b00/thorntree-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8cb64590-86ac-11e4-8c28-020000005b00/thorntree-country-club",
+  "checked_at": 1795524213.8078659,
+  "sha256": "ee58b28fb857f9ff934ac36d9da7f26b4daa0cf0654d6b84b5b7759494830cc6",
+  "title": "Thorntree Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8cb64590-86ac-11e4-8c28-020000005b00",
+    "name": "Thorntree Country Club",
+    "address": "825 W Wintergreen Rd, De Soto, TX",
+    "courses": [
+      {
+        "name": "Thorntree",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship\t",
+            "category": "MALE",
+            "yards": 7042,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 146
+          },
+          {
+            "name": "Championship\t",
+            "category": "FEMALE",
+            "yards": 7042,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Tournament\t",
+            "category": "MALE",
+            "yards": 6454,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 140
+          },
+          {
+            "name": "Tournament\t",
+            "category": "FEMALE",
+            "yards": 6454,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5764,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5764,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 134
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5215,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5215,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8cb64590-86ac-11e4-8c28-020000005b00/thorntree-country-club"
+  }
+}

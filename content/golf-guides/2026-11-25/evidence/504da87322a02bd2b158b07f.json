@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af3bb460-86ac-11e4-8c28-020000005b00/egwani-farms-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af3bb460-86ac-11e4-8c28-020000005b00/egwani-farms-golf-course",
+  "checked_at": 1795524123.127966,
+  "sha256": "3566d588d176c6ba1582accb7c69a6930567cb836f751c1f0086fae3781f04fb",
+  "title": "Egwani Farms Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af3bb460-86ac-11e4-8c28-020000005b00",
+    "name": "Egwani Farms Golf Course",
+    "address": "3920 Singleton Station Road",
+    "courses": [
+      {
+        "name": "Egwani Farms",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6708,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 129
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6468,
+            "par": 72,
+            "rating": 71,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6150,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5444,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4680,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af3bb460-86ac-11e4-8c28-020000005b00/egwani-farms-golf-course"
+  }
+}

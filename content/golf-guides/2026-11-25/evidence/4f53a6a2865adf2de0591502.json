@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad422e50-86ac-11e4-8c28-020000005b00/elmhurst-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad422e50-86ac-11e4-8c28-020000005b00/elmhurst-country-club",
+  "checked_at": 1795524137.7041588,
+  "sha256": "95fcac6fa064e584da122d6b7fdcd9e7e56bd377db8f23d2a1008b35bb3ca04c",
+  "title": "Elmhurst Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ad422e50-86ac-11e4-8c28-020000005b00",
+    "name": "Elmhurst Country Club",
+    "address": "Gardner Rd",
+    "courses": [
+      {
+        "name": "Elmhurst",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7034,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7034,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6287,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6287,
+            "par": 73,
+            "rating": 75.3,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5295,
+            "par": 72,
+            "rating": 69,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5295,
+            "par": 73,
+            "rating": 70.7,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5532,
+            "par": 72,
+            "rating": 67,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5532,
+            "par": 73,
+            "rating": 71.3,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad422e50-86ac-11e4-8c28-020000005b00/elmhurst-country-club"
+  }
+}

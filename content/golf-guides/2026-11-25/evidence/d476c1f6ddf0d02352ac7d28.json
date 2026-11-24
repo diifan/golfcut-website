@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af549390-86ac-11e4-8c28-020000005b00/two-rivers-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af549390-86ac-11e4-8c28-020000005b00/two-rivers-golf-course",
+  "checked_at": 1795524252.6788874,
+  "sha256": "6b40b9f22fe010e825943548baab1117d435dafee01f78bed267e271809ec25e",
+  "title": "Two Rivers Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af549390-86ac-11e4-8c28-020000005b00",
+    "name": "Two Rivers Golf Course",
+    "address": "2235 Two Rivers Parkway, Nashville, TN",
+    "courses": [
+      {
+        "name": "Two Rivers",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6622,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6218,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 121
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5617,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5336,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af549390-86ac-11e4-8c28-020000005b00/two-rivers-golf-course"
+  }
+}

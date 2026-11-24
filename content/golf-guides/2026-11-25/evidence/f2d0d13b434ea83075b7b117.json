@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c99f5b0-86ac-11e4-8c28-020000005b00/white-pines-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c99f5b0-86ac-11e4-8c28-020000005b00/white-pines-golf-course",
+  "checked_at": 1795524812.7049477,
+  "sha256": "baa0e468ad6816090857ee0fdf5b50fd50a28fede3f41bad506cd1bc8591055b",
+  "title": "White Pines Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9c99f5b0-86ac-11e4-8c28-020000005b00",
+    "name": "White Pines Golf Course",
+    "address": "1640 County Road 2, Swanton, OH",
+    "courses": [
+      {
+        "name": "White Pines",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6778,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6190,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 124
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5472,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 114
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4850,
+            "par": 72,
+            "rating": 62.9,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c99f5b0-86ac-11e4-8c28-020000005b00/white-pines-golf-course"
+  }
+}

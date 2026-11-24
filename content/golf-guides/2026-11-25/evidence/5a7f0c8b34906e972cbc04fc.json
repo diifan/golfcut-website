@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a01d3f0-86ac-11e4-8c28-020000005b00/tecolote-canyon-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a01d3f0-86ac-11e4-8c28-020000005b00/tecolote-canyon-golf-course",
+  "checked_at": 1795523813.4974046,
+  "sha256": "3212f25d4b339b1eeab4abc15e89fdb396fbe0a4176a66389ef42967ee0dfd61",
+  "title": "Tecolote Canyon Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a01d3f0-86ac-11e4-8c28-020000005b00",
+    "name": "Tecolote Canyon Golf Course",
+    "address": "2755 Snead Ave, San Diego, CA",
+    "courses": [
+      {
+        "name": "Tecolote Canyon",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3161,
+            "par": 58,
+            "rating": 57.6,
+            "slope": 97
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3161,
+            "par": 58,
+            "rating": 58.9,
+            "slope": 98
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2625,
+            "par": 58,
+            "rating": 55.3,
+            "slope": 92
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2625,
+            "par": 58,
+            "rating": 56.3,
+            "slope": 93
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a01d3f0-86ac-11e4-8c28-020000005b00/tecolote-canyon-golf-course"
+  }
+}

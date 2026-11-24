@@ -1,0 +1,105 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b306c620-86ac-11e4-8c28-020000005b00/lakeside-links",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b306c620-86ac-11e4-8c28-020000005b00/lakeside-links",
+  "checked_at": 1795524288.806308,
+  "sha256": "35f4df2b76ec4b02b5ec4b7d739f164e6630cb5d7fce4c97a45b4607b639cf3d",
+  "title": "Lakeside Links - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b306c620-86ac-11e4-8c28-020000005b00",
+    "name": "Lakeside Links",
+    "address": "5369 W Chavez Road",
+    "courses": [
+      {
+        "name": "Lakeside Links (West/South)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6438,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 122
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6085,
+            "par": 71,
+            "rating": 68.6,
+            "slope": 118
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4908,
+            "par": 71,
+            "rating": 62.9,
+            "slope": 98
+          }
+        ]
+      },
+      {
+        "name": "Lakeside Links (West/East)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 5766,
+            "par": 69,
+            "rating": 67.1,
+            "slope": 112
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5366,
+            "par": 69,
+            "rating": 65.2,
+            "slope": 109
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4736,
+            "par": 69,
+            "rating": 62.1,
+            "slope": 100
+          }
+        ]
+      },
+      {
+        "name": "Lakeside Links (South/East)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6440,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 120
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6033,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 116
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5096,
+            "par": 72,
+            "rating": 64,
+            "slope": 98
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b306c620-86ac-11e4-8c28-020000005b00/lakeside-links"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/982d9ae0-86ac-11e4-8c28-020000005b00/shady-rest-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/982d9ae0-86ac-11e4-8c28-020000005b00/shady-rest-country-club",
+  "checked_at": 1795524018.8442814,
+  "sha256": "69fcf9ab6abf399e80d688f02bc1975b9437eb9806d6951d93b9260266923680",
+  "title": "Shady Rest Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "982d9ae0-86ac-11e4-8c28-020000005b00",
+    "name": "Shady Rest Country Club",
+    "address": "820 Jerusalem Road, Scotch Plains, NJ",
+    "courses": [
+      {
+        "name": "Scotch Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4736,
+            "par": 66,
+            "rating": 63,
+            "slope": 113
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4736,
+            "par": 66,
+            "rating": 67.1,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4380,
+            "par": 66,
+            "rating": 61.6,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4380,
+            "par": 66,
+            "rating": 63.4,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4010,
+            "par": 66,
+            "rating": 63.2,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4010,
+            "par": 66,
+            "rating": 69.5,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/982d9ae0-86ac-11e4-8c28-020000005b00/shady-rest-country-club"
+  }
+}

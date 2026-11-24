@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae5f5e20-86ac-11e4-8c28-020000005b00/rock-hill-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae5f5e20-86ac-11e4-8c28-020000005b00/rock-hill-country-club",
+  "checked_at": 1795523983.6405034,
+  "sha256": "6419915ec8007e4d130a32e6722216694659cb238be007b37628ceac81ba87b6",
+  "title": "Rock Hill Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae5f5e20-86ac-11e4-8c28-020000005b00",
+    "name": "Rock Hill Country Club",
+    "address": "600 Country Club Drive, Rock Hill, SC",
+    "courses": [
+      {
+        "name": "Rock Hill",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6614,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6147,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5553,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5026,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae5f5e20-86ac-11e4-8c28-020000005b00/rock-hill-country-club"
+  }
+}

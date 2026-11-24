@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9583d7a0-86ac-11e4-8c28-020000005b00/merrimack-valley-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9583d7a0-86ac-11e4-8c28-020000005b00/merrimack-valley-golf-club",
+  "checked_at": 1795524320.1105494,
+  "sha256": "c3a1d78e6c23da876e54b54f537bc148e23783cdb0adbfb7a32fe00c85e2eeba",
+  "title": "Merrimack Valley Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9583d7a0-86ac-11e4-8c28-020000005b00",
+    "name": "Merrimack Valley Golf Club",
+    "address": "210 Howe Street Methuen, MA",
+    "courses": [
+      {
+        "name": "Merrimack Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6016,
+            "par": 70,
+            "rating": 68.9,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6016,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5622,
+            "par": 70,
+            "rating": 67.9,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5622,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5160,
+            "par": 70,
+            "rating": 65.2,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5160,
+            "par": 70,
+            "rating": 69.9,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4413,
+            "par": 70,
+            "rating": 62,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4413,
+            "par": 70,
+            "rating": 65.3,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9583d7a0-86ac-11e4-8c28-020000005b00/merrimack-valley-golf-club"
+  }
+}

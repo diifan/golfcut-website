@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/97e82d70-86ac-11e4-8c28-020000005b00/hopewell-valley-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/97e82d70-86ac-11e4-8c28-020000005b00/hopewell-valley-golf-club",
+  "checked_at": 1795524204.3542874,
+  "sha256": "b3013c4973f4004ea578e224fb01a70ae540c6c47dc39a20fd7c976b025f77f4",
+  "title": "Hopewell Valley Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "97e82d70-86ac-11e4-8c28-020000005b00",
+    "name": "Hopewell Valley Golf Club",
+    "address": "114 Pennington Hopewell Rd",
+    "courses": [
+      {
+        "name": "Hopewell Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6612,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6281,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5723,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5464,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/97e82d70-86ac-11e4-8c28-020000005b00/hopewell-valley-golf-club"
+  }
+}

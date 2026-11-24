@@ -1,0 +1,107 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ccb2d20-86ac-11e4-8c28-020000005b00/lost-marsh-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ccb2d20-86ac-11e4-8c28-020000005b00/lost-marsh-golf-course",
+  "checked_at": 1795523652.5038574,
+  "sha256": "c6dfb1b1d2b1afd21fa72eb42402e4376f4bc83051bc9fc1f9d72b27d2f31bab",
+  "title": "Lost Marsh Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8ccb2d20-86ac-11e4-8c28-020000005b00",
+    "name": "Lost Marsh Golf Course",
+    "address": "901 129th Street, Hammond, IN",
+    "courses": [
+      {
+        "name": "Lost Marsh",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6758,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 132
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6758,
+            "par": 72,
+            "rating": 80.1,
+            "slope": 140
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4959,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 111
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 4959,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 117
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 6287,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 125
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 6287,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 133
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5841,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 122
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5841,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 130
+          }
+        ]
+      },
+      {
+        "name": "Par 3",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 1364,
+            "par": 27,
+            "rating": 27.3,
+            "slope": 87
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 1364,
+            "par": 27,
+            "rating": 28.5,
+            "slope": 89
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ccb2d20-86ac-11e4-8c28-020000005b00/lost-marsh-golf-course"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b540b090-86ac-11e4-8c28-020000005b00/maplewood-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b540b090-86ac-11e4-8c28-020000005b00/maplewood-golf-course",
+  "checked_at": 1795524093.1306534,
+  "sha256": "47228761df5ee72d22cadc0161423830a3a32acbb28d9d5bce7118696e8bb415",
+  "title": "Maplewood Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b540b090-86ac-11e4-8c28-020000005b00",
+    "name": "Maplewood Golf Course",
+    "address": "Hwy 55 Twin View Dr",
+    "courses": [
+      {
+        "name": "Maplewood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/blue",
+            "category": "MALE",
+            "yards": 6103,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 125
+          },
+          {
+            "name": "Red/gold",
+            "category": "MALE",
+            "yards": 5324,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b540b090-86ac-11e4-8c28-020000005b00/maplewood-golf-course"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8dd28b00-86ac-11e4-8c28-020000005b00/apache-creek",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8dd28b00-86ac-11e4-8c28-020000005b00/apache-creek",
+  "checked_at": 1795523896.393821,
+  "sha256": "9ad287762deafa3574619fa2ac58197a8506639330c15b973e31ddf6f717d268",
+  "title": "Apache Creek - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8dd28b00-86ac-11e4-8c28-020000005b00",
+    "name": "Apache Creek",
+    "address": "3401 South, Ironwood Drive, Apache Junction, AZ",
+    "courses": [
+      {
+        "name": "Apache Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6785,
+            "par": 71,
+            "rating": 71,
+            "slope": 121
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6785,
+            "par": 71,
+            "rating": 78,
+            "slope": 139
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6363,
+            "par": 71,
+            "rating": 69,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6363,
+            "par": 71,
+            "rating": 75.7,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5967,
+            "par": 71,
+            "rating": 67.3,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5967,
+            "par": 71,
+            "rating": 73.2,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5315,
+            "par": 71,
+            "rating": 64.6,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5315,
+            "par": 71,
+            "rating": 73.2,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8dd28b00-86ac-11e4-8c28-020000005b00/apache-creek"
+  }
+}

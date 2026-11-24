@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/982ed360-86ac-11e4-8c28-020000005b00/pitman-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/982ed360-86ac-11e4-8c28-020000005b00/pitman-golf-course",
+  "checked_at": 1795523747.463479,
+  "sha256": "3cdbb660bfa66cf3f542e786edf65af52534b909250d3b449ddf7e192fdff498",
+  "title": "Pitman Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "982ed360-86ac-11e4-8c28-020000005b00",
+    "name": "Pitman Golf Course",
+    "address": "501 Pitman Rd, Sewell, NJ",
+    "courses": [
+      {
+        "name": "Pitman",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6125,
+            "par": 70,
+            "rating": 68.6,
+            "slope": 116
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6125,
+            "par": 70,
+            "rating": 74.5,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5731,
+            "par": 70,
+            "rating": 67.3,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5731,
+            "par": 70,
+            "rating": 72.8,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5335,
+            "par": 70,
+            "rating": 65.7,
+            "slope": 111
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5335,
+            "par": 70,
+            "rating": 70.7,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4942,
+            "par": 70,
+            "rating": 67.4,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4942,
+            "par": 70,
+            "rating": 68.2,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/982ed360-86ac-11e4-8c28-020000005b00/pitman-golf-course"
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8fd14130-86ac-11e4-8c28-020000005b00/vineyards-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8fd14130-86ac-11e4-8c28-020000005b00/vineyards-country-club",
+  "checked_at": 1795523855.489012,
+  "sha256": "24919c9a0550cbe2cd9d426a581fdaf470eed65b8b5965fa4d6fe6be4c0b2cc7",
+  "title": "Vineyards Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8fd14130-86ac-11e4-8c28-020000005b00",
+    "name": "Vineyards Country Club",
+    "address": "400 Vineyards Blvd, Naples, FL",
+    "courses": [
+      {
+        "name": "Vineyards (North)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "I",
+            "category": "MALE",
+            "yards": 7047,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 132
+          },
+          {
+            "name": "I",
+            "category": "FEMALE",
+            "yards": 7047,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 6477,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 125
+          },
+          {
+            "name": "II",
+            "category": "FEMALE",
+            "yards": 6477,
+            "par": 72,
+            "rating": 76,
+            "slope": 135
+          },
+          {
+            "name": "II / III",
+            "category": "MALE",
+            "yards": 6192,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 122
+          },
+          {
+            "name": "II / III",
+            "category": "FEMALE",
+            "yards": 6192,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 132
+          },
+          {
+            "name": "III",
+            "category": "MALE",
+            "yards": 5839,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 119
+          },
+          {
+            "name": "III",
+            "category": "FEMALE",
+            "yards": 5839,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 128
+          },
+          {
+            "name": "III / IV",
+            "category": "MALE",
+            "yards": 5553,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 114
+          },
+          {
+            "name": "III / IV",
+            "category": "FEMALE",
+            "yards": 5553,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 123
+          },
+          {
+            "name": "IV",
+            "category": "MALE",
+            "yards": 5219,
+            "par": 72,
+            "rating": 64.3,
+            "slope": 107
+          },
+          {
+            "name": "IV",
+            "category": "FEMALE",
+            "yards": 5219,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 120
+          },
+          {
+            "name": "IV / V",
+            "category": "MALE",
+            "yards": 4891,
+            "par": 72,
+            "rating": 62.8,
+            "slope": 101
+          },
+          {
+            "name": "IV / V",
+            "category": "FEMALE",
+            "yards": 4891,
+            "par": 72,
+            "rating": 67,
+            "slope": 117
+          },
+          {
+            "name": "V",
+            "category": "MALE",
+            "yards": 4529,
+            "par": 72,
+            "rating": 61.4,
+            "slope": 97
+          },
+          {
+            "name": "V",
+            "category": "FEMALE",
+            "yards": 4529,
+            "par": 72,
+            "rating": 65,
+            "slope": 110
+          }
+        ]
+      },
+      {
+        "name": "Vineyards (South)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "I",
+            "category": "MALE",
+            "yards": 7074,
+            "par": 72,
+            "rating": 73,
+            "slope": 129
+          },
+          {
+            "name": "I",
+            "category": "FEMALE",
+            "yards": 7074,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 6570,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 124
+          },
+          {
+            "name": "II",
+            "category": "FEMALE",
+            "yards": 6570,
+            "par": 72,
+            "rating": 76.3,
+            "slope": 131
+          },
+          {
+            "name": "II / III",
+            "category": "MALE",
+            "yards": 6252,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 121
+          },
+          {
+            "name": "II / III",
+            "category": "FEMALE",
+            "yards": 6252,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 128
+          },
+          {
+            "name": "III",
+            "category": "MALE",
+            "yards": 6007,
+            "par": 72,
+            "rating": 68,
+            "slope": 117
+          },
+          {
+            "name": "III",
+            "category": "FEMALE",
+            "yards": 6007,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 126
+          },
+          {
+            "name": "III / IV",
+            "category": "MALE",
+            "yards": 5714,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 113
+          },
+          {
+            "name": "III / IV",
+            "category": "FEMALE",
+            "yards": 5714,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 122
+          },
+          {
+            "name": "IV",
+            "category": "MALE",
+            "yards": 5435,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 109
+          },
+          {
+            "name": "IV",
+            "category": "FEMALE",
+            "yards": 5435,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 119
+          },
+          {
+            "name": "IV / V",
+            "category": "MALE",
+            "yards": 5169,
+            "par": 72,
+            "rating": 64,
+            "slope": 106
+          },
+          {
+            "name": "IV / V",
+            "category": "FEMALE",
+            "yards": 5169,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 115
+          },
+          {
+            "name": "V",
+            "category": "MALE",
+            "yards": 4867,
+            "par": 72,
+            "rating": 62.5,
+            "slope": 103
+          },
+          {
+            "name": "V",
+            "category": "FEMALE",
+            "yards": 4867,
+            "par": 72,
+            "rating": 67,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8fd14130-86ac-11e4-8c28-020000005b00/vineyards-country-club"
+  }
+}

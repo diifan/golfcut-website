@@ -1,0 +1,251 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b629d810-86ac-11e4-8c28-020000005b00/oak-tree-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b629d810-86ac-11e4-8c28-020000005b00/oak-tree-country-club",
+  "checked_at": 1795524028.7180953,
+  "sha256": "7cc3ebd210bff532e6881907396f098e002e0496af87841628db16d256383b17",
+  "title": "Oak Tree Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b629d810-86ac-11e4-8c28-020000005b00",
+    "name": "Oak Tree Country Club",
+    "address": "700 W Country Club Dr Edmond, OK",
+    "courses": [
+      {
+        "name": "Oak Tree East A-B",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7126,
+            "par": 70,
+            "rating": 76.3,
+            "slope": 137
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7126,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold/Blue",
+            "category": "MALE",
+            "yards": 6787,
+            "par": 70,
+            "rating": 74.7,
+            "slope": 134
+          },
+          {
+            "name": "Gold/Blue",
+            "category": "FEMALE",
+            "yards": 6787,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6455,
+            "par": 70,
+            "rating": 72.7,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6455,
+            "par": 70,
+            "rating": 79.5,
+            "slope": 147
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 6052,
+            "par": 70,
+            "rating": 71,
+            "slope": 131
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 6052,
+            "par": 70,
+            "rating": 77.8,
+            "slope": 142
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5608,
+            "par": 70,
+            "rating": 68.7,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5608,
+            "par": 70,
+            "rating": 74.2,
+            "slope": 133
+          },
+          {
+            "name": "White/Green",
+            "category": "MALE",
+            "yards": 5245,
+            "par": 70,
+            "rating": 66.9,
+            "slope": 122
+          },
+          {
+            "name": "White/Green",
+            "category": "FEMALE",
+            "yards": 5245,
+            "par": 70,
+            "rating": 71.6,
+            "slope": 122
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4946,
+            "par": 70,
+            "rating": 65.8,
+            "slope": 117
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4946,
+            "par": 70,
+            "rating": 69,
+            "slope": 118
+          }
+        ]
+      },
+      {
+        "name": "Oak Tree West A-B",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6752,
+            "par": 70,
+            "rating": 74.6,
+            "slope": 140
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6752,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold/Blue",
+            "category": "MALE",
+            "yards": 6497,
+            "par": 70,
+            "rating": 73,
+            "slope": 135
+          },
+          {
+            "name": "Gold/Blue",
+            "category": "FEMALE",
+            "yards": 6497,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6234,
+            "par": 70,
+            "rating": 71.4,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6234,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 5866,
+            "par": 70,
+            "rating": 69.5,
+            "slope": 130
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 5866,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5570,
+            "par": 70,
+            "rating": 68,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5570,
+            "par": 70,
+            "rating": 73,
+            "slope": 131
+          },
+          {
+            "name": "White/Green",
+            "category": "MALE",
+            "yards": 5117,
+            "par": 70,
+            "rating": 66,
+            "slope": 124
+          },
+          {
+            "name": "White/Green",
+            "category": "FEMALE",
+            "yards": 5117,
+            "par": 70,
+            "rating": 70.1,
+            "slope": 129
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4476,
+            "par": 70,
+            "rating": 63.9,
+            "slope": 119
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4476,
+            "par": 70,
+            "rating": 67.2,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b629d810-86ac-11e4-8c28-020000005b00/oak-tree-country-club"
+  }
+}

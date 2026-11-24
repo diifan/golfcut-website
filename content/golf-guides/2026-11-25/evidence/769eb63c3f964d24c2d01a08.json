@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b64464f0-86ac-11e4-8c28-020000005b00/lincoln-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b64464f0-86ac-11e4-8c28-020000005b00/lincoln-park-golf-course",
+  "checked_at": 1795523648.9991205,
+  "sha256": "33e5870079e61fbdf23d757d635798c7a917ec80e9289b4422b2b45fb98f4f03",
+  "title": "Lincoln Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b64464f0-86ac-11e4-8c28-020000005b00",
+    "name": "Lincoln Park Golf Course",
+    "address": "4001 NE Grand Blvd, Oklahoma City, OK",
+    "courses": [
+      {
+        "name": "East Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6221,
+            "par": 70,
+            "rating": 70.9,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6221,
+            "par": 70,
+            "rating": 75,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5766,
+            "par": 70,
+            "rating": 68.5,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5766,
+            "par": 70,
+            "rating": 74.4,
+            "slope": 123
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5344,
+            "par": 70,
+            "rating": 66.6,
+            "slope": 116
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5344,
+            "par": 70,
+            "rating": 72.1,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4929,
+            "par": 70,
+            "rating": 64.3,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4929,
+            "par": 70,
+            "rating": 69.6,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b64464f0-86ac-11e4-8c28-020000005b00/lincoln-park-golf-course"
+  }
+}

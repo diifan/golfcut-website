@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96c8dac0-86ac-11e4-8c28-020000005b00/cleary-lake-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96c8dac0-86ac-11e4-8c28-020000005b00/cleary-lake-park-golf-course",
+  "checked_at": 1795524882.5003645,
+  "sha256": "8799f840ba008ebce85927cb04b96ed3bb7600913a13743637095c34103d95fe",
+  "title": "Cleary Lake Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96c8dac0-86ac-11e4-8c28-020000005b00",
+    "name": "Cleary Lake Park Golf Course",
+    "address": "18106 Texas Ave, Prior Lake, Minnesota",
+    "courses": [
+      {
+        "name": "Cleary Lake Park Golf Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1675,
+            "par": 29,
+            "rating": 29,
+            "slope": 91
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1675,
+            "par": 29,
+            "rating": 29.6,
+            "slope": 93
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96c8dac0-86ac-11e4-8c28-020000005b00/cleary-lake-park-golf-course"
+  }
+}

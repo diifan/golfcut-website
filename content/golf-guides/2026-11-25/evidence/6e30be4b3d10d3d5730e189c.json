@@ -1,0 +1,107 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0d42eb0-86ac-11e4-8c28-020000005b00/jackson-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0d42eb0-86ac-11e4-8c28-020000005b00/jackson-park-golf-course",
+  "checked_at": 1795523959.0098624,
+  "sha256": "ac5fe51659647bde13863a98715f5ef0a9c939f71f1cde3f5776f9ca4c2880b5",
+  "title": "Jackson Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b0d42eb0-86ac-11e4-8c28-020000005b00",
+    "name": "Jackson Park Golf Course",
+    "address": "1000 NE 135th St, Seattle, WA",
+    "courses": [
+      {
+        "name": "Executive",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Tee",
+            "category": "MALE",
+            "yards": 1032,
+            "par": 27,
+            "rating": 27.6,
+            "slope": 87
+          },
+          {
+            "name": "Tee",
+            "category": "FEMALE",
+            "yards": 1032,
+            "par": 27,
+            "rating": 28.5,
+            "slope": 89
+          }
+        ]
+      },
+      {
+        "name": "18 Hole Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6085,
+            "par": 70,
+            "rating": 69.2,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6085,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5613,
+            "par": 70,
+            "rating": 66.7,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5613,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5057,
+            "par": 70,
+            "rating": 64,
+            "slope": 108
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5057,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 118
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 3397,
+            "par": 70,
+            "rating": 57.9,
+            "slope": 89
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 3397,
+            "par": 72,
+            "rating": 59,
+            "slope": 90
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0d42eb0-86ac-11e4-8c28-020000005b00/jackson-park-golf-course"
+  }
+}

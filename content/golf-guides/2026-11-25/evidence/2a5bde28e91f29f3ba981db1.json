@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b7eac1f0-86ac-11e4-8c28-020000005b00/eagle-bend-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b7eac1f0-86ac-11e4-8c28-020000005b00/eagle-bend-golf-course",
+  "checked_at": 1795523996.182636,
+  "sha256": "0518b345b9667f89d684a219ac4ace92158fab91a0a7ae7a9dd737c6f1026540",
+  "title": "Eagle Bend Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b7eac1f0-86ac-11e4-8c28-020000005b00",
+    "name": "Eagle Bend Golf Course",
+    "address": "1250 E 902 Rd, Lawrence, KS",
+    "courses": [
+      {
+        "name": "Eagle Bend",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6984,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6542,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5989,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5274,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b7eac1f0-86ac-11e4-8c28-020000005b00/eagle-bend-golf-course"
+  }
+}

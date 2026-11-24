@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b11fddb0-86ac-11e4-8c28-020000005b00/santa-maria",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b11fddb0-86ac-11e4-8c28-020000005b00/santa-maria",
+  "checked_at": 1795524013.585234,
+  "sha256": "a8abb5dacc37b56fcf3d54de2d74c07fff6514c9f5dcdd8a8fac9a33b8498501",
+  "title": "Santa Maria - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b11fddb0-86ac-11e4-8c28-020000005b00",
+    "name": "Santa Maria",
+    "address": "18460 Santa Maria Parkway Baton Rouge, LA 70817",
+    "courses": [
+      {
+        "name": "Santa Maria",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6969,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6278,
+            "par": 72,
+            "rating": 71,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5737,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5153,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b11fddb0-86ac-11e4-8c28-020000005b00/santa-maria"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99e02ce0-86ac-11e4-8c28-020000005b00/swan-lake-cc",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99e02ce0-86ac-11e4-8c28-020000005b00/swan-lake-cc",
+  "checked_at": 1795524857.6716268,
+  "sha256": "cfe25817c7ddba01a8faf6e524b4821cb5e0825777ba16abbea852b270521250",
+  "title": "Closed- Swan Lake CC - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99e02ce0-86ac-11e4-8c28-020000005b00",
+    "name": "Closed- Swan Lake CC",
+    "address": "Mount Hope Rd",
+    "courses": [
+      {
+        "name": "Swan Lake CC",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6820,
+            "par": 72,
+            "rating": 76,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6221,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5339,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99e02ce0-86ac-11e4-8c28-020000005b00/swan-lake-cc"
+  }
+}

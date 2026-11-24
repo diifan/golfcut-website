@@ -1,0 +1,279 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9280f7e0-86ac-11e4-8c28-020000005b00/the-greg-mastriona-golf-courses-at-hyland-hills",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9280f7e0-86ac-11e4-8c28-020000005b00/the-greg-mastriona-golf-courses-at-hyland-hills",
+  "checked_at": 1795523675.9041352,
+  "sha256": "d607f199767ce61208beff6742b293a2ab188b5c4e94ac07ee3b82d75cfed0c6",
+  "title": "The Greg Mastriona Golf Courses at Hyland Hills - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9280f7e0-86ac-11e4-8c28-020000005b00",
+    "name": "The Greg Mastriona Golf Courses at Hyland Hills",
+    "address": "9650 N Sheridan Blvd, Westminster, CO",
+    "courses": [
+      {
+        "name": "South Par 3",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1059,
+            "par": 27,
+            "rating": 26.63286,
+            "slope": 79.44688
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1059,
+            "par": 27,
+            "rating": 26.63286,
+            "slope": 79.44688
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1043,
+            "par": 27,
+            "rating": 26.56022,
+            "slope": 79.15376
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1043,
+            "par": 27,
+            "rating": 26.56022,
+            "slope": 79.15376
+          }
+        ]
+      },
+      {
+        "name": "Gold Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6166,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6166,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 140
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6739,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6739,
+            "par": 72,
+            "rating": 77.8,
+            "slope": 147
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5403,
+            "par": 72,
+            "rating": 64.6,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5403,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7100,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 138
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7100,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue / White",
+            "category": "MALE",
+            "yards": 6346,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 126
+          },
+          {
+            "name": "Blue / White",
+            "category": "FEMALE",
+            "yards": 6346,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 142
+          },
+          {
+            "name": "White / Red",
+            "category": "MALE",
+            "yards": 5847,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 117
+          },
+          {
+            "name": "White / Red",
+            "category": "FEMALE",
+            "yards": 5847,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 136
+          }
+        ]
+      },
+      {
+        "name": "Blue Course (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2883,
+            "par": 36,
+            "rating": 33.2,
+            "slope": 108
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2883,
+            "par": 36,
+            "rating": 35.9,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3272,
+            "par": 36,
+            "rating": 34.7,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3272,
+            "par": 36,
+            "rating": 37.7,
+            "slope": 137
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1779,
+            "par": 36,
+            "rating": 30.6,
+            "slope": 96
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1779,
+            "par": 36,
+            "rating": 30.4,
+            "slope": 102
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 3066,
+            "par": 36,
+            "rating": 34,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 3066,
+            "par": 36,
+            "rating": 37.6,
+            "slope": 136
+          }
+        ]
+      },
+      {
+        "name": "Blue 18",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3039,
+            "par": 36,
+            "rating": 36.3,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3039,
+            "par": 36,
+            "rating": 37.1,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3251,
+            "par": 36,
+            "rating": 37.3,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3251,
+            "par": 36,
+            "rating": 38.2,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2860,
+            "par": 36,
+            "rating": 35.5,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2860,
+            "par": 36,
+            "rating": 36.2,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9280f7e0-86ac-11e4-8c28-020000005b00/the-greg-mastriona-golf-courses-at-hyland-hills"
+  }
+}

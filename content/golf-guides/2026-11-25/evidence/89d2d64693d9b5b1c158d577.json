@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9bcb8220-86ac-11e4-8c28-020000005b00/walnut-grove-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9bcb8220-86ac-11e4-8c28-020000005b00/walnut-grove-country-club",
+  "checked_at": 1795524335.8592682,
+  "sha256": "5f05227a2db77a6519cb95d226ffe456fa0036f41a8f7e9d1e02076c337bb4d9",
+  "title": "Walnut Grove Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9bcb8220-86ac-11e4-8c28-020000005b00",
+    "name": "Walnut Grove Country Club",
+    "address": "5050 Linden Ave, Dayton, OH",
+    "courses": [
+      {
+        "name": "Walnut Grove",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6659,
+            "par": 72,
+            "rating": 70,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6371,
+            "par": 72,
+            "rating": 68,
+            "slope": 120
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5902,
+            "par": 72,
+            "rating": 64.5,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5111,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9bcb8220-86ac-11e4-8c28-020000005b00/walnut-grove-country-club"
+  }
+}

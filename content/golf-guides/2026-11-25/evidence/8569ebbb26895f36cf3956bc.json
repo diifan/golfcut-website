@@ -1,0 +1,107 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8995a4a0-86ac-11e4-8c28-020000005b00/lake-chabot-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8995a4a0-86ac-11e4-8c28-020000005b00/lake-chabot-golf-course",
+  "checked_at": 1795523932.45262,
+  "sha256": "01aea0c521e962c6a7208921b25e9b2e1a5f8f011c56c2924153ef2cc7073261",
+  "title": "Lake Chabot Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8995a4a0-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Chabot Golf Course",
+    "address": "11450 Golf Links Rd, Oakland, CA",
+    "courses": [
+      {
+        "name": "Lake Chabot",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6004,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6004,
+            "par": 71,
+            "rating": 73.8,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5676,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5676,
+            "par": 71,
+            "rating": 72.8,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5194,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5194,
+            "par": 71,
+            "rating": 70.1,
+            "slope": 116
+          }
+        ]
+      },
+      {
+        "name": "Short Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1023,
+            "par": 27,
+            "rating": 29,
+            "slope": 113
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1023,
+            "par": 27,
+            "rating": 30,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1023,
+            "par": 27,
+            "rating": 28,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1023,
+            "par": 27,
+            "rating": 28,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8995a4a0-86ac-11e4-8c28-020000005b00/lake-chabot-golf-course"
+  }
+}

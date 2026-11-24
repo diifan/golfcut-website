@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/960e3d50-86ac-11e4-8c28-020000005b00/valleywood-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/960e3d50-86ac-11e4-8c28-020000005b00/valleywood-golf-course",
+  "checked_at": 1795523783.1544244,
+  "sha256": "fa8fb7e78ea9ec9423458f9f5224cb7c0b5a047b7ecc179cfc02063d9d4ef141",
+  "title": "Valleywood Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "960e3d50-86ac-11e4-8c28-020000005b00",
+    "name": "Valleywood Golf Course",
+    "address": "4851 125th St W, Apple Valley, MN",
+    "courses": [
+      {
+        "name": "Valleywood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6435,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Purple",
+            "category": "FEMALE",
+            "yards": 6053,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 131
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5391,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 123
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 4927,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/960e3d50-86ac-11e4-8c28-020000005b00/valleywood-golf-course"
+  }
+}

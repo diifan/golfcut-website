@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6ba5840-86ac-11e4-8c28-020000005b00/ridgecrest-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6ba5840-86ac-11e4-8c28-020000005b00/ridgecrest-golf-club",
+  "checked_at": 1795524244.6184278,
+  "sha256": "baee130cd10c413fb50dd4df47da088a6a607f171eec20de25022ce17c59530c",
+  "title": "Ridgecrest Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6ba5840-86ac-11e4-8c28-020000005b00",
+    "name": "Ridgecrest Golf Club",
+    "address": "3730 Ridgecrest Drive, Nampa, ID",
+    "courses": [
+      {
+        "name": "Championship Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6909,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6909,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5091,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 108
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5091,
+            "par": 72,
+            "rating": 69,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5784,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5784,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 134
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6300,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 124
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6300,
+            "par": 72,
+            "rating": 75.6,
+            "slope": 140
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6ba5840-86ac-11e4-8c28-020000005b00/ridgecrest-golf-club"
+  }
+}

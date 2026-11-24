@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92d691f0-86ac-11e4-8c28-020000005b00/e-gaynor-brennan-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92d691f0-86ac-11e4-8c28-020000005b00/e-gaynor-brennan-golf-course",
+  "checked_at": 1795523728.5533743,
+  "sha256": "614e06fccbb29cd7cba4c45f64da5c814aa9805f4180148cc384c0328179d919",
+  "title": "E. Gaynor Brennan Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "92d691f0-86ac-11e4-8c28-020000005b00",
+    "name": "E. Gaynor Brennan Golf Course",
+    "address": "451 Stillwater Rd, Stamford, CT",
+    "courses": [
+      {
+        "name": "E. Gaynor Brennan",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 5783,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 122
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 5783,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5498,
+            "par": 71,
+            "rating": 67.1,
+            "slope": 119
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5498,
+            "par": 71,
+            "rating": 72.6,
+            "slope": 128
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4977,
+            "par": 71,
+            "rating": 64.5,
+            "slope": 113
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 4977,
+            "par": 71,
+            "rating": 69.5,
+            "slope": 123
+          },
+          {
+            "name": "Family",
+            "category": "MALE",
+            "yards": 3656,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Family",
+            "category": "FEMALE",
+            "yards": 3656,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92d691f0-86ac-11e4-8c28-020000005b00/e-gaynor-brennan-golf-course"
+  }
+}

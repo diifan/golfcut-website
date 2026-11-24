@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e0cd4e0-86ac-11e4-8c28-020000005b00/los-lagos-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e0cd4e0-86ac-11e4-8c28-020000005b00/los-lagos-golf-club",
+  "checked_at": 1795523651.5189908,
+  "sha256": "13e573ee36baaf584c0ece374401f139494671879d27381f4d9c1f371fd0be1e",
+  "title": "Los Lagos Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8e0cd4e0-86ac-11e4-8c28-020000005b00",
+    "name": "Los Lagos Golf Club",
+    "address": "6365 S. Entrada Via Verdes",
+    "courses": [
+      {
+        "name": "Los Lagos",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6804,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6314,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5622,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4804,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e0cd4e0-86ac-11e4-8c28-020000005b00/los-lagos-golf-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/3d880d30-7b07-11f1-8cff-069933b83eb1/sleepy-hollow-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/3d880d30-7b07-11f1-8cff-069933b83eb1/sleepy-hollow-golf-country-club",
+  "checked_at": 1795523646.1423967,
+  "sha256": "ee8599479fbe5e7c5ab94fdb5f0895242ddb019e6e0156d2a57af90220d1b5ed",
+  "title": "Sleepy Hollow Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star google-play",
+  "course_profile": {
+    "id": "3d880d30-7b07-11f1-8cff-069933b83eb1",
+    "name": "Sleepy Hollow Golf & Country Club",
+    "address": "8600 Country Club D",
+    "courses": [
+      {
+        "name": "Sleepy Hollow",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4720,
+            "par": 68,
+            "rating": 62.7,
+            "slope": 98
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4720,
+            "par": 68,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4172,
+            "par": 68,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4172,
+            "par": 68,
+            "rating": 63.1,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/3d880d30-7b07-11f1-8cff-069933b83eb1/sleepy-hollow-golf-country-club"
+  }
+}

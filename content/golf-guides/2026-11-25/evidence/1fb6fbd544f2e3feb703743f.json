@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b84a6e20-86ac-11e4-8c28-020000005b00/misquamicut-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b84a6e20-86ac-11e4-8c28-020000005b00/misquamicut-club",
+  "checked_at": 1795524331.2104833,
+  "sha256": "a985aea9dab4324b16c5af375cc0ffede20484ad951cfabadfa0da49eeeb5c6e",
+  "title": "Misquamicut Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b84a6e20-86ac-11e4-8c28-020000005b00",
+    "name": "Misquamicut Club",
+    "address": "60 Ocean View Hwy",
+    "courses": [
+      {
+        "name": "Misquamicut",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5760,
+            "par": 69,
+            "rating": 67.9,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5760,
+            "par": 69,
+            "rating": 70,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5395,
+            "par": 69,
+            "rating": 71,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b84a6e20-86ac-11e4-8c28-020000005b00/misquamicut-club"
+  }
+}

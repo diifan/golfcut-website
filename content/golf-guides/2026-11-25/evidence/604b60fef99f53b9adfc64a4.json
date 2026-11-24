@@ -1,0 +1,251 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/82f88720-86ac-11e4-8c28-020000005b00/spencer-t-olin-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/82f88720-86ac-11e4-8c28-020000005b00/spencer-t-olin-golf-course",
+  "checked_at": 1795524840.2824566,
+  "sha256": "40f41798fa78cebb1900add4eeac67f49aba249e542fd44304f63f65eb1cc76e",
+  "title": "Spencer T. Olin Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "82f88720-86ac-11e4-8c28-020000005b00",
+    "name": "Spencer T. Olin Golf Course",
+    "address": "4701 College Ave, Alton, IL ",
+    "courses": [
+      {
+        "name": "Spencer T. Olin (Championship)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6963,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 139
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 6963,
+            "par": 72,
+            "rating": 78.9,
+            "slope": 141
+          },
+          {
+            "name": "Green/White",
+            "category": "MALE",
+            "yards": 6670,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 137
+          },
+          {
+            "name": "Green/White",
+            "category": "FEMALE",
+            "yards": 6670,
+            "par": 72,
+            "rating": 77.4,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6432,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6432,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 135
+          },
+          {
+            "name": "White/Yellow",
+            "category": "MALE",
+            "yards": 6057,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 125
+          },
+          {
+            "name": "White/Yellow",
+            "category": "FEMALE",
+            "yards": 6057,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 130
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5847,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 120
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5847,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 131
+          },
+          {
+            "name": "Yellow/Red",
+            "category": "MALE",
+            "yards": 5407,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 119
+          },
+          {
+            "name": "Yellow/Red",
+            "category": "FEMALE",
+            "yards": 5407,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5049,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5049,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 122
+          }
+        ]
+      },
+      {
+        "name": "Spencer T. Olin (Learning 9)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 1792,
+            "par": 30,
+            "rating": 29,
+            "slope": 90
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 1792,
+            "par": 30,
+            "rating": 30.2,
+            "slope": 94
+          },
+          {
+            "name": "Green/White",
+            "category": "MALE",
+            "yards": 1792,
+            "par": 30,
+            "rating": 30.6,
+            "slope": 96
+          },
+          {
+            "name": "Green/White",
+            "category": "FEMALE",
+            "yards": 1792,
+            "par": 30,
+            "rating": 30.5,
+            "slope": 103
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1623,
+            "par": 30,
+            "rating": 28.6,
+            "slope": 84
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1623,
+            "par": 30,
+            "rating": 29.7,
+            "slope": 90
+          },
+          {
+            "name": "White/Yellow",
+            "category": "MALE",
+            "yards": 1623,
+            "par": 30,
+            "rating": 29.8,
+            "slope": 93
+          },
+          {
+            "name": "White/Yellow",
+            "category": "FEMALE",
+            "yards": 1623,
+            "par": 30,
+            "rating": 29.6,
+            "slope": 99
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 1445,
+            "par": 30,
+            "rating": 27.8,
+            "slope": 81
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 1445,
+            "par": 30,
+            "rating": 29,
+            "slope": 88
+          },
+          {
+            "name": "Yellow/Red",
+            "category": "MALE",
+            "yards": 1445,
+            "par": 30,
+            "rating": 28.3853,
+            "slope": 86.5184
+          },
+          {
+            "name": "Yellow/Red",
+            "category": "FEMALE",
+            "yards": 1445,
+            "par": 30,
+            "rating": 28.3853,
+            "slope": 86.5184
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1300,
+            "par": 30,
+            "rating": 27.3,
+            "slope": 77
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1300,
+            "par": 30,
+            "rating": 28.6,
+            "slope": 82
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/82f88720-86ac-11e4-8c28-020000005b00/spencer-t-olin-golf-course"
+  }
+}

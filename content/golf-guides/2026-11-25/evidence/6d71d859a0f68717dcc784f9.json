@@ -1,0 +1,257 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b692fa20-86ac-11e4-8c28-020000005b00/falcon-crest-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b692fa20-86ac-11e4-8c28-020000005b00/falcon-crest-golf-club",
+  "checked_at": 1795523829.40437,
+  "sha256": "ce68f2114ee11ec09e2cb420793fd2206316a5be29a356bba8cf4966f402f20f",
+  "title": "Falcon Crest Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b692fa20-86ac-11e4-8c28-020000005b00",
+    "name": "Falcon Crest Golf Club",
+    "address": "11102 S Cloverdale Rd, Kuna, ID",
+    "courses": [
+      {
+        "name": "Championship Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6789,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 131
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6789,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6252,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6252,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 141
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5829,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5829,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 135
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5062,
+            "par": 72,
+            "rating": 64,
+            "slope": 102
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5062,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 121
+          },
+          {
+            "name": "Black/Blue",
+            "category": "MALE",
+            "yards": 6477,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 132
+          },
+          {
+            "name": "Black/Blue",
+            "category": "FEMALE",
+            "yards": 6477,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 6009,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 121
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 6009,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White/Red",
+            "category": "MALE",
+            "yards": 5451,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 108
+          },
+          {
+            "name": "White/Red",
+            "category": "FEMALE",
+            "yards": 5451,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 127
+          }
+        ]
+      },
+      {
+        "name": "Freedom Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5856,
+            "par": 68,
+            "rating": 75.4,
+            "slope": 143
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5856,
+            "par": 68,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4458,
+            "par": 68,
+            "rating": 66.8,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4458,
+            "par": 68,
+            "rating": 71.6,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5106,
+            "par": 68,
+            "rating": 69.6,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5106,
+            "par": 68,
+            "rating": 76.4,
+            "slope": 145
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5444,
+            "par": 68,
+            "rating": 73,
+            "slope": 135
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5444,
+            "par": 68,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6228,
+            "par": 68,
+            "rating": 77.4,
+            "slope": 147
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6228,
+            "par": 68,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      },
+      {
+        "name": "The Cadet Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1846,
+            "par": 54,
+            "rating": 25.3,
+            "slope": 73
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1846,
+            "par": 54,
+            "rating": 26.6,
+            "slope": 81
+          },
+          {
+            "name": "Gray",
+            "category": "MALE",
+            "yards": 1552,
+            "par": 54,
+            "rating": 24.8,
+            "slope": 73
+          },
+          {
+            "name": "Gray",
+            "category": "FEMALE",
+            "yards": 1552,
+            "par": 54,
+            "rating": 26.3,
+            "slope": 77
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b692fa20-86ac-11e4-8c28-020000005b00/falcon-crest-golf-club"
+  }
+}

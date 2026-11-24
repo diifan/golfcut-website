@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af8c9380-86ac-11e4-8c28-020000005b00/the-oaks-at-spanish-fork",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af8c9380-86ac-11e4-8c28-020000005b00/the-oaks-at-spanish-fork",
+  "checked_at": 1795524880.4508965,
+  "sha256": "ae03685fc7599e9559a9d7a2a3fe385366547d7baedefd69c2c380afd153e884",
+  "title": "The Oaks at Spanish Fork - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af8c9380-86ac-11e4-8c28-020000005b00",
+    "name": "The Oaks at Spanish Fork",
+    "address": "2300 E Powerhouse Road, Spanish Fork, UT",
+    "courses": [
+      {
+        "name": "Spanish Oaks",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6557,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6557,
+            "par": 72,
+            "rating": 77.6,
+            "slope": 145
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5846,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5846,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 137
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5319,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 112
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5319,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af8c9380-86ac-11e4-8c28-020000005b00/the-oaks-at-spanish-fork"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/89717ad0-86ac-11e4-8c28-020000005b00/madera-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/89717ad0-86ac-11e4-8c28-020000005b00/madera-municipal-golf-course",
+  "checked_at": 1795524602.605411,
+  "sha256": "a92cf80d41ee7c09d3013ddbb383c58e6d694062de574a4dfa47685d27033e7d",
+  "title": "Madera Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "89717ad0-86ac-11e4-8c28-020000005b00",
+    "name": "Madera Municipal Golf Course",
+    "address": "23200 Ave 17, Madera, Madera County",
+    "courses": [
+      {
+        "name": "Madera Municipal",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6814,
+            "par": 72,
+            "rating": 73,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6814,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6340,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6340,
+            "par": 72,
+            "rating": 76.8,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5545,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5545,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5382,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5382,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/89717ad0-86ac-11e4-8c28-020000005b00/madera-municipal-golf-course"
+  }
+}

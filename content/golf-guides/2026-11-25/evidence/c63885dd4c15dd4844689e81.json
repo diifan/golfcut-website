@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d581590-86ac-11e4-8c28-020000005b00/blue-mountain-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d581590-86ac-11e4-8c28-020000005b00/blue-mountain-golf-course",
+  "checked_at": 1795524870.6828585,
+  "sha256": "64ea6dd36d62c23a6aa0fc0b4b302436bd8d4fcbe054f6641d9e0c97069e6219",
+  "title": "Blue Mountain Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9d581590-86ac-11e4-8c28-020000005b00",
+    "name": "Blue Mountain Golf Course",
+    "address": "628 Blue Mountain Road, Fredericksburg, PA",
+    "courses": [
+      {
+        "name": "Blue Mountain",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6059,
+            "par": 71,
+            "rating": 68.7,
+            "slope": 116
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6059,
+            "par": 73,
+            "rating": 74.1,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5558,
+            "par": 71,
+            "rating": 66.3,
+            "slope": 107
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5558,
+            "par": 73,
+            "rating": 71.5,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4631,
+            "par": 71,
+            "rating": 62.4,
+            "slope": 100
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4631,
+            "par": 73,
+            "rating": 66.5,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4247,
+            "par": 71,
+            "rating": 64.3,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4247,
+            "par": 73,
+            "rating": 64.1,
+            "slope": 101
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d581590-86ac-11e4-8c28-020000005b00/blue-mountain-golf-course"
+  }
+}

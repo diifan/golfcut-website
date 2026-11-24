@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/88653af0-86ac-11e4-8c28-020000005b00/mystic-oak-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/88653af0-86ac-11e4-8c28-020000005b00/mystic-oak-golf-course",
+  "checked_at": 1795524740.920891,
+  "sha256": "dc5aa3789dca38db3ea701820521677cadaee23406eb2629935bb0f9a5655c22",
+  "title": "Mystic Oak Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "88653af0-86ac-11e4-8c28-020000005b00",
+    "name": "Mystic Oak Golf Course",
+    "address": "643 Ridge Rd, Waterloo, IL",
+    "courses": [
+      {
+        "name": "Mystic Oak",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6358,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6358,
+            "par": 72,
+            "rating": 75.7,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5967,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5967,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5321,
+            "par": 72,
+            "rating": 66,
+            "slope": 108
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5321,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4739,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4739,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/88653af0-86ac-11e4-8c28-020000005b00/mystic-oak-golf-course"
+  }
+}

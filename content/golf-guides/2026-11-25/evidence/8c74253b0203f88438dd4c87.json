@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afbe2ad0-86ac-11e4-8c28-020000005b00/meadowcreek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afbe2ad0-86ac-11e4-8c28-020000005b00/meadowcreek-golf-course",
+  "checked_at": 1795524871.5275414,
+  "sha256": "e51af6b0bee5bf1ad6fd280f73eb754c4684a99a4648ddb7c7f5a7202967db6a",
+  "title": "Meadowcreek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "afbe2ad0-86ac-11e4-8c28-020000005b00",
+    "name": "Meadowcreek Golf Course",
+    "address": "1400 Pen Park Rd, Charlottesville, VA",
+    "courses": [
+      {
+        "name": "Meadowcreek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6200,
+            "par": 71,
+            "rating": 70,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6200,
+            "par": 71,
+            "rating": 76.2,
+            "slope": 141
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5685,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5685,
+            "par": 71,
+            "rating": 73.3,
+            "slope": 135
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4852,
+            "par": 71,
+            "rating": 63.8,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4852,
+            "par": 71,
+            "rating": 68.7,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4682,
+            "par": 71,
+            "rating": 63.2,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4682,
+            "par": 71,
+            "rating": 67.5,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afbe2ad0-86ac-11e4-8c28-020000005b00/meadowcreek-golf-course"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98cf0b00-86ac-11e4-8c28-020000005b00/copake-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98cf0b00-86ac-11e4-8c28-020000005b00/copake-country-club",
+  "checked_at": 1795524315.4605744,
+  "sha256": "e7f864f65dc9194251f8c52390754b360c41e969b96ffe109ca90f5348c4c098",
+  "title": "Copake Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "98cf0b00-86ac-11e4-8c28-020000005b00",
+    "name": "Copake Country Club",
+    "address": "44 Golf Course Rd, Craryville, NY",
+    "courses": [
+      {
+        "name": "Copake Country Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6266,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 132
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 6266,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5532,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5532,
+            "par": 73,
+            "rating": 73.6,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5329,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5329,
+            "par": 73,
+            "rating": 72.4,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98cf0b00-86ac-11e4-8c28-020000005b00/copake-country-club"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3d783a0-86ac-11e4-8c28-020000005b00/oak-lane-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3d783a0-86ac-11e4-8c28-020000005b00/oak-lane-golf-course",
+  "checked_at": 1795524334.1743827,
+  "sha256": "627337f4b1effcc2c1251771c0adfc01e39c34757e8a13362ee18ec941a5cabd",
+  "title": "Oak Lane Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b3d783a0-86ac-11e4-8c28-020000005b00",
+    "name": "Oak Lane Golf Course",
+    "address": "800 North Main, Webberville, MI",
+    "courses": [
+      {
+        "name": "Oak Lane",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6172,
+            "par": 70,
+            "rating": 69.3,
+            "slope": 122
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6172,
+            "par": 70,
+            "rating": 74.7,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5729,
+            "par": 70,
+            "rating": 66.9,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5729,
+            "par": 70,
+            "rating": 72.3,
+            "slope": 123
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4913,
+            "par": 70,
+            "rating": 63.3,
+            "slope": 102
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 4913,
+            "par": 70,
+            "rating": 68,
+            "slope": 112
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 3817,
+            "par": 70,
+            "rating": 58,
+            "slope": 90
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 3817,
+            "par": 70,
+            "rating": 62,
+            "slope": 97
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3d783a0-86ac-11e4-8c28-020000005b00/oak-lane-golf-course"
+  }
+}

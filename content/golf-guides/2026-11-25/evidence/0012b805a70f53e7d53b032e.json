@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8aa714a0-86ac-11e4-8c28-020000005b00/emerald-isle-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8aa714a0-86ac-11e4-8c28-020000005b00/emerald-isle-golf-course",
+  "checked_at": 1795523987.5059948,
+  "sha256": "7c6d62e3b80d7a9a9db0154a489f68359b3c6d96c16381e55a7ed420d2b3b29a",
+  "title": "Emerald Isle Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8aa714a0-86ac-11e4-8c28-020000005b00",
+    "name": "Emerald Isle Golf Course",
+    "address": "660 S El Camino Real, Oceanside, CA",
+    "courses": [
+      {
+        "name": "Emerald Isle",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 2446,
+            "par": 55,
+            "rating": 52.6,
+            "slope": 77
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 2446,
+            "par": 55,
+            "rating": 55.4,
+            "slope": 86
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 2229,
+            "par": 55,
+            "rating": 51.6,
+            "slope": 75
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 2229,
+            "par": 55,
+            "rating": 54.2,
+            "slope": 83
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1967,
+            "par": 55,
+            "rating": 50.4,
+            "slope": 72
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1967,
+            "par": 55,
+            "rating": 52.7,
+            "slope": 80
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8aa714a0-86ac-11e4-8c28-020000005b00/emerald-isle-golf-course"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad9bc000-86ac-11e4-8c28-020000005b00/mc-call-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad9bc000-86ac-11e4-8c28-020000005b00/mc-call-golf-country-club",
+  "checked_at": 1795523913.2387128,
+  "sha256": "c4792a64bdc790ff8a5b746c7a54291e5f2f92527f094ece5083b13b782a773c",
+  "title": "McCall Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ad9bc000-86ac-11e4-8c28-020000005b00",
+    "name": "McCall Golf & Country Club",
+    "address": "McCall Field, Upper Darby, PA",
+    "courses": [
+      {
+        "name": "McCall Field",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 4469,
+            "par": 66,
+            "rating": 62.9,
+            "slope": 119
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 4469,
+            "par": 68,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 4219,
+            "par": 66,
+            "rating": 61.9,
+            "slope": 118
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 4219,
+            "par": 68,
+            "rating": 64.5,
+            "slope": 116
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 3952,
+            "par": 66,
+            "rating": 61.1,
+            "slope": 117
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 3952,
+            "par": 68,
+            "rating": 63.3,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad9bc000-86ac-11e4-8c28-020000005b00/mc-call-golf-country-club"
+  }
+}

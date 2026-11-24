@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b268ff80-86ac-11e4-8c28-020000005b00/dearborn-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b268ff80-86ac-11e4-8c28-020000005b00/dearborn-country-club",
+  "checked_at": 1795524892.5810406,
+  "sha256": "4052f0de1907f434006b49283cff3e99d1e638ff199e7c4264a8b978353a0bbc",
+  "title": "Dearborn Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b268ff80-86ac-11e4-8c28-020000005b00",
+    "name": "Dearborn Country Club",
+    "address": "800 N Military St, Dearborn, MI",
+    "courses": [
+      {
+        "name": "Dearborn",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6832,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 133
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6832,
+            "par": 75,
+            "rating": 78.2,
+            "slope": 139
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6464,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 131
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6464,
+            "par": 75,
+            "rating": 76.3,
+            "slope": 135
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5965,
+            "par": 72,
+            "rating": 69,
+            "slope": 126
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5965,
+            "par": 75,
+            "rating": 74.9,
+            "slope": 134
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 5350,
+            "par": 72,
+            "rating": 63.8,
+            "slope": 112
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 5350,
+            "par": 75,
+            "rating": 69,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b268ff80-86ac-11e4-8c28-020000005b00/dearborn-country-club"
+  }
+}

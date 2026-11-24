@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92a94060-86ac-11e4-8c28-020000005b00/wee-burn-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92a94060-86ac-11e4-8c28-020000005b00/wee-burn-country-club",
+  "checked_at": 1795524074.0564802,
+  "sha256": "4b42086fb917602fa826dc0a25a1180402cdf0ce099b71966c55e927a86e5c93",
+  "title": "Wee Burn Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92a94060-86ac-11e4-8c28-020000005b00",
+    "name": "Wee Burn Country Club",
+    "address": "410 Hollow Tree Ridge Rd",
+    "courses": [
+      {
+        "name": "Wee Burn",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7040,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 146
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6561,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 142
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6078,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 137
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5717,
+            "par": 72,
+            "rating": 69,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5514,
+            "par": 72,
+            "rating": 70,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92a94060-86ac-11e4-8c28-020000005b00/wee-burn-country-club"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d74daa0-86ac-11e4-8c28-020000005b00/warren-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d74daa0-86ac-11e4-8c28-020000005b00/warren-golf-course",
+  "checked_at": 1795523773.2905326,
+  "sha256": "ee1fd62f287e4b16593b076e4e4e1f5038f681a246c4fadf21b39e6624289fb2",
+  "title": "Warren Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d74daa0-86ac-11e4-8c28-020000005b00",
+    "name": "Warren Golf Course",
+    "address": "110 Warren Golf Crse, Notre Dame, IN",
+    "courses": [
+      {
+        "name": "Warren",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Champ",
+            "category": "MALE",
+            "yards": 7020,
+            "par": 71,
+            "rating": 74.6,
+            "slope": 135
+          },
+          {
+            "name": "Champ",
+            "category": "FEMALE",
+            "yards": 7020,
+            "par": 71,
+            "rating": 76.7,
+            "slope": 134
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6744,
+            "par": 71,
+            "rating": 73.4,
+            "slope": 132
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6744,
+            "par": 71,
+            "rating": 77.8,
+            "slope": 138
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6346,
+            "par": 71,
+            "rating": 71.5,
+            "slope": 128
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6346,
+            "par": 71,
+            "rating": 75.7,
+            "slope": 134
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5302,
+            "par": 71,
+            "rating": 70.4,
+            "slope": 125
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5302,
+            "par": 71,
+            "rating": 70.1,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d74daa0-86ac-11e4-8c28-020000005b00/warren-golf-course"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/add4d160-86ac-11e4-8c28-020000005b00/north-hills-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/add4d160-86ac-11e4-8c28-020000005b00/north-hills-country-club",
+  "checked_at": 1795524340.4644415,
+  "sha256": "2da67dc4e569e4003226d5ca1ac1903af6b2dacaeb669048bcea7c84e1c04855",
+  "title": "North Hills Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "add4d160-86ac-11e4-8c28-020000005b00",
+    "name": "North Hills Country Club",
+    "address": "99 Station Ave, North Hills, PA 19038",
+    "courses": [
+      {
+        "name": "North Hills CC",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6534,
+            "par": 71,
+            "rating": 71.6,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6232,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5662,
+            "par": 71,
+            "rating": 67.5,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5348,
+            "par": 71,
+            "rating": 69.3,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/add4d160-86ac-11e4-8c28-020000005b00/north-hills-country-club"
+  }
+}

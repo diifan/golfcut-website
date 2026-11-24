@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af337700-86ac-11e4-8c28-020000005b00/old-hickory-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af337700-86ac-11e4-8c28-020000005b00/old-hickory-country-club",
+  "checked_at": 1795524862.4717097,
+  "sha256": "abafb1de69b4eeaaedd518847bdba09d8a590e4babcc2198bafffb70e90ac23a",
+  "title": "Old Hickory Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af337700-86ac-11e4-8c28-020000005b00",
+    "name": "Old Hickory Country Club",
+    "address": "1904 Old Hickory Blvd, Old Hickory, TN",
+    "courses": [
+      {
+        "name": "Old Hickory",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6617,
+            "par": 71,
+            "rating": 71.6,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6044,
+            "par": 71,
+            "rating": 68.8,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5576,
+            "par": 71,
+            "rating": 66.4,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4845,
+            "par": 71,
+            "rating": 63.9,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af337700-86ac-11e4-8c28-020000005b00/old-hickory-country-club"
+  }
+}

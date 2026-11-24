@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af086f60-86ac-11e4-8c28-020000005b00/oak-hills-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af086f60-86ac-11e4-8c28-020000005b00/oak-hills-golf-course",
+  "checked_at": 1795524822.7968986,
+  "sha256": "821569c875b23c4a72593053c1b4240d6bd29ab5cc92eaec295756bfb0250a8d",
+  "title": "Oak Hills Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "af086f60-86ac-11e4-8c28-020000005b00",
+    "name": "Oak Hills Golf Course",
+    "address": "1928 Hygeia Road, Greenbrier, TN",
+    "courses": [
+      {
+        "name": "Oak Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5735,
+            "par": 70,
+            "rating": 67.4,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5735,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5430,
+            "par": 70,
+            "rating": 66,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5430,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5007,
+            "par": 70,
+            "rating": 64.2,
+            "slope": 112
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5007,
+            "par": 70,
+            "rating": 68,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4402,
+            "par": 70,
+            "rating": 61.6,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4402,
+            "par": 70,
+            "rating": 64.4,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af086f60-86ac-11e4-8c28-020000005b00/oak-hills-golf-course"
+  }
+}

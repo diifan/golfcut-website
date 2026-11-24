@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0e23870-86ac-11e4-8c28-020000005b00/allenmore-public-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0e23870-86ac-11e4-8c28-020000005b00/allenmore-public-golf-course",
+  "checked_at": 1795524166.1330328,
+  "sha256": "c59240b9585b51333129d416132d51d5e8bc19e94b359a6d8ee99b415de71b5d",
+  "title": "Allenmore Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b0e23870-86ac-11e4-8c28-020000005b00",
+    "name": "Allenmore Golf Course",
+    "address": "2013 S Cedar St, Tacoma, WA",
+    "courses": [
+      {
+        "name": "Allenmore",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6136,
+            "par": 71,
+            "rating": 69,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6136,
+            "par": 71,
+            "rating": 75.1,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5914,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5914,
+            "par": 71,
+            "rating": 73.9,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5615,
+            "par": 71,
+            "rating": 66.7,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5615,
+            "par": 71,
+            "rating": 72.2,
+            "slope": 125
+          },
+          {
+            "name": "Red/Gold",
+            "category": "MALE",
+            "yards": 5615,
+            "par": 71,
+            "rating": 64.7,
+            "slope": 111
+          },
+          {
+            "name": "Red/Gold",
+            "category": "FEMALE",
+            "yards": 5615,
+            "par": 71,
+            "rating": 70.1,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4800,
+            "par": 71,
+            "rating": 62.4,
+            "slope": 106
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4800,
+            "par": 71,
+            "rating": 67,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0e23870-86ac-11e4-8c28-020000005b00/allenmore-public-golf-course"
+  }
+}

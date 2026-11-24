@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8952f650-86ac-11e4-8c28-020000005b00/the-madison-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8952f650-86ac-11e4-8c28-020000005b00/the-madison-club",
+  "checked_at": 1795524216.9151514,
+  "sha256": "e763d4c3b088e730ffcf85b657b870e80fc5d9b15fa12e67e49abcbe82b5f831",
+  "title": "The Madison Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "8952f650-86ac-11e4-8c28-020000005b00",
+    "name": "The Madison Club",
+    "address": "53035 Meriwether Way, La Quinta, CA",
+    "courses": [
+      {
+        "name": "Madison",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "I",
+            "category": "MALE",
+            "yards": 7426,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 139
+          },
+          {
+            "name": "I",
+            "category": "FEMALE",
+            "yards": 7426,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 6703,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 133
+          },
+          {
+            "name": "II",
+            "category": "FEMALE",
+            "yards": 6703,
+            "par": 72,
+            "rating": 80.4,
+            "slope": 148
+          },
+          {
+            "name": "III",
+            "category": "MALE",
+            "yards": 5738,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 126
+          },
+          {
+            "name": "III",
+            "category": "FEMALE",
+            "yards": 5738,
+            "par": 72,
+            "rating": 76.5,
+            "slope": 140
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8952f650-86ac-11e4-8c28-020000005b00/the-madison-club"
+  }
+}

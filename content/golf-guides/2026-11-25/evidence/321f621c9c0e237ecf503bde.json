@@ -1,0 +1,531 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b5d5700-86ac-11e4-8c28-020000005b00/raleigh-golf-association",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b5d5700-86ac-11e4-8c28-020000005b00/raleigh-golf-association",
+  "checked_at": 1795523807.1493645,
+  "sha256": "7301cc8d2131b32c9fa957e61743dd8d6016d3d0c847d6758cc438bc78b9f1f7",
+  "title": "Raleigh Golf Association (RGA) - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9b5d5700-86ac-11e4-8c28-020000005b00",
+    "name": "Raleigh Golf Association (RGA)",
+    "address": "1527 Tryon Rd, Raleigh, NC",
+    "courses": [
+      {
+        "name": "Raleigh Public 18-Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6053,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6053,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5545,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5545,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4780,
+            "par": 72,
+            "rating": 63.4,
+            "slope": 103
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4780,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4507,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4507,
+            "par": 72,
+            "rating": 63.4,
+            "slope": 109
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 3493,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 3493,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      },
+      {
+        "name": "Stockholders Private 9-Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2900,
+            "par": 35,
+            "rating": 32,
+            "slope": 108
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2900,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2710,
+            "par": 35,
+            "rating": 31.8,
+            "slope": 106
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2710,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2495,
+            "par": 35,
+            "rating": 31.3,
+            "slope": 88
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2495,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2160,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2160,
+            "par": 35,
+            "rating": 32.5,
+            "slope": 101
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 2070,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 2070,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      },
+      {
+        "name": "Public 9 to Stockholders Back",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5724,
+            "par": 71,
+            "rating": 66.2,
+            "slope": 115
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5724,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5367,
+            "par": 71,
+            "rating": 64.5,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5367,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4569,
+            "par": 71,
+            "rating": 62.2,
+            "slope": 96
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4569,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4379,
+            "par": 71,
+            "rating": 61.9,
+            "slope": 95
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4379,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 107
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 3481,
+            "par": 71,
+            "rating": 59.3,
+            "slope": 88
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 3481,
+            "par": 72,
+            "rating": 59.9,
+            "slope": 97
+          }
+        ]
+      },
+      {
+        "name": "Stockholders to Public Front",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5724,
+            "par": 71,
+            "rating": 66.2,
+            "slope": 115
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5724,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5367,
+            "par": 71,
+            "rating": 64.5,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5367,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4569,
+            "par": 71,
+            "rating": 62.2,
+            "slope": 96
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4569,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4379,
+            "par": 71,
+            "rating": 61.9,
+            "slope": 95
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4379,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 107
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 3481,
+            "par": 71,
+            "rating": 59.3,
+            "slope": 88
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 3481,
+            "par": 72,
+            "rating": 59.9,
+            "slope": 97
+          }
+        ]
+      },
+      {
+        "name": "Public Back to Stockholders",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5853,
+            "par": 71,
+            "rating": 67.5,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5853,
+            "par": 71,
+            "rating": 73.2,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5492,
+            "par": 71,
+            "rating": 65.9,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5492,
+            "par": 71,
+            "rating": 71.1,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4665,
+            "par": 71,
+            "rating": 63.3,
+            "slope": 102
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4665,
+            "par": 71,
+            "rating": 67.1,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4462,
+            "par": 71,
+            "rating": 62.5,
+            "slope": 100
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4462,
+            "par": 71,
+            "rating": 66.3,
+            "slope": 109
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 3422,
+            "par": 71,
+            "rating": 59.6,
+            "slope": 93
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 3422,
+            "par": 71,
+            "rating": 60.7,
+            "slope": 97
+          }
+        ]
+      },
+      {
+        "name": "RGA - 18 Holes (New)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5862,
+            "par": 71,
+            "rating": 67.5,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5862,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5420,
+            "par": 71,
+            "rating": 65.7,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5420,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4837,
+            "par": 71,
+            "rating": 63.4,
+            "slope": 108
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4837,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4372,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4372,
+            "par": 71,
+            "rating": 61.9,
+            "slope": 104
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 3846,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 3846,
+            "par": 71,
+            "rating": 58.4,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b5d5700-86ac-11e4-8c28-020000005b00/raleigh-golf-association"
+  }
+}

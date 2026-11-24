@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/94bed9f0-86ac-11e4-8c28-020000005b00/burning-tree-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/94bed9f0-86ac-11e4-8c28-020000005b00/burning-tree-club",
+  "checked_at": 1795523897.2206182,
+  "sha256": "a78b500fcb53d54fd95e79b84c63fad2ea26c8de28bce6760afb63fd93104b24",
+  "title": "Burning Tree Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "94bed9f0-86ac-11e4-8c28-020000005b00",
+    "name": "Burning Tree Club",
+    "address": "8600 Burdette Rd",
+    "courses": [
+      {
+        "name": "Burning Tree",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Medal",
+            "category": "MALE",
+            "yards": 6748,
+            "par": 71,
+            "rating": 72.5,
+            "slope": 130
+          },
+          {
+            "name": "Member",
+            "category": "MALE",
+            "yards": 6400,
+            "par": 71,
+            "rating": 71.1,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/94bed9f0-86ac-11e4-8c28-020000005b00/burning-tree-club"
+  }
+}

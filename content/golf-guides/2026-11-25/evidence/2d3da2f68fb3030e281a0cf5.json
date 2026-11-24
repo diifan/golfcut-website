@@ -1,0 +1,257 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/91de0120-86ac-11e4-8c28-020000005b00/magnolia-grove",
+  "resolved_url": "https://18birdies.com/golf-courses/club/91de0120-86ac-11e4-8c28-020000005b00/magnolia-grove",
+  "checked_at": 1795524075.5183833,
+  "sha256": "87af300b965547aef5a2b0619dd713d732fab6ee2b42bfa5c2c29fe10aa929a9",
+  "title": "Magnolia Grove  - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "91de0120-86ac-11e4-8c28-020000005b00",
+    "name": "Magnolia Grove ",
+    "address": "7001 Magnolia Grove Parkway, Mobile, AL",
+    "courses": [
+      {
+        "name": "Magnolia Grove (Crossings)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Purple",
+            "category": "MALE",
+            "yards": 7212,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 139
+          },
+          {
+            "name": "Purple",
+            "category": "FEMALE",
+            "yards": 7212,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 6652,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 135
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 6652,
+            "par": 72,
+            "rating": 77.3,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6157,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6157,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5660,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5660,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 130
+          },
+          {
+            "name": "Teal",
+            "category": "MALE",
+            "yards": 5261,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 118
+          },
+          {
+            "name": "Teal",
+            "category": "FEMALE",
+            "yards": 5261,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 121
+          }
+        ]
+      },
+      {
+        "name": "Magnolia Grove (Falls)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Purple",
+            "category": "MALE",
+            "yards": 7158,
+            "par": 71,
+            "rating": 74.6,
+            "slope": 130
+          },
+          {
+            "name": "Purple",
+            "category": "FEMALE",
+            "yards": 7158,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 6644,
+            "par": 71,
+            "rating": 71.6,
+            "slope": 125
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 6644,
+            "par": 71,
+            "rating": 77.2,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6119,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6119,
+            "par": 71,
+            "rating": 74.8,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5478,
+            "par": 71,
+            "rating": 66.1,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5478,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 121
+          },
+          {
+            "name": "Teal",
+            "category": "MALE",
+            "yards": 5049,
+            "par": 71,
+            "rating": 64.9,
+            "slope": 110
+          },
+          {
+            "name": "Teal",
+            "category": "FEMALE",
+            "yards": 5049,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 120
+          }
+        ]
+      },
+      {
+        "name": "Magnolia Grove (Short)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Purple",
+            "category": "MALE",
+            "yards": 3140,
+            "par": 54,
+            "rating": 59.2,
+            "slope": 100
+          },
+          {
+            "name": "Purple",
+            "category": "FEMALE",
+            "yards": 3140,
+            "par": 54,
+            "rating": 58.6,
+            "slope": 96
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 2734,
+            "par": 54,
+            "rating": 54.90176,
+            "slope": 82.20626
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 2734,
+            "par": 54,
+            "rating": 54.90176,
+            "slope": 82.20626
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2279,
+            "par": 54,
+            "rating": 53.01806,
+            "slope": 79.98131
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2279,
+            "par": 54,
+            "rating": 53.01806,
+            "slope": 79.98131
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 1829,
+            "par": 54,
+            "rating": 51.15506,
+            "slope": 77.78081
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 1829,
+            "par": 54,
+            "rating": 51.15506,
+            "slope": 77.78081
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/91de0120-86ac-11e4-8c28-020000005b00/magnolia-grove"
+  }
+}

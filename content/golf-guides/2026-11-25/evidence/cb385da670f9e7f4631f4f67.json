@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9bc121e0-86ac-11e4-8c28-020000005b00/wilson-road-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9bc121e0-86ac-11e4-8c28-020000005b00/wilson-road-golf-course",
+  "checked_at": 1795523795.5956242,
+  "sha256": "67763520fc59ffec70af1513dacf1a3e8ab9c7ad121f992807fa7bde1101feb0",
+  "title": "Wilson Road Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9bc121e0-86ac-11e4-8c28-020000005b00",
+    "name": "Wilson Road Golf Course",
+    "address": "1900 Wilson Rd, Columbus, OH",
+    "courses": [
+      {
+        "name": "Wilson Road Golf Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1899,
+            "par": 30,
+            "rating": 29.1,
+            "slope": 85
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 1551,
+            "par": 30,
+            "rating": 28.2,
+            "slope": 91
+          },
+          {
+            "name": "Purple",
+            "category": "MALE",
+            "yards": 1000,
+            "par": 30,
+            "rating": 26.365,
+            "slope": 78.366
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9bc121e0-86ac-11e4-8c28-020000005b00/wilson-road-golf-course"
+  }
+}

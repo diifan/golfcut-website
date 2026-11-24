@@ -1,0 +1,337 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b3fe3f0-86ac-11e4-8c28-020000005b00/sandpiper-bay-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b3fe3f0-86ac-11e4-8c28-020000005b00/sandpiper-bay-golf-course",
+  "checked_at": 1795524241.4101565,
+  "sha256": "b1683c6bff376322a3ecf15dcfcd8d2d7d147f7b840f07996138b8d83c574e02",
+  "title": "Sandpiper Bay Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9b3fe3f0-86ac-11e4-8c28-020000005b00",
+    "name": "Sandpiper Bay Golf Course",
+    "address": "800 N. Sandpiper Club Drive, Sunset Beach, NC",
+    "courses": [
+      {
+        "name": "Piper + Bay",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6746,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6746,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6284,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6284,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5915,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 124
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5915,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5654,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5654,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4829,
+            "par": 72,
+            "rating": 63.6,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4829,
+            "par": 72,
+            "rating": 68,
+            "slope": 117
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 3676,
+            "par": 72,
+            "rating": 60.1,
+            "slope": 97
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 3676,
+            "par": 72,
+            "rating": 61.4,
+            "slope": 99
+          }
+        ]
+      },
+      {
+        "name": "Bay + Sand",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6518,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6518,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6113,
+            "par": 71,
+            "rating": 69.3,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6113,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5799,
+            "par": 71,
+            "rating": 67.9,
+            "slope": 123
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5799,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5497,
+            "par": 71,
+            "rating": 66.9,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5497,
+            "par": 71,
+            "rating": 71.7,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4705,
+            "par": 71,
+            "rating": 63.1,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4705,
+            "par": 71,
+            "rating": 67.2,
+            "slope": 113
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 3496,
+            "par": 71,
+            "rating": 59.1,
+            "slope": 96
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 3496,
+            "par": 71,
+            "rating": 60.2,
+            "slope": 97
+          }
+        ]
+      },
+      {
+        "name": "Piper 9",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 3366,
+            "par": 36,
+            "rating": 36.3,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 3366,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3189,
+            "par": 36,
+            "rating": 35.2,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3189,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 2987,
+            "par": 36,
+            "rating": 34.2,
+            "slope": 124
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 2987,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2895,
+            "par": 36,
+            "rating": 33.9,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2895,
+            "par": 36,
+            "rating": null,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2396,
+            "par": 36,
+            "rating": 31.8,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2396,
+            "par": 36,
+            "rating": 34,
+            "slope": 117
+          },
+          {
+            "name": "Maroon",
+            "category": "MALE",
+            "yards": 1912,
+            "par": 36,
+            "rating": 30.1,
+            "slope": 97
+          },
+          {
+            "name": "Maroon",
+            "category": "FEMALE",
+            "yards": 1912,
+            "par": 36,
+            "rating": 30.7,
+            "slope": 99
+          },
+          {
+            "name": "Gray",
+            "category": "MALE",
+            "yards": 1525,
+            "par": 36,
+            "rating": 28.7,
+            "slope": 86
+          },
+          {
+            "name": "Gray",
+            "category": "FEMALE",
+            "yards": 1525,
+            "par": 36,
+            "rating": 29.1,
+            "slope": 90
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b3fe3f0-86ac-11e4-8c28-020000005b00/sandpiper-bay-golf-course"
+  }
+}

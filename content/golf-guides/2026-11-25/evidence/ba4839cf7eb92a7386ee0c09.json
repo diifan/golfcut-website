@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/89257db0-86ac-11e4-8c28-020000005b00/scholl-canyon-golf-clubs",
+  "resolved_url": "https://18birdies.com/golf-courses/club/89257db0-86ac-11e4-8c28-020000005b00/scholl-canyon-golf-clubs",
+  "checked_at": 1795523932.9000854,
+  "sha256": "6cb1fc5f83ea48c42a3108e4e66b6f354f32dda42a4df9bb1a2d70b757446431",
+  "title": "Scholl Canyon Golf Clubs - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "89257db0-86ac-11e4-8c28-020000005b00",
+    "name": "Scholl Canyon Golf Clubs",
+    "address": "3800 E. Glenoaks Blvd, Glendale, CA",
+    "courses": [
+      {
+        "name": "Scholl Canyon",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3039,
+            "par": 60,
+            "rating": 54.8,
+            "slope": 86
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3039,
+            "par": 60,
+            "rating": 57.1,
+            "slope": 91
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2400,
+            "par": 60,
+            "rating": 52.1,
+            "slope": 80
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2400,
+            "par": 60,
+            "rating": 55.2,
+            "slope": 86
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/89257db0-86ac-11e4-8c28-020000005b00/scholl-canyon-golf-clubs"
+  }
+}

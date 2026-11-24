@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8def88e0-86ac-11e4-8c28-020000005b00/desert-mirage-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8def88e0-86ac-11e4-8c28-020000005b00/desert-mirage-golf-course",
+  "checked_at": 1795524282.9744148,
+  "sha256": "e4e50a20fb05cf457d2dcaf7f79afa9175b986071ed893edfc6b642b25e5809c",
+  "title": "Desert Mirage Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8def88e0-86ac-11e4-8c28-020000005b00",
+    "name": "Desert Mirage Golf Course",
+    "address": "870 W Maryland, Glendale, AZ",
+    "courses": [
+      {
+        "name": "Desert Mirage",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4190,
+            "par": 62,
+            "rating": 59.2,
+            "slope": 89
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4190,
+            "par": 65,
+            "rating": 64.2,
+            "slope": 108
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3734,
+            "par": 62,
+            "rating": 57.8,
+            "slope": 83
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3734,
+            "par": 65,
+            "rating": 61.7,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2904,
+            "par": 62,
+            "rating": 55.60556,
+            "slope": 83.03756
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2904,
+            "par": 65,
+            "rating": 55.60556,
+            "slope": 83.03756
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8def88e0-86ac-11e4-8c28-020000005b00/desert-mirage-golf-course"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/6b085380-80e6-11e6-b9cf-0680a328ea36/moraine-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/6b085380-80e6-11e6-b9cf-0680a328ea36/moraine-country-club",
+  "checked_at": 1795524299.2062078,
+  "sha256": "2c5f276d90bf33213ce212fc776735fa91c75e7bd4bfb44e36e31cb20524d0a9",
+  "title": "Moraine Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "6b085380-80e6-11e6-b9cf-0680a328ea36",
+    "name": "Moraine Country Club",
+    "address": "4075 Southern Blvd. Dayton, OH 45429",
+    "courses": [
+      {
+        "name": "Moraine Country Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7270,
+            "par": 72,
+            "rating": 75.7,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6765,
+            "par": 72,
+            "rating": 73,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6280,
+            "par": 72,
+            "rating": 71,
+            "slope": 129
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5266,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/6b085380-80e6-11e6-b9cf-0680a328ea36/moraine-country-club"
+  }
+}

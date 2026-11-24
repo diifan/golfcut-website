@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4ff61d0-86ac-11e4-8c28-020000005b00/wildwood-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4ff61d0-86ac-11e4-8c28-020000005b00/wildwood-golf-course",
+  "checked_at": 1795524807.9681742,
+  "sha256": "14cf8baf106f2d8b3c79379bc0326fa0029bbe359b9752f15fcd40a9ccb49b9a",
+  "title": "Wildwood Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b4ff61d0-86ac-11e4-8c28-020000005b00",
+    "name": "Wildwood Golf Course",
+    "address": "21881 NW St Helens Road, Portland, OR",
+    "courses": [
+      {
+        "name": "Wildwood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5832,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 127
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5832,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5591,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5591,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 133
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4991,
+            "par": 72,
+            "rating": 64.5,
+            "slope": 113
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4991,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4ff61d0-86ac-11e4-8c28-020000005b00/wildwood-golf-course"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b81ddfe0-86ac-11e4-8c28-020000005b00/auburn-hills-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b81ddfe0-86ac-11e4-8c28-020000005b00/auburn-hills-golf-course",
+  "checked_at": 1795524876.9389086,
+  "sha256": "e485ada1aaad3825294ec2de6423b0928ab71c4b6c552ea04b8c2575754ec09b",
+  "title": "Auburn Hills Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b81ddfe0-86ac-11e4-8c28-020000005b00",
+    "name": "Auburn Hills Golf Course",
+    "address": "443 S 135th St W, Wichita, KS",
+    "courses": [
+      {
+        "name": "Auburn Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7169,
+            "par": 72,
+            "rating": 76.4,
+            "slope": 141
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6695,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6068,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5412,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4923,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b81ddfe0-86ac-11e4-8c28-020000005b00/auburn-hills-golf-course"
+  }
+}

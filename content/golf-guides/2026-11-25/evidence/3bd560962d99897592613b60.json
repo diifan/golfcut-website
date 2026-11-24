@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae8535a0-86ac-11e4-8c28-020000005b00/charleston-national",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae8535a0-86ac-11e4-8c28-020000005b00/charleston-national",
+  "checked_at": 1795523949.8658726,
+  "sha256": "81f0b5b751a99f0147b1e7960b12dc5a5dc4d1c85c4d36534d90580ffeb177c1",
+  "title": "Charleston National Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae8535a0-86ac-11e4-8c28-020000005b00",
+    "name": "Charleston National Golf Club",
+    "address": "1360 National Dr, Mount Pleasant, SC",
+    "courses": [
+      {
+        "name": "Charleston National",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Tour Black",
+            "category": "MALE",
+            "yards": 7064,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 146
+          },
+          {
+            "name": "Tour Black",
+            "category": "FEMALE",
+            "yards": 7064,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Champion",
+            "category": "MALE",
+            "yards": 6745,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 142
+          },
+          {
+            "name": "Champion",
+            "category": "FEMALE",
+            "yards": 6745,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Member",
+            "category": "MALE",
+            "yards": 6412,
+            "par": 72,
+            "rating": 71,
+            "slope": 132
+          },
+          {
+            "name": "Member",
+            "category": "FEMALE",
+            "yards": 6412,
+            "par": 72,
+            "rating": 77.4,
+            "slope": 150
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5640,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5640,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 136
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4981,
+            "par": 72,
+            "rating": 65.2,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4981,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae8535a0-86ac-11e4-8c28-020000005b00/charleston-national"
+  }
+}

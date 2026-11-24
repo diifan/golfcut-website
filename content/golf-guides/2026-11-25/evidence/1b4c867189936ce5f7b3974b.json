@@ -1,0 +1,77 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/97e32460-86ac-11e4-8c28-020000005b00/tavistock-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/97e32460-86ac-11e4-8c28-020000005b00/tavistock-country-club",
+  "checked_at": 1795523900.8891559,
+  "sha256": "58f8dcb496b80354840935acd2d1e9bbb8600f925d514f377376bceb6db2f96b",
+  "title": "Tavistock Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "97e32460-86ac-11e4-8c28-020000005b00",
+    "name": "Tavistock Country Club",
+    "address": "Tavistock Ln",
+    "courses": [
+      {
+        "name": "Tavistock",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6823,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 140
+          },
+          {
+            "name": "Black/gold",
+            "category": "MALE",
+            "yards": 6589,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 135
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6348,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 132
+          },
+          {
+            "name": "Gold/blue",
+            "category": "MALE",
+            "yards": 6063,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5888,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 125
+          },
+          {
+            "name": "Blue/white",
+            "category": "MALE",
+            "yards": 5807,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5276,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/97e32460-86ac-11e4-8c28-020000005b00/tavistock-country-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d5089c0-86ac-11e4-8c28-020000005b00/green-acres-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d5089c0-86ac-11e4-8c28-020000005b00/green-acres-golf-course",
+  "checked_at": 1795524011.8035614,
+  "sha256": "8ca9eb7e3395ee0fca0e57ae7b282fd5d1a23aebd29234542538c6a41f297edd",
+  "title": "Green Acres Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8d5089c0-86ac-11e4-8c28-020000005b00",
+    "name": "Green Acres Golf Course",
+    "address": "1300 Greenacres Dr",
+    "courses": [
+      {
+        "name": "Green Acres",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6811,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6339,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5790,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5257,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d5089c0-86ac-11e4-8c28-020000005b00/green-acres-golf-course"
+  }
+}

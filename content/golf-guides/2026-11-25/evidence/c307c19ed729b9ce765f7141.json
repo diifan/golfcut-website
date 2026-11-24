@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ebebfc0-86ac-11e4-8c28-020000005b00/red-reef-executive-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ebebfc0-86ac-11e4-8c28-020000005b00/red-reef-executive-golf-course",
+  "checked_at": 1795524146.812333,
+  "sha256": "5ea0f39300c637110b681eb5eb6a87d92b9ab6219f7865960389986a9b639ca9",
+  "title": "Red Reef Executive Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8ebebfc0-86ac-11e4-8c28-020000005b00",
+    "name": "Red Reef Executive Golf Course",
+    "address": "1111 N Ocean Blvd",
+    "courses": [
+      {
+        "name": "Red Reef Executive",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1356,
+            "par": 32,
+            "rating": 27.98124,
+            "slope": 84.88792
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1187,
+            "par": 32,
+            "rating": 27.21398,
+            "slope": 81.79184
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ebebfc0-86ac-11e4-8c28-020000005b00/red-reef-executive-golf-course"
+  }
+}

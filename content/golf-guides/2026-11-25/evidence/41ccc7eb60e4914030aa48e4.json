@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/82a9a3d0-86ac-11e4-8c28-020000005b00/white-pines-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/82a9a3d0-86ac-11e4-8c28-020000005b00/white-pines-golf-club",
+  "checked_at": 1795523637.4100628,
+  "sha256": "c81c3a32829f29889cac18dfd7eabe71ff8dc163c4762c049f478e39c4bb240c",
+  "title": "White Pines Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "82a9a3d0-86ac-11e4-8c28-020000005b00",
+    "name": "White Pines Golf Club",
+    "address": "500 W. Jefferson Street, Bensenville, IL",
+    "courses": [
+      {
+        "name": "East Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6371,
+            "par": 70,
+            "rating": 71.5,
+            "slope": 129
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6371,
+            "par": 71,
+            "rating": 77.5,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5893,
+            "par": 70,
+            "rating": 69.2,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5893,
+            "par": 71,
+            "rating": 74.8,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5150,
+            "par": 70,
+            "rating": 65.7,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5150,
+            "par": 71,
+            "rating": 70.6,
+            "slope": 120
+          }
+        ]
+      },
+      {
+        "name": "West Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6624,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 129
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6624,
+            "par": 72,
+            "rating": 77.8,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6335,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6335,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 135
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5751,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5751,
+            "par": 72,
+            "rating": 73,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/82a9a3d0-86ac-11e4-8c28-020000005b00/white-pines-golf-club"
+  }
+}

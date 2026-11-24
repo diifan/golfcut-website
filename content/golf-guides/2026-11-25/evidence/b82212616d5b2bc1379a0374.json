@@ -1,0 +1,67 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/963d63a0-86ac-11e4-8c28-020000005b00/detroit-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/963d63a0-86ac-11e4-8c28-020000005b00/detroit-country-club",
+  "checked_at": 1795524868.6869092,
+  "sha256": "cdd50b71b3edc02fb6cc2a2564c950324fd61fe31fae177f67b6d4e2035bb8ae",
+  "title": "Detroit Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "963d63a0-86ac-11e4-8c28-020000005b00",
+    "name": "Detroit Country Club",
+    "address": "24591 County Hwy 22",
+    "courses": [
+      {
+        "name": "Lakeview Executive",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4307,
+            "par": 64,
+            "rating": 60.8,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3986,
+            "par": 64,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      },
+      {
+        "name": "Pine to Palm",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5839,
+            "par": 71,
+            "rating": 67.2,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6106,
+            "par": 71,
+            "rating": 69.5,
+            "slope": 131
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4966,
+            "par": 71,
+            "rating": 64.6,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/963d63a0-86ac-11e4-8c28-020000005b00/detroit-country-club"
+  }
+}

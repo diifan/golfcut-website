@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9cc5e7b0-86ac-11e4-8c28-020000005b00/majestic-springs-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9cc5e7b0-86ac-11e4-8c28-020000005b00/majestic-springs-golf-club",
+  "checked_at": 1795523790.280116,
+  "sha256": "b048581eb094c7fee761ab11459c91a4231e8c633337f4c83b614d184f0730c7",
+  "title": "Majestic Springs Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9cc5e7b0-86ac-11e4-8c28-020000005b00",
+    "name": "Majestic Springs Golf Club",
+    "address": "1631 Todds Fork Road",
+    "courses": [
+      {
+        "name": "Majestic Springs",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6464,
+            "par": 71,
+            "rating": 70.9,
+            "slope": 129
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6464,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5827,
+            "par": 71,
+            "rating": 67.7,
+            "slope": 120
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5827,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5250,
+            "par": 71,
+            "rating": 64.8,
+            "slope": 111
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5250,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4487,
+            "par": 71,
+            "rating": 66,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4487,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9cc5e7b0-86ac-11e4-8c28-020000005b00/majestic-springs-golf-club"
+  }
+}

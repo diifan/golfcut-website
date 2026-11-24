@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/adf5edf0-86ac-11e4-8c28-020000005b00/pinecrest-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/adf5edf0-86ac-11e4-8c28-020000005b00/pinecrest-golf-course",
+  "checked_at": 1795523802.7447097,
+  "sha256": "1886b4a87ceefb2e71fd643da17eef560b8ca1318bede0d93502de1952b79e6f",
+  "title": "Pinecrest Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "adf5edf0-86ac-11e4-8c28-020000005b00",
+    "name": "Pinecrest Golf Course",
+    "address": "1 Pinecrest Way, Bluffton, SC",
+    "courses": [
+      {
+        "name": "Pinecrest",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7089,
+            "par": 72,
+            "rating": 74,
+            "slope": 143
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7089,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6685,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6685,
+            "par": 72,
+            "rating": 77.5,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6079,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6079,
+            "par": 72,
+            "rating": 76,
+            "slope": 140
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5539,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5539,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 135
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5062,
+            "par": 72,
+            "rating": 64.7,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5062,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/adf5edf0-86ac-11e4-8c28-020000005b00/pinecrest-golf-course"
+  }
+}

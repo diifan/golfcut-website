@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9486b2f0-86ac-11e4-8c28-020000005b00/glen-oaks-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9486b2f0-86ac-11e4-8c28-020000005b00/glen-oaks-country-club",
+  "checked_at": 1795523721.678683,
+  "sha256": "acbd696b68b5d537e59ee7bc799734a610ef8e85c4c1ccba2a384ee02da670ae",
+  "title": "Glen Oaks Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9486b2f0-86ac-11e4-8c28-020000005b00",
+    "name": "Glen Oaks Country Club",
+    "address": "10601 Worthington Ln, Prospect, KY",
+    "courses": [
+      {
+        "name": "Glen Oaks",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5444,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 117
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5444,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Bule",
+            "category": "MALE",
+            "yards": 6446,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 136
+          },
+          {
+            "name": "Bule",
+            "category": "FEMALE",
+            "yards": 6446,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5925,
+            "par": 72,
+            "rating": 69,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5925,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4960,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4960,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9486b2f0-86ac-11e4-8c28-020000005b00/glen-oaks-country-club"
+  }
+}

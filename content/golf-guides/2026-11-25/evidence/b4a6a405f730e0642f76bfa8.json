@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b53fc630-86ac-11e4-8c28-020000005b00/pewaukee-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b53fc630-86ac-11e4-8c28-020000005b00/pewaukee-golf-club",
+  "checked_at": 1795524067.9364617,
+  "sha256": "69ecebc51e80571713d1ce5bfe16278bd5a65cbd823f875cb4df1faaca024436",
+  "title": "Pewaukee Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b53fc630-86ac-11e4-8c28-020000005b00",
+    "name": "Pewaukee Golf Club",
+    "address": "N12 W26506 Golf Road, Pewaukee, WI",
+    "courses": [
+      {
+        "name": "Pewaukee",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6376,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 121
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6376,
+            "par": 71,
+            "rating": 75.8,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5962,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5962,
+            "par": 71,
+            "rating": 74.9,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5140,
+            "par": 71,
+            "rating": 65.9,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5140,
+            "par": 71,
+            "rating": 70.5,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b53fc630-86ac-11e4-8c28-020000005b00/pewaukee-golf-club"
+  }
+}

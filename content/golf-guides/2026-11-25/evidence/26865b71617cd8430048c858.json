@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afe95980-86ac-11e4-8c28-020000005b00/heritage-oaks-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afe95980-86ac-11e4-8c28-020000005b00/heritage-oaks-golf-course",
+  "checked_at": 1795524020.536023,
+  "sha256": "2a9536f29e2cea8f35978a0903aaf458d1e1324942e7cee26e6628f762aeb25c",
+  "title": "Heritage Oaks Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "afe95980-86ac-11e4-8c28-020000005b00",
+    "name": "Heritage Oaks Golf Course",
+    "address": "680 Garbers Church Road, Harrisonburg, VA",
+    "courses": [
+      {
+        "name": "Heritage Oaks",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6324,
+            "par": 70,
+            "rating": 70.2,
+            "slope": 129
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5891,
+            "par": 70,
+            "rating": 68.5,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5298,
+            "par": 70,
+            "rating": 66.1,
+            "slope": 118
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4542,
+            "par": 70,
+            "rating": 65.6,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afe95980-86ac-11e4-8c28-020000005b00/heritage-oaks-golf-course"
+  }
+}

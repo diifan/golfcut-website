@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ce88ae0-86ac-11e4-8c28-020000005b00/north-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ce88ae0-86ac-11e4-8c28-020000005b00/north-park-golf-course",
+  "checked_at": 1795524826.7792835,
+  "sha256": "2ffb7412c1bd7ac17777eac482ab34fb77d725c795125e9e32ba63fa1b1531f1",
+  "title": "North Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9ce88ae0-86ac-11e4-8c28-020000005b00",
+    "name": "North Park Golf Course",
+    "address": "10200 Kummer Road Wexford, PA 15090",
+    "courses": [
+      {
+        "name": "North Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6747,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6747,
+            "par": 73,
+            "rating": 78,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6349,
+            "par": 72,
+            "rating": 70,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6349,
+            "par": 73,
+            "rating": 76,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5480,
+            "par": 72,
+            "rating": 64.2,
+            "slope": 108
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5480,
+            "par": 73,
+            "rating": 69.7,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5247,
+            "par": 72,
+            "rating": 63.9,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5247,
+            "par": 73,
+            "rating": 70,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ce88ae0-86ac-11e4-8c28-020000005b00/north-park-golf-course"
+  }
+}

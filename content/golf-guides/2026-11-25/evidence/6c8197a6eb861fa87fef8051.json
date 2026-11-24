@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b90d48f0-86ac-11e4-8c28-020000005b00/waialae-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b90d48f0-86ac-11e4-8c28-020000005b00/waialae-country-club",
+  "checked_at": 1795523745.3973825,
+  "sha256": "3c916399fa1e0e8fbfa22ba1cecfd667481d81a4c1cc4667c17d17e7202b5858",
+  "title": "Waialae Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b90d48f0-86ac-11e4-8c28-020000005b00",
+    "name": "Waialae Country Club",
+    "address": "4997 Kahala Ave, Honolulu, HI",
+    "courses": [
+      {
+        "name": "Wai'alae",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7022,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 141
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7022,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6457,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6457,
+            "par": 72,
+            "rating": 78.6,
+            "slope": 139
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5657,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5657,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5968,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5968,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 134
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b90d48f0-86ac-11e4-8c28-020000005b00/waialae-country-club"
+  }
+}

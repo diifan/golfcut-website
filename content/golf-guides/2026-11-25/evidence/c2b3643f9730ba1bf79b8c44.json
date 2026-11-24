@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d713120-86ac-11e4-8c28-020000005b00/sagamore-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d713120-86ac-11e4-8c28-020000005b00/sagamore-golf",
+  "checked_at": 1795524350.1932483,
+  "sha256": "ead3e2607777ddac2ad9bc41f0710aebef478ed967502514eb8e192b21d6a447",
+  "title": "Sagamore Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d713120-86ac-11e4-8c28-020000005b00",
+    "name": "Sagamore Golf",
+    "address": "10900 Golden Bear Way, Noblesville, IN",
+    "courses": [
+      {
+        "name": "Sagamore",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Professional",
+            "category": "MALE",
+            "yards": 7173,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 144
+          },
+          {
+            "name": "Professional",
+            "category": "FEMALE",
+            "yards": 7173,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6683,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 140
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 6683,
+            "par": 72,
+            "rating": 77.5,
+            "slope": 138
+          },
+          {
+            "name": "Championship/Member",
+            "category": "MALE",
+            "yards": 6398,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 140
+          },
+          {
+            "name": "Championship/Member",
+            "category": "FEMALE",
+            "yards": 6398,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 134
+          },
+          {
+            "name": "Member",
+            "category": "MALE",
+            "yards": 6053,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 139
+          },
+          {
+            "name": "Member",
+            "category": "FEMALE",
+            "yards": 6053,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 146
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5203,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 124
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5203,
+            "par": 72,
+            "rating": 71,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d713120-86ac-11e4-8c28-020000005b00/sagamore-golf"
+  }
+}

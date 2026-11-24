@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/895d2f80-86ac-11e4-8c28-020000005b00/alondra-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/895d2f80-86ac-11e4-8c28-020000005b00/alondra-park-golf-course",
+  "checked_at": 1795523731.1032503,
+  "sha256": "d8146efc93d98c1086adfc20d0d7a1c254989980637b362f8026229fe33c8a96",
+  "title": "Alondra Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "895d2f80-86ac-11e4-8c28-020000005b00",
+    "name": "Alondra Park Golf Course",
+    "address": "16400 S Prairie Ave, Lawndale, CA",
+    "courses": [
+      {
+        "name": "North Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6445,
+            "par": 72,
+            "rating": 70,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6445,
+            "par": 73,
+            "rating": 76.7,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6090,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6090,
+            "par": 73,
+            "rating": 74.6,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5640,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5640,
+            "par": 73,
+            "rating": 72.1,
+            "slope": 118
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 4261,
+            "par": 72,
+            "rating": 60,
+            "slope": 94
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 4261,
+            "par": 73,
+            "rating": 64.3,
+            "slope": 101
+          }
+        ]
+      },
+      {
+        "name": "South Par 3",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Mens",
+            "category": "MALE",
+            "yards": 2204,
+            "par": 54,
+            "rating": 52.3,
+            "slope": 96
+          },
+          {
+            "name": "Mens",
+            "category": "FEMALE",
+            "yards": 2204,
+            "par": 54,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 2204,
+            "par": 54,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ladies",
+            "category": "FEMALE",
+            "yards": 2204,
+            "par": 54,
+            "rating": 53.6,
+            "slope": 98
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/895d2f80-86ac-11e4-8c28-020000005b00/alondra-park-golf-course"
+  }
+}

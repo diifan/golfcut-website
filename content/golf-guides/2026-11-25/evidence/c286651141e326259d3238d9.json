@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a973620-86ac-11e4-8c28-020000005b00/del-paso-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a973620-86ac-11e4-8c28-020000005b00/del-paso-country-club",
+  "checked_at": 1795523910.0502245,
+  "sha256": "6e08352114b21975871ddac20f80d06a24da9c498fdc5da6ad5b5e335557620c",
+  "title": "Del Paso Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a973620-86ac-11e4-8c28-020000005b00",
+    "name": "Del Paso Country Club",
+    "address": "3333 Marconi Ave, Sacramento, CA",
+    "courses": [
+      {
+        "name": "Del Paso",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Thoroughbred",
+            "category": "MALE",
+            "yards": 7121,
+            "par": 71,
+            "rating": 74.1,
+            "slope": 135
+          },
+          {
+            "name": "Conquistador",
+            "category": "MALE",
+            "yards": 6702,
+            "par": 71,
+            "rating": 72.6,
+            "slope": 132
+          },
+          {
+            "name": "Oak",
+            "category": "MALE",
+            "yards": 6237,
+            "par": 71,
+            "rating": 70,
+            "slope": 129
+          },
+          {
+            "name": "Hickory",
+            "category": "MALE",
+            "yards": 5795,
+            "par": 71,
+            "rating": 67.9,
+            "slope": 127
+          },
+          {
+            "name": "Magpie",
+            "category": "MALE",
+            "yards": 5220,
+            "par": 71,
+            "rating": 65.8,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a973620-86ac-11e4-8c28-020000005b00/del-paso-country-club"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8b9a7550-86ac-11e4-8c28-020000005b00/hermann-park",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8b9a7550-86ac-11e4-8c28-020000005b00/hermann-park",
+  "checked_at": 1795523666.865375,
+  "sha256": "24321d7aeca3d018a4a8ef7c2bc37baeb612ce6d59f36912f0ce84a7a6208b44",
+  "title": "Hermann Park - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8b9a7550-86ac-11e4-8c28-020000005b00",
+    "name": "Hermann Park",
+    "address": "2155 N McGregor Way, Houston, TX",
+    "courses": [
+      {
+        "name": "Hermann Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6015,
+            "par": 70,
+            "rating": 69.7,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6015,
+            "par": 70,
+            "rating": 75.5,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5434,
+            "par": 70,
+            "rating": 67,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5434,
+            "par": 70,
+            "rating": 72,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4777,
+            "par": 70,
+            "rating": 64.3,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4777,
+            "par": 70,
+            "rating": 68.4,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4563,
+            "par": 70,
+            "rating": 63.9,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4563,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8b9a7550-86ac-11e4-8c28-020000005b00/hermann-park"
+  }
+}

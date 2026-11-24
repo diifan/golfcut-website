@@ -1,0 +1,107 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a3518f0-86ac-11e4-8c28-020000005b00/swenson-park-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a3518f0-86ac-11e4-8c28-020000005b00/swenson-park-golf-club",
+  "checked_at": 1795523680.5429351,
+  "sha256": "c5bc707ed44fdd1d438bc71ece1147fa258a8d9c66331e1a887e57e7cf7bafb2",
+  "title": "Swenson Park Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a3518f0-86ac-11e4-8c28-020000005b00",
+    "name": "Swenson Park Golf Club",
+    "address": "6803 Alexandria Place, Stockton, CA",
+    "courses": [
+      {
+        "name": "Executive Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Bronze",
+            "category": "MALE",
+            "yards": 1304,
+            "par": 27,
+            "rating": 54.2,
+            "slope": 76
+          },
+          {
+            "name": "Bronze",
+            "category": "FEMALE",
+            "yards": 1304,
+            "par": 27,
+            "rating": 56.2,
+            "slope": 79
+          }
+        ]
+      },
+      {
+        "name": "Championship Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6649,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 123
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6649,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Burgundy",
+            "category": "MALE",
+            "yards": 6374,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 119
+          },
+          {
+            "name": "Burgundy",
+            "category": "FEMALE",
+            "yards": 6374,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 126
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5997,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 116
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5997,
+            "par": 72,
+            "rating": 74,
+            "slope": 123
+          },
+          {
+            "name": "Bronze",
+            "category": "MALE",
+            "yards": 4661,
+            "par": 72,
+            "rating": 62.5,
+            "slope": 98
+          },
+          {
+            "name": "Bronze",
+            "category": "FEMALE",
+            "yards": 4661,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a3518f0-86ac-11e4-8c28-020000005b00/swenson-park-golf-club"
+  }
+}

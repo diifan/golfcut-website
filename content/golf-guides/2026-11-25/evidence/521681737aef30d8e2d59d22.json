@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/33afa170-8f60-11e7-a72f-0680a328ea36/westwynd-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/33afa170-8f60-11e7-a72f-0680a328ea36/westwynd-golf-course",
+  "checked_at": 1795523943.9210403,
+  "sha256": "fc1d709adc89ad72e8e87b9ac040445f2847e961ad4771436b88b51d53c5c003",
+  "title": "Westwynd Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "33afa170-8f60-11e7-a72f-0680a328ea36",
+    "name": "Westwynd Golf Course",
+    "address": "4161 N. Adams Rd. Oakland Township, Michigan 48306",
+    "courses": [
+      {
+        "name": "Westwynd",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6753,
+            "par": 71,
+            "rating": 74,
+            "slope": 142
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6753,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6247,
+            "par": 71,
+            "rating": 71.1,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6247,
+            "par": 71,
+            "rating": 77.2,
+            "slope": 144
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5687,
+            "par": 71,
+            "rating": 68.5,
+            "slope": 127
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5687,
+            "par": 71,
+            "rating": 74.6,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 4799,
+            "par": 71,
+            "rating": 63.9,
+            "slope": 119
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 4799,
+            "par": 71,
+            "rating": 68.6,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/33afa170-8f60-11e7-a72f-0680a328ea36/westwynd-golf-course"
+  }
+}

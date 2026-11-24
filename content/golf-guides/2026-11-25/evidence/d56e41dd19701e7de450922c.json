@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0f2da40-86ac-11e4-8c28-020000005b00/apple-tree-resort",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0f2da40-86ac-11e4-8c28-020000005b00/apple-tree-resort",
+  "checked_at": 1795524310.641913,
+  "sha256": "921a9938c906bfdea28db3fdd1d6e046c4ab511e6fb2c7a1fb323ff7c88eec57",
+  "title": "Apple Tree Resort - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b0f2da40-86ac-11e4-8c28-020000005b00",
+    "name": "Apple Tree Resort",
+    "address": "8804 Occidental Ave.",
+    "courses": [
+      {
+        "name": "Apple Tree",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6961,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 141
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6658,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6311,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5857,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5428,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0f2da40-86ac-11e4-8c28-020000005b00/apple-tree-resort"
+  }
+}

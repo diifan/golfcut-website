@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a2488e0-86ac-11e4-8c28-020000005b00/the-muttontown-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a2488e0-86ac-11e4-8c28-020000005b00/the-muttontown-club",
+  "checked_at": 1795524002.4076319,
+  "sha256": "e02dcb4d37075393e2a5acb8a6f545a5bbeb01d3fc8d844066b835cec92acdf5",
+  "title": "The Muttontown Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9a2488e0-86ac-11e4-8c28-020000005b00",
+    "name": "The Muttontown Club",
+    "address": "5933 Northern Boulevard, East Norwich, NY",
+    "courses": [
+      {
+        "name": "Muttontown",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6134,
+            "par": 71,
+            "rating": 69,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5844,
+            "par": 71,
+            "rating": 67.6,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5541,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 120
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6533,
+            "par": 71,
+            "rating": 70.4,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a2488e0-86ac-11e4-8c28-020000005b00/the-muttontown-club"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/932f8760-86ac-11e4-8c28-020000005b00/peachtree-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/932f8760-86ac-11e4-8c28-020000005b00/peachtree-golf-course",
+  "checked_at": 1795523907.7001214,
+  "sha256": "93abccab4a8b8d7f69e6f799da6a2fd2c7fd0e009d108262297d6d1613d028df",
+  "title": "Peachtree Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "932f8760-86ac-11e4-8c28-020000005b00",
+    "name": "Peachtree Golf Course",
+    "address": "4600 Peachtree Rd NE, Atlanta, GA",
+    "courses": [
+      {
+        "name": "Peachtree",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7414,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 142
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 7414,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Medal",
+            "category": "MALE",
+            "yards": 6659,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 135
+          },
+          {
+            "name": "Medal",
+            "category": "FEMALE",
+            "yards": 6659,
+            "par": 72,
+            "rating": 77.3,
+            "slope": 137
+          },
+          {
+            "name": "Member",
+            "category": "MALE",
+            "yards": 6180,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 131
+          },
+          {
+            "name": "Member",
+            "category": "FEMALE",
+            "yards": 6180,
+            "par": 72,
+            "rating": 76.3,
+            "slope": 139
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5196,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 124
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5196,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/932f8760-86ac-11e4-8c28-020000005b00/peachtree-golf-course"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b545650-86ac-11e4-8c28-020000005b00/carolina-lakes-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b545650-86ac-11e4-8c28-020000005b00/carolina-lakes-golf-course",
+  "checked_at": 1795524860.5410874,
+  "sha256": "1d0de6f9315aafcc7fd75583b7fa700702e262b876ada83a88a46edb03f0807d",
+  "title": "Carolina Lakes Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9b545650-86ac-11e4-8c28-020000005b00",
+    "name": "Carolina Lakes Golf Course",
+    "address": "55 Carolina Lakes Road, Sanford, NC",
+    "courses": [
+      {
+        "name": "Carolina Lakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6400,
+            "par": 70,
+            "rating": 69.7,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6400,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6011,
+            "par": 70,
+            "rating": 67.5,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6011,
+            "par": 70,
+            "rating": 72.8,
+            "slope": 127
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5040,
+            "par": 70,
+            "rating": 63.4,
+            "slope": 106
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5040,
+            "par": 70,
+            "rating": 67.7,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4617,
+            "par": 70,
+            "rating": 61.7,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4617,
+            "par": 70,
+            "rating": 65.2,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b545650-86ac-11e4-8c28-020000005b00/carolina-lakes-golf-course"
+  }
+}

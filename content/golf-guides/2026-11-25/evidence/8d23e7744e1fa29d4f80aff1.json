@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ca15e00-86ac-11e4-8c28-020000005b00/lochinvar-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ca15e00-86ac-11e4-8c28-020000005b00/lochinvar-golf-club",
+  "checked_at": 1795524190.9824936,
+  "sha256": "2ae2591107d66f1e5403e445e77e1295de8535a8f36273cdd6be986bd2532cfb",
+  "title": "Lochinvar Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "8ca15e00-86ac-11e4-8c28-020000005b00",
+    "name": "Lochinvar Golf Club",
+    "address": "2000 Farrell Road. Houston, Houston, TX",
+    "courses": [
+      {
+        "name": "Lochinvar",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 7023,
+            "par": 72,
+            "rating": 74,
+            "slope": 133
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 7023,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6512,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 130
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6512,
+            "par": 72,
+            "rating": 76.5,
+            "slope": 136
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 6051,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 120
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 6051,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 130
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ca15e00-86ac-11e4-8c28-020000005b00/lochinvar-golf-club"
+  }
+}

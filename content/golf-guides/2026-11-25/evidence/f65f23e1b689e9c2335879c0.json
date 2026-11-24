@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b314f6f0-86ac-11e4-8c28-020000005b00/devils-lake-golf-lake",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b314f6f0-86ac-11e4-8c28-020000005b00/devils-lake-golf-lake",
+  "checked_at": 1795524334.6902294,
+  "sha256": "61da5d573c30b115189bca8b7825dca4660e9b065df107784e085a0d4306c0f1",
+  "title": "Devils Lake Golf Lake - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b314f6f0-86ac-11e4-8c28-020000005b00",
+    "name": "Devils Lake Golf Lake",
+    "address": "14600 US 223",
+    "courses": [
+      {
+        "name": "Devils Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6019,
+            "par": 71,
+            "rating": 70.7,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6019,
+            "par": 71,
+            "rating": 73.9,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5200,
+            "par": 71,
+            "rating": 68.6,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5200,
+            "par": 71,
+            "rating": 69.5,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b314f6f0-86ac-11e4-8c28-020000005b00/devils-lake-golf-lake"
+  }
+}

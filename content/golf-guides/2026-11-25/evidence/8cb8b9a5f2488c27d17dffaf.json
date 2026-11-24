@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ae9ada0-86ac-11e4-8c28-020000005b00/catawba-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ae9ada0-86ac-11e4-8c28-020000005b00/catawba-country-club",
+  "checked_at": 1795524177.6330292,
+  "sha256": "d321e721980bd843352fada9107ed5e1a7059297e2c946b28194a63ffb0a827e",
+  "title": "Catawba Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9ae9ada0-86ac-11e4-8c28-020000005b00",
+    "name": "Catawba Country Club",
+    "address": "1154 Country Club Rd, Newton, NC",
+    "courses": [
+      {
+        "name": "Catawba",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6635,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6305,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 123
+          },
+          {
+            "name": "Ross",
+            "category": "MALE",
+            "yards": 6004,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5702,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5124,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ae9ada0-86ac-11e4-8c28-020000005b00/catawba-country-club"
+  }
+}

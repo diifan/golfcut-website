@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/922b36c0-86ac-11e4-8c28-020000005b00/dalton-ranch-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/922b36c0-86ac-11e4-8c28-020000005b00/dalton-ranch-golf-club",
+  "checked_at": 1795524257.97755,
+  "sha256": "0b02471728531c352b3f3280a8fef52de9eee29f73bfe4a9121b780b2ce64330",
+  "title": "Dalton Ranch Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "922b36c0-86ac-11e4-8c28-020000005b00",
+    "name": "Dalton Ranch Golf Club",
+    "address": "589 County Rd 252",
+    "courses": [
+      {
+        "name": "Dalton Ranch",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6934,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 138
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6394,
+            "par": 72,
+            "rating": 71,
+            "slope": 134
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5982,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5539,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/922b36c0-86ac-11e4-8c28-020000005b00/dalton-ranch-golf-club"
+  }
+}

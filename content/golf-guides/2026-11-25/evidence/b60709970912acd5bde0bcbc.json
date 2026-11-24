@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/89292730-86ac-11e4-8c28-020000005b00/knollwood-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/89292730-86ac-11e4-8c28-020000005b00/knollwood-country-club",
+  "checked_at": 1795523710.9458444,
+  "sha256": "ad065e93f247c95f9f4639e521b0567fb3cbb1efaa8e701979689a93c72ce4a4",
+  "title": "Knollwood Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "89292730-86ac-11e4-8c28-020000005b00",
+    "name": "Knollwood Country Club",
+    "address": "12040 Balboa Blvd, Granada Hills, CA",
+    "courses": [
+      {
+        "name": "Knollwood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6373,
+            "par": 72,
+            "rating": 71,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6373,
+            "par": 73,
+            "rating": 75.8,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5963,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5963,
+            "par": 73,
+            "rating": 75.3,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5714,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5714,
+            "par": 73,
+            "rating": 73.5,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/89292730-86ac-11e4-8c28-020000005b00/knollwood-country-club"
+  }
+}

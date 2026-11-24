@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95681240-86ac-11e4-8c28-020000005b00/boston-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95681240-86ac-11e4-8c28-020000005b00/boston-golf-club",
+  "checked_at": 1795524847.389368,
+  "sha256": "a9fc78f16d1f06cebbae0b1bcb1e93a09b38b29f62e15018e7d64f8e763a7ac0",
+  "title": "Boston Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95681240-86ac-11e4-8c28-020000005b00",
+    "name": "Boston Golf Club",
+    "address": "19 Old County Rd, Hingham, MA",
+    "courses": [
+      {
+        "name": "Boston GC",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7062,
+            "par": 71,
+            "rating": 74.8,
+            "slope": 139
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 7062,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6740,
+            "par": 71,
+            "rating": 73.4,
+            "slope": 136
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6740,
+            "par": 71,
+            "rating": 77.8,
+            "slope": 138
+          },
+          {
+            "name": "Member Stake",
+            "category": "MALE",
+            "yards": 6462,
+            "par": 71,
+            "rating": 72.1,
+            "slope": 133
+          },
+          {
+            "name": "Member Stake",
+            "category": "FEMALE",
+            "yards": 6462,
+            "par": 71,
+            "rating": 78.9,
+            "slope": 143
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6279,
+            "par": 71,
+            "rating": 70.6,
+            "slope": 128
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6279,
+            "par": 71,
+            "rating": 76.6,
+            "slope": 134
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4951,
+            "par": 71,
+            "rating": 65,
+            "slope": 116
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 4951,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95681240-86ac-11e4-8c28-020000005b00/boston-golf-club"
+  }
+}

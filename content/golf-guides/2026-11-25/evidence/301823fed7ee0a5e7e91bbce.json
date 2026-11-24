@@ -1,0 +1,295 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98183e20-86ac-11e4-8c28-020000005b00/the-ridgewood-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98183e20-86ac-11e4-8c28-020000005b00/the-ridgewood-country-club",
+  "checked_at": 1795523684.484953,
+  "sha256": "f95d93ecbde84406d2f3412aeb874ce82b3056da85d8e3129ad4f3e9be37efbf",
+  "title": "The Ridgewood Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "98183e20-86ac-11e4-8c28-020000005b00",
+    "name": "The Ridgewood Country Club",
+    "address": "96 W Midland Ave, Paramus, NJ",
+    "courses": [
+      {
+        "name": "Center/East",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7128,
+            "par": 71,
+            "rating": 74.3,
+            "slope": 141
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 7128,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6462,
+            "par": 71,
+            "rating": 72.2,
+            "slope": 137
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6462,
+            "par": 72,
+            "rating": 75.7,
+            "slope": 137
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6001,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 132
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6001,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 126
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5161,
+            "par": 71,
+            "rating": 70.5,
+            "slope": 126
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5161,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 120
+          }
+        ]
+      },
+      {
+        "name": "East/West",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7309,
+            "par": 71,
+            "rating": 75.5,
+            "slope": 143
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 7309,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6563,
+            "par": 71,
+            "rating": 72.5,
+            "slope": 136
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6563,
+            "par": 71,
+            "rating": 75.6,
+            "slope": 136
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6062,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 132
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6062,
+            "par": 71,
+            "rating": 70.7,
+            "slope": 125
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5275,
+            "par": 71,
+            "rating": 70.7,
+            "slope": 125
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5275,
+            "par": 71,
+            "rating": 69.9,
+            "slope": 121
+          }
+        ]
+      },
+      {
+        "name": "West/Center",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7151,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 144
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 7151,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6557,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 138
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6557,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 136
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5981,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 133
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5981,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 127
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5332,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 127
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5332,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 122
+          }
+        ]
+      },
+      {
+        "name": "Championship",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7319,
+            "par": 71,
+            "rating": 77.2,
+            "slope": 146
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 7319,
+            "par": 74,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6738,
+            "par": 71,
+            "rating": 74.1,
+            "slope": 141
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6738,
+            "par": 74,
+            "rating": 77.7,
+            "slope": 138
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6275,
+            "par": 71,
+            "rating": 71.4,
+            "slope": 136
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6275,
+            "par": 74,
+            "rating": 75.9,
+            "slope": 140
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5854,
+            "par": 71,
+            "rating": 73.3,
+            "slope": 133
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5854,
+            "par": 74,
+            "rating": 73,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98183e20-86ac-11e4-8c28-020000005b00/the-ridgewood-country-club"
+  }
+}

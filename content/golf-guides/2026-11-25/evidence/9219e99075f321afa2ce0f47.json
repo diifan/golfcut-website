@@ -1,0 +1,107 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96996650-86ac-11e4-8c28-020000005b00/rush-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96996650-86ac-11e4-8c28-020000005b00/rush-creek-golf-course",
+  "checked_at": 1795524177.876961,
+  "sha256": "3e0b27bce5022359c4d5bcef33440bb1121aa3ce6671215be61f3d82a9e34aa8",
+  "title": "Rush Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96996650-86ac-11e4-8c28-020000005b00",
+    "name": "Rush Creek Golf Course",
+    "address": "7801 County Rd 101",
+    "courses": [
+      {
+        "name": "Rush Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Duncan",
+            "category": "MALE",
+            "yards": 7190,
+            "par": 72,
+            "rating": 75.7,
+            "slope": 149
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6988,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 145
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6520,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 143
+          },
+          {
+            "name": "Combo",
+            "category": "MALE",
+            "yards": 6072,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 138
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5883,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 136
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5228,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 129
+          }
+        ]
+      },
+      {
+        "name": "The Mac Nine",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 855,
+            "par": 27,
+            "rating": 25.3,
+            "slope": 71
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 855,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 640,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 640,
+            "par": 27,
+            "rating": 26.6,
+            "slope": 76
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96996650-86ac-11e4-8c28-020000005b00/rush-creek-golf-course"
+  }
+}

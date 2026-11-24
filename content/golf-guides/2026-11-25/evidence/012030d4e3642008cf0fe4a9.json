@@ -1,0 +1,83 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92ba5760-86ac-11e4-8c28-020000005b00/goodwin-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92ba5760-86ac-11e4-8c28-020000005b00/goodwin-park-golf-course",
+  "checked_at": 1795523862.083975,
+  "sha256": "47cec5ff100702512df8274501392f5c7241b75455aae7bcadb310b78f41f55d",
+  "title": "Goodwin Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "92ba5760-86ac-11e4-8c28-020000005b00",
+    "name": "Goodwin Park Golf Course",
+    "address": "1130 Maple Ave, Hartford, CT",
+    "courses": [
+      {
+        "name": "Goodwin (18)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6015,
+            "par": 70,
+            "rating": 68.3,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6015,
+            "par": 70,
+            "rating": 74.8,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5605,
+            "par": 70,
+            "rating": 66.9,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5605,
+            "par": 70,
+            "rating": 72,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5069,
+            "par": 70,
+            "rating": 63.1,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5069,
+            "par": 70,
+            "rating": 67.4,
+            "slope": 110
+          }
+        ]
+      },
+      {
+        "name": "Goodwin (The North)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2544,
+            "par": 35,
+            "rating": 31.6,
+            "slope": 96
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92ba5760-86ac-11e4-8c28-020000005b00/goodwin-park-golf-course"
+  }
+}

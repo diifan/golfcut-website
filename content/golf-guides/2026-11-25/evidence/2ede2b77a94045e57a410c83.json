@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/e4ec0590-20b6-11e8-aa4b-0680a328ea36/marine-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/e4ec0590-20b6-11e8-aa4b-0680a328ea36/marine-park-golf-course",
+  "checked_at": 1795523676.8081667,
+  "sha256": "3b4118b8cbad673958188e3a24d01b1604ece0b9d019af2d3b586f17c0be7720",
+  "title": "Marine Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "e4ec0590-20b6-11e8-aa4b-0680a328ea36",
+    "name": "Marine Park Golf Course",
+    "address": "2880 Flatbush Ave, Brooklyn, NY",
+    "courses": [
+      {
+        "name": "Marine Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7007,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7007,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6338,
+            "par": 72,
+            "rating": 71,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6338,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5661,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5661,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4754,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4754,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/e4ec0590-20b6-11e8-aa4b-0680a328ea36/marine-park-golf-course"
+  }
+}

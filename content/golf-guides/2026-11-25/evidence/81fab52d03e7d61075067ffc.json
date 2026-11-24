@@ -1,0 +1,417 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/91207d80-86ac-11e4-8c28-020000005b00/lost-city-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/91207d80-86ac-11e4-8c28-020000005b00/lost-city-golf-club",
+  "checked_at": 1795524241.2517645,
+  "sha256": "fcdd72b42b998e76b407efe37b6adaaf9d6c5e5950406b85aec0f30b8e102d73",
+  "title": "Lost City Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "91207d80-86ac-11e4-8c28-020000005b00",
+    "name": "Lost City Golf Club",
+    "address": "301 Orange Tree Dr, Atlantis, FL",
+    "courses": [
+      {
+        "name": "South-North",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7100,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 133
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7100,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6525,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6525,
+            "par": 72,
+            "rating": 76.6,
+            "slope": 136
+          },
+          {
+            "name": "Gold/Blue",
+            "category": "MALE",
+            "yards": 6290,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 127
+          },
+          {
+            "name": "Gold/Blue",
+            "category": "FEMALE",
+            "yards": 6290,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5960,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5960,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 131
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 5790,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 119
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 5790,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5555,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5555,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 126
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5325,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 117
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5325,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4820,
+            "par": 72,
+            "rating": 64,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4820,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 117
+          }
+        ]
+      },
+      {
+        "name": "North-East",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7080,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 135
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7080,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6555,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6555,
+            "par": 72,
+            "rating": 76.8,
+            "slope": 136
+          },
+          {
+            "name": "Gold/Blue",
+            "category": "MALE",
+            "yards": 6325,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 128
+          },
+          {
+            "name": "Gold/Blue",
+            "category": "FEMALE",
+            "yards": 6325,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6050,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6050,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 134
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 5795,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 117
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 5795,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5530,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5530,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 127
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5235,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 114
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5235,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4850,
+            "par": 72,
+            "rating": 63.8,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4850,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 119
+          }
+        ]
+      },
+      {
+        "name": "East-South",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7080,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 135
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7080,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6550,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6550,
+            "par": 72,
+            "rating": 76.7,
+            "slope": 136
+          },
+          {
+            "name": "Gold/Blue",
+            "category": "MALE",
+            "yards": 6285,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 128
+          },
+          {
+            "name": "Gold/Blue",
+            "category": "FEMALE",
+            "yards": 6285,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6020,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6020,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 132
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 5775,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 120
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 5775,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5555,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5555,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 126
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5250,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 117
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5250,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4820,
+            "par": 72,
+            "rating": 64,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4820,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/91207d80-86ac-11e4-8c28-020000005b00/lost-city-golf-club"
+  }
+}

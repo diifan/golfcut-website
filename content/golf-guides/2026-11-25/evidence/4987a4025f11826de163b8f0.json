@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9cb238a0-86ac-11e4-8c28-020000005b00/duck-creek-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9cb238a0-86ac-11e4-8c28-020000005b00/duck-creek-golf-club",
+  "checked_at": 1795524845.630628,
+  "sha256": "90f37e86eb0f23a338fb7d244a45546de2d90799b7e3ea219ac0b4381cb3026d",
+  "title": "Duck Creek Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9cb238a0-86ac-11e4-8c28-020000005b00",
+    "name": "Duck Creek Golf Club",
+    "address": "3351 Newton Tomlinson Rd SW, Warren, OH",
+    "courses": [
+      {
+        "name": "Duck Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5586,
+            "par": 70,
+            "rating": 66.7,
+            "slope": 102
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5443,
+            "par": 70,
+            "rating": 65.1,
+            "slope": 99
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5012,
+            "par": 70,
+            "rating": 67.8,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9cb238a0-86ac-11e4-8c28-020000005b00/duck-creek-golf-club"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a0c3430-86ac-11e4-8c28-020000005b00/tpc-harding-park",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a0c3430-86ac-11e4-8c28-020000005b00/tpc-harding-park",
+  "checked_at": 1795524351.7288022,
+  "sha256": "c6155f3f21bc772364ef9304281d848f8c18b1a5199d4c1cfae5b9f9f53562ec",
+  "title": "TPC Harding Park - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a0c3430-86ac-11e4-8c28-020000005b00",
+    "name": "TPC Harding Park",
+    "address": "99 Harding Rd, San Francisco, CA",
+    "courses": [
+      {
+        "name": "Harding Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7169,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 128
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 7169,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6845,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6845,
+            "par": 73,
+            "rating": 78.3,
+            "slope": 140
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 6575,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 123
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 6575,
+            "par": 73,
+            "rating": 76.9,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6405,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6405,
+            "par": 73,
+            "rating": 76.5,
+            "slope": 135
+          },
+          {
+            "name": "White/Red",
+            "category": "MALE",
+            "yards": 6145,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 121
+          },
+          {
+            "name": "White/Red",
+            "category": "FEMALE",
+            "yards": 6145,
+            "par": 73,
+            "rating": 75.1,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5875,
+            "par": 72,
+            "rating": 68,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5875,
+            "par": 73,
+            "rating": 73.4,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a0c3430-86ac-11e4-8c28-020000005b00/tpc-harding-park"
+  }
+}

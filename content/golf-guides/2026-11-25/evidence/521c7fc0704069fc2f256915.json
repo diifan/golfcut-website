@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/70a0a2b0-86ac-11e4-8c28-020000005b00/north-berwick-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/70a0a2b0-86ac-11e4-8c28-020000005b00/north-berwick-golf-club",
+  "checked_at": 1795524259.9254785,
+  "sha256": "6dd8de02c21b9a2b1f93077bc70ea074e2be8904875941fb9cea2b0fd40e150b",
+  "title": "North Berwick Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "70a0a2b0-86ac-11e4-8c28-020000005b00",
+    "name": "North Berwick Golf Club",
+    "address": "New Club House, Beach Rd, North Berwick",
+    "courses": [
+      {
+        "name": "The North Berwick",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6506,
+            "par": 71,
+            "rating": 74.6,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6506,
+            "par": 74,
+            "rating": 76.5,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6140,
+            "par": 71,
+            "rating": 72.9,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6140,
+            "par": 74,
+            "rating": 76.4,
+            "slope": 138
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5737,
+            "par": 71,
+            "rating": 71.1,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5737,
+            "par": 74,
+            "rating": 74,
+            "slope": 134
+          }
+        ]
+      },
+      {
+        "name": "Par 3 Children's Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 891,
+            "par": 27,
+            "rating": 25.87014,
+            "slope": 76.36912
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 891,
+            "par": 27,
+            "rating": 25.87014,
+            "slope": 76.36912
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/70a0a2b0-86ac-11e4-8c28-020000005b00/north-berwick-golf-club"
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3ae50c0-86ac-11e4-8c28-020000005b00/walnut-creek-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3ae50c0-86ac-11e4-8c28-020000005b00/walnut-creek-country-club",
+  "checked_at": 1795523675.9038217,
+  "sha256": "d97446f7739f48cad151d83d991d8b2fec6d8b261739d571c98fd2eacb2933c7",
+  "title": "Walnut Creek Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b3ae50c0-86ac-11e4-8c28-020000005b00",
+    "name": "Walnut Creek Country Club",
+    "address": "25501 Johns Rd, South Lyon, MI",
+    "courses": [
+      {
+        "name": "North/South",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7114,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 134
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7114,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6744,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6744,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6429,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6429,
+            "par": 72,
+            "rating": 77.6,
+            "slope": 141
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5996,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5996,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 135
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5285,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 111
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5285,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 126
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4314,
+            "par": 72,
+            "rating": 61.3,
+            "slope": 102
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4314,
+            "par": 72,
+            "rating": 66,
+            "slope": 113
+          }
+        ]
+      },
+      {
+        "name": "South/West",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7002,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 132
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7002,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6735,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6735,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6362,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6362,
+            "par": 72,
+            "rating": 76.8,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5958,
+            "par": 72,
+            "rating": 64.8,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5958,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 133
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5208,
+            "par": 72,
+            "rating": 64.8,
+            "slope": 111
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5208,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 125
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4402,
+            "par": 72,
+            "rating": 61.2,
+            "slope": 102
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4402,
+            "par": 72,
+            "rating": 65.6,
+            "slope": 114
+          }
+        ]
+      },
+      {
+        "name": "West/North",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7210,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 135
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7210,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6843,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6843,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6489,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6489,
+            "par": 72,
+            "rating": 78,
+            "slope": 142
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6028,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6028,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 137
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5345,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 111
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5345,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 127
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4546,
+            "par": 72,
+            "rating": 61.9,
+            "slope": 102
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4546,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3ae50c0-86ac-11e4-8c28-020000005b00/walnut-creek-country-club"
+  }
+}

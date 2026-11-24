@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/961a9960-86ac-11e4-8c28-020000005b00/dwan-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/961a9960-86ac-11e4-8c28-020000005b00/dwan-golf-club",
+  "checked_at": 1795524850.5002835,
+  "sha256": "d9f1ea2266ddbee961c16b38dd63281d9c53e5c99310279fb4f12b109d71f6fc",
+  "title": "Dwan Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "961a9960-86ac-11e4-8c28-020000005b00",
+    "name": "Dwan Golf Club",
+    "address": "3301 W 110th Street, Bloomington, MN",
+    "courses": [
+      {
+        "name": "Dwan",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Woods",
+            "category": "MALE",
+            "yards": 5485,
+            "par": 68,
+            "rating": 66,
+            "slope": 120
+          },
+          {
+            "name": "Woods",
+            "category": "FEMALE",
+            "yards": 5485,
+            "par": 68,
+            "rating": 71.2,
+            "slope": 124
+          },
+          {
+            "name": "Bluff",
+            "category": "MALE",
+            "yards": 5240,
+            "par": 68,
+            "rating": 64.9,
+            "slope": 117
+          },
+          {
+            "name": "Bluff",
+            "category": "FEMALE",
+            "yards": 5240,
+            "par": 68,
+            "rating": 69.8,
+            "slope": 121
+          },
+          {
+            "name": "Valley",
+            "category": "MALE",
+            "yards": 4635,
+            "par": 68,
+            "rating": 62.4,
+            "slope": 113
+          },
+          {
+            "name": "Valley",
+            "category": "FEMALE",
+            "yards": 4635,
+            "par": 68,
+            "rating": 66.5,
+            "slope": 114
+          },
+          {
+            "name": "River",
+            "category": "MALE",
+            "yards": 3885,
+            "par": 68,
+            "rating": 60.3,
+            "slope": 109
+          },
+          {
+            "name": "River",
+            "category": "FEMALE",
+            "yards": 3885,
+            "par": 68,
+            "rating": 62.2,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/961a9960-86ac-11e4-8c28-020000005b00/dwan-golf-club"
+  }
+}

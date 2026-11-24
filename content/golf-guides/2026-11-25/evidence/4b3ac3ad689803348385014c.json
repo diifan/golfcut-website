@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9772d660-86ac-11e4-8c28-020000005b00/chimera-golf-club-at-tuscany",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9772d660-86ac-11e4-8c28-020000005b00/chimera-golf-club-at-tuscany",
+  "checked_at": 1795524283.9098086,
+  "sha256": "c9b19e5ef02448daff3c27840d424707bedc4c7e8c5705d7d2a4a41aa09a2660",
+  "title": "Chimera Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9772d660-86ac-11e4-8c28-020000005b00",
+    "name": "Chimera Golf Club",
+    "address": "901 Olivia Parkway Henderson, NV",
+    "courses": [
+      {
+        "name": "Chimera",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Pegasus",
+            "category": "MALE",
+            "yards": 6757,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 128
+          },
+          {
+            "name": "Pegasus",
+            "category": "FEMALE",
+            "yards": 6757,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Serpent",
+            "category": "MALE",
+            "yards": 6359,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 125
+          },
+          {
+            "name": "Serpent",
+            "category": "FEMALE",
+            "yards": 6359,
+            "par": 72,
+            "rating": 76.7,
+            "slope": 138
+          },
+          {
+            "name": "Goat",
+            "category": "MALE",
+            "yards": 5897,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 120
+          },
+          {
+            "name": "Goat",
+            "category": "FEMALE",
+            "yards": 5897,
+            "par": 72,
+            "rating": 74,
+            "slope": 132
+          },
+          {
+            "name": "Goat/Lion",
+            "category": "MALE",
+            "yards": 5358,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 107
+          },
+          {
+            "name": "Goat/Lion",
+            "category": "FEMALE",
+            "yards": 5358,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 125
+          },
+          {
+            "name": "Lion",
+            "category": "MALE",
+            "yards": 5230,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 106
+          },
+          {
+            "name": "Lion",
+            "category": "FEMALE",
+            "yards": 5230,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9772d660-86ac-11e4-8c28-020000005b00/chimera-golf-club-at-tuscany"
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/89e09050-86ac-11e4-8c28-020000005b00/mission-hills-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/89e09050-86ac-11e4-8c28-020000005b00/mission-hills-country-club",
+  "checked_at": 1795523687.0034125,
+  "sha256": "dab7756e0b1b8a33b7e5a19ed365eb34f9dea42394b1abe4d15363efc3049d97",
+  "title": "Mission Hills Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "89e09050-86ac-11e4-8c28-020000005b00",
+    "name": "Mission Hills Country Club",
+    "address": "34-600 Mission Hills Dr, Rancho Mirage, CA",
+    "courses": [
+      {
+        "name": "Arnold Palmer",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6805,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6805,
+            "par": 72,
+            "rating": 78.1,
+            "slope": 139
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6499,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6499,
+            "par": 72,
+            "rating": 76.5,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6137,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6137,
+            "par": 72,
+            "rating": 75.7,
+            "slope": 136
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5834,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 120
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5834,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5482,
+            "par": 72,
+            "rating": 66.9,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5482,
+            "par": 72,
+            "rating": 72,
+            "slope": 127
+          }
+        ]
+      },
+      {
+        "name": "Dinah Shore",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7250,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 140
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7250,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6906,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6906,
+            "par": 72,
+            "rating": 78.6,
+            "slope": 140
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6355,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6355,
+            "par": 72,
+            "rating": 76.4,
+            "slope": 137
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5990,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 124
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5990,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 136
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5679,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5679,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 132
+          },
+          {
+            "name": "KNC",
+            "category": "MALE",
+            "yards": 6557,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 133
+          },
+          {
+            "name": "KNC",
+            "category": "FEMALE",
+            "yards": 6557,
+            "par": 72,
+            "rating": 78.3,
+            "slope": 141
+          }
+        ]
+      },
+      {
+        "name": "Pete Dye ",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6975,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 143
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6975,
+            "par": 72,
+            "rating": 79,
+            "slope": 141
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6568,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6568,
+            "par": 72,
+            "rating": 76.8,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6065,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6065,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 142
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5540,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 122
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5540,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5079,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5079,
+            "par": 72,
+            "rating": 70,
+            "slope": 125
+          },
+          {
+            "name": "Combo",
+            "category": "MALE",
+            "yards": 6306,
+            "par": 72,
+            "rating": 71,
+            "slope": 134
+          },
+          {
+            "name": "Combo",
+            "category": "FEMALE",
+            "yards": 6306,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 133
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/89e09050-86ac-11e4-8c28-020000005b00/mission-hills-country-club"
+  }
+}

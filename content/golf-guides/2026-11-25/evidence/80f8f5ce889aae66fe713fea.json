@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b7832680-86ac-11e4-8c28-020000005b00/toad-valley-public-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b7832680-86ac-11e4-8c28-020000005b00/toad-valley-public-golf-course",
+  "checked_at": 1795523843.7224813,
+  "sha256": "2d22dc974c831eea5b94480cf45419207057b9ef960966581dc0c626324c9f91",
+  "title": "Toad Valley Public Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b7832680-86ac-11e4-8c28-020000005b00",
+    "name": "Toad Valley Public Golf Course",
+    "address": "237 NE 80th St, Pleasant Hill, IA",
+    "courses": [
+      {
+        "name": "Toad Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6232,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6232,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5985,
+            "par": 71,
+            "rating": 68.7,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5985,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5158,
+            "par": 71,
+            "rating": 65,
+            "slope": 102
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5158,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4911,
+            "par": 71,
+            "rating": 63.7,
+            "slope": 99
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4911,
+            "par": 71,
+            "rating": 68.4,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b7832680-86ac-11e4-8c28-020000005b00/toad-valley-public-golf-course"
+  }
+}

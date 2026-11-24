@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b6dd1c0-86ac-11e4-8c28-020000005b00/shale-creek-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b6dd1c0-86ac-11e4-8c28-020000005b00/shale-creek-golf-club",
+  "checked_at": 1795524066.9572523,
+  "sha256": "810135208d9075c0977a4d1b68d712c7878f3b0ed1c9c626f5dde046b21a6798",
+  "title": "Shale Creek Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9b6dd1c0-86ac-11e4-8c28-020000005b00",
+    "name": "Shale Creek Golf Club",
+    "address": "5420 Wolff Rd., Medina, OH",
+    "courses": [
+      {
+        "name": "Shale Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7026,
+            "par": 71,
+            "rating": 73.5,
+            "slope": 134
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6652,
+            "par": 71,
+            "rating": 71.6,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6338,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5913,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 120
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5043,
+            "par": 71,
+            "rating": 64.1,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b6dd1c0-86ac-11e4-8c28-020000005b00/shale-creek-golf-club"
+  }
+}

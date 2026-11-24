@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2699bc0-86ac-11e4-8c28-020000005b00/tpc-michigan",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2699bc0-86ac-11e4-8c28-020000005b00/tpc-michigan",
+  "checked_at": 1795523895.192915,
+  "sha256": "ede9e0ab215678047d3a10ab38fe1e22ad024d08c119c257f51d38f3dacbc3a8",
+  "title": "TPC Michigan - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b2699bc0-86ac-11e4-8c28-020000005b00",
+    "name": "TPC Michigan",
+    "address": "1 Nicklaus Dr, Dearborn, MI",
+    "courses": [
+      {
+        "name": "Tournament Players",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Tpc",
+            "category": "MALE",
+            "yards": 7019,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 148
+          },
+          {
+            "name": "Tpc",
+            "category": "FEMALE",
+            "yards": 7019,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6520,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 145
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6520,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6103,
+            "par": 72,
+            "rating": 70,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6103,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 142
+          },
+          {
+            "name": "White/Green",
+            "category": "MALE",
+            "yards": 5517,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 130
+          },
+          {
+            "name": "White/Green",
+            "category": "FEMALE",
+            "yards": 5517,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 142
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2699bc0-86ac-11e4-8c28-020000005b00/tpc-michigan"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/add87ae0-86ac-11e4-8c28-020000005b00/saxon-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/add87ae0-86ac-11e4-8c28-020000005b00/saxon-golf-course",
+  "checked_at": 1795523876.7629032,
+  "sha256": "188754797739996d23b68d11c64956ad00166e4c7ea84e4ef2951949c91c0052",
+  "title": "Saxon Golf Course  - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "add87ae0-86ac-11e4-8c28-020000005b00",
+    "name": "Saxon Golf Course ",
+    "address": "839 Ekastown Rd. Sarver, PA 16055",
+    "courses": [
+      {
+        "name": "Old Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6178,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6178,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6636,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6636,
+            "par": 72,
+            "rating": 77.2,
+            "slope": 137
+          },
+          {
+            "name": "Red/Gold",
+            "category": "MALE",
+            "yards": 5131,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 117
+          },
+          {
+            "name": "Red/Gold",
+            "category": "FEMALE",
+            "yards": 5131,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 113
+          }
+        ]
+      },
+      {
+        "name": "9 Holes East Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2124,
+            "par": 34,
+            "rating": 30.4,
+            "slope": 90
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2124,
+            "par": 34,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1801,
+            "par": 34,
+            "rating": 29.2,
+            "slope": 86
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1801,
+            "par": 34,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/add87ae0-86ac-11e4-8c28-020000005b00/saxon-golf-course"
+  }
+}

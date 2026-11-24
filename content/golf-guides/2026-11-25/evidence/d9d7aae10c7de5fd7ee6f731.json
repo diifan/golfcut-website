@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8cb7cc30-86ac-11e4-8c28-020000005b00/tour-18-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8cb7cc30-86ac-11e4-8c28-020000005b00/tour-18-golf-course",
+  "checked_at": 1795523697.6251645,
+  "sha256": "9e8d9fc092af5012bb6dad3471a5f28b6d82dd3d9cc7115239aaa35e4eb1af18",
+  "title": "Tour 18 Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8cb7cc30-86ac-11e4-8c28-020000005b00",
+    "name": "Tour 18 Golf Course",
+    "address": "3102 FM 1960 East, Humble, TX",
+    "courses": [
+      {
+        "name": "Tour 18",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6782,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 137
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6782,
+            "par": 72,
+            "rating": 79.3,
+            "slope": 143
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6302,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6302,
+            "par": 72,
+            "rating": 76.6,
+            "slope": 136
+          },
+          {
+            "name": "Tour 18 Combo",
+            "category": "MALE",
+            "yards": 6064,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 125
+          },
+          {
+            "name": "Tour 18 Combo",
+            "category": "FEMALE",
+            "yards": 6064,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5380,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5380,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8cb7cc30-86ac-11e4-8c28-020000005b00/tour-18-golf-course"
+  }
+}

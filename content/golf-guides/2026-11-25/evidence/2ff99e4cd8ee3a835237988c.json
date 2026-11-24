@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9c4b210-86ac-11e4-8c28-020000005b00/beaver-meadow-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9c4b210-86ac-11e4-8c28-020000005b00/beaver-meadow-golf-course",
+  "checked_at": 1795524346.6857657,
+  "sha256": "262b5e1f91b51c88c7b53aeac509b020cc1ac272cf56785592f971cc6b65b045",
+  "title": "Beaver Meadow Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b9c4b210-86ac-11e4-8c28-020000005b00",
+    "name": "Beaver Meadow Golf Course",
+    "address": "1 Beaver Meadow Dr, Concord, NH",
+    "courses": [
+      {
+        "name": "Beaver Meadow",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6364,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6364,
+            "par": 72,
+            "rating": 75.7,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6034,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6034,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5519,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5519,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9c4b210-86ac-11e4-8c28-020000005b00/beaver-meadow-golf-course"
+  }
+}

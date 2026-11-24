@@ -1,0 +1,107 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0b2eb10-86ac-11e4-8c28-020000005b00/battle-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0b2eb10-86ac-11e4-8c28-020000005b00/battle-creek-golf-course",
+  "checked_at": 1795524898.4103358,
+  "sha256": "fea307f807f327c1a904f50a88e3bbfcd58f1ee32bbf8f89a8feb38531705cf3",
+  "title": "Battle Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b0b2eb10-86ac-11e4-8c28-020000005b00",
+    "name": "Battle Creek Golf Course",
+    "address": "6006 Meridian Ave N, Marysville, WA",
+    "courses": [
+      {
+        "name": "Battle Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5509,
+            "par": 73,
+            "rating": 66.5,
+            "slope": 114
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5509,
+            "par": 73,
+            "rating": 71.8,
+            "slope": 123
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6590,
+            "par": 73,
+            "rating": 71.6,
+            "slope": 132
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6590,
+            "par": 73,
+            "rating": 71.6,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6153,
+            "par": 73,
+            "rating": 69.4,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6153,
+            "par": 73,
+            "rating": 69.4,
+            "slope": 124
+          },
+          {
+            "name": "Copper",
+            "category": "MALE",
+            "yards": 4979,
+            "par": 73,
+            "rating": 65.4,
+            "slope": 109
+          },
+          {
+            "name": "Copper",
+            "category": "FEMALE",
+            "yards": 4979,
+            "par": 73,
+            "rating": 70.4,
+            "slope": 118
+          }
+        ]
+      },
+      {
+        "name": "Par 3 ",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 1113,
+            "par": 27,
+            "rating": 26.87802,
+            "slope": 80.43616
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 1113,
+            "par": 27,
+            "rating": 26.87802,
+            "slope": 80.43616
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0b2eb10-86ac-11e4-8c28-020000005b00/battle-creek-golf-course"
+  }
+}

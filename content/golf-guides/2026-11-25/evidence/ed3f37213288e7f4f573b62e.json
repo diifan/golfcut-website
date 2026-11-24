@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae8ef9a0-86ac-11e4-8c28-020000005b00/blackmoor-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae8ef9a0-86ac-11e4-8c28-020000005b00/blackmoor-golf-club",
+  "checked_at": 1795524113.531187,
+  "sha256": "c4b74421e57988b8d3bdd68986b9d3a001ed62c2ddc26905c0b79da1c4081ca5",
+  "title": "Blackmoor Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae8ef9a0-86ac-11e4-8c28-020000005b00",
+    "name": "Blackmoor Golf Club",
+    "address": "6100 Longwood Drive, Murrells Inlet, SC",
+    "courses": [
+      {
+        "name": "Blackmoor",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6372,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 128
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6372,
+            "par": 71,
+            "rating": 75.8,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5945,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5945,
+            "par": 71,
+            "rating": 73.5,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5556,
+            "par": 71,
+            "rating": 67.3,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5556,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4558,
+            "par": 71,
+            "rating": 65.7,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4558,
+            "par": 71,
+            "rating": 66.1,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae8ef9a0-86ac-11e4-8c28-020000005b00/blackmoor-golf-club"
+  }
+}

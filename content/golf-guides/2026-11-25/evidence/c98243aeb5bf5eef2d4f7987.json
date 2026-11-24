@@ -1,0 +1,363 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a3774a0-86ac-11e4-8c28-020000005b00/carmel-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a3774a0-86ac-11e4-8c28-020000005b00/carmel-country-club",
+  "checked_at": 1795524181.8596306,
+  "sha256": "43d0a16319ead83889c2ea10bcd3fa5418e5e675b92a216e8ed7eee538d724c0",
+  "title": "Carmel Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9a3774a0-86ac-11e4-8c28-020000005b00",
+    "name": "Carmel Country Club",
+    "address": "4735 Carmel Rd, Charlotte, NC",
+    "courses": [
+      {
+        "name": "Carmel (North)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6807,
+            "par": 71,
+            "rating": 73.3,
+            "slope": 140
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6807,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6571,
+            "par": 71,
+            "rating": 71.9,
+            "slope": 137
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6571,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black/Gold",
+            "category": "MALE",
+            "yards": 6173,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black/Gold",
+            "category": "FEMALE",
+            "yards": 6173,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 6807,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 6807,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6173,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6173,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold/Blue",
+            "category": "MALE",
+            "yards": 5096,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold/Blue",
+            "category": "FEMALE",
+            "yards": 5096,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5700,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5700,
+            "par": 71,
+            "rating": 73.9,
+            "slope": 136
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5257,
+            "par": 71,
+            "rating": 65.9,
+            "slope": 120
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5257,
+            "par": 71,
+            "rating": 70.8,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4732,
+            "par": 71,
+            "rating": 63.5,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4732,
+            "par": 71,
+            "rating": 67.7,
+            "slope": 122
+          },
+          {
+            "name": "Purple",
+            "category": "MALE",
+            "yards": 4128,
+            "par": 71,
+            "rating": 61.7,
+            "slope": 107
+          },
+          {
+            "name": "Purple",
+            "category": "FEMALE",
+            "yards": 4128,
+            "par": 71,
+            "rating": 64.4,
+            "slope": 116
+          }
+        ]
+      },
+      {
+        "name": "Carmel (South)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7440,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 141
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7440,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7149,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 138
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7149,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black/Gold",
+            "category": "MALE",
+            "yards": 7247,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 139
+          },
+          {
+            "name": "Black/Gold",
+            "category": "FEMALE",
+            "yards": 7247,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 6514,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 129
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 6514,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6687,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6687,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold/Blue",
+            "category": "MALE",
+            "yards": 6931,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 135
+          },
+          {
+            "name": "Gold/Blue",
+            "category": "FEMALE",
+            "yards": 6931,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6265,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6265,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 140
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5531,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 117
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5531,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5234,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5234,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 123
+          },
+          {
+            "name": "Purple",
+            "category": "MALE",
+            "yards": 4648,
+            "par": 72,
+            "rating": 63,
+            "slope": 111
+          },
+          {
+            "name": "Purple",
+            "category": "FEMALE",
+            "yards": 4648,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 117
+          },
+          {
+            "name": "White/Green",
+            "category": "MALE",
+            "yards": 5969,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 123
+          },
+          {
+            "name": "White/Green",
+            "category": "FEMALE",
+            "yards": 5969,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 135
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a3774a0-86ac-11e4-8c28-020000005b00/carmel-country-club"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c6f0360-86ac-11e4-8c28-020000005b00/crystal-falls-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c6f0360-86ac-11e4-8c28-020000005b00/crystal-falls-golf-club",
+  "checked_at": 1795524157.8533325,
+  "sha256": "327bc548d44b7651da4f3906fe298cec69b47e1a5e8c3a8497cf19466e41bc39",
+  "title": "Crystal Falls Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8c6f0360-86ac-11e4-8c28-020000005b00",
+    "name": "Crystal Falls Golf Club",
+    "address": "3400 Crystal Falls Parkway, Leander, TX",
+    "courses": [
+      {
+        "name": "Crystal Falls",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6654,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6654,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6189,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6189,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 134
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5479,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 125
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5479,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5007,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5007,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c6f0360-86ac-11e4-8c28-020000005b00/crystal-falls-golf-club"
+  }
+}

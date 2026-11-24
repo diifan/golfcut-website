@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/841827f0-86ac-11e4-8c28-020000005b00/bliss-creek-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/841827f0-86ac-11e4-8c28-020000005b00/bliss-creek-golf-club",
+  "checked_at": 1795524852.0733418,
+  "sha256": "91ffc208f68899d42e526198addc69403b08bdc6392d7732435f5a0846200655",
+  "title": "Bliss Creek Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "841827f0-86ac-11e4-8c28-020000005b00",
+    "name": "Bliss Creek Golf Club",
+    "address": "1 Golfview Lane, Sugar Grove, IL",
+    "courses": [
+      {
+        "name": "Bliss Creek Golf Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5638,
+            "par": 70,
+            "rating": 67.7,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5638,
+            "par": 70,
+            "rating": 72.6,
+            "slope": 127
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5313,
+            "par": 70,
+            "rating": 66.2,
+            "slope": 116
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5313,
+            "par": 70,
+            "rating": 70.7,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4712,
+            "par": 70,
+            "rating": 63.2,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4712,
+            "par": 70,
+            "rating": 67.1,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/841827f0-86ac-11e4-8c28-020000005b00/bliss-creek-golf-club"
+  }
+}

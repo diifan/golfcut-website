@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/887f0480-86ac-11e4-8c28-020000005b00/crane-creek",
+  "resolved_url": "https://18birdies.com/golf-courses/club/887f0480-86ac-11e4-8c28-020000005b00/crane-creek",
+  "checked_at": 1795524338.551782,
+  "sha256": "d5c4323abb07f0d660206ced60bd24ce534faabda19465558eb1c3114f7e34aa",
+  "title": "Crane Creek - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "887f0480-86ac-11e4-8c28-020000005b00",
+    "name": "Crane Creek",
+    "address": "24205 E CR 700N, Kilbourne, IL",
+    "courses": [
+      {
+        "name": "Crane Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7390,
+            "par": 72,
+            "rating": 75,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6793,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6282,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 125
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5388,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5259,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/887f0480-86ac-11e4-8c28-020000005b00/crane-creek"
+  }
+}

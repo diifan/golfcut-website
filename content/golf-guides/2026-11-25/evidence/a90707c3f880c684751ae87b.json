@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9bc17000-86ac-11e4-8c28-020000005b00/worthington-hills-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9bc17000-86ac-11e4-8c28-020000005b00/worthington-hills-country-club",
+  "checked_at": 1795524158.201826,
+  "sha256": "e277c12b8b6d90880b93fb483ccea6b5b8426df2616145eea8bd64141f890510",
+  "title": "Worthington Hills Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9bc17000-86ac-11e4-8c28-020000005b00",
+    "name": "Worthington Hills Country Club",
+    "address": "920 Clubview Blvd S, Columbus, OH",
+    "courses": [
+      {
+        "name": "Worthington Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6803,
+            "par": 71,
+            "rating": 73.3,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6430,
+            "par": 71,
+            "rating": 71.6,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6005,
+            "par": 71,
+            "rating": 69.5,
+            "slope": 131
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5408,
+            "par": 71,
+            "rating": 66.8,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5188,
+            "par": 71,
+            "rating": 68.6,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9bc17000-86ac-11e4-8c28-020000005b00/worthington-hills-country-club"
+  }
+}

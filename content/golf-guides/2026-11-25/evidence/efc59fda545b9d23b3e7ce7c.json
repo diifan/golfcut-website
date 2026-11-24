@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/89ff62f0-86ac-11e4-8c28-020000005b00/talega-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/89ff62f0-86ac-11e4-8c28-020000005b00/talega-golf-club",
+  "checked_at": 1795523681.7999437,
+  "sha256": "fb10682179c92e8921f73cea2b8aa2569d501529ce26290c427837aa7f4a8f53",
+  "title": "Talega Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "89ff62f0-86ac-11e4-8c28-020000005b00",
+    "name": "Talega Golf Club",
+    "address": "990 Avenida Talega, San Clemente, CA",
+    "courses": [
+      {
+        "name": "Talega",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Copper",
+            "category": "MALE",
+            "yards": 6951,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 135
+          },
+          {
+            "name": "Copper",
+            "category": "FEMALE",
+            "yards": 6951,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6583,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6583,
+            "par": 72,
+            "rating": 78,
+            "slope": 140
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6187,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6187,
+            "par": 72,
+            "rating": 75.6,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5245,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5245,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/89ff62f0-86ac-11e4-8c28-020000005b00/talega-golf-club"
+  }
+}

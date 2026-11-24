@@ -1,0 +1,551 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c34e090-86ac-11e4-8c28-020000005b00/sugar-creek-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c34e090-86ac-11e4-8c28-020000005b00/sugar-creek-country-club",
+  "checked_at": 1795524049.8451574,
+  "sha256": "5dc4faa39fadf3c410aeb046a3ab521ce9d5ac221473fe63e3a18f149dd5568e",
+  "title": "Sugar Creek Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8c34e090-86ac-11e4-8c28-020000005b00",
+    "name": "Sugar Creek Country Club",
+    "address": "2400 Country Club Drive, Sugar Land, TX",
+    "courses": [
+      {
+        "name": "Trent Front / Jones Back",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7016,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 135
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 7016,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Championship / Back",
+            "category": "MALE",
+            "yards": 6657,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 132
+          },
+          {
+            "name": "Championship / Back",
+            "category": "FEMALE",
+            "yards": 6657,
+            "par": 72,
+            "rating": 77.3,
+            "slope": 137
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6433,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 131
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6433,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 135
+          },
+          {
+            "name": "Back / Middle",
+            "category": "MALE",
+            "yards": 6164,
+            "par": 72,
+            "rating": 70,
+            "slope": 130
+          },
+          {
+            "name": "Back / Middle",
+            "category": "FEMALE",
+            "yards": 6164,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 132
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5984,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 127
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5984,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 132
+          },
+          {
+            "name": "Middle / Forward",
+            "category": "MALE",
+            "yards": 5655,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 123
+          },
+          {
+            "name": "Middle / Forward",
+            "category": "FEMALE",
+            "yards": 5655,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 131
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5405,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 120
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5405,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 125
+          },
+          {
+            "name": "Short",
+            "category": "MALE",
+            "yards": 4212,
+            "par": 72,
+            "rating": 60.3,
+            "slope": 107
+          },
+          {
+            "name": "Short",
+            "category": "FEMALE",
+            "yards": 4212,
+            "par": 72,
+            "rating": 62.3,
+            "slope": 108
+          }
+        ]
+      },
+      {
+        "name": "Robert Front / Jones Back",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6886,
+            "par": 72,
+            "rating": 74,
+            "slope": 133
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 6886,
+            "par": 72,
+            "rating": 78.5,
+            "slope": 140
+          },
+          {
+            "name": "Championship / Back",
+            "category": "MALE",
+            "yards": 6592,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 132
+          },
+          {
+            "name": "Championship / Back",
+            "category": "FEMALE",
+            "yards": 6592,
+            "par": 72,
+            "rating": 77,
+            "slope": 137
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6326,
+            "par": 72,
+            "rating": 71,
+            "slope": 129
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6326,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 133
+          },
+          {
+            "name": "Back / Middle",
+            "category": "MALE",
+            "yards": 6017,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 128
+          },
+          {
+            "name": "Back / Middle",
+            "category": "FEMALE",
+            "yards": 6017,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 130
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5852,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 127
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5852,
+            "par": 72,
+            "rating": 75.7,
+            "slope": 137
+          },
+          {
+            "name": "Middle / Forward",
+            "category": "MALE",
+            "yards": 5563,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 123
+          },
+          {
+            "name": "Middle / Forward",
+            "category": "FEMALE",
+            "yards": 5563,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 131
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5346,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 120
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5346,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 125
+          },
+          {
+            "name": "Short",
+            "category": "MALE",
+            "yards": 4007,
+            "par": 72,
+            "rating": 60.2,
+            "slope": 106
+          },
+          {
+            "name": "Short",
+            "category": "FEMALE",
+            "yards": 4007,
+            "par": 72,
+            "rating": 61.4,
+            "slope": 106
+          }
+        ]
+      },
+      {
+        "name": "Robert Front / Trent Back",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6926,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 130
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 6926,
+            "par": 72,
+            "rating": 78.7,
+            "slope": 140
+          },
+          {
+            "name": "Championship / Back",
+            "category": "MALE",
+            "yards": 6641,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 129
+          },
+          {
+            "name": "Championship / Back",
+            "category": "FEMALE",
+            "yards": 6641,
+            "par": 72,
+            "rating": 77.2,
+            "slope": 137
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6357,
+            "par": 72,
+            "rating": 71,
+            "slope": 126
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6357,
+            "par": 72,
+            "rating": 75.7,
+            "slope": 134
+          },
+          {
+            "name": "Back / Middle",
+            "category": "MALE",
+            "yards": 6099,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 125
+          },
+          {
+            "name": "Back / Middle",
+            "category": "FEMALE",
+            "yards": 6099,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 131
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5886,
+            "par": 72,
+            "rating": 69,
+            "slope": 125
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5886,
+            "par": 72,
+            "rating": 75.6,
+            "slope": 132
+          },
+          {
+            "name": "Middle / Forward",
+            "category": "MALE",
+            "yards": 5592,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 123
+          },
+          {
+            "name": "Middle / Forward",
+            "category": "FEMALE",
+            "yards": 5592,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 130
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5375,
+            "par": 72,
+            "rating": 67,
+            "slope": 122
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5375,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 124
+          },
+          {
+            "name": "Short",
+            "category": "MALE",
+            "yards": 3979,
+            "par": 72,
+            "rating": 60.7,
+            "slope": 109
+          },
+          {
+            "name": "Short",
+            "category": "FEMALE",
+            "yards": 3979,
+            "par": 72,
+            "rating": 62.5,
+            "slope": 109
+          }
+        ]
+      },
+      {
+        "name": "Jones Front / Trent Back",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7016,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 130
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 7016,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Championship / Back",
+            "category": "MALE",
+            "yards": 6657,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 130
+          },
+          {
+            "name": "Championship / Back",
+            "category": "FEMALE",
+            "yards": 6657,
+            "par": 72,
+            "rating": 77.3,
+            "slope": 137
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6433,
+            "par": 72,
+            "rating": 71,
+            "slope": 126
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6433,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 135
+          },
+          {
+            "name": "Back / Middle",
+            "category": "MALE",
+            "yards": 6164,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 126
+          },
+          {
+            "name": "Back / Middle",
+            "category": "FEMALE",
+            "yards": 6164,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 132
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5984,
+            "par": 72,
+            "rating": 69,
+            "slope": 125
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5984,
+            "par": 72,
+            "rating": 75.6,
+            "slope": 132
+          },
+          {
+            "name": "Middle / Forward",
+            "category": "MALE",
+            "yards": 5655,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 122
+          },
+          {
+            "name": "Middle / Forward",
+            "category": "FEMALE",
+            "yards": 5655,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 131
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5405,
+            "par": 72,
+            "rating": 67,
+            "slope": 122
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5405,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 124
+          },
+          {
+            "name": "Short",
+            "category": "MALE",
+            "yards": 4212,
+            "par": 72,
+            "rating": 60.7,
+            "slope": 109
+          },
+          {
+            "name": "Short",
+            "category": "FEMALE",
+            "yards": 4212,
+            "par": 72,
+            "rating": 62.5,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c34e090-86ac-11e4-8c28-020000005b00/sugar-creek-country-club"
+  }
+}

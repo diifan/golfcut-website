@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9013b00-86ac-11e4-8c28-020000005b00/royal-kunia",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9013b00-86ac-11e4-8c28-020000005b00/royal-kunia",
+  "checked_at": 1795524788.0182958,
+  "sha256": "8b84f49ad249af7f4382386c2012950b67871581eeb0818216a3ed45ca04e166",
+  "title": "Royal Kunia - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b9013b00-86ac-11e4-8c28-020000005b00",
+    "name": "Royal Kunia",
+    "address": "91-1509 Anonui St., Waipahu, HI",
+    "courses": [
+      {
+        "name": "Royal Kunia",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7007,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 136
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7007,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6507,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6507,
+            "par": 72,
+            "rating": 76.5,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5964,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5964,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4945,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4945,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9013b00-86ac-11e4-8c28-020000005b00/royal-kunia"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af1df330-86ac-11e4-8c28-020000005b00/willow-brook-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af1df330-86ac-11e4-8c28-020000005b00/willow-brook-golf-course",
+  "checked_at": 1795524814.9431877,
+  "sha256": "10337d88078e177ffcafc1cc26687791068ee84ec52f4ca99e46dbf26d96195a",
+  "title": "Willowbrook Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af1df330-86ac-11e4-8c28-020000005b00",
+    "name": "Willowbrook Golf Club",
+    "address": "6751 McMinnville Hwy",
+    "courses": [
+      {
+        "name": "Willowbrook",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6709,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6709,
+            "par": 72,
+            "rating": 77.6,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6096,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6096,
+            "par": 72,
+            "rating": 75,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5704,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5704,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5269,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5269,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af1df330-86ac-11e4-8c28-020000005b00/willow-brook-golf-course"
+  }
+}

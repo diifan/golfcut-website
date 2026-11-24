@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b54eba50-86ac-11e4-8c28-020000005b00/badlands-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b54eba50-86ac-11e4-8c28-020000005b00/badlands-golf-course",
+  "checked_at": 1795524059.7451706,
+  "sha256": "f3aeb8723dfc9f5c3e68a1e33762ae5eec06276518c5126e6c189989178f4d57",
+  "title": "Badlands Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b54eba50-86ac-11e4-8c28-020000005b00",
+    "name": "Badlands Golf Course",
+    "address": "1018 80th Avenue, Roberts, WI",
+    "courses": [
+      {
+        "name": "Badlands",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6280,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6280,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6042,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6042,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5604,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 111
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5604,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4835,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4835,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b54eba50-86ac-11e4-8c28-020000005b00/badlands-golf-course"
+  }
+}

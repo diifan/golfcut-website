@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8fea2f0-86ac-11e4-8c28-020000005b00/ted-makalena",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8fea2f0-86ac-11e4-8c28-020000005b00/ted-makalena",
+  "checked_at": 1795524132.4674196,
+  "sha256": "b664ec523ef2c1d4b43b860058951688f252b400a2f565893133b8ca2598e759",
+  "title": "Ted Makalena - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b8fea2f0-86ac-11e4-8c28-020000005b00",
+    "name": "Ted Makalena",
+    "address": "93 Waipio Point Access Rd, Waipahu, HI",
+    "courses": [
+      {
+        "name": "Ted Makalena",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5931,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5931,
+            "par": 71,
+            "rating": 73.9,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5595,
+            "par": 71,
+            "rating": 66.6,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5595,
+            "par": 71,
+            "rating": 71.4,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8fea2f0-86ac-11e4-8c28-020000005b00/ted-makalena"
+  }
+}

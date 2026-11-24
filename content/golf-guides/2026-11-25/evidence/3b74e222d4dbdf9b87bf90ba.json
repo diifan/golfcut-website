@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1e6fe40-86ac-11e4-8c28-020000005b00/willowdale-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1e6fe40-86ac-11e4-8c28-020000005b00/willowdale-golf-course",
+  "checked_at": 1795523993.8289368,
+  "sha256": "0be7d0ab8f6093f60142e4204b676ba94052d422bb138851a180964400ee7a16",
+  "title": "Willowdale Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1e6fe40-86ac-11e4-8c28-020000005b00",
+    "name": "Willowdale Golf Course",
+    "address": "52 Willowdale Rd, Scarborough, ME",
+    "courses": [
+      {
+        "name": "Willowdale",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6086,
+            "par": 70,
+            "rating": 68.9,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6086,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5773,
+            "par": 70,
+            "rating": 67.7,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5773,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White/Green",
+            "category": "MALE",
+            "yards": 5256,
+            "par": 70,
+            "rating": 64.3,
+            "slope": 112
+          },
+          {
+            "name": "White/Green",
+            "category": "FEMALE",
+            "yards": 5256,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4891,
+            "par": 70,
+            "rating": 63.2,
+            "slope": 106
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4891,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1e6fe40-86ac-11e4-8c28-020000005b00/willowdale-golf-course"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b91cb240-86ac-11e4-8c28-020000005b00/branson-hills",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b91cb240-86ac-11e4-8c28-020000005b00/branson-hills",
+  "checked_at": 1795523852.3510656,
+  "sha256": "04ae1f2b2cfc267475dbbcbb2b39c1f0cb06d602fef5cc67371ecaf12a2b79f2",
+  "title": "Branson Hills - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b91cb240-86ac-11e4-8c28-020000005b00",
+    "name": "Branson Hills",
+    "address": "100 Payne Stewart Drive, Branson, MO",
+    "courses": [
+      {
+        "name": "Branson Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7324,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 135
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 7046,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6741,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 132
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 6299,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 130
+          },
+          {
+            "name": "Combo",
+            "category": "MALE",
+            "yards": 5877,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 128
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 5323,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b91cb240-86ac-11e4-8c28-020000005b00/branson-hills"
+  }
+}

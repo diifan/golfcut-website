@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a0185d0-86ac-11e4-8c28-020000005b00/the-loma-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a0185d0-86ac-11e4-8c28-020000005b00/the-loma-club",
+  "checked_at": 1795523786.438436,
+  "sha256": "c6136cbb0904c97e93c67cd6b7264f8e2d7183ad7743616a092e25eb373758af",
+  "title": "The Loma Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a0185d0-86ac-11e4-8c28-020000005b00",
+    "name": "The Loma Club",
+    "address": "2960 Truxton Rd, San Diego, CA",
+    "courses": [
+      {
+        "name": "SailHo(9 holes )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 1113,
+            "par": 27,
+            "rating": 26.87802,
+            "slope": 80.43616
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 1113,
+            "par": 27,
+            "rating": 26.87802,
+            "slope": 80.43616
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1026,
+            "par": 27,
+            "rating": 26.48304,
+            "slope": 78.84232
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1026,
+            "par": 27,
+            "rating": 26.48304,
+            "slope": 78.84232
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 972,
+            "par": 27,
+            "rating": 26.23788,
+            "slope": 77.85304
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 972,
+            "par": 27,
+            "rating": 26.23788,
+            "slope": 77.85304
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a0185d0-86ac-11e4-8c28-020000005b00/the-loma-club"
+  }
+}

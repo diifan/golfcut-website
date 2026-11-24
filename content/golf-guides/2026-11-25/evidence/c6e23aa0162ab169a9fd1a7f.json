@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/82ab2a70-86ac-11e4-8c28-020000005b00/glendale-lakes-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/82ab2a70-86ac-11e4-8c28-020000005b00/glendale-lakes-golf-club",
+  "checked_at": 1795524132.3563497,
+  "sha256": "4ffea64680ef23746e787605f9aca4fd9d288ca7de8db383b70bd37d0c5060da",
+  "title": "Glendale Lakes Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "82ab2a70-86ac-11e4-8c28-020000005b00",
+    "name": "Glendale Lakes Golf Club",
+    "address": "1550 President Street, Glendale Heights, IL",
+    "courses": [
+      {
+        "name": "Glendale Lakes / glendale lakes back",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6186,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5898,
+            "par": 71,
+            "rating": 69,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4950,
+            "par": 71,
+            "rating": 67.5,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/82ab2a70-86ac-11e4-8c28-020000005b00/glendale-lakes-golf-club"
+  }
+}

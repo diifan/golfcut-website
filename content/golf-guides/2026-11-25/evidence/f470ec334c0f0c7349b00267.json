@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92b4d920-86ac-11e4-8c28-020000005b00/fairview-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92b4d920-86ac-11e4-8c28-020000005b00/fairview-country-club",
+  "checked_at": 1795524124.1564844,
+  "sha256": "b9dc793d9c47f5772ceb07ecb928763e03d30c1558a236e058172007e6156cbb",
+  "title": "Fairview Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92b4d920-86ac-11e4-8c28-020000005b00",
+    "name": "Fairview Country Club",
+    "address": "1241 King St",
+    "courses": [
+      {
+        "name": "Fairview",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6786,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6786,
+            "par": 72,
+            "rating": 78,
+            "slope": 139
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6274,
+            "par": 72,
+            "rating": 71,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6274,
+            "par": 72,
+            "rating": 77.2,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5837,
+            "par": 72,
+            "rating": 69,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5837,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5507,
+            "par": 72,
+            "rating": 70,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5507,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92b4d920-86ac-11e4-8c28-020000005b00/fairview-country-club"
+  }
+}

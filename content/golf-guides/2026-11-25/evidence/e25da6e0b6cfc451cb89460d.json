@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3329110-86ac-11e4-8c28-020000005b00/riverwood-resort",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3329110-86ac-11e4-8c28-020000005b00/riverwood-resort",
+  "checked_at": 1795524327.4754972,
+  "sha256": "dee1d0f880de02a0af5c70795965e41692cc082ff09c669129f9ef5767e12e64",
+  "title": "Riverwood Resort - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b3329110-86ac-11e4-8c28-020000005b00",
+    "name": "Riverwood Resort",
+    "address": "1313 E Broomfield Rd, Mount Pleasant, Michigan",
+    "courses": [
+      {
+        "name": "Riverwood White/Red",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6546,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6546,
+            "par": 72,
+            "rating": 79.5,
+            "slope": 152
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6123,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6123,
+            "par": 72,
+            "rating": 77.6,
+            "slope": 147
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5563,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5563,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4961,
+            "par": 72,
+            "rating": 79.5,
+            "slope": 152
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4961,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3329110-86ac-11e4-8c28-020000005b00/riverwood-resort"
+  }
+}

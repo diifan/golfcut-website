@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/97c478d0-86ac-11e4-8c28-020000005b00/green-knoll-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/97c478d0-86ac-11e4-8c28-020000005b00/green-knoll-golf-course",
+  "checked_at": 1795523920.415365,
+  "sha256": "10891940a47bb98a84fe3caa8a747bcff47c51aba3fa272fd9c10d77ad14d745",
+  "title": "Green Knoll Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "97c478d0-86ac-11e4-8c28-020000005b00",
+    "name": "Green Knoll Golf Course",
+    "address": "587 Garretson Rd,",
+    "courses": [
+      {
+        "name": "Green Knoll",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6443,
+            "par": 71,
+            "rating": 70.8,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6443,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6104,
+            "par": 71,
+            "rating": 69,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6104,
+            "par": 72,
+            "rating": 76.3,
+            "slope": 139
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5823,
+            "par": 71,
+            "rating": 67.2,
+            "slope": 123
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5823,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 135
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5324,
+            "par": 71,
+            "rating": 65.5,
+            "slope": 119
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5324,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 131
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/97c478d0-86ac-11e4-8c28-020000005b00/green-knoll-golf-course"
+  }
+}

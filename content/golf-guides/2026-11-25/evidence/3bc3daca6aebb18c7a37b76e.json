@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7eccab70-0355-11ee-a4f4-06780482e2ce/highland-springs-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7eccab70-0355-11ee-a4f4-06780482e2ce/highland-springs-country-club",
+  "checked_at": 1795524893.0408697,
+  "sha256": "617fcec1c91c2fb481b609cf861d82ba4276cf543a3e045339c1c17b0d6231fb",
+  "title": "Highland Springs Country Club - Scorecards, Reviews | 18Birdies star star star star star google-play",
+  "course_profile": {
+    "id": "7eccab70-0355-11ee-a4f4-06780482e2ce",
+    "name": "Highland Springs Country Club",
+    "address": "10870 Deerfield Dr, Cherry Valley, CA",
+    "courses": [
+      {
+        "name": "Highland Springs",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Tee",
+            "category": "MALE",
+            "yards": 1665,
+            "par": 29,
+            "rating": 30,
+            "slope": 94
+          },
+          {
+            "name": "Tee",
+            "category": "FEMALE",
+            "yards": 1665,
+            "par": 29,
+            "rating": 29.8,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7eccab70-0355-11ee-a4f4-06780482e2ce/highland-springs-country-club"
+  }
+}

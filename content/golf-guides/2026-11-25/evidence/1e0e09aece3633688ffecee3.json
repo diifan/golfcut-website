@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3d42840-86ac-11e4-8c28-020000005b00/pontiac-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3d42840-86ac-11e4-8c28-020000005b00/pontiac-country-club",
+  "checked_at": 1795524286.1276522,
+  "sha256": "1b10dd1750aeba090399a8fb011d4b1163af225734999ae7fd6582483eb6f095",
+  "title": "Pontiac Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b3d42840-86ac-11e4-8c28-020000005b00",
+    "name": "Pontiac Country Club",
+    "address": "4335 Elizabeth Lake Road, Waterford, MI",
+    "courses": [
+      {
+        "name": "Pontiac Country Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6360,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6360,
+            "par": 72,
+            "rating": 75.7,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6117,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6117,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5334,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5334,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3d42840-86ac-11e4-8c28-020000005b00/pontiac-country-club"
+  }
+}

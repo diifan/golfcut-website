@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9976bcb0-86ac-11e4-8c28-020000005b00/salem-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9976bcb0-86ac-11e4-8c28-020000005b00/salem-golf-club",
+  "checked_at": 1795523816.3644402,
+  "sha256": "870172148895470c993dd9f5e648cbcde85698406ddef7be0204c658c6a62f31",
+  "title": "Salem Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9976bcb0-86ac-11e4-8c28-020000005b00",
+    "name": "Salem Golf Club",
+    "address": "18 Bloomer Rd., North Salem, NY",
+    "courses": [
+      {
+        "name": "Salem",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6760,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 141
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6760,
+            "par": 74,
+            "rating": 77.9,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6486,
+            "par": 72,
+            "rating": 72,
+            "slope": 140
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6486,
+            "par": 74,
+            "rating": 78.9,
+            "slope": 141
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5946,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5946,
+            "par": 74,
+            "rating": 75.8,
+            "slope": 134
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5672,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5672,
+            "par": 74,
+            "rating": 74,
+            "slope": 132
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9976bcb0-86ac-11e4-8c28-020000005b00/salem-golf-club"
+  }
+}

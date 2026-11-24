@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/89ec5020-86ac-11e4-8c28-020000005b00/emerald-hills-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/89ec5020-86ac-11e4-8c28-020000005b00/emerald-hills-golf-course",
+  "checked_at": 1795523755.5243878,
+  "sha256": "4dc9ff952dfed5eaf8967312f6dfb5770709b7375830af46ad1ac4e182646172",
+  "title": "Emerald Hills Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "89ec5020-86ac-11e4-8c28-020000005b00",
+    "name": "Emerald Hills Golf Course",
+    "address": "938 Wilmington Way, Redwood City, CA",
+    "courses": [
+      {
+        "name": "Emerald Hills (9 holes )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1156,
+            "par": 27,
+            "rating": 27.1,
+            "slope": 88
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1156,
+            "par": 27,
+            "rating": 27.1,
+            "slope": 88
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1003,
+            "par": 27,
+            "rating": 27.1,
+            "slope": 88
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1003,
+            "par": 27,
+            "rating": 27.1,
+            "slope": 88
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/89ec5020-86ac-11e4-8c28-020000005b00/emerald-hills-golf-course"
+  }
+}

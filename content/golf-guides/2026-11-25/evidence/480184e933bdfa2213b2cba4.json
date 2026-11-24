@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b27ed170-86ac-11e4-8c28-020000005b00/copper-creek",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b27ed170-86ac-11e4-8c28-020000005b00/copper-creek",
+  "checked_at": 1795524890.250858,
+  "sha256": "8b27203fc20caf5cc9ead77014b4a8e21dea0482820051e926ff3dc2c971a202",
+  "title": "Copper Creek - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b27ed170-86ac-11e4-8c28-020000005b00",
+    "name": "Copper Creek",
+    "address": "27925 Golf Pointe Blvd, Farmington Hills, MI",
+    "courses": [
+      {
+        "name": "Copper Creek",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3170,
+            "par": 35,
+            "rating": 35.2,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3170,
+            "par": 35,
+            "rating": 37.8,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2912,
+            "par": 35,
+            "rating": 33.9,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2912,
+            "par": 35,
+            "rating": 36.4,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2428,
+            "par": 35,
+            "rating": 33.5,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2428,
+            "par": 35,
+            "rating": 33.9,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b27ed170-86ac-11e4-8c28-020000005b00/copper-creek"
+  }
+}

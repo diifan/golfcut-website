@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8fe2f470-86ac-11e4-8c28-020000005b00/venetian-bay-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8fe2f470-86ac-11e4-8c28-020000005b00/venetian-bay-golf-course",
+  "checked_at": 1795524122.4911127,
+  "sha256": "b03124a9b6060affdae339aac440368e482b8a8a2cc9261d163aa48fcd409182",
+  "title": "Venetian Bay Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8fe2f470-86ac-11e4-8c28-020000005b00",
+    "name": "Venetian Bay Golf Course",
+    "address": "63 North Airport Road, New Smyrna Beach, FL",
+    "courses": [
+      {
+        "name": "Venetian Bay",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7072,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6553,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6032,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 119
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5297,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4932,
+            "par": 72,
+            "rating": 63.3,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8fe2f470-86ac-11e4-8c28-020000005b00/venetian-bay-golf-course"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/94768650-86ac-11e4-8c28-020000005b00/cedar-rapids-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/94768650-86ac-11e4-8c28-020000005b00/cedar-rapids-country-club",
+  "checked_at": 1795524292.5001721,
+  "sha256": "f3becf4a3aefd068ad54ea1dfc69f573d427829bbe2eed6bd1e1e7935801f429",
+  "title": "Cedar Rapids Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "94768650-86ac-11e4-8c28-020000005b00",
+    "name": "Cedar Rapids Country Club",
+    "address": "US Hwy 150 W, Mount Vernon, KY",
+    "courses": [
+      {
+        "name": "Cedar Rapids",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6456,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6456,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6126,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6126,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4932,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4932,
+            "par": 72,
+            "rating": 66.9,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/94768650-86ac-11e4-8c28-020000005b00/cedar-rapids-country-club"
+  }
+}

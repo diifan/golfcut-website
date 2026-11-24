@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/88d588f0-86ac-11e4-8c28-020000005b00/birch-hills-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/88d588f0-86ac-11e4-8c28-020000005b00/birch-hills-golf-course",
+  "checked_at": 1795523695.0963666,
+  "sha256": "ec2ebee04e45966edad88ad030fef28b7492f0998c9f8c4247e950c3be774f00",
+  "title": "Birch Hills Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "88d588f0-86ac-11e4-8c28-020000005b00",
+    "name": "Birch Hills Golf Course",
+    "address": "2250 E Birch St, Brea, CA",
+    "courses": [
+      {
+        "name": "Birch Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3070,
+            "par": 59,
+            "rating": 55.9,
+            "slope": 87
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3070,
+            "par": 59,
+            "rating": 59.5,
+            "slope": 92
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2944,
+            "par": 59,
+            "rating": 55.2,
+            "slope": 86
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2944,
+            "par": 59,
+            "rating": 58.8,
+            "slope": 90
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2560,
+            "par": 59,
+            "rating": 53.1,
+            "slope": 80
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2560,
+            "par": 59,
+            "rating": 56.4,
+            "slope": 85
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/88d588f0-86ac-11e4-8c28-020000005b00/birch-hills-golf-course"
+  }
+}

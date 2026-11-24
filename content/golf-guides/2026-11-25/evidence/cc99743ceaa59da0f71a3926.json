@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae9191b0-86ac-11e4-8c28-020000005b00/indigo-creek-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae9191b0-86ac-11e4-8c28-020000005b00/indigo-creek-golf-club",
+  "checked_at": 1795523999.7148757,
+  "sha256": "1d731973f05cae9469f31be848e2cafcda76f35063c324f0fffd78bd033eb251",
+  "title": "Indigo Creek Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "ae9191b0-86ac-11e4-8c28-020000005b00",
+    "name": "Indigo Creek Golf Club",
+    "address": "9480 Indigo Club Drive Murrells Inlet, SC 29576",
+    "courses": [
+      {
+        "name": "Indigo Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6747,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 140
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6747,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6167,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6167,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5576,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5576,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4923,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4923,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae9191b0-86ac-11e4-8c28-020000005b00/indigo-creek-golf-club"
+  }
+}

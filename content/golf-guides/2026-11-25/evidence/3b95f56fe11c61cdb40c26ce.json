@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b20cfcd0-86ac-11e4-8c28-020000005b00/lake-forest-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b20cfcd0-86ac-11e4-8c28-020000005b00/lake-forest-golf-club",
+  "checked_at": 1795523802.3278403,
+  "sha256": "1686e7b0c171f75817c782d7f8da6a471fb6bfe0ff6087008ffc82487d29f17b",
+  "title": "Lake Forest Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b20cfcd0-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Forest Golf Club",
+    "address": "3110 W Ellsworth Rd, Ann Arbor, MI",
+    "courses": [
+      {
+        "name": "Lake Forest",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6687,
+            "par": 72,
+            "rating": 72,
+            "slope": 130
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6687,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6337,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6337,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5926,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5926,
+            "par": 72,
+            "rating": 74,
+            "slope": 133
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5282,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 107
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5282,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 120
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4210,
+            "par": 72,
+            "rating": 61,
+            "slope": 99
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4210,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b20cfcd0-86ac-11e4-8c28-020000005b00/lake-forest-golf-club"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/82be6450-86ac-11e4-8c28-020000005b00/orchard-valley-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/82be6450-86ac-11e4-8c28-020000005b00/orchard-valley-golf-course",
+  "checked_at": 1795524273.3972886,
+  "sha256": "03609b6ed9f9e2007bfe43fe4548f0f05cf94a00942fd27347c345173f155bf2",
+  "title": "Orchard Valley Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "82be6450-86ac-11e4-8c28-020000005b00",
+    "name": "Orchard Valley Golf Course",
+    "address": "2411 W Illinois Ave",
+    "courses": [
+      {
+        "name": "Orchard Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6676,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 135
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6676,
+            "par": 72,
+            "rating": 78.7,
+            "slope": 147
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6347,
+            "par": 72,
+            "rating": 71,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6347,
+            "par": 72,
+            "rating": 77,
+            "slope": 143
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5874,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5874,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 138
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5162,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5162,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 130
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/82be6450-86ac-11e4-8c28-020000005b00/orchard-valley-golf-course"
+  }
+}

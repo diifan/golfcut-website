@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9595b1f0-86ac-11e4-8c28-020000005b00/hillview-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9595b1f0-86ac-11e4-8c28-020000005b00/hillview-country-club",
+  "checked_at": 1795523958.6379414,
+  "sha256": "b660d02579612424491e96d196ba43c7668e0633da03c14894738acce75ad1b2",
+  "title": "Hillview Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9595b1f0-86ac-11e4-8c28-020000005b00",
+    "name": "Hillview Country Club",
+    "address": "149 North St, North Reading, MA",
+    "courses": [
+      {
+        "name": "Hillview",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5773,
+            "par": 69,
+            "rating": 67.4,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5773,
+            "par": 69,
+            "rating": 72.6,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5288,
+            "par": 69,
+            "rating": 65.2,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5288,
+            "par": 69,
+            "rating": 70.6,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4521,
+            "par": 69,
+            "rating": 65.5,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4521,
+            "par": 69,
+            "rating": 66,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9595b1f0-86ac-11e4-8c28-020000005b00/hillview-country-club"
+  }
+}

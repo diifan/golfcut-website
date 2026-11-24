@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/738b3e40-d897-11ed-91b3-06780482e2ce/encanto-9-hole-executive-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/738b3e40-d897-11ed-91b3-06780482e2ce/encanto-9-hole-executive-course",
+  "checked_at": 1795523880.4746625,
+  "sha256": "e68f87b258314864491758f471484b1fea21919b661e2d06c0a96d7a4fe6bf69",
+  "title": "Encanto 9 Hole Executive Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "738b3e40-d897-11ed-91b3-06780482e2ce",
+    "name": "Encanto 9 Hole Executive Course",
+    "address": "2775 N 15th Ave, Phoenix, AZ",
+    "courses": [
+      {
+        "name": "9 Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1710,
+            "par": 30,
+            "rating": 57.2,
+            "slope": 92
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1710,
+            "par": 30,
+            "rating": 57.7,
+            "slope": 81
+          }
+        ]
+      },
+      {
+        "name": "18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue ",
+            "category": "MALE",
+            "yards": 6404,
+            "par": 70,
+            "rating": 69.4,
+            "slope": 113
+          },
+          {
+            "name": "Blue ",
+            "category": "FEMALE",
+            "yards": 6404,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5694,
+            "par": 70,
+            "rating": 66.3,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5694,
+            "par": 70,
+            "rating": 72,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6040,
+            "par": 70,
+            "rating": 68.3,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6040,
+            "par": 70,
+            "rating": 73.7,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/738b3e40-d897-11ed-91b3-06780482e2ce/encanto-9-hole-executive-course"
+  }
+}

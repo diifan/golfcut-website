@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad2ad5c0-86ac-11e4-8c28-020000005b00/tree-top",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad2ad5c0-86ac-11e4-8c28-020000005b00/tree-top",
+  "checked_at": 1795524348.1785734,
+  "sha256": "a852306fba4404f13b1ae59f6a4afb02068bc4712f7097d939dadfb39c8a5fce",
+  "title": "Tree Top - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "ad2ad5c0-86ac-11e4-8c28-020000005b00",
+    "name": "Tree Top",
+    "address": "1624 Creek Rd",
+    "courses": [
+      {
+        "name": "Tree Top",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4651,
+            "par": 65,
+            "rating": 63.1,
+            "slope": 104
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4651,
+            "par": 65,
+            "rating": 66.6,
+            "slope": 114
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4285,
+            "par": 65,
+            "rating": 64.4,
+            "slope": 110
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 4285,
+            "par": 65,
+            "rating": 63,
+            "slope": 101
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad2ad5c0-86ac-11e4-8c28-020000005b00/tree-top"
+  }
+}

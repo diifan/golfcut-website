@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9bd0b240-86ac-11e4-8c28-020000005b00/golf-club-of-dublin",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9bd0b240-86ac-11e4-8c28-020000005b00/golf-club-of-dublin",
+  "checked_at": 1795523702.5828695,
+  "sha256": "1ae5291d5856d6a71b2a00e88e75043f5b4ca371fc736541236d38aeb8f4057b",
+  "title": "Golf Club of Dublin - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9bd0b240-86ac-11e4-8c28-020000005b00",
+    "name": "Golf Club of Dublin",
+    "address": "5805 Eiterman Road, Dublin, OH",
+    "courses": [
+      {
+        "name": "Dublin",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6928,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6928,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6364,
+            "par": 72,
+            "rating": 70,
+            "slope": 130
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 6364,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 145
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5992,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5992,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 140
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5277,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 112
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5277,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4706,
+            "par": 72,
+            "rating": 62.4,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4706,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9bd0b240-86ac-11e4-8c28-020000005b00/golf-club-of-dublin"
+  }
+}

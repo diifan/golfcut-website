@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8ec5370-86ac-11e4-8c28-020000005b00/mid-pacific-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8ec5370-86ac-11e4-8c28-020000005b00/mid-pacific-country-club",
+  "checked_at": 1795524673.0729218,
+  "sha256": "5389319566d3558f6cddff944c17a846d4f4b604cd1c2a8a7ff6ad03041bca58",
+  "title": "Mid Pacific country club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b8ec5370-86ac-11e4-8c28-020000005b00",
+    "name": "Mid Pacific country club",
+    "address": "266 Kaelepulu Dr, Kailua, HI",
+    "courses": [
+      {
+        "name": "Pacific(Middle )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6784,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6784,
+            "par": 72,
+            "rating": 78,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6420,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6420,
+            "par": 72,
+            "rating": 79,
+            "slope": 135
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5849,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5849,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8ec5370-86ac-11e4-8c28-020000005b00/mid-pacific-country-club"
+  }
+}

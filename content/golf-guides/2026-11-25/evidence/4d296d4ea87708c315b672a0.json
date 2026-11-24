@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/97cdeeb0-86ac-11e4-8c28-020000005b00/due-process-stable",
+  "resolved_url": "https://18birdies.com/golf-courses/club/97cdeeb0-86ac-11e4-8c28-020000005b00/due-process-stable",
+  "checked_at": 1795524199.5884864,
+  "sha256": "2596b33d774e96f02adf9e09c12e367486de5302fed7d4f746388d8a0b168bfc",
+  "title": "Due Process Stable - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "97cdeeb0-86ac-11e4-8c28-020000005b00",
+    "name": "Due Process Stable",
+    "address": "264 Route 537 E",
+    "courses": [
+      {
+        "name": "Due Process Stable",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Belmont",
+            "category": "MALE",
+            "yards": 7138,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 145
+          },
+          {
+            "name": "Derby",
+            "category": "MALE",
+            "yards": 6570,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 136
+          },
+          {
+            "name": "Preakness",
+            "category": "MALE",
+            "yards": 5972,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/97cdeeb0-86ac-11e4-8c28-020000005b00/due-process-stable"
+  }
+}

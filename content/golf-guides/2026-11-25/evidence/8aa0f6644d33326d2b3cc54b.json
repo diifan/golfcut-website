@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/885e8430-86ac-11e4-8c28-020000005b00/urbana-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/885e8430-86ac-11e4-8c28-020000005b00/urbana-country-club",
+  "checked_at": 1795524323.2783175,
+  "sha256": "0082d7c4767dc3a430960e7161854f4c4efb8e83de5856d6812af184dcead7d3",
+  "title": "Urbana Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "885e8430-86ac-11e4-8c28-020000005b00",
+    "name": "Urbana Country Club",
+    "address": "100 Country Club Rd, Urbana, IL",
+    "courses": [
+      {
+        "name": "Urbana",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "V",
+            "category": "MALE",
+            "yards": 6605,
+            "par": 71,
+            "rating": 72.2,
+            "slope": 130
+          },
+          {
+            "name": "V",
+            "category": "FEMALE",
+            "yards": 6605,
+            "par": 71,
+            "rating": 78.5,
+            "slope": 144
+          },
+          {
+            "name": "IV",
+            "category": "MALE",
+            "yards": 6210,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 126
+          },
+          {
+            "name": "IV",
+            "category": "FEMALE",
+            "yards": 6210,
+            "par": 71,
+            "rating": 76,
+            "slope": 139
+          },
+          {
+            "name": "III",
+            "category": "MALE",
+            "yards": 5845,
+            "par": 71,
+            "rating": 68.4,
+            "slope": 121
+          },
+          {
+            "name": "III",
+            "category": "FEMALE",
+            "yards": 5845,
+            "par": 71,
+            "rating": 73.7,
+            "slope": 134
+          },
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 5295,
+            "par": 71,
+            "rating": 66,
+            "slope": 114
+          },
+          {
+            "name": "II",
+            "category": "FEMALE",
+            "yards": 5295,
+            "par": 71,
+            "rating": 70.8,
+            "slope": 128
+          },
+          {
+            "name": "I",
+            "category": "MALE",
+            "yards": 4645,
+            "par": 71,
+            "rating": 63.1,
+            "slope": 107
+          },
+          {
+            "name": "I",
+            "category": "FEMALE",
+            "yards": 4645,
+            "par": 71,
+            "rating": 67.3,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/885e8430-86ac-11e4-8c28-020000005b00/urbana-country-club"
+  }
+}

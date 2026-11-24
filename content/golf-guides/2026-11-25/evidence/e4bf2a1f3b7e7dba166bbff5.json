@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d6730c0-86ac-11e4-8c28-020000005b00/macoby-run-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d6730c0-86ac-11e4-8c28-020000005b00/macoby-run-golf-course",
+  "checked_at": 1795524067.4804502,
+  "sha256": "4bd5eefcbfed1f9eefaa093165d92ff8506bb193e176baebd2fe37c16068c158",
+  "title": "Macoby Run Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d6730c0-86ac-11e4-8c28-020000005b00",
+    "name": "Macoby Run Golf Course",
+    "address": "5275 McLean Station Rd",
+    "courses": [
+      {
+        "name": "Macoby Run",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6405,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6219,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5380,
+            "par": 72,
+            "rating": 65.6,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4890,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d6730c0-86ac-11e4-8c28-020000005b00/macoby-run-golf-course"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8dc2faa0-86ac-11e4-8c28-020000005b00/sahm-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8dc2faa0-86ac-11e4-8c28-020000005b00/sahm-golf-course",
+  "checked_at": 1795523958.7122324,
+  "sha256": "a303d8310445cb79817d76192e005fe188b186e04c435bc85bdba1cefc099090",
+  "title": "Sahm Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8dc2faa0-86ac-11e4-8c28-020000005b00",
+    "name": "Sahm Golf Course",
+    "address": "6800 E 91st St, Indianapolis, IN",
+    "courses": [
+      {
+        "name": "William Sahm",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6397,
+            "par": 70,
+            "rating": 70.4,
+            "slope": 115
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 6397,
+            "par": 70,
+            "rating": 75.9,
+            "slope": 134
+          },
+          {
+            "name": "Men's",
+            "category": "MALE",
+            "yards": 6061,
+            "par": 70,
+            "rating": 68.4,
+            "slope": 110
+          },
+          {
+            "name": "Men's",
+            "category": "FEMALE",
+            "yards": 6061,
+            "par": 70,
+            "rating": 74.1,
+            "slope": 130
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 5459,
+            "par": 70,
+            "rating": 62.7,
+            "slope": 99
+          },
+          {
+            "name": "Ladies",
+            "category": "FEMALE",
+            "yards": 5459,
+            "par": 70,
+            "rating": 70.9,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8dc2faa0-86ac-11e4-8c28-020000005b00/sahm-golf-course"
+  }
+}

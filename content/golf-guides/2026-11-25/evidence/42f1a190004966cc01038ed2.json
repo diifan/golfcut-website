@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/91752d30-86ac-11e4-8c28-020000005b00/enterprise-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/91752d30-86ac-11e4-8c28-020000005b00/enterprise-country-club",
+  "checked_at": 1795524328.0566561,
+  "sha256": "0ccc1446d36402543e372745d690be1b1cae2190b98f3fd2d002a66c15a25a93",
+  "title": "Enterprise Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "91752d30-86ac-11e4-8c28-020000005b00",
+    "name": "Enterprise Country Club",
+    "address": "3000 Ozark Hwy 27 N, Enterprise, AL",
+    "courses": [
+      {
+        "name": "Enterprise",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6514,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6514,
+            "par": 72,
+            "rating": 76.5,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6216,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6216,
+            "par": 72,
+            "rating": 75,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5233,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5233,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/91752d30-86ac-11e4-8c28-020000005b00/enterprise-country-club"
+  }
+}

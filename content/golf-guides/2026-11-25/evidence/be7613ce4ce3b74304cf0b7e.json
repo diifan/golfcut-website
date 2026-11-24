@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83242b00-86ac-11e4-8c28-020000005b00/billy-caldwell-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83242b00-86ac-11e4-8c28-020000005b00/billy-caldwell-golf-course",
+  "checked_at": 1795523757.2914047,
+  "sha256": "e8fa7c729253f1be2e0afd2c770d71abda7d083fe088a3cdade56a545cbf325d",
+  "title": "Billy Caldwell Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "83242b00-86ac-11e4-8c28-020000005b00",
+    "name": "Billy Caldwell Golf Course",
+    "address": "6150 N Caldwell Avenue Chicago, IL 60646",
+    "courses": [
+      {
+        "name": "Billy Caldwell",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3108,
+            "par": 35,
+            "rating": 34.9,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2941,
+            "par": 35,
+            "rating": 34.1,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2627,
+            "par": 35,
+            "rating": 34.4,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83242b00-86ac-11e4-8c28-020000005b00/billy-caldwell-golf-course"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a1a8c10-86ac-11e4-8c28-020000005b00/santa-ana-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a1a8c10-86ac-11e4-8c28-020000005b00/santa-ana-country-club",
+  "checked_at": 1795524180.0788019,
+  "sha256": "54ff987c27c9c742e9dfbd152e38a7efcfe52a0230fa70656c40ccc0176e7e73",
+  "title": "Santa Ana Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a1a8c10-86ac-11e4-8c28-020000005b00",
+    "name": "Santa Ana Country Club",
+    "address": "20382 Newport Ave, Santa Ana, CA",
+    "courses": [
+      {
+        "name": "Santa Ana",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Event",
+            "category": "MALE",
+            "yards": 7019,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 136
+          },
+          {
+            "name": "Pro",
+            "category": "MALE",
+            "yards": 6812,
+            "par": 72,
+            "rating": 73,
+            "slope": 133
+          },
+          {
+            "name": "IV",
+            "category": "MALE",
+            "yards": 6542,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 129
+          },
+          {
+            "name": "III/IV",
+            "category": "MALE",
+            "yards": 6307,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 126
+          },
+          {
+            "name": "III",
+            "category": "MALE",
+            "yards": 6027,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 123
+          },
+          {
+            "name": "II/III",
+            "category": "MALE",
+            "yards": 5571,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 116
+          },
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 5003,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 109
+          },
+          {
+            "name": "I/II",
+            "category": "MALE",
+            "yards": 4563,
+            "par": 72,
+            "rating": 62.2,
+            "slope": 103
+          },
+          {
+            "name": "I",
+            "category": "MALE",
+            "yards": 4008,
+            "par": 72,
+            "rating": 59.9,
+            "slope": 96
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a1a8c10-86ac-11e4-8c28-020000005b00/santa-ana-country-club"
+  }
+}

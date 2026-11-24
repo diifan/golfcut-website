@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba3f6050-86ac-11e4-8c28-020000005b00/cheyenne-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba3f6050-86ac-11e4-8c28-020000005b00/cheyenne-country-club",
+  "checked_at": 1795524279.9553068,
+  "sha256": "491e4f9b562c1a5ac2c1bf7474cae52a1e8a2b5715ecfa536f3bb82c61e03643",
+  "title": "Cheyenne Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ba3f6050-86ac-11e4-8c28-020000005b00",
+    "name": "Cheyenne Country Club",
+    "address": "800 Stinner Rd, Cheyenne",
+    "courses": [
+      {
+        "name": "Cheyenne",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6547,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6192,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5411,
+            "par": 72,
+            "rating": 65,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5127,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba3f6050-86ac-11e4-8c28-020000005b00/cheyenne-country-club"
+  }
+}

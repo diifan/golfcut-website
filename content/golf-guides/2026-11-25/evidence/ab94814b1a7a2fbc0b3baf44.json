@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/900c0040-86ac-11e4-8c28-020000005b00/palm-harbor-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/900c0040-86ac-11e4-8c28-020000005b00/palm-harbor-golf-club",
+  "checked_at": 1795524071.7761228,
+  "sha256": "db91573885b325dad8a520d5d59fbe5789878a84016201c07088041ceef79e04",
+  "title": "Palm Harbor Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "900c0040-86ac-11e4-8c28-020000005b00",
+    "name": "Palm Harbor Golf Club",
+    "address": "100 Cooper Lane",
+    "courses": [
+      {
+        "name": "Palm Harbor",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6609,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 136
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6160,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5636,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5305,
+            "par": 72,
+            "rating": 64.6,
+            "slope": 113
+          },
+          {
+            "name": "Pink",
+            "category": "MALE",
+            "yards": 4722,
+            "par": 72,
+            "rating": 63.3,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/900c0040-86ac-11e4-8c28-020000005b00/palm-harbor-golf-club"
+  }
+}

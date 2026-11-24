@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/94e48a60-86ac-11e4-8c28-020000005b00/maryland-national-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/94e48a60-86ac-11e4-8c28-020000005b00/maryland-national-golf-club",
+  "checked_at": 1795524140.053671,
+  "sha256": "832860c3773ebccf01a366dc4fc6bd4e9f750bd22fd640b7bdd80a9815c030cf",
+  "title": "Maryland National Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "94e48a60-86ac-11e4-8c28-020000005b00",
+    "name": "Maryland National Golf Club",
+    "address": "8836 Willow Road",
+    "courses": [
+      {
+        "name": "Maryland National",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6811,
+            "par": 71,
+            "rating": 73.6,
+            "slope": 139
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6474,
+            "par": 71,
+            "rating": 72,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6069,
+            "par": 71,
+            "rating": 70,
+            "slope": 131
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5549,
+            "par": 71,
+            "rating": 67.4,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4844,
+            "par": 71,
+            "rating": 67,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/94e48a60-86ac-11e4-8c28-020000005b00/maryland-national-golf-club"
+  }
+}

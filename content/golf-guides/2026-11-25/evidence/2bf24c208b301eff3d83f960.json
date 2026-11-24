@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95200cc0-86ac-11e4-8c28-020000005b00/needwood-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95200cc0-86ac-11e4-8c28-020000005b00/needwood-golf-course",
+  "checked_at": 1795523703.3571725,
+  "sha256": "64fba554ded92814c7e3dfc26a0da4925118d1145492f263cdf07fff12123e52",
+  "title": "Needwood Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95200cc0-86ac-11e4-8c28-020000005b00",
+    "name": "Needwood Golf Course",
+    "address": "6724 Needwood Rd, Derwood, MD",
+    "courses": [
+      {
+        "name": "Needwood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6246,
+            "par": 70,
+            "rating": 68.8,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6246,
+            "par": 70,
+            "rating": 74.6,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4586,
+            "par": 70,
+            "rating": 61.1,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4586,
+            "par": 70,
+            "rating": 65.4,
+            "slope": 105
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5971,
+            "par": 70,
+            "rating": 67.4,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5971,
+            "par": 70,
+            "rating": 72.9,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5580,
+            "par": 70,
+            "rating": 65.8,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5580,
+            "par": 70,
+            "rating": 70.9,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95200cc0-86ac-11e4-8c28-020000005b00/needwood-golf-course"
+  }
+}

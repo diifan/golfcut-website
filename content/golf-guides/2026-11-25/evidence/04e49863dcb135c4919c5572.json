@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83c80c20-86ac-11e4-8c28-020000005b00/tamarack-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83c80c20-86ac-11e4-8c28-020000005b00/tamarack-golf-club",
+  "checked_at": 1795523674.4701505,
+  "sha256": "f1fe317c2a16b7f2374f65e02af76fafdc64ea411b2a8e173f333d1502d4aafa",
+  "title": "Tamarack Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "83c80c20-86ac-11e4-8c28-020000005b00",
+    "name": "Tamarack Golf Club",
+    "address": "24032 Royal Worlington Drive",
+    "courses": [
+      {
+        "name": "Tamarack",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6331,
+            "par": 70,
+            "rating": 71.2,
+            "slope": 135
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6331,
+            "par": 70,
+            "rating": 77,
+            "slope": 139
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6023,
+            "par": 70,
+            "rating": 69.8,
+            "slope": 132
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6023,
+            "par": 70,
+            "rating": 75.3,
+            "slope": 135
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5016,
+            "par": 70,
+            "rating": 65.2,
+            "slope": 121
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5016,
+            "par": 70,
+            "rating": 69.7,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83c80c20-86ac-11e4-8c28-020000005b00/tamarack-golf-club"
+  }
+}

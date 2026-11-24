@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8f43a730-86ac-11e4-8c28-020000005b00/fairwinds",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8f43a730-86ac-11e4-8c28-020000005b00/fairwinds",
+  "checked_at": 1795523881.9319227,
+  "sha256": "4cf6929d5f95d95ec529331067d92ba3a7d8e0a2eaf6315ff17de61ec2bb395b",
+  "title": "Fairwinds - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8f43a730-86ac-11e4-8c28-020000005b00",
+    "name": "Fairwinds",
+    "address": "4400 Fairwinds Dr, Fort Pierce, FL",
+    "courses": [
+      {
+        "name": "Fairwinds",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6849,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 123
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6382,
+            "par": 72,
+            "rating": 70,
+            "slope": 117
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5839,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 114
+          },
+          {
+            "name": "Intermediate",
+            "category": "MALE",
+            "yards": 5386,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 108
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5019,
+            "par": 72,
+            "rating": 62.8,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8f43a730-86ac-11e4-8c28-020000005b00/fairwinds"
+  }
+}

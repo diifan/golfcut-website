@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5072a00-86ac-11e4-8c28-020000005b00/colwood-golf-center",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5072a00-86ac-11e4-8c28-020000005b00/colwood-golf-center",
+  "checked_at": 1795524330.849673,
+  "sha256": "571c8858492903b58c757ca47145483eafa3f3759807737185bb1edab8d4d8a3",
+  "title": "Colwood Golf Center - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b5072a00-86ac-11e4-8c28-020000005b00",
+    "name": "Colwood Golf Center",
+    "address": "7313 NE Columbia Blvd, Portland, OR 97218",
+    "courses": [
+      {
+        "name": "Colwood (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1223,
+            "par": 27,
+            "rating": 26.8,
+            "slope": 76
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1223,
+            "par": 27,
+            "rating": 27.8,
+            "slope": 86
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 833,
+            "par": 27,
+            "rating": 25.1,
+            "slope": 69
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 833,
+            "par": 27,
+            "rating": 26.4,
+            "slope": 70
+          }
+        ]
+      },
+      {
+        "name": "Colwood (18 Holes) ",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2446,
+            "par": 54,
+            "rating": 52.6,
+            "slope": 76
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2446,
+            "par": 54,
+            "rating": 55.6,
+            "slope": 86
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1666,
+            "par": 54,
+            "rating": 50.2,
+            "slope": 69
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1666,
+            "par": 54,
+            "rating": 52.8,
+            "slope": 70
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5072a00-86ac-11e4-8c28-020000005b00/colwood-golf-center"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8abfccc0-86ac-11e4-8c28-020000005b00/mountain-meadows",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8abfccc0-86ac-11e4-8c28-020000005b00/mountain-meadows",
+  "checked_at": 1795523650.4010684,
+  "sha256": "475cce6cfaf203b18a137b30b17df0c50329ed73a5d7ca584655e1c98cbc6fcf",
+  "title": "Mountain Meadows - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8abfccc0-86ac-11e4-8c28-020000005b00",
+    "name": "Mountain Meadows",
+    "address": "1875 Fairplex Drive Pomona, CA",
+    "courses": [
+      {
+        "name": "Mountain Meadows",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6440,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6440,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6113,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6113,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 134
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5519,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5519,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8abfccc0-86ac-11e4-8c28-020000005b00/mountain-meadows"
+  }
+}

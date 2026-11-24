@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b66e8230-86ac-11e4-8c28-020000005b00/broken-arrow-golf-athletic-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b66e8230-86ac-11e4-8c28-020000005b00/broken-arrow-golf-athletic-club",
+  "checked_at": 1795523715.9663494,
+  "sha256": "94c31781e09b1ad72b7c9f651b0916566aa184c83aaa93f31e722850a1030014",
+  "title": "Broken Arrow Golf & Athletic Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b66e8230-86ac-11e4-8c28-020000005b00",
+    "name": "Broken Arrow Golf & Athletic Club",
+    "address": "1651 E. Omaha St",
+    "courses": [
+      {
+        "name": "Broken Arrow",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6732,
+            "par": 72,
+            "rating": 73,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6023,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5281,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4581,
+            "par": 72,
+            "rating": 63.5,
+            "slope": 98
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b66e8230-86ac-11e4-8c28-020000005b00/broken-arrow-golf-athletic-club"
+  }
+}

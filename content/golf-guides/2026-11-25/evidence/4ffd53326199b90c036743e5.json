@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/a8224420-e11a-11ec-b101-06780482e2ce/bunker-hill-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/a8224420-e11a-11ec-b101-06780482e2ce/bunker-hill-golf-club",
+  "checked_at": 1795524811.8706174,
+  "sha256": "2a3db395acd7e2353e1b1cfd81c051d313308bf7f2c26596d4005a5d4a29de50",
+  "title": "Bunker Hill Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "a8224420-e11a-11ec-b101-06780482e2ce",
+    "name": "Bunker Hill Golf Club",
+    "address": "3695 Side Line 4, Pickering, ON",
+    "courses": [
+      {
+        "name": "Bunker Hill Golf Club",
+        "holes": 12,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2165,
+            "par": 36,
+            "rating": 36,
+            "slope": 104
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2165,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1923,
+            "par": 36,
+            "rating": 36,
+            "slope": 102
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1923,
+            "par": 36,
+            "rating": 36,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1456,
+            "par": 36,
+            "rating": 36,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1456,
+            "par": 36,
+            "rating": 36,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/a8224420-e11a-11ec-b101-06780482e2ce/bunker-hill-golf-club"
+  }
+}

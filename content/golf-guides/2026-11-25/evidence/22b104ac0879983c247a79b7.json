@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b22c92c0-86ac-11e4-8c28-020000005b00/lincoln-hills-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b22c92c0-86ac-11e4-8c28-020000005b00/lincoln-hills-golf-course",
+  "checked_at": 1795524848.4778488,
+  "sha256": "17ff97d09e017c387f61f62cbe31d84eca4f614bccd5c3d0c49936b16fc45a3a",
+  "title": "Lincoln Hills Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b22c92c0-86ac-11e4-8c28-020000005b00",
+    "name": "Lincoln Hills Golf Course",
+    "address": "2666 W 14 Mile Rd",
+    "courses": [
+      {
+        "name": "Lincoln Hills",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 3023,
+            "par": 35,
+            "rating": 34.6,
+            "slope": 118
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 2847,
+            "par": 35,
+            "rating": 33.6,
+            "slope": 115
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 2336,
+            "par": 35,
+            "rating": 33.1,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b22c92c0-86ac-11e4-8c28-020000005b00/lincoln-hills-golf-course"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/975bf300-86ac-11e4-8c28-020000005b00/eagle-valley-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/975bf300-86ac-11e4-8c28-020000005b00/eagle-valley-golf-course",
+  "checked_at": 1795524825.464624,
+  "sha256": "b8691065e8f705c2dd3477c2887ed8df09b19a0deafc39d2f32c3d9d3bf4deb4",
+  "title": "Eagle Valley Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "975bf300-86ac-11e4-8c28-020000005b00",
+    "name": "Eagle Valley Golf Course",
+    "address": "3999 Centennial Park Dr, Carson City, NV 89706",
+    "courses": [
+      {
+        "name": "East Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "EAGLE 1",
+            "category": "MALE",
+            "yards": 6618,
+            "par": 72,
+            "rating": 70,
+            "slope": 118
+          },
+          {
+            "name": "EAGLE 2",
+            "category": "MALE",
+            "yards": 6324,
+            "par": 72,
+            "rating": 69,
+            "slope": 115
+          },
+          {
+            "name": "EAGLE 3",
+            "category": "MALE",
+            "yards": 6001,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 112
+          },
+          {
+            "name": "EAGLE 4",
+            "category": "MALE",
+            "yards": 5348,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 119
+          }
+        ]
+      },
+      {
+        "name": "West Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "EAGLE 1",
+            "category": "MALE",
+            "yards": 6851,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 139
+          },
+          {
+            "name": "EAGLE 2",
+            "category": "MALE",
+            "yards": 6421,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 130
+          },
+          {
+            "name": "EAGLE 3",
+            "category": "MALE",
+            "yards": 5978,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 124
+          },
+          {
+            "name": "EAGLE 4",
+            "category": "MALE",
+            "yards": 5323,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/975bf300-86ac-11e4-8c28-020000005b00/eagle-valley-golf-course"
+  }
+}

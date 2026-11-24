@@ -1,0 +1,129 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3baacd0-86ac-11e4-8c28-020000005b00/maple-lane-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3baacd0-86ac-11e4-8c28-020000005b00/maple-lane-golf-club",
+  "checked_at": 1795524271.5650175,
+  "sha256": "c79102d027a66d60255730dcfbbba9248ed055213f869f2c536ac4f1f7933fec",
+  "title": "Maple Lane Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b3baacd0-86ac-11e4-8c28-020000005b00",
+    "name": "Maple Lane Golf Club",
+    "address": "33203 Maple Lane Rd, Sterling Heights, MI",
+    "courses": [
+      {
+        "name": "East",
+        "holes": 12,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 3409,
+            "par": 46,
+            "rating": 67.2,
+            "slope": 104
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 3409,
+            "par": 46,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 2870,
+            "par": 46,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 2870,
+            "par": 46,
+            "rating": 67.8,
+            "slope": 104
+          }
+        ]
+      },
+      {
+        "name": "North",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 5763,
+            "par": 71,
+            "rating": 66.5,
+            "slope": 103
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 5763,
+            "par": 71,
+            "rating": 71.6,
+            "slope": 112
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5387,
+            "par": 71,
+            "rating": 62.4,
+            "slope": 95
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5387,
+            "par": 71,
+            "rating": 67.2,
+            "slope": 102
+          }
+        ]
+      },
+      {
+        "name": "West",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 6066,
+            "par": 71,
+            "rating": 68.3,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 6066,
+            "par": 71,
+            "rating": 73.8,
+            "slope": 117
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5504,
+            "par": 71,
+            "rating": 62.8,
+            "slope": 94
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5504,
+            "par": 71,
+            "rating": 67.3,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3baacd0-86ac-11e4-8c28-020000005b00/maple-lane-golf-club"
+  }
+}

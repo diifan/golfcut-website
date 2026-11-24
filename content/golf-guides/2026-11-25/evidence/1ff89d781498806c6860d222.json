@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/891d4050-86ac-11e4-8c28-020000005b00/mariners-point-golf-center",
+  "resolved_url": "https://18birdies.com/golf-courses/club/891d4050-86ac-11e4-8c28-020000005b00/mariners-point-golf-center",
+  "checked_at": 1795523710.0222745,
+  "sha256": "264debe67939f4c25a5899fcb23879cef610b580838cfbc109d99a76c368072d",
+  "title": "Mariners Point Golf Center - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "891d4050-86ac-11e4-8c28-020000005b00",
+    "name": "Mariners Point Golf Center",
+    "address": "2401 E 3rd Ave, Foster City, CA",
+    "courses": [
+      {
+        "name": "Mariners Point (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 1233,
+            "par": 27,
+            "rating": 26.6,
+            "slope": 80
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 1233,
+            "par": 27,
+            "rating": 27.7,
+            "slope": 86
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 774,
+            "par": 27,
+            "rating": 25.4,
+            "slope": 75
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 774,
+            "par": 27,
+            "rating": 26.7,
+            "slope": 78
+          }
+        ]
+      },
+      {
+        "name": "Mariners Point (18 Holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 2367,
+            "par": 54,
+            "rating": 53.2,
+            "slope": 80
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 2367,
+            "par": 54,
+            "rating": 55.4,
+            "slope": 86
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 1548,
+            "par": 54,
+            "rating": 50.8,
+            "slope": 75
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 1548,
+            "par": 54,
+            "rating": 53.4,
+            "slope": 78
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/891d4050-86ac-11e4-8c28-020000005b00/mariners-point-golf-center"
+  }
+}

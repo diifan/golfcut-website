@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/999a4a40-86ac-11e4-8c28-020000005b00/north-hempstead-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/999a4a40-86ac-11e4-8c28-020000005b00/north-hempstead-country-club",
+  "checked_at": 1795524348.9733317,
+  "sha256": "fee8280e7ea9e8c297c60e2a137a77cb32c58725935b23144074aad0201b4203",
+  "title": "North Hempstead Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "999a4a40-86ac-11e4-8c28-020000005b00",
+    "name": "North Hempstead Country Club",
+    "address": "Port Washington Blvd",
+    "courses": [
+      {
+        "name": "North Hempstead",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6350,
+            "par": 70,
+            "rating": 71.1,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6350,
+            "par": 70,
+            "rating": 75.7,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6055,
+            "par": 70,
+            "rating": 69.5,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6055,
+            "par": 70,
+            "rating": 74.1,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5775,
+            "par": 70,
+            "rating": 68.6,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5775,
+            "par": 70,
+            "rating": 74.2,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5130,
+            "par": 70,
+            "rating": 65.8,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5130,
+            "par": 70,
+            "rating": 70.4,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/999a4a40-86ac-11e4-8c28-020000005b00/north-hempstead-country-club"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/940a5700-86ac-11e4-8c28-020000005b00/sandy-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/940a5700-86ac-11e4-8c28-020000005b00/sandy-creek-golf-course",
+  "checked_at": 1795524889.7641551,
+  "sha256": "03cb71152196b705593e1aa15eefac52fd72b5acb7f3c3e00a348081874ccd91",
+  "title": "Closed - Sandy Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "940a5700-86ac-11e4-8c28-020000005b00",
+    "name": "Closed - Sandy Creek Golf Course",
+    "address": "9701 Meade Springer Road",
+    "courses": [
+      {
+        "name": "Sandy Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5567,
+            "par": 70,
+            "rating": 64.4,
+            "slope": 108
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5150,
+            "par": 70,
+            "rating": 62.6,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4629,
+            "par": 70,
+            "rating": 66,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/940a5700-86ac-11e4-8c28-020000005b00/sandy-creek-golf-course"
+  }
+}

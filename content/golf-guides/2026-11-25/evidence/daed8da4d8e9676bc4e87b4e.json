@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/835cc730-86ac-11e4-8c28-020000005b00/glencoe-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/835cc730-86ac-11e4-8c28-020000005b00/glencoe-golf-club",
+  "checked_at": 1795523701.0474205,
+  "sha256": "4fae7e6dc30764b7e31c3d8e9fef78a6c283f3af6e094a445640fe0efa2e35c0",
+  "title": "Glencoe Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "835cc730-86ac-11e4-8c28-020000005b00",
+    "name": "Glencoe Golf Club",
+    "address": "621 Wesley Rd, Glencoe, IL",
+    "courses": [
+      {
+        "name": "Glencoe",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6507,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6233,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 129
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5713,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3761,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/835cc730-86ac-11e4-8c28-020000005b00/glencoe-golf-club"
+  }
+}

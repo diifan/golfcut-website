@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b07c98d0-86ac-11e4-8c28-020000005b00/brambleton",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b07c98d0-86ac-11e4-8c28-020000005b00/brambleton",
+  "checked_at": 1795524115.6477215,
+  "sha256": "3bc61f734cd3fc7d433b9d4c329b6c3a554b759661102e9a1294777067912200",
+  "title": "Brambleton Golf Course  - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b07c98d0-86ac-11e4-8c28-020000005b00",
+    "name": "Brambleton Golf Course ",
+    "address": "42180 Ryan Rd Ashburn VA 20148 United States",
+    "courses": [
+      {
+        "name": "Brambleton",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6797,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6797,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6328,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6328,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 137
+          },
+          {
+            "name": "White/Gold",
+            "category": "MALE",
+            "yards": 6004,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 119
+          },
+          {
+            "name": "White/Gold",
+            "category": "FEMALE",
+            "yards": 6004,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5458,
+            "par": 72,
+            "rating": 64.2,
+            "slope": 107
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5458,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5068,
+            "par": 72,
+            "rating": 64.2,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5068,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b07c98d0-86ac-11e4-8c28-020000005b00/brambleton"
+  }
+}

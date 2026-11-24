@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/979dde00-86ac-11e4-8c28-020000005b00/boulder-city-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/979dde00-86ac-11e4-8c28-020000005b00/boulder-city-golf-course",
+  "checked_at": 1795524019.9714355,
+  "sha256": "3a7de06481fab9d53ee8082888a443e0228e83c1ed9f40492fce484bd90f1308",
+  "title": "Boulder City Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "979dde00-86ac-11e4-8c28-020000005b00",
+    "name": "Boulder City Golf Course",
+    "address": "1 Clubhouse Drive, Boulder City, NV",
+    "courses": [
+      {
+        "name": "Boulder City",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6532,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6532,
+            "par": 72,
+            "rating": 78.2,
+            "slope": 142
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6097,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6097,
+            "par": 72,
+            "rating": 75.6,
+            "slope": 137
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5513,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 113
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5513,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5316,
+            "par": 72,
+            "rating": 65,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5316,
+            "par": 72,
+            "rating": 71,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/979dde00-86ac-11e4-8c28-020000005b00/boulder-city-golf-course"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8aa518d0-86ac-11e4-8c28-020000005b00/newport-beach-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8aa518d0-86ac-11e4-8c28-020000005b00/newport-beach-golf-course",
+  "checked_at": 1795523661.2636545,
+  "sha256": "b89e24c03d22805e92eeaff71db1718d847a426ac776763dd5e4ec125f80f9c9",
+  "title": "Newport Beach Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8aa518d0-86ac-11e4-8c28-020000005b00",
+    "name": "Newport Beach Golf Course",
+    "address": "3100 Irvine Avenue, Newport Beach, California",
+    "courses": [
+      {
+        "name": "Newport Beach",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3180,
+            "par": 59,
+            "rating": 54.5,
+            "slope": 81
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3180,
+            "par": 59,
+            "rating": 57.2,
+            "slope": 84
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8aa518d0-86ac-11e4-8c28-020000005b00/newport-beach-golf-course"
+  }
+}

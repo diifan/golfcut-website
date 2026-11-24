@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a1c39c0-86ac-11e4-8c28-020000005b00/sandpiper-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a1c39c0-86ac-11e4-8c28-020000005b00/sandpiper-golf-club",
+  "checked_at": 1795523687.2610312,
+  "sha256": "1a60eabb8caa6136ca6e01afba12577935fc5c358b72be4c7d9a8201c1c6cd9d",
+  "title": "Sandpiper Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a1c39c0-86ac-11e4-8c28-020000005b00",
+    "name": "Sandpiper Golf Club",
+    "address": "7925 Hollister Ave, Goleta, CA ",
+    "courses": [
+      {
+        "name": "Sandpiper",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7159,
+            "par": 72,
+            "rating": 75,
+            "slope": 135
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7159,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6646,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6646,
+            "par": 72,
+            "rating": 80.3,
+            "slope": 144
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 6196,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 126
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 6196,
+            "par": 72,
+            "rating": 77.8,
+            "slope": 138
+          },
+          {
+            "name": "Copper",
+            "category": "MALE",
+            "yards": 5602,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 120
+          },
+          {
+            "name": "Copper",
+            "category": "FEMALE",
+            "yards": 5602,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 132
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a1c39c0-86ac-11e4-8c28-020000005b00/sandpiper-golf-club"
+  }
+}

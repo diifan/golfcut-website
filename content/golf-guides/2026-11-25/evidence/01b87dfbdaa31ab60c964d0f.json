@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c63a370-86ac-11e4-8c28-020000005b00/split-rock-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c63a370-86ac-11e4-8c28-020000005b00/split-rock-golf-club",
+  "checked_at": 1795523737.681874,
+  "sha256": "a159cbee5169d5e2325b62af94f975708662c9253e4caa32ca5eb353a4e68dca",
+  "title": "Split Rock Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9c63a370-86ac-11e4-8c28-020000005b00",
+    "name": "Split Rock Golf Club",
+    "address": "10210 Scioto Darby Rd",
+    "courses": [
+      {
+        "name": "Split Rock",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6809,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6270,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5792,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5046,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c63a370-86ac-11e4-8c28-020000005b00/split-rock-golf-club"
+  }
+}

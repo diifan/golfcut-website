@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/adfa0ca0-86ac-11e4-8c28-020000005b00/timberlake-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/adfa0ca0-86ac-11e4-8c28-020000005b00/timberlake-country-club",
+  "checked_at": 1795524074.23566,
+  "sha256": "c0647750dab43dbd8978e9f076431ffffcc74ab954671ef48d5185ba14d6e74d",
+  "title": "TIMBERLAKE COUNTRY CLUB - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "adfa0ca0-86ac-11e4-8c28-020000005b00",
+    "name": "TIMBERLAKE COUNTRY CLUB",
+    "address": "1700 Amicks Ferry Rd, Chapin, SC",
+    "courses": [
+      {
+        "name": "Timberlake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6544,
+            "par": 71,
+            "rating": 72.5,
+            "slope": 142
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6544,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6081,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6081,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5567,
+            "par": 71,
+            "rating": 67.5,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5567,
+            "par": 72,
+            "rating": 73,
+            "slope": 135
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4873,
+            "par": 71,
+            "rating": 64.5,
+            "slope": 116
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4873,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 124
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 4481,
+            "par": 71,
+            "rating": 63,
+            "slope": 113
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 4481,
+            "par": 72,
+            "rating": 67,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/adfa0ca0-86ac-11e4-8c28-020000005b00/timberlake-country-club"
+  }
+}

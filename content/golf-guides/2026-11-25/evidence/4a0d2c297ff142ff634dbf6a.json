@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a74e110-86ac-11e4-8c28-020000005b00/westlake-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a74e110-86ac-11e4-8c28-020000005b00/westlake-golf-course",
+  "checked_at": 1795523699.662652,
+  "sha256": "b5e9116a50b9541856b27e09bb1ed120ee5e5705c6c69ba8a441ca911eda02cb",
+  "title": "Westlake Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a74e110-86ac-11e4-8c28-020000005b00",
+    "name": "Westlake Golf Course",
+    "address": "4812 Lakeview Canyon Rd, Westlake Village, CA",
+    "courses": [
+      {
+        "name": "Westlake Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4791,
+            "par": 66,
+            "rating": 62.7,
+            "slope": 105
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4791,
+            "par": 66,
+            "rating": 67.3,
+            "slope": 111
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4612,
+            "par": 66,
+            "rating": 61.7,
+            "slope": 103
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4612,
+            "par": 66,
+            "rating": 66.4,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4407,
+            "par": 66,
+            "rating": 60.7,
+            "slope": 100
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4407,
+            "par": 66,
+            "rating": 65.1,
+            "slope": 107
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 4193,
+            "par": 66,
+            "rating": 59.7,
+            "slope": 96
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 4193,
+            "par": 66,
+            "rating": 63.7,
+            "slope": 104
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a74e110-86ac-11e4-8c28-020000005b00/westlake-golf-course"
+  }
+}

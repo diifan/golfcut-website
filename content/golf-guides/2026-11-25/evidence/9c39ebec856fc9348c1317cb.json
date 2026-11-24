@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95db9490-86ac-11e4-8c28-020000005b00/oakley-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95db9490-86ac-11e4-8c28-020000005b00/oakley-country-club",
+  "checked_at": 1795523794.5364425,
+  "sha256": "7fae8e7815e3fee34ee607e3fd67b6c96fc63ca01bd8b7c6e97e33a7099f2455",
+  "title": "Oakley Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95db9490-86ac-11e4-8c28-020000005b00",
+    "name": "Oakley Country Club",
+    "address": "410 Belmont St, Watertown, MA",
+    "courses": [
+      {
+        "name": "Oakley Country Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6025,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 132
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6025,
+            "par": 71,
+            "rating": 74.7,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5713,
+            "par": 71,
+            "rating": 67.1,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5713,
+            "par": 71,
+            "rating": 73,
+            "slope": 123
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5375,
+            "par": 71,
+            "rating": 66,
+            "slope": 118
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5375,
+            "par": 71,
+            "rating": 70.9,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95db9490-86ac-11e4-8c28-020000005b00/oakley-country-club"
+  }
+}

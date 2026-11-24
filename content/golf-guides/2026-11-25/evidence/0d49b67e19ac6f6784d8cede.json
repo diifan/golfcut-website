@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8bf91010-86ac-11e4-8c28-020000005b00/landa-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8bf91010-86ac-11e4-8c28-020000005b00/landa-park-golf-course",
+  "checked_at": 1795523723.8545108,
+  "sha256": "6ae7a0bb6fdedb85fbe6536850cd2e733e810adea9dbf37576575c843881c08c",
+  "title": "Landa Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8bf91010-86ac-11e4-8c28-020000005b00",
+    "name": "Landa Park Golf Course",
+    "address": "180 Golf Course Dr, New Braunfels, TX",
+    "courses": [
+      {
+        "name": "Landa Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6205,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5645,
+            "par": 71,
+            "rating": 67.7,
+            "slope": 126
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5156,
+            "par": 71,
+            "rating": 65.9,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4561,
+            "par": 71,
+            "rating": 63.9,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8bf91010-86ac-11e4-8c28-020000005b00/landa-park-golf-course"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c6bb9c0-86ac-11e4-8c28-020000005b00/ridgewood-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c6bb9c0-86ac-11e4-8c28-020000005b00/ridgewood-golf-course",
+  "checked_at": 1795523812.5992997,
+  "sha256": "91ea122142db45155315413bc0edb04cdb873a100a14870debb9631b6a12b938",
+  "title": "Ridgewood Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9c6bb9c0-86ac-11e4-8c28-020000005b00",
+    "name": "Ridgewood Golf Course",
+    "address": "6505 Ridge Rd, Parma, OH",
+    "courses": [
+      {
+        "name": "Ridgewood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6043,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6043,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5667,
+            "par": 71,
+            "rating": 67.4,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5667,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5119,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5119,
+            "par": 72,
+            "rating": 63,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4592,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4592,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c6bb9c0-86ac-11e4-8c28-020000005b00/ridgewood-golf-course"
+  }
+}

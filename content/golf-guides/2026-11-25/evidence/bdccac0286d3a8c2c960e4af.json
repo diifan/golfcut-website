@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/97957990-86ac-11e4-8c28-020000005b00/wild-horse-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/97957990-86ac-11e4-8c28-020000005b00/wild-horse-golf-club",
+  "checked_at": 1795523702.7695718,
+  "sha256": "5afb4529cb3ee63dce1909cc5e7ea50291ff75abbf7e76ec83a6b61efe853c15",
+  "title": "WildHorse Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "97957990-86ac-11e4-8c28-020000005b00",
+    "name": "WildHorse Golf Club",
+    "address": "2100 W. Warm Springs Road, Henderson, NV",
+    "courses": [
+      {
+        "name": "Wildhorse",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6525,
+            "par": 70,
+            "rating": 71.7,
+            "slope": 130
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 6525,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6037,
+            "par": 70,
+            "rating": 68.9,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6037,
+            "par": 70,
+            "rating": 74.6,
+            "slope": 129
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5529,
+            "par": 70,
+            "rating": 66.3,
+            "slope": 115
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5529,
+            "par": 70,
+            "rating": 71.4,
+            "slope": 119
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 4995,
+            "par": 70,
+            "rating": 65,
+            "slope": 102
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 4995,
+            "par": 70,
+            "rating": 69.1,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/97957990-86ac-11e4-8c28-020000005b00/wild-horse-golf-club"
+  }
+}

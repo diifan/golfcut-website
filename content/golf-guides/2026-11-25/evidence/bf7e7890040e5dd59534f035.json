@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9548a360-86ac-11e4-8c28-020000005b00/cohasset-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9548a360-86ac-11e4-8c28-020000005b00/cohasset-golf-club",
+  "checked_at": 1795524892.8611672,
+  "sha256": "9af0c6792c44fe6ef359013206cdd6bd691eeac48d7e4fbcc0bb324136d53dcf",
+  "title": "Cohasset Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9548a360-86ac-11e4-8c28-020000005b00",
+    "name": "Cohasset Golf Club",
+    "address": "175 Lamberts Ln, Cohasset, MA",
+    "courses": [
+      {
+        "name": "Cohasset",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6268,
+            "par": 70,
+            "rating": 71.3,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6268,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6104,
+            "par": 70,
+            "rating": 70.2,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6104,
+            "par": 72,
+            "rating": 76.6,
+            "slope": 138
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5558,
+            "par": 70,
+            "rating": 67.5,
+            "slope": 122
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5558,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 130
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9548a360-86ac-11e4-8c28-020000005b00/cohasset-golf-club"
+  }
+}

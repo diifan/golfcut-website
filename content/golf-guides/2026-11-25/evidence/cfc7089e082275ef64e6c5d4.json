@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/932ec410-86ac-11e4-8c28-020000005b00/john-a-white-park-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/932ec410-86ac-11e4-8c28-020000005b00/john-a-white-park-golf",
+  "checked_at": 1795524149.1877034,
+  "sha256": "a13fe6f0b51f357b730957e624cce42d6b639f82ca12fc0648d0d7dd3ea35c3f",
+  "title": "John A. White Park Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "932ec410-86ac-11e4-8c28-020000005b00",
+    "name": "John A. White Park Golf",
+    "address": "1053 Cascade Cir SW",
+    "courses": [
+      {
+        "name": "John A. White",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2663,
+            "par": 35,
+            "rating": 33.4,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2663,
+            "par": 35,
+            "rating": 35.7,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2334,
+            "par": 35,
+            "rating": 31.9,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2334,
+            "par": 35,
+            "rating": 33.9,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1905,
+            "par": 35,
+            "rating": 30.3,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1905,
+            "par": 35,
+            "rating": 31.4,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/932ec410-86ac-11e4-8c28-020000005b00/john-a-white-park-golf"
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/94a92f10-86ac-11e4-8c28-020000005b00/compass-pointe-golf-courses",
+  "resolved_url": "https://18birdies.com/golf-courses/club/94a92f10-86ac-11e4-8c28-020000005b00/compass-pointe-golf-courses",
+  "checked_at": 1795524091.5696468,
+  "sha256": "40bf0529fdf427c5b15df866e71415eeeeee061db0dfe2919c30e60f485eab8d",
+  "title": "Compass Pointe Golf Courses - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "94a92f10-86ac-11e4-8c28-020000005b00",
+    "name": "Compass Pointe Golf Courses",
+    "address": "9010 Ft Smallwood Road, Pasadena, MD 21122",
+    "courses": [
+      {
+        "name": "North to East",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7134,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7134,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6709,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6709,
+            "par": 72,
+            "rating": 77.6,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6218,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6218,
+            "par": 72,
+            "rating": 75,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5873,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5873,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4856,
+            "par": 72,
+            "rating": 63.2,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4856,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 114
+          }
+        ]
+      },
+      {
+        "name": "South to West",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6979,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 131
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6979,
+            "par": 72,
+            "rating": 79,
+            "slope": 141
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6590,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6590,
+            "par": 72,
+            "rating": 77,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6095,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6095,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5530,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5530,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4520,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4520,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 106
+          }
+        ]
+      },
+      {
+        "name": "North to South",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7275,
+            "par": 72,
+            "rating": 78.1,
+            "slope": 135
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7275,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6890,
+            "par": 72,
+            "rating": 76.3,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6890,
+            "par": 72,
+            "rating": 78.6,
+            "slope": 140
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6429,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6429,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 135
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5896,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5896,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4943,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4943,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 117
+          }
+        ]
+      },
+      {
+        "name": "South to East",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7081,
+            "par": 72,
+            "rating": 77.2,
+            "slope": 133
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7081,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6671,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6671,
+            "par": 72,
+            "rating": 77.4,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6227,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6227,
+            "par": 72,
+            "rating": 75,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5737,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5737,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4755,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4755,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/94a92f10-86ac-11e4-8c28-020000005b00/compass-pointe-golf-courses"
+  }
+}

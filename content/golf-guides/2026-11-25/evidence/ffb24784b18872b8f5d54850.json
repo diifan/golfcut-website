@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0b1b290-86ac-11e4-8c28-020000005b00/lake-wilderness-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0b1b290-86ac-11e4-8c28-020000005b00/lake-wilderness-golf-course",
+  "checked_at": 1795524336.123381,
+  "sha256": "414b86004c08d8bca55df48daf3604981a0217f4c4e783fe98ccc00d1ba580aa",
+  "title": "Lake Wilderness Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b0b1b290-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Wilderness Golf Course",
+    "address": "25400 Witte Road SE Maple Valley, WA",
+    "courses": [
+      {
+        "name": "Lake Wilderness",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5395,
+            "par": 70,
+            "rating": 66.4,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5395,
+            "par": 70,
+            "rating": 71.8,
+            "slope": 127
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5070,
+            "par": 70,
+            "rating": 65,
+            "slope": 115
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5070,
+            "par": 70,
+            "rating": 69.9,
+            "slope": 124
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 4653,
+            "par": 70,
+            "rating": 63.8,
+            "slope": 108
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 4653,
+            "par": 70,
+            "rating": 67.3,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0b1b290-86ac-11e4-8c28-020000005b00/lake-wilderness-golf-course"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1c91600-86ac-11e4-8c28-020000005b00/cape-arundel-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1c91600-86ac-11e4-8c28-020000005b00/cape-arundel-golf-course",
+  "checked_at": 1795524238.1279318,
+  "sha256": "8c4c5f2683169ce36ac04688099300c3ea8cc02ab5bcf9832b80b5fb05c1f715",
+  "title": "Cape Arundel Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1c91600-86ac-11e4-8c28-020000005b00",
+    "name": "Cape Arundel Golf Course",
+    "address": "19 River Road",
+    "courses": [
+      {
+        "name": "Cape Arundel",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5881,
+            "par": 69,
+            "rating": 67.8,
+            "slope": 123
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5881,
+            "par": 70,
+            "rating": 73.2,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5310,
+            "par": 69,
+            "rating": 65.1,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5310,
+            "par": 70,
+            "rating": 69.7,
+            "slope": 124
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5026,
+            "par": 69,
+            "rating": 63.6,
+            "slope": 112
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5026,
+            "par": 70,
+            "rating": 68.2,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1c91600-86ac-11e4-8c28-020000005b00/cape-arundel-golf-course"
+  }
+}

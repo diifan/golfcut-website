@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83dcf3b0-86ac-11e4-8c28-020000005b00/fox-bend-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83dcf3b0-86ac-11e4-8c28-020000005b00/fox-bend-golf-course",
+  "checked_at": 1795523772.785184,
+  "sha256": "98298e49f58c56cef6549aa1fd2fea361617311475f3f38f3055be5ba012d77b",
+  "title": "Fox Bend Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "83dcf3b0-86ac-11e4-8c28-020000005b00",
+    "name": "Fox Bend Golf Course",
+    "address": "3154 Route 34, Oswego, IL",
+    "courses": [
+      {
+        "name": "Fox Bend",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6925,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 132
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6925,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6525,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6525,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gray",
+            "category": "MALE",
+            "yards": 6040,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 123
+          },
+          {
+            "name": "Gray",
+            "category": "FEMALE",
+            "yards": 6040,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Maroon",
+            "category": "MALE",
+            "yards": 5165,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 114
+          },
+          {
+            "name": "Maroon",
+            "category": "FEMALE",
+            "yards": 5165,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83dcf3b0-86ac-11e4-8c28-020000005b00/fox-bend-golf-course"
+  }
+}

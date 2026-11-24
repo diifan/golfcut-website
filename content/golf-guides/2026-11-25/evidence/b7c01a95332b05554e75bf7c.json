@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b62b5eb0-86ac-11e4-8c28-020000005b00/rose-creek-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b62b5eb0-86ac-11e4-8c28-020000005b00/rose-creek-golf-club",
+  "checked_at": 1795524265.3001623,
+  "sha256": "b6f4adb3257ae9beba07e6ee3bc4232885be7c9a7c7d0c90c11762f6138e74f5",
+  "title": "Rose Creek Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b62b5eb0-86ac-11e4-8c28-020000005b00",
+    "name": "Rose Creek Golf Club",
+    "address": "17031 N May Ave, Edmond, OK",
+    "courses": [
+      {
+        "name": "Rose Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "BACK",
+            "category": "MALE",
+            "yards": 7048,
+            "par": 72,
+            "rating": 75,
+            "slope": 137
+          },
+          {
+            "name": "MIDDLE",
+            "category": "MALE",
+            "yards": 6675,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 124
+          },
+          {
+            "name": "FRONT",
+            "category": "MALE",
+            "yards": 6150,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 125
+          },
+          {
+            "name": "Jade",
+            "category": "MALE",
+            "yards": 5048,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b62b5eb0-86ac-11e4-8c28-020000005b00/rose-creek-golf-club"
+  }
+}

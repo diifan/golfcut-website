@@ -1,0 +1,359 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e8d2870-86ac-11e4-8c28-020000005b00/starr-pass-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e8d2870-86ac-11e4-8c28-020000005b00/starr-pass-golf-club",
+  "checked_at": 1795524313.8081248,
+  "sha256": "f164134a6ea09acbe4414c77a4a9e4859371c166b8ac3eea9a5cca47ab38e38d",
+  "title": "The Club at Starr Pass - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8e8d2870-86ac-11e4-8c28-020000005b00",
+    "name": "The Club at Starr Pass",
+    "address": "3645 West Starr Pass Blvd. Tucson, AZ",
+    "courses": [
+      {
+        "name": "Palmer/Gambler  Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6627,
+            "par": 70,
+            "rating": 72.3,
+            "slope": 144
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6627,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6331,
+            "par": 70,
+            "rating": 71,
+            "slope": 140
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6331,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5754,
+            "par": 70,
+            "rating": 68.3,
+            "slope": 135
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5754,
+            "par": 70,
+            "rating": 74.1,
+            "slope": 148
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5357,
+            "par": 70,
+            "rating": 66.2,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5357,
+            "par": 70,
+            "rating": 72.4,
+            "slope": 144
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4777,
+            "par": 70,
+            "rating": 63.3,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4777,
+            "par": 70,
+            "rating": 68.3,
+            "slope": 134
+          }
+        ]
+      },
+      {
+        "name": "Pioneer/Palmer Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6538,
+            "par": 70,
+            "rating": 71.7,
+            "slope": 142
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6538,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6327,
+            "par": 70,
+            "rating": 70.7,
+            "slope": 138
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6327,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5724,
+            "par": 70,
+            "rating": 68,
+            "slope": 132
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5724,
+            "par": 70,
+            "rating": 73.5,
+            "slope": 146
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5241,
+            "par": 70,
+            "rating": 65.6,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5241,
+            "par": 70,
+            "rating": 71,
+            "slope": 139
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4748,
+            "par": 70,
+            "rating": 63.4,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4748,
+            "par": 70,
+            "rating": 68.1,
+            "slope": 131
+          }
+        ]
+      },
+      {
+        "name": "Gambler/Pioneer  Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6951,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 145
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6951,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6760,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 141
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6760,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 6176,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 136
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 6176,
+            "par": 72,
+            "rating": 76.4,
+            "slope": 151
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5690,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5690,
+            "par": 72,
+            "rating": 74,
+            "slope": 146
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5215,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5215,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 137
+          }
+        ]
+      },
+      {
+        "name": "Classic",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7101,
+            "par": 73,
+            "rating": 73.7,
+            "slope": 141
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7101,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6853,
+            "par": 73,
+            "rating": 72.3,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6853,
+            "par": 73,
+            "rating": 78.4,
+            "slope": 140
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 6367,
+            "par": 73,
+            "rating": 67.5,
+            "slope": 123
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 6367,
+            "par": 73,
+            "rating": 75.8,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6000,
+            "par": 73,
+            "rating": 67.5,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6000,
+            "par": 73,
+            "rating": 75.2,
+            "slope": 142
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5215,
+            "par": 73,
+            "rating": 68.7,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5215,
+            "par": 73,
+            "rating": 71.5,
+            "slope": 130
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e8d2870-86ac-11e4-8c28-020000005b00/starr-pass-golf-club"
+  }
+}

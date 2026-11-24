@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af967e90-86ac-11e4-8c28-020000005b00/bloomington-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af967e90-86ac-11e4-8c28-020000005b00/bloomington-country-club",
+  "checked_at": 1795523922.8494644,
+  "sha256": "3a3d41d952de6e8645eaa8b38f57820304f55ac4bc967ce5c4cb7cb882784dbb",
+  "title": "Bloomington Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af967e90-86ac-11e4-8c28-020000005b00",
+    "name": "Bloomington Country Club",
+    "address": "3174 S Bloomington Dr East, Sain George, Utah",
+    "courses": [
+      {
+        "name": "Bloomington",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 6985,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 6985,
+            "par": 72,
+            "rating": 79.1,
+            "slope": 141
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6618,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 125
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6618,
+            "par": 72,
+            "rating": 77.1,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6212,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6212,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5268,
+            "par": 72,
+            "rating": 64.1,
+            "slope": 108
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5268,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af967e90-86ac-11e4-8c28-020000005b00/bloomington-country-club"
+  }
+}

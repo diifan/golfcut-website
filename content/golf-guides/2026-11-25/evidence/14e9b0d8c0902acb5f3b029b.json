@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e0756a0-86ac-11e4-8c28-020000005b00/desert-sands-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e0756a0-86ac-11e4-8c28-020000005b00/desert-sands-golf-course",
+  "checked_at": 1795524013.98716,
+  "sha256": "1f9e20a4121ddd9025eaf59013dc04d4b9520228057b4c78e24c0c0541600f0d",
+  "title": "Desert Sands Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8e0756a0-86ac-11e4-8c28-020000005b00",
+    "name": "Desert Sands Golf Course",
+    "address": "1922 s 74th street, Mesa, AZ",
+    "courses": [
+      {
+        "name": "Desert Sands",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Men",
+            "category": "MALE",
+            "yards": 4029,
+            "par": 65,
+            "rating": 59.8,
+            "slope": 88
+          },
+          {
+            "name": "Men",
+            "category": "FEMALE",
+            "yards": 4029,
+            "par": 65,
+            "rating": 63.3,
+            "slope": 107
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 3739,
+            "par": 65,
+            "rating": 61.9,
+            "slope": 105
+          },
+          {
+            "name": "Ladies",
+            "category": "FEMALE",
+            "yards": 3739,
+            "par": 65,
+            "rating": 59.8,
+            "slope": 88
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e0756a0-86ac-11e4-8c28-020000005b00/desert-sands-golf-course"
+  }
+}

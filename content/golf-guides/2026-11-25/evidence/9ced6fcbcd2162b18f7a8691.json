@@ -1,0 +1,81 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a65c5e0-86ac-11e4-8c28-020000005b00/van-nuys-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a65c5e0-86ac-11e4-8c28-020000005b00/van-nuys-golf-course",
+  "checked_at": 1795524351.9479818,
+  "sha256": "977c6e79fc0b58398e10cfd8029a0476b3e761bc9b7e96e90ff3e6b14d6934d2",
+  "title": "Van Nuys Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a65c5e0-86ac-11e4-8c28-020000005b00",
+    "name": "Van Nuys Golf Course",
+    "address": "6550 Odessa Ave, Van Nuys, CA",
+    "courses": [
+      {
+        "name": "Executive Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3138,
+            "par": 60,
+            "rating": 54.4,
+            "slope": 77
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3138,
+            "par": 60,
+            "rating": 56.8,
+            "slope": 84
+          }
+        ]
+      },
+      {
+        "name": "Par 3 18 Hole",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2143,
+            "par": 54,
+            "rating": 54,
+            "slope": 80
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2143,
+            "par": 54,
+            "rating": 54,
+            "slope": 80
+          }
+        ]
+      },
+      {
+        "name": "Executive Course (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1569,
+            "par": 30,
+            "rating": 28.2,
+            "slope": 81
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1569,
+            "par": 30,
+            "rating": 28.2,
+            "slope": 81
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a65c5e0-86ac-11e4-8c28-020000005b00/van-nuys-golf-course"
+  }
+}

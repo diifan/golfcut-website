@@ -1,0 +1,273 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/89f32df0-86ac-11e4-8c28-020000005b00/van-buren-golf-center",
+  "resolved_url": "https://18birdies.com/golf-courses/club/89f32df0-86ac-11e4-8c28-020000005b00/van-buren-golf-center",
+  "checked_at": 1795524285.7395968,
+  "sha256": "017ccc9e68a6a91596e31854a327544414c11adc4a728ae50be0796f8bc12fa4",
+  "title": "Van Buren Golf Center - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "89f32df0-86ac-11e4-8c28-020000005b00",
+    "name": "Van Buren Golf Center",
+    "address": "6720 Van Buren Boulevard, Riverside, CA",
+    "courses": [
+      {
+        "name": "Day  + Night Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3094,
+            "par": 59,
+            "rating": 61.8,
+            "slope": 101
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3094,
+            "par": 59,
+            "rating": 64.2,
+            "slope": 104
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 3094,
+            "par": 59,
+            "rating": 61.5,
+            "slope": 100
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 3094,
+            "par": 59,
+            "rating": 63.8,
+            "slope": 103
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2956,
+            "par": 59,
+            "rating": 61.2,
+            "slope": 99
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2956,
+            "par": 59,
+            "rating": 63.4,
+            "slope": 102
+          },
+          {
+            "name": "White/Red",
+            "category": "MALE",
+            "yards": 2956,
+            "par": 59,
+            "rating": 60.8,
+            "slope": 97
+          },
+          {
+            "name": "White/Red",
+            "category": "FEMALE",
+            "yards": 2956,
+            "par": 59,
+            "rating": 62.9,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2735,
+            "par": 59,
+            "rating": 60.4,
+            "slope": 95
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2735,
+            "par": 59,
+            "rating": 62.4,
+            "slope": 100
+          }
+        ]
+      },
+      {
+        "name": "Day Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1861,
+            "par": 31,
+            "rating": 30.9,
+            "slope": 101
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1861,
+            "par": 31,
+            "rating": 32.1,
+            "slope": 104
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 1861,
+            "par": 31,
+            "rating": 30.9,
+            "slope": 101
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 1861,
+            "par": 31,
+            "rating": 32.1,
+            "slope": 104
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1791,
+            "par": 31,
+            "rating": 30.6,
+            "slope": 99
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1791,
+            "par": 31,
+            "rating": 31.7,
+            "slope": 102
+          },
+          {
+            "name": "White/Red",
+            "category": "MALE",
+            "yards": 1791,
+            "par": 31,
+            "rating": 30.6,
+            "slope": 99
+          },
+          {
+            "name": "White/Red",
+            "category": "FEMALE",
+            "yards": 1791,
+            "par": 31,
+            "rating": 31.7,
+            "slope": 102
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1674,
+            "par": 31,
+            "rating": 30.2,
+            "slope": 95
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1674,
+            "par": 31,
+            "rating": 31.2,
+            "slope": 100
+          }
+        ]
+      },
+      {
+        "name": "Night Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1233,
+            "par": 28,
+            "rating": 30.9,
+            "slope": 101
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1233,
+            "par": 28,
+            "rating": 32.1,
+            "slope": 104
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 1233,
+            "par": 28,
+            "rating": 30.6,
+            "slope": 99
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 1233,
+            "par": 28,
+            "rating": 31.7,
+            "slope": 102
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1165,
+            "par": 28,
+            "rating": 30.6,
+            "slope": 99
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1165,
+            "par": 28,
+            "rating": 31.7,
+            "slope": 102
+          },
+          {
+            "name": "White/Red",
+            "category": "MALE",
+            "yards": 1165,
+            "par": 28,
+            "rating": 30.2,
+            "slope": 95
+          },
+          {
+            "name": "White/Red",
+            "category": "FEMALE",
+            "yards": 1165,
+            "par": 28,
+            "rating": 31.2,
+            "slope": 100
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1061,
+            "par": 28,
+            "rating": 30.2,
+            "slope": 95
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1061,
+            "par": 28,
+            "rating": 31.2,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/89f32df0-86ac-11e4-8c28-020000005b00/van-buren-golf-center"
+  }
+}

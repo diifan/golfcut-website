@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9488fce0-86ac-11e4-8c28-020000005b00/battlefield-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9488fce0-86ac-11e4-8c28-020000005b00/battlefield-golf-course",
+  "checked_at": 1795524197.8574922,
+  "sha256": "7f8ce106073a4b59fd1671b0dc2416aadb3b85b4ac5ccaa76210338e4ee7674e",
+  "title": "Battlefield Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9488fce0-86ac-11e4-8c28-020000005b00",
+    "name": "Battlefield Golf Course",
+    "address": "524 General Cruft Dr Richmond, KY 40475",
+    "courses": [
+      {
+        "name": "Battlefield",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6223,
+            "par": 71,
+            "rating": 70,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5709,
+            "par": 71,
+            "rating": 67.4,
+            "slope": 110
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5048,
+            "par": 71,
+            "rating": 64.2,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4893,
+            "par": 71,
+            "rating": 63.4,
+            "slope": 104
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9488fce0-86ac-11e4-8c28-020000005b00/battlefield-golf-course"
+  }
+}

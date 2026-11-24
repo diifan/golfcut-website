@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/981c83e0-86ac-11e4-8c28-020000005b00/raritan-landing-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/981c83e0-86ac-11e4-8c28-020000005b00/raritan-landing-golf-course",
+  "checked_at": 1795524201.3753507,
+  "sha256": "6eb56e22f99fca20b3f8818fbeb13bfc263920ffa1dbdadd6342daa084909e69",
+  "title": "Raritan Landing Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "981c83e0-86ac-11e4-8c28-020000005b00",
+    "name": "Raritan Landing Golf Course",
+    "address": "491 Sidney Rd, Piscataway, NJ",
+    "courses": [
+      {
+        "name": "Raritan Landing",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3296,
+            "par": 58,
+            "rating": 57.8,
+            "slope": 88
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3296,
+            "par": 58,
+            "rating": 59.4,
+            "slope": 98
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2583,
+            "par": 58,
+            "rating": 54.6,
+            "slope": 80
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2583,
+            "par": 58,
+            "rating": 54.27662,
+            "slope": 81.46787
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/981c83e0-86ac-11e4-8c28-020000005b00/raritan-landing-golf-course"
+  }
+}

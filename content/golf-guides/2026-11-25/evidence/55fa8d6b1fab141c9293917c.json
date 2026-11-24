@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9cf471c0-86ac-11e4-8c28-020000005b00/butter-valley-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9cf471c0-86ac-11e4-8c28-020000005b00/butter-valley-golf-course",
+  "checked_at": 1795524146.6938455,
+  "sha256": "6f0ec29bd250afd92a98a870aa8e98ecfa95392fab3d0385d657674002f62922",
+  "title": "Butter Valley Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9cf471c0-86ac-11e4-8c28-020000005b00",
+    "name": "Butter Valley Golf Course",
+    "address": "3243 Gehman Road, Barto, PA",
+    "courses": [
+      {
+        "name": "Butter Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 6532,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 124
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 6532,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5879,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5879,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4926,
+            "par": 72,
+            "rating": 63.4,
+            "slope": 104
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4926,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4800,
+            "par": 72,
+            "rating": 62.3,
+            "slope": 100
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4800,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9cf471c0-86ac-11e4-8c28-020000005b00/butter-valley-golf-course"
+  }
+}

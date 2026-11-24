@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/adc1be90-86ac-11e4-8c28-020000005b00/golden-oaks-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/adc1be90-86ac-11e4-8c28-020000005b00/golden-oaks-golf-club",
+  "checked_at": 1795524212.7650583,
+  "sha256": "1fe1d0d9e92a42c6bc88d8324682ea2701727d75ee8b022cf3c97ad08c3c7df7",
+  "title": "Golden Oaks Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "adc1be90-86ac-11e4-8c28-020000005b00",
+    "name": "Golden Oaks Golf Club",
+    "address": "10 Stonehedge Drive, Fleetwood, PA",
+    "courses": [
+      {
+        "name": "Golden Oaks F + B",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 7126,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 127
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 7126,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6648,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6648,
+            "par": 72,
+            "rating": 77.3,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6077,
+            "par": 72,
+            "rating": 69,
+            "slope": 121
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6077,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 131
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5502,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 119
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5502,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 124
+          },
+          {
+            "name": "Burgundy",
+            "category": "MALE",
+            "yards": 5140,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 117
+          },
+          {
+            "name": "Burgundy",
+            "category": "FEMALE",
+            "yards": 5140,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/adc1be90-86ac-11e4-8c28-020000005b00/golden-oaks-golf-club"
+  }
+}

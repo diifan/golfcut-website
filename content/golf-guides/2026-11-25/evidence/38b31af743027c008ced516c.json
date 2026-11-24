@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a1ed1d0-86ac-11e4-8c28-020000005b00/de-laveaga-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a1ed1d0-86ac-11e4-8c28-020000005b00/de-laveaga-park-golf-course",
+  "checked_at": 1795523993.828646,
+  "sha256": "61870b6abc086af6dafd7f5d45dd4346c26d0691ef2483f0fa2b1089a8a1024d",
+  "title": "Delaveaga Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a1ed1d0-86ac-11e4-8c28-020000005b00",
+    "name": "Delaveaga Golf Course",
+    "address": "401 Upper Park Rd, Santa Cruz, CA",
+    "courses": [
+      {
+        "name": "Delaveaga",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6049,
+            "par": 70,
+            "rating": 70.6,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6049,
+            "par": 70,
+            "rating": 76.1,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5659,
+            "par": 70,
+            "rating": 68.7,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5659,
+            "par": 70,
+            "rating": 73.8,
+            "slope": 135
+          },
+          {
+            "name": "Combo",
+            "category": "MALE",
+            "yards": 5430,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 124
+          },
+          {
+            "name": "Combo",
+            "category": "FEMALE",
+            "yards": 5430,
+            "par": 70,
+            "rating": 72.5,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5081,
+            "par": 70,
+            "rating": 66.3,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5081,
+            "par": 70,
+            "rating": 70.7,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a1ed1d0-86ac-11e4-8c28-020000005b00/de-laveaga-park-golf-course"
+  }
+}

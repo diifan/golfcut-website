@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba549600-86ac-11e4-8c28-020000005b00/green-hills-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba549600-86ac-11e4-8c28-020000005b00/green-hills-golf-club",
+  "checked_at": 1795524051.9120657,
+  "sha256": "9cb2be777246f1dea46911fe96bc69eb58be97fc083ceb2316481e4ef3524b7f",
+  "title": "Green Hills Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ba549600-86ac-11e4-8c28-020000005b00",
+    "name": "Green Hills Golf Club",
+    "address": "1455 Airport Rd, Worland",
+    "courses": [
+      {
+        "name": "Green Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6444,
+            "par": 72,
+            "rating": 70,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6444,
+            "par": 73,
+            "rating": 76.2,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6052,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6052,
+            "par": 73,
+            "rating": 74.1,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5104,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5104,
+            "par": 73,
+            "rating": 68.7,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba549600-86ac-11e4-8c28-020000005b00/green-hills-golf-club"
+  }
+}

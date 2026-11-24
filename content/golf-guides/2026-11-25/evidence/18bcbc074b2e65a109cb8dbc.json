@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d3a5460-86ac-11e4-8c28-020000005b00/morgan-hill-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d3a5460-86ac-11e4-8c28-020000005b00/morgan-hill-golf-course",
+  "checked_at": 1795524832.693578,
+  "sha256": "6e0105475cc349ca81fdc842e5489404f49b554fa64fbb1c1cecb9f20ec0e782",
+  "title": "Morgan Hill Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d3a5460-86ac-11e4-8c28-020000005b00",
+    "name": "Morgan Hill Golf Course",
+    "address": "100 Clubhouse Drive, Easton, PA",
+    "courses": [
+      {
+        "name": "Morgan Hill",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6535,
+            "par": 71,
+            "rating": 71.9,
+            "slope": 133
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 6535,
+            "par": 71,
+            "rating": 78.3,
+            "slope": 141
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6095,
+            "par": 71,
+            "rating": 70.1,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6095,
+            "par": 71,
+            "rating": 75.9,
+            "slope": 136
+          },
+          {
+            "name": "White / Gold",
+            "category": "MALE",
+            "yards": 5579,
+            "par": 71,
+            "rating": 67.7,
+            "slope": 120
+          },
+          {
+            "name": "White / Gold",
+            "category": "FEMALE",
+            "yards": 5579,
+            "par": 71,
+            "rating": 73.3,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5210,
+            "par": 71,
+            "rating": 65.5,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5210,
+            "par": 71,
+            "rating": 70.7,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5105,
+            "par": 71,
+            "rating": 64.6,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5105,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d3a5460-86ac-11e4-8c28-020000005b00/morgan-hill-golf-course"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b7a548f0-8f6d-11e8-a600-0680a328ea36/quarry-ridge-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b7a548f0-8f6d-11e8-a600-0680a328ea36/quarry-ridge-golf-course",
+  "checked_at": 1795524893.8239074,
+  "sha256": "19f5f4ac0bfeaa505a056424332126fa9a141c346749bc79d4e1073adb0c4cea",
+  "title": "Quarry Ridge Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b7a548f0-8f6d-11e8-a600-0680a328ea36",
+    "name": "Quarry Ridge Golf Course",
+    "address": "6081 Clark Rd Ottawa Lake MI",
+    "courses": [
+      {
+        "name": "Quarry Ridge",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2180,
+            "par": 33,
+            "rating": 32.6,
+            "slope": 100
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2180,
+            "par": 33,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2108,
+            "par": 33,
+            "rating": 32.3,
+            "slope": 97
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2108,
+            "par": 33,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1985,
+            "par": 33,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1985,
+            "par": 33,
+            "rating": 32.4,
+            "slope": 99
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b7a548f0-8f6d-11e8-a600-0680a328ea36/quarry-ridge-golf-course"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b83c8b70-86ac-11e4-8c28-020000005b00/exeter-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b83c8b70-86ac-11e4-8c28-020000005b00/exeter-country-club",
+  "checked_at": 1795524868.643192,
+  "sha256": "59b24a1c87bfdf59a975de4ead9e6c23a9602470756386ff16e68a0ed9895e33",
+  "title": "Exeter Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b83c8b70-86ac-11e4-8c28-020000005b00",
+    "name": "Exeter Country Club",
+    "address": "320 Ten Rod Rd, Exeter, RI 02822",
+    "courses": [
+      {
+        "name": "Exeter",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6921,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6921,
+            "par": 72,
+            "rating": 78.7,
+            "slope": 140
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6406,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6406,
+            "par": 72,
+            "rating": 76,
+            "slope": 134
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5706,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5706,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b83c8b70-86ac-11e4-8c28-020000005b00/exeter-country-club"
+  }
+}

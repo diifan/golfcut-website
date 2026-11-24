@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6348670-86ac-11e4-8c28-020000005b00/south-lakes-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6348670-86ac-11e4-8c28-020000005b00/south-lakes-golf-course",
+  "checked_at": 1795524303.6367927,
+  "sha256": "f016b92fb573116b3164b1f44ca8938100f35a1fab2d074e6416fd43c34942e0",
+  "title": "South Lakes Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6348670-86ac-11e4-8c28-020000005b00",
+    "name": "South Lakes Golf Course",
+    "address": "9253 S Elwood Ave",
+    "courses": [
+      {
+        "name": "South Lakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 6413,
+            "par": 71,
+            "rating": 70.7,
+            "slope": 119
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 6413,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5839,
+            "par": 71,
+            "rating": 67.9,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5839,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5242,
+            "par": 71,
+            "rating": 65.8,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5242,
+            "par": 71,
+            "rating": 74.6,
+            "slope": 128
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5242,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5242,
+            "par": 71,
+            "rating": 70.9,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6348670-86ac-11e4-8c28-020000005b00/south-lakes-golf-course"
+  }
+}

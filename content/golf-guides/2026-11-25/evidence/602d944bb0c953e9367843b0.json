@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0589610-86ac-11e4-8c28-020000005b00/princess-anne-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0589610-86ac-11e4-8c28-020000005b00/princess-anne-country-club",
+  "checked_at": 1795523911.6837685,
+  "sha256": "f8f09db0a53def7133cd687dead200912c846e0d2ea11ccc85f15236347b9088",
+  "title": "Princess Anne Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b0589610-86ac-11e4-8c28-020000005b00",
+    "name": "Princess Anne Country Club",
+    "address": "3800 Pacific Avenue, Virginia Beach VA 23451",
+    "courses": [
+      {
+        "name": "Princess Anne",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6042,
+            "par": 70,
+            "rating": 69.6,
+            "slope": 134
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5609,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5231,
+            "par": 70,
+            "rating": 65.9,
+            "slope": 126
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4937,
+            "par": 70,
+            "rating": 64.6,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4673,
+            "par": 70,
+            "rating": 63.4,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0589610-86ac-11e4-8c28-020000005b00/princess-anne-country-club"
+  }
+}

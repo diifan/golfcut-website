@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/895df2d0-86ac-11e4-8c28-020000005b00/lemoore-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/895df2d0-86ac-11e4-8c28-020000005b00/lemoore-golf-course",
+  "checked_at": 1795524326.0948632,
+  "sha256": "60e25ce68c81402e21671e181607200d7a45863666083fa7c2ac95f351125334",
+  "title": "Lemoore Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "895df2d0-86ac-11e4-8c28-020000005b00",
+    "name": "Lemoore Golf Course",
+    "address": "350 Iona Ave, Lemoore, CA",
+    "courses": [
+      {
+        "name": "Lemoore",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6591,
+            "par": 72,
+            "rating": 71,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6591,
+            "par": 72,
+            "rating": 77,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6131,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6131,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5194,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5194,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/895df2d0-86ac-11e4-8c28-020000005b00/lemoore-golf-course"
+  }
+}

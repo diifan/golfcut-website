@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1d34f30-86ac-11e4-8c28-020000005b00/sunday-river-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1d34f30-86ac-11e4-8c28-020000005b00/sunday-river-golf-club",
+  "checked_at": 1795524289.9421222,
+  "sha256": "b4199381ae093e261e15ce1e0e7f34c5fa8b8fe42eaa06dd97e035728498133b",
+  "title": "Sunday River Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1d34f30-86ac-11e4-8c28-020000005b00",
+    "name": "Sunday River Golf Club",
+    "address": "42 Wilderness Dr",
+    "courses": [
+      {
+        "name": "Sunday River",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7130,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 150
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6558,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5851,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 128
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5006,
+            "par": 72,
+            "rating": 65,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1d34f30-86ac-11e4-8c28-020000005b00/sunday-river-golf-club"
+  }
+}

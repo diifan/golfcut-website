@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92d44800-86ac-11e4-8c28-020000005b00/topstone-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92d44800-86ac-11e4-8c28-020000005b00/topstone-golf-course",
+  "checked_at": 1795524197.064263,
+  "sha256": "f0d5e6ec7a380f882759440c4afb64d98dd6f51e6a7e0bb574660be79c4783e9",
+  "title": "Topstone Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92d44800-86ac-11e4-8c28-020000005b00",
+    "name": "Topstone Golf Course",
+    "address": "516 Griffin Rd, South Windsor, CT",
+    "courses": [
+      {
+        "name": "Topstone",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6546,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6546,
+            "par": 72,
+            "rating": 76.7,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6114,
+            "par": 72,
+            "rating": 69,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6114,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5500,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5500,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5097,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5097,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92d44800-86ac-11e4-8c28-020000005b00/topstone-golf-course"
+  }
+}

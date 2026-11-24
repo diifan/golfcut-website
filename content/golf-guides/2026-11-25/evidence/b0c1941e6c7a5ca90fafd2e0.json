@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92aa51d0-86ac-11e4-8c28-020000005b00/copper-hill-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92aa51d0-86ac-11e4-8c28-020000005b00/copper-hill-golf-club",
+  "checked_at": 1795524316.4211802,
+  "sha256": "ea7221d238691a719c11552062bab5377689988c5e77929de9459c3a8f622cb0",
+  "title": "Copper Hill Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92aa51d0-86ac-11e4-8c28-020000005b00",
+    "name": "Copper Hill Golf Club",
+    "address": "20 Copper Hill Rd",
+    "courses": [
+      {
+        "name": "Copper Hill(Fox Run )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3039,
+            "par": 36,
+            "rating": 36.3,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2737,
+            "par": 36,
+            "rating": 34.9,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2555,
+            "par": 36,
+            "rating": 34.1,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2331,
+            "par": 36,
+            "rating": 33.1,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92aa51d0-86ac-11e4-8c28-020000005b00/copper-hill-golf-club"
+  }
+}

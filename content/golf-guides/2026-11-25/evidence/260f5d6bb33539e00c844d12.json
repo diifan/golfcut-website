@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a88de40-86ac-11e4-8c28-020000005b00/dublin-ranch-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a88de40-86ac-11e4-8c28-020000005b00/dublin-ranch-golf-course",
+  "checked_at": 1795523727.5827434,
+  "sha256": "8055d94b50d17e286efe81e79127bdf161b90dcf3c74770a2d481906ded8f586",
+  "title": "Dublin Ranch Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a88de40-86ac-11e4-8c28-020000005b00",
+    "name": "Dublin Ranch Golf Course",
+    "address": "5900 Signal Hill Drive Dublin, CA",
+    "courses": [
+      {
+        "name": "Dublin Ranch",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4888,
+            "par": 63,
+            "rating": 63.8,
+            "slope": 107
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4888,
+            "par": 60,
+            "rating": 68.3,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4392,
+            "par": 63,
+            "rating": 62.1,
+            "slope": 106
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4392,
+            "par": 60,
+            "rating": 65.6,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3885,
+            "par": 63,
+            "rating": 60.5,
+            "slope": 100
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3885,
+            "par": 60,
+            "rating": 62.8,
+            "slope": 102
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 3381,
+            "par": 63,
+            "rating": 58.7,
+            "slope": 94
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 3381,
+            "par": 60,
+            "rating": 60,
+            "slope": 94
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a88de40-86ac-11e4-8c28-020000005b00/dublin-ranch-golf-course"
+  }
+}

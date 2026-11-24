@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/836f8be0-86ac-11e4-8c28-020000005b00/meadowlark-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/836f8be0-86ac-11e4-8c28-020000005b00/meadowlark-golf-course",
+  "checked_at": 1795524825.2698917,
+  "sha256": "f0e348916911cc772c778e7144085c19fd92d9f1defefddaaf79ee60eff524bc",
+  "title": "Meadowlark Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "836f8be0-86ac-11e4-8c28-020000005b00",
+    "name": "Meadowlark Golf Course",
+    "address": "11599 W 31st St, Hinsdale, IL 60523",
+    "courses": [
+      {
+        "name": "Meadowlark (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3404,
+            "par": 36,
+            "rating": 35.8,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3253,
+            "par": 36,
+            "rating": 35.1,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2872,
+            "par": 36,
+            "rating": 35.5,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/836f8be0-86ac-11e4-8c28-020000005b00/meadowlark-golf-course"
+  }
+}

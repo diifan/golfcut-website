@@ -1,0 +1,723 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b05ed7a0-86ac-11e4-8c28-020000005b00/fords-colony-country-club-at-williamsburg",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b05ed7a0-86ac-11e4-8c28-020000005b00/fords-colony-country-club-at-williamsburg",
+  "checked_at": 1795524089.2316675,
+  "sha256": "fb4dfadd486ccdbab327ce2a4e21cf4d8983a5f232f82a60c6ce69280b3ddcb8",
+  "title": "Ford's Colony Country Club At Williamsburg - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b05ed7a0-86ac-11e4-8c28-020000005b00",
+    "name": "Ford's Colony Country Club At Williamsburg",
+    "address": "240 Fords Colony Dr, Williamsburg, VA",
+    "courses": [
+      {
+        "name": "Blackheath",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6621,
+            "par": 71,
+            "rating": 72,
+            "slope": 136
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6621,
+            "par": 71,
+            "rating": 77.1,
+            "slope": 137
+          },
+          {
+            "name": "Black/Blue",
+            "category": "MALE",
+            "yards": 6304,
+            "par": 71,
+            "rating": 70.5,
+            "slope": 132
+          },
+          {
+            "name": "Black/Blue",
+            "category": "FEMALE",
+            "yards": 6304,
+            "par": 71,
+            "rating": 75.4,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6101,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6101,
+            "par": 71,
+            "rating": 75.8,
+            "slope": 133
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 5754,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 126
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 5754,
+            "par": 71,
+            "rating": 73.7,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5342,
+            "par": 71,
+            "rating": 66.4,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5342,
+            "par": 71,
+            "rating": 71.5,
+            "slope": 122
+          },
+          {
+            "name": "White/Red",
+            "category": "MALE",
+            "yards": 4958,
+            "par": 71,
+            "rating": 64.3,
+            "slope": 115
+          },
+          {
+            "name": "White/Red",
+            "category": "FEMALE",
+            "yards": 4958,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4518,
+            "par": 71,
+            "rating": 62.5,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4518,
+            "par": 71,
+            "rating": 67,
+            "slope": 112
+          }
+        ]
+      },
+      {
+        "name": "Blue Heron ",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6928,
+            "par": 72,
+            "rating": 73,
+            "slope": 133
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6928,
+            "par": 72,
+            "rating": 78.8,
+            "slope": 140
+          },
+          {
+            "name": "Black/Blue",
+            "category": "MALE",
+            "yards": 6553,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 130
+          },
+          {
+            "name": "Black/Blue",
+            "category": "FEMALE",
+            "yards": 6553,
+            "par": 72,
+            "rating": 76.8,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6266,
+            "par": 72,
+            "rating": 70,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6266,
+            "par": 72,
+            "rating": 76.5,
+            "slope": 134
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 5961,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 123
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 5961,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5731,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5731,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 131
+          },
+          {
+            "name": "White/Red",
+            "category": "MALE",
+            "yards": 5427,
+            "par": 72,
+            "rating": 65.6,
+            "slope": 115
+          },
+          {
+            "name": "White/Red",
+            "category": "FEMALE",
+            "yards": 5427,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5158,
+            "par": 72,
+            "rating": 64.5,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5158,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 122
+          }
+        ]
+      },
+      {
+        "name": "Marsh Hawk",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6650,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 132
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6650,
+            "par": 71,
+            "rating": 77.3,
+            "slope": 137
+          },
+          {
+            "name": "Black/Blue",
+            "category": "MALE",
+            "yards": 6370,
+            "par": 72,
+            "rating": 71,
+            "slope": 128
+          },
+          {
+            "name": "Black/Blue",
+            "category": "FEMALE",
+            "yards": 6370,
+            "par": 71,
+            "rating": 74,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6101,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6101,
+            "par": 71,
+            "rating": 75.5,
+            "slope": 138
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 5811,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 122
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 5811,
+            "par": 71,
+            "rating": 72.8,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5480,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5480,
+            "par": 71,
+            "rating": 71.7,
+            "slope": 128
+          },
+          {
+            "name": "White/Red",
+            "category": "MALE",
+            "yards": 4906,
+            "par": 72,
+            "rating": 65.2,
+            "slope": 114
+          },
+          {
+            "name": "White/Red",
+            "category": "FEMALE",
+            "yards": 4906,
+            "par": 71,
+            "rating": 69.3,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4741,
+            "par": 72,
+            "rating": 64.6,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4741,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 120
+          }
+        ]
+      },
+      {
+        "name": "Marsh Hawk (Hole 18 = Par 5)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6650,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 132
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6650,
+            "par": 71,
+            "rating": 77.3,
+            "slope": 137
+          },
+          {
+            "name": "Black/Blue",
+            "category": "MALE",
+            "yards": 6370,
+            "par": 72,
+            "rating": 71,
+            "slope": 128
+          },
+          {
+            "name": "Black/Blue",
+            "category": "FEMALE",
+            "yards": 6370,
+            "par": 71,
+            "rating": 75.8,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6101,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6101,
+            "par": 71,
+            "rating": 75.5,
+            "slope": 138
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 5811,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 122
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 5811,
+            "par": 71,
+            "rating": 74,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5480,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5480,
+            "par": 71,
+            "rating": 71.7,
+            "slope": 128
+          },
+          {
+            "name": "White/Red",
+            "category": "MALE",
+            "yards": 4906,
+            "par": 72,
+            "rating": 65.2,
+            "slope": 114
+          },
+          {
+            "name": "White/Red",
+            "category": "FEMALE",
+            "yards": 4906,
+            "par": 71,
+            "rating": 69.3,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4741,
+            "par": 72,
+            "rating": 64.6,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4741,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 120
+          }
+        ]
+      },
+      {
+        "name": "Blue Heron  (Hole 18 = Par 5)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6928,
+            "par": 72,
+            "rating": 73,
+            "slope": 133
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6928,
+            "par": 72,
+            "rating": 78.8,
+            "slope": 140
+          },
+          {
+            "name": "Black/Blue",
+            "category": "MALE",
+            "yards": 6553,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 130
+          },
+          {
+            "name": "Black/Blue",
+            "category": "FEMALE",
+            "yards": 6553,
+            "par": 72,
+            "rating": 76.8,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6266,
+            "par": 72,
+            "rating": 70,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6266,
+            "par": 72,
+            "rating": 76.5,
+            "slope": 134
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 5961,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 123
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 5961,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5731,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5731,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 131
+          },
+          {
+            "name": "White/Red",
+            "category": "MALE",
+            "yards": 5427,
+            "par": 72,
+            "rating": 65.6,
+            "slope": 115
+          },
+          {
+            "name": "White/Red",
+            "category": "FEMALE",
+            "yards": 5427,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5158,
+            "par": 72,
+            "rating": 64.5,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5158,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 122
+          }
+        ]
+      },
+      {
+        "name": "Blackheath (Hole 1 = Par 4)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6621,
+            "par": 71,
+            "rating": 72,
+            "slope": 136
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6621,
+            "par": 71,
+            "rating": 77.1,
+            "slope": 137
+          },
+          {
+            "name": "Black/Blue",
+            "category": "MALE",
+            "yards": 6304,
+            "par": 71,
+            "rating": 70.5,
+            "slope": 132
+          },
+          {
+            "name": "Black/Blue",
+            "category": "FEMALE",
+            "yards": 6304,
+            "par": 71,
+            "rating": 75.4,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6101,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6101,
+            "par": 71,
+            "rating": 75.8,
+            "slope": 133
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 5754,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 126
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 5754,
+            "par": 71,
+            "rating": 73.7,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5342,
+            "par": 71,
+            "rating": 66.4,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5342,
+            "par": 71,
+            "rating": 71.5,
+            "slope": 122
+          },
+          {
+            "name": "White/Red",
+            "category": "MALE",
+            "yards": 4958,
+            "par": 71,
+            "rating": 64.3,
+            "slope": 115
+          },
+          {
+            "name": "White/Red",
+            "category": "FEMALE",
+            "yards": 4958,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4518,
+            "par": 71,
+            "rating": 62.5,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4518,
+            "par": 71,
+            "rating": 67,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b05ed7a0-86ac-11e4-8c28-020000005b00/fords-colony-country-club-at-williamsburg"
+  }
+}

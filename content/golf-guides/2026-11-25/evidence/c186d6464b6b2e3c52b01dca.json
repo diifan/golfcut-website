@@ -1,0 +1,353 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/920908c0-86ac-11e4-8c28-020000005b00/west-woods",
+  "resolved_url": "https://18birdies.com/golf-courses/club/920908c0-86ac-11e4-8c28-020000005b00/west-woods",
+  "checked_at": 1795523969.8527617,
+  "sha256": "06d1be4a55be2678d51a6f90f5c4a1264f7e92090259b2c083039b62c55fac6c",
+  "title": "West Woods - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "920908c0-86ac-11e4-8c28-020000005b00",
+    "name": "West Woods",
+    "address": "6655 Quaker Street, Arvada, CO",
+    "courses": [
+      {
+        "name": "Cottonwood / Silo",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6800,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 131
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6800,
+            "par": 72,
+            "rating": 78.1,
+            "slope": 139
+          },
+          {
+            "name": "Copper",
+            "category": "MALE",
+            "yards": 6799,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 135
+          },
+          {
+            "name": "Copper",
+            "category": "FEMALE",
+            "yards": 6799,
+            "par": 72,
+            "rating": 78.1,
+            "slope": 139
+          },
+          {
+            "name": "Iron",
+            "category": "MALE",
+            "yards": 6229,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 128
+          },
+          {
+            "name": "Iron",
+            "category": "FEMALE",
+            "yards": 6229,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 140
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5519,
+            "par": 72,
+            "rating": 65.6,
+            "slope": 117
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5519,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5077,
+            "par": 72,
+            "rating": 68,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5077,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6229,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6229,
+            "par": 72,
+            "rating": 75,
+            "slope": 132
+          }
+        ]
+      },
+      {
+        "name": "Silo / Sleeping Indian ",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6761,
+            "par": 72,
+            "rating": 75.7,
+            "slope": 130
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6761,
+            "par": 72,
+            "rating": 77.9,
+            "slope": 139
+          },
+          {
+            "name": "Copper",
+            "category": "MALE",
+            "yards": 6504,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 143
+          },
+          {
+            "name": "Copper",
+            "category": "FEMALE",
+            "yards": 6504,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Iron",
+            "category": "MALE",
+            "yards": 6252,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 131
+          },
+          {
+            "name": "Iron",
+            "category": "FEMALE",
+            "yards": 6252,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 151
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5535,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 116
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5535,
+            "par": 72,
+            "rating": 72,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5063,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 103
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5063,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 127
+          },
+          {
+            "name": "Iron/Silver",
+            "category": "MALE",
+            "yards": 5876,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 125
+          },
+          {
+            "name": "Iron/Silver",
+            "category": "FEMALE",
+            "yards": 5876,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Silver/Gold",
+            "category": "MALE",
+            "yards": 5307,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 129
+          },
+          {
+            "name": "Silver/Gold",
+            "category": "FEMALE",
+            "yards": 5307,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 4162,
+            "par": 72,
+            "rating": 61.3,
+            "slope": 98
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 4162,
+            "par": 72,
+            "rating": 63.6,
+            "slope": 117
+          }
+        ]
+      },
+      {
+        "name": "Sleeping Indian / Cottonwood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7035,
+            "par": 72,
+            "rating": 77,
+            "slope": 133
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7035,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Copper",
+            "category": "MALE",
+            "yards": 7034,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 136
+          },
+          {
+            "name": "Copper",
+            "category": "FEMALE",
+            "yards": 7034,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Iron",
+            "category": "MALE",
+            "yards": 6335,
+            "par": 72,
+            "rating": 70,
+            "slope": 127
+          },
+          {
+            "name": "Iron",
+            "category": "FEMALE",
+            "yards": 6335,
+            "par": 72,
+            "rating": 76,
+            "slope": 142
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5626,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 120
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5626,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 134
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5197,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5197,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6335,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6335,
+            "par": 72,
+            "rating": 75.6,
+            "slope": 134
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/920908c0-86ac-11e4-8c28-020000005b00/west-woods"
+  }
+}

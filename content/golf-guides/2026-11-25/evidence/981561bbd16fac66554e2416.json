@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9540b420-86ac-11e4-8c28-020000005b00/braintree-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9540b420-86ac-11e4-8c28-020000005b00/braintree-municipal-golf-course",
+  "checked_at": 1795524095.7948394,
+  "sha256": "42e0b0b55dd78f8e77ce39c6c282c42e2cf435ab2e868fecdbecc6daf360c463",
+  "title": "Braintree Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9540b420-86ac-11e4-8c28-020000005b00",
+    "name": "Braintree Municipal Golf Course",
+    "address": "101 Jefferson St.",
+    "courses": [
+      {
+        "name": "Braintree",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6554,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6554,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6212,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6212,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5493,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 110
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5493,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 120
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5087,
+            "par": 72,
+            "rating": 64.3,
+            "slope": 106
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5087,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4016,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4016,
+            "par": 72,
+            "rating": 64.1,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9540b420-86ac-11e4-8c28-020000005b00/braintree-municipal-golf-course"
+  }
+}

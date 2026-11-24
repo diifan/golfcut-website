@@ -1,0 +1,531 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b07ce6f0-86ac-11e4-8c28-020000005b00/sahalee-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b07ce6f0-86ac-11e4-8c28-020000005b00/sahalee-country-club",
+  "checked_at": 1795523704.987279,
+  "sha256": "a8c9d694b20bffc88c7425579631a8d94235b0e601211b48a6ba6dc0737610cc",
+  "title": "Sahalee Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b07ce6f0-86ac-11e4-8c28-020000005b00",
+    "name": "Sahalee Country Club",
+    "address": "21200 NE Sahalee Country Club Dr, Redmond, WA",
+    "courses": [
+      {
+        "name": "South/North",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6968,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 139
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6968,
+            "par": 72,
+            "rating": 79,
+            "slope": 141
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6755,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6755,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6331,
+            "par": 72,
+            "rating": 71,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6331,
+            "par": 72,
+            "rating": 77.2,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5725,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5725,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5411,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5411,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 128
+          }
+        ]
+      },
+      {
+        "name": "North/East",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6931,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 139
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6931,
+            "par": 72,
+            "rating": 78.8,
+            "slope": 141
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6769,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6769,
+            "par": 72,
+            "rating": 77.9,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6335,
+            "par": 72,
+            "rating": 71,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6335,
+            "par": 72,
+            "rating": 77.2,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5745,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5745,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5585,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5585,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 128
+          }
+        ]
+      },
+      {
+        "name": "South 9",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 3501,
+            "par": 36,
+            "rating": 38.4,
+            "slope": 127
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 3501,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3378,
+            "par": 36,
+            "rating": 37.9,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3378,
+            "par": 36,
+            "rating": 38.9,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3159,
+            "par": 36,
+            "rating": 36.9,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3159,
+            "par": 36,
+            "rating": 37.8,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2840,
+            "par": 36,
+            "rating": 35.4,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2840,
+            "par": 36,
+            "rating": 36.1,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2706,
+            "par": 36,
+            "rating": 34.8,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2706,
+            "par": 36,
+            "rating": 35.3,
+            "slope": 119
+          }
+        ]
+      },
+      {
+        "name": "North 9",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 3467,
+            "par": 36,
+            "rating": 38.3,
+            "slope": 126
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 3467,
+            "par": 36,
+            "rating": 39.4,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3377,
+            "par": 36,
+            "rating": 37.9,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3377,
+            "par": 36,
+            "rating": 38.9,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3172,
+            "par": 36,
+            "rating": 36.9,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3172,
+            "par": 36,
+            "rating": 37.8,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2885,
+            "par": 36,
+            "rating": 35.6,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2885,
+            "par": 36,
+            "rating": 36.3,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2705,
+            "par": 36,
+            "rating": 34.8,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2705,
+            "par": 36,
+            "rating": 35.3,
+            "slope": 119
+          }
+        ]
+      },
+      {
+        "name": "East 9",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 3464,
+            "par": 36,
+            "rating": 38.3,
+            "slope": 126
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 3464,
+            "par": 36,
+            "rating": 39.4,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3392,
+            "par": 36,
+            "rating": 37.9,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3392,
+            "par": 36,
+            "rating": 39,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3163,
+            "par": 36,
+            "rating": 36.9,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3163,
+            "par": 36,
+            "rating": 37.8,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2860,
+            "par": 36,
+            "rating": 35.5,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2860,
+            "par": 36,
+            "rating": 36.2,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2880,
+            "par": 36,
+            "rating": 35.6,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2880,
+            "par": 36,
+            "rating": 36.3,
+            "slope": 123
+          }
+        ]
+      },
+      {
+        "name": "East/South",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6965,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 139
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6965,
+            "par": 72,
+            "rating": 79,
+            "slope": 141
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6770,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6770,
+            "par": 72,
+            "rating": 77.9,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6322,
+            "par": 72,
+            "rating": 71,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6322,
+            "par": 72,
+            "rating": 77.2,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5700,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5700,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5586,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5586,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b07ce6f0-86ac-11e4-8c28-020000005b00/sahalee-country-club"
+  }
+}

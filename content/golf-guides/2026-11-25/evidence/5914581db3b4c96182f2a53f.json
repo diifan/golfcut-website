@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/897a7b80-86ac-11e4-8c28-020000005b00/mill-valley-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/897a7b80-86ac-11e4-8c28-020000005b00/mill-valley-golf-course",
+  "checked_at": 1795523966.7164948,
+  "sha256": "c7485b90012a799e79fb7794bcdf3048348007d9abaef0922525ce840aa1232d",
+  "title": "Mill Valley Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "897a7b80-86ac-11e4-8c28-020000005b00",
+    "name": "Mill Valley Golf Course",
+    "address": "280 Buena Vista Avenue, Mill Valley, CA",
+    "courses": [
+      {
+        "name": "Mill Valley (18 Hole Course)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4015,
+            "par": 65,
+            "rating": 62.7,
+            "slope": 108
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4015,
+            "par": 69,
+            "rating": 64,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3923,
+            "par": 65,
+            "rating": 62.8,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3923,
+            "par": 69,
+            "rating": 62.9,
+            "slope": 109
+          }
+        ]
+      },
+      {
+        "name": "Mill Valley (9 Hole Course)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2140,
+            "par": 33,
+            "rating": 31.2,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2140,
+            "par": 34,
+            "rating": 31.8,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2082,
+            "par": 33,
+            "rating": 31.9,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2082,
+            "par": 34,
+            "rating": 31.6,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/897a7b80-86ac-11e4-8c28-020000005b00/mill-valley-golf-course"
+  }
+}

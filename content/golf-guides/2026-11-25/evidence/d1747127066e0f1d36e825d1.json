@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e925890-86ac-11e4-8c28-020000005b00/silverado-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e925890-86ac-11e4-8c28-020000005b00/silverado-golf-club",
+  "checked_at": 1795523689.0524378,
+  "sha256": "aa13f9aeb5cb8637a57e964b1b19db06ef4412a13e618187b746adbebc5bc122",
+  "title": "Silverado Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8e925890-86ac-11e4-8c28-020000005b00",
+    "name": "Silverado Golf Club",
+    "address": "7605 E Indian Bend Rd",
+    "courses": [
+      {
+        "name": "Scottsdale Silverado",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6313,
+            "par": 70,
+            "rating": 67.8,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6313,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5734,
+            "par": 70,
+            "rating": 65.3,
+            "slope": 106
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5734,
+            "par": 70,
+            "rating": 70.1,
+            "slope": 115
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5323,
+            "par": 70,
+            "rating": 63.7,
+            "slope": 102
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5323,
+            "par": 70,
+            "rating": 68,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4896,
+            "par": 70,
+            "rating": 62.4,
+            "slope": 97
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4896,
+            "par": 70,
+            "rating": 66.4,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e925890-86ac-11e4-8c28-020000005b00/silverado-golf-club"
+  }
+}

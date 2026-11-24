@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3e25910-86ac-11e4-8c28-020000005b00/lyon-oaks-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3e25910-86ac-11e4-8c28-020000005b00/lyon-oaks-golf-course",
+  "checked_at": 1795524207.7667778,
+  "sha256": "d4346152b9f86e18f52cda45af5e0735d385617f4d7170192c63f9a9493c4de3",
+  "title": "Lyon Oaks Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b3e25910-86ac-11e4-8c28-020000005b00",
+    "name": "Lyon Oaks Golf Course",
+    "address": "52251 Pontiac Trl, Wixom, MI",
+    "courses": [
+      {
+        "name": "Lyon Oaks",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6837,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 143
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6427,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 136
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6133,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 130
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5389,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 114
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 4525,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3e25910-86ac-11e4-8c28-020000005b00/lyon-oaks-golf-course"
+  }
+}

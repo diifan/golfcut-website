@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af9d3550-86ac-11e4-8c28-020000005b00/talons-cove-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af9d3550-86ac-11e4-8c28-020000005b00/talons-cove-golf-club",
+  "checked_at": 1795523750.8840868,
+  "sha256": "d5838419010ffd57b20c320dff32f35f19849a144136b4f8ed7a917bea56158a",
+  "title": "Talons Cove Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af9d3550-86ac-11e4-8c28-020000005b00",
+    "name": "Talons Cove Golf Club",
+    "address": "2220 South Talons Cove Drive",
+    "courses": [
+      {
+        "name": "TalonsCove",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7096,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 127
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7096,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6463,
+            "par": 72,
+            "rating": 69,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6463,
+            "par": 72,
+            "rating": 76.3,
+            "slope": 135
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5874,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 110
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5874,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5128,
+            "par": 72,
+            "rating": 63.5,
+            "slope": 104
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5128,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af9d3550-86ac-11e4-8c28-020000005b00/talons-cove-golf-club"
+  }
+}

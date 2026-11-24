@@ -1,0 +1,241 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b532f4f0-86ac-11e4-8c28-020000005b00/new-richmond-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b532f4f0-86ac-11e4-8c28-020000005b00/new-richmond-golf-club",
+  "checked_at": 1795524186.7345965,
+  "sha256": "fc7a81d35ce1b22f40f281dc1ed02bbed6acf4eec932fd0c3f193715e4ffb382",
+  "title": "New Richmond Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b532f4f0-86ac-11e4-8c28-020000005b00",
+    "name": "New Richmond Golf Club",
+    "address": "1226 180th Ave, New Richmond, WI",
+    "courses": [
+      {
+        "name": "Links Front 9",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6727,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6727,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6348,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6348,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5888,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5888,
+            "par": 72,
+            "rating": 74,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5178,
+            "par": 72,
+            "rating": 65,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5178,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 115
+          }
+        ]
+      },
+      {
+        "name": "Old Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6726,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6726,
+            "par": 72,
+            "rating": 77.7,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6344,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6344,
+            "par": 72,
+            "rating": 75.6,
+            "slope": 134
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5296,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5296,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 125
+          },
+          {
+            "name": "White Combo ",
+            "category": "MALE",
+            "yards": 5960,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 124
+          },
+          {
+            "name": "White Combo ",
+            "category": "FEMALE",
+            "yards": 5960,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 129
+          },
+          {
+            "name": "Gold Combo",
+            "category": "MALE",
+            "yards": 5631,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 121
+          },
+          {
+            "name": "Gold Combo",
+            "category": "FEMALE",
+            "yards": 5631,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 125
+          }
+        ]
+      },
+      {
+        "name": "Links Back 9",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3332,
+            "par": 36,
+            "rating": 36.2,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3332,
+            "par": 36,
+            "rating": 38.7,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3168,
+            "par": 36,
+            "rating": 35.1,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3168,
+            "par": 36,
+            "rating": 37.8,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2935,
+            "par": 36,
+            "rating": 34.4,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2935,
+            "par": 36,
+            "rating": 37.3,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2555,
+            "par": 36,
+            "rating": 34.1,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2555,
+            "par": 36,
+            "rating": 34.7,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b532f4f0-86ac-11e4-8c28-020000005b00/new-richmond-golf-club"
+  }
+}

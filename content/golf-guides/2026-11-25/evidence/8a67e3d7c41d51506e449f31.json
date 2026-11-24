@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af8d2fc0-86ac-11e4-8c28-020000005b00/gladstan",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af8d2fc0-86ac-11e4-8c28-020000005b00/gladstan",
+  "checked_at": 1795524337.6964045,
+  "sha256": "7d91deca6f121de7520368209c7472ed96242733934c1bb17a706f7b78950d7f",
+  "title": "Gladstan - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af8d2fc0-86ac-11e4-8c28-020000005b00",
+    "name": "Gladstan",
+    "address": "1 Gladstan Drive",
+    "courses": [
+      {
+        "name": "Gladstan",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6981,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 132
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6981,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6594,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6594,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6240,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6240,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5580,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5580,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5002,
+            "par": 72,
+            "rating": 63,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5002,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af8d2fc0-86ac-11e4-8c28-020000005b00/gladstan"
+  }
+}

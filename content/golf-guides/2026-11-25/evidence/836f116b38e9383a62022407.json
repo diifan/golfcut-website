@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afa52490-86ac-11e4-8c28-020000005b00/mount-ogden-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afa52490-86ac-11e4-8c28-020000005b00/mount-ogden-golf-course",
+  "checked_at": 1795524135.7597616,
+  "sha256": "f119469acaea1d49b564b792e49128ab253c2ba39bdfe1b330ea533b7b9c09f2",
+  "title": "Mount Ogden Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "afa52490-86ac-11e4-8c28-020000005b00",
+    "name": "Mount Ogden Golf Course",
+    "address": "1787 Constitution Way, Ogden, UT",
+    "courses": [
+      {
+        "name": "Mount Ogden",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5993,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5993,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5503,
+            "par": 72,
+            "rating": 68,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5503,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 137
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4752,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 119
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 4752,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4563,
+            "par": 72,
+            "rating": 63.4,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4563,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afa52490-86ac-11e4-8c28-020000005b00/mount-ogden-golf-course"
+  }
+}

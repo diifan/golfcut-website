@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/89224960-86ac-11e4-8c28-020000005b00/fullerton",
+  "resolved_url": "https://18birdies.com/golf-courses/club/89224960-86ac-11e4-8c28-020000005b00/fullerton",
+  "checked_at": 1795524819.8615153,
+  "sha256": "06b7ce8d1209c8d2278352ddd0d99dedbceef230f10f5f8bc3330305dee379c0",
+  "title": "Fullerton - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "89224960-86ac-11e4-8c28-020000005b00",
+    "name": "Fullerton",
+    "address": "2700 N Harbor Blvd, Fullerton, CA",
+    "courses": [
+      {
+        "name": "Fullerton",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5070,
+            "par": 67,
+            "rating": 65.4,
+            "slope": 114
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5070,
+            "par": 67,
+            "rating": 70.3,
+            "slope": 123
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 4837,
+            "par": 67,
+            "rating": 64.4,
+            "slope": 111
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 4837,
+            "par": 67,
+            "rating": 69,
+            "slope": 120
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 3462,
+            "par": 67,
+            "rating": 58.8,
+            "slope": 97
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 3462,
+            "par": 67,
+            "rating": 61.1,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/89224960-86ac-11e4-8c28-020000005b00/fullerton"
+  }
+}

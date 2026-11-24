@@ -1,0 +1,251 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/893b2890-86ac-11e4-8c28-020000005b00/the-vintage-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/893b2890-86ac-11e4-8c28-020000005b00/the-vintage-club",
+  "checked_at": 1795523852.5198176,
+  "sha256": "cf10fe3acaec727e1b1e1af7f3f9c52f52b6bad7ea2e1cbf2374d6aae073f71c",
+  "title": "The Vintage Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "893b2890-86ac-11e4-8c28-020000005b00",
+    "name": "The Vintage Club",
+    "address": "75001 Vintage Dr W, Indian Wells, CA",
+    "courses": [
+      {
+        "name": "Desert Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6493,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 133
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6493,
+            "par": 72,
+            "rating": 78.3,
+            "slope": 145
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6289,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6289,
+            "par": 72,
+            "rating": 77,
+            "slope": 142
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5917,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5917,
+            "par": 72,
+            "rating": 75,
+            "slope": 138
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5643,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 123
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5643,
+            "par": 72,
+            "rating": 73,
+            "slope": 134
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4786,
+            "par": 72,
+            "rating": 63.4,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4786,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 122
+          },
+          {
+            "name": "Gold/Blue",
+            "category": "MALE",
+            "yards": 6021,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 114
+          },
+          {
+            "name": "Gold/Blue",
+            "category": "FEMALE",
+            "yards": 6021,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 130
+          },
+          {
+            "name": "Green/Red",
+            "category": "MALE",
+            "yards": 5130,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 117
+          },
+          {
+            "name": "Green/Red",
+            "category": "FEMALE",
+            "yards": 5130,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 129
+          }
+        ]
+      },
+      {
+        "name": "Mountain Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7138,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 140
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7138,
+            "par": 72,
+            "rating": 81.5,
+            "slope": 149
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6603,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 133
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6603,
+            "par": 72,
+            "rating": 78.6,
+            "slope": 142
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6268,
+            "par": 72,
+            "rating": 71,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6268,
+            "par": 72,
+            "rating": 76.7,
+            "slope": 137
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5504,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 119
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5504,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4756,
+            "par": 72,
+            "rating": 63.8,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4756,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 124
+          },
+          {
+            "name": "Black/Gold",
+            "category": "MALE",
+            "yards": 6876,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 137
+          },
+          {
+            "name": "Black/Gold",
+            "category": "FEMALE",
+            "yards": 6876,
+            "par": 72,
+            "rating": 79.4,
+            "slope": 145
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5844,
+            "par": 72,
+            "rating": 69,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5844,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 134
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/893b2890-86ac-11e4-8c28-020000005b00/the-vintage-club"
+  }
+}

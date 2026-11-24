@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/82b38ee0-86ac-11e4-8c28-020000005b00/highland-woods-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/82b38ee0-86ac-11e4-8c28-020000005b00/highland-woods-golf-course",
+  "checked_at": 1795523739.9128165,
+  "sha256": "8d68273eaaaba841364affdf3fe2ab702b5f71a7ffb193ef67d0158f4a45cd0a",
+  "title": "Highland Woods Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "82b38ee0-86ac-11e4-8c28-020000005b00",
+    "name": "Highland Woods Golf Course",
+    "address": "2775 Ela Rd, Hoffman Estates, IL 60192",
+    "courses": [
+      {
+        "name": "Highland Woods",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6934,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6772,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6490,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5831,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/82b38ee0-86ac-11e4-8c28-020000005b00/highland-woods-golf-course"
+  }
+}

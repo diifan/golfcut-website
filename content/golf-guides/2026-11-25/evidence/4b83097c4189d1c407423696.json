@@ -1,0 +1,321 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8df50720-86ac-11e4-8c28-020000005b00/palm-valley-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8df50720-86ac-11e4-8c28-020000005b00/palm-valley-golf-club",
+  "checked_at": 1795523995.8751903,
+  "sha256": "f66ee3d26664c97139e2316fa216a2f5eabecc112ccb6815448e3dffc39acf73",
+  "title": "Palm Valley Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8df50720-86ac-11e4-8c28-020000005b00",
+    "name": "Palm Valley Golf Club",
+    "address": "2211 Litchfield Rd, Goodyear, AZ",
+    "courses": [
+      {
+        "name": "North / South",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7015,
+            "par": 72,
+            "rating": 73,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7015,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6590,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6590,
+            "par": 72,
+            "rating": 77,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6160,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6160,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 125
+          },
+          {
+            "name": "Combo",
+            "category": "MALE",
+            "yards": 5600,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 112
+          },
+          {
+            "name": "Combo",
+            "category": "FEMALE",
+            "yards": 5600,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5300,
+            "par": 72,
+            "rating": 65,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5300,
+            "par": 72,
+            "rating": 70,
+            "slope": 115
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4200,
+            "par": 72,
+            "rating": 60.8,
+            "slope": 89
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4200,
+            "par": 72,
+            "rating": 63.4,
+            "slope": 101
+          }
+        ]
+      },
+      {
+        "name": "North / West",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6950,
+            "par": 71,
+            "rating": 72.9,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6950,
+            "par": 71,
+            "rating": 78.9,
+            "slope": 141
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6550,
+            "par": 71,
+            "rating": 71,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6550,
+            "par": 71,
+            "rating": 76.7,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6110,
+            "par": 71,
+            "rating": 68.7,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6110,
+            "par": 71,
+            "rating": 74.5,
+            "slope": 127
+          },
+          {
+            "name": "Combo",
+            "category": "MALE",
+            "yards": 5585,
+            "par": 71,
+            "rating": 66.3,
+            "slope": 111
+          },
+          {
+            "name": "Combo",
+            "category": "FEMALE",
+            "yards": 5585,
+            "par": 71,
+            "rating": 71.5,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5310,
+            "par": 71,
+            "rating": 65.1,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5310,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 119
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4300,
+            "par": 71,
+            "rating": 60.7,
+            "slope": 91
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4300,
+            "par": 71,
+            "rating": 63.8,
+            "slope": 107
+          }
+        ]
+      },
+      {
+        "name": "South / West",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6885,
+            "par": 71,
+            "rating": 72.5,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6885,
+            "par": 71,
+            "rating": 78.5,
+            "slope": 140
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6490,
+            "par": 71,
+            "rating": 70.8,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6490,
+            "par": 71,
+            "rating": 76.4,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6070,
+            "par": 71,
+            "rating": 68.5,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6070,
+            "par": 71,
+            "rating": 74.2,
+            "slope": 127
+          },
+          {
+            "name": "Combo",
+            "category": "MALE",
+            "yards": 5585,
+            "par": 71,
+            "rating": 66.4,
+            "slope": 112
+          },
+          {
+            "name": "Combo",
+            "category": "FEMALE",
+            "yards": 5585,
+            "par": 71,
+            "rating": 71.3,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5270,
+            "par": 71,
+            "rating": 65.1,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5270,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 117
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4270,
+            "par": 71,
+            "rating": 61.1,
+            "slope": 95
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4270,
+            "par": 71,
+            "rating": 63.6,
+            "slope": 104
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8df50720-86ac-11e4-8c28-020000005b00/palm-valley-golf-club"
+  }
+}

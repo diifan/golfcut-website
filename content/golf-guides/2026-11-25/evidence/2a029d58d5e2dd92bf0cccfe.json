@@ -1,0 +1,107 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96e8e5e0-86ac-11e4-8c28-020000005b00/falcon-ridge-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96e8e5e0-86ac-11e4-8c28-020000005b00/falcon-ridge-golf-course",
+  "checked_at": 1795524070.6815119,
+  "sha256": "8492e2ea00f8815e3760e494db06cfe8e1bc56e1e03e847101b37954500a36ed",
+  "title": "Falcon Ridge Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "96e8e5e0-86ac-11e4-8c28-020000005b00",
+    "name": "Falcon Ridge Golf Course",
+    "address": "33942 Falcon Ave Stacy, MN",
+    "courses": [
+      {
+        "name": "Falcon Ridge (Regulation)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6056,
+            "par": 71,
+            "rating": 70.1,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6056,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5591,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5591,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4976,
+            "par": 71,
+            "rating": 67.6,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4976,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 118
+          }
+        ]
+      },
+      {
+        "name": "Falcon Ridge(Exec )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1545,
+            "par": 29,
+            "rating": 28.8,
+            "slope": 88
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1545,
+            "par": 29,
+            "rating": 29.2,
+            "slope": 87
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1451,
+            "par": 29,
+            "rating": 28.41254,
+            "slope": 86.62832
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1451,
+            "par": 29,
+            "rating": 28.3,
+            "slope": 83
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96e8e5e0-86ac-11e4-8c28-020000005b00/falcon-ridge-golf-course"
+  }
+}

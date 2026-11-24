@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9aafd8f0-86ac-11e4-8c28-020000005b00/hendersonville-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9aafd8f0-86ac-11e4-8c28-020000005b00/hendersonville-country-club",
+  "checked_at": 1795524314.7193232,
+  "sha256": "b266af00b50d1e6d1b67a2101e7664588745c4bfc4fb4601f81516b92e8558c0",
+  "title": "Hendersonville Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9aafd8f0-86ac-11e4-8c28-020000005b00",
+    "name": "Hendersonville Country Club",
+    "address": "1860 Hebron Rd, Hendersonville, NC",
+    "courses": [
+      {
+        "name": "Hendersonville",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6523,
+            "par": 70,
+            "rating": 71.8,
+            "slope": 128
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6309,
+            "par": 70,
+            "rating": 70.5,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6063,
+            "par": 70,
+            "rating": 69.2,
+            "slope": 124
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5663,
+            "par": 70,
+            "rating": 67,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5317,
+            "par": 70,
+            "rating": 65.2,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5065,
+            "par": 70,
+            "rating": 63.9,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9aafd8f0-86ac-11e4-8c28-020000005b00/hendersonville-country-club"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ea2fa60-86ac-11e4-8c28-020000005b00/lansbrook-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ea2fa60-86ac-11e4-8c28-020000005b00/lansbrook-golf-club",
+  "checked_at": 1795523894.648369,
+  "sha256": "59244841daff7ed91acb5838d12b1e5687b631575dd40321022236eaaa6d7d4f",
+  "title": "Lansbrook Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8ea2fa60-86ac-11e4-8c28-020000005b00",
+    "name": "Lansbrook Golf Club",
+    "address": "4605 Village Center Dr, Palm Harbor FL",
+    "courses": [
+      {
+        "name": "Lansbrook",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6846,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 138
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6846,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6249,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6249,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5844,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5844,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5265,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5265,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 129
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ea2fa60-86ac-11e4-8c28-020000005b00/lansbrook-golf-club"
+  }
+}

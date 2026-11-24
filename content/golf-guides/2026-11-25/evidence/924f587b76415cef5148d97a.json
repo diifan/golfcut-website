@@ -1,0 +1,369 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8dd65b90-86ac-11e4-8c28-020000005b00/copper-canyon-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8dd65b90-86ac-11e4-8c28-020000005b00/copper-canyon-golf-club",
+  "checked_at": 1795524211.6381428,
+  "sha256": "2d582b1d31d0bddab979b68494c683f3d6265ca8c7ab4ff878ace8d052ada6d2",
+  "title": "Copper Canyon Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8dd65b90-86ac-11e4-8c28-020000005b00",
+    "name": "Copper Canyon Golf Club",
+    "address": "W Desert Vista Blvd, Buckeye, AZ",
+    "courses": [
+      {
+        "name": "Vista/Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6753,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 130
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6753,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Copper",
+            "category": "MALE",
+            "yards": 6338,
+            "par": 72,
+            "rating": 69,
+            "slope": 125
+          },
+          {
+            "name": "Copper",
+            "category": "FEMALE",
+            "yards": 6338,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Combo",
+            "category": "MALE",
+            "yards": 6092,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 120
+          },
+          {
+            "name": "Combo",
+            "category": "FEMALE",
+            "yards": 6092,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5808,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 115
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5808,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 124
+          },
+          {
+            "name": "Jade",
+            "category": "MALE",
+            "yards": 5100,
+            "par": 72,
+            "rating": 63.5,
+            "slope": 103
+          },
+          {
+            "name": "Jade",
+            "category": "FEMALE",
+            "yards": 5100,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4342,
+            "par": 72,
+            "rating": 60.1,
+            "slope": 93
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4342,
+            "par": 72,
+            "rating": 63.7,
+            "slope": 106
+          },
+          {
+            "name": "Ladies Combo",
+            "category": "MALE",
+            "yards": 5508,
+            "par": 72,
+            "rating": 64.8,
+            "slope": 110
+          },
+          {
+            "name": "Ladies Combo",
+            "category": "FEMALE",
+            "yards": 5508,
+            "par": 72,
+            "rating": 70,
+            "slope": 121
+          }
+        ]
+      },
+      {
+        "name": "Lake/Mountain",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6920,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 131
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6920,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Copper",
+            "category": "MALE",
+            "yards": 6531,
+            "par": 72,
+            "rating": 70,
+            "slope": 127
+          },
+          {
+            "name": "Copper",
+            "category": "FEMALE",
+            "yards": 6531,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Combo",
+            "category": "MALE",
+            "yards": 6159,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 121
+          },
+          {
+            "name": "Combo",
+            "category": "FEMALE",
+            "yards": 6159,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5876,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 114
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5876,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 125
+          },
+          {
+            "name": "Jade",
+            "category": "MALE",
+            "yards": 5200,
+            "par": 72,
+            "rating": 64.1,
+            "slope": 104
+          },
+          {
+            "name": "Jade",
+            "category": "FEMALE",
+            "yards": 5200,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4320,
+            "par": 72,
+            "rating": 60.3,
+            "slope": 94
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4320,
+            "par": 72,
+            "rating": 64.5,
+            "slope": 106
+          },
+          {
+            "name": "Ladies Combo",
+            "category": "MALE",
+            "yards": 5530,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 111
+          },
+          {
+            "name": "Ladies Combo",
+            "category": "FEMALE",
+            "yards": 5530,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 120
+          }
+        ]
+      },
+      {
+        "name": "Mountain/Vista",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7029,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 129
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7029,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Copper",
+            "category": "MALE",
+            "yards": 6611,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 124
+          },
+          {
+            "name": "Copper",
+            "category": "FEMALE",
+            "yards": 6611,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Combo",
+            "category": "MALE",
+            "yards": 6251,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 122
+          },
+          {
+            "name": "Combo",
+            "category": "FEMALE",
+            "yards": 6251,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5952,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 115
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5952,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 126
+          },
+          {
+            "name": "Jade",
+            "category": "MALE",
+            "yards": 5270,
+            "par": 72,
+            "rating": 64,
+            "slope": 104
+          },
+          {
+            "name": "Jade",
+            "category": "FEMALE",
+            "yards": 5270,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4334,
+            "par": 72,
+            "rating": 60.2,
+            "slope": 94
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4334,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 108
+          },
+          {
+            "name": "Ladies Combo",
+            "category": "MALE",
+            "yards": 5614,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 110
+          },
+          {
+            "name": "Ladies Combo",
+            "category": "FEMALE",
+            "yards": 5614,
+            "par": 72,
+            "rating": 71,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8dd65b90-86ac-11e4-8c28-020000005b00/copper-canyon-golf-club"
+  }
+}

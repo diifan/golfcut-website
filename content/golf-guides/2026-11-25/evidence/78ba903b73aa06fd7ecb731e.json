@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ada44b80-86ac-11e4-8c28-020000005b00/pleasant-valley-gc",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ada44b80-86ac-11e4-8c28-020000005b00/pleasant-valley-gc",
+  "checked_at": 1795523674.3042376,
+  "sha256": "57f4c27d90627afa3e920234619e1177ac4e60391ce51f43c57747ee7b212600",
+  "title": "Pleasant Valley GC - Scorecards, Reviews | 18Birdies star star star star star star star star-o star star-o star-o star star star-o star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "ada44b80-86ac-11e4-8c28-020000005b00",
+    "name": "Pleasant Valley GC",
+    "address": "Plowman Rd",
+    "courses": [
+      {
+        "name": "Pleasant Valley GC",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6498,
+            "par": 71,
+            "rating": 74.5,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6498,
+            "par": 71,
+            "rating": 76.5,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5953,
+            "par": 71,
+            "rating": 72.1,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5953,
+            "par": 71,
+            "rating": 73.6,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5363,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5363,
+            "par": 71,
+            "rating": 70.4,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ada44b80-86ac-11e4-8c28-020000005b00/pleasant-valley-gc"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ac38800-86ac-11e4-8c28-020000005b00/sea-scape-golf-links",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ac38800-86ac-11e4-8c28-020000005b00/sea-scape-golf-links",
+  "checked_at": 1795524166.5454078,
+  "sha256": "7b2507acb3231c0411cce085f2c8ea5f15fc7e0e0883bcf210826b5e68e9fe7f",
+  "title": "Sea Scape Golf Links - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9ac38800-86ac-11e4-8c28-020000005b00",
+    "name": "Sea Scape Golf Links",
+    "address": "300 Eckner St, Kitty Hawk, NC",
+    "courses": [
+      {
+        "name": "Sea Scape",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6131,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 124
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6131,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5789,
+            "par": 71,
+            "rating": 68.5,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5789,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5377,
+            "par": 71,
+            "rating": 66.9,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5377,
+            "par": 71,
+            "rating": 72,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4773,
+            "par": 71,
+            "rating": 64.2,
+            "slope": 100
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4773,
+            "par": 71,
+            "rating": 68.3,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ac38800-86ac-11e4-8c28-020000005b00/sea-scape-golf-links"
+  }
+}

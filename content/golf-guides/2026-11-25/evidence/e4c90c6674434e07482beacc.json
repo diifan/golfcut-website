@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/887a70a0-86ac-11e4-8c28-020000005b00/metamora-fields-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/887a70a0-86ac-11e4-8c28-020000005b00/metamora-fields-golf-club",
+  "checked_at": 1795524167.302683,
+  "sha256": "55898fcb99f80588c8a23ceeb491699c3c7fe28fdab52fc26c91b2b3c6314d41",
+  "title": "Metamora Fields Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "887a70a0-86ac-11e4-8c28-020000005b00",
+    "name": "Metamora Fields Golf Club",
+    "address": "801 W Progress St, Metamora, IL",
+    "courses": [
+      {
+        "name": "Metamora Fields",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 7100,
+            "par": 71,
+            "rating": 74.1,
+            "slope": 133
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6663,
+            "par": 71,
+            "rating": 72.1,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6209,
+            "par": 71,
+            "rating": 70,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5793,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4939,
+            "par": 71,
+            "rating": 67.4,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/887a70a0-86ac-11e4-8c28-020000005b00/metamora-fields-golf-club"
+  }
+}

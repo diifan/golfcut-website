@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9955a020-86ac-11e4-8c28-020000005b00/rock-hill",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9955a020-86ac-11e4-8c28-020000005b00/rock-hill",
+  "checked_at": 1795523849.8981884,
+  "sha256": "af818e9f8aefb09c8d2704486740e5c02a106d05e81dbdf79526e0ceea9061da",
+  "title": "Rock Hill - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9955a020-86ac-11e4-8c28-020000005b00",
+    "name": "Rock Hill",
+    "address": "105 Clancy Rd, Manorville, NY",
+    "courses": [
+      {
+        "name": "Rock Hill",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7050,
+            "par": 71,
+            "rating": 73.6,
+            "slope": 133
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7050,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6465,
+            "par": 71,
+            "rating": 70.8,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6465,
+            "par": 71,
+            "rating": 76.3,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6058,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6058,
+            "par": 71,
+            "rating": 74.4,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5390,
+            "par": 71,
+            "rating": 69.5,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5390,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9955a020-86ac-11e4-8c28-020000005b00/rock-hill"
+  }
+}

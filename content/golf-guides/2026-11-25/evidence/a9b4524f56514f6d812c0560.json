@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/982cb080-86ac-11e4-8c28-020000005b00/ash-brook-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/982cb080-86ac-11e4-8c28-020000005b00/ash-brook-golf-course",
+  "checked_at": 1795524013.586539,
+  "sha256": "98915b2794ee27120da6e5d6d9d5a2fa21400648920fcbd8d9abc30862e3bb09",
+  "title": "Ash Brook Golf course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "982cb080-86ac-11e4-8c28-020000005b00",
+    "name": "Ash Brook Golf course",
+    "address": "1210 Raritan Rd, Scotch Plains, NJ",
+    "courses": [
+      {
+        "name": "Ash Brook",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7040,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 133
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7040,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6397,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6397,
+            "par": 72,
+            "rating": 77.3,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5841,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5841,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5570,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5570,
+            "par": 72,
+            "rating": 72,
+            "slope": 124
+          }
+        ]
+      },
+      {
+        "name": "Pitch & Putt ",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Mens",
+            "category": "MALE",
+            "yards": 673,
+            "par": 27,
+            "rating": 27.7,
+            "slope": 86
+          },
+          {
+            "name": "Mens",
+            "category": "FEMALE",
+            "yards": 673,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 673,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ladies",
+            "category": "FEMALE",
+            "yards": 673,
+            "par": 27,
+            "rating": 27,
+            "slope": 85
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/982cb080-86ac-11e4-8c28-020000005b00/ash-brook-golf-course"
+  }
+}

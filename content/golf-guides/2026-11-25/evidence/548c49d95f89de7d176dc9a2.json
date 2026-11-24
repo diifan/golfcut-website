@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ca5cad0-86ac-11e4-8c28-020000005b00/memorial-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ca5cad0-86ac-11e4-8c28-020000005b00/memorial-park-golf-course",
+  "checked_at": 1795523992.7774434,
+  "sha256": "b28a4a34425acab61ccada3ff75e389dda0bcaba8366fe67d61f640d889841ff",
+  "title": "Memorial Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8ca5cad0-86ac-11e4-8c28-020000005b00",
+    "name": "Memorial Park Golf Course",
+    "address": "1001 E. Memeorial Loop, Houston, TX",
+    "courses": [
+      {
+        "name": "Memorial Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7464,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7464,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6584,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6584,
+            "par": 72,
+            "rating": 76.6,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5930,
+            "par": 72,
+            "rating": 68,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5930,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 120
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5595,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 102
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5595,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4851,
+            "par": 72,
+            "rating": 63.1,
+            "slope": 98
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4851,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ca5cad0-86ac-11e4-8c28-020000005b00/memorial-park-golf-course"
+  }
+}

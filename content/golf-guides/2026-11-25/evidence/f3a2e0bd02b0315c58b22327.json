@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b173ca10-86ac-11e4-8c28-020000005b00/sandia-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b173ca10-86ac-11e4-8c28-020000005b00/sandia-golf-club",
+  "checked_at": 1795523751.0796506,
+  "sha256": "4224b5c9f0842914c165a8429c5240ed5f69db62176b6c933f8eae24d0ba2a23",
+  "title": "Sandia Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b173ca10-86ac-11e4-8c28-020000005b00",
+    "name": "Sandia Golf Club",
+    "address": "30 Rainbow Rd NE",
+    "courses": [
+      {
+        "name": "Sandia",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Professional",
+            "category": "MALE",
+            "yards": 7755,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 142
+          },
+          {
+            "name": "Professional",
+            "category": "FEMALE",
+            "yards": 7755,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 142
+          },
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7111,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 133
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 7111,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 133
+          },
+          {
+            "name": "Club",
+            "category": "MALE",
+            "yards": 6671,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 130
+          },
+          {
+            "name": "Club",
+            "category": "FEMALE",
+            "yards": 6671,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 130
+          },
+          {
+            "name": "Resort",
+            "category": "MALE",
+            "yards": 6008,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 114
+          },
+          {
+            "name": "Resort",
+            "category": "FEMALE",
+            "yards": 6008,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 124
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5093,
+            "par": 72,
+            "rating": 63,
+            "slope": 102
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5093,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b173ca10-86ac-11e4-8c28-020000005b00/sandia-golf-club"
+  }
+}

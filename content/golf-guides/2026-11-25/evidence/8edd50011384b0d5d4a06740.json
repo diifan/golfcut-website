@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e90d1f0-86ac-11e4-8c28-020000005b00/quarry-pines-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e90d1f0-86ac-11e4-8c28-020000005b00/quarry-pines-golf-club",
+  "checked_at": 1795524200.8207147,
+  "sha256": "fffb1f7a62daa1c48502a7933ccd4733fc4daf299dd14ba721fb95133d52568f",
+  "title": "Quarry Pines Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8e90d1f0-86ac-11e4-8c28-020000005b00",
+    "name": "Quarry Pines Golf Club",
+    "address": "8480 N Continental Drive, Tucson, AZ 85743",
+    "courses": [
+      {
+        "name": "Quarry Pines",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6318,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 132
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5833,
+            "par": 71,
+            "rating": 68.4,
+            "slope": 124
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5384,
+            "par": 71,
+            "rating": 66.3,
+            "slope": 115
+          },
+          {
+            "name": "Copper",
+            "category": "MALE",
+            "yards": 4893,
+            "par": 71,
+            "rating": 63.8,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e90d1f0-86ac-11e4-8c28-020000005b00/quarry-pines-golf-club"
+  }
+}

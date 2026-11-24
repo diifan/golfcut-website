@@ -1,0 +1,235 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af14a460-86ac-11e4-8c28-020000005b00/the-golf-club-of-tennessee",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af14a460-86ac-11e4-8c28-020000005b00/the-golf-club-of-tennessee",
+  "checked_at": 1795524342.9652321,
+  "sha256": "2f3a8acb455cc3c086d60652ed9056bab42e9daa7819c6de8c74e7243c5156b3",
+  "title": "The Golf Club of Tennessee - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af14a460-86ac-11e4-8c28-020000005b00",
+    "name": "The Golf Club of Tennessee",
+    "address": "1000 Golf Club Drive, Kingston Springs",
+    "courses": [
+      {
+        "name": "Tennessee",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7184,
+            "par": 71,
+            "rating": 74.4,
+            "slope": 147
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7184,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold/blue",
+            "category": "MALE",
+            "yards": 6979,
+            "par": 71,
+            "rating": 73.4,
+            "slope": 145
+          },
+          {
+            "name": "Gold/blue",
+            "category": "FEMALE",
+            "yards": 6979,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6583,
+            "par": 71,
+            "rating": 71.8,
+            "slope": 142
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6583,
+            "par": 71,
+            "rating": 78,
+            "slope": 149
+          },
+          {
+            "name": "Blue/black",
+            "category": "MALE",
+            "yards": 6423,
+            "par": 71,
+            "rating": 71,
+            "slope": 140
+          },
+          {
+            "name": "Blue/black",
+            "category": "FEMALE",
+            "yards": 6423,
+            "par": 71,
+            "rating": 77,
+            "slope": 148
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6170,
+            "par": 71,
+            "rating": 69.9,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6170,
+            "par": 71,
+            "rating": 75.7,
+            "slope": 145
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5780,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5780,
+            "par": 71,
+            "rating": 73.7,
+            "slope": 141
+          },
+          {
+            "name": "Red/White",
+            "category": "MALE",
+            "yards": 5077,
+            "par": 71,
+            "rating": 65,
+            "slope": 126
+          },
+          {
+            "name": "Red/White",
+            "category": "FEMALE",
+            "yards": 5077,
+            "par": 71,
+            "rating": 69.9,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4815,
+            "par": 71,
+            "rating": 78,
+            "slope": 149
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4815,
+            "par": 71,
+            "rating": 68.4,
+            "slope": 123
+          }
+        ]
+      },
+      {
+        "name": "Upper Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "1",
+            "category": "MALE",
+            "yards": 7250,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 151
+          },
+          {
+            "name": "1",
+            "category": "FEMALE",
+            "yards": 7250,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "2",
+            "category": "MALE",
+            "yards": 6730,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 145
+          },
+          {
+            "name": "2",
+            "category": "FEMALE",
+            "yards": 6730,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "3",
+            "category": "MALE",
+            "yards": 6115,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 134
+          },
+          {
+            "name": "3",
+            "category": "FEMALE",
+            "yards": 6115,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "4",
+            "category": "MALE",
+            "yards": 5465,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 122
+          },
+          {
+            "name": "4",
+            "category": "FEMALE",
+            "yards": 5465,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 128
+          },
+          {
+            "name": "5",
+            "category": "MALE",
+            "yards": 4640,
+            "par": 72,
+            "rating": 63.6,
+            "slope": 115
+          },
+          {
+            "name": "5",
+            "category": "FEMALE",
+            "yards": 4640,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af14a460-86ac-11e4-8c28-020000005b00/the-golf-club-of-tennessee"
+  }
+}

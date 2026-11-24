@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95764310-86ac-11e4-8c28-020000005b00/stone-meadow-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95764310-86ac-11e4-8c28-020000005b00/stone-meadow-golf",
+  "checked_at": 1795523745.2154284,
+  "sha256": "bce785078da88e9da3852072c8da66deab97ba0978897a0519b7547f742695be",
+  "title": "Stone Meadow Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95764310-86ac-11e4-8c28-020000005b00",
+    "name": "Stone Meadow Golf",
+    "address": "675 Waltham St",
+    "courses": [
+      {
+        "name": "Stone Meadow",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 564,
+            "par": 27,
+            "rating": 27.3,
+            "slope": 87
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 564,
+            "par": 27,
+            "rating": 28.5,
+            "slope": 89
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95764310-86ac-11e4-8c28-020000005b00/stone-meadow-golf"
+  }
+}

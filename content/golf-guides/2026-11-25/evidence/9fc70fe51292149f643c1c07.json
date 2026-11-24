@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad1c56d0-86ac-11e4-8c28-020000005b00/willow-hollow-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad1c56d0-86ac-11e4-8c28-020000005b00/willow-hollow-golf-course",
+  "checked_at": 1795524857.4371505,
+  "sha256": "bd98b73ada1d871a04e2a36955334c80dfdc8f63fc82fc767031e0d9f52fd6da",
+  "title": "Willow Hollow Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ad1c56d0-86ac-11e4-8c28-020000005b00",
+    "name": "Willow Hollow Golf Course",
+    "address": "619 Prison Road",
+    "courses": [
+      {
+        "name": "Willow Hollow",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5546,
+            "par": 70,
+            "rating": 65.8,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5125,
+            "par": 70,
+            "rating": 63.7,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4282,
+            "par": 70,
+            "rating": 60.8,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad1c56d0-86ac-11e4-8c28-020000005b00/willow-hollow-golf-course"
+  }
+}

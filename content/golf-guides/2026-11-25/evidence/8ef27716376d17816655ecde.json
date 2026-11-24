@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/889858e0-86ac-11e4-8c28-020000005b00/hansen-dam-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/889858e0-86ac-11e4-8c28-020000005b00/hansen-dam-golf-course",
+  "checked_at": 1795524264.271635,
+  "sha256": "9e9691e6636b5c87f3b2cec2862689a9463fd923216f5d6f94c7966fdcbd76af",
+  "title": "Hansen Dam Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "889858e0-86ac-11e4-8c28-020000005b00",
+    "name": "Hansen Dam Golf Course",
+    "address": "10400 Glenoaks Blvd, Pacoima, CA",
+    "courses": [
+      {
+        "name": "Hansen Dam",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6801,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 124
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6801,
+            "par": 72,
+            "rating": 78.9,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6419,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6419,
+            "par": 72,
+            "rating": 76.7,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6001,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6001,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 125
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5435,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 109
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5435,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/889858e0-86ac-11e4-8c28-020000005b00/hansen-dam-golf-course"
+  }
+}

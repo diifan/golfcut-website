@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/949c5dd0-86ac-11e4-8c28-020000005b00/stonecrest-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/949c5dd0-86ac-11e4-8c28-020000005b00/stonecrest-golf-course",
+  "checked_at": 1795523932.7612042,
+  "sha256": "0d289b2e60d75701e101f2f5ec3674ee9c29b8fe8921c469d403a4e1017e1ab1",
+  "title": "Stonecrest Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "949c5dd0-86ac-11e4-8c28-020000005b00",
+    "name": "Stonecrest Golf Course",
+    "address": "918 Clubhouse Drive, Prestonsburg, KY",
+    "courses": [
+      {
+        "name": "Stonecrest",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7160,
+            "par": 70,
+            "rating": 75.5,
+            "slope": 138
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7160,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6533,
+            "par": 70,
+            "rating": 72.2,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6533,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5942,
+            "par": 70,
+            "rating": 69.3,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5942,
+            "par": 70,
+            "rating": 75.6,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5375,
+            "par": 70,
+            "rating": 66.5,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5375,
+            "par": 70,
+            "rating": 72,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4810,
+            "par": 70,
+            "rating": 61,
+            "slope": 98
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4810,
+            "par": 70,
+            "rating": 64.4,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/949c5dd0-86ac-11e4-8c28-020000005b00/stonecrest-golf-course"
+  }
+}

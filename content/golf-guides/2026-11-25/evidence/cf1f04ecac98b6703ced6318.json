@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/996d94f0-86ac-11e4-8c28-020000005b00/twin-ponds-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/996d94f0-86ac-11e4-8c28-020000005b00/twin-ponds-golf-country-club",
+  "checked_at": 1795524332.0620365,
+  "sha256": "ca6c4f3c0ac43260e1511ccbcba4fa34d95b627cb93347d9eb05002aec7240a2",
+  "title": "Twin Ponds Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "996d94f0-86ac-11e4-8c28-020000005b00",
+    "name": "Twin Ponds Golf & Country Club",
+    "address": "169 Main St, New York Mills, NY",
+    "courses": [
+      {
+        "name": "Twin Ponds",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6254,
+            "par": 70,
+            "rating": 69,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6254,
+            "par": 70,
+            "rating": 75.2,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5843,
+            "par": 70,
+            "rating": 67.7,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5843,
+            "par": 70,
+            "rating": 73,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4760,
+            "par": 70,
+            "rating": 66.6,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4760,
+            "par": 70,
+            "rating": 67.9,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/996d94f0-86ac-11e4-8c28-020000005b00/twin-ponds-golf-country-club"
+  }
+}

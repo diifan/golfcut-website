@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92b96d00-86ac-11e4-8c28-020000005b00/new-haven-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92b96d00-86ac-11e4-8c28-020000005b00/new-haven-country-club",
+  "checked_at": 1795524096.4226396,
+  "sha256": "b43770d89018c9dc27d31383cff5d63c3d3bfa552596051fa2ee2f2ec3c7a39d",
+  "title": "New Haven Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92b96d00-86ac-11e4-8c28-020000005b00",
+    "name": "New Haven Country Club",
+    "address": "160 Hartford Turnpike",
+    "courses": [
+      {
+        "name": "New Haven",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6560,
+            "par": 70,
+            "rating": 71.8,
+            "slope": 131
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6560,
+            "par": 70,
+            "rating": 76.8,
+            "slope": 136
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6270,
+            "par": 70,
+            "rating": 70.7,
+            "slope": 128
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 6270,
+            "par": 70,
+            "rating": 76.9,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5819,
+            "par": 70,
+            "rating": 68.2,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5819,
+            "par": 70,
+            "rating": 74.1,
+            "slope": 129
+          },
+          {
+            "name": "Bronze",
+            "category": "MALE",
+            "yards": 4945,
+            "par": 70,
+            "rating": 64.4,
+            "slope": 109
+          },
+          {
+            "name": "Bronze",
+            "category": "FEMALE",
+            "yards": 4945,
+            "par": 70,
+            "rating": 69.5,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92b96d00-86ac-11e4-8c28-020000005b00/new-haven-country-club"
+  }
+}

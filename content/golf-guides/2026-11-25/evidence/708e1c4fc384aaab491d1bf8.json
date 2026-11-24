@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af719170-86ac-11e4-8c28-020000005b00/bear-lake-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af719170-86ac-11e4-8c28-020000005b00/bear-lake-golf-course",
+  "checked_at": 1795524335.6383305,
+  "sha256": "ff9abbc4fe32dd8a4ce9af94fac25812b176ac29920a52118d11830aa5f81502",
+  "title": "Bear Lake Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af719170-86ac-11e4-8c28-020000005b00",
+    "name": "Bear Lake Golf Course",
+    "address": "Bear Lake Blvd, Garden City, UT",
+    "courses": [
+      {
+        "name": "Bear Lake",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3376,
+            "par": 36,
+            "rating": 35.9,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3376,
+            "par": 34,
+            "rating": 38.9,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3126,
+            "par": 36,
+            "rating": 34.7,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3126,
+            "par": 34,
+            "rating": 37.1,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2678,
+            "par": 36,
+            "rating": 32.7,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2678,
+            "par": 34,
+            "rating": 34.9,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af719170-86ac-11e4-8c28-020000005b00/bear-lake-golf-course"
+  }
+}

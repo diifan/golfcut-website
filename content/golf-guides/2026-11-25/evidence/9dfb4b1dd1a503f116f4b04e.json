@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9905f980-86ac-11e4-8c28-020000005b00/emerald-greens-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9905f980-86ac-11e4-8c28-020000005b00/emerald-greens-golf-course",
+  "checked_at": 1795524821.7065992,
+  "sha256": "739d5cd9aaf029a0a28c7df8a34566b37b965ebe78ff8323bdad4be900778e80",
+  "title": "Emerald Greens Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9905f980-86ac-11e4-8c28-020000005b00",
+    "name": "Emerald Greens Golf Course",
+    "address": "1485 US Hwy 11, Gouverneur, NY",
+    "courses": [
+      {
+        "name": "Emerald Greens",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5475,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5475,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4530,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4530,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9905f980-86ac-11e4-8c28-020000005b00/emerald-greens-golf-course"
+  }
+}

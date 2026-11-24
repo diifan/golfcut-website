@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e049780-86ac-11e4-8c28-020000005b00/arizona-golf-resort",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e049780-86ac-11e4-8c28-020000005b00/arizona-golf-resort",
+  "checked_at": 1795524885.8367136,
+  "sha256": "5a626f675571ec41e860313833b16224de211a941e0900499c9b89ae45c30639",
+  "title": "Golden Hills Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8e049780-86ac-11e4-8c28-020000005b00",
+    "name": "Golden Hills Golf Club",
+    "address": "425 S Power Road, Mesa, AZ",
+    "courses": [
+      {
+        "name": "Golden Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6601,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6601,
+            "par": 72,
+            "rating": 77,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6211,
+            "par": 72,
+            "rating": 69,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6211,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5874,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 112
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5874,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5123,
+            "par": 72,
+            "rating": 64.2,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5123,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e049780-86ac-11e4-8c28-020000005b00/arizona-golf-resort"
+  }
+}

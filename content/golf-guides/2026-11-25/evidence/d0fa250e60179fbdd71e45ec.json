@@ -1,0 +1,273 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af945bb0-86ac-11e4-8c28-020000005b00/sunbrook-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af945bb0-86ac-11e4-8c28-020000005b00/sunbrook-golf-club",
+  "checked_at": 1795523918.9200711,
+  "sha256": "b3e3f13bda260d75e27be93be8ce23ca18547140a4312d896ee34d4a94d89d06",
+  "title": "Sunbrook Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af945bb0-86ac-11e4-8c28-020000005b00",
+    "name": "Sunbrook Golf Club",
+    "address": "2366 W Sunbrook Drive, Saint George, UT",
+    "courses": [
+      {
+        "name": "Black Rock/The Point",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6781,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 134
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6781,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6327,
+            "par": 72,
+            "rating": 71,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6327,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5914,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 123
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5914,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 140
+          },
+          {
+            "name": "Silver/Bronze",
+            "category": "MALE",
+            "yards": 5707,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 116
+          },
+          {
+            "name": "Silver/Bronze",
+            "category": "FEMALE",
+            "yards": 5707,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 129
+          },
+          {
+            "name": "Bronze",
+            "category": "MALE",
+            "yards": 5131,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 110
+          },
+          {
+            "name": "Bronze",
+            "category": "FEMALE",
+            "yards": 5131,
+            "par": 72,
+            "rating": 70,
+            "slope": 121
+          }
+        ]
+      },
+      {
+        "name": "Woodbridge/Black Rock",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6875,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 138
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6875,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6441,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6441,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 6034,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 126
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 6034,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 143
+          },
+          {
+            "name": "Silver/Bronze",
+            "category": "MALE",
+            "yards": 6034,
+            "par": 72,
+            "rating": 68,
+            "slope": 118
+          },
+          {
+            "name": "Silver/Bronze",
+            "category": "FEMALE",
+            "yards": 6034,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 136
+          },
+          {
+            "name": "Bronze",
+            "category": "MALE",
+            "yards": 5162,
+            "par": 72,
+            "rating": 65.2,
+            "slope": 112
+          },
+          {
+            "name": "Bronze",
+            "category": "FEMALE",
+            "yards": 5162,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 122
+          }
+        ]
+      },
+      {
+        "name": "The Point/Woodbridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6888,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 133
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6888,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6472,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6472,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 6092,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 126
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 6092,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 141
+          },
+          {
+            "name": "Silver/Bronze",
+            "category": "MALE",
+            "yards": 5885,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 118
+          },
+          {
+            "name": "Silver/Bronze",
+            "category": "FEMALE",
+            "yards": 5885,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 134
+          },
+          {
+            "name": "Bronze",
+            "category": "MALE",
+            "yards": 5331,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 116
+          },
+          {
+            "name": "Bronze",
+            "category": "FEMALE",
+            "yards": 5331,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af945bb0-86ac-11e4-8c28-020000005b00/sunbrook-golf-club"
+  }
+}

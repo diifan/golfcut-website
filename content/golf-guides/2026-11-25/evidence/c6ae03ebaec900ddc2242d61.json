@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8eb91a70-86ac-11e4-8c28-020000005b00/highland-hills-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8eb91a70-86ac-11e4-8c28-020000005b00/highland-hills-golf-country-club",
+  "checked_at": 1795524834.6275048,
+  "sha256": "f916141c385e4119bbc819eaca48d256ca382e40889465029978d0654d902f50",
+  "title": "Highland Hills Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star-o star star-o star-o star star star-o star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "8eb91a70-86ac-11e4-8c28-020000005b00",
+    "name": "Highland Hills Golf & Country Club",
+    "address": "5600 N Elkcam Blvd, Beverly Hills, FL",
+    "courses": [
+      {
+        "name": "Highland Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6267,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5884,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5470,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5225,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8eb91a70-86ac-11e4-8c28-020000005b00/highland-hills-golf-country-club"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9570c4d0-86ac-11e4-8c28-020000005b00/lakeville-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9570c4d0-86ac-11e4-8c28-020000005b00/lakeville-golf-club",
+  "checked_at": 1795524162.7179692,
+  "sha256": "07456aad597d7c19c52a58ceeca707e42e0138027df50b492b68369cbaaf5fa8",
+  "title": "Lakeville Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9570c4d0-86ac-11e4-8c28-020000005b00",
+    "name": "Lakeville Golf Club",
+    "address": "44 Clear Pond Rd, Lakeville, MA",
+    "courses": [
+      {
+        "name": "Lakeville",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6335,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6335,
+            "par": 72,
+            "rating": 75.6,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5890,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5890,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4868,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4868,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9570c4d0-86ac-11e4-8c28-020000005b00/lakeville-golf-club"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c1f0ea0-86ac-11e4-8c28-020000005b00/mission-del-lago-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c1f0ea0-86ac-11e4-8c28-020000005b00/mission-del-lago-municipal-golf-course",
+  "checked_at": 1795524107.9537907,
+  "sha256": "4d70110caf3aa61a02a6821403a96d85b2ee9bc086d8c333a3bc53f569bb8d23",
+  "title": "Mission Del Lago Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8c1f0ea0-86ac-11e4-8c28-020000005b00",
+    "name": "Mission Del Lago Municipal Golf Course",
+    "address": "1250 Mission Grande, San Antonio, TX",
+    "courses": [
+      {
+        "name": "Mission Del Lago",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7044,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7044,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6378,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6378,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 134
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5890,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5890,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5371,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5371,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c1f0ea0-86ac-11e4-8c28-020000005b00/mission-del-lago-municipal-golf-course"
+  }
+}

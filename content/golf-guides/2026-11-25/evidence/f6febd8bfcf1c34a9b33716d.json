@@ -1,0 +1,295 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a1e0e80-86ac-11e4-8c28-020000005b00/sand-canyon-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a1e0e80-86ac-11e4-8c28-020000005b00/sand-canyon-country-club",
+  "checked_at": 1795523759.468697,
+  "sha256": "70c6104216ae1acdb46905e7fbae33405c1d2557665eca41ee13f8e112c50f07",
+  "title": "Sand Canyon Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a1e0e80-86ac-11e4-8c28-020000005b00",
+    "name": "Sand Canyon Country Club",
+    "address": "27734 Sand Canyon Rd, Santa Clarita, CA",
+    "courses": [
+      {
+        "name": "Mountain/Desert",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6740,
+            "par": 71,
+            "rating": 73.8,
+            "slope": 141
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6740,
+            "par": 71,
+            "rating": 77.8,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6320,
+            "par": 71,
+            "rating": 71.4,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6320,
+            "par": 71,
+            "rating": 75.5,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5858,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5858,
+            "par": 71,
+            "rating": 75.2,
+            "slope": 137
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5150,
+            "par": 71,
+            "rating": 66,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5150,
+            "par": 71,
+            "rating": 70.7,
+            "slope": 126
+          }
+        ]
+      },
+      {
+        "name": "Valley/Desert",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6903,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 145
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6903,
+            "par": 72,
+            "rating": 78.6,
+            "slope": 140
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6469,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6469,
+            "par": 72,
+            "rating": 76.3,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6024,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6024,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 140
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5408,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5408,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 130
+          }
+        ]
+      },
+      {
+        "name": "Desert/Mountain",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6740,
+            "par": 71,
+            "rating": 73.8,
+            "slope": 141
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6740,
+            "par": 71,
+            "rating": 77.8,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6320,
+            "par": 71,
+            "rating": 71.4,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6320,
+            "par": 71,
+            "rating": 75.5,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5858,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5858,
+            "par": 71,
+            "rating": 75.2,
+            "slope": 137
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5150,
+            "par": 71,
+            "rating": 66,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5150,
+            "par": 71,
+            "rating": 70.7,
+            "slope": 126
+          }
+        ]
+      },
+      {
+        "name": "Mountain/Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6585,
+            "par": 71,
+            "rating": 73.3,
+            "slope": 139
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6585,
+            "par": 71,
+            "rating": 76.9,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6207,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6207,
+            "par": 71,
+            "rating": 74.9,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5796,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5796,
+            "par": 71,
+            "rating": 75,
+            "slope": 137
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5138,
+            "par": 71,
+            "rating": 66.2,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5138,
+            "par": 71,
+            "rating": 71.3,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a1e0e80-86ac-11e4-8c28-020000005b00/sand-canyon-country-club"
+  }
+}

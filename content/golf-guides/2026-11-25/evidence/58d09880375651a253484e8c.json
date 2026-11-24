@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c92f0d0-86ac-11e4-8c28-020000005b00/fox-den-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c92f0d0-86ac-11e4-8c28-020000005b00/fox-den-golf-course",
+  "checked_at": 1795524029.434761,
+  "sha256": "b9ec73518485533fd028ba646d00f32696d543a3bfe251b0d4b41d8ec47e01e9",
+  "title": "Fox Den Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9c92f0d0-86ac-11e4-8c28-020000005b00",
+    "name": "Fox Den Golf Course",
+    "address": "2770 Call Rd, Stow, OH",
+    "courses": [
+      {
+        "name": "Fox Den",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6448,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6448,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6029,
+            "par": 71,
+            "rating": 69.5,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6029,
+            "par": 71,
+            "rating": 74.7,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5342,
+            "par": 71,
+            "rating": 65.7,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5342,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 121
+          },
+          {
+            "name": "Maroon",
+            "category": "MALE",
+            "yards": 4853,
+            "par": 71,
+            "rating": 63.7,
+            "slope": 115
+          },
+          {
+            "name": "Maroon",
+            "category": "FEMALE",
+            "yards": 4853,
+            "par": 71,
+            "rating": 68.3,
+            "slope": 115
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 4853,
+            "par": 71,
+            "rating": 60.3,
+            "slope": 105
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 4853,
+            "par": 71,
+            "rating": 62.7,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c92f0d0-86ac-11e4-8c28-020000005b00/fox-den-golf-course"
+  }
+}

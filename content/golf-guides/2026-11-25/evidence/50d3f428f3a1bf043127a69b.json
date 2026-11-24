@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af980530-86ac-11e4-8c28-020000005b00/eagle-lake-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af980530-86ac-11e4-8c28-020000005b00/eagle-lake-golf-course",
+  "checked_at": 1795523768.9131699,
+  "sha256": "a955310842afdd167da6db8d4b827a8c0b4eacb842bee0f7c491dce65706bb1a",
+  "title": "Eagle Lake Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "af980530-86ac-11e4-8c28-020000005b00",
+    "name": "Eagle Lake Golf Course",
+    "address": "2885 W 5200 S, Roy, Utah, Weber County",
+    "courses": [
+      {
+        "name": "Eagle Lake",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 2502,
+            "par": 31,
+            "rating": 31,
+            "slope": 97
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 2502,
+            "par": 31,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2247,
+            "par": 31,
+            "rating": 30.5,
+            "slope": 95
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2247,
+            "par": 31,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1979,
+            "par": 31,
+            "rating": 29.9,
+            "slope": 93
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1979,
+            "par": 31,
+            "rating": 31,
+            "slope": 98
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1581,
+            "par": 31,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1581,
+            "par": 31,
+            "rating": 29.1,
+            "slope": 91
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af980530-86ac-11e4-8c28-020000005b00/eagle-lake-golf-course"
+  }
+}

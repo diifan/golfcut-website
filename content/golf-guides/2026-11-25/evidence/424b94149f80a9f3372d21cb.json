@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c1f6e80-86ac-11e4-8c28-020000005b00/eagles-nest-public-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c1f6e80-86ac-11e4-8c28-020000005b00/eagles-nest-public-golf-course",
+  "checked_at": 1795524866.2302358,
+  "sha256": "489d4bcea65b66c6c541d115d9db1a61c2e1ee15cffde1048afe2dda6aa8ece6",
+  "title": "Eagles Nest Public Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9c1f6e80-86ac-11e4-8c28-020000005b00",
+    "name": "Eagles Nest Public Golf Course",
+    "address": "1540 State Route 28, Loveland",
+    "courses": [
+      {
+        "name": "Eagles Nest",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6145,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6145,
+            "par": 71,
+            "rating": 74.6,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5927,
+            "par": 71,
+            "rating": 68.7,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5927,
+            "par": 71,
+            "rating": 73.4,
+            "slope": 129
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4925,
+            "par": 71,
+            "rating": 67.4,
+            "slope": 115
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 4925,
+            "par": 71,
+            "rating": 68.6,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c1f6e80-86ac-11e4-8c28-020000005b00/eagles-nest-public-golf-course"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af9e46c0-86ac-11e4-8c28-020000005b00/timpanogos-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af9e46c0-86ac-11e4-8c28-020000005b00/timpanogos-golf-club",
+  "checked_at": 1795524872.3417447,
+  "sha256": "b7b4a4ea361e88722e7697ca5c2987beda3989a48c31829ade06170b0c782071",
+  "title": "Timpanogos Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "af9e46c0-86ac-11e4-8c28-020000005b00",
+    "name": "Timpanogos Golf Club",
+    "address": "380 East Lakeview Parkway Provo, UT",
+    "courses": [
+      {
+        "name": "Championship",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7030,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 135
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7030,
+            "par": 72,
+            "rating": 79.6,
+            "slope": 147
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6705,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 130
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6705,
+            "par": 72,
+            "rating": 77.6,
+            "slope": 144
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6091,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6091,
+            "par": 72,
+            "rating": 74,
+            "slope": 136
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5138,
+            "par": 72,
+            "rating": 64.3,
+            "slope": 111
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5138,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 120
+          }
+        ]
+      },
+      {
+        "name": "The Pasture  Par3 Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 1757,
+            "par": 27,
+            "rating": 27,
+            "slope": 83
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 1757,
+            "par": 27,
+            "rating": 27,
+            "slope": 83
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1545,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1545,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af9e46c0-86ac-11e4-8c28-020000005b00/timpanogos-golf-club"
+  }
+}

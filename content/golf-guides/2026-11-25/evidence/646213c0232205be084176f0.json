@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9481d0f0-86ac-11e4-8c28-020000005b00/houston-oaks-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9481d0f0-86ac-11e4-8c28-020000005b00/houston-oaks-golf-course",
+  "checked_at": 1795524027.461066,
+  "sha256": "59c58613a3785c221f11676812341fbe9f346669cb8d096b83cb15c83fe6fcaf",
+  "title": "Houston Oaks Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9481d0f0-86ac-11e4-8c28-020000005b00",
+    "name": "Houston Oaks Golf Course",
+    "address": "555 Houston Oaks Drive,  Paris, KY 40361",
+    "courses": [
+      {
+        "name": "Houston Oaks",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6842,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6842,
+            "par": 73,
+            "rating": 78.3,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6446,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6446,
+            "par": 73,
+            "rating": 76.2,
+            "slope": 135
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5895,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 128
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5895,
+            "par": 73,
+            "rating": 74.6,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5079,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5079,
+            "par": 73,
+            "rating": 69.2,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9481d0f0-86ac-11e4-8c28-020000005b00/houston-oaks-golf-course"
+  }
+}

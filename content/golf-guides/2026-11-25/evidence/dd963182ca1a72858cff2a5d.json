@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2574c40-86ac-11e4-8c28-020000005b00/twin-brooks-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2574c40-86ac-11e4-8c28-020000005b00/twin-brooks-golf-course",
+  "checked_at": 1795523853.7431886,
+  "sha256": "f48e99c2c2fbff0275c2f07d267e86ca5ed4fc9078113365eaf17834a0a6d2ab",
+  "title": "Twin Brooks Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b2574c40-86ac-11e4-8c28-020000005b00",
+    "name": "Twin Brooks Golf Course",
+    "address": "1005 N McKeighan Rd",
+    "courses": [
+      {
+        "name": "Twin Brooks",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6260,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5217,
+            "par": 72,
+            "rating": 64.8,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5111,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2574c40-86ac-11e4-8c28-020000005b00/twin-brooks-golf-course"
+  }
+}

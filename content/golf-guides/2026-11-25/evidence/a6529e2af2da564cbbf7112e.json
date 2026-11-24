@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0413d80-86ac-11e4-8c28-020000005b00/blue-hills-golf-corporation",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0413d80-86ac-11e4-8c28-020000005b00/blue-hills-golf-corporation",
+  "checked_at": 1795524891.4303248,
+  "sha256": "9794f84c02904c165812e7e2615774d2bbd0fd9a21390d42f18b093661ed0d01",
+  "title": "Blue Hills Golf Corporation - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b0413d80-86ac-11e4-8c28-020000005b00",
+    "name": "Blue Hills Golf Corporation",
+    "address": "2002 Blue Hills Circle, Roanoke, VA",
+    "courses": [
+      {
+        "name": "Blue Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 6453,
+            "par": 71,
+            "rating": 70.1,
+            "slope": 121
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6003,
+            "par": 71,
+            "rating": 67.7,
+            "slope": 116
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5411,
+            "par": 71,
+            "rating": 65,
+            "slope": 111
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4959,
+            "par": 71,
+            "rating": 62.3,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0413d80-86ac-11e4-8c28-020000005b00/blue-hills-golf-corporation"
+  }
+}

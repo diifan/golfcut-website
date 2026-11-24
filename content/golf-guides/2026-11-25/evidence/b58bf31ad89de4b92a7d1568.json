@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9413a5d0-86ac-11e4-8c28-020000005b00/meadowood-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9413a5d0-86ac-11e4-8c28-020000005b00/meadowood-golf-course",
+  "checked_at": 1795524200.0278742,
+  "sha256": "91e3ffa746adcb14d96191e37726fca9cb49d7efc1520375b89863599813af70",
+  "title": "Meadowood Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9413a5d0-86ac-11e4-8c28-020000005b00",
+    "name": "Meadowood Golf Course",
+    "address": "1911 Golf Club Drive",
+    "courses": [
+      {
+        "name": "Meadowood",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 2811,
+            "par": 35,
+            "rating": 35.3,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2593,
+            "par": 35,
+            "rating": 34.3,
+            "slope": 110
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2294,
+            "par": 35,
+            "rating": 32.9,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9413a5d0-86ac-11e4-8c28-020000005b00/meadowood-golf-course"
+  }
+}

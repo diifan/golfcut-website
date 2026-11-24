@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a0e7e20-86ac-11e4-8c28-020000005b00/rancho-del-pueblo-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a0e7e20-86ac-11e4-8c28-020000005b00/rancho-del-pueblo-golf-course",
+  "checked_at": 1795524635.9784765,
+  "sha256": "8328e3fddb6f0ab6f3884a238b9c553ec41bc4fef469370f4c69a4fab5e47d18",
+  "title": "Rancho Del Pueblo Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a0e7e20-86ac-11e4-8c28-020000005b00",
+    "name": "Rancho Del Pueblo Golf Course",
+    "address": "1649 Hermocilla Way, San Jose, CA",
+    "courses": [
+      {
+        "name": "Rancho del Pueblo(9 holes )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 1233,
+            "par": 27,
+            "rating": 27.4,
+            "slope": 87
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 1233,
+            "par": 27,
+            "rating": 28.5,
+            "slope": 86
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 987,
+            "par": 27,
+            "rating": 26.2,
+            "slope": 79
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 987,
+            "par": 27,
+            "rating": 27.4,
+            "slope": 81
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a0e7e20-86ac-11e4-8c28-020000005b00/rancho-del-pueblo-golf-course"
+  }
+}

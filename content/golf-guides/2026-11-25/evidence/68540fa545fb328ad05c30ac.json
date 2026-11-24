@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9cf6bbb0-86ac-11e4-8c28-020000005b00/mountain-valley-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9cf6bbb0-86ac-11e4-8c28-020000005b00/mountain-valley-golf-course",
+  "checked_at": 1795524001.73018,
+  "sha256": "4350767e655afa2d39dfda40d522830618fc6abfb316abbb48b5077931dcd323",
+  "title": "Mountain Valley Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9cf6bbb0-86ac-11e4-8c28-020000005b00",
+    "name": "Mountain Valley Golf Course",
+    "address": "1021 Brockton Mountain Dr Barnesville, PA 18214",
+    "courses": [
+      {
+        "name": "Mountain Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6739,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6184,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5608,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4991,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 116
+          }
+        ]
+      },
+      {
+        "name": "Valley Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6635,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 139
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6038,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5539,
+            "par": 72,
+            "rating": 67,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4761,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9cf6bbb0-86ac-11e4-8c28-020000005b00/mountain-valley-golf-course"
+  }
+}

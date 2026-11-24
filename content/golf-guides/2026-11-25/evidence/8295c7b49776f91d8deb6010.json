@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a312150-86ac-11e4-8c28-020000005b00/arroyo-seco-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a312150-86ac-11e4-8c28-020000005b00/arroyo-seco-golf-course",
+  "checked_at": 1795523739.4322846,
+  "sha256": "d55aebd0f5cae712d7dc699241949d51723fa51bdf4b297977ef9abcc7e0b1fd",
+  "title": "Arroyo Seco Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a312150-86ac-11e4-8c28-020000005b00",
+    "name": "Arroyo Seco Golf Course",
+    "address": "1055 Lohman Ln, South Pasadena, CA",
+    "courses": [
+      {
+        "name": "Arroyo Seco",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1930,
+            "par": 54,
+            "rating": 50.6,
+            "slope": 72
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1930,
+            "par": 54,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1960,
+            "par": 54,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1960,
+            "par": 54,
+            "rating": 52.5,
+            "slope": 76
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a312150-86ac-11e4-8c28-020000005b00/arroyo-seco-golf-course"
+  }
+}

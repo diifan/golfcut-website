@@ -1,0 +1,321 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a48b2b0-86ac-11e4-8c28-020000005b00/carolina-national-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a48b2b0-86ac-11e4-8c28-020000005b00/carolina-national-golf-club",
+  "checked_at": 1795523743.4446423,
+  "sha256": "85bf0e73f8a9f239110b53c398680d192807120bf12803cb2db7e17b9b837859",
+  "title": "Carolina National Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9a48b2b0-86ac-11e4-8c28-020000005b00",
+    "name": "Carolina National Golf Club",
+    "address": "1643 Goley Hewett Rd SE, Bolivia, NC",
+    "courses": [
+      {
+        "name": "Egret to Heron",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7037,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 146
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7037,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6485,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 141
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6485,
+            "par": 72,
+            "rating": 76.4,
+            "slope": 135
+          },
+          {
+            "name": "Gold / Blue",
+            "category": "MALE",
+            "yards": 6132,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 135
+          },
+          {
+            "name": "Gold / Blue",
+            "category": "FEMALE",
+            "yards": 6132,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5997,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5997,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 138
+          },
+          {
+            "name": "Teal",
+            "category": "MALE",
+            "yards": 5414,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 124
+          },
+          {
+            "name": "Teal",
+            "category": "FEMALE",
+            "yards": 5414,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4741,
+            "par": 72,
+            "rating": 64.1,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4741,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 122
+          }
+        ]
+      },
+      {
+        "name": "Heron to Ibis",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6981,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 146
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6981,
+            "par": 72,
+            "rating": 79,
+            "slope": 141
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6399,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 137
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6399,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 134
+          },
+          {
+            "name": "Gold / Blue",
+            "category": "MALE",
+            "yards": 6183,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 132
+          },
+          {
+            "name": "Gold / Blue",
+            "category": "FEMALE",
+            "yards": 6183,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5968,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5968,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 140
+          },
+          {
+            "name": "Teal",
+            "category": "MALE",
+            "yards": 5353,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 117
+          },
+          {
+            "name": "Teal",
+            "category": "FEMALE",
+            "yards": 5353,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4669,
+            "par": 72,
+            "rating": 64.3,
+            "slope": 110
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4669,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 119
+          }
+        ]
+      },
+      {
+        "name": "Ibis to Egret",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6944,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 145
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6944,
+            "par": 72,
+            "rating": 78.8,
+            "slope": 141
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6462,
+            "par": 72,
+            "rating": 72,
+            "slope": 139
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6462,
+            "par": 72,
+            "rating": 76.3,
+            "slope": 135
+          },
+          {
+            "name": "Gold / Blue",
+            "category": "MALE",
+            "yards": 6145,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 134
+          },
+          {
+            "name": "Gold / Blue",
+            "category": "FEMALE",
+            "yards": 6145,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5939,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5939,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 140
+          },
+          {
+            "name": "Teal",
+            "category": "MALE",
+            "yards": 5381,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 120
+          },
+          {
+            "name": "Teal",
+            "category": "FEMALE",
+            "yards": 5381,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4728,
+            "par": 72,
+            "rating": 64.6,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4728,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a48b2b0-86ac-11e4-8c28-020000005b00/carolina-national-golf-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a1853e0-86ac-11e4-8c28-020000005b00/mill-road-acres-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a1853e0-86ac-11e4-8c28-020000005b00/mill-road-acres-golf-course",
+  "checked_at": 1795524182.688721,
+  "sha256": "edfa88473f9574baca30a827c7a3ad24ab9996217f4aef80f00093e4170a66b7",
+  "title": "Mill Road Acres Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9a1853e0-86ac-11e4-8c28-020000005b00",
+    "name": "Mill Road Acres Golf Course",
+    "address": "30 Mill Road, Latham, NY",
+    "courses": [
+      {
+        "name": "Mill Road Acres Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3070,
+            "par": 58,
+            "rating": 55.4,
+            "slope": 81
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3070,
+            "par": 58,
+            "rating": 58.2,
+            "slope": 95
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2365,
+            "par": 58,
+            "rating": 53.3741,
+            "slope": 80.40185
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2365,
+            "par": 58,
+            "rating": 55.4,
+            "slope": 81
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a1853e0-86ac-11e4-8c28-020000005b00/mill-road-acres-golf-course"
+  }
+}

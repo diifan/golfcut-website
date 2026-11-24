@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9baadac0-86ac-11e4-8c28-020000005b00/avon-fields-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9baadac0-86ac-11e4-8c28-020000005b00/avon-fields-golf-course",
+  "checked_at": 1795524295.2410617,
+  "sha256": "020de30fdbc4f49f3fa74285579b9d3b96b760730edb9c7bc7dd41712be3e9ed",
+  "title": "Avon Fields Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9baadac0-86ac-11e4-8c28-020000005b00",
+    "name": "Avon Fields Golf Course",
+    "address": "4081 Reading Rd, Cincinnati, OH 45229",
+    "courses": [
+      {
+        "name": "Avon Fields",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4963,
+            "par": 66,
+            "rating": 63.8,
+            "slope": 111
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4963,
+            "par": 66,
+            "rating": 68.3,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4587,
+            "par": 66,
+            "rating": 62.4,
+            "slope": 106
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4587,
+            "par": 66,
+            "rating": 66.3,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4234,
+            "par": 66,
+            "rating": 61.5,
+            "slope": 101
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4234,
+            "par": 66,
+            "rating": 64.6,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9baadac0-86ac-11e4-8c28-020000005b00/avon-fields-golf-course"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8fb95b0-86ac-11e4-8c28-020000005b00/leilehua",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8fb95b0-86ac-11e4-8c28-020000005b00/leilehua",
+  "checked_at": 1795523856.779552,
+  "sha256": "dd93fc25a94f02c53f35b372015c8d558998f2fff7eac22187fa284691d30b4a",
+  "title": "Leilehua - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b8fb95b0-86ac-11e4-8c28-020000005b00",
+    "name": "Leilehua",
+    "address": "Bldg. 6505, Leilehua Road",
+    "courses": [
+      {
+        "name": "Leilehua",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6917,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6917,
+            "par": 75,
+            "rating": 78.7,
+            "slope": 140
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6521,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6521,
+            "par": 75,
+            "rating": 77.1,
+            "slope": 135
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 6174,
+            "par": 72,
+            "rating": 64.2,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 6174,
+            "par": 75,
+            "rating": 69.6,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8fb95b0-86ac-11e4-8c28-020000005b00/leilehua"
+  }
+}

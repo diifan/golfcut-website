@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae8eab80-86ac-11e4-8c28-020000005b00/beachwood-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae8eab80-86ac-11e4-8c28-020000005b00/beachwood-golf-club",
+  "checked_at": 1795523866.868689,
+  "sha256": "42a4c8d6a33ac032211b390f763d35fcbfd4d4bc76e77cb50debd90aab759a26",
+  "title": "Beachwood Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae8eab80-86ac-11e4-8c28-020000005b00",
+    "name": "Beachwood Golf Club",
+    "address": "1520 Highway 17 South, North Myrtle Beach, SC",
+    "courses": [
+      {
+        "name": "Beachwood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6696,
+            "par": 72,
+            "rating": 72,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6696,
+            "par": 72,
+            "rating": 77.5,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6251,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6251,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 133
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5877,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5877,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4836,
+            "par": 72,
+            "rating": 63.3,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4836,
+            "par": 72,
+            "rating": 67,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae8eab80-86ac-11e4-8c28-020000005b00/beachwood-golf-club"
+  }
+}

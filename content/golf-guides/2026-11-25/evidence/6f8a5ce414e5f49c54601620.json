@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/97ce3cd0-86ac-11e4-8c28-020000005b00/hominy-hill",
+  "resolved_url": "https://18birdies.com/golf-courses/club/97ce3cd0-86ac-11e4-8c28-020000005b00/hominy-hill",
+  "checked_at": 1795524165.66506,
+  "sha256": "69cc2d10921b6698668241d2269d544a0b8382ed9c75ac3720138c39640f1c4c",
+  "title": "Hominy Hill - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "97ce3cd0-86ac-11e4-8c28-020000005b00",
+    "name": "Hominy Hill",
+    "address": "92 Mercer Rd, Colts Neck, NJ",
+    "courses": [
+      {
+        "name": "Hominy Hill",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7049,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7049,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6456,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6456,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6007,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6007,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5793,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5793,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/97ce3cd0-86ac-11e4-8c28-020000005b00/hominy-hill"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4438be0-86ac-11e4-8c28-020000005b00/grand-bear-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4438be0-86ac-11e4-8c28-020000005b00/grand-bear-golf-course",
+  "checked_at": 1795524340.5933943,
+  "sha256": "3865e9bce9a8a6d6c7840e15bbfce0b43706c60cfd561c37df32131fe5c8a899",
+  "title": "Grand Bear Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b4438be0-86ac-11e4-8c28-020000005b00",
+    "name": "Grand Bear Golf Course",
+    "address": "280 Beach Boulevard, Saucier, MS",
+    "courses": [
+      {
+        "name": "Grand Bear",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Grizzly",
+            "category": "MALE",
+            "yards": 7204,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 143
+          },
+          {
+            "name": "Golden",
+            "category": "MALE",
+            "yards": 6733,
+            "par": 72,
+            "rating": 73,
+            "slope": 139
+          },
+          {
+            "name": "Brown",
+            "category": "MALE",
+            "yards": 6221,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 134
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5638,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 130
+          },
+          {
+            "name": "Teddy",
+            "category": "MALE",
+            "yards": 4802,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4438be0-86ac-11e4-8c28-020000005b00/grand-bear-golf-course"
+  }
+}

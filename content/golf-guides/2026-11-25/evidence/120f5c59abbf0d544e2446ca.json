@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba252190-86ac-11e4-8c28-020000005b00/newport-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba252190-86ac-11e4-8c28-020000005b00/newport-country-club",
+  "checked_at": 1795523805.950366,
+  "sha256": "99b270be2027a4288566adc36ecfe715e0dfdd4278cc86931a6396795d4ebaec",
+  "title": "Newport Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ba252190-86ac-11e4-8c28-020000005b00",
+    "name": "Newport Country Club",
+    "address": "590 Mt Vernon St, Newport, VT",
+    "courses": [
+      {
+        "name": "Newport",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Five",
+            "category": "MALE",
+            "yards": 6576,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 127
+          },
+          {
+            "name": "Five",
+            "category": "FEMALE",
+            "yards": 6576,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 136
+          },
+          {
+            "name": "Four",
+            "category": "MALE",
+            "yards": 6258,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 125
+          },
+          {
+            "name": "Four",
+            "category": "FEMALE",
+            "yards": 6258,
+            "par": 72,
+            "rating": 76.3,
+            "slope": 140
+          },
+          {
+            "name": "Three",
+            "category": "MALE",
+            "yards": 5554,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 113
+          },
+          {
+            "name": "Three",
+            "category": "FEMALE",
+            "yards": 5554,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 132
+          },
+          {
+            "name": "Two",
+            "category": "MALE",
+            "yards": 5247,
+            "par": 72,
+            "rating": 64.7,
+            "slope": 111
+          },
+          {
+            "name": "Two",
+            "category": "FEMALE",
+            "yards": 5247,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 129
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba252190-86ac-11e4-8c28-020000005b00/newport-country-club"
+  }
+}

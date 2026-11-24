@@ -1,0 +1,359 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/921e8c90-86ac-11e4-8c28-020000005b00/kissing-camels-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/921e8c90-86ac-11e4-8c28-020000005b00/kissing-camels-golf-course",
+  "checked_at": 1795523905.4053998,
+  "sha256": "77999b02a97a15dd799008fdfb817a239ed0d43f33d53a14a36604225a41ec81",
+  "title": "Kissing Camels Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "921e8c90-86ac-11e4-8c28-020000005b00",
+    "name": "Kissing Camels Golf Course",
+    "address": "4500 Kissing Camels Drive, Colorado Springs, CO",
+    "courses": [
+      {
+        "name": "South/North",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7037,
+            "par": 71,
+            "rating": 72.6,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7037,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6439,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6439,
+            "par": 71,
+            "rating": 76.1,
+            "slope": 135
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5919,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5919,
+            "par": 71,
+            "rating": 73.1,
+            "slope": 132
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 5667,
+            "par": 71,
+            "rating": 66.4,
+            "slope": 120
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 5667,
+            "par": 71,
+            "rating": 71.7,
+            "slope": 128
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5165,
+            "par": 71,
+            "rating": 64.1,
+            "slope": 114
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5165,
+            "par": 71,
+            "rating": 68.5,
+            "slope": 122
+          }
+        ]
+      },
+      {
+        "name": "North/West",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7024,
+            "par": 72,
+            "rating": 73,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7024,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6475,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6475,
+            "par": 72,
+            "rating": 76.3,
+            "slope": 135
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5917,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5917,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 133
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 5700,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 120
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 5700,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 128
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5278,
+            "par": 72,
+            "rating": 64.6,
+            "slope": 116
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5278,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 120
+          }
+        ]
+      },
+      {
+        "name": "West/South",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6973,
+            "par": 71,
+            "rating": 72.4,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6973,
+            "par": 71,
+            "rating": 79,
+            "slope": 141
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6466,
+            "par": 71,
+            "rating": 70,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6466,
+            "par": 71,
+            "rating": 76.3,
+            "slope": 135
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5922,
+            "par": 71,
+            "rating": 67.7,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5922,
+            "par": 71,
+            "rating": 72.9,
+            "slope": 134
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 5595,
+            "par": 71,
+            "rating": 66.1,
+            "slope": 119
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 5595,
+            "par": 71,
+            "rating": 71,
+            "slope": 128
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5221,
+            "par": 71,
+            "rating": 64.3,
+            "slope": 116
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5221,
+            "par": 71,
+            "rating": 68.7,
+            "slope": 122
+          }
+        ]
+      },
+      {
+        "name": "Winter Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6968,
+            "par": 70,
+            "rating": 70.8,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6968,
+            "par": 70,
+            "rating": 79,
+            "slope": 141
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6468,
+            "par": 70,
+            "rating": 68.8,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6468,
+            "par": 70,
+            "rating": 76.3,
+            "slope": 135
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5910,
+            "par": 70,
+            "rating": 66.5,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5910,
+            "par": 70,
+            "rating": 71.6,
+            "slope": 130
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 5569,
+            "par": 70,
+            "rating": 70.3,
+            "slope": 121
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 5569,
+            "par": 70,
+            "rating": 69.7,
+            "slope": 127
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5122,
+            "par": 70,
+            "rating": 62.1,
+            "slope": 106
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5122,
+            "par": 70,
+            "rating": 66.6,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/921e8c90-86ac-11e4-8c28-020000005b00/kissing-camels-golf-course"
+  }
+}

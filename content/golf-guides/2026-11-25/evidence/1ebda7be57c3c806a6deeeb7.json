@@ -1,0 +1,243 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6f42cf0-86ac-11e4-8c28-020000005b00/airport-national-public-golf-course-and-range",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6f42cf0-86ac-11e4-8c28-020000005b00/airport-national-public-golf-course-and-range",
+  "checked_at": 1795524144.0942469,
+  "sha256": "275d5d6d4cb9b5cb5fac01d183dad3986d5d26226bece32520fdd052c6791a69",
+  "title": "Airport National Public Golf Course and Range - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6f42cf0-86ac-11e4-8c28-020000005b00",
+    "name": "Airport National Public Golf Course and Range",
+    "address": "3001 Wright Brothers Blvd E, Cedar Rapids, IA 52404",
+    "courses": [
+      {
+        "name": "Airport National (10-18/19-27 )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4040,
+            "par": 63,
+            "rating": 59.8,
+            "slope": 91
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4040,
+            "par": 63,
+            "rating": 62.1,
+            "slope": 96
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3483,
+            "par": 63,
+            "rating": 58,
+            "slope": 85
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3483,
+            "par": 63,
+            "rating": 59.3,
+            "slope": 87
+          }
+        ]
+      },
+      {
+        "name": "Airport National(1-9/19-27 )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4097,
+            "par": 65,
+            "rating": 60.9,
+            "slope": 98
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4097,
+            "par": 65,
+            "rating": 62.9,
+            "slope": 102
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3722,
+            "par": 65,
+            "rating": 59.9,
+            "slope": 95
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3722,
+            "par": 65,
+            "rating": 61.1,
+            "slope": 98
+          }
+        ]
+      },
+      {
+        "name": "Airport National(1-9/10-18 )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4040,
+            "par": 63,
+            "rating": 60.6,
+            "slope": 97
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4040,
+            "par": 63,
+            "rating": 62.6,
+            "slope": 100
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3565,
+            "par": 63,
+            "rating": 58.9,
+            "slope": 93
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3565,
+            "par": 63,
+            "rating": 60.1,
+            "slope": 92
+          }
+        ]
+      },
+      {
+        "name": "Airport National (10-18)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1944,
+            "par": 31,
+            "rating": 30,
+            "slope": 95
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1944,
+            "par": 31,
+            "rating": 30.8,
+            "slope": 95
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1683,
+            "par": 31,
+            "rating": 29.1,
+            "slope": 91
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1683,
+            "par": 31,
+            "rating": 29.6,
+            "slope": 86
+          }
+        ]
+      },
+      {
+        "name": "Airport National(1-9)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2096,
+            "par": 32,
+            "rating": 30.6,
+            "slope": 99
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2096,
+            "par": 32,
+            "rating": 31.8,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1800,
+            "par": 32,
+            "rating": 29.8,
+            "slope": 95
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1800,
+            "par": 32,
+            "rating": 30.5,
+            "slope": 98
+          }
+        ]
+      },
+      {
+        "name": "Airport National(19-27 )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2001,
+            "par": 33,
+            "rating": 30.3,
+            "slope": 96
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2001,
+            "par": 33,
+            "rating": 31.1,
+            "slope": 99
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1922,
+            "par": 33,
+            "rating": 30.1,
+            "slope": 95
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1922,
+            "par": 33,
+            "rating": 30.6,
+            "slope": 98
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6f42cf0-86ac-11e4-8c28-020000005b00/airport-national-public-golf-course-and-range"
+  }
+}

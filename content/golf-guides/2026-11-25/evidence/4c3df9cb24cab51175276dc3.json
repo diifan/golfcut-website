@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9927e80-86ac-11e4-8c28-020000005b00/rivercut-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9927e80-86ac-11e4-8c28-020000005b00/rivercut-golf-course",
+  "checked_at": 1795523955.5743392,
+  "sha256": "a394f74c8873a249f0439dae4c76142eb794c27ce3176012e2a680bb74b065d2",
+  "title": "Rivercut Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b9927e80-86ac-11e4-8c28-020000005b00",
+    "name": "Rivercut Golf Course",
+    "address": "2350 W Farm Rd 190, Springfield, MO",
+    "courses": [
+      {
+        "name": "Rivercut",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7066,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6536,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6019,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5483,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9927e80-86ac-11e4-8c28-020000005b00/rivercut-golf-course"
+  }
+}

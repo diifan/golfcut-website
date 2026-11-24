@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/94b7ae00-86ac-11e4-8c28-020000005b00/elkridge-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/94b7ae00-86ac-11e4-8c28-020000005b00/elkridge-club",
+  "checked_at": 1795524827.1843808,
+  "sha256": "5ff77f86563a1ba6481b5edb6b106fbfb96b31e9163d10f1472c52b2d2ddaa89",
+  "title": "Elkridge Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "94b7ae00-86ac-11e4-8c28-020000005b00",
+    "name": "Elkridge Club",
+    "address": "6100 North Charles Street",
+    "courses": [
+      {
+        "name": "Elkridge Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6445,
+            "par": 71,
+            "rating": 71.4,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6194,
+            "par": 71,
+            "rating": 70,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5800,
+            "par": 71,
+            "rating": 68.8,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5332,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4505,
+            "par": 71,
+            "rating": 66.9,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/94b7ae00-86ac-11e4-8c28-020000005b00/elkridge-club"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c202010-86ac-11e4-8c28-020000005b00/san-pedro-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c202010-86ac-11e4-8c28-020000005b00/san-pedro-golf-course",
+  "checked_at": 1795524204.708998,
+  "sha256": "10c93edbf3911a6a78aa191eb2459593abbf23d16410f5d8ad8ea913d1c86a33",
+  "title": "San Pedro Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8c202010-86ac-11e4-8c28-020000005b00",
+    "name": "San Pedro Golf Course",
+    "address": "6102 San Pedro Ave, San Antonio, TX",
+    "courses": [
+      {
+        "name": "San Pedro (Par 3)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1335,
+            "par": 27,
+            "rating": 27.8859,
+            "slope": 84.5032
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1335,
+            "par": 27,
+            "rating": 27.8859,
+            "slope": 84.5032
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1061,
+            "par": 27,
+            "rating": 26.64194,
+            "slope": 79.48352
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1061,
+            "par": 27,
+            "rating": 26.64194,
+            "slope": 79.48352
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 673,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 673,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c202010-86ac-11e4-8c28-020000005b00/san-pedro-golf-course"
+  }
+}

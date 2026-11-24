@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83d48f40-86ac-11e4-8c28-020000005b00/willow-crest",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83d48f40-86ac-11e4-8c28-020000005b00/willow-crest",
+  "checked_at": 1795523920.5415406,
+  "sha256": "5011eb285d03606ba2bf591a5768ed058f7ce43c1c41eb7dff6d65ae84116013",
+  "title": "Willow Crest - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "83d48f40-86ac-11e4-8c28-020000005b00",
+    "name": "Willow Crest",
+    "address": "3500 Midwest Rd, Oak Brook, IL",
+    "courses": [
+      {
+        "name": "Willow Crest",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6433,
+            "par": 70,
+            "rating": 71.9,
+            "slope": 138
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6433,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6058,
+            "par": 70,
+            "rating": 70.1,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6058,
+            "par": 70,
+            "rating": 75.5,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5670,
+            "par": 70,
+            "rating": 68.3,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5670,
+            "par": 70,
+            "rating": 73.5,
+            "slope": 132
+          },
+          {
+            "name": "Silver 1",
+            "category": "MALE",
+            "yards": 5189,
+            "par": 70,
+            "rating": 64.9,
+            "slope": 120
+          },
+          {
+            "name": "Silver 1",
+            "category": "FEMALE",
+            "yards": 5189,
+            "par": 70,
+            "rating": 69.5,
+            "slope": 124
+          },
+          {
+            "name": "Silver 2",
+            "category": "MALE",
+            "yards": 5004,
+            "par": 70,
+            "rating": 65.8,
+            "slope": 121
+          },
+          {
+            "name": "Silver 2",
+            "category": "FEMALE",
+            "yards": 5004,
+            "par": 70,
+            "rating": 70.5,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83d48f40-86ac-11e4-8c28-020000005b00/willow-crest"
+  }
+}

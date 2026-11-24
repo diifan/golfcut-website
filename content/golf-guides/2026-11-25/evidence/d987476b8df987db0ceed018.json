@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba6dc350-86ac-11e4-8c28-020000005b00/pikewood-national-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba6dc350-86ac-11e4-8c28-020000005b00/pikewood-national-golf-club",
+  "checked_at": 1795524117.185362,
+  "sha256": "2cd2cc16ef9e7c54a5520d54fca46facf5f3f242e181dcf8b5fdc6f5d755b953",
+  "title": "Pikewood National Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "ba6dc350-86ac-11e4-8c28-020000005b00",
+    "name": "Pikewood National Golf Club",
+    "address": "3055 Kingwood Pike Morgantown, WV ",
+    "courses": [
+      {
+        "name": "Pikewood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 7681,
+            "par": 72,
+            "rating": 79.7,
+            "slope": 155
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 7681,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Mens",
+            "category": "MALE",
+            "yards": 6941,
+            "par": 72,
+            "rating": 75.6,
+            "slope": 148
+          },
+          {
+            "name": "Mens",
+            "category": "FEMALE",
+            "yards": 6941,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 6499,
+            "par": 72,
+            "rating": 73,
+            "slope": 138
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 6499,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba6dc350-86ac-11e4-8c28-020000005b00/pikewood-national-golf-club"
+  }
+}

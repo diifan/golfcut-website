@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0cfe8f0-86ac-11e4-8c28-020000005b00/tri-mountain-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0cfe8f0-86ac-11e4-8c28-020000005b00/tri-mountain-golf-course",
+  "checked_at": 1795524042.8338456,
+  "sha256": "e8f1ebdde2c5e6d7b564f80a8e8dbf01f1d829cb71a0ae08c57ff8e5a4158cff",
+  "title": "Tri-Mountain Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b0cfe8f0-86ac-11e4-8c28-020000005b00",
+    "name": "Tri-Mountain Golf Course",
+    "address": "1701 NW 299th Street Ridgefield, WA 98642",
+    "courses": [
+      {
+        "name": "Tri-Mountain",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6600,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6100,
+            "par": 72,
+            "rating": 70,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5594,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5284,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 122
+          },
+          {
+            "name": "Gray",
+            "category": "MALE",
+            "yards": 6274,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 132
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0cfe8f0-86ac-11e4-8c28-020000005b00/tri-mountain-golf-course"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b84516f0-86ac-11e4-8c28-020000005b00/north-kingstown-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b84516f0-86ac-11e4-8c28-020000005b00/north-kingstown-golf-course",
+  "checked_at": 1795524023.5508058,
+  "sha256": "fdd866a87250578068079c6236239cfb51b28a96ae343422043948fb93b815b7",
+  "title": "North Kingstown Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b84516f0-86ac-11e4-8c28-020000005b00",
+    "name": "North Kingstown Golf Course",
+    "address": "615 Callahan Rd",
+    "courses": [
+      {
+        "name": "North Kingstown Municipal",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6269,
+            "par": 70,
+            "rating": 69.3,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5766,
+            "par": 70,
+            "rating": 67.3,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5294,
+            "par": 70,
+            "rating": 65.1,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5144,
+            "par": 70,
+            "rating": 64.3,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b84516f0-86ac-11e4-8c28-020000005b00/north-kingstown-golf-course"
+  }
+}

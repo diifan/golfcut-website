@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95d1a980-86ac-11e4-8c28-020000005b00/stow-acres-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95d1a980-86ac-11e4-8c28-020000005b00/stow-acres-country-club",
+  "checked_at": 1795524085.3273747,
+  "sha256": "d455ae0bef6a9f818c2851de091cb8fd17780aa5555774dc37816d504dd6d23c",
+  "title": "Stow Acres Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "95d1a980-86ac-11e4-8c28-020000005b00",
+    "name": "Stow Acres Country Club",
+    "address": "58 Randall Rd, Stow, MA",
+    "courses": [
+      {
+        "name": "North Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3342,
+            "par": 35,
+            "rating": 34.8,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3342,
+            "par": 35,
+            "rating": 38.2,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3155,
+            "par": 35,
+            "rating": 34.1,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3155,
+            "par": 35,
+            "rating": 36.8,
+            "slope": 122
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 2590,
+            "par": 35,
+            "rating": 31.8,
+            "slope": 113
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 2590,
+            "par": 35,
+            "rating": 34.3,
+            "slope": 119
+          }
+        ]
+      },
+      {
+        "name": "South Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6231,
+            "par": 71,
+            "rating": 71,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6231,
+            "par": 71,
+            "rating": 76.7,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5837,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5837,
+            "par": 71,
+            "rating": 74.5,
+            "slope": 135
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4591,
+            "par": 71,
+            "rating": 62.8,
+            "slope": 108
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4591,
+            "par": 71,
+            "rating": 66.9,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95d1a980-86ac-11e4-8c28-020000005b00/stow-acres-country-club"
+  }
+}

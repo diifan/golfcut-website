@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/985212d0-86ac-11e4-8c28-020000005b00/echo-lake-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/985212d0-86ac-11e4-8c28-020000005b00/echo-lake-country-club",
+  "checked_at": 1795523953.0346339,
+  "sha256": "783f82e2ae0f56dbc7f14988cbcc2eb5c57f2f738a52fe8ae399de1bf77b12b2",
+  "title": "Echo Lake Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "985212d0-86ac-11e4-8c28-020000005b00",
+    "name": "Echo Lake Country Club",
+    "address": "515 Springfield Ave, Westfield, NJ",
+    "courses": [
+      {
+        "name": "Echo Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7115,
+            "par": 71,
+            "rating": 74.3,
+            "slope": 132
+          },
+          {
+            "name": "Jones",
+            "category": "MALE",
+            "yards": 6845,
+            "par": 71,
+            "rating": 73.2,
+            "slope": 130
+          },
+          {
+            "name": "Echo Lake",
+            "category": "MALE",
+            "yards": 6570,
+            "par": 71,
+            "rating": 71.5,
+            "slope": 128
+          },
+          {
+            "name": "Ross",
+            "category": "MALE",
+            "yards": 6150,
+            "par": 71,
+            "rating": 69.5,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5743,
+            "par": 71,
+            "rating": 67.4,
+            "slope": 120
+          },
+          {
+            "name": "Faxon",
+            "category": "MALE",
+            "yards": 5229,
+            "par": 71,
+            "rating": 68.7,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/985212d0-86ac-11e4-8c28-020000005b00/echo-lake-country-club"
+  }
+}

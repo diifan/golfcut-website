@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/adb90c00-86ac-11e4-8c28-020000005b00/country-club-of-york",
+  "resolved_url": "https://18birdies.com/golf-courses/club/adb90c00-86ac-11e4-8c28-020000005b00/country-club-of-york",
+  "checked_at": 1795524311.9972544,
+  "sha256": "8f260d8f4eee6024bcd76bce109cab531a8cd09087d2722e9143266c9e2a7770",
+  "title": "Country Club Of York - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "adb90c00-86ac-11e4-8c28-020000005b00",
+    "name": "Country Club Of York",
+    "address": "1400 Country Club Road, York, PA",
+    "courses": [
+      {
+        "name": "York",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "I",
+            "category": "MALE",
+            "yards": 6785,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 136
+          },
+          {
+            "name": "I",
+            "category": "FEMALE",
+            "yards": 6785,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 6422,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 131
+          },
+          {
+            "name": "II",
+            "category": "FEMALE",
+            "yards": 6422,
+            "par": 72,
+            "rating": 78,
+            "slope": 138
+          },
+          {
+            "name": "III",
+            "category": "MALE",
+            "yards": 5949,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 128
+          },
+          {
+            "name": "III",
+            "category": "FEMALE",
+            "yards": 5949,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 133
+          },
+          {
+            "name": "IV",
+            "category": "MALE",
+            "yards": 5643,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 126
+          },
+          {
+            "name": "IV",
+            "category": "FEMALE",
+            "yards": 5643,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 129
+          },
+          {
+            "name": "V",
+            "category": "MALE",
+            "yards": 3948,
+            "par": 72,
+            "rating": 61.1,
+            "slope": 114
+          },
+          {
+            "name": "V",
+            "category": "FEMALE",
+            "yards": 3948,
+            "par": 72,
+            "rating": 63.7,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/adb90c00-86ac-11e4-8c28-020000005b00/country-club-of-york"
+  }
+}

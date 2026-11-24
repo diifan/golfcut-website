@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/6ff65fe0-5e54-11e6-adac-0680a328ea36/san-antonio-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/6ff65fe0-5e54-11e6-adac-0680a328ea36/san-antonio-country-club",
+  "checked_at": 1795523839.8157396,
+  "sha256": "0377a56c6c82f17c93243e0b8dd1739c7539fed0b0846aaf97fa7e16abad40f4",
+  "title": "San Antonio Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "6ff65fe0-5e54-11e6-adac-0680a328ea36",
+    "name": "San Antonio Country Club",
+    "address": "4100 N New Braunfels Ave, San Antonio, TX",
+    "courses": [
+      {
+        "name": "San Antonio Golf Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6823,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6286,
+            "par": 72,
+            "rating": 71,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5786,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5360,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/6ff65fe0-5e54-11e6-adac-0680a328ea36/san-antonio-country-club"
+  }
+}

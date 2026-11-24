@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/adb73740-86ac-11e4-8c28-020000005b00/cool-creek-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/adb73740-86ac-11e4-8c28-020000005b00/cool-creek-golf-club",
+  "checked_at": 1795524885.4261477,
+  "sha256": "6bdcf7b9f7b443cab019dc9ea3c8a7df98e3370be9829a333c1b6ab6ac40343d",
+  "title": "Cool Creek Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "adb73740-86ac-11e4-8c28-020000005b00",
+    "name": "Cool Creek Golf Club",
+    "address": "300 Cool Creek Road, Wrightsville, PA",
+    "courses": [
+      {
+        "name": "Cool Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6623,
+            "par": 70,
+            "rating": 72,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6623,
+            "par": 71,
+            "rating": 77.1,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6116,
+            "par": 70,
+            "rating": 69.8,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6116,
+            "par": 71,
+            "rating": 74.4,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5652,
+            "par": 70,
+            "rating": 67.3,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5652,
+            "par": 71,
+            "rating": 72.8,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4871,
+            "par": 70,
+            "rating": 67.1,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4871,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/adb73740-86ac-11e4-8c28-020000005b00/cool-creek-golf-club"
+  }
+}

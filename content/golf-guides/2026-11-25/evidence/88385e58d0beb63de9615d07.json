@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9980a7c0-86ac-11e4-8c28-020000005b00/broadacres-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9980a7c0-86ac-11e4-8c28-020000005b00/broadacres-golf-club",
+  "checked_at": 1795524331.0110338,
+  "sha256": "60e3238d9e32ea17b69dff1b792d21fa365ed46944fa8a0da95b474aa429d1c4",
+  "title": "Broadacres Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9980a7c0-86ac-11e4-8c28-020000005b00",
+    "name": "Broadacres Golf Club",
+    "address": "2 Midrise Circle",
+    "courses": [
+      {
+        "name": "Broadacres Golf Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6276,
+            "par": 70,
+            "rating": 71,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6094,
+            "par": 70,
+            "rating": 70.2,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5248,
+            "par": 70,
+            "rating": 68.8,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9980a7c0-86ac-11e4-8c28-020000005b00/broadacres-golf-club"
+  }
+}

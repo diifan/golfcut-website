@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ca4a410-86ac-11e4-8c28-020000005b00/miami-shores-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ca4a410-86ac-11e4-8c28-020000005b00/miami-shores-golf-course",
+  "checked_at": 1795524208.4208202,
+  "sha256": "716c99e1905081109c943a96b0d9d8e5d03e14bf09d0de9e608bfe11730df225",
+  "title": "Miami Shores Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9ca4a410-86ac-11e4-8c28-020000005b00",
+    "name": "Miami Shores Golf Course",
+    "address": "402 E. Staunton Rd.",
+    "courses": [
+      {
+        "name": "Miami Shores F + B",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6410,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6063,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5313,
+            "par": 72,
+            "rating": 64.7,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5187,
+            "par": 72,
+            "rating": 64.2,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ca4a410-86ac-11e4-8c28-020000005b00/miami-shores-golf-course"
+  }
+}

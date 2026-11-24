@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8cca69d0-86ac-11e4-8c28-020000005b00/south-grove-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8cca69d0-86ac-11e4-8c28-020000005b00/south-grove-golf-course",
+  "checked_at": 1795524171.914232,
+  "sha256": "adc3dc243493124beb4693f7726e8eb01f6ff15b7d4e19c93108e74004716dfa",
+  "title": "South Grove Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8cca69d0-86ac-11e4-8c28-020000005b00",
+    "name": "South Grove Golf Course",
+    "address": "1800 W. 18th St., Indianapolis, IN",
+    "courses": [
+      {
+        "name": "South Grove",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6265,
+            "par": 70,
+            "rating": 69.4,
+            "slope": 110
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5764,
+            "par": 70,
+            "rating": 66.9,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4732,
+            "par": 70,
+            "rating": 62.1,
+            "slope": 94
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8cca69d0-86ac-11e4-8c28-020000005b00/south-grove-golf-course"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad48be00-86ac-11e4-8c28-020000005b00/meadowink-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad48be00-86ac-11e4-8c28-020000005b00/meadowink-golf-course",
+  "checked_at": 1795524283.3613985,
+  "sha256": "e717aa10ad75b1be3ea5853203db34a308c862b23efb72d70a4c5a3f7a17349a",
+  "title": "Meadowink Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "ad48be00-86ac-11e4-8c28-020000005b00",
+    "name": "Meadowink Golf Course",
+    "address": "4076 Bulltown Rd",
+    "courses": [
+      {
+        "name": "Meadowink",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6139,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6139,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5439,
+            "par": 72,
+            "rating": 64.5,
+            "slope": 98
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5439,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5103,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5103,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad48be00-86ac-11e4-8c28-020000005b00/meadowink-golf-course"
+  }
+}

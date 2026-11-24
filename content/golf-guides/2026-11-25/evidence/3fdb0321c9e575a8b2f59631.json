@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/749a6590-86ac-11e4-8c28-020000005b00/port-royal-golf-bermuda",
+  "resolved_url": "https://18birdies.com/golf-courses/club/749a6590-86ac-11e4-8c28-020000005b00/port-royal-golf-bermuda",
+  "checked_at": 1795523913.2392218,
+  "sha256": "007fb04e8bbde73c203cabb4e13dc00c1f12c88f20701b5d844bff17bc4ada51",
+  "title": "Port Royal Golf Bermuda - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "749a6590-86ac-11e4-8c28-020000005b00",
+    "name": "Port Royal Golf Bermuda",
+    "address": "5 Port Royal Golf Course Road,  Southhampton SB03",
+    "courses": [
+      {
+        "name": "Port Royal",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6539,
+            "par": 71,
+            "rating": 73.1,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6144,
+            "par": 71,
+            "rating": 71.1,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5685,
+            "par": 71,
+            "rating": 68.8,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5685,
+            "par": 71,
+            "rating": 74.4,
+            "slope": 135
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4916,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/749a6590-86ac-11e4-8c28-020000005b00/port-royal-golf-bermuda"
+  }
+}

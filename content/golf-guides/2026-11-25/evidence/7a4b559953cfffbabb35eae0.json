@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95a3bbb0-86ac-11e4-8c28-020000005b00/wentworth-hills-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95a3bbb0-86ac-11e4-8c28-020000005b00/wentworth-hills-country-club",
+  "checked_at": 1795523817.0913088,
+  "sha256": "312f3de44977c5bfcd20bdd4467d1270c6c408b8e87ec4f7d68d1e5dbbfbe2d0",
+  "title": "Wentworth Hills Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95a3bbb0-86ac-11e4-8c28-020000005b00",
+    "name": "Wentworth Hills Country Club",
+    "address": "27 Bow Street, ",
+    "courses": [
+      {
+        "name": "Wentworth Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6202,
+            "par": 71,
+            "rating": 71,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6202,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5817,
+            "par": 71,
+            "rating": 68,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5817,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5325,
+            "par": 71,
+            "rating": 65.3,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5325,
+            "par": 71,
+            "rating": 69.9,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4731,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4731,
+            "par": 71,
+            "rating": 66.8,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95a3bbb0-86ac-11e4-8c28-020000005b00/wentworth-hills-country-club"
+  }
+}

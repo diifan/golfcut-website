@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e2f9f20-86ac-11e4-8c28-020000005b00/continental-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e2f9f20-86ac-11e4-8c28-020000005b00/continental-golf-course",
+  "checked_at": 1795524838.6227722,
+  "sha256": "21e84ce67ccf8bdc5d9e75454163d07d607a8640889ee502ca8114efddd29c3b",
+  "title": "Continental Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8e2f9f20-86ac-11e4-8c28-020000005b00",
+    "name": "Continental Golf Course",
+    "address": "7920 E Osborn Rd, Scottsdale, AZ",
+    "courses": [
+      {
+        "name": "Continental",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back Tee",
+            "category": "MALE",
+            "yards": 3761,
+            "par": 60,
+            "rating": 58.4,
+            "slope": 85
+          },
+          {
+            "name": "Back Tee",
+            "category": "FEMALE",
+            "yards": 3761,
+            "par": 60,
+            "rating": 59.8,
+            "slope": 90
+          },
+          {
+            "name": "Forward Tee",
+            "category": "MALE",
+            "yards": 3361,
+            "par": 60,
+            "rating": 57.1,
+            "slope": 83
+          },
+          {
+            "name": "Forward Tee",
+            "category": "FEMALE",
+            "yards": 3361,
+            "par": 60,
+            "rating": 57.6,
+            "slope": 84
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e2f9f20-86ac-11e4-8c28-020000005b00/continental-golf-course"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b82978a0-86ac-11e4-8c28-020000005b00/smileys-golf-complex",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b82978a0-86ac-11e4-8c28-020000005b00/smileys-golf-complex",
+  "checked_at": 1795523991.4106734,
+  "sha256": "a63f4302f4ecb06097e6a61d2165c9d6d97a8a07c1f0e312c5789c40fbb94936",
+  "title": "Smiley's Golf Complex - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b82978a0-86ac-11e4-8c28-020000005b00",
+    "name": "Smiley's Golf Complex",
+    "address": "10195 Monticello Terrace",
+    "courses": [
+      {
+        "name": "Smiley's Executive",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3402,
+            "par": 60,
+            "rating": 60.4,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3066,
+            "par": 60,
+            "rating": 58.9,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b82978a0-86ac-11e4-8c28-020000005b00/smileys-golf-complex"
+  }
+}

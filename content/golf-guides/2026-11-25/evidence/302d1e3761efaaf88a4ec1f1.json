@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e8fc080-86ac-11e4-8c28-020000005b00/san-marcos-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e8fc080-86ac-11e4-8c28-020000005b00/san-marcos-golf-course",
+  "checked_at": 1795523684.8109453,
+  "sha256": "e8a773046bdcbcbf50099925c08552eb7b8769f2b0457ebda1eb2ad2b5c971b6",
+  "title": "San Marcos Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8e8fc080-86ac-11e4-8c28-020000005b00",
+    "name": "San Marcos Golf Course",
+    "address": "100 North Dakota Street, Chandler, AZ",
+    "courses": [
+      {
+        "name": "San Marcos",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6661,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 123
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6661,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6224,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6224,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5803,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5803,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5242,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5242,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e8fc080-86ac-11e4-8c28-020000005b00/san-marcos-golf-course"
+  }
+}

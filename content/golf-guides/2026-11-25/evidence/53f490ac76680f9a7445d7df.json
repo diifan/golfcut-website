@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/addd5ce0-86ac-11e4-8c28-020000005b00/suncrest-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/addd5ce0-86ac-11e4-8c28-020000005b00/suncrest-golf-course",
+  "checked_at": 1795524191.922157,
+  "sha256": "2ff3949b7b0cc2a51abfd78d94803743c7820e76aa5e5eb4e8d05468f7ef2a7b",
+  "title": "Suncrest Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "addd5ce0-86ac-11e4-8c28-020000005b00",
+    "name": "Suncrest Golf Course",
+    "address": "137 Brownsdale Rd",
+    "courses": [
+      {
+        "name": "Suncrest",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6536,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6536,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6286,
+            "par": 72,
+            "rating": 71,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6286,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5393,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5393,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5037,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5037,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/addd5ce0-86ac-11e4-8c28-020000005b00/suncrest-golf-course"
+  }
+}

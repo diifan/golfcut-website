@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/768daa10-86ac-11e4-8c28-020000005b00/scarlett-woods-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/768daa10-86ac-11e4-8c28-020000005b00/scarlett-woods-golf-course",
+  "checked_at": 1795524197.9114387,
+  "sha256": "0fc80bf56a483ec679aa94e0f4a1c20f7b0a53134501917c9d840160eb8466fb",
+  "title": "Scarlett Woods Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "768daa10-86ac-11e4-8c28-020000005b00",
+    "name": "Scarlett Woods Golf Course",
+    "address": "1000 Jane St, Toronto",
+    "courses": [
+      {
+        "name": "Scarlett Woods",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3694,
+            "par": 61,
+            "rating": 59.2,
+            "slope": 98
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3694,
+            "par": 61,
+            "rating": 60.7,
+            "slope": 97
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3070,
+            "par": 61,
+            "rating": 56.3,
+            "slope": 92
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3070,
+            "par": 61,
+            "rating": 58.6,
+            "slope": 89
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/768daa10-86ac-11e4-8c28-020000005b00/scarlett-woods-golf-course"
+  }
+}

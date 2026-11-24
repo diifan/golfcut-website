@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/985ebd00-86ac-11e4-8c28-020000005b00/rockleigh-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/985ebd00-86ac-11e4-8c28-020000005b00/rockleigh-golf-club",
+  "checked_at": 1795523857.081072,
+  "sha256": "802a0bd89197268413f2904838d0bc7c789c85507b5f3afbc4cd9c5c71e57139",
+  "title": "Rockleigh Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "985ebd00-86ac-11e4-8c28-020000005b00",
+    "name": "Rockleigh Golf Club",
+    "address": "15 Paris Ave, Rockleigh, NJ",
+    "courses": [
+      {
+        "name": "Red/White",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6298,
+            "par": 71,
+            "rating": 70,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6298,
+            "par": 71,
+            "rating": 75.8,
+            "slope": 138
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5254,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5254,
+            "par": 71,
+            "rating": 71.7,
+            "slope": 129
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6812,
+            "par": 71,
+            "rating": 72.1,
+            "slope": 131
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6812,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5798,
+            "par": 71,
+            "rating": 66.2,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5798,
+            "par": 71,
+            "rating": 70.5,
+            "slope": 126
+          }
+        ]
+      },
+      {
+        "name": "Blue",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2553,
+            "par": 33,
+            "rating": 32.2,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2553,
+            "par": 33,
+            "rating": 34.5,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2307,
+            "par": 33,
+            "rating": 31,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2307,
+            "par": 33,
+            "rating": 32.6,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/985ebd00-86ac-11e4-8c28-020000005b00/rockleigh-golf-club"
+  }
+}

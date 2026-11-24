@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/94048aa0-86ac-11e4-8c28-020000005b00/eagle-trace-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/94048aa0-86ac-11e4-8c28-020000005b00/eagle-trace-golf-course",
+  "checked_at": 1795523780.882823,
+  "sha256": "9544733bb29cc752fa479f899293fbb2e8e587cd77ddf357e1fe2e4c6ad75975",
+  "title": "Eagle Trace Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "94048aa0-86ac-11e4-8c28-020000005b00",
+    "name": "Eagle Trace Golf Course",
+    "address": "1000 Ramey Ridge Rd, Morehead, Kentucky ",
+    "courses": [
+      {
+        "name": "Eagle Trace",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6902,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 141
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 6902,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6502,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 134
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6502,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6179,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6179,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5386,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5386,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5247,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5247,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/94048aa0-86ac-11e4-8c28-020000005b00/eagle-trace-golf-course"
+  }
+}

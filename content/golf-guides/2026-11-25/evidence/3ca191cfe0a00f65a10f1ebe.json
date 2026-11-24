@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8b9e1ed0-86ac-11e4-8c28-020000005b00/pasadena-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8b9e1ed0-86ac-11e4-8c28-020000005b00/pasadena-municipal-golf-course",
+  "checked_at": 1795523988.3371022,
+  "sha256": "a572b41e7b07eaaf47d7484bee39322df338f327b9993e0ba1b53493c5e4f2da",
+  "title": "Pasadena Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8b9e1ed0-86ac-11e4-8c28-020000005b00",
+    "name": "Pasadena Municipal Golf Course",
+    "address": "1000 Duffer Line, Houston, TX",
+    "courses": [
+      {
+        "name": "Pasadena Municipal",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6762,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6762,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6255,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6255,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5478,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5478,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4912,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4912,
+            "par": 72,
+            "rating": 69,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8b9e1ed0-86ac-11e4-8c28-020000005b00/pasadena-municipal-golf-course"
+  }
+}

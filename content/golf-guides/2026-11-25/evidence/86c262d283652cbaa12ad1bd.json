@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3a74be0-86ac-11e4-8c28-020000005b00/cherry-creek-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3a74be0-86ac-11e4-8c28-020000005b00/cherry-creek-golf-club",
+  "checked_at": 1795523684.0720162,
+  "sha256": "121a8f3d5285cc35efbc2ff011570a118ce84ca26bb5590e9d7419778ea59485",
+  "title": "Cherry Creek Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b3a74be0-86ac-11e4-8c28-020000005b00",
+    "name": "Cherry Creek Golf Club",
+    "address": "52000 Cherry Creek Drive, Shelby Township, MI",
+    "courses": [
+      {
+        "name": "Cherry Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6784,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 142
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6233,
+            "par": 72,
+            "rating": 71,
+            "slope": 136
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5613,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 124
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4729,
+            "par": 72,
+            "rating": 63.5,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3a74be0-86ac-11e4-8c28-020000005b00/cherry-creek-golf-club"
+  }
+}

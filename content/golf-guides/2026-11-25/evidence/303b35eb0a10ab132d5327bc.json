@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/952515d0-86ac-11e4-8c28-020000005b00/stone-e-lea-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/952515d0-86ac-11e4-8c28-020000005b00/stone-e-lea-golf-course",
+  "checked_at": 1795524009.9529507,
+  "sha256": "c0487b0f628320f25b5076eed587523bd25d0a4b1b9677a44ddeefa9cd5894b8",
+  "title": "Stone-E-Lea Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "952515d0-86ac-11e4-8c28-020000005b00",
+    "name": "Stone-E-Lea Golf Course",
+    "address": "1411 County St",
+    "courses": [
+      {
+        "name": "Stone-E-Lea",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6037,
+            "par": 70,
+            "rating": 69.5,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5650,
+            "par": 70,
+            "rating": 69.5,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4700,
+            "par": 70,
+            "rating": 66.3,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/952515d0-86ac-11e4-8c28-020000005b00/stone-e-lea-golf-course"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92fb30f0-86ac-11e4-8c28-020000005b00/del-castle-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92fb30f0-86ac-11e4-8c28-020000005b00/del-castle-golf-course",
+  "checked_at": 1795524313.571678,
+  "sha256": "c41d7ef474754f3f675913c1d0e5c43daa5fec3dfb5466ad4bd3dc0d978cde70",
+  "title": "DelCastle Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92fb30f0-86ac-11e4-8c28-020000005b00",
+    "name": "DelCastle Golf Course",
+    "address": "801 McKennan's Church Road, Wilmington, DE 19808",
+    "courses": [
+      {
+        "name": "DelCastle",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6625,
+            "par": 72,
+            "rating": 71,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6326,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5475,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5369,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92fb30f0-86ac-11e4-8c28-020000005b00/del-castle-golf-course"
+  }
+}

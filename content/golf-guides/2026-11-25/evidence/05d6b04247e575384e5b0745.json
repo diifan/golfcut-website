@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c6725e0-86ac-11e4-8c28-020000005b00/indian-ridge-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c6725e0-86ac-11e4-8c28-020000005b00/indian-ridge-golf-club",
+  "checked_at": 1795524848.7276807,
+  "sha256": "746301b0472b843726675622c16a985c031db1a44c392ed12fbfd22c1082be0f",
+  "title": "Indian Ridge Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9c6725e0-86ac-11e4-8c28-020000005b00",
+    "name": "Indian Ridge Golf Club",
+    "address": "2600 Oxford Millville Rd",
+    "courses": [
+      {
+        "name": "Indian Ridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7001,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6531,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6022,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 120
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5063,
+            "par": 72,
+            "rating": 68,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c6725e0-86ac-11e4-8c28-020000005b00/indian-ridge-golf-club"
+  }
+}

@@ -1,0 +1,959 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8abd82d0-86ac-11e4-8c28-020000005b00/la-valle-coastal-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8abd82d0-86ac-11e4-8c28-020000005b00/la-valle-coastal-club",
+  "checked_at": 1795523734.8811562,
+  "sha256": "e87d851b131e25fac5ff38e610e0d14ed3aa3d8c507af7a8748245ef2abfc562",
+  "title": "La Valle Coastal Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8abd82d0-86ac-11e4-8c28-020000005b00",
+    "name": "La Valle Coastal Club",
+    "address": "5690 Cancha de Golf, Rancho Santa Fe, CA",
+    "courses": [
+      {
+        "name": "Palmas/Olivos",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6499,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 123
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6499,
+            "par": 71,
+            "rating": 76.4,
+            "slope": 133
+          },
+          {
+            "name": "Black/Blue",
+            "category": "MALE",
+            "yards": 6235,
+            "par": 71,
+            "rating": 69.3,
+            "slope": 121
+          },
+          {
+            "name": "Black/Blue",
+            "category": "FEMALE",
+            "yards": 6235,
+            "par": 71,
+            "rating": 75.3,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6063,
+            "par": 71,
+            "rating": 68.6,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6063,
+            "par": 71,
+            "rating": 74.3,
+            "slope": 128
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 5781,
+            "par": 71,
+            "rating": 67.4,
+            "slope": 115
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 5781,
+            "par": 71,
+            "rating": 72.9,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5526,
+            "par": 71,
+            "rating": 66.2,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5526,
+            "par": 71,
+            "rating": 71.6,
+            "slope": 122
+          },
+          {
+            "name": "White/Green",
+            "category": "MALE",
+            "yards": 5312,
+            "par": 71,
+            "rating": 65.2,
+            "slope": 111
+          },
+          {
+            "name": "White/Green",
+            "category": "FEMALE",
+            "yards": 5312,
+            "par": 71,
+            "rating": 70.4,
+            "slope": 119
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4715,
+            "par": 71,
+            "rating": 62.4,
+            "slope": 104
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4715,
+            "par": 71,
+            "rating": 67,
+            "slope": 112
+          }
+        ]
+      },
+      {
+        "name": "Cedros/Olivos",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6682,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 119
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6682,
+            "par": 71,
+            "rating": 74.8,
+            "slope": 129
+          },
+          {
+            "name": "Black/Blue",
+            "category": "MALE",
+            "yards": 6389,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 116
+          },
+          {
+            "name": "Black/Blue",
+            "category": "FEMALE",
+            "yards": 6389,
+            "par": 71,
+            "rating": 73.4,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6217,
+            "par": 71,
+            "rating": 67.2,
+            "slope": 114
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6217,
+            "par": 71,
+            "rating": 72.4,
+            "slope": 124
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 5839,
+            "par": 71,
+            "rating": 65.9,
+            "slope": 111
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 5839,
+            "par": 71,
+            "rating": 70.8,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5522,
+            "par": 71,
+            "rating": 64.8,
+            "slope": 108
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5522,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 118
+          },
+          {
+            "name": "White/Green",
+            "category": "MALE",
+            "yards": 5311,
+            "par": 71,
+            "rating": 63.4,
+            "slope": 105
+          },
+          {
+            "name": "White/Green",
+            "category": "FEMALE",
+            "yards": 5311,
+            "par": 71,
+            "rating": 67.9,
+            "slope": 114
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4707,
+            "par": 71,
+            "rating": 61.5,
+            "slope": 100
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4707,
+            "par": 71,
+            "rating": 65.5,
+            "slope": 109
+          }
+        ]
+      },
+      {
+        "name": "Cedros/Palmas",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6191,
+            "par": 70,
+            "rating": 70.3,
+            "slope": 123
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6191,
+            "par": 70,
+            "rating": 76.4,
+            "slope": 133
+          },
+          {
+            "name": "Black/Blue",
+            "category": "MALE",
+            "yards": 5922,
+            "par": 70,
+            "rating": 69.3,
+            "slope": 121
+          },
+          {
+            "name": "Black/Blue",
+            "category": "FEMALE",
+            "yards": 5922,
+            "par": 70,
+            "rating": 75.3,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5722,
+            "par": 70,
+            "rating": 68.6,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5722,
+            "par": 70,
+            "rating": 74.3,
+            "slope": 128
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 5436,
+            "par": 70,
+            "rating": 67.4,
+            "slope": 115
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 5436,
+            "par": 70,
+            "rating": 72.9,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5212,
+            "par": 70,
+            "rating": 66.2,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5212,
+            "par": 70,
+            "rating": 71.6,
+            "slope": 122
+          },
+          {
+            "name": "White/Green",
+            "category": "MALE",
+            "yards": 5019,
+            "par": 70,
+            "rating": 65.2,
+            "slope": 111
+          },
+          {
+            "name": "White/Green",
+            "category": "FEMALE",
+            "yards": 5019,
+            "par": 70,
+            "rating": 70.4,
+            "slope": 119
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4460,
+            "par": 70,
+            "rating": 62.4,
+            "slope": 104
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4460,
+            "par": 70,
+            "rating": 67,
+            "slope": 112
+          }
+        ]
+      },
+      {
+        "name": "Cedros",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 3187,
+            "par": 35,
+            "rating": 35.2,
+            "slope": 121
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 3187,
+            "par": 35,
+            "rating": 38.1,
+            "slope": 132
+          },
+          {
+            "name": "Black/Blue",
+            "category": "MALE",
+            "yards": 3038,
+            "par": 35,
+            "rating": 34.5,
+            "slope": 117
+          },
+          {
+            "name": "Black/Blue",
+            "category": "FEMALE",
+            "yards": 3038,
+            "par": 35,
+            "rating": 37.2,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2938,
+            "par": 35,
+            "rating": 34,
+            "slope": 115
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2938,
+            "par": 35,
+            "rating": 36.7,
+            "slope": 127
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 2747,
+            "par": 35,
+            "rating": 33.2,
+            "slope": 111
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 2747,
+            "par": 35,
+            "rating": 35.7,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2604,
+            "par": 35,
+            "rating": 32.5,
+            "slope": 108
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2604,
+            "par": 35,
+            "rating": 34.9,
+            "slope": 119
+          },
+          {
+            "name": "White/Green",
+            "category": "MALE",
+            "yards": 2509,
+            "par": 35,
+            "rating": 31.5,
+            "slope": 103
+          },
+          {
+            "name": "White/Green",
+            "category": "FEMALE",
+            "yards": 2509,
+            "par": 35,
+            "rating": 33.7,
+            "slope": 114
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 2226,
+            "par": 35,
+            "rating": 30.8,
+            "slope": 99
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 2226,
+            "par": 35,
+            "rating": 32.8,
+            "slope": 110
+          }
+        ]
+      },
+      {
+        "name": "Olivos",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 3495,
+            "par": 36,
+            "rating": 34,
+            "slope": 117
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 3495,
+            "par": 36,
+            "rating": 36.7,
+            "slope": 126
+          },
+          {
+            "name": "Black/Blue",
+            "category": "MALE",
+            "yards": 3351,
+            "par": 36,
+            "rating": 33.6,
+            "slope": 114
+          },
+          {
+            "name": "Black/Blue",
+            "category": "FEMALE",
+            "yards": 3351,
+            "par": 36,
+            "rating": 36.2,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3279,
+            "par": 36,
+            "rating": 33.2,
+            "slope": 112
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3279,
+            "par": 36,
+            "rating": 35.7,
+            "slope": 120
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 3092,
+            "par": 36,
+            "rating": 32.7,
+            "slope": 110
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 3092,
+            "par": 36,
+            "rating": 35.1,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2918,
+            "par": 36,
+            "rating": 32.3,
+            "slope": 108
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2918,
+            "par": 36,
+            "rating": 34.7,
+            "slope": 116
+          },
+          {
+            "name": "White/Green",
+            "category": "MALE",
+            "yards": 2802,
+            "par": 36,
+            "rating": 31.9,
+            "slope": 106
+          },
+          {
+            "name": "White/Green",
+            "category": "FEMALE",
+            "yards": 2802,
+            "par": 36,
+            "rating": 34.2,
+            "slope": 113
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 2481,
+            "par": 36,
+            "rating": 30.7,
+            "slope": 101
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 2481,
+            "par": 36,
+            "rating": 32.7,
+            "slope": 107
+          }
+        ]
+      },
+      {
+        "name": "Palma",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 3004,
+            "par": 35,
+            "rating": 36.3,
+            "slope": 129
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 3004,
+            "par": 35,
+            "rating": 39.7,
+            "slope": 139
+          },
+          {
+            "name": "Black/Blue",
+            "category": "MALE",
+            "yards": 2884,
+            "par": 35,
+            "rating": 35.7,
+            "slope": 127
+          },
+          {
+            "name": "Black/Blue",
+            "category": "FEMALE",
+            "yards": 2884,
+            "par": 35,
+            "rating": 39.1,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2784,
+            "par": 35,
+            "rating": 35.4,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2784,
+            "par": 35,
+            "rating": 38.6,
+            "slope": 135
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 2689,
+            "par": 35,
+            "rating": 34.7,
+            "slope": 120
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 2689,
+            "par": 35,
+            "rating": 37.8,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2608,
+            "par": 35,
+            "rating": 33.9,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2608,
+            "par": 35,
+            "rating": 36.9,
+            "slope": 127
+          },
+          {
+            "name": "White/Green",
+            "category": "MALE",
+            "yards": 2510,
+            "par": 35,
+            "rating": 33.3,
+            "slope": 115
+          },
+          {
+            "name": "White/Green",
+            "category": "FEMALE",
+            "yards": 2510,
+            "par": 35,
+            "rating": 36.2,
+            "slope": 124
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 2234,
+            "par": 35,
+            "rating": 31.7,
+            "slope": 106
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 2234,
+            "par": 35,
+            "rating": 34.3,
+            "slope": 116
+          }
+        ]
+      },
+      {
+        "name": "Palmas/Cedros",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6682,
+            "par": 71,
+            "rating": 71.5,
+            "slope": 125
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6682,
+            "par": 71,
+            "rating": 77.8,
+            "slope": 136
+          },
+          {
+            "name": "Black/Blue",
+            "category": "MALE",
+            "yards": 6389,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 122
+          },
+          {
+            "name": "Black/Blue",
+            "category": "FEMALE",
+            "yards": 6389,
+            "par": 71,
+            "rating": 76.3,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6217,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6217,
+            "par": 71,
+            "rating": 75.3,
+            "slope": 131
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 5839,
+            "par": 71,
+            "rating": 67.9,
+            "slope": 116
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 5839,
+            "par": 71,
+            "rating": 73.5,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5522,
+            "par": 71,
+            "rating": 66.4,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5522,
+            "par": 71,
+            "rating": 71.8,
+            "slope": 123
+          },
+          {
+            "name": "White/Green",
+            "category": "MALE",
+            "yards": 5311,
+            "par": 71,
+            "rating": 64.8,
+            "slope": 109
+          },
+          {
+            "name": "White/Green",
+            "category": "FEMALE",
+            "yards": 5311,
+            "par": 71,
+            "rating": 69.9,
+            "slope": 119
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4707,
+            "par": 71,
+            "rating": 62.5,
+            "slope": 103
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4707,
+            "par": 71,
+            "rating": 67.1,
+            "slope": 113
+          }
+        ]
+      },
+      {
+        "name": "Olivos/Cedros",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6191,
+            "par": 70,
+            "rating": 69.2,
+            "slope": 119
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6191,
+            "par": 70,
+            "rating": 74.8,
+            "slope": 129
+          },
+          {
+            "name": "Black/Blue",
+            "category": "MALE",
+            "yards": 5922,
+            "par": 70,
+            "rating": 68.1,
+            "slope": 116
+          },
+          {
+            "name": "Black/Blue",
+            "category": "FEMALE",
+            "yards": 5922,
+            "par": 70,
+            "rating": 73.4,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5722,
+            "par": 70,
+            "rating": 67.2,
+            "slope": 114
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5722,
+            "par": 70,
+            "rating": 72.4,
+            "slope": 124
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 5436,
+            "par": 70,
+            "rating": 65.9,
+            "slope": 111
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 5436,
+            "par": 70,
+            "rating": 70.8,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5212,
+            "par": 70,
+            "rating": 64.8,
+            "slope": 108
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5212,
+            "par": 70,
+            "rating": 69.6,
+            "slope": 118
+          },
+          {
+            "name": "White/Green",
+            "category": "MALE",
+            "yards": 5019,
+            "par": 70,
+            "rating": 63.4,
+            "slope": 105
+          },
+          {
+            "name": "White/Green",
+            "category": "FEMALE",
+            "yards": 5019,
+            "par": 70,
+            "rating": 67.9,
+            "slope": 114
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4460,
+            "par": 70,
+            "rating": 61.5,
+            "slope": 100
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4460,
+            "par": 70,
+            "rating": 65.5,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8abd82d0-86ac-11e4-8c28-020000005b00/la-valle-coastal-club"
+  }
+}

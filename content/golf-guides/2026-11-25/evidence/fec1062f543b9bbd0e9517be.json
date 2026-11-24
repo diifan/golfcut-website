@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9aefef30-86ac-11e4-8c28-020000005b00/country-club-of-crystal-coast",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9aefef30-86ac-11e4-8c28-020000005b00/country-club-of-crystal-coast",
+  "checked_at": 1795524075.4855542,
+  "sha256": "bdd14d4c4edd077b5b68f513b27a1a5ccd7bbbcc87515a5e4a36e81e6e99c7df",
+  "title": "Country Club of Crystal Coast - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9aefef30-86ac-11e4-8c28-020000005b00",
+    "name": "Country Club of Crystal Coast",
+    "address": "152 Oakleaf Dr, Pine Knoll Shores, NC",
+    "courses": [
+      {
+        "name": "Crystal Coast",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6004,
+            "par": 70,
+            "rating": 70.4,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5558,
+            "par": 70,
+            "rating": 68.3,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4816,
+            "par": 70,
+            "rating": 64.8,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9aefef30-86ac-11e4-8c28-020000005b00/country-club-of-crystal-coast"
+  }
+}

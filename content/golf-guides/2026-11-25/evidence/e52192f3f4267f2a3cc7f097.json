@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/995d4140-86ac-11e4-8c28-020000005b00/mill-pond-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/995d4140-86ac-11e4-8c28-020000005b00/mill-pond-golf-course",
+  "checked_at": 1795523996.1036963,
+  "sha256": "fdbec87a8ec65a8957d1d4bcc93e9e6ea9ff50387648e935427b521e6ba31d37",
+  "title": "Mill Pond Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "995d4140-86ac-11e4-8c28-020000005b00",
+    "name": "Mill Pond Golf Course",
+    "address": "300 Mill Road, Medford, NY",
+    "courses": [
+      {
+        "name": "Mill Pond",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6304,
+            "par": 70,
+            "rating": 70.4,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6304,
+            "par": 70,
+            "rating": 75.4,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5966,
+            "par": 70,
+            "rating": 68.6,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5966,
+            "par": 70,
+            "rating": 72.7,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5156,
+            "par": 70,
+            "rating": 65,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5156,
+            "par": 70,
+            "rating": 68.5,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4831,
+            "par": 70,
+            "rating": 66.9,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4831,
+            "par": 70,
+            "rating": 67.9,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/995d4140-86ac-11e4-8c28-020000005b00/mill-pond-golf-course"
+  }
+}

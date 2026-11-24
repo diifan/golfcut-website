@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b3339c0-86ac-11e4-8c28-020000005b00/smoky-mountain-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b3339c0-86ac-11e4-8c28-020000005b00/smoky-mountain-golf-club",
+  "checked_at": 1795524272.4371884,
+  "sha256": "7517b90a9d03f653371668ff0a90b0f3ba6eab02802b1b55377b6cf94a8e6d97",
+  "title": "Smoky Mountain Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9b3339c0-86ac-11e4-8c28-020000005b00",
+    "name": "Smoky Mountain Golf Club",
+    "address": "1300 Conleys Creek Rd, Whittier, NC",
+    "courses": [
+      {
+        "name": "Smoky Mountain",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6019,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 119
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6019,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5519,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5519,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 117
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4980,
+            "par": 71,
+            "rating": 64.9,
+            "slope": 105
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 4980,
+            "par": 71,
+            "rating": 65.9,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4426,
+            "par": 71,
+            "rating": 64.1,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4426,
+            "par": 71,
+            "rating": 65.1,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b3339c0-86ac-11e4-8c28-020000005b00/smoky-mountain-golf-club"
+  }
+}

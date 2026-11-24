@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92c37f20-86ac-11e4-8c28-020000005b00/yale-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92c37f20-86ac-11e4-8c28-020000005b00/yale-golf-course",
+  "checked_at": 1795523702.2649097,
+  "sha256": "451a89e7ca7757ab1b3c7bc09757e5fa12e4ee050e92a2a9d079196d033474f7",
+  "title": "Yale Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92c37f20-86ac-11e4-8c28-020000005b00",
+    "name": "Yale Golf Course",
+    "address": "200 Conrad Dr, New Haven, CT",
+    "courses": [
+      {
+        "name": "Yale",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7054,
+            "par": 70,
+            "rating": 74.7,
+            "slope": 144
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 7054,
+            "par": 70,
+            "rating": 81.4,
+            "slope": 152
+          },
+          {
+            "name": "Long",
+            "category": "MALE",
+            "yards": 6361,
+            "par": 70,
+            "rating": 71.5,
+            "slope": 139
+          },
+          {
+            "name": "Long",
+            "category": "FEMALE",
+            "yards": 6361,
+            "par": 70,
+            "rating": 77.5,
+            "slope": 146
+          },
+          {
+            "name": "Regular",
+            "category": "MALE",
+            "yards": 5767,
+            "par": 70,
+            "rating": 68.9,
+            "slope": 130
+          },
+          {
+            "name": "Regular",
+            "category": "FEMALE",
+            "yards": 5767,
+            "par": 70,
+            "rating": 74.3,
+            "slope": 138
+          },
+          {
+            "name": "Short",
+            "category": "MALE",
+            "yards": 4814,
+            "par": 70,
+            "rating": 64.5,
+            "slope": 110
+          },
+          {
+            "name": "Short",
+            "category": "FEMALE",
+            "yards": 4814,
+            "par": 70,
+            "rating": 68.5,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92c37f20-86ac-11e4-8c28-020000005b00/yale-golf-course"
+  }
+}

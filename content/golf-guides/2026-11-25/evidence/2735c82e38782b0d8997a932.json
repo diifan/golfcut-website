@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/82f24590-86ac-11e4-8c28-020000005b00/odyssey",
+  "resolved_url": "https://18birdies.com/golf-courses/club/82f24590-86ac-11e4-8c28-020000005b00/odyssey",
+  "checked_at": 1795524306.0894365,
+  "sha256": "15b392f5a233f996779ada073038e7eb8700f3424364c0caf840e7e1e330daf0",
+  "title": "Odyssey - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "82f24590-86ac-11e4-8c28-020000005b00",
+    "name": "Odyssey",
+    "address": "19110 South Ridgeland, Tinley Park, IL",
+    "courses": [
+      {
+        "name": "Odyssey",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7095,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6612,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6107,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5564,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/82f24590-86ac-11e4-8c28-020000005b00/odyssey"
+  }
+}

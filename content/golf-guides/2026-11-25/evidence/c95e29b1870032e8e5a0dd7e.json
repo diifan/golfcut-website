@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a5cec40-86ac-11e4-8c28-020000005b00/tulare-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a5cec40-86ac-11e4-8c28-020000005b00/tulare-golf-course",
+  "checked_at": 1795524077.479721,
+  "sha256": "fe0607ffbf768538094db3af0f83dd34ea83cec87b89fe51c5b6c19d27a49c8f",
+  "title": "Tulare Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a5cec40-86ac-11e4-8c28-020000005b00",
+    "name": "Tulare Golf Course",
+    "address": "5320 S Laspina St, Tulare, CA",
+    "courses": [
+      {
+        "name": "Tulare",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6762,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6762,
+            "par": 72,
+            "rating": 77.9,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6542,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6542,
+            "par": 72,
+            "rating": 77.3,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5975,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5975,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 116
+          },
+          {
+            "name": "Brown",
+            "category": "MALE",
+            "yards": 5975,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 124
+          },
+          {
+            "name": "Brown",
+            "category": "FEMALE",
+            "yards": 5975,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 129
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a5cec40-86ac-11e4-8c28-020000005b00/tulare-golf-course"
+  }
+}

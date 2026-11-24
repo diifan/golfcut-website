@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/990a6650-86ac-11e4-8c28-020000005b00/brookhaven-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/990a6650-86ac-11e4-8c28-020000005b00/brookhaven-golf-club",
+  "checked_at": 1795524058.48742,
+  "sha256": "f311e285d4a078f8ed521c2a5b8c057c650d6cc4f0cccf20791b00e25d750238",
+  "title": "Brookhaven Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "990a6650-86ac-11e4-8c28-020000005b00",
+    "name": "Brookhaven Golf Club",
+    "address": "333 Alpine Meadows Road, Porter Corner, NY",
+    "courses": [
+      {
+        "name": "Brookhaven",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6570,
+            "par": 71,
+            "rating": 72.2,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6570,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6168,
+            "par": 71,
+            "rating": 71.3,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6168,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5763,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5763,
+            "par": 71,
+            "rating": 73.5,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4860,
+            "par": 71,
+            "rating": 64.7,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4860,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/990a6650-86ac-11e4-8c28-020000005b00/brookhaven-golf-club"
+  }
+}

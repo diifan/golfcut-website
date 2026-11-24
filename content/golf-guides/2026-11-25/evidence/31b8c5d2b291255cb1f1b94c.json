@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8cb9a0f0-86ac-11e4-8c28-020000005b00/irving-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8cb9a0f0-86ac-11e4-8c28-020000005b00/irving-golf-club",
+  "checked_at": 1795523678.0833914,
+  "sha256": "ec43fd033d69afb2409522d3942a5641fb670a81907de1b94b8e98f35c69bd55",
+  "title": "Irving Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8cb9a0f0-86ac-11e4-8c28-020000005b00",
+    "name": "Irving Golf Club",
+    "address": "2000 E Shady Grove Rd, Irving, TX",
+    "courses": [
+      {
+        "name": "Irving",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6632,
+            "par": 71,
+            "rating": 71.8,
+            "slope": 127
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6632,
+            "par": 71,
+            "rating": 77.2,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6141,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6141,
+            "par": 71,
+            "rating": 74.6,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5767,
+            "par": 71,
+            "rating": 67.5,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5767,
+            "par": 71,
+            "rating": 72.6,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4948,
+            "par": 71,
+            "rating": 63.8,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4948,
+            "par": 71,
+            "rating": 68.4,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8cb9a0f0-86ac-11e4-8c28-020000005b00/irving-golf-club"
+  }
+}

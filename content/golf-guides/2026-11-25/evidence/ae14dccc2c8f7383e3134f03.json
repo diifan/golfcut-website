@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/aebc9950-86ac-11e4-8c28-020000005b00/valley-view-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/aebc9950-86ac-11e4-8c28-020000005b00/valley-view-golf-course",
+  "checked_at": 1795523974.0540237,
+  "sha256": "a582b251e280e2fb26180147ad186e7599d936a65d76c57e38d606f9743be773",
+  "title": "Valley View Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "aebc9950-86ac-11e4-8c28-020000005b00",
+    "name": "Valley View Golf Course",
+    "address": "27996 438th Ave",
+    "courses": [
+      {
+        "name": "Valley View Golf Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3110,
+            "par": 36,
+            "rating": 34.3,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2951,
+            "par": 36,
+            "rating": 33.3,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2359,
+            "par": 36,
+            "rating": 33.2,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/aebc9950-86ac-11e4-8c28-020000005b00/valley-view-golf-course"
+  }
+}

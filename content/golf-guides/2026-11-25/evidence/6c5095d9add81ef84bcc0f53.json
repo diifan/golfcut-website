@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/921b0a20-86ac-11e4-8c28-020000005b00/pine-creek-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/921b0a20-86ac-11e4-8c28-020000005b00/pine-creek-golf-club",
+  "checked_at": 1795524735.9411912,
+  "sha256": "bf0c98bc1e48cc1f04c9ccffaa0368b1eade3e2160815ac851da476072bcab23",
+  "title": "Pine Creek Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "921b0a20-86ac-11e4-8c28-020000005b00",
+    "name": "Pine Creek Golf Club",
+    "address": "9850 Divot Trail, COlorado Springs, CO",
+    "courses": [
+      {
+        "name": "Pine Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7241,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 145
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6511,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 135
+          },
+          {
+            "name": "Blue Flex",
+            "category": "MALE",
+            "yards": 6329,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5892,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 123
+          },
+          {
+            "name": "White Flex",
+            "category": "MALE",
+            "yards": 5619,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 118
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4882,
+            "par": 72,
+            "rating": 63.1,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/921b0a20-86ac-11e4-8c28-020000005b00/pine-creek-golf-club"
+  }
+}

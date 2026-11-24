@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99537d40-86ac-11e4-8c28-020000005b00/deepdale-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99537d40-86ac-11e4-8c28-020000005b00/deepdale-golf-club",
+  "checked_at": 1795524849.4544625,
+  "sha256": "d19222af30c9eb31f8a7c0f5705efd9e3dd47b81c80068cf798057ce5a1d1107",
+  "title": "Deepdale Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99537d40-86ac-11e4-8c28-020000005b00",
+    "name": "Deepdale Golf Club",
+    "address": "300 North Service Rd. Manhasset, NY 11030",
+    "courses": [
+      {
+        "name": "Deepdale Golf Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6670,
+            "par": 70,
+            "rating": 72.5,
+            "slope": 129
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6670,
+            "par": 70,
+            "rating": 77.4,
+            "slope": 137
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6185,
+            "par": 70,
+            "rating": 69.9,
+            "slope": 126
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6185,
+            "par": 70,
+            "rating": 76,
+            "slope": 138
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5130,
+            "par": 70,
+            "rating": 68.3,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5130,
+            "par": 70,
+            "rating": 69.7,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99537d40-86ac-11e4-8c28-020000005b00/deepdale-golf-club"
+  }
+}

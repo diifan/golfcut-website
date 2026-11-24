@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1732dd0-86ac-11e4-8c28-020000005b00/ladera-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1732dd0-86ac-11e4-8c28-020000005b00/ladera-golf-course",
+  "checked_at": 1795524208.3487644,
+  "sha256": "fbc0902455baf9366784e63993a3198d2c92ba42ff8680708dea09ffa9e90bf1",
+  "title": "Ladera Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1732dd0-86ac-11e4-8c28-020000005b00",
+    "name": "Ladera Golf Course",
+    "address": "3401 Ladera Dr NW, Albuquerque, NM ",
+    "courses": [
+      {
+        "name": "Championship 18 Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6569,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6569,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7123,
+            "par": 72,
+            "rating": 72,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7123,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5878,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 112
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5878,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 121
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5467,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 108
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5467,
+            "par": 72,
+            "rating": 70,
+            "slope": 116
+          }
+        ]
+      },
+      {
+        "name": "9-hole Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2053,
+            "par": 31,
+            "rating": 31,
+            "slope": 110
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2053,
+            "par": 31,
+            "rating": 31.9,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1852,
+            "par": 31,
+            "rating": 30.9,
+            "slope": 97
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1852,
+            "par": 31,
+            "rating": 31,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1732dd0-86ac-11e4-8c28-020000005b00/ladera-golf-course"
+  }
+}

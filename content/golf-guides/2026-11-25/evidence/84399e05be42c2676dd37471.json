@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b005bb20-86ac-11e4-8c28-020000005b00/brandermill-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b005bb20-86ac-11e4-8c28-020000005b00/brandermill-country-club",
+  "checked_at": 1795524129.2491088,
+  "sha256": "2dd428ab5173809e8b9e3fc34ab9f09706fc4a805d53e9263a6c797f65011d55",
+  "title": "Brandermill Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b005bb20-86ac-11e4-8c28-020000005b00",
+    "name": "Brandermill Country Club",
+    "address": "3700 Brandermill Parkway, Midlothian, VA",
+    "courses": [
+      {
+        "name": "Brandermill",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6670,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6308,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5963,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5464,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4953,
+            "par": 72,
+            "rating": 64.2,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b005bb20-86ac-11e4-8c28-020000005b00/brandermill-country-club"
+  }
+}

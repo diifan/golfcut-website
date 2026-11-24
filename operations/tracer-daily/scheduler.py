@@ -33,7 +33,7 @@ def tick():
   for delta in [0,1]:
    day=(clock.date()+datetime.timedelta(days=delta)).isoformat();r=read(HOME/(day+'-receipt.json'),{})
    checked=r.get('last_base_check_at')
-   if r.get('state')=='ready' and (not checked or (datetime.datetime.now(datetime.timezone.utc)-datetime.datetime.fromisoformat(checked)).total_seconds()>=900):
+   if r.get('state')=='ready' and r.get('input_kind')=='semrush_keywords_v1' and (not checked or (datetime.datetime.now(datetime.timezone.utc)-datetime.datetime.fromisoformat(checked)).total_seconds()>=900):
     try:refresh_ready(day,r)
     except Exception as e:progress(day,state='rebase_required',blockers=[str(e)[-1500:]])
  for action,day in due(c,clock):
@@ -42,7 +42,7 @@ def tick():
   # Retrying source outages must not hammer upstream every minute.
   attempted=r.get('last_attempt_at')
   if attempted and (datetime.datetime.now(datetime.timezone.utc)-datetime.datetime.fromisoformat(attempted)).total_seconds()<900:continue
-  if action=='publish' and r.get('state') not in ['ready','publishing','verifying','reconcile_required']:
+  if action=='publish' and (r.get('input_kind')!='semrush_keywords_v1' or r.get('state') not in ['ready','publishing','verifying','reconcile_required']):
    if not r:progress(day,state='missing_prepared_batch',blockers=['No validated version was prepared; publish tick will not build or publish partial content.'])
    continue
   progress(day,last_attempt_at=now())

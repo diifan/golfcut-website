@@ -1,7 +1,7 @@
 import os
 import argparse,subprocess,re,hashlib,xml.etree.ElementTree as ET,fcntl,collections
 from common import *
-from source_cache import collect
+from keyword_input import load_candidates, InputPending
 from content_engine import *
 BUN='/var/lib/swi-codex/.bun/bin/bun'
 def run(args,cwd):
@@ -10,9 +10,13 @@ def run(args,cwd):
  if result.returncode:raise RuntimeError(result.stdout[-4000:])
  return result.stdout.strip()
 def prepare(day,refresh=True):
+ from keyword_pages import prepare_keywords
+ return prepare_keywords(day)
+
+def _legacy_video_prepare_DISABLED(day,refresh=True):
  c=config();target=c['target'];r=read(HOME/(day+'-receipt.json'),{})
  if r.get('state') in ['ready','published']:return r
- pool=collect(day) if refresh else read(HOME/'keywords.json',{})
+ pool=load_candidates(day)
  reserved=[v for v in pool.values() if v.get('batch')==day and v['status']=='reserved']
  selected=reserved or [v for v in pool.values() if v['status']=='available'][:target]
  if len(selected)<target:
@@ -24,7 +28,7 @@ def prepare(day,refresh=True):
  if run(['git','rev-parse','HEAD'],work)!=base:raise RuntimeError('Worktree base differs from current main; preserve work and reconcile before publishing')
  # A second run regenerates only this executor's own files.
  for v in selected:v.update(status='reserved',batch=day)
- save(HOME/'keywords.json',pool)
+ save(HOME/'semrush-keyword-state.json',pool)
  template=(work/'public/golf-shot-tracer/index.html').read_text();library=work/'public/shot-library';library.mkdir(exist_ok=True)
  manifest=work/'content/shot-library'/day/'pages.json';pages=[]
  for i,v in enumerate(selected):
@@ -65,4 +69,5 @@ if __name__=='__main__':
  with (HOME/'executor.lock').open('a') as lock:
   fcntl.flock(lock,fcntl.LOCK_EX|fcntl.LOCK_NB)
   try:prepare(args.day,not args.no_refresh)
+  except InputPending as e:progress(args.day,state='waiting_keyword_pool',blockers=[str(e)])
   except Exception as e:progress(args.day,state='failed',blockers=[str(e)[-1800:]]);raise

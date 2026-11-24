@@ -8,6 +8,7 @@ def cli(args,work):return run([VC]+args+['--scope',SCOPE],work)
 def api(path,work):
  text=cli(['api',path],work);start=text.find('{');return json.loads(text[start:])
 def check_manifest(r):
+ if r.get('input_kind')!='semrush_keywords_v1':raise RuntimeError('Publication disabled for video-title batches; a validated Semrush keyword batch is required')
  p=Path(r['pages_path'])
  if hashlib.sha256(p.read_bytes()).hexdigest()!=r['pages_sha256']:raise RuntimeError('Batch manifest changed')
  rows=read(p)

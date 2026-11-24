@@ -1,5 +1,7 @@
 # GolfCut existing website: incremental SEO execution
 
+**2026-11-24 correction:** only controller-supplied Semrush keywords may drive new batches. See [INPUT-CONTRACT.md](INPUT-CONTRACT.md). The video-catalog collector/renderer below describe the preserved historical release, not an authorized future keyword source. New generation awaits the real CSV/evidence handoff and source-specific writer adaptation; publication guards reject all video-title batches.
+
 Installed executor: `/data/swi-algo/Swi-App-Factory/GolfCut/production/tracer-daily`.
 This adds pages to `diifan/golfcut-website` and its existing `golfcut-website` Vercel project. It never creates a site/project, resets the inference worktree, changes DNS, or alters another app.
 

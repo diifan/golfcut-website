@@ -2,3 +2,5 @@
 .screen:has(video:not([hidden])){min-height:0}
 
 .style-grid{max-height:420px;overflow-y:auto;align-content:start}.style-grid label{cursor:pointer;padding:6px}.style-grid img{display:block;width:100%;aspect-ratio:2/1;object-fit:cover;border-radius:5px;margin:5px 0}.style-grid label:has(input:checked){border:2px solid #466d30;background:#eff6e8}.style-grid span{display:block;font-size:12px}
+
+.style-grid img{height:auto}

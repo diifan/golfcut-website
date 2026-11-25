@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d1f4090-86ac-11e4-8c28-020000005b00/river-glen-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d1f4090-86ac-11e4-8c28-020000005b00/river-glen-country-club",
+  "checked_at": 1795524392.3421917,
+  "sha256": "a978e68150adc2abbd98920339f973b10668cc14da5fedf482750a1f10a2a657",
+  "title": "River Glen Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d1f4090-86ac-11e4-8c28-020000005b00",
+    "name": "River Glen Country Club",
+    "address": "12010 Clubhouse Drive, Fishers, IN",
+    "courses": [
+      {
+        "name": "River Glen",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6847,
+            "par": 71,
+            "rating": 73,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6847,
+            "par": 71,
+            "rating": 78.3,
+            "slope": 140
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6273,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6273,
+            "par": 71,
+            "rating": 76.2,
+            "slope": 135
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5494,
+            "par": 71,
+            "rating": 66.8,
+            "slope": 121
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5494,
+            "par": 71,
+            "rating": 71.8,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5106,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5106,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d1f4090-86ac-11e4-8c28-020000005b00/river-glen-country-club"
+  }
+}

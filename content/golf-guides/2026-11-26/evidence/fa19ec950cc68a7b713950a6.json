@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae0d4680-86ac-11e4-8c28-020000005b00/the-plantation-course-at-edisto",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae0d4680-86ac-11e4-8c28-020000005b00/the-plantation-course-at-edisto",
+  "checked_at": 1795524551.4683964,
+  "sha256": "7ba299121cf2501e963e8855108e1c57dd82656ffe85640fdd664fa75e01d7e9",
+  "title": "The Plantation Course At Edisto - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae0d4680-86ac-11e4-8c28-020000005b00",
+    "name": "The Plantation Course At Edisto",
+    "address": "19 Fairway Dr",
+    "courses": [
+      {
+        "name": "Edisto(Plantation )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6130,
+            "par": 70,
+            "rating": 69.2,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5782,
+            "par": 70,
+            "rating": 67.4,
+            "slope": 123
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5240,
+            "par": 70,
+            "rating": 65.7,
+            "slope": 119
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4689,
+            "par": 70,
+            "rating": 63,
+            "slope": 109
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4438,
+            "par": 70,
+            "rating": 62.3,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae0d4680-86ac-11e4-8c28-020000005b00/the-plantation-course-at-edisto"
+  }
+}

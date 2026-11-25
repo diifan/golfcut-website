@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83a086f0-86ac-11e4-8c28-020000005b00/old-oak-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83a086f0-86ac-11e4-8c28-020000005b00/old-oak-country-club",
+  "checked_at": 1795524659.990823,
+  "sha256": "2c9ac5b6bc9029d1f46edb7dbe157a45dd5c7821975d436247e82f95e6f976e2",
+  "title": "Old Oak Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "83a086f0-86ac-11e4-8c28-020000005b00",
+    "name": "Old Oak Country Club",
+    "address": "14200 S. Parker Rd. Homer Glen, IL 60491",
+    "courses": [
+      {
+        "name": "Old Oak",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6460,
+            "par": 71,
+            "rating": 71.3,
+            "slope": 133
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6460,
+            "par": 71,
+            "rating": 77.1,
+            "slope": 140
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6011,
+            "par": 71,
+            "rating": 69.3,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6011,
+            "par": 71,
+            "rating": 74.6,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5620,
+            "par": 71,
+            "rating": 67.1,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5620,
+            "par": 71,
+            "rating": 71.9,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4823,
+            "par": 71,
+            "rating": 63.3,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4823,
+            "par": 71,
+            "rating": 67.2,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83a086f0-86ac-11e4-8c28-020000005b00/old-oak-country-club"
+  }
+}

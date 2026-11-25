@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/928cdec0-86ac-11e4-8c28-020000005b00/hop-brook-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/928cdec0-86ac-11e4-8c28-020000005b00/hop-brook-golf-course",
+  "checked_at": 1795524781.5933895,
+  "sha256": "76029ad0fde93e7c1434f19f88cd2922f581c70d4ec55fb4d8cc088d1d600d3d",
+  "title": "Hop Brook Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "928cdec0-86ac-11e4-8c28-020000005b00",
+    "name": "Hop Brook Golf Course",
+    "address": "615 N Church St",
+    "courses": [
+      {
+        "name": "Hop Brook",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6156,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5808,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4882,
+            "par": 72,
+            "rating": 64,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4470,
+            "par": 72,
+            "rating": 67,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/928cdec0-86ac-11e4-8c28-020000005b00/hop-brook-golf-course"
+  }
+}

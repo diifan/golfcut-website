@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9bcc4570-86ac-11e4-8c28-020000005b00/eagle-rock-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9bcc4570-86ac-11e4-8c28-020000005b00/eagle-rock-golf-club",
+  "checked_at": 1795525019.5303457,
+  "sha256": "2cd60f0e6736f36da673652d1a3bae5bc132c3913f7d79175f7f17e3f824c4cc",
+  "title": "Eagle Rock Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9bcc4570-86ac-11e4-8c28-020000005b00",
+    "name": "Eagle Rock Golf Club",
+    "address": "211 Carpenter Rd, Defiance, OH",
+    "courses": [
+      {
+        "name": "Eagle Rock Golf Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6130,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6130,
+            "par": 71,
+            "rating": 74.5,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5772,
+            "par": 71,
+            "rating": 67.7,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5772,
+            "par": 71,
+            "rating": 73.1,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5039,
+            "par": 71,
+            "rating": 67.9,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5039,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9bcc4570-86ac-11e4-8c28-020000005b00/eagle-rock-golf-club"
+  }
+}

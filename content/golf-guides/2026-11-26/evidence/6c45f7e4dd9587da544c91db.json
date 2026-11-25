@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92cea2b0-86ac-11e4-8c28-020000005b00/highland-greens-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92cea2b0-86ac-11e4-8c28-020000005b00/highland-greens-golf-course",
+  "checked_at": 1795524255.658388,
+  "sha256": "2255622d24f944f35ca9fe1e20139b42c6913e9f58ceadb8141808709dd6f2d0",
+  "title": "Highland Greens Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "92cea2b0-86ac-11e4-8c28-020000005b00",
+    "name": "Highland Greens Golf Course",
+    "address": "122 Cook Rd",
+    "courses": [
+      {
+        "name": "Highland Greens",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2796,
+            "par": 54,
+            "rating": 55.15844,
+            "slope": 82.50944
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2796,
+            "par": 54,
+            "rating": 55.15844,
+            "slope": 82.50944
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2644,
+            "par": 54,
+            "rating": 54.52916,
+            "slope": 81.76616
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2644,
+            "par": 54,
+            "rating": 54.52916,
+            "slope": 81.76616
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92cea2b0-86ac-11e4-8c28-020000005b00/highland-greens-golf-course"
+  }
+}

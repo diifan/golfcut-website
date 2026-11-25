@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/f5307510-04fe-11eb-aad9-06780482e2ce/fernbank-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/f5307510-04fe-11eb-aad9-06780482e2ce/fernbank-golf-course",
+  "checked_at": 1795524757.893226,
+  "sha256": "029431db7470adc5ed217e70934747fe34dce3539eb2bea8212da21d4e687895",
+  "title": "Fernbank Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star-o star star star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "f5307510-04fe-11eb-aad9-06780482e2ce",
+    "name": "Fernbank Golf Course",
+    "address": "7036 Fernbank Ave, Cincinnati, Ohio",
+    "courses": [
+      {
+        "name": "default course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2198,
+            "par": 31,
+            "rating": 32.5,
+            "slope": 103
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2198,
+            "par": 37,
+            "rating": 32.6,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/f5307510-04fe-11eb-aad9-06780482e2ce/fernbank-golf-course"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8eb793d0-86ac-11e4-8c28-020000005b00/beacon-woods-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8eb793d0-86ac-11e4-8c28-020000005b00/beacon-woods-golf",
+  "checked_at": 1795525006.2705271,
+  "sha256": "36ff43b275701faf37925b53c76defbb028fa87aaa1faffeb6e9446ba95a9dd1",
+  "title": "Beacon Woods Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8eb793d0-86ac-11e4-8c28-020000005b00",
+    "name": "Beacon Woods Golf",
+    "address": "12507 Clock Tower Pkwy",
+    "courses": [
+      {
+        "name": "Beacon Woods",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6446,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 124
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6446,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6080,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6080,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5594,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5594,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5302,
+            "par": 72,
+            "rating": 64.6,
+            "slope": 107
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5302,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4728,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4728,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8eb793d0-86ac-11e4-8c28-020000005b00/beacon-woods-golf"
+  }
+}

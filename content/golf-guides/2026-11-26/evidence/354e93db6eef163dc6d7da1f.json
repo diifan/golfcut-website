@@ -1,0 +1,305 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4d98a50-86ac-11e4-8c28-020000005b00/rogue-valley-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4d98a50-86ac-11e4-8c28-020000005b00/rogue-valley-country-club",
+  "checked_at": 1795524649.5107098,
+  "sha256": "6d97f32d6eedb3da520bfa42ba05da4844c79df6b513e8ed8ac2d08007a4f40c",
+  "title": "Rogue Valley Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b4d98a50-86ac-11e4-8c28-020000005b00",
+    "name": "Rogue Valley Country Club",
+    "address": "2660 Hillcrest Rd, Medford, OR",
+    "courses": [
+      {
+        "name": "Oaks",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 3249,
+            "par": 35,
+            "rating": 35.9,
+            "slope": 130
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 3249,
+            "par": 36,
+            "rating": 38.2,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 3163,
+            "par": 35,
+            "rating": 35.4,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 3163,
+            "par": 36,
+            "rating": 37.8,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2925,
+            "par": 35,
+            "rating": 34.4,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2925,
+            "par": 36,
+            "rating": 37,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2724,
+            "par": 35,
+            "rating": 33.4,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2724,
+            "par": 36,
+            "rating": 35.7,
+            "slope": 128
+          }
+        ]
+      },
+      {
+        "name": "Rogue",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6664,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6664,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5935,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5935,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5576,
+            "par": 72,
+            "rating": 69,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5576,
+            "par": 73,
+            "rating": 75.3,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4923,
+            "par": 72,
+            "rating": 66,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4923,
+            "par": 73,
+            "rating": 71.1,
+            "slope": 127
+          },
+          {
+            "name": "Gold/Blue Combo\t",
+            "category": "MALE",
+            "yards": 5236,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 130
+          },
+          {
+            "name": "Gold/Blue Combo\t",
+            "category": "FEMALE",
+            "yards": 5236,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White/red/Black",
+            "category": "MALE",
+            "yards": 5467,
+            "par": 72,
+            "rating": 63.1,
+            "slope": 111
+          },
+          {
+            "name": "White/red/Black",
+            "category": "FEMALE",
+            "yards": 5467,
+            "par": 73,
+            "rating": 67.4,
+            "slope": 120
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 5774,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 122
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 5774,
+            "par": 73,
+            "rating": 72.7,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5177,
+            "par": 72,
+            "rating": 61.6,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5177,
+            "par": 73,
+            "rating": 65.3,
+            "slope": 116
+          }
+        ]
+      },
+      {
+        "name": "Chandler Eagan (Original)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6712,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 130
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6712,
+            "par": 73,
+            "rating": 77.6,
+            "slope": 138
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6462,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6462,
+            "par": 73,
+            "rating": 76.3,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6067,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6067,
+            "par": 73,
+            "rating": 74.2,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5497,
+            "par": 72,
+            "rating": 70,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5497,
+            "par": 73,
+            "rating": 71.1,
+            "slope": 124
+          },
+          {
+            "name": "Gold/Blue Combo\t",
+            "category": "MALE",
+            "yards": 6213,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 126
+          },
+          {
+            "name": "Gold/Blue Combo\t",
+            "category": "FEMALE",
+            "yards": 6213,
+            "par": 73,
+            "rating": 74.9,
+            "slope": 132
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4d98a50-86ac-11e4-8c28-020000005b00/rogue-valley-country-club"
+  }
+}

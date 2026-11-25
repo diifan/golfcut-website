@@ -1,0 +1,645 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b00a7610-86ac-11e4-8c28-020000005b00/the-hollows-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b00a7610-86ac-11e4-8c28-020000005b00/the-hollows-golf-club",
+  "checked_at": 1795524531.0393305,
+  "sha256": "dfef11110637ac58645db5018d8de4dd21f1ce4b0a7c371d039ca614fe2813a9",
+  "title": "The Hollows Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b00a7610-86ac-11e4-8c28-020000005b00",
+    "name": "The Hollows Golf Club",
+    "address": "14501 Greenwood Church Rd, Montpelier, VA",
+    "courses": [
+      {
+        "name": "Lake/Cottage",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5908,
+            "par": 70,
+            "rating": 68.6,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5908,
+            "par": 70,
+            "rating": 73.3,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5535,
+            "par": 70,
+            "rating": 66.4,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5535,
+            "par": 70,
+            "rating": 71.3,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4972,
+            "par": 70,
+            "rating": 63.7,
+            "slope": 110
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4972,
+            "par": 70,
+            "rating": 68.4,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4632,
+            "par": 70,
+            "rating": 62.6,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4632,
+            "par": 70,
+            "rating": 66.6,
+            "slope": 118
+          }
+        ]
+      },
+      {
+        "name": "Cottage/Road",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6021,
+            "par": 70,
+            "rating": 68.8,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6021,
+            "par": 70,
+            "rating": 73.9,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5638,
+            "par": 70,
+            "rating": 66.3,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5638,
+            "par": 70,
+            "rating": 71.9,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5037,
+            "par": 70,
+            "rating": 63.5,
+            "slope": 108
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5037,
+            "par": 70,
+            "rating": 68.4,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4642,
+            "par": 70,
+            "rating": 62.2,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4642,
+            "par": 70,
+            "rating": 66.3,
+            "slope": 116
+          }
+        ]
+      },
+      {
+        "name": "Road/Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5993,
+            "par": 70,
+            "rating": 68.8,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5993,
+            "par": 70,
+            "rating": 73.8,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5661,
+            "par": 70,
+            "rating": 66.7,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5661,
+            "par": 70,
+            "rating": 72,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4999,
+            "par": 70,
+            "rating": 63.6,
+            "slope": 107
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4999,
+            "par": 70,
+            "rating": 68.6,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4720,
+            "par": 70,
+            "rating": 62.4,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4720,
+            "par": 70,
+            "rating": 66.5,
+            "slope": 114
+          }
+        ]
+      },
+      {
+        "name": "Cottage/Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5908,
+            "par": 70,
+            "rating": 68.6,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5908,
+            "par": 70,
+            "rating": 73.3,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5535,
+            "par": 70,
+            "rating": 66.4,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5535,
+            "par": 70,
+            "rating": 71.3,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4972,
+            "par": 70,
+            "rating": 63.7,
+            "slope": 110
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4972,
+            "par": 70,
+            "rating": 68.4,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4632,
+            "par": 70,
+            "rating": 62.6,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4632,
+            "par": 70,
+            "rating": 66.6,
+            "slope": 118
+          }
+        ]
+      },
+      {
+        "name": "Lake/Road",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5993,
+            "par": 70,
+            "rating": 72.2,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5993,
+            "par": 70,
+            "rating": 73.8,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5661,
+            "par": 70,
+            "rating": 70.7,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5661,
+            "par": 70,
+            "rating": 72,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4999,
+            "par": 70,
+            "rating": 67.7,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4999,
+            "par": 70,
+            "rating": 68.5,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4720,
+            "par": 70,
+            "rating": 66.4,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4720,
+            "par": 70,
+            "rating": 67,
+            "slope": 115
+          }
+        ]
+      },
+      {
+        "name": "Road/Cottage",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6021,
+            "par": 70,
+            "rating": 68.8,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6021,
+            "par": 70,
+            "rating": 73.9,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5638,
+            "par": 70,
+            "rating": 66.3,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5638,
+            "par": 70,
+            "rating": 71.9,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5037,
+            "par": 70,
+            "rating": 63.5,
+            "slope": 108
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5037,
+            "par": 70,
+            "rating": 68.4,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4642,
+            "par": 70,
+            "rating": 62.2,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4642,
+            "par": 70,
+            "rating": 66.3,
+            "slope": 116
+          }
+        ]
+      },
+      {
+        "name": "Lake/Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5880,
+            "par": 70,
+            "rating": 68.6,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5880,
+            "par": 70,
+            "rating": 73.2,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5558,
+            "par": 70,
+            "rating": 66.4,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5558,
+            "par": 70,
+            "rating": 71.5,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4934,
+            "par": 70,
+            "rating": 63.7,
+            "slope": 110
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4934,
+            "par": 70,
+            "rating": 68.4,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4710,
+            "par": 70,
+            "rating": 62.6,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4710,
+            "par": 70,
+            "rating": 66.6,
+            "slope": 118
+          }
+        ]
+      },
+      {
+        "name": "Road/Road",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6106,
+            "par": 70,
+            "rating": 68.8,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6106,
+            "par": 70,
+            "rating": 74.4,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5764,
+            "par": 70,
+            "rating": 66.7,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5764,
+            "par": 70,
+            "rating": 72.6,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5064,
+            "par": 70,
+            "rating": 63.6,
+            "slope": 107
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5064,
+            "par": 70,
+            "rating": 68.6,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4730,
+            "par": 70,
+            "rating": 62.4,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4730,
+            "par": 70,
+            "rating": 66.5,
+            "slope": 114
+          }
+        ]
+      },
+      {
+        "name": "Cottage/Cottage",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5936,
+            "par": 70,
+            "rating": 68.6,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5936,
+            "par": 70,
+            "rating": 73.5,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5512,
+            "par": 70,
+            "rating": 66.4,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5512,
+            "par": 70,
+            "rating": 71.2,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5010,
+            "par": 70,
+            "rating": 63.7,
+            "slope": 110
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5010,
+            "par": 70,
+            "rating": 68.4,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4554,
+            "par": 70,
+            "rating": 62.6,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4554,
+            "par": 70,
+            "rating": 66.6,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b00a7610-86ac-11e4-8c28-020000005b00/the-hollows-golf-club"
+  }
+}

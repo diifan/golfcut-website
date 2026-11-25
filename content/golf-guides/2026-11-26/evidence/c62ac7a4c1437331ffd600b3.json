@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/89efab80-86ac-11e4-8c28-020000005b00/jack-tone-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/89efab80-86ac-11e4-8c28-020000005b00/jack-tone-golf",
+  "checked_at": 1795524363.8147979,
+  "sha256": "511a979a1c102b1d23605bcfe5220c13d3543c5908c6c9d24dca4a5a913c9f2c",
+  "title": "Ripon Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "89efab80-86ac-11e4-8c28-020000005b00",
+    "name": "Ripon Golf Club",
+    "address": "1500 Ruess Rd., Ripon, CA",
+    "courses": [
+      {
+        "name": "Ripon Golf Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3715,
+            "par": 62,
+            "rating": 58.7,
+            "slope": 93
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3715,
+            "par": 62,
+            "rating": 60.7,
+            "slope": 92
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3511,
+            "par": 62,
+            "rating": 58,
+            "slope": 91
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3511,
+            "par": 62,
+            "rating": 59.9,
+            "slope": 91
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3292,
+            "par": 62,
+            "rating": 57.1,
+            "slope": 87
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3292,
+            "par": 62,
+            "rating": 58.9,
+            "slope": 90
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/89efab80-86ac-11e4-8c28-020000005b00/jack-tone-golf"
+  }
+}

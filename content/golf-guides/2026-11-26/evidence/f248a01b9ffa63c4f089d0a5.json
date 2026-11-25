@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b597aa30-86ac-11e4-8c28-020000005b00/janesville-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b597aa30-86ac-11e4-8c28-020000005b00/janesville-country-club",
+  "checked_at": 1795582869.486267,
+  "sha256": "b6a8c140807b2398ca29c2b07dffd1b5bfe6ba1618be3d02690b7de413f692e1",
+  "title": "Janesville Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b597aa30-86ac-11e4-8c28-020000005b00",
+    "name": "Janesville Country Club",
+    "address": "2615 W Memorial Dr, Janesville, WI",
+    "courses": [
+      {
+        "name": "Janesville Country Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6374,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 129
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6374,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6147,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6147,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5741,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5741,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5119,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5119,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b597aa30-86ac-11e4-8c28-020000005b00/janesville-country-club"
+  }
+}

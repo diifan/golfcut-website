@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98c7b800-86ac-11e4-8c28-020000005b00/rockland-lake",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98c7b800-86ac-11e4-8c28-020000005b00/rockland-lake",
+  "checked_at": 1795524378.667438,
+  "sha256": "43098e30e4af6c8e3c8f65640614450b96448de3f9fc82b4e0700008b7d2e0b6",
+  "title": "Rockland Lake - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "98c7b800-86ac-11e4-8c28-020000005b00",
+    "name": "Rockland Lake",
+    "address": "Rockland Lake State Park Route 9W, Congers, NY",
+    "courses": [
+      {
+        "name": "Championship Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6864,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6349,
+            "par": 72,
+            "rating": 71,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5663,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98c7b800-86ac-11e4-8c28-020000005b00/rockland-lake"
+  }
+}

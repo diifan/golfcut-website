@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9295d0b0-8f69-11e8-a600-0680a328ea36/lake-almanor-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9295d0b0-8f69-11e8-a600-0680a328ea36/lake-almanor-country-club",
+  "checked_at": 1795582936.2740185,
+  "sha256": "6abeaecfb2d70b54de81944bdd2fe87465527de70f476d8530b0a85c3a9ca853",
+  "title": "Lake Almanor Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9295d0b0-8f69-11e8-a600-0680a328ea36",
+    "name": "Lake Almanor Country Club",
+    "address": "501 Peninsula Drive, Lake Almanor, CA ",
+    "courses": [
+      {
+        "name": "Lake Almanor",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 5838,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 121
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 5838,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 132
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "MALE",
+            "yards": 5630,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 115
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "FEMALE",
+            "yards": 5630,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9295d0b0-8f69-11e8-a600-0680a328ea36/lake-almanor-country-club"
+  }
+}

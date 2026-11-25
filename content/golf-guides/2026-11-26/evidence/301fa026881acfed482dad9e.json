@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a9e73d0-86ac-11e4-8c28-020000005b00/garner-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a9e73d0-86ac-11e4-8c28-020000005b00/garner-country-club",
+  "checked_at": 1795583770.432142,
+  "sha256": "f6bd50e14df1cf0753677601a8f138a485d1231dd7c403cd71f0c313655d396f",
+  "title": "Garner Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9a9e73d0-86ac-11e4-8c28-020000005b00",
+    "name": "Garner Country Club",
+    "address": "7605 Old Stage Rd, Raleigh, NC",
+    "courses": [
+      {
+        "name": "Garner(9 holes )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White-Blue ",
+            "category": "MALE",
+            "yards": 5364,
+            "par": 71,
+            "rating": 65.2,
+            "slope": 116
+          },
+          {
+            "name": "White-Blue ",
+            "category": "FEMALE",
+            "yards": 5364,
+            "par": 71,
+            "rating": 70.4,
+            "slope": 122
+          },
+          {
+            "name": "Red-Yellow",
+            "category": "MALE",
+            "yards": 4324,
+            "par": 71,
+            "rating": 64.6,
+            "slope": 110
+          },
+          {
+            "name": "Red-Yellow",
+            "category": "FEMALE",
+            "yards": 4324,
+            "par": 71,
+            "rating": 64.1,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a9e73d0-86ac-11e4-8c28-020000005b00/garner-country-club"
+  }
+}

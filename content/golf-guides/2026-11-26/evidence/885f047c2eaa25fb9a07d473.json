@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b84df090-86ac-11e4-8c28-020000005b00/beaver-river-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b84df090-86ac-11e4-8c28-020000005b00/beaver-river-golf-club",
+  "checked_at": 1795583803.3875155,
+  "sha256": "57fd213a26333212f1d49abefc5f1ea5d749f684d3ce81f63e56ab95b936047b",
+  "title": "Beaver River Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b84df090-86ac-11e4-8c28-020000005b00",
+    "name": "Beaver River Golf Club",
+    "address": "343 Kingstown Rd",
+    "courses": [
+      {
+        "name": "Beaver River",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5935,
+            "par": 70,
+            "rating": 67.8,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5610,
+            "par": 70,
+            "rating": 66.2,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4835,
+            "par": 70,
+            "rating": 66.9,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b84df090-86ac-11e4-8c28-020000005b00/beaver-river-golf-club"
+  }
+}

@@ -1,0 +1,465 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ec7c070-86ac-11e4-8c28-020000005b00/palmira-golf-and-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ec7c070-86ac-11e4-8c28-020000005b00/palmira-golf-and-country-club",
+  "checked_at": 1795524368.9063125,
+  "sha256": "1b93224c604e0700d3f6480ddbb240b5fe0047204001d0e40436dab21974960d",
+  "title": "Palmira Golf and Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8ec7c070-86ac-11e4-8c28-020000005b00",
+    "name": "Palmira Golf and Country Club",
+    "address": "28501 Matteotti View, Bonita Springs, FL, United States, Florida",
+    "courses": [
+      {
+        "name": "Egret/Ibis",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7147,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7147,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6516,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6516,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6066,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6066,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5449,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5449,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 124
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4713,
+            "par": 72,
+            "rating": 62.2,
+            "slope": 110
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4713,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 113
+          },
+          {
+            "name": "Black/Blue",
+            "category": "MALE",
+            "yards": 6834,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 135
+          },
+          {
+            "name": "Black/Blue",
+            "category": "FEMALE",
+            "yards": 6834,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 6286,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 129
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 6286,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White/Gold",
+            "category": "MALE",
+            "yards": 5808,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 122
+          },
+          {
+            "name": "White/Gold",
+            "category": "FEMALE",
+            "yards": 5808,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold/Green",
+            "category": "MALE",
+            "yards": 5042,
+            "par": 72,
+            "rating": 63.7,
+            "slope": 114
+          },
+          {
+            "name": "Gold/Green",
+            "category": "FEMALE",
+            "yards": 5042,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 118
+          }
+        ]
+      },
+      {
+        "name": "Ibis/Osprey",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7148,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 133
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7148,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6424,
+            "par": 72,
+            "rating": 70,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6424,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5952,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5952,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5401,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5401,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 121
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4621,
+            "par": 72,
+            "rating": 62.1,
+            "slope": 106
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4621,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 112
+          },
+          {
+            "name": "Black/Blue",
+            "category": "MALE",
+            "yards": 6770,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 131
+          },
+          {
+            "name": "Black/Blue",
+            "category": "FEMALE",
+            "yards": 6770,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 6220,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 127
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 6220,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White/Gold",
+            "category": "MALE",
+            "yards": 5703,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 119
+          },
+          {
+            "name": "White/Gold",
+            "category": "FEMALE",
+            "yards": 5703,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold/Green",
+            "category": "MALE",
+            "yards": 4947,
+            "par": 72,
+            "rating": 63.3,
+            "slope": 110
+          },
+          {
+            "name": "Gold/Green",
+            "category": "FEMALE",
+            "yards": 4947,
+            "par": 72,
+            "rating": 68,
+            "slope": 118
+          }
+        ]
+      },
+      {
+        "name": "Osprey/Egret",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7097,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 132
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7097,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6360,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6360,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5842,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5842,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5362,
+            "par": 72,
+            "rating": 65,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5362,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 123
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4596,
+            "par": 72,
+            "rating": 61.7,
+            "slope": 105
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4596,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 111
+          },
+          {
+            "name": "Black/Blue",
+            "category": "MALE",
+            "yards": 6620,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 130
+          },
+          {
+            "name": "Black/Blue",
+            "category": "FEMALE",
+            "yards": 6620,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 6134,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 125
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 6134,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White/Gold",
+            "category": "MALE",
+            "yards": 5629,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 118
+          },
+          {
+            "name": "White/Gold",
+            "category": "FEMALE",
+            "yards": 5629,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold/Green",
+            "category": "MALE",
+            "yards": 4949,
+            "par": 72,
+            "rating": 63.2,
+            "slope": 110
+          },
+          {
+            "name": "Gold/Green",
+            "category": "FEMALE",
+            "yards": 4949,
+            "par": 72,
+            "rating": 68,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ec7c070-86ac-11e4-8c28-020000005b00/palmira-golf-and-country-club"
+  }
+}

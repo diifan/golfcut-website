@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c3a5ed0-86ac-11e4-8c28-020000005b00/wildflower-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c3a5ed0-86ac-11e4-8c28-020000005b00/wildflower-country-club",
+  "checked_at": 1795524543.2737427,
+  "sha256": "0f5fd4a3699063eee37e2fade53c033e781f1c8f9835dea9bbaa15881cf4f20b",
+  "title": "Wildflower Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8c3a5ed0-86ac-11e4-8c28-020000005b00",
+    "name": "Wildflower Country Club",
+    "address": "4902 Wildflower Lon, Temple, TX",
+    "courses": [
+      {
+        "name": "Wildflower",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7010,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6631,
+            "par": 72,
+            "rating": 73,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6268,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 128
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5921,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5372,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c3a5ed0-86ac-11e4-8c28-020000005b00/wildflower-country-club"
+  }
+}

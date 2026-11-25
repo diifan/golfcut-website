@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/901d8c70-86ac-11e4-8c28-020000005b00/osceola-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/901d8c70-86ac-11e4-8c28-020000005b00/osceola-golf-course",
+  "checked_at": 1795524996.7874818,
+  "sha256": "a1a27a259d727a88f7cf214589a22e150309075596a92a7f6548fdaa29fac121",
+  "title": "Osceola Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "901d8c70-86ac-11e4-8c28-020000005b00",
+    "name": "Osceola Golf Course",
+    "address": "300 Tonawanda Drive Pensacola, FL 32506",
+    "courses": [
+      {
+        "name": "Osceola Municipal",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6402,
+            "par": 70,
+            "rating": 69.8,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6402,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5932,
+            "par": 70,
+            "rating": 67.8,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5932,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5614,
+            "par": 70,
+            "rating": 66.1,
+            "slope": 115
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5614,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5012,
+            "par": 70,
+            "rating": 65,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5012,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/901d8c70-86ac-11e4-8c28-020000005b00/osceola-golf-course"
+  }
+}

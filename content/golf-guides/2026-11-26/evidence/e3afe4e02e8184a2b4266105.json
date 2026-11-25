@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba46da60-86ac-11e4-8c28-020000005b00/jackson-hole-golf-tennis-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba46da60-86ac-11e4-8c28-020000005b00/jackson-hole-golf-tennis-club",
+  "checked_at": 1795524453.1957333,
+  "sha256": "ee2cad740b7337e56ae6bca07ee0ba604d8420568472c04af919880fe50747ec",
+  "title": "Jackson Hole Golf & Tennis Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ba46da60-86ac-11e4-8c28-020000005b00",
+    "name": "Jackson Hole Golf & Tennis Club",
+    "address": "911 Sandcherry Way, Jackson, WY",
+    "courses": [
+      {
+        "name": "Jackson Hole",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7409,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7409,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6813,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6813,
+            "par": 72,
+            "rating": 78.7,
+            "slope": 145
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5990,
+            "par": 72,
+            "rating": 64.1,
+            "slope": 105
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5990,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba46da60-86ac-11e4-8c28-020000005b00/jackson-hole-golf-tennis-club"
+  }
+}

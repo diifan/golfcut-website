@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9aaf8ad0-86ac-11e4-8c28-020000005b00/cummings-cove-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9aaf8ad0-86ac-11e4-8c28-020000005b00/cummings-cove-golf-country-club",
+  "checked_at": 1795524738.4615762,
+  "sha256": "ab19e5647f8df83833669857206f7bde63dfd047caf30ebd9589246a12339096",
+  "title": "Cummings Cove Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9aaf8ad0-86ac-11e4-8c28-020000005b00",
+    "name": "Cummings Cove Golf & Country Club",
+    "address": "20 Cummings Cove Pkwy, Hendersonville, NC",
+    "courses": [
+      {
+        "name": "Cummings Cove",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6415,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6158,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5850,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 126
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5133,
+            "par": 71,
+            "rating": 65,
+            "slope": 110
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 4821,
+            "par": 71,
+            "rating": 66.9,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9aaf8ad0-86ac-11e4-8c28-020000005b00/cummings-cove-golf-country-club"
+  }
+}

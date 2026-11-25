@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/923f0ce0-86ac-11e4-8c28-020000005b00/gypsum-creek",
+  "resolved_url": "https://18birdies.com/golf-courses/club/923f0ce0-86ac-11e4-8c28-020000005b00/gypsum-creek",
+  "checked_at": 1795524491.360659,
+  "sha256": "6d68b1fbe185cc66541a059904ef3f00d4427db183259ea91685f3f573354d16",
+  "title": "Gypsum Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "923f0ce0-86ac-11e4-8c28-020000005b00",
+    "name": "Gypsum Creek Golf Course",
+    "address": "530 Cotton Ranch Dr Gypsum, CO 81637",
+    "courses": [
+      {
+        "name": "Gypsum Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6951,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 142
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6951,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Brown",
+            "category": "MALE",
+            "yards": 6456,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 129
+          },
+          {
+            "name": "Brown",
+            "category": "FEMALE",
+            "yards": 6456,
+            "par": 72,
+            "rating": 77,
+            "slope": 154
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6005,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6005,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 148
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5165,
+            "par": 72,
+            "rating": 65,
+            "slope": 115
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5165,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/923f0ce0-86ac-11e4-8c28-020000005b00/gypsum-creek"
+  }
+}

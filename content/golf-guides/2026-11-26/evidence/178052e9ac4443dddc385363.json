@@ -1,0 +1,251 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af32dac0-86ac-11e4-8c28-020000005b00/hermitage-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af32dac0-86ac-11e4-8c28-020000005b00/hermitage-golf-course",
+  "checked_at": 1795524541.2251093,
+  "sha256": "1272790253403374259a3ab43a905a6dad2c5bd5a78f76eafbbf4f53d3c1ff07",
+  "title": "Hermitage Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af32dac0-86ac-11e4-8c28-020000005b00",
+    "name": "Hermitage Golf Course",
+    "address": "3939 Old Hickory Boulevard",
+    "courses": [
+      {
+        "name": "Generals Retreat",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6770,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6770,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6419,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6419,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Prodad",
+            "category": "MALE",
+            "yards": 6127,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 123
+          },
+          {
+            "name": "Prodad",
+            "category": "FEMALE",
+            "yards": 6127,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5890,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5890,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 125
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5576,
+            "par": 72,
+            "rating": 67,
+            "slope": 117
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5576,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 124
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 5386,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 115
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 5386,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 121
+          },
+          {
+            "name": "Novice",
+            "category": "MALE",
+            "yards": 3315,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Novice",
+            "category": "FEMALE",
+            "yards": 3315,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      },
+      {
+        "name": "President's Reserve",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6792,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 134
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6792,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6443,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6443,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Prodad",
+            "category": "MALE",
+            "yards": 6274,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Prodad",
+            "category": "FEMALE",
+            "yards": 6274,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6056,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6056,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 126
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5669,
+            "par": 72,
+            "rating": 67,
+            "slope": 118
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5669,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 123
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 5138,
+            "par": 72,
+            "rating": 65,
+            "slope": 106
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 5138,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 117
+          },
+          {
+            "name": "Black.",
+            "category": "MALE",
+            "yards": 7157,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 138
+          },
+          {
+            "name": "Black.",
+            "category": "FEMALE",
+            "yards": 7157,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af32dac0-86ac-11e4-8c28-020000005b00/hermitage-golf-course"
+  }
+}

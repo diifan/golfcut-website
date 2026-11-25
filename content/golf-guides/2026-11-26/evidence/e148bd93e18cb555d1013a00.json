@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afc0c2e0-86ac-11e4-8c28-020000005b00/chesapeake-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afc0c2e0-86ac-11e4-8c28-020000005b00/chesapeake-golf-course",
+  "checked_at": 1795583800.4436762,
+  "sha256": "e70b1138b1104b5de129d780c347d8c73b413c6ac8970b2c2d7ed5ac205b1a90",
+  "title": "Chesapeake Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "afc0c2e0-86ac-11e4-8c28-020000005b00",
+    "name": "Chesapeake Golf Course",
+    "address": "1201 Club House Dr, Chesapeake, VA",
+    "courses": [
+      {
+        "name": "Chesapeake ",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6148,
+            "par": 71,
+            "rating": 70.8,
+            "slope": 133
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6148,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5670,
+            "par": 71,
+            "rating": 69,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5670,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5109,
+            "par": 71,
+            "rating": 65.9,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5109,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4746,
+            "par": 71,
+            "rating": 64.7,
+            "slope": 118
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4746,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3846,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3846,
+            "par": 71,
+            "rating": 61.1,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afc0c2e0-86ac-11e4-8c28-020000005b00/chesapeake-golf-course"
+  }
+}

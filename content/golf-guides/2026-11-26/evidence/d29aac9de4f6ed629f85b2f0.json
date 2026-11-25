@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9bf1f5e0-86ac-11e4-8c28-020000005b00/homestead-springs-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9bf1f5e0-86ac-11e4-8c28-020000005b00/homestead-springs-golf-course",
+  "checked_at": 1795524968.3013551,
+  "sha256": "e482fbbb12d34c4be9a20ab01b19a94370c1ba0ec793263f6d79781b144f90ef",
+  "title": "Homestead Springs Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9bf1f5e0-86ac-11e4-8c28-020000005b00",
+    "name": "Homestead Springs Golf Course",
+    "address": "5888 London Lancaster Rd",
+    "courses": [
+      {
+        "name": "Homestead Springs",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6463,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6164,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5412,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4907,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9bf1f5e0-86ac-11e4-8c28-020000005b00/homestead-springs-golf-course"
+  }
+}

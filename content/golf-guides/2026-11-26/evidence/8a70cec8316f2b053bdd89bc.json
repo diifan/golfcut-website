@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8bf84cc0-86ac-11e4-8c28-020000005b00/pecan-lakes-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8bf84cc0-86ac-11e4-8c28-020000005b00/pecan-lakes-golf-club",
+  "checked_at": 1795524531.2093859,
+  "sha256": "038dc1e93737ae31ef333b35ee01ea04965be299a42ffea5d851fc08ebd56b71",
+  "title": "Pecan Lakes Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8bf84cc0-86ac-11e4-8c28-020000005b00",
+    "name": "Pecan Lakes Golf Club",
+    "address": "2001 Fairway Drive, Navasota, TX",
+    "courses": [
+      {
+        "name": "Pecan Lakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7059,
+            "par": 72,
+            "rating": 74,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6354,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5748,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5114,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8bf84cc0-86ac-11e4-8c28-020000005b00/pecan-lakes-golf-club"
+  }
+}

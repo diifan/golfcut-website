@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9abe30d0-86ac-11e4-8c28-020000005b00/jefferson-landing-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9abe30d0-86ac-11e4-8c28-020000005b00/jefferson-landing-club",
+  "checked_at": 1795524722.271817,
+  "sha256": "08d6b033830c0880be1421fdfc52c47f1889516d90a15ed7069b6d59474a2bd0",
+  "title": "Jefferson Landing Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9abe30d0-86ac-11e4-8c28-020000005b00",
+    "name": "Jefferson Landing Club",
+    "address": "148 E Landing Dr",
+    "courses": [
+      {
+        "name": "Jefferson Landing",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7110,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 139
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6450,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5741,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5051,
+            "par": 72,
+            "rating": 62.7,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9abe30d0-86ac-11e4-8c28-020000005b00/jefferson-landing-club"
+  }
+}

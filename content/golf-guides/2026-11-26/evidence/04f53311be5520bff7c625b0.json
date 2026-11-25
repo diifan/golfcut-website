@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9cf58330-86ac-11e4-8c28-020000005b00/white-birch-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9cf58330-86ac-11e4-8c28-020000005b00/white-birch-golf-course",
+  "checked_at": 1795524405.8395581,
+  "sha256": "14f80c59587c3d11b0afc3d8cd32541f9c3c7c466e9783fb65e160c37528b1fb",
+  "title": "White Birch Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9cf58330-86ac-11e4-8c28-020000005b00",
+    "name": "White Birch Golf Course",
+    "address": "660 Tuscarora Park Road Barnesville, PA 18214",
+    "courses": [
+      {
+        "name": "18 Hole Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5333,
+            "par": 69,
+            "rating": 66,
+            "slope": 114
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5333,
+            "par": 69,
+            "rating": 71.3,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4706,
+            "par": 69,
+            "rating": 64.4,
+            "slope": 101
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4706,
+            "par": 69,
+            "rating": 64.4,
+            "slope": 101
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4977,
+            "par": 69,
+            "rating": 64.1,
+            "slope": 107
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4977,
+            "par": 69,
+            "rating": 69.1,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4291,
+            "par": 69,
+            "rating": 61.6,
+            "slope": 102
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4291,
+            "par": 69,
+            "rating": 65.3,
+            "slope": 104
+          }
+        ]
+      },
+      {
+        "name": "9 Hole Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2357,
+            "par": 33,
+            "rating": 32.2,
+            "slope": 101
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2357,
+            "par": 33,
+            "rating": 32.2,
+            "slope": 101
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2279,
+            "par": 33,
+            "rating": 32.2,
+            "slope": 101
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2279,
+            "par": 33,
+            "rating": 32.2,
+            "slope": 101
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9cf58330-86ac-11e4-8c28-020000005b00/white-birch-golf-course"
+  }
+}

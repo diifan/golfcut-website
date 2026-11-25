@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b68f50a0-86ac-11e4-8c28-020000005b00/93-golf-ranch",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b68f50a0-86ac-11e4-8c28-020000005b00/93-golf-ranch",
+  "checked_at": 1795582896.6910555,
+  "sha256": "a7b03b7034fb130461daa9d86e3e810b49744510878d296af9c97485e0ca0240",
+  "title": "93 Golf Ranch - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b68f50a0-86ac-11e4-8c28-020000005b00",
+    "name": "93 Golf Ranch",
+    "address": "406 E 200 S",
+    "courses": [
+      {
+        "name": "93",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7121,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6723,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6135,
+            "par": 72,
+            "rating": 67,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5386,
+            "par": 72,
+            "rating": 64.1,
+            "slope": 98
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b68f50a0-86ac-11e4-8c28-020000005b00/93-golf-ranch"
+  }
+}

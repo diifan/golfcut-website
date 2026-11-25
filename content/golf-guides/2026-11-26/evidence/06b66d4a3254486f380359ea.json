@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b941c670-86ac-11e4-8c28-020000005b00/eagle-knoll",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b941c670-86ac-11e4-8c28-020000005b00/eagle-knoll",
+  "checked_at": 1795524427.4336007,
+  "sha256": "68cb7aa87937d813c5358cd16ebd4190f9bb33d64b5d11d3c34a60d178d59e52",
+  "title": "Eagle Knoll Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b941c670-86ac-11e4-8c28-020000005b00",
+    "name": "Eagle Knoll Golf Club",
+    "address": "5757 E Eagle Knoll Dr, Hartsburg, MO",
+    "courses": [
+      {
+        "name": "Eagle Knoll",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6812,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6812,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6512,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6512,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6122,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6122,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5195,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5195,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 130
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5099,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5099,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b941c670-86ac-11e4-8c28-020000005b00/eagle-knoll"
+  }
+}

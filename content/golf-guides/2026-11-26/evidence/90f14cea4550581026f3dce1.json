@@ -1,0 +1,359 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7777e300-86ac-11e4-8c28-020000005b00/mill-run",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7777e300-86ac-11e4-8c28-020000005b00/mill-run",
+  "checked_at": 1795524864.185369,
+  "sha256": "4f01115c82eb0cf6e7d695095ca7a7dae056a92b08abcf8fb8d9f8487565abd3",
+  "title": "Mill Run Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "7777e300-86ac-11e4-8c28-020000005b00",
+    "name": "Mill Run Golf Club",
+    "address": "269 Durham Road 8, Uxbridge, ON",
+    "courses": [
+      {
+        "name": "Grist to Wheel",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6715,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 135
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6715,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6282,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6282,
+            "par": 72,
+            "rating": 76.7,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5927,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5927,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 132
+          },
+          {
+            "name": "Hybrid",
+            "category": "MALE",
+            "yards": 5522,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 117
+          },
+          {
+            "name": "Hybrid",
+            "category": "FEMALE",
+            "yards": 5522,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5170,
+            "par": 72,
+            "rating": 65,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5170,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 124
+          }
+        ]
+      },
+      {
+        "name": "Wheel to Grind",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6642,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 135
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6642,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6267,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6267,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5873,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5873,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Hybrid",
+            "category": "MALE",
+            "yards": 5465,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 117
+          },
+          {
+            "name": "Hybrid",
+            "category": "FEMALE",
+            "yards": 5465,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5145,
+            "par": 72,
+            "rating": 65,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5145,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 124
+          }
+        ]
+      },
+      {
+        "name": "Grind to Grist",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6449,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 135
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6449,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6031,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6031,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5686,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5686,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Hybrid",
+            "category": "MALE",
+            "yards": 5371,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Hybrid",
+            "category": "FEMALE",
+            "yards": 5371,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5011,
+            "par": 72,
+            "rating": 65,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5011,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 124
+          }
+        ]
+      },
+      {
+        "name": "Highlands Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 3495,
+            "par": 59,
+            "rating": 57.5,
+            "slope": 88
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 3495,
+            "par": 59,
+            "rating": 58.2,
+            "slope": 94
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3034,
+            "par": 59,
+            "rating": 54.7,
+            "slope": 84
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3034,
+            "par": 59,
+            "rating": 55.3,
+            "slope": 86
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3495,
+            "par": 59,
+            "rating": 59,
+            "slope": 97
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3495,
+            "par": 59,
+            "rating": 59.6,
+            "slope": 100
+          },
+          {
+            "name": "Hybrid",
+            "category": "MALE",
+            "yards": 3034,
+            "par": 59,
+            "rating": 56,
+            "slope": 92
+          },
+          {
+            "name": "Hybrid",
+            "category": "FEMALE",
+            "yards": 3034,
+            "par": 59,
+            "rating": 57.4,
+            "slope": 95
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3034,
+            "par": 59,
+            "rating": 58.7,
+            "slope": 100
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3034,
+            "par": 59,
+            "rating": 58,
+            "slope": 95
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7777e300-86ac-11e4-8c28-020000005b00/mill-run"
+  }
+}

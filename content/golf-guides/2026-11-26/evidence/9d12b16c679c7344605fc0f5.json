@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d0f9ae0-86ac-11e4-8c28-020000005b00/aubreys-dubbs-dred-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d0f9ae0-86ac-11e4-8c28-020000005b00/aubreys-dubbs-dred-golf-course",
+  "checked_at": 1795524703.442093,
+  "sha256": "5ee8a6eb701ffc5bd049eb8b569df6b67c7620b26278deb4551a060304643bf6",
+  "title": "Aubreys Dubbs Dred Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d0f9ae0-86ac-11e4-8c28-020000005b00",
+    "name": "Aubreys Dubbs Dred Golf Course",
+    "address": "124 Aubrey Dr Butler, PA",
+    "courses": [
+      {
+        "name": "Aubreys Dubbs Dred",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6925,
+            "par": 71,
+            "rating": 72.1,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6925,
+            "par": 74,
+            "rating": 77.8,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6350,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6350,
+            "par": 74,
+            "rating": 75.1,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5605,
+            "par": 71,
+            "rating": 62.6,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5605,
+            "par": 74,
+            "rating": 66.6,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d0f9ae0-86ac-11e4-8c28-020000005b00/aubreys-dubbs-dred-golf-course"
+  }
+}

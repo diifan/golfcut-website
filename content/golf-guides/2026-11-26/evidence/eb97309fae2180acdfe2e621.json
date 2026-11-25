@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96acee50-86ac-11e4-8c28-020000005b00/burl-oaks-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96acee50-86ac-11e4-8c28-020000005b00/burl-oaks-golf-club",
+  "checked_at": 1795524448.1217077,
+  "sha256": "39de5f88a11431d10d6f3d9b427fdcdc66b74558a7e8cae5e650c1ebe7083015",
+  "title": "Burl Oaks Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96acee50-86ac-11e4-8c28-020000005b00",
+    "name": "Burl Oaks Golf Club",
+    "address": "5400 N Arm Dr,MInnetrista",
+    "courses": [
+      {
+        "name": "Burl Oaks",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6749,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 142
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6379,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 138
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5736,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5222,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96acee50-86ac-11e4-8c28-020000005b00/burl-oaks-golf-club"
+  }
+}

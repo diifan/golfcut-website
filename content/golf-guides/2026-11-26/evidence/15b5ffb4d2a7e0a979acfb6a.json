@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ca3cf00-86ac-11e4-8c28-020000005b00/indian-oaks-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ca3cf00-86ac-11e4-8c28-020000005b00/indian-oaks-golf-club",
+  "checked_at": 1795524610.2285635,
+  "sha256": "a193df2376c342e8a4589a9e3a4c47b1048bc46157e7f36699974bfa7e19c747",
+  "title": "Indian Oaks Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8ca3cf00-86ac-11e4-8c28-020000005b00",
+    "name": "Indian Oaks Golf Club",
+    "address": "Indian Oaks Golf Club, 807 W Highway 82",
+    "courses": [
+      {
+        "name": "Indian Oaks",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5792,
+            "par": 70,
+            "rating": 71.3,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5513,
+            "par": 70,
+            "rating": 70,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4233,
+            "par": 70,
+            "rating": 64.2,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ca3cf00-86ac-11e4-8c28-020000005b00/indian-oaks-golf-club"
+  }
+}

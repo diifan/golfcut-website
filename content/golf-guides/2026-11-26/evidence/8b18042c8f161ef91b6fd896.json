@@ -1,0 +1,83 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c8f6e60-86ac-11e4-8c28-020000005b00/reid-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c8f6e60-86ac-11e4-8c28-020000005b00/reid-park-golf-course",
+  "checked_at": 1795524455.0335155,
+  "sha256": "c1243ee77250a41533d6c2607b250dd8fc49a822b9adab5eacf4177453a7a675",
+  "title": "Reid Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9c8f6e60-86ac-11e4-8c28-020000005b00",
+    "name": "Reid Park Golf Course",
+    "address": "1325 S Bird Road, Springfield, OH",
+    "courses": [
+      {
+        "name": "North",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6772,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6263,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5128,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 117
+          }
+        ]
+      },
+      {
+        "name": "South",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6422,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6223,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4846,
+            "par": 72,
+            "rating": 67,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6012,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c8f6e60-86ac-11e4-8c28-020000005b00/reid-park-golf-course"
+  }
+}

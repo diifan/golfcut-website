@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/94fb6dc0-86ac-11e4-8c28-020000005b00/geneva-farm",
+  "resolved_url": "https://18birdies.com/golf-courses/club/94fb6dc0-86ac-11e4-8c28-020000005b00/geneva-farm",
+  "checked_at": 1795524843.156217,
+  "sha256": "3651a53bcff004d378bce6b2811b099f52f94724611238f5ab2dc7b2eae30354",
+  "title": "Geneva Farm Golf Course  - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "94fb6dc0-86ac-11e4-8c28-020000005b00",
+    "name": "Geneva Farm Golf Course ",
+    "address": "217 Davis Rd, Street, MD",
+    "courses": [
+      {
+        "name": "Geneva Farm",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6482,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6482,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6074,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6074,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5559,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5559,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5252,
+            "par": 72,
+            "rating": 65,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5252,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/94fb6dc0-86ac-11e4-8c28-020000005b00/geneva-farm"
+  }
+}

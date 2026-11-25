@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95577070-86ac-11e4-8c28-020000005b00/woods-hole-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95577070-86ac-11e4-8c28-020000005b00/woods-hole-golf-club",
+  "checked_at": 1795524439.1449566,
+  "sha256": "c3ca1edbc1292425510439cd23fa577e20442f511ea9ae1096b3c6a27bcaa146",
+  "title": "Woods Hole Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "95577070-86ac-11e4-8c28-020000005b00",
+    "name": "Woods Hole Golf Club",
+    "address": "130 Quissett Avenue, Falmouth, MA",
+    "courses": [
+      {
+        "name": "Woods Hole",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6230,
+            "par": 71,
+            "rating": 71,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6230,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5788,
+            "par": 71,
+            "rating": 69.5,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5788,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5390,
+            "par": 71,
+            "rating": 67.3,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5390,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95577070-86ac-11e4-8c28-020000005b00/woods-hole-golf-club"
+  }
+}

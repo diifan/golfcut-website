@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b3c6180-86ac-11e4-8c28-020000005b00/reynolds-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b3c6180-86ac-11e4-8c28-020000005b00/reynolds-park-golf-course",
+  "checked_at": 1795524112.3637657,
+  "sha256": "8f9fb116961899770cd726106dfcf28cda4748a0bea5498cc7e68049e39216b6",
+  "title": "Reynolds Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9b3c6180-86ac-11e4-8c28-020000005b00",
+    "name": "Reynolds Park Golf Course",
+    "address": "2391 Reynolds Park Rd, Winston-Salem, NC",
+    "courses": [
+      {
+        "name": "Reynolds Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6379,
+            "par": 71,
+            "rating": 69.5,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6379,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5934,
+            "par": 71,
+            "rating": 67.7,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5934,
+            "par": 71,
+            "rating": 73.3,
+            "slope": 124
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5283,
+            "par": 71,
+            "rating": 65.2,
+            "slope": 107
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5283,
+            "par": 71,
+            "rating": 70.4,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4475,
+            "par": 71,
+            "rating": 61.7,
+            "slope": 99
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4475,
+            "par": 71,
+            "rating": 65.7,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b3c6180-86ac-11e4-8c28-020000005b00/reynolds-park-golf-course"
+  }
+}

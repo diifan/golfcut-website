@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d60a110-86ac-11e4-8c28-020000005b00/twin-ponds-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d60a110-86ac-11e4-8c28-020000005b00/twin-ponds-golf-course",
+  "checked_at": 1795525010.9053283,
+  "sha256": "d34d136d641e98dcae77dacf1b92d16319479ba821dc74039aee9f2c5e9f415f",
+  "title": "Twin Ponds Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d60a110-86ac-11e4-8c28-020000005b00",
+    "name": "Twin Ponds Golf Course",
+    "address": "700 Gilbertsville Rd, Gilbertsville, PA",
+    "courses": [
+      {
+        "name": "Twin Ponds",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5588,
+            "par": 70,
+            "rating": 65.5,
+            "slope": 111
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5588,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5123,
+            "par": 70,
+            "rating": 64.9,
+            "slope": 110
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5123,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4747,
+            "par": 70,
+            "rating": 67.7,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4747,
+            "par": 70,
+            "rating": 67.7,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d60a110-86ac-11e4-8c28-020000005b00/twin-ponds-golf-course"
+  }
+}

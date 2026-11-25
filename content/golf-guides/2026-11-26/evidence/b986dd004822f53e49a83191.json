@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/c93f6cd0-a634-11ec-b5d7-06780482e2ce/east-river-9",
+  "resolved_url": "https://18birdies.com/golf-courses/club/c93f6cd0-a634-11ec-b5d7-06780482e2ce/east-river-9",
+  "checked_at": 1795524694.8908737,
+  "sha256": "ab9558dae6c745bde1dea1c50b5c4e4da1af4c9fe7708949a9b0590851ffd335",
+  "title": "East River 9 - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "c93f6cd0-a634-11ec-b5d7-06780482e2ce",
+    "name": "East River 9",
+    "address": "65 Hirsch Rd, Houston, TX",
+    "courses": [
+      {
+        "name": "East River 9",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "River",
+            "category": "MALE",
+            "yards": 1034,
+            "par": 27,
+            "rating": 26.51936,
+            "slope": 78.98888
+          },
+          {
+            "name": "River",
+            "category": "FEMALE",
+            "yards": 1034,
+            "par": 27,
+            "rating": 26.51936,
+            "slope": 78.98888
+          },
+          {
+            "name": "East",
+            "category": "MALE",
+            "yards": 900,
+            "par": 27,
+            "rating": 25.911,
+            "slope": 76.534
+          },
+          {
+            "name": "East",
+            "category": "FEMALE",
+            "yards": 900,
+            "par": 27,
+            "rating": 25.911,
+            "slope": 76.534
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/c93f6cd0-a634-11ec-b5d7-06780482e2ce/east-river-9"
+  }
+}

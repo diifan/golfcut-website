@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6097ed0-86ac-11e4-8c28-020000005b00/luck",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6097ed0-86ac-11e4-8c28-020000005b00/luck",
+  "checked_at": 1795524762.3462307,
+  "sha256": "5dfa9875a077c8913f6119b6190b3405de60378d813745cabe6340e70b8482c8",
+  "title": "Luck Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6097ed0-86ac-11e4-8c28-020000005b00",
+    "name": "Luck Golf Course",
+    "address": "1520 S Shore Dr, Luck, WI",
+    "courses": [
+      {
+        "name": "Luck",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6093,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6093,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5819,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5819,
+            "par": 71,
+            "rating": 73.9,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4931,
+            "par": 71,
+            "rating": 65.7,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4931,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5124,
+            "par": 71,
+            "rating": 67.4,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5124,
+            "par": 71,
+            "rating": 71.9,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6097ed0-86ac-11e4-8c28-020000005b00/luck"
+  }
+}

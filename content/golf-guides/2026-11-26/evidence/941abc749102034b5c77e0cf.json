@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b58b0000-86ac-11e4-8c28-020000005b00/currie-park-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b58b0000-86ac-11e4-8c28-020000005b00/currie-park-golf-club",
+  "checked_at": 1795524503.9836729,
+  "sha256": "900224eb9d9bd9ae1ed2db502e7c9829e3cadd517082773e6adeab830db8af8f",
+  "title": "Currie Park Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b58b0000-86ac-11e4-8c28-020000005b00",
+    "name": "Currie Park Golf Club",
+    "address": "3535 N. Mayfair R, Milwaukee, WI",
+    "courses": [
+      {
+        "name": "Currie Park Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6444,
+            "par": 71,
+            "rating": 70.8,
+            "slope": 120
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6444,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6105,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6105,
+            "par": 71,
+            "rating": 74.9,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5246,
+            "par": 71,
+            "rating": 65.2,
+            "slope": 109
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5246,
+            "par": 71,
+            "rating": 71.1,
+            "slope": 116
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4019,
+            "par": 71,
+            "rating": 60.4,
+            "slope": 95
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4019,
+            "par": 71,
+            "rating": 63.2,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b58b0000-86ac-11e4-8c28-020000005b00/currie-park-golf-club"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7b9114c0-86ac-11e4-8c28-020000005b00/howth-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7b9114c0-86ac-11e4-8c28-020000005b00/howth-golf-club",
+  "checked_at": 1795582872.1978176,
+  "sha256": "372af64b5560d5dc1537f76b7b7667998a91b20feb2df9652d182da19364f1ef",
+  "title": "Howth Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "7b9114c0-86ac-11e4-8c28-020000005b00",
+    "name": "Howth Golf Club",
+    "address": "Carrickbrack Road, Sutton, Dublin",
+    "courses": [
+      {
+        "name": "Howth",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6236,
+            "par": 71,
+            "rating": 71.7,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6236,
+            "par": 71,
+            "rating": 77.6,
+            "slope": 141
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5946,
+            "par": 71,
+            "rating": 70.4,
+            "slope": 127
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5946,
+            "par": 71,
+            "rating": 75.9,
+            "slope": 137
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5406,
+            "par": 71,
+            "rating": 67,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5406,
+            "par": 71,
+            "rating": 72.5,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7b9114c0-86ac-11e4-8c28-020000005b00/howth-golf-club"
+  }
+}

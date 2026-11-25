@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5a342f0-86ac-11e4-8c28-020000005b00/utica",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5a342f0-86ac-11e4-8c28-020000005b00/utica",
+  "checked_at": 1795524519.129743,
+  "sha256": "fb7229756a3b786180b99dd8d78e4a7708a60df39d22f384b086019cfc683021",
+  "title": "Utica - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b5a342f0-86ac-11e4-8c28-020000005b00",
+    "name": "Utica",
+    "address": "2330 Knott Rd, Oshkosh, WI",
+    "courses": [
+      {
+        "name": "Utica",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6185,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5856,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5368,
+            "par": 72,
+            "rating": 65,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5a342f0-86ac-11e4-8c28-020000005b00/utica"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/957f43c0-86ac-11e4-8c28-020000005b00/marshfield-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/957f43c0-86ac-11e4-8c28-020000005b00/marshfield-country-club",
+  "checked_at": 1795524993.1166058,
+  "sha256": "f9693e565c1eb38f6b7c1ab11729ab78ba11d098fb2c1c77a74ee3f43157b925",
+  "title": "Marshfield Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "957f43c0-86ac-11e4-8c28-020000005b00",
+    "name": "Marshfield Country Club",
+    "address": "515 Moraine St, Marshfield, MA",
+    "courses": [
+      {
+        "name": "Marshfield",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6290,
+            "par": 70,
+            "rating": 70.5,
+            "slope": 129
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6290,
+            "par": 73,
+            "rating": 77.1,
+            "slope": 143
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6029,
+            "par": 70,
+            "rating": 68.7,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6029,
+            "par": 73,
+            "rating": 75.5,
+            "slope": 139
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5617,
+            "par": 70,
+            "rating": 66.9,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5617,
+            "par": 73,
+            "rating": 72.5,
+            "slope": 127
+          },
+          {
+            "name": "Member",
+            "category": "MALE",
+            "yards": 6153,
+            "par": 70,
+            "rating": 69.6,
+            "slope": 127
+          },
+          {
+            "name": "Member",
+            "category": "FEMALE",
+            "yards": 6153,
+            "par": 73,
+            "rating": 76.1,
+            "slope": 142
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/957f43c0-86ac-11e4-8c28-020000005b00/marshfield-country-club"
+  }
+}

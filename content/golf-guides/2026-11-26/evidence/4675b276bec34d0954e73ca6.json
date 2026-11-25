@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95391300-86ac-11e4-8c28-020000005b00/berlin-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95391300-86ac-11e4-8c28-020000005b00/berlin-country-club",
+  "checked_at": 1795524367.7486157,
+  "sha256": "aad5a50705eab456b9912eabc7940bbbe98e27d7f195d310b195f909c70e5c35",
+  "title": "Berlin Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "95391300-86ac-11e4-8c28-020000005b00",
+    "name": "Berlin Country Club",
+    "address": "25 Carr Rd, Berlin, MA ",
+    "courses": [
+      {
+        "name": "Berlin (18 Holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Men's",
+            "category": "MALE",
+            "yards": 4432,
+            "par": 66,
+            "rating": 62.9,
+            "slope": 108
+          },
+          {
+            "name": "Men's",
+            "category": "FEMALE",
+            "yards": 4432,
+            "par": 66,
+            "rating": 65.5,
+            "slope": 111
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 4144,
+            "par": 66,
+            "rating": 63.8,
+            "slope": 109
+          },
+          {
+            "name": "Ladies",
+            "category": "FEMALE",
+            "yards": 4144,
+            "par": 66,
+            "rating": 62.9,
+            "slope": 108
+          }
+        ]
+      },
+      {
+        "name": "Berlin (9 Holes) ",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Men's",
+            "category": "MALE",
+            "yards": 2216,
+            "par": 33,
+            "rating": 31.9,
+            "slope": 108
+          },
+          {
+            "name": "Men's",
+            "category": "FEMALE",
+            "yards": 2216,
+            "par": 33,
+            "rating": 32.7,
+            "slope": 110
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 2072,
+            "par": 33,
+            "rating": 31.9,
+            "slope": 101
+          },
+          {
+            "name": "Ladies",
+            "category": "FEMALE",
+            "yards": 2072,
+            "par": 33,
+            "rating": 31.9,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95391300-86ac-11e4-8c28-020000005b00/berlin-country-club"
+  }
+}

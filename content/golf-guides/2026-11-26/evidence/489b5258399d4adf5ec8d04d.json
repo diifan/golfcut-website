@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8b214db0-86ac-11e4-8c28-020000005b00/coyote-ridge-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8b214db0-86ac-11e4-8c28-020000005b00/coyote-ridge-golf-club",
+  "checked_at": 1795524355.266087,
+  "sha256": "3f623f38c3cd4b777d1def30fe0e389b888060e8ce28fa0b7c1e92c4adbf3c7f",
+  "title": "Coyote Ridge Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8b214db0-86ac-11e4-8c28-020000005b00",
+    "name": "Coyote Ridge Golf Club",
+    "address": "1640 West Hebron Parkway, Carrollton, TX",
+    "courses": [
+      {
+        "name": "Coyote Ridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7013,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 143
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6344,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5861,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5096,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8b214db0-86ac-11e4-8c28-020000005b00/coyote-ridge-golf-club"
+  }
+}

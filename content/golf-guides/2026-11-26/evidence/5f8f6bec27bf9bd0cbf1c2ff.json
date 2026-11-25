@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b94e1c0-86ac-11e4-8c28-020000005b00/yankee-run-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b94e1c0-86ac-11e4-8c28-020000005b00/yankee-run-golf-course",
+  "checked_at": 1795524405.0700665,
+  "sha256": "74afd42511362c603c943a916d4c0bd97a576dee48b94d0175ac4dbcd509f931",
+  "title": "Yankee Run Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9b94e1c0-86ac-11e4-8c28-020000005b00",
+    "name": "Yankee Run Golf Course",
+    "address": "7610 Warren Sharon Rd, Brookfield, OH",
+    "courses": [
+      {
+        "name": "Yankee Run",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6516,
+            "par": 70,
+            "rating": 71.1,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6166,
+            "par": 70,
+            "rating": 69.2,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5279,
+            "par": 70,
+            "rating": 66.7,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4936,
+            "par": 70,
+            "rating": 67.4,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b94e1c0-86ac-11e4-8c28-020000005b00/yankee-run-golf-course"
+  }
+}

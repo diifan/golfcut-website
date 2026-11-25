@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af8874d0-86ac-11e4-8c28-020000005b00/green-spring-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af8874d0-86ac-11e4-8c28-020000005b00/green-spring-golf-course",
+  "checked_at": 1795523818.677381,
+  "sha256": "063b6989fd116ae282a12cb7ed9792022908c6d062ccef42b3d9bada1fdf8aff",
+  "title": "Green Spring Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af8874d0-86ac-11e4-8c28-020000005b00",
+    "name": "Green Spring Golf Course",
+    "address": "588 N Greenspring Dr, Washington, UT",
+    "courses": [
+      {
+        "name": "Green Spring",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6859,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6859,
+            "par": 72,
+            "rating": 78.4,
+            "slope": 140
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6417,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6417,
+            "par": 72,
+            "rating": 76,
+            "slope": 134
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5567,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5567,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5123,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5123,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af8874d0-86ac-11e4-8c28-020000005b00/green-spring-golf-course"
+  }
+}

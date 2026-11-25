@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/94aefb70-86ac-11e4-8c28-020000005b00/westminster-national-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/94aefb70-86ac-11e4-8c28-020000005b00/westminster-national-golf-course",
+  "checked_at": 1795524767.916846,
+  "sha256": "253c02e962260fc55577f2e5ba3d79023dd7360fd1034cd5d64078e4fc835b21",
+  "title": "(Duplicate) Westminster National Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "94aefb70-86ac-11e4-8c28-020000005b00",
+    "name": "(Duplicate) Westminster National Golf Course",
+    "address": "2158 Littlestown Pike",
+    "courses": [
+      {
+        "name": "Westminster National",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5945,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5945,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5753,
+            "par": 71,
+            "rating": 68.3,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5753,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5241,
+            "par": 71,
+            "rating": 66,
+            "slope": 110
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5241,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4881,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4881,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/94aefb70-86ac-11e4-8c28-020000005b00/westminster-national-golf-course"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9963f800-86ac-11e4-8c28-020000005b00/town-of-wallkill",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9963f800-86ac-11e4-8c28-020000005b00/town-of-wallkill",
+  "checked_at": 1795524341.254734,
+  "sha256": "ee52d0428e7ee4ccfbd7f11fd0592b7ab4da4b42378f4e1a4e2112784356d096",
+  "title": "Town Of Wallkill - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9963f800-86ac-11e4-8c28-020000005b00",
+    "name": "Town Of Wallkill",
+    "address": "40 Sands Rd",
+    "courses": [
+      {
+        "name": "Town Of Wallkill",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6470,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6112,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5125,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9963f800-86ac-11e4-8c28-020000005b00/town-of-wallkill"
+  }
+}

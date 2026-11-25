@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad4e6350-86ac-11e4-8c28-020000005b00/jericho-national-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad4e6350-86ac-11e4-8c28-020000005b00/jericho-national-golf-club",
+  "checked_at": 1795524249.7644763,
+  "sha256": "6c4fb18b321cfaeef71a8313d4e12c495197d8b6229fac5b754347bb5d6dd84f",
+  "title": "Jericho National Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ad4e6350-86ac-11e4-8c28-020000005b00",
+    "name": "Jericho National Golf Club",
+    "address": "250 Brownsburg Road East",
+    "courses": [
+      {
+        "name": "Jericho National",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7127,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6666,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6152,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 121
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5606,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5130,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad4e6350-86ac-11e4-8c28-020000005b00/jericho-national-golf-club"
+  }
+}

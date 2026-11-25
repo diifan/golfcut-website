@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9405c320-86ac-11e4-8c28-020000005b00/oxmoor-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9405c320-86ac-11e4-8c28-020000005b00/oxmoor-country-club",
+  "checked_at": 1795524653.2711482,
+  "sha256": "984609d2c58eb39505c7632f3a0dc4809f2aeb4b59fba9b6e0b7e465fae3f95a",
+  "title": "Oxmoor Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9405c320-86ac-11e4-8c28-020000005b00",
+    "name": "Oxmoor Country Club",
+    "address": "9000 Limehouse Ln, Louisville, KY",
+    "courses": [
+      {
+        "name": "Oxmoor",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7006,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 136
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7006,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Royal",
+            "category": "MALE",
+            "yards": 6407,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 134
+          },
+          {
+            "name": "Royal",
+            "category": "FEMALE",
+            "yards": 6407,
+            "par": 72,
+            "rating": 76.4,
+            "slope": 141
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5912,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5912,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 136
+          },
+          {
+            "name": "Burgundy",
+            "category": "MALE",
+            "yards": 5404,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 126
+          },
+          {
+            "name": "Burgundy",
+            "category": "FEMALE",
+            "yards": 5404,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 130
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9405c320-86ac-11e4-8c28-020000005b00/oxmoor-country-club"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95476ae0-86ac-11e4-8c28-020000005b00/chelmsford-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95476ae0-86ac-11e4-8c28-020000005b00/chelmsford-country-club",
+  "checked_at": 1795524481.0491118,
+  "sha256": "4bfae166021cb0557ea5a9296e15554bcc5b93145a9eb603ce5fb21000faa280",
+  "title": "Chelmsford Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "95476ae0-86ac-11e4-8c28-020000005b00",
+    "name": "Chelmsford Country Club",
+    "address": "66 Park Rd, Chelmsford, MA",
+    "courses": [
+      {
+        "name": "Chelmsford",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "BLUE/BLUE",
+            "category": "MALE",
+            "yards": 4680,
+            "par": 67,
+            "rating": 63.6,
+            "slope": 107
+          },
+          {
+            "name": "BLUE/BLUE",
+            "category": "FEMALE",
+            "yards": 4680,
+            "par": 68,
+            "rating": 67.2,
+            "slope": 111
+          },
+          {
+            "name": "WHITE/BLUE",
+            "category": "MALE",
+            "yards": 4515,
+            "par": 67,
+            "rating": 63,
+            "slope": 105
+          },
+          {
+            "name": "WHITE/BLUE",
+            "category": "FEMALE",
+            "yards": 4515,
+            "par": 68,
+            "rating": 66.4,
+            "slope": 109
+          },
+          {
+            "name": "WHITE/WHITE",
+            "category": "MALE",
+            "yards": 4350,
+            "par": 67,
+            "rating": 62.4,
+            "slope": 103
+          },
+          {
+            "name": "WHITE/WHITE",
+            "category": "FEMALE",
+            "yards": 4350,
+            "par": 68,
+            "rating": 65.8,
+            "slope": 105
+          },
+          {
+            "name": "RED/WHITE",
+            "category": "MALE",
+            "yards": 4095,
+            "par": 67,
+            "rating": 61.4,
+            "slope": 101
+          },
+          {
+            "name": "RED/WHITE",
+            "category": "FEMALE",
+            "yards": 4095,
+            "par": 68,
+            "rating": 63.8,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95476ae0-86ac-11e4-8c28-020000005b00/chelmsford-country-club"
+  }
+}

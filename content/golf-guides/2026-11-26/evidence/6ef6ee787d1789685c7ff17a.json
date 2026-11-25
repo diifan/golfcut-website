@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a249e30-86ac-11e4-8c28-020000005b00/saratoga-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a249e30-86ac-11e4-8c28-020000005b00/saratoga-country-club",
+  "checked_at": 1795524576.6549428,
+  "sha256": "febb791fc820b5d1fa107403442d61e987f541c7789c6ed1cd5f195d11ee97fb",
+  "title": "Saratoga Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a249e30-86ac-11e4-8c28-020000005b00",
+    "name": "Saratoga Country Club",
+    "address": "21990 Prospect Road, Saratoga, CA",
+    "courses": [
+      {
+        "name": "18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 4851,
+            "par": 68,
+            "rating": 66.9,
+            "slope": 123
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 4851,
+            "par": 68,
+            "rating": 70.4,
+            "slope": 121
+          },
+          {
+            "name": "White/Red",
+            "category": "MALE",
+            "yards": 4851,
+            "par": 68,
+            "rating": 65.6,
+            "slope": 120
+          },
+          {
+            "name": "White/Red",
+            "category": "FEMALE",
+            "yards": 4851,
+            "par": 68,
+            "rating": 67.7,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4509,
+            "par": 68,
+            "rating": 65.5,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4509,
+            "par": 68,
+            "rating": 69,
+            "slope": 120
+          }
+        ]
+      },
+      {
+        "name": "Front 9",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 2429,
+            "par": 34,
+            "rating": 33.4,
+            "slope": 123
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 2429,
+            "par": 34,
+            "rating": 35.3,
+            "slope": 120
+          },
+          {
+            "name": "White/Red",
+            "category": "MALE",
+            "yards": 2429,
+            "par": 34,
+            "rating": 33.4,
+            "slope": 120
+          },
+          {
+            "name": "White/Red",
+            "category": "FEMALE",
+            "yards": 2429,
+            "par": 34,
+            "rating": 34.5,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2143,
+            "par": 34,
+            "rating": 32.2,
+            "slope": 102
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2143,
+            "par": 34,
+            "rating": 32.3,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a249e30-86ac-11e4-8c28-020000005b00/saratoga-country-club"
+  }
+}

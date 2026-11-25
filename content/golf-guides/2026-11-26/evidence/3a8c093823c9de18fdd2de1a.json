@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b24f0d70-7e1f-11e6-b9cf-0680a328ea36/aurora-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b24f0d70-7e1f-11e6-b9cf-0680a328ea36/aurora-country-club",
+  "checked_at": 1795524538.057485,
+  "sha256": "2b190e503a006ebdb5b58a0a24d705bafc52e8b23e4fe14346f2fbd8bce4784a",
+  "title": "Aurora Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b24f0d70-7e1f-11e6-b9cf-0680a328ea36",
+    "name": "Aurora Country Club",
+    "address": "1548 West Praire  Aurora, IL United States",
+    "courses": [
+      {
+        "name": "Aurora",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6667,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6382,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 134
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6096,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5495,
+            "par": 72,
+            "rating": 70,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b24f0d70-7e1f-11e6-b9cf-0680a328ea36/aurora-country-club"
+  }
+}

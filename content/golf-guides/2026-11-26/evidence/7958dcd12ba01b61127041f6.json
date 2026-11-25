@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/94d743f0-86ac-11e4-8c28-020000005b00/fountain-head-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/94d743f0-86ac-11e4-8c28-020000005b00/fountain-head-country-club",
+  "checked_at": 1795524588.1897633,
+  "sha256": "e4d74e64ebceb17b624d469740a88077ddeafc786b4ae253a8d7ebdbe9208905",
+  "title": "Fountain Head Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "94d743f0-86ac-11e4-8c28-020000005b00",
+    "name": "Fountain Head Country Club",
+    "address": "13316 Fountain Head Road, Hagerstown, MD",
+    "courses": [
+      {
+        "name": "Fountain Head",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6291,
+            "par": 71,
+            "rating": 71.3,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6077,
+            "par": 71,
+            "rating": 72.6,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5573,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 123
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5351,
+            "par": 71,
+            "rating": 69.3,
+            "slope": 119
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5070,
+            "par": 71,
+            "rating": 64.3,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/94d743f0-86ac-11e4-8c28-020000005b00/fountain-head-country-club"
+  }
+}

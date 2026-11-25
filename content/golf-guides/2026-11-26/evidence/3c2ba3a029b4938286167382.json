@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99eb0250-86ac-11e4-8c28-020000005b00/vesper-hills-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99eb0250-86ac-11e4-8c28-020000005b00/vesper-hills-golf-club",
+  "checked_at": 1795524559.5996997,
+  "sha256": "3358e78b620ca3efc3b01bb3f99349ba338c6374bc8ac81ee8eb5c3c2c8739d7",
+  "title": "Vesper Hills Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99eb0250-86ac-11e4-8c28-020000005b00",
+    "name": "Vesper Hills Golf Club",
+    "address": "4291 Octagon Road, Tully, NY",
+    "courses": [
+      {
+        "name": "Vesper Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6771,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6771,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6152,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6152,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5080,
+            "par": 72,
+            "rating": 64.5,
+            "slope": 115
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5080,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5016,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5016,
+            "par": 72,
+            "rating": 69,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99eb0250-86ac-11e4-8c28-020000005b00/vesper-hills-golf-club"
+  }
+}

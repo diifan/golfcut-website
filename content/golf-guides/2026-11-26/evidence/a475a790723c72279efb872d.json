@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b340e8f0-86ac-11e4-8c28-020000005b00/plym-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b340e8f0-86ac-11e4-8c28-020000005b00/plym-park-golf-course",
+  "checked_at": 1795583820.9613602,
+  "sha256": "13ad3bbe0221f48b5d9c882119d145c82c7857496e1e35933eec971b58b0f0ff",
+  "title": "Plym Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b340e8f0-86ac-11e4-8c28-020000005b00",
+    "name": "Plym Park Golf Course",
+    "address": "401 Marmont St Niles, MI",
+    "courses": [
+      {
+        "name": "Plym Park (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3207,
+            "par": 36,
+            "rating": 35.4,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3207,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2584,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2584,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 116
+          }
+        ]
+      },
+      {
+        "name": "Plym Park (18 Holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6414,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6414,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5168,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5168,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b340e8f0-86ac-11e4-8c28-020000005b00/plym-park-golf-course"
+  }
+}

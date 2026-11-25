@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b15d9150-5b75-11e7-b9f3-0680a328ea36/trinity-forest-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b15d9150-5b75-11e7-b9f3-0680a328ea36/trinity-forest-golf-club",
+  "checked_at": 1795524630.0470507,
+  "sha256": "84a99d8388bf82b11bac1424964f31addd6a64884e7d0cbf57b389d119268792",
+  "title": "Trinity Forest Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b15d9150-5b75-11e7-b9f3-0680a328ea36",
+    "name": "Trinity Forest Golf Club",
+    "address": "5000 S Great Trinity Forest Way, Dallas, TX 75217",
+    "courses": [
+      {
+        "name": "Trinity Forest",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Plates",
+            "category": "MALE",
+            "yards": 7617,
+            "par": 72,
+            "rating": 76,
+            "slope": 134
+          },
+          {
+            "name": "Plates",
+            "category": "FEMALE",
+            "yards": 7617,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7109,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7109,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6576,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6576,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 136
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5902,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5902,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 133
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b15d9150-5b75-11e7-b9f3-0680a328ea36/trinity-forest-golf-club"
+  }
+}

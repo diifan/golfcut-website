@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/88832330-86ac-11e4-8c28-020000005b00/sandy-hollow-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/88832330-86ac-11e4-8c28-020000005b00/sandy-hollow-golf-course",
+  "checked_at": 1795524665.943172,
+  "sha256": "3a543d1c1951e8dd3e62f7bfb27caeba9cc723ad55ab05a9b16f4e573196c22f",
+  "title": "Sandy Hollow Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "88832330-86ac-11e4-8c28-020000005b00",
+    "name": "Sandy Hollow Golf Course",
+    "address": "2670 Sandy Hollow Rd, Rockford, IL 61109",
+    "courses": [
+      {
+        "name": "Sandy Hollow",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6405,
+            "par": 71,
+            "rating": 71.1,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6405,
+            "par": 71,
+            "rating": 76.6,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6228,
+            "par": 71,
+            "rating": 70,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6228,
+            "par": 71,
+            "rating": 75.3,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5858,
+            "par": 71,
+            "rating": 67.4,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5858,
+            "par": 71,
+            "rating": 72.1,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/88832330-86ac-11e4-8c28-020000005b00/sandy-hollow-golf-course"
+  }
+}

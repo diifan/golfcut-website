@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98327ce0-86ac-11e4-8c28-020000005b00/fox-hollow-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98327ce0-86ac-11e4-8c28-020000005b00/fox-hollow-golf-club",
+  "checked_at": 1795583835.468877,
+  "sha256": "7129ec6a6944800fcf9ac5955234bcd1d9cc4f10287a7add6f8792cecdb15b3f",
+  "title": "Fox Hollow Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "98327ce0-86ac-11e4-8c28-020000005b00",
+    "name": "Fox Hollow Golf Club",
+    "address": "59 Fox Chase Run, Branchburg, NJ 08876",
+    "courses": [
+      {
+        "name": "Fox Hollow",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6371,
+            "par": 70,
+            "rating": 71.4,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6371,
+            "par": 70,
+            "rating": 75.8,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6135,
+            "par": 70,
+            "rating": 69.6,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6135,
+            "par": 70,
+            "rating": 76.3,
+            "slope": 134
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5216,
+            "par": 70,
+            "rating": 70.5,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5216,
+            "par": 70,
+            "rating": 70.5,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98327ce0-86ac-11e4-8c28-020000005b00/fox-hollow-golf-club"
+  }
+}

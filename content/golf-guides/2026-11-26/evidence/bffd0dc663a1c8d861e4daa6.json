@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c391100-86ac-11e4-8c28-020000005b00/pipestone-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c391100-86ac-11e4-8c28-020000005b00/pipestone-golf-club",
+  "checked_at": 1795524517.1766148,
+  "sha256": "5ac3aef4cca5aa32e97a29d833337a3704b8b6f9a5b827199448062c55fb7849",
+  "title": "Pipestone Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9c391100-86ac-11e4-8c28-020000005b00",
+    "name": "Pipestone Golf Club",
+    "address": "4344 Benner Rd",
+    "courses": [
+      {
+        "name": "Pipestone",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6939,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6580,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6078,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 124
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5145,
+            "par": 72,
+            "rating": 64.7,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c391100-86ac-11e4-8c28-020000005b00/pipestone-golf-club"
+  }
+}

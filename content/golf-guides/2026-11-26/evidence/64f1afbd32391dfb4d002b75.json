@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8970780-86ac-11e4-8c28-020000005b00/lions-den",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8970780-86ac-11e4-8c28-020000005b00/lions-den",
+  "checked_at": 1795582879.488961,
+  "sha256": "f464b51fc4d372cd5ec3beb5a3e2019c388e8e09d22066ccf5dc0103a84ba7ab",
+  "title": "Lions Den - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b8970780-86ac-11e4-8c28-020000005b00",
+    "name": "Lions Den",
+    "address": "Bay Ridge Rd, Dardanelle, AR",
+    "courses": [
+      {
+        "name": "Lions Den",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6615,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6615,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5763,
+            "par": 72,
+            "rating": 68,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5763,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 4890,
+            "par": 72,
+            "rating": 63.7,
+            "slope": 108
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 4890,
+            "par": 72,
+            "rating": 71,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4626,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4626,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8970780-86ac-11e4-8c28-020000005b00/lions-den"
+  }
+}

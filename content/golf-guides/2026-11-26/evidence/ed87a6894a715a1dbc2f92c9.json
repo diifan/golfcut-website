@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a9b3f80-86ac-11e4-8c28-020000005b00/stryker-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a9b3f80-86ac-11e4-8c28-020000005b00/stryker-golf-course",
+  "checked_at": 1795524750.299418,
+  "sha256": "d5bf1c19b7c8668a6247d366634e30a61d5d6826ee7d068e6a1bfb10699bc8e2",
+  "title": "Stryker Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9a9b3f80-86ac-11e4-8c28-020000005b00",
+    "name": "Stryker Golf Course",
+    "address": "1219 North Bragg Boulevard, Spring Lake, NC 28390",
+    "courses": [
+      {
+        "name": "Stryker",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6641,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6641,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6376,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6376,
+            "par": 72,
+            "rating": 76.6,
+            "slope": 135
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5743,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 117
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5743,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 125
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5135,
+            "par": 72,
+            "rating": 64.3,
+            "slope": 110
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5135,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a9b3f80-86ac-11e4-8c28-020000005b00/stryker-golf-course"
+  }
+}

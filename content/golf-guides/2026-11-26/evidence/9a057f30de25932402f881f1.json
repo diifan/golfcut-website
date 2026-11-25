@@ -1,0 +1,339 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b28eaff0-86ac-11e4-8c28-020000005b00/hickory-ridge-golf-course-driving-range",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b28eaff0-86ac-11e4-8c28-020000005b00/hickory-ridge-golf-course-driving-range",
+  "checked_at": 1795524209.8753343,
+  "sha256": "3821c2a3d38d1a5a183f1181ed13eda07c2b1aa32901a6ba61feba985b2eb314",
+  "title": "Hickory Ridge Golf Course & Driving Range - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b28eaff0-86ac-11e4-8c28-020000005b00",
+    "name": "Hickory Ridge Golf Course & Driving Range",
+    "address": "65 N 30th St, Galesburg, MI",
+    "courses": [
+      {
+        "name": "Blue to White",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4256,
+            "par": 66,
+            "rating": 57.3,
+            "slope": 84
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4256,
+            "par": 66,
+            "rating": 64.5,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3985,
+            "par": 66,
+            "rating": 56.7,
+            "slope": 83
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3985,
+            "par": 66,
+            "rating": 63.1,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3408,
+            "par": 66,
+            "rating": 60.4,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3408,
+            "par": 66,
+            "rating": 56.7,
+            "slope": 81
+          }
+        ]
+      },
+      {
+        "name": "White to Red",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4446,
+            "par": 66,
+            "rating": 58.1,
+            "slope": 83
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4446,
+            "par": 66,
+            "rating": 65.5,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4154,
+            "par": 66,
+            "rating": 57.4,
+            "slope": 81
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4154,
+            "par": 66,
+            "rating": 64,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3590,
+            "par": 66,
+            "rating": 61.3,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3590,
+            "par": 66,
+            "rating": 57.8,
+            "slope": 83
+          }
+        ]
+      },
+      {
+        "name": "Blue to Red",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4550,
+            "par": 66,
+            "rating": 58.5,
+            "slope": 84
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4550,
+            "par": 66,
+            "rating": 66.1,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4235,
+            "par": 66,
+            "rating": 58.1,
+            "slope": 85
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4235,
+            "par": 66,
+            "rating": 64.4,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3654,
+            "par": 66,
+            "rating": 61.5,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3654,
+            "par": 66,
+            "rating": 58.5,
+            "slope": 84
+          }
+        ]
+      },
+      {
+        "name": "Red to White",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4446,
+            "par": 66,
+            "rating": 58.1,
+            "slope": 83
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4446,
+            "par": 66,
+            "rating": 65.5,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4154,
+            "par": 66,
+            "rating": 57.4,
+            "slope": 81
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4154,
+            "par": 66,
+            "rating": 64,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3590,
+            "par": 66,
+            "rating": 61.3,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3590,
+            "par": 66,
+            "rating": 57.8,
+            "slope": 83
+          }
+        ]
+      },
+      {
+        "name": "White to Blue",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4256,
+            "par": 66,
+            "rating": 57.3,
+            "slope": 84
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4256,
+            "par": 66,
+            "rating": 64.5,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3985,
+            "par": 66,
+            "rating": 56.7,
+            "slope": 83
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3985,
+            "par": 66,
+            "rating": 63.1,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3408,
+            "par": 66,
+            "rating": 60.4,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3408,
+            "par": 66,
+            "rating": 56.7,
+            "slope": 81
+          }
+        ]
+      },
+      {
+        "name": "Blue to Blue",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4360,
+            "par": 66,
+            "rating": 57.3,
+            "slope": 84
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4360,
+            "par": 66,
+            "rating": 65.1,
+            "slope": 110
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4066,
+            "par": 66,
+            "rating": 56.7,
+            "slope": 83
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4066,
+            "par": 66,
+            "rating": 63.5,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3472,
+            "par": 66,
+            "rating": 60.7,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3472,
+            "par": 66,
+            "rating": 56.7,
+            "slope": 81
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b28eaff0-86ac-11e4-8c28-020000005b00/hickory-ridge-golf-course-driving-range"
+  }
+}

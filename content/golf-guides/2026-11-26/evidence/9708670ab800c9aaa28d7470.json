@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b50c5a20-86ac-11e4-8c28-020000005b00/florence-golf-links-sandpines",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b50c5a20-86ac-11e4-8c28-020000005b00/florence-golf-links-sandpines",
+  "checked_at": 1795582930.984245,
+  "sha256": "3b38c2b5a2726055cbacc1dfd4785ddada875d4e72535aa5dfb5725c77958ff9",
+  "title": "Florence Golf Links (Sandpines) - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b50c5a20-86ac-11e4-8c28-020000005b00",
+    "name": "Florence Golf Links (Sandpines)",
+    "address": "1201 35th St",
+    "courses": [
+      {
+        "name": "Sandpines Links",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7190,
+            "par": 72,
+            "rating": 75,
+            "slope": 131
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6981,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6602,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6110,
+            "par": 72,
+            "rating": 70,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5323,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b50c5a20-86ac-11e4-8c28-020000005b00/florence-golf-links-sandpines"
+  }
+}

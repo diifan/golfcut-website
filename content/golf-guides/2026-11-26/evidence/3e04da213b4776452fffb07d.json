@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b16b110-86ac-11e4-8c28-020000005b00/statesville-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b16b110-86ac-11e4-8c28-020000005b00/statesville-country-club",
+  "checked_at": 1795524362.8354287,
+  "sha256": "91d265525452823a7de97d983e7198001fd4b964740440bd6f23a7d6c8fbc924",
+  "title": "Statesville Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9b16b110-86ac-11e4-8c28-020000005b00",
+    "name": "Statesville Country Club",
+    "address": "635 Deauville Rd, Statesville, NC",
+    "courses": [
+      {
+        "name": "Statesville",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "I",
+            "category": "MALE",
+            "yards": 6643,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 136
+          },
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 6310,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 132
+          },
+          {
+            "name": "III",
+            "category": "MALE",
+            "yards": 5478,
+            "par": 72,
+            "rating": 67,
+            "slope": 121
+          },
+          {
+            "name": "IV",
+            "category": "MALE",
+            "yards": 4857,
+            "par": 72,
+            "rating": 64.2,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b16b110-86ac-11e4-8c28-020000005b00/statesville-country-club"
+  }
+}

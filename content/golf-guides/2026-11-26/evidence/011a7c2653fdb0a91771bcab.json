@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/91ba7390-86ac-11e4-8c28-020000005b00/cider-ridge-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/91ba7390-86ac-11e4-8c28-020000005b00/cider-ridge-golf-club",
+  "checked_at": 1795524987.4700956,
+  "sha256": "611b92455fa19c243d13f6474de1ae4b26d910ee0158686f539bed450c5ad37f",
+  "title": "Cider Ridge Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "91ba7390-86ac-11e4-8c28-020000005b00",
+    "name": "Cider Ridge Golf Club",
+    "address": "200 Apple Blossom Way, Oxford, AL",
+    "courses": [
+      {
+        "name": "Cider Ridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "I",
+            "category": "MALE",
+            "yards": 6946,
+            "par": 72,
+            "rating": 74,
+            "slope": 140
+          },
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 6549,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 136
+          },
+          {
+            "name": "III",
+            "category": "MALE",
+            "yards": 5924,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 129
+          },
+          {
+            "name": "IV",
+            "category": "MALE",
+            "yards": 5186,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/91ba7390-86ac-11e4-8c28-020000005b00/cider-ridge-golf-club"
+  }
+}

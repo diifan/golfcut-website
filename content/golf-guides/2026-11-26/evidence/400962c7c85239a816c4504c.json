@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ba07a80-86ac-11e4-8c28-020000005b00/northmoor-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ba07a80-86ac-11e4-8c28-020000005b00/northmoor-golf-course",
+  "checked_at": 1795582929.7314453,
+  "sha256": "8872b7ce47f8004ad27702658f0d8295acb7b4c57328a732e20a9c931acd8c7a",
+  "title": "Northmoor Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9ba07a80-86ac-11e4-8c28-020000005b00",
+    "name": "Northmoor Golf Course",
+    "address": "8330 E St Route 703",
+    "courses": [
+      {
+        "name": "Northmoor",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5865,
+            "par": 71,
+            "rating": 68,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5865,
+            "par": 71,
+            "rating": 72.8,
+            "slope": 123
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5181,
+            "par": 71,
+            "rating": 64.9,
+            "slope": 107
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5181,
+            "par": 71,
+            "rating": 69,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ba07a80-86ac-11e4-8c28-020000005b00/northmoor-golf-course"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8598950-86ac-11e4-8c28-020000005b00/edgewood-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8598950-86ac-11e4-8c28-020000005b00/edgewood-golf-course",
+  "checked_at": 1795582888.420042,
+  "sha256": "d744d1834c7fe9a9f473fcf7e2d27f1bac637e9a18245a80631cf42c60a28696",
+  "title": "Edgewood Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b8598950-86ac-11e4-8c28-020000005b00",
+    "name": "Edgewood Golf Course",
+    "address": "19 Golf Course Ave NE, Fargo, North Dakota 58102",
+    "courses": [
+      {
+        "name": "Edgewood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6506,
+            "par": 71,
+            "rating": 71.9,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6506,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 6247,
+            "par": 71,
+            "rating": 70.6,
+            "slope": 126
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 6247,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6077,
+            "par": 71,
+            "rating": 69.9,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6077,
+            "par": 71,
+            "rating": 75.7,
+            "slope": 130
+          },
+          {
+            "name": "White/Red",
+            "category": "MALE",
+            "yards": 5499,
+            "par": 71,
+            "rating": 67.2,
+            "slope": 115
+          },
+          {
+            "name": "White/Red",
+            "category": "FEMALE",
+            "yards": 5499,
+            "par": 71,
+            "rating": 72.5,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5197,
+            "par": 71,
+            "rating": 65.9,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5197,
+            "par": 71,
+            "rating": 70.8,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8598950-86ac-11e4-8c28-020000005b00/edgewood-golf-course"
+  }
+}

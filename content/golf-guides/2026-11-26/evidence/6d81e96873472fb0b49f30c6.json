@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/e37ac490-f19e-11e7-960e-0680a328ea36/tpc-harding-park-fleming-9",
+  "resolved_url": "https://18birdies.com/golf-courses/club/e37ac490-f19e-11e7-960e-0680a328ea36/tpc-harding-park-fleming-9",
+  "checked_at": 1795524628.9124455,
+  "sha256": "6f75fe2ab3ab3aaa0a5b657be60cf4e8bea82c3b41ced76021af326a07e85f60",
+  "title": "TPC Harding Park - Fleming 9 - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "e37ac490-f19e-11e7-960e-0680a328ea36",
+    "name": "TPC Harding Park - Fleming 9",
+    "address": "99 Harding Rd, San Francisco, CA",
+    "courses": [
+      {
+        "name": "18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue (Men)",
+            "category": "MALE",
+            "yards": 4330,
+            "par": 60,
+            "rating": 61.4,
+            "slope": 96
+          },
+          {
+            "name": "Blue (Men)",
+            "category": "FEMALE",
+            "yards": 4330,
+            "par": 60,
+            "rating": 64.2,
+            "slope": 105
+          },
+          {
+            "name": "Red (Ladies)",
+            "category": "MALE",
+            "yards": 3730,
+            "par": 60,
+            "rating": 60,
+            "slope": 93
+          },
+          {
+            "name": "Red (Ladies)",
+            "category": "FEMALE",
+            "yards": 3730,
+            "par": 60,
+            "rating": 61.2,
+            "slope": 96
+          }
+        ]
+      },
+      {
+        "name": "9 Hole",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue (Men)",
+            "category": "MALE",
+            "yards": 2165,
+            "par": 30,
+            "rating": 30.7,
+            "slope": 96
+          },
+          {
+            "name": "Blue (Men)",
+            "category": "FEMALE",
+            "yards": 2165,
+            "par": 30,
+            "rating": 32.1,
+            "slope": 105
+          },
+          {
+            "name": "Red (Ladies)",
+            "category": "MALE",
+            "yards": 1865,
+            "par": 30,
+            "rating": 30,
+            "slope": 93
+          },
+          {
+            "name": "Red (Ladies)",
+            "category": "FEMALE",
+            "yards": 1865,
+            "par": 30,
+            "rating": 30.6,
+            "slope": 96
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/e37ac490-f19e-11e7-960e-0680a328ea36/tpc-harding-park-fleming-9"
+  }
+}

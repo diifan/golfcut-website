@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d623d00-86ac-11e4-8c28-020000005b00/eberhart-petro-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d623d00-86ac-11e4-8c28-020000005b00/eberhart-petro-golf-course",
+  "checked_at": 1795524355.306724,
+  "sha256": "139522c291816c450988ceaab00e6d65713a9cdddaf86caff1e00a0b26db00ae",
+  "title": "Eberhart – Petro Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d623d00-86ac-11e4-8c28-020000005b00",
+    "name": "Eberhart – Petro Golf Course",
+    "address": "801 N State St",
+    "courses": [
+      {
+        "name": "Eberhart-Petro",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5924,
+            "par": 70,
+            "rating": 68.7,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5924,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5502,
+            "par": 70,
+            "rating": 67,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5502,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 4998,
+            "par": 70,
+            "rating": 64.1,
+            "slope": 109
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 4998,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4819,
+            "par": 70,
+            "rating": 63.3,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4819,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d623d00-86ac-11e4-8c28-020000005b00/eberhart-petro-golf-course"
+  }
+}

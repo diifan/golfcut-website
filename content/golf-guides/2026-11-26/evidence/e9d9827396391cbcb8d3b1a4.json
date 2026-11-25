@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/839f9c90-86ac-11e4-8c28-020000005b00/merit-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/839f9c90-86ac-11e4-8c28-020000005b00/merit-club",
+  "checked_at": 1795524996.6480684,
+  "sha256": "a34d2c495d82f94405468428266275f92d48f07865b938579ade80a9f8e11774",
+  "title": "Merit Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "839f9c90-86ac-11e4-8c28-020000005b00",
+    "name": "Merit Club",
+    "address": "1500 Merit Club Ln, Libertyville, IL",
+    "courses": [
+      {
+        "name": "Merit",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7119,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7119,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6636,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 133
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 6636,
+            "par": 72,
+            "rating": 77.2,
+            "slope": 137
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5194,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5194,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 140
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/839f9c90-86ac-11e4-8c28-020000005b00/merit-club"
+  }
+}

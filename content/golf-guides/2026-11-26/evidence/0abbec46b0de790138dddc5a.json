@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b95f330-86ac-11e4-8c28-020000005b00/suburban-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b95f330-86ac-11e4-8c28-020000005b00/suburban-golf-course",
+  "checked_at": 1795524188.88319,
+  "sha256": "cb592566cc6361a44e83e3c1dc6f6bf5972701b25d284c81ee55ba7f9a1195e1",
+  "title": "Suburban Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9b95f330-86ac-11e4-8c28-020000005b00",
+    "name": "Suburban Golf Course",
+    "address": "9358 OH-15, Bryan, OH 43506",
+    "courses": [
+      {
+        "name": "Suburban",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6118,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 112
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4949,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4779,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b95f330-86ac-11e4-8c28-020000005b00/suburban-golf-course"
+  }
+}

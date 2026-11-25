@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ad74c60-86ac-11e4-8c28-020000005b00/willowick-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ad74c60-86ac-11e4-8c28-020000005b00/willowick-golf-course",
+  "checked_at": 1795524703.785078,
+  "sha256": "7074d446edfa0aea4f1d1400cd02a758272f8740089c67c6dc4f7ea4aa9a15e9",
+  "title": "Willowick Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8ad74c60-86ac-11e4-8c28-020000005b00",
+    "name": "Willowick Golf Course",
+    "address": "3017 W 5th Street, Santa Ana, CA",
+    "courses": [
+      {
+        "name": "Willowick Municipal",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6061,
+            "par": 71,
+            "rating": 68.4,
+            "slope": 113
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6061,
+            "par": 71,
+            "rating": 74.4,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5742,
+            "par": 71,
+            "rating": 66.2,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5742,
+            "par": 71,
+            "rating": 72.4,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ad74c60-86ac-11e4-8c28-020000005b00/willowick-golf-course"
+  }
+}

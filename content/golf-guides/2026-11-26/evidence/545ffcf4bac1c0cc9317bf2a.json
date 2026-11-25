@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c3c5aa0-86ac-11e4-8c28-020000005b00/texarkana-golf-ranch",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c3c5aa0-86ac-11e4-8c28-020000005b00/texarkana-golf-ranch",
+  "checked_at": 1795583809.4873176,
+  "sha256": "3c110299619cca1fa93161a2b381ba46429f39e287e005abf4cf7ede18c37a16",
+  "title": "Texarkana Golf Ranch - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8c3c5aa0-86ac-11e4-8c28-020000005b00",
+    "name": "Texarkana Golf Ranch",
+    "address": "7401 University Ave, Texarkana, TX 75503",
+    "courses": [
+      {
+        "name": "Texarkana",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7359,
+            "par": 72,
+            "rating": 76.7,
+            "slope": 144
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6732,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 141
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6145,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 136
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 6145,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c3c5aa0-86ac-11e4-8c28-020000005b00/texarkana-golf-ranch"
+  }
+}

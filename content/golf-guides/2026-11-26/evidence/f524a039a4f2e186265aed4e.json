@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba62c6d0-86ac-11e4-8c28-020000005b00/north-bend",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba62c6d0-86ac-11e4-8c28-020000005b00/north-bend",
+  "checked_at": 1795582900.9923074,
+  "sha256": "4f7b5fc4eed04c2d35216b79ec79f0179315c7af7d31bf620108e6b2ae3a45af",
+  "title": "North Bend - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ba62c6d0-86ac-11e4-8c28-020000005b00",
+    "name": "North Bend",
+    "address": "945 W High St, Harrisville, WV",
+    "courses": [
+      {
+        "name": "North Bend",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5890,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5890,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4378,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4378,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba62c6d0-86ac-11e4-8c28-020000005b00/north-bend"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b0f8520-86ac-11e4-8c28-020000005b00/knollwood-fairways",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b0f8520-86ac-11e4-8c28-020000005b00/knollwood-fairways",
+  "checked_at": 1795582933.1780121,
+  "sha256": "935930c2206df3414ad973b805d978e408009d1f29d8ca7f2fd473e85bd3fc35",
+  "title": "Knollwood Fairways - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9b0f8520-86ac-11e4-8c28-020000005b00",
+    "name": "Knollwood Fairways",
+    "address": "1470 Midland Rd, Southern Pines, NC",
+    "courses": [
+      {
+        "name": "Knollwood Fairways",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue tees",
+            "category": "MALE",
+            "yards": 2517,
+            "par": 35,
+            "rating": 32.6,
+            "slope": 124
+          },
+          {
+            "name": "White tees",
+            "category": "MALE",
+            "yards": 2416,
+            "par": 35,
+            "rating": 32.1,
+            "slope": 118
+          },
+          {
+            "name": "Red tees",
+            "category": "MALE",
+            "yards": 2157,
+            "par": 35,
+            "rating": 31.5,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b0f8520-86ac-11e4-8c28-020000005b00/knollwood-fairways"
+  }
+}

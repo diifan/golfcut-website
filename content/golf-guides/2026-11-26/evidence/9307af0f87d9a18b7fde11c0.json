@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9906e3e0-86ac-11e4-8c28-020000005b00/beaver-island-state-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9906e3e0-86ac-11e4-8c28-020000005b00/beaver-island-state-park-golf-course",
+  "checked_at": 1795524777.6046884,
+  "sha256": "3cfe086ce03fd9dc1a49684612dbbafe11cbb81b6c5629f0929808d8c3680d0b",
+  "title": "Beaver Island State Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9906e3e0-86ac-11e4-8c28-020000005b00",
+    "name": "Beaver Island State Park Golf Course",
+    "address": "2136 W Oakfield Rd, Grand Island, NY",
+    "courses": [
+      {
+        "name": "Beaver Island",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6645,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6645,
+            "par": 74,
+            "rating": 77.2,
+            "slope": 137
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 6203,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 6203,
+            "par": 74,
+            "rating": 75,
+            "slope": 127
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6107,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 119
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 6107,
+            "par": 74,
+            "rating": 74.4,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9906e3e0-86ac-11e4-8c28-020000005b00/beaver-island-state-park-golf-course"
+  }
+}

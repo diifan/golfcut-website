@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6767170-86ac-11e4-8c28-020000005b00/clear-lake-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6767170-86ac-11e4-8c28-020000005b00/clear-lake-country-club",
+  "checked_at": 1795524172.9072416,
+  "sha256": "6af27f4af32669e27418baadd343a4708a403bbb5d65cfe3d0ba0c7e7c27233e",
+  "title": "Clear Lake Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6767170-86ac-11e4-8c28-020000005b00",
+    "name": "Clear Lake Country Club",
+    "address": "403 Clear Lake Ln, Buhl, ID",
+    "courses": [
+      {
+        "name": "Clear Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5962,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5712,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5124,
+            "par": 72,
+            "rating": 64.5,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6767170-86ac-11e4-8c28-020000005b00/clear-lake-country-club"
+  }
+}

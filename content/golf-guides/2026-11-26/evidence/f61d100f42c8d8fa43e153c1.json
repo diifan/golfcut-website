@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a1371e0-86ac-11e4-8c28-020000005b00/le-roy-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a1371e0-86ac-11e4-8c28-020000005b00/le-roy-country-club",
+  "checked_at": 1795583816.727511,
+  "sha256": "480eeb61e389c8146780c07c1bcc40cb92e9516b23c22b93aa1159a014f2aa8c",
+  "title": "LeRoy Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9a1371e0-86ac-11e4-8c28-020000005b00",
+    "name": "LeRoy Country Club",
+    "address": "7759 E Main Road, Le Roy, NY",
+    "courses": [
+      {
+        "name": "Le Roy",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6579,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6579,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5759,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5759,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 134
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5358,
+            "par": 72,
+            "rating": 64.6,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5358,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a1371e0-86ac-11e4-8c28-020000005b00/le-roy-country-club"
+  }
+}

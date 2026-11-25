@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/996a3990-86ac-11e4-8c28-020000005b00/reservoir-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/996a3990-86ac-11e4-8c28-020000005b00/reservoir-creek-golf-course",
+  "checked_at": 1795524434.6647787,
+  "sha256": "dcfd74c0e4348e347e978ff6b79484a5fda7bb7735571683b5a863726f1424a6",
+  "title": "Reservoir Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "996a3990-86ac-11e4-8c28-020000005b00",
+    "name": "Reservoir Creek Golf Course",
+    "address": "8613 State Route 21",
+    "courses": [
+      {
+        "name": "Reservoir Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6291,
+            "par": 71,
+            "rating": 70.5,
+            "slope": 125
+          },
+          {
+            "name": "Blue/white",
+            "category": "MALE",
+            "yards": 6010,
+            "par": 71,
+            "rating": 69,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5746,
+            "par": 71,
+            "rating": 67.4,
+            "slope": 120
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4953,
+            "par": 71,
+            "rating": 64,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/996a3990-86ac-11e4-8c28-020000005b00/reservoir-creek-golf-course"
+  }
+}

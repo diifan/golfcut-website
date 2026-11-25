@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/999fc880-86ac-11e4-8c28-020000005b00/the-quogue-field-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/999fc880-86ac-11e4-8c28-020000005b00/the-quogue-field-club",
+  "checked_at": 1795582912.1322525,
+  "sha256": "e73afa276284a7fa7cc2645419fa10ee7d4bf03ac958baea85996678f4b461a7",
+  "title": "The Quogue Field Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "999fc880-86ac-11e4-8c28-020000005b00",
+    "name": "The Quogue Field Club",
+    "address": "6 Club Ln, Quogue, NY",
+    "courses": [
+      {
+        "name": "Quogue Field (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black/Orange",
+            "category": "MALE",
+            "yards": 3159,
+            "par": 36,
+            "rating": 33.5,
+            "slope": 126
+          },
+          {
+            "name": "Black/Orange",
+            "category": "FEMALE",
+            "yards": 3159,
+            "par": 36,
+            "rating": 35.5,
+            "slope": 131
+          },
+          {
+            "name": "White/Red",
+            "category": "MALE",
+            "yards": 2654,
+            "par": 36,
+            "rating": 35.8,
+            "slope": 133
+          },
+          {
+            "name": "White/Red",
+            "category": "FEMALE",
+            "yards": 2654,
+            "par": 36,
+            "rating": 35.1,
+            "slope": 118
+          }
+        ]
+      },
+      {
+        "name": "Quogue Field (18 Holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black/Orange",
+            "category": "MALE",
+            "yards": 6159,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 129
+          },
+          {
+            "name": "Black/Orange",
+            "category": "FEMALE",
+            "yards": 6159,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 131
+          },
+          {
+            "name": "White/Red",
+            "category": "MALE",
+            "yards": 5086,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 120
+          },
+          {
+            "name": "White/Red",
+            "category": "FEMALE",
+            "yards": 5086,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 131
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/999fc880-86ac-11e4-8c28-020000005b00/the-quogue-field-club"
+  }
+}

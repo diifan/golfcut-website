@@ -1,0 +1,103 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae5c50e0-86ac-11e4-8c28-020000005b00/pickens-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae5c50e0-86ac-11e4-8c28-020000005b00/pickens-golf-club",
+  "checked_at": 1795582944.563586,
+  "sha256": "75f5a343d90b528d6be579490bfa47db625bc691db54b2e2cc3701d7c00c9fe7",
+  "title": "Pickens Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae5c50e0-86ac-11e4-8c28-020000005b00",
+    "name": "Pickens Golf Club",
+    "address": "1018 Country Club Road, Pickens, SC",
+    "courses": [
+      {
+        "name": "Blue (9 holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2787,
+            "par": 35,
+            "rating": 33.7,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2787,
+            "par": 35,
+            "rating": 36.5,
+            "slope": 137
+          }
+        ]
+      },
+      {
+        "name": "Orange  (9 holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 2783,
+            "par": 36,
+            "rating": 33.6,
+            "slope": 119
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 2783,
+            "par": 36,
+            "rating": 36,
+            "slope": 137
+          }
+        ]
+      },
+      {
+        "name": "Yellow (9 holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 2292,
+            "par": 34,
+            "rating": 31.6,
+            "slope": 101
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 2292,
+            "par": 34,
+            "rating": 33.4,
+            "slope": 124
+          }
+        ]
+      },
+      {
+        "name": "Blue/Orange (18 holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue/Orange",
+            "category": "MALE",
+            "yards": 5570,
+            "par": 71,
+            "rating": 67.3,
+            "slope": 122
+          },
+          {
+            "name": "Blue/Orange",
+            "category": "FEMALE",
+            "yards": 5570,
+            "par": 71,
+            "rating": 72.5,
+            "slope": 137
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae5c50e0-86ac-11e4-8c28-020000005b00/pickens-golf-club"
+  }
+}

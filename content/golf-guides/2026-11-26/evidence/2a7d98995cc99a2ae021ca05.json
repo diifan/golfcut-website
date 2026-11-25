@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9951f6a0-86ac-11e4-8c28-020000005b00/malone-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9951f6a0-86ac-11e4-8c28-020000005b00/malone-golf-club",
+  "checked_at": 1795582933.7689044,
+  "sha256": "791a8280520209995c2bfccbed8de09e00c8f32cd31f4cb18d63c075dbf12d41",
+  "title": "Malone Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9951f6a0-86ac-11e4-8c28-020000005b00",
+    "name": "Malone Golf Club",
+    "address": "Duane Stage Rd",
+    "courses": [
+      {
+        "name": "Malone(East )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6545,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6121,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5563,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5224,
+            "par": 72,
+            "rating": 65.6,
+            "slope": 108
+          }
+        ]
+      },
+      {
+        "name": "Malone(West )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6592,
+            "par": 71,
+            "rating": 72.3,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6037,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5468,
+            "par": 71,
+            "rating": 66.8,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5272,
+            "par": 71,
+            "rating": 65.9,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9951f6a0-86ac-11e4-8c28-020000005b00/malone-golf-club"
+  }
+}

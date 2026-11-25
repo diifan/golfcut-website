@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ab32290-86ac-11e4-8c28-020000005b00/riviera-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ab32290-86ac-11e4-8c28-020000005b00/riviera-country-club",
+  "checked_at": 1795523678.2021153,
+  "sha256": "ee3b0296bcbee244f5e0587e4c0e3a049498a2d01485d057948dc250b9891f25",
+  "title": "Riviera Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8ab32290-86ac-11e4-8c28-020000005b00",
+    "name": "Riviera Country Club",
+    "address": "1250 Capri Drive, Pacific Palisades, CA",
+    "courses": [
+      {
+        "name": "Riviera",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7040,
+            "par": 71,
+            "rating": 74.6,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7040,
+            "par": 74,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6526,
+            "par": 71,
+            "rating": 72.2,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6526,
+            "par": 74,
+            "rating": 76.6,
+            "slope": 136
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6136,
+            "par": 71,
+            "rating": 70.7,
+            "slope": 126
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 6136,
+            "par": 74,
+            "rating": 76.8,
+            "slope": 143
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5725,
+            "par": 71,
+            "rating": 70,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5725,
+            "par": 74,
+            "rating": 74.4,
+            "slope": 136
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5348,
+            "par": 71,
+            "rating": 69.3,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5348,
+            "par": 74,
+            "rating": 72.1,
+            "slope": 132
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ab32290-86ac-11e4-8c28-020000005b00/riviera-country-club"
+  }
+}

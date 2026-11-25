@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d8db9d0-86ac-11e4-8c28-020000005b00/shadowood-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d8db9d0-86ac-11e4-8c28-020000005b00/shadowood-golf",
+  "checked_at": 1795525011.2958913,
+  "sha256": "022c691e28b526d705ad35998e32f168a6b30722bdc5cebec073baf53a8e630f",
+  "title": "Shadowood Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d8db9d0-86ac-11e4-8c28-020000005b00",
+    "name": "Shadowood Golf",
+    "address": "333 N Sandy Creek Dr., Seymour, IN",
+    "courses": [
+      {
+        "name": "Shadowood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6709,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6215,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 123
+          },
+          {
+            "name": "Gray",
+            "category": "MALE",
+            "yards": 5276,
+            "par": 72,
+            "rating": 64.8,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d8db9d0-86ac-11e4-8c28-020000005b00/shadowood-golf"
+  }
+}

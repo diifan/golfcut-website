@@ -1,0 +1,369 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8bf1e420-86ac-11e4-8c28-020000005b00/woodforest-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8bf1e420-86ac-11e4-8c28-020000005b00/woodforest-golf-club",
+  "checked_at": 1795524752.3347795,
+  "sha256": "b3811ac3d7f32adcfe12cd31d7c23d76d59ba4e349a6ade7d02f9aab9bc54fbb",
+  "title": "Woodforest Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8bf1e420-86ac-11e4-8c28-020000005b00",
+    "name": "Woodforest Golf Club",
+    "address": "6201 Mulligan Dr, Montgomery, TX",
+    "courses": [
+      {
+        "name": "Front to Back",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Big Daddy",
+            "category": "MALE",
+            "yards": 7282,
+            "par": 72,
+            "rating": 75,
+            "slope": 136
+          },
+          {
+            "name": "Big Daddy",
+            "category": "FEMALE",
+            "yards": 7282,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Big Daddy / II",
+            "category": "MALE",
+            "yards": 7008,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 137
+          },
+          {
+            "name": "Big Daddy / II",
+            "category": "FEMALE",
+            "yards": 7008,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 6806,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 137
+          },
+          {
+            "name": "II",
+            "category": "FEMALE",
+            "yards": 6806,
+            "par": 72,
+            "rating": 79.4,
+            "slope": 145
+          },
+          {
+            "name": "II / III",
+            "category": "MALE",
+            "yards": 6391,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 135
+          },
+          {
+            "name": "II / III",
+            "category": "FEMALE",
+            "yards": 6391,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 134
+          },
+          {
+            "name": "III",
+            "category": "MALE",
+            "yards": 5966,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 126
+          },
+          {
+            "name": "III",
+            "category": "FEMALE",
+            "yards": 5966,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 137
+          },
+          {
+            "name": "IV",
+            "category": "MALE",
+            "yards": 5091,
+            "par": 72,
+            "rating": 64.7,
+            "slope": 111
+          },
+          {
+            "name": "IV",
+            "category": "FEMALE",
+            "yards": 5091,
+            "par": 72,
+            "rating": 70,
+            "slope": 122
+          },
+          {
+            "name": "Par 3",
+            "category": "MALE",
+            "yards": 2079,
+            "par": 72,
+            "rating": 52.19006,
+            "slope": 79.00331
+          },
+          {
+            "name": "Par 3",
+            "category": "FEMALE",
+            "yards": 2079,
+            "par": 72,
+            "rating": 52.19006,
+            "slope": 79.00331
+          }
+        ]
+      },
+      {
+        "name": "Back to West",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Big Daddy",
+            "category": "MALE",
+            "yards": 7261,
+            "par": 71,
+            "rating": 75.1,
+            "slope": 137
+          },
+          {
+            "name": "Big Daddy",
+            "category": "FEMALE",
+            "yards": 7261,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Big Daddy / II",
+            "category": "MALE",
+            "yards": 6991,
+            "par": 71,
+            "rating": 73.8,
+            "slope": 135
+          },
+          {
+            "name": "Big Daddy / II",
+            "category": "FEMALE",
+            "yards": 6991,
+            "par": 71,
+            "rating": 79.1,
+            "slope": 141
+          },
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 6719,
+            "par": 71,
+            "rating": 72.5,
+            "slope": 133
+          },
+          {
+            "name": "II",
+            "category": "FEMALE",
+            "yards": 6719,
+            "par": 71,
+            "rating": 79.3,
+            "slope": 145
+          },
+          {
+            "name": "II / III",
+            "category": "MALE",
+            "yards": 6277,
+            "par": 71,
+            "rating": 70.5,
+            "slope": 132
+          },
+          {
+            "name": "II / III",
+            "category": "FEMALE",
+            "yards": 6277,
+            "par": 71,
+            "rating": 75.3,
+            "slope": 133
+          },
+          {
+            "name": "III",
+            "category": "MALE",
+            "yards": 5883,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 128
+          },
+          {
+            "name": "III",
+            "category": "FEMALE",
+            "yards": 5883,
+            "par": 71,
+            "rating": 74.6,
+            "slope": 135
+          },
+          {
+            "name": "IV",
+            "category": "MALE",
+            "yards": 4949,
+            "par": 71,
+            "rating": 64.7,
+            "slope": 120
+          },
+          {
+            "name": "IV",
+            "category": "FEMALE",
+            "yards": 4949,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 119
+          },
+          {
+            "name": "Par 3",
+            "category": "MALE",
+            "yards": 1998,
+            "par": 71,
+            "rating": 51.85472,
+            "slope": 78.60722
+          },
+          {
+            "name": "Par 3",
+            "category": "FEMALE",
+            "yards": 1998,
+            "par": 71,
+            "rating": 51.85472,
+            "slope": 78.60722
+          }
+        ]
+      },
+      {
+        "name": "West to Front",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Big Daddy",
+            "category": "MALE",
+            "yards": 7117,
+            "par": 71,
+            "rating": 74.5,
+            "slope": 134
+          },
+          {
+            "name": "Big Daddy",
+            "category": "FEMALE",
+            "yards": 7117,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Big Daddy / II",
+            "category": "MALE",
+            "yards": 6865,
+            "par": 71,
+            "rating": 73.2,
+            "slope": 134
+          },
+          {
+            "name": "Big Daddy / II",
+            "category": "FEMALE",
+            "yards": 6865,
+            "par": 71,
+            "rating": 78.4,
+            "slope": 140
+          },
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 6641,
+            "par": 71,
+            "rating": 72.1,
+            "slope": 135
+          },
+          {
+            "name": "II",
+            "category": "FEMALE",
+            "yards": 6641,
+            "par": 71,
+            "rating": 78.9,
+            "slope": 142
+          },
+          {
+            "name": "II / III",
+            "category": "MALE",
+            "yards": 6214,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 134
+          },
+          {
+            "name": "II / III",
+            "category": "FEMALE",
+            "yards": 6214,
+            "par": 71,
+            "rating": 75,
+            "slope": 132
+          },
+          {
+            "name": "III",
+            "category": "MALE",
+            "yards": 5947,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 127
+          },
+          {
+            "name": "III",
+            "category": "FEMALE",
+            "yards": 5947,
+            "par": 71,
+            "rating": 75.1,
+            "slope": 135
+          },
+          {
+            "name": "IV",
+            "category": "MALE",
+            "yards": 5034,
+            "par": 71,
+            "rating": 64.8,
+            "slope": 113
+          },
+          {
+            "name": "IV",
+            "category": "FEMALE",
+            "yards": 5034,
+            "par": 71,
+            "rating": 69.9,
+            "slope": 120
+          },
+          {
+            "name": "Par 3",
+            "category": "MALE",
+            "yards": 1841,
+            "par": 71,
+            "rating": 51.20474,
+            "slope": 77.83949
+          },
+          {
+            "name": "Par 3",
+            "category": "FEMALE",
+            "yards": 1841,
+            "par": 71,
+            "rating": 51.20474,
+            "slope": 77.83949
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8bf1e420-86ac-11e4-8c28-020000005b00/woodforest-golf-club"
+  }
+}

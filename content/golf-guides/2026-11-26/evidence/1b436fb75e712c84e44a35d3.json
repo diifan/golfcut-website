@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c33a810-86ac-11e4-8c28-020000005b00/tejas-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c33a810-86ac-11e4-8c28-020000005b00/tejas-golf-course",
+  "checked_at": 1795582862.7786002,
+  "sha256": "ca947f68b0ee346dd281df364710c45219117992f5eb70653dc62f1d33c4bc23",
+  "title": "Tejas Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8c33a810-86ac-11e4-8c28-020000005b00",
+    "name": "Tejas Golf Course",
+    "address": "1089 Tejas Ln, Stephenville, TX",
+    "courses": [
+      {
+        "name": "Tejas",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2957,
+            "par": 36,
+            "rating": 35.8,
+            "slope": 112
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2957,
+            "par": 36,
+            "rating": 38.7,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2506,
+            "par": 36,
+            "rating": 32.3,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2506,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c33a810-86ac-11e4-8c28-020000005b00/tejas-golf-course"
+  }
+}

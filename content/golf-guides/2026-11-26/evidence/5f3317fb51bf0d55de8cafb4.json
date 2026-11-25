@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9cea5fa0-86ac-11e4-8c28-020000005b00/sinking-valley-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9cea5fa0-86ac-11e4-8c28-020000005b00/sinking-valley-country-club",
+  "checked_at": 1795524472.9627595,
+  "sha256": "aa5d6c3953d3daff829a496133b36f0db8c28eafeed35770169841eb5cd3f9cd",
+  "title": "Sinking Valley Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9cea5fa0-86ac-11e4-8c28-020000005b00",
+    "name": "Sinking Valley Country Club",
+    "address": "595 Golf Course Road, Altoona, PA",
+    "courses": [
+      {
+        "name": "Sinking Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7032,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7032,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6454,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6454,
+            "par": 72,
+            "rating": 77.9,
+            "slope": 137
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5467,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5467,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5353,
+            "par": 72,
+            "rating": 64.7,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5353,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9cea5fa0-86ac-11e4-8c28-020000005b00/sinking-valley-country-club"
+  }
+}

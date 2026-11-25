@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/72dab430-86ac-11e4-8c28-020000005b00/newcastle-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/72dab430-86ac-11e4-8c28-020000005b00/newcastle-golf-club",
+  "checked_at": 1795524896.9542556,
+  "sha256": "43f967ea8ffc39e583b737feac66ff4c49fb2598cb9a9ab91a5c67cb146a26a1",
+  "title": "Newcastle Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "72dab430-86ac-11e4-8c28-020000005b00",
+    "name": "Newcastle Golf Club",
+    "address": "4 Vardon Road",
+    "courses": [
+      {
+        "name": "Newcastle",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6780,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6780,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5832,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5832,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 137
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/72dab430-86ac-11e4-8c28-020000005b00/newcastle-golf-club"
+  }
+}

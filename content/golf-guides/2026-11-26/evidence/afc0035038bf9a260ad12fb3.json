@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a14aa60-86ac-11e4-8c28-020000005b00/delaware-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a14aa60-86ac-11e4-8c28-020000005b00/delaware-park-golf-course",
+  "checked_at": 1795524572.2492573,
+  "sha256": "b8f75b850f49fcddcef570ff68625d7fd8173a0dca32425a7b61383cee020b12",
+  "title": "Delaware Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9a14aa60-86ac-11e4-8c28-020000005b00",
+    "name": "Delaware Park Golf Course",
+    "address": "84 Parkside Avenue, Buffalo, NY",
+    "courses": [
+      {
+        "name": "Delaware Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5299,
+            "par": 70,
+            "rating": 66.9,
+            "slope": 101
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5299,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4870,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4870,
+            "par": 70,
+            "rating": 65.5,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a14aa60-86ac-11e4-8c28-020000005b00/delaware-park-golf-course"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92baf3a0-86ac-11e4-8c28-020000005b00/fairview-farm-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92baf3a0-86ac-11e4-8c28-020000005b00/fairview-farm-golf-course",
+  "checked_at": 1795524632.1619022,
+  "sha256": "44f33120653c857e4dff9dda998eee72488813935937da502088215ca76a4e5a",
+  "title": "Fairview Farm Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92baf3a0-86ac-11e4-8c28-020000005b00",
+    "name": "Fairview Farm Golf Course",
+    "address": "300 Hill Road, Harwinton, CT",
+    "courses": [
+      {
+        "name": "Fairview Farm",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6636,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6636,
+            "par": 72,
+            "rating": 77.2,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6174,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6174,
+            "par": 72,
+            "rating": 75.7,
+            "slope": 135
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5705,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5705,
+            "par": 72,
+            "rating": 73,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4830,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4830,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92baf3a0-86ac-11e4-8c28-020000005b00/fairview-farm-golf-course"
+  }
+}

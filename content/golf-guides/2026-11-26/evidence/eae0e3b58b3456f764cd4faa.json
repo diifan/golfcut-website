@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c4a1640-86ac-11e4-8c28-020000005b00/waxahachie",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c4a1640-86ac-11e4-8c28-020000005b00/waxahachie",
+  "checked_at": 1795582946.1791644,
+  "sha256": "1b210036a2b77c4b071fbbbb4d5a667c0068c07839765302b1c026761fcb2d38",
+  "title": "Waxahachie - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8c4a1640-86ac-11e4-8c28-020000005b00",
+    "name": "Waxahachie",
+    "address": "1920 W Hwy 287 Business",
+    "courses": [
+      {
+        "name": "Waxahachie",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6156,
+            "par": 70,
+            "rating": 68.4,
+            "slope": 104
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6156,
+            "par": 70,
+            "rating": 74.6,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5840,
+            "par": 70,
+            "rating": 67.3,
+            "slope": 101
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5840,
+            "par": 70,
+            "rating": 73,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5009,
+            "par": 70,
+            "rating": 67.7,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5009,
+            "par": 70,
+            "rating": 70,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c4a1640-86ac-11e4-8c28-020000005b00/waxahachie"
+  }
+}

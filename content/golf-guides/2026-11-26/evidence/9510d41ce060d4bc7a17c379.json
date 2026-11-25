@@ -1,0 +1,59 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8382ecd0-86ac-11e4-8c28-020000005b00/lake-zurich-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8382ecd0-86ac-11e4-8c28-020000005b00/lake-zurich-golf-club",
+  "checked_at": 1795582946.4589636,
+  "sha256": "b91bbcde3639754a9a8cb31d956980c8541cb133e8c348ad1ae06ab2e151dd54",
+  "title": "Lake Zurich Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "8382ecd0-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Zurich Golf Club",
+    "address": "564 N Old Rand Rd, Lake Zurich, IL",
+    "courses": [
+      {
+        "name": "Lake Zurich (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Tee ",
+            "category": "MALE",
+            "yards": 2651,
+            "par": 35,
+            "rating": 35,
+            "slope": 131
+          },
+          {
+            "name": "Tee ",
+            "category": "FEMALE",
+            "yards": 2651,
+            "par": 35,
+            "rating": 36,
+            "slope": 133
+          }
+        ]
+      },
+      {
+        "name": "Lake Zurich (18 Holes) ",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Tee ",
+            "category": "MALE",
+            "yards": 5302,
+            "par": 70,
+            "rating": 70.7,
+            "slope": 131
+          },
+          {
+            "name": "Tee ",
+            "category": "FEMALE",
+            "yards": 5302,
+            "par": 70,
+            "rating": 71,
+            "slope": 133
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8382ecd0-86ac-11e4-8c28-020000005b00/lake-zurich-golf-club"
+  }
+}

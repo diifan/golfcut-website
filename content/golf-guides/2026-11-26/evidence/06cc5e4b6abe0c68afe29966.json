@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d2d3500-86ac-11e4-8c28-020000005b00/grassy-lane-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d2d3500-86ac-11e4-8c28-020000005b00/grassy-lane-golf-club",
+  "checked_at": 1795582947.3004138,
+  "sha256": "1b02845bf594c69cee280d692ff14504d30b0cb28808940d2dd7749496eb87bd",
+  "title": "Grassy Lane Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d2d3500-86ac-11e4-8c28-020000005b00",
+    "name": "Grassy Lane Golf Club",
+    "address": "470 McCaughtry Run Rd, Darlington, PA",
+    "courses": [
+      {
+        "name": "Grassy Lane",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 5966,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 113
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 5966,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5622,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5622,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 113
+          }
+        ]
+      },
+      {
+        "name": "Grassy Lane copy",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 2983,
+            "par": 36,
+            "rating": 36.1,
+            "slope": 113
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 2983,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2811,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2811,
+            "par": 36,
+            "rating": 36.1,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d2d3500-86ac-11e4-8c28-020000005b00/grassy-lane-golf-club"
+  }
+}

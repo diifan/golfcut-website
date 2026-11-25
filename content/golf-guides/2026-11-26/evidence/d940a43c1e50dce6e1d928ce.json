@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/adbc4050-86ac-11e4-8c28-020000005b00/bridgewater-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/adbc4050-86ac-11e4-8c28-020000005b00/bridgewater-golf-course",
+  "checked_at": 1795524526.0840569,
+  "sha256": "4eb0217d9b642c032bd306203cabaeb33036aa8cf480f584823cf9533198f0dd",
+  "title": "Bridgewater Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "adbc4050-86ac-11e4-8c28-020000005b00",
+    "name": "Bridgewater Golf Course",
+    "address": "601 Chestnut Hill Road, York, PA",
+    "courses": [
+      {
+        "name": "Bridgewater (9)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 3221,
+            "par": 36,
+            "rating": 35.6,
+            "slope": 131
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 3221,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2971,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2971,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2674,
+            "par": 36,
+            "rating": 33.2,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2674,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2326,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2326,
+            "par": 36,
+            "rating": 31.4,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/adbc4050-86ac-11e4-8c28-020000005b00/bridgewater-golf-course"
+  }
+}

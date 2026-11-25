@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4ca9630-86ac-11e4-8c28-020000005b00/killarney-west-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4ca9630-86ac-11e4-8c28-020000005b00/killarney-west-golf-club",
+  "checked_at": 1795524371.5214767,
+  "sha256": "00a1c542a66f5a0708501630ae1b1e81de136b4f6b639b5b70b12cd84255f781",
+  "title": "Killarney West Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b4ca9630-86ac-11e4-8c28-020000005b00",
+    "name": "Killarney West Golf Club",
+    "address": "1275 NW 334th Ave, Hillsboro, OR",
+    "courses": [
+      {
+        "name": "9 Hole Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 2568,
+            "par": 36,
+            "rating": 32.6,
+            "slope": 104
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 2568,
+            "par": 36,
+            "rating": 35.4,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2404,
+            "par": 36,
+            "rating": 32.3,
+            "slope": 101
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2404,
+            "par": 36,
+            "rating": 34.2,
+            "slope": 108
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 2270,
+            "par": 36,
+            "rating": 31.3,
+            "slope": 97
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 2270,
+            "par": 36,
+            "rating": 33.4,
+            "slope": 98
+          }
+        ]
+      },
+      {
+        "name": "18 Hole Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5136,
+            "par": 72,
+            "rating": 65.2,
+            "slope": 104
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5136,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4808,
+            "par": 72,
+            "rating": 64.6,
+            "slope": 101
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4808,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 108
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 4540,
+            "par": 72,
+            "rating": 62.6,
+            "slope": 97
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 4540,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 98
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4ca9630-86ac-11e4-8c28-020000005b00/killarney-west-golf-club"
+  }
+}

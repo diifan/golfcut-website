@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b03e7e60-86ac-11e4-8c28-020000005b00/lakeside-park-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b03e7e60-86ac-11e4-8c28-020000005b00/lakeside-park-club",
+  "checked_at": 1795524972.2003503,
+  "sha256": "17318b0c9a625c3f1f08cdcf27786c829cb336c3c73ad5270209d06d71aecd49",
+  "title": "Lakeside Park Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b03e7e60-86ac-11e4-8c28-020000005b00",
+    "name": "Lakeside Park Club",
+    "address": "1700 Lakeside Ave, Richmond, VA",
+    "courses": [
+      {
+        "name": "Lakeside Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Ross",
+            "category": "MALE",
+            "yards": 6284,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 128
+          },
+          {
+            "name": "Ross",
+            "category": "FEMALE",
+            "yards": 6284,
+            "par": 71,
+            "rating": 75.3,
+            "slope": 133
+          },
+          {
+            "name": "Park",
+            "category": "MALE",
+            "yards": 6039,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 125
+          },
+          {
+            "name": "Park",
+            "category": "FEMALE",
+            "yards": 6039,
+            "par": 71,
+            "rating": 76,
+            "slope": 135
+          },
+          {
+            "name": "Lake",
+            "category": "MALE",
+            "yards": 5605,
+            "par": 71,
+            "rating": 66.9,
+            "slope": 118
+          },
+          {
+            "name": "Lake",
+            "category": "FEMALE",
+            "yards": 5605,
+            "par": 71,
+            "rating": 73.2,
+            "slope": 126
+          },
+          {
+            "name": "Ginter",
+            "category": "MALE",
+            "yards": 5141,
+            "par": 71,
+            "rating": 65.1,
+            "slope": 115
+          },
+          {
+            "name": "Ginter",
+            "category": "FEMALE",
+            "yards": 5141,
+            "par": 71,
+            "rating": 70.9,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b03e7e60-86ac-11e4-8c28-020000005b00/lakeside-park-club"
+  }
+}

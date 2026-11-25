@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/904c3d90-86ac-11e4-8c28-020000005b00/suncoast-golf-center-academy",
+  "resolved_url": "https://18birdies.com/golf-courses/club/904c3d90-86ac-11e4-8c28-020000005b00/suncoast-golf-center-academy",
+  "checked_at": 1795524633.691203,
+  "sha256": "b2944edbe3e17bcda455ec044c7bbb479cd99062d7f084a92a38c2a6f0d51629",
+  "title": "Suncoast Golf Center & Academy - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "904c3d90-86ac-11e4-8c28-020000005b00",
+    "name": "Suncoast Golf Center & Academy",
+    "address": "7741 15th St E, Sarasota, FL",
+    "courses": [
+      {
+        "name": "Suncoast",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 893,
+            "par": 27,
+            "rating": 25.87922,
+            "slope": 76.40576
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 893,
+            "par": 27,
+            "rating": 25.87922,
+            "slope": 76.40576
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 769,
+            "par": 27,
+            "rating": 25.31626,
+            "slope": 74.13408
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 769,
+            "par": 27,
+            "rating": 25.31626,
+            "slope": 74.13408
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/904c3d90-86ac-11e4-8c28-020000005b00/suncoast-golf-center-academy"
+  }
+}

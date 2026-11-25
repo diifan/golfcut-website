@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e1e12f0-86ac-11e4-8c28-020000005b00/pinetop-lakes-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e1e12f0-86ac-11e4-8c28-020000005b00/pinetop-lakes-golf-country-club",
+  "checked_at": 1795524380.033602,
+  "sha256": "1af0ab986acebe2bde402cf4124f76e56fde342dcc1438cb6d13a87d961e92db",
+  "title": "Pinetop Lakes Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8e1e12f0-86ac-11e4-8c28-020000005b00",
+    "name": "Pinetop Lakes Golf & Country Club",
+    "address": "4643 Buck Springs Rd, Pinetop, AZ",
+    "courses": [
+      {
+        "name": "Pinetop Lakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4571,
+            "par": 63,
+            "rating": 61.5,
+            "slope": 103
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4571,
+            "par": 63,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4325,
+            "par": 63,
+            "rating": 60.4,
+            "slope": 99
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4325,
+            "par": 63,
+            "rating": 63.1,
+            "slope": 105
+          },
+          {
+            "name": "Combo",
+            "category": "MALE",
+            "yards": 4178,
+            "par": 63,
+            "rating": 59.6,
+            "slope": 97
+          },
+          {
+            "name": "Combo",
+            "category": "FEMALE",
+            "yards": 4178,
+            "par": 63,
+            "rating": 59.3,
+            "slope": 95
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3999,
+            "par": 63,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3999,
+            "par": 63,
+            "rating": 60.9,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e1e12f0-86ac-11e4-8c28-020000005b00/pinetop-lakes-golf-country-club"
+  }
+}

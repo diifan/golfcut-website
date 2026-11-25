@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/affc6c50-86ac-11e4-8c28-020000005b00/boonsboro-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/affc6c50-86ac-11e4-8c28-020000005b00/boonsboro-country-club",
+  "checked_at": 1795524467.79865,
+  "sha256": "972340ba04faa27b1ee51ddf39ce588c0b78e96353727fe5364b6f330e654240",
+  "title": "Boonsboro Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "affc6c50-86ac-11e4-8c28-020000005b00",
+    "name": "Boonsboro Country Club",
+    "address": "1709 BCC Drive",
+    "courses": [
+      {
+        "name": "Boonsboro",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6787,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6428,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 126
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6207,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5933,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5467,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 114
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5073,
+            "par": 72,
+            "rating": 64.5,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/affc6c50-86ac-11e4-8c28-020000005b00/boonsboro-country-club"
+  }
+}

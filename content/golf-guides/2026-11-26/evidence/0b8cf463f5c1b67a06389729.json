@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c425fd0-86ac-11e4-8c28-020000005b00/great-trail",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c425fd0-86ac-11e4-8c28-020000005b00/great-trail",
+  "checked_at": 1795524634.6169639,
+  "sha256": "4cc1dfa87750877f6d09210c5ed7ea9cbc5723c0ce8195e0d3354c47a81eff9f",
+  "title": "Great Trail  - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9c425fd0-86ac-11e4-8c28-020000005b00",
+    "name": "Great Trail ",
+    "address": "10154 Great Trail Dr, Minerva, OH",
+    "courses": [
+      {
+        "name": "Great Trail (Red/Blue)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5845,
+            "par": 71,
+            "rating": 67.1,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5470,
+            "par": 71,
+            "rating": 64.3,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c425fd0-86ac-11e4-8c28-020000005b00/great-trail"
+  }
+}

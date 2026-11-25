@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d1afad0-86ac-11e4-8c28-020000005b00/fendrich-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d1afad0-86ac-11e4-8c28-020000005b00/fendrich-golf-course",
+  "checked_at": 1795524416.289578,
+  "sha256": "432ee780f8085848b65487fbed5d57912c78df3163e7e7a4ff87dd6aa60048b6",
+  "title": "Fendrich Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8d1afad0-86ac-11e4-8c28-020000005b00",
+    "name": "Fendrich Golf Course",
+    "address": "1900 E Diamond Ave.",
+    "courses": [
+      {
+        "name": "John H. Fendrich",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5888,
+            "par": 70,
+            "rating": 67.5,
+            "slope": 115
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5888,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5630,
+            "par": 70,
+            "rating": 66.3,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5630,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5353,
+            "par": 70,
+            "rating": 65,
+            "slope": 111
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5353,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5140,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5140,
+            "par": 70,
+            "rating": 68.7,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d1afad0-86ac-11e4-8c28-020000005b00/fendrich-golf-course"
+  }
+}

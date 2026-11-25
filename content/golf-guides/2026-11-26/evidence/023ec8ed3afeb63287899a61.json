@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b57e7ce0-86ac-11e4-8c28-020000005b00/lake-breeze-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b57e7ce0-86ac-11e4-8c28-020000005b00/lake-breeze-golf-club",
+  "checked_at": 1795583823.1981065,
+  "sha256": "ace5c06df5a5e6d61aaf7573775f3a7b916c70ffbe733e46d297a5dca2901f65",
+  "title": "Lake Breeze Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b57e7ce0-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Breeze Golf Club",
+    "address": "6333 Ball Prairie Rd.",
+    "courses": [
+      {
+        "name": "Lake Breeze",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6882,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6367,
+            "par": 72,
+            "rating": 70,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5730,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5106,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b57e7ce0-86ac-11e4-8c28-020000005b00/lake-breeze-golf-club"
+  }
+}

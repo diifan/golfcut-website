@@ -1,0 +1,497 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ec6d610-86ac-11e4-8c28-020000005b00/shadow-wood-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ec6d610-86ac-11e4-8c28-020000005b00/shadow-wood-country-club",
+  "checked_at": 1795524890.9904385,
+  "sha256": "7a923e11c0e2a0039e629f0866050dd1f6fca9c25b3ed2f3b3e6398f313254ed",
+  "title": "Shadow Wood Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8ec6d610-86ac-11e4-8c28-020000005b00",
+    "name": "Shadow Wood Country Club",
+    "address": "22801 Oakwilde Blvd Estero FL 34135",
+    "courses": [
+      {
+        "name": "Shadow Wood (North)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "I",
+            "category": "MALE",
+            "yards": 7116,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 131
+          },
+          {
+            "name": "I",
+            "category": "FEMALE",
+            "yards": 7116,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 6660,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 127
+          },
+          {
+            "name": "II",
+            "category": "FEMALE",
+            "yards": 6660,
+            "par": 72,
+            "rating": 78.4,
+            "slope": 134
+          },
+          {
+            "name": "III",
+            "category": "MALE",
+            "yards": 6249,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 123
+          },
+          {
+            "name": "III",
+            "category": "FEMALE",
+            "yards": 6249,
+            "par": 72,
+            "rating": 76,
+            "slope": 130
+          },
+          {
+            "name": "IV",
+            "category": "MALE",
+            "yards": 5939,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 118
+          },
+          {
+            "name": "IV",
+            "category": "FEMALE",
+            "yards": 5939,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 125
+          },
+          {
+            "name": "V",
+            "category": "MALE",
+            "yards": 5673,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 114
+          },
+          {
+            "name": "V",
+            "category": "FEMALE",
+            "yards": 5673,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 121
+          },
+          {
+            "name": "VI",
+            "category": "MALE",
+            "yards": 5421,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 112
+          },
+          {
+            "name": "VI",
+            "category": "FEMALE",
+            "yards": 5421,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 119
+          },
+          {
+            "name": "VII",
+            "category": "MALE",
+            "yards": 5166,
+            "par": 72,
+            "rating": 65,
+            "slope": 109
+          },
+          {
+            "name": "VII",
+            "category": "FEMALE",
+            "yards": 5166,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 116
+          },
+          {
+            "name": "VIII",
+            "category": "MALE",
+            "yards": 4814,
+            "par": 72,
+            "rating": 63.4,
+            "slope": 105
+          },
+          {
+            "name": "VIII",
+            "category": "FEMALE",
+            "yards": 4814,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 112
+          },
+          {
+            "name": "IX",
+            "category": "MALE",
+            "yards": 4460,
+            "par": 72,
+            "rating": 62.1,
+            "slope": 102
+          },
+          {
+            "name": "IX",
+            "category": "FEMALE",
+            "yards": 4460,
+            "par": 72,
+            "rating": 65.6,
+            "slope": 107
+          },
+          {
+            "name": "X",
+            "category": "MALE",
+            "yards": 3705,
+            "par": 72,
+            "rating": 60.2,
+            "slope": 97
+          },
+          {
+            "name": "X",
+            "category": "FEMALE",
+            "yards": 3705,
+            "par": 72,
+            "rating": 61.7,
+            "slope": 98
+          }
+        ]
+      },
+      {
+        "name": "Shadow Wood (South)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "I",
+            "category": "MALE",
+            "yards": 7211,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 130
+          },
+          {
+            "name": "I",
+            "category": "FEMALE",
+            "yards": 7211,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 6576,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 124
+          },
+          {
+            "name": "II",
+            "category": "FEMALE",
+            "yards": 6576,
+            "par": 72,
+            "rating": 77.3,
+            "slope": 135
+          },
+          {
+            "name": "III",
+            "category": "MALE",
+            "yards": 6242,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 122
+          },
+          {
+            "name": "III",
+            "category": "FEMALE",
+            "yards": 6242,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 132
+          },
+          {
+            "name": "IV",
+            "category": "MALE",
+            "yards": 5913,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 117
+          },
+          {
+            "name": "IV",
+            "category": "FEMALE",
+            "yards": 5913,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 126
+          },
+          {
+            "name": "V",
+            "category": "MALE",
+            "yards": 5667,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 115
+          },
+          {
+            "name": "V",
+            "category": "FEMALE",
+            "yards": 5667,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 124
+          },
+          {
+            "name": "VI",
+            "category": "MALE",
+            "yards": 5388,
+            "par": 72,
+            "rating": 66,
+            "slope": 113
+          },
+          {
+            "name": "VI",
+            "category": "FEMALE",
+            "yards": 5388,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 120
+          },
+          {
+            "name": "VII",
+            "category": "MALE",
+            "yards": 5138,
+            "par": 72,
+            "rating": 64.6,
+            "slope": 111
+          },
+          {
+            "name": "VII",
+            "category": "FEMALE",
+            "yards": 5138,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 117
+          },
+          {
+            "name": "VIII",
+            "category": "MALE",
+            "yards": 4582,
+            "par": 72,
+            "rating": 62.4,
+            "slope": 105
+          },
+          {
+            "name": "VIII",
+            "category": "FEMALE",
+            "yards": 4582,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 111
+          },
+          {
+            "name": "IX",
+            "category": "MALE",
+            "yards": 4106,
+            "par": 72,
+            "rating": 61,
+            "slope": 100
+          },
+          {
+            "name": "IX",
+            "category": "FEMALE",
+            "yards": 4106,
+            "par": 72,
+            "rating": 63.3,
+            "slope": 106
+          },
+          {
+            "name": "X",
+            "category": "MALE",
+            "yards": 3500,
+            "par": 72,
+            "rating": 58.8,
+            "slope": 97
+          },
+          {
+            "name": "X",
+            "category": "FEMALE",
+            "yards": 3500,
+            "par": 72,
+            "rating": 59.8,
+            "slope": 98
+          }
+        ]
+      },
+      {
+        "name": "Shadow Wood (Preserve)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "I",
+            "category": "MALE",
+            "yards": 6686,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 147
+          },
+          {
+            "name": "I",
+            "category": "FEMALE",
+            "yards": 6686,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 6312,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 145
+          },
+          {
+            "name": "II",
+            "category": "FEMALE",
+            "yards": 6312,
+            "par": 72,
+            "rating": 77.8,
+            "slope": 146
+          },
+          {
+            "name": "III",
+            "category": "MALE",
+            "yards": 6028,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 140
+          },
+          {
+            "name": "III",
+            "category": "FEMALE",
+            "yards": 6028,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 143
+          },
+          {
+            "name": "IV",
+            "category": "MALE",
+            "yards": 5806,
+            "par": 72,
+            "rating": 69,
+            "slope": 137
+          },
+          {
+            "name": "IV",
+            "category": "FEMALE",
+            "yards": 5806,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 138
+          },
+          {
+            "name": "V",
+            "category": "MALE",
+            "yards": 5537,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 135
+          },
+          {
+            "name": "V",
+            "category": "FEMALE",
+            "yards": 5537,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 136
+          },
+          {
+            "name": "VI",
+            "category": "MALE",
+            "yards": 5103,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 130
+          },
+          {
+            "name": "VI",
+            "category": "FEMALE",
+            "yards": 5103,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 129
+          },
+          {
+            "name": "VII",
+            "category": "MALE",
+            "yards": 4779,
+            "par": 72,
+            "rating": 64.3,
+            "slope": 125
+          },
+          {
+            "name": "VII",
+            "category": "FEMALE",
+            "yards": 4779,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 120
+          },
+          {
+            "name": "VIII",
+            "category": "MALE",
+            "yards": 4547,
+            "par": 72,
+            "rating": 63,
+            "slope": 124
+          },
+          {
+            "name": "VIII",
+            "category": "FEMALE",
+            "yards": 4547,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 116
+          },
+          {
+            "name": "IX",
+            "category": "MALE",
+            "yards": 4341,
+            "par": 72,
+            "rating": 61.5,
+            "slope": 120
+          },
+          {
+            "name": "IX",
+            "category": "FEMALE",
+            "yards": 4341,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ec6d610-86ac-11e4-8c28-020000005b00/shadow-wood-country-club"
+  }
+}

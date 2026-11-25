@@ -1,0 +1,273 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b67b740-86ac-11e4-8c28-020000005b00/etowah-valley",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b67b740-86ac-11e4-8c28-020000005b00/etowah-valley",
+  "checked_at": 1795524534.1155415,
+  "sha256": "c8f6f4e3b26e35001adb48f3befc12102f6669445ecc34d51a3ccdcaddd5cdcf",
+  "title": "Etowah Valley - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9b67b740-86ac-11e4-8c28-020000005b00",
+    "name": "Etowah Valley",
+    "address": "470 Brickyard Rd, Etowah, NC",
+    "courses": [
+      {
+        "name": "Etowah Valley (North to South)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6740,
+            "par": 73,
+            "rating": 73.2,
+            "slope": 138
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6740,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Purple",
+            "category": "MALE",
+            "yards": 6441,
+            "par": 73,
+            "rating": 72,
+            "slope": 136
+          },
+          {
+            "name": "Purple",
+            "category": "FEMALE",
+            "yards": 6441,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 6036,
+            "par": 73,
+            "rating": 70,
+            "slope": 132
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 6036,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Teal",
+            "category": "MALE",
+            "yards": 5589,
+            "par": 73,
+            "rating": 68,
+            "slope": 127
+          },
+          {
+            "name": "Teal",
+            "category": "FEMALE",
+            "yards": 5589,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 4899,
+            "par": 73,
+            "rating": 66.2,
+            "slope": 118
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 4899,
+            "par": 73,
+            "rating": 68.6,
+            "slope": 121
+          }
+        ]
+      },
+      {
+        "name": "Etowah Valley (South to West)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6925,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 138
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6925,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Purple",
+            "category": "MALE",
+            "yards": 6483,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 135
+          },
+          {
+            "name": "Purple",
+            "category": "FEMALE",
+            "yards": 6483,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 6121,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 131
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 6121,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 133
+          },
+          {
+            "name": "Teal",
+            "category": "MALE",
+            "yards": 5495,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 124
+          },
+          {
+            "name": "Teal",
+            "category": "FEMALE",
+            "yards": 5495,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 127
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 4952,
+            "par": 72,
+            "rating": 64.3,
+            "slope": 118
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 4952,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 120
+          }
+        ]
+      },
+      {
+        "name": "Etowah Valley (West to North)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6821,
+            "par": 73,
+            "rating": 73.9,
+            "slope": 139
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6821,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Purple",
+            "category": "MALE",
+            "yards": 6454,
+            "par": 73,
+            "rating": 71.9,
+            "slope": 136
+          },
+          {
+            "name": "Purple",
+            "category": "FEMALE",
+            "yards": 6454,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 6103,
+            "par": 73,
+            "rating": 70.4,
+            "slope": 131
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 6103,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Teal",
+            "category": "MALE",
+            "yards": 5478,
+            "par": 73,
+            "rating": 67.7,
+            "slope": 124
+          },
+          {
+            "name": "Teal",
+            "category": "FEMALE",
+            "yards": 5478,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 4739,
+            "par": 73,
+            "rating": 65.7,
+            "slope": 125
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 4739,
+            "par": 73,
+            "rating": 67.4,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b67b740-86ac-11e4-8c28-020000005b00/etowah-valley"
+  }
+}

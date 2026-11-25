@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/97662c30-86ac-11e4-8c28-020000005b00/las-vegas-golf-center",
+  "resolved_url": "https://18birdies.com/golf-courses/club/97662c30-86ac-11e4-8c28-020000005b00/las-vegas-golf-center",
+  "checked_at": 1795583793.0757856,
+  "sha256": "f0ec39654ecdb7e3599e0399422b592a85977604016245245cee44a0176592ab",
+  "title": "Las Vegas Golf Center - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "97662c30-86ac-11e4-8c28-020000005b00",
+    "name": "Las Vegas Golf Center",
+    "address": "6730 Las Vegas Blvd, South Las Vegas, NV 89119",
+    "courses": [
+      {
+        "name": "TaylorMade Golf Experience",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1230,
+            "par": 27,
+            "rating": 27.4092,
+            "slope": 82.5796
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1112,
+            "par": 27,
+            "rating": 26.87348,
+            "slope": 80.41784
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 986,
+            "par": 27,
+            "rating": 26.30144,
+            "slope": 78.10952
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/97662c30-86ac-11e4-8c28-020000005b00/las-vegas-golf-center"
+  }
+}

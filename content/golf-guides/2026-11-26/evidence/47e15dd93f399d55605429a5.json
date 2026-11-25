@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8cb55b30-86ac-11e4-8c28-020000005b00/beacon-lakes",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8cb55b30-86ac-11e4-8c28-020000005b00/beacon-lakes",
+  "checked_at": 1795524475.1828268,
+  "sha256": "6602a903984360ee18789ae6a856afead6c7968b401344d1b378b4ffdaafd46a",
+  "title": "Beacon Lakes - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8cb55b30-86ac-11e4-8c28-020000005b00",
+    "name": "Beacon Lakes",
+    "address": "801 FM 646, Dickinson, TX",
+    "courses": [
+      {
+        "name": "Beacon Lakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6777,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6777,
+            "par": 72,
+            "rating": 78,
+            "slope": 139
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6368,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6368,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5756,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5756,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4950,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4950,
+            "par": 72,
+            "rating": 72,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8cb55b30-86ac-11e4-8c28-020000005b00/beacon-lakes"
+  }
+}

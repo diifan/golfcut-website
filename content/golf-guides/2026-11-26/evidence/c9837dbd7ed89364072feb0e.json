@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c40c770-86ac-11e4-8c28-020000005b00/westwood-shores-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c40c770-86ac-11e4-8c28-020000005b00/westwood-shores-country-club",
+  "checked_at": 1795582886.0646372,
+  "sha256": "bda1ab196fc90993529e60788e7fe711ca0a96bf390fea8b50c2c0e7abffe3ac",
+  "title": "Westwood Shores Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8c40c770-86ac-11e4-8c28-020000005b00",
+    "name": "Westwood Shores Country Club",
+    "address": "100 Westwood Drive, Trinity, TX",
+    "courses": [
+      {
+        "name": "Westwood Shores",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6791,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6317,
+            "par": 72,
+            "rating": 71,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5354,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 115
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5000,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4356,
+            "par": 72,
+            "rating": 62.3,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c40c770-86ac-11e4-8c28-020000005b00/westwood-shores-country-club"
+  }
+}

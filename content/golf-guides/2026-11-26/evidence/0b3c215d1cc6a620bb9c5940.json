@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ad33f70-86ac-11e4-8c28-020000005b00/maggie-valley-club-resort",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ad33f70-86ac-11e4-8c28-020000005b00/maggie-valley-club-resort",
+  "checked_at": 1795524666.8699944,
+  "sha256": "f9173121503678301cb6d329c90091d165eb088b11d18b9980c428c4738a115c",
+  "title": "Maggie Valley Club & Resort - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9ad33f70-86ac-11e4-8c28-020000005b00",
+    "name": "Maggie Valley Club & Resort",
+    "address": "1819 Country Club Dr, Maggie Valley, NC",
+    "courses": [
+      {
+        "name": "Maggie Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6466,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6130,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5242,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 115
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4600,
+            "par": 72,
+            "rating": 62.8,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ad33f70-86ac-11e4-8c28-020000005b00/maggie-valley-club-resort"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b840d130-86ac-11e4-8c28-020000005b00/jamestown-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b840d130-86ac-11e4-8c28-020000005b00/jamestown-golf-course",
+  "checked_at": 1795524295.9943817,
+  "sha256": "526089b9f2df9778f68585bb4c14562d1688be92c9f5f449529ed86433702532",
+  "title": "Jamestown Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b840d130-86ac-11e4-8c28-020000005b00",
+    "name": "Jamestown Golf Course",
+    "address": "245 Conanicus Ave",
+    "courses": [
+      {
+        "name": "Jamestown",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6080,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 108
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6080,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 123
+          },
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 5730,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 108
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 5730,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5730,
+            "par": 72,
+            "rating": 67,
+            "slope": 107
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5730,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4842,
+            "par": 72,
+            "rating": 62.8,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4842,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b840d130-86ac-11e4-8c28-020000005b00/jamestown-golf-course"
+  }
+}

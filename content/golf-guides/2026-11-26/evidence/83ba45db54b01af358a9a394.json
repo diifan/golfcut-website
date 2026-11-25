@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9cb2d4e0-86ac-11e4-8c28-020000005b00/trumbull-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9cb2d4e0-86ac-11e4-8c28-020000005b00/trumbull-country-club",
+  "checked_at": 1795524601.5551333,
+  "sha256": "d326db7356ce8ad72fb9f46e41705d2b4c7bcdea6b530110235b3001b67da7af",
+  "title": "Trumbull Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9cb2d4e0-86ac-11e4-8c28-020000005b00",
+    "name": "Trumbull Country Club",
+    "address": "600 Golf Dr, Warren, OH",
+    "courses": [
+      {
+        "name": "Trumbull",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6396,
+            "par": 70,
+            "rating": 70.7,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6396,
+            "par": 73,
+            "rating": 75.9,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6104,
+            "par": 70,
+            "rating": 69.8,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6104,
+            "par": 73,
+            "rating": 74.4,
+            "slope": 131
+          },
+          {
+            "name": "Senior",
+            "category": "MALE",
+            "yards": 5704,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 119
+          },
+          {
+            "name": "Senior",
+            "category": "FEMALE",
+            "yards": 5704,
+            "par": 73,
+            "rating": 72.2,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5410,
+            "par": 70,
+            "rating": 69.6,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5410,
+            "par": 73,
+            "rating": 71.8,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9cb2d4e0-86ac-11e4-8c28-020000005b00/trumbull-country-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8d8f280-86ac-11e4-8c28-020000005b00/the-greens-at-north-hills",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8d8f280-86ac-11e4-8c28-020000005b00/the-greens-at-north-hills",
+  "checked_at": 1795524385.881792,
+  "sha256": "18876ba119a444c2c44909caaffd3a6c02f5a2cf32d1a7683e01d2b21ecb1710",
+  "title": "The Greens at North Hills - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b8d8f280-86ac-11e4-8c28-020000005b00",
+    "name": "The Greens at North Hills",
+    "address": "7400 Highway 107",
+    "courses": [
+      {
+        "name": "The Greens at North Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6428,
+            "par": 71,
+            "rating": 72.5,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6428,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6032,
+            "par": 71,
+            "rating": 70.9,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6032,
+            "par": 72,
+            "rating": 75.7,
+            "slope": 138
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8d8f280-86ac-11e4-8c28-020000005b00/the-greens-at-north-hills"
+  }
+}

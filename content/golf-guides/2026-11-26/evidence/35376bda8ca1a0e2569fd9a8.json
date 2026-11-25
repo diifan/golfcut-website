@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afa43a30-86ac-11e4-8c28-020000005b00/the-barn-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afa43a30-86ac-11e4-8c28-020000005b00/the-barn-golf-club",
+  "checked_at": 1795524651.2524362,
+  "sha256": "4386d93c751b3fe8c131c26c7d5a8d44b75ce880078d3cda0affd9de86130e6a",
+  "title": "The Barn Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "afa43a30-86ac-11e4-8c28-020000005b00",
+    "name": "The Barn Golf Club",
+    "address": "305 W Pleasant View Dr, Pleasant View, UT",
+    "courses": [
+      {
+        "name": "Barn",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6131,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6131,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5822,
+            "par": 71,
+            "rating": 68,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5822,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5128,
+            "par": 71,
+            "rating": 65,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5128,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afa43a30-86ac-11e4-8c28-020000005b00/the-barn-golf-club"
+  }
+}

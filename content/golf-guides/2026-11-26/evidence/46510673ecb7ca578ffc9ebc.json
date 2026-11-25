@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/82f6d970-86ac-11e4-8c28-020000005b00/cloverleaf-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/82f6d970-86ac-11e4-8c28-020000005b00/cloverleaf-golf-course",
+  "checked_at": 1795524523.2906191,
+  "sha256": "d3a9259b6211556d127085c4ea61973a330b3dbc44a7954b086acb17969ba342",
+  "title": "Cloverleaf Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "82f6d970-86ac-11e4-8c28-020000005b00",
+    "name": "Cloverleaf Golf Course",
+    "address": "3555 Fosterburg Rd, Alton, IL",
+    "courses": [
+      {
+        "name": "Cloverleaf",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5801,
+            "par": 70,
+            "rating": 66.8,
+            "slope": 113
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5801,
+            "par": 70,
+            "rating": 72.7,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5359,
+            "par": 70,
+            "rating": 64.2,
+            "slope": 108
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5359,
+            "par": 70,
+            "rating": 70.4,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4789,
+            "par": 70,
+            "rating": 66.7,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4789,
+            "par": 70,
+            "rating": 66.7,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/82f6d970-86ac-11e4-8c28-020000005b00/cloverleaf-golf-course"
+  }
+}

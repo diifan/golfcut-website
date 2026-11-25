@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a5eabb0-86ac-11e4-8c28-020000005b00/paradise-valley-par-3",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a5eabb0-86ac-11e4-8c28-020000005b00/paradise-valley-par-3",
+  "checked_at": 1795525008.7717578,
+  "sha256": "5bf1530e25557fee6540e4545bb0f3567f28d4c770815e923518cc367757ca02",
+  "title": "Paradise Valley Par 3 - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9a5eabb0-86ac-11e4-8c28-020000005b00",
+    "name": "Paradise Valley Par 3",
+    "address": "110 Barton Creek Dr, Charlotte, NC 28262",
+    "courses": [
+      {
+        "name": "Paradise Valley Par 3",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1264,
+            "par": 54,
+            "rating": 54.1,
+            "slope": 101
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1264,
+            "par": 54,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1264,
+            "par": 54,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1264,
+            "par": 54,
+            "rating": 55,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a5eabb0-86ac-11e4-8c28-020000005b00/paradise-valley-par-3"
+  }
+}

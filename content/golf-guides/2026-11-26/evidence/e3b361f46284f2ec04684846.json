@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8abc2340-86ac-11e4-8c28-020000005b00/los-amigos-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8abc2340-86ac-11e4-8c28-020000005b00/los-amigos-golf-course",
+  "checked_at": 1795524372.7360032,
+  "sha256": "564f26030e37cbdddcef52a8945273b332ede2b8f3e67cbc28da09890b39cf0b",
+  "title": "Los Amigos Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8abc2340-86ac-11e4-8c28-020000005b00",
+    "name": "Los Amigos Golf Course",
+    "address": "7295 Quill Dr, Downey, CA",
+    "courses": [
+      {
+        "name": "Los Amigos",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6212,
+            "par": 71,
+            "rating": 68.7,
+            "slope": 118
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6212,
+            "par": 71,
+            "rating": 74.9,
+            "slope": 126
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5890,
+            "par": 71,
+            "rating": 67.5,
+            "slope": 115
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5890,
+            "par": 71,
+            "rating": 72.9,
+            "slope": 125
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 5558,
+            "par": 71,
+            "rating": 66.2,
+            "slope": 110
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 5558,
+            "par": 71,
+            "rating": 71.1,
+            "slope": 121
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 4050,
+            "par": 71,
+            "rating": 59.3,
+            "slope": 97
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 4050,
+            "par": 71,
+            "rating": 63.3,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8abc2340-86ac-11e4-8c28-020000005b00/los-amigos-golf-course"
+  }
+}

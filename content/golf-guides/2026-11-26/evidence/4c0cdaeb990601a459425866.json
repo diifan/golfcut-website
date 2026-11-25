@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9408a950-86ac-11e4-8c28-020000005b00/owl-creek-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9408a950-86ac-11e4-8c28-020000005b00/owl-creek-country-club",
+  "checked_at": 1795524577.118836,
+  "sha256": "bbe9b3465cd23e9de1fd767d52ddb1e08d582c5fc01247ed43989cc290860e5f",
+  "title": "Owl Creek Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9408a950-86ac-11e4-8c28-020000005b00",
+    "name": "Owl Creek Country Club",
+    "address": "12400 Osage Rd, Anchorage, KY",
+    "courses": [
+      {
+        "name": "Owl Creek",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 3055,
+            "par": 35,
+            "rating": 35.6,
+            "slope": 127
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 3055,
+            "par": 36,
+            "rating": 37.2,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9408a950-86ac-11e4-8c28-020000005b00/owl-creek-country-club"
+  }
+}

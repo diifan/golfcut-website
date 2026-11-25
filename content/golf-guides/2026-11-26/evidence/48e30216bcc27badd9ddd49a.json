@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b82029d0-86ac-11e4-8c28-020000005b00/sierra-hills-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b82029d0-86ac-11e4-8c28-020000005b00/sierra-hills-golf-club",
+  "checked_at": 1795524483.9543557,
+  "sha256": "81910203cfba88c10b6444fe115280d0f58cabe40c5af5e0f37ca9aedb8818d5",
+  "title": "Sierra Hills Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b82029d0-86ac-11e4-8c28-020000005b00",
+    "name": "Sierra Hills Golf Club",
+    "address": "13420 E Pawnee St, Wichita, KS",
+    "courses": [
+      {
+        "name": "Sierra Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3130,
+            "par": 58,
+            "rating": 57.5,
+            "slope": 90
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3130,
+            "par": 58,
+            "rating": 58.1,
+            "slope": 94
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2870,
+            "par": 58,
+            "rating": 53.5,
+            "slope": 80
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2870,
+            "par": 58,
+            "rating": 55.9,
+            "slope": 89
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2360,
+            "par": 58,
+            "rating": 51.1,
+            "slope": 74
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2360,
+            "par": 58,
+            "rating": 52.9,
+            "slope": 75
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b82029d0-86ac-11e4-8c28-020000005b00/sierra-hills-golf-club"
+  }
+}

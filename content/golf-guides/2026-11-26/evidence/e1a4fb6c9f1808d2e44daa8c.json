@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/93b9e3a0-9040-11e8-a600-0680a328ea36/par-tee-golf-center",
+  "resolved_url": "https://18birdies.com/golf-courses/club/93b9e3a0-9040-11e8-a600-0680a328ea36/par-tee-golf-center",
+  "checked_at": 1795524606.9301436,
+  "sha256": "f78671111d00b4ee2e73aa784fd2e59daa7da88a865be6b846663f4f817bde22",
+  "title": "Par Tee Golf Center - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "93b9e3a0-9040-11e8-a600-0680a328ea36",
+    "name": "Par Tee Golf Center",
+    "address": "3209 Charleston Highway - West Columbia, SC 29172",
+    "courses": [
+      {
+        "name": "Par Tee ",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Red/White/Blue",
+            "category": "MALE",
+            "yards": 844,
+            "par": 27,
+            "rating": 25.65676,
+            "slope": 75.50808
+          },
+          {
+            "name": "Red/White/Blue",
+            "category": "FEMALE",
+            "yards": 844,
+            "par": 27,
+            "rating": 25.65676,
+            "slope": 75.50808
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/93b9e3a0-9040-11e8-a600-0680a328ea36/par-tee-golf-center"
+  }
+}

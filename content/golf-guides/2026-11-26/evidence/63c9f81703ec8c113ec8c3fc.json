@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b51cd4e0-86ac-11e4-8c28-020000005b00/missing-links-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b51cd4e0-86ac-11e4-8c28-020000005b00/missing-links-golf-course",
+  "checked_at": 1795524564.3483248,
+  "sha256": "89ea65c9ef5ef9f2d5b8980a7d10cc9bfec9ed510d2d3fdb3c4f2e6b050f5486",
+  "title": "Missing Links Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b51cd4e0-86ac-11e4-8c28-020000005b00",
+    "name": "Missing Links Golf Course",
+    "address": "12950 N Port Washington Rd",
+    "courses": [
+      {
+        "name": "Missing Links",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 1214,
+            "par": 27,
+            "rating": 26.95974,
+            "slope": 80.76592
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 1214,
+            "par": 27,
+            "rating": 26.95974,
+            "slope": 80.76592
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1131,
+            "par": 27,
+            "rating": 26.95066,
+            "slope": 80.72928
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1131,
+            "par": 27,
+            "rating": 26.95066,
+            "slope": 80.72928
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 926,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 926,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b51cd4e0-86ac-11e4-8c28-020000005b00/missing-links-golf-course"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b7402a10-86ac-11e4-8c28-020000005b00/pine-knolls-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b7402a10-86ac-11e4-8c28-020000005b00/pine-knolls-country-club",
+  "checked_at": 1795583829.3053634,
+  "sha256": "0c6e1234478a8657b006f9bba460c8bf053ef8c644266dd1fa6516bb5179abb1",
+  "title": "Pine Knolls Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b7402a10-86ac-11e4-8c28-020000005b00",
+    "name": "Pine Knolls Country Club",
+    "address": "1202 S Attica Rd., Knoxville, IA",
+    "courses": [
+      {
+        "name": "9 Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2898,
+            "par": 35,
+            "rating": 34.2,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2898,
+            "par": 37,
+            "rating": 37.4,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2485,
+            "par": 35,
+            "rating": 32.4,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2485,
+            "par": 37,
+            "rating": 34.7,
+            "slope": 121
+          }
+        ]
+      },
+      {
+        "name": "18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5796,
+            "par": 70,
+            "rating": 68.4,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5796,
+            "par": 74,
+            "rating": 74.8,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4970,
+            "par": 70,
+            "rating": 64.8,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4970,
+            "par": 74,
+            "rating": 69.4,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b7402a10-86ac-11e4-8c28-020000005b00/pine-knolls-country-club"
+  }
+}

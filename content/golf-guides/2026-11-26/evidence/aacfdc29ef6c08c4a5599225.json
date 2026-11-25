@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b900ece0-86ac-11e4-8c28-020000005b00/ko-olau",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b900ece0-86ac-11e4-8c28-020000005b00/ko-olau",
+  "checked_at": 1795582897.3635087,
+  "sha256": "df0c3b472577243897b63af24a88a741b15f6e327f5f8ec265f4a852ac2dd853",
+  "title": "Ko'Olau Golf Club (Koolau) - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b900ece0-86ac-11e4-8c28-020000005b00",
+    "name": "Ko'Olau Golf Club (Koolau)",
+    "address": "45-550 Kionaole Road, Kaneohe, HI",
+    "courses": [
+      {
+        "name": "Ko'Olau",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7310,
+            "par": 72,
+            "rating": 78.2,
+            "slope": 153
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6797,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 150
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6406,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 141
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5735,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5102,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b900ece0-86ac-11e4-8c28-020000005b00/ko-olau"
+  }
+}

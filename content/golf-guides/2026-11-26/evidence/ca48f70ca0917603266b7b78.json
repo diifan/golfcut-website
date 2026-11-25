@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3c4e600-86ac-11e4-8c28-020000005b00/giant-oak-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3c4e600-86ac-11e4-8c28-020000005b00/giant-oak-golf-club",
+  "checked_at": 1795583772.0844657,
+  "sha256": "1e5850ee7253cbb6bf8c9cbd7b9119f83eceb7d912d3e39c34fb3b171c9e8f31",
+  "title": "Giant Oak Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b3c4e600-86ac-11e4-8c28-020000005b00",
+    "name": "Giant Oak Golf Club",
+    "address": "1024 Valetta Dr",
+    "courses": [
+      {
+        "name": "18 Hole Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5975,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5975,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6415,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6415,
+            "par": 72,
+            "rating": 76,
+            "slope": 134
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4994,
+            "par": 72,
+            "rating": 63.4,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4994,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 109
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4994,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4994,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 118
+          }
+        ]
+      },
+      {
+        "name": "9 Hole Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1464,
+            "par": 29,
+            "rating": 67.8,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1464,
+            "par": 29,
+            "rating": 28.47156,
+            "slope": 86.86648
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1143,
+            "par": 29,
+            "rating": 68.6,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1143,
+            "par": 29,
+            "rating": 27.01422,
+            "slope": 80.98576
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3c4e600-86ac-11e4-8c28-020000005b00/giant-oak-golf-club"
+  }
+}

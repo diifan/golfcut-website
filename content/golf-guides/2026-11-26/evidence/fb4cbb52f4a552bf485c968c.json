@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af8dcc00-86ac-11e4-8c28-020000005b00/birch-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af8dcc00-86ac-11e4-8c28-020000005b00/birch-creek-golf-course",
+  "checked_at": 1795524482.591083,
+  "sha256": "7181ca16c02d51111303088e98acd89f98f4c672227d70ce422abbeb09bee7c8",
+  "title": "Birch Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af8dcc00-86ac-11e4-8c28-020000005b00",
+    "name": "Birch Creek Golf Course",
+    "address": "550 E. 100 N.",
+    "courses": [
+      {
+        "name": "Birch Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6824,
+            "par": 72,
+            "rating": 73,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6824,
+            "par": 72,
+            "rating": 78.2,
+            "slope": 147
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6503,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6503,
+            "par": 72,
+            "rating": 76.3,
+            "slope": 142
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5291,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 114
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5291,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4421,
+            "par": 72,
+            "rating": 63.1,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4421,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af8dcc00-86ac-11e4-8c28-020000005b00/birch-creek-golf-course"
+  }
+}

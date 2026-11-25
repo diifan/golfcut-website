@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0b004e0-86ac-11e4-8c28-020000005b00/three-lakes-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0b004e0-86ac-11e4-8c28-020000005b00/three-lakes-golf-club",
+  "checked_at": 1795525006.3142958,
+  "sha256": "388c6c0999ffe340cf2ac8613890179e536aab4cb25c981d75a70235bc1ecf97",
+  "title": "Three Lakes Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b0b004e0-86ac-11e4-8c28-020000005b00",
+    "name": "Three Lakes Golf Club",
+    "address": "2695 Golf Dr",
+    "courses": [
+      {
+        "name": "Three Lakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5378,
+            "par": 69,
+            "rating": 66.1,
+            "slope": 118
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5378,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5175,
+            "par": 69,
+            "rating": 65.1,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5175,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0b004e0-86ac-11e4-8c28-020000005b00/three-lakes-golf-club"
+  }
+}

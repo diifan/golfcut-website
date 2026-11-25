@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99d02750-86ac-11e4-8c28-020000005b00/skaneateles-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99d02750-86ac-11e4-8c28-020000005b00/skaneateles-country-club",
+  "checked_at": 1795524528.3648212,
+  "sha256": "67dffefedcb2ddb35ea2c6af78457ee5ac0d4c6ab0813837742449b072dc4231",
+  "title": "Skaneateles Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99d02750-86ac-11e4-8c28-020000005b00",
+    "name": "Skaneateles Country Club",
+    "address": "Westlake Rd",
+    "courses": [
+      {
+        "name": "Skaneateles",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6471,
+            "par": 71,
+            "rating": 72.2,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6146,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5334,
+            "par": 71,
+            "rating": 66.1,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5045,
+            "par": 71,
+            "rating": 64.1,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99d02750-86ac-11e4-8c28-020000005b00/skaneateles-country-club"
+  }
+}

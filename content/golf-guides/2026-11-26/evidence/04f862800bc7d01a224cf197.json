@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae644020-86ac-11e4-8c28-020000005b00/santee-national-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae644020-86ac-11e4-8c28-020000005b00/santee-national-golf-course",
+  "checked_at": 1795582857.6460023,
+  "sha256": "1e21566209a874fb8e78a9512b00e241dd46de73a2a252f5fc4d1d592032de61",
+  "title": "Santee National Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae644020-86ac-11e4-8c28-020000005b00",
+    "name": "Santee National Golf Course",
+    "address": "8636 Hwy 6 W",
+    "courses": [
+      {
+        "name": "Santee National",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6858,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6125,
+            "par": 72,
+            "rating": 70,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5415,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4748,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae644020-86ac-11e4-8c28-020000005b00/santee-national-golf-course"
+  }
+}

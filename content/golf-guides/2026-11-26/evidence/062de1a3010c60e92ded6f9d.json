@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96820dc0-86ac-11e4-8c28-020000005b00/arbor-pointe-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96820dc0-86ac-11e4-8c28-020000005b00/arbor-pointe-golf-club",
+  "checked_at": 1795524730.1480896,
+  "sha256": "9972e898c6776c4200d6f72aed83aaeada9e0cfdd80b929fdd0b7a65ccf12ed4",
+  "title": "Arbor Pointe Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96820dc0-86ac-11e4-8c28-020000005b00",
+    "name": "Arbor Pointe Golf Club",
+    "address": "8919 Cahill Ave E,Inver Grove Heights",
+    "courses": [
+      {
+        "name": "Arbor Pointe",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4158,
+            "par": 62,
+            "rating": 60.6,
+            "slope": 105
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4158,
+            "par": 62,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3790,
+            "par": 62,
+            "rating": 59.6,
+            "slope": 103
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3790,
+            "par": 62,
+            "rating": 62.2,
+            "slope": 100
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3000,
+            "par": 62,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3000,
+            "par": 62,
+            "rating": 57.6,
+            "slope": 92
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96820dc0-86ac-11e4-8c28-020000005b00/arbor-pointe-golf-club"
+  }
+}

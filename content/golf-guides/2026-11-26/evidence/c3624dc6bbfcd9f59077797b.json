@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98bd57c0-86ac-11e4-8c28-020000005b00/greenwood-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98bd57c0-86ac-11e4-8c28-020000005b00/greenwood-golf-course",
+  "checked_at": 1795524685.5698063,
+  "sha256": "43f1ced38be1fbfd65bf880c3bd8343c446c24d63a9df3f7ac9254df9e55bb9b",
+  "title": "Greenwood Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "98bd57c0-86ac-11e4-8c28-020000005b00",
+    "name": "Greenwood Golf Course",
+    "address": "8499 Northfield Rd, Clarence Center, NY",
+    "courses": [
+      {
+        "name": "Greenwood Golf Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3238,
+            "par": 36,
+            "rating": 37.2,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3238,
+            "par": 36,
+            "rating": 38.2,
+            "slope": 129
+          },
+          {
+            "name": "Red/Gold",
+            "category": "MALE",
+            "yards": 2740,
+            "par": 36,
+            "rating": 34.9,
+            "slope": 113
+          },
+          {
+            "name": "Red/Gold",
+            "category": "FEMALE",
+            "yards": 2740,
+            "par": 36,
+            "rating": 35.5,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98bd57c0-86ac-11e4-8c28-020000005b00/greenwood-golf-course"
+  }
+}

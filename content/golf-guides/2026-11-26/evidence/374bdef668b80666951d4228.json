@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99672c50-86ac-11e4-8c28-020000005b00/stony-ford-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99672c50-86ac-11e4-8c28-020000005b00/stony-ford-golf-course",
+  "checked_at": 1795583797.2793381,
+  "sha256": "d9cede54391718b849f9a1ac5f21300d1fb01f346480cdf60799f3b5564bc024",
+  "title": "Stony Ford Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99672c50-86ac-11e4-8c28-020000005b00",
+    "name": "Stony Ford Golf Course",
+    "address": "211 Route 416",
+    "courses": [
+      {
+        "name": "Stony Ford",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6651,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6651,
+            "par": 73,
+            "rating": 77.3,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6148,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6148,
+            "par": 73,
+            "rating": 75.2,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5856,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5856,
+            "par": 73,
+            "rating": 73.3,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99672c50-86ac-11e4-8c28-020000005b00/stony-ford-golf-course"
+  }
+}

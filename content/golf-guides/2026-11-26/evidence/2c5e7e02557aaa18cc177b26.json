@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/5a6c3230-5faa-11e9-9584-0680a328ea36/sand-hill-farm-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/5a6c3230-5faa-11e9-9584-0680a328ea36/sand-hill-farm-golf-course",
+  "checked_at": 1795582842.4105713,
+  "sha256": "e7ca3723d030e65daa612f135cdf1fb72360cf2857b77764530603f0ceabaeae",
+  "title": "Sand Hill Farm Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "5a6c3230-5faa-11e9-9584-0680a328ea36",
+    "name": "Sand Hill Farm Golf Course",
+    "address": "14812 Mathis Rd, Waller, TX",
+    "courses": [
+      {
+        "name": "Sand Hill Farms",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7376,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 133
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7376,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6756,
+            "par": 72,
+            "rating": 72,
+            "slope": 131
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 6756,
+            "par": 72,
+            "rating": 78.4,
+            "slope": 141
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6304,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6304,
+            "par": 72,
+            "rating": 76,
+            "slope": 137
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5274,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 119
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5274,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 131
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/5a6c3230-5faa-11e9-9584-0680a328ea36/sand-hill-farm-golf-course"
+  }
+}

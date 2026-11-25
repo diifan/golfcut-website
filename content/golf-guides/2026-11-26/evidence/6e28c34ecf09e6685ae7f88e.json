@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2de2f80-86ac-11e4-8c28-020000005b00/inkster-valley-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2de2f80-86ac-11e4-8c28-020000005b00/inkster-valley-golf-course",
+  "checked_at": 1795524766.9454477,
+  "sha256": "a287be3c542d9c8b34ee7678e8da0c569d7a5d0a2ae0840f48a456af9e05df7e",
+  "title": "Inkster Valley Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b2de2f80-86ac-11e4-8c28-020000005b00",
+    "name": "Inkster Valley Golf Course",
+    "address": "2150 Middlebelt",
+    "courses": [
+      {
+        "name": "Inkster Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6709,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 130
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6709,
+            "par": 72,
+            "rating": 77.6,
+            "slope": 138
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6100,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 125
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6100,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 131
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5351,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 112
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5351,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 130
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 4500,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 4500,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2de2f80-86ac-11e4-8c28-020000005b00/inkster-valley-golf-course"
+  }
+}

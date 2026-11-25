@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8f5e3410-86ac-11e4-8c28-020000005b00/meadow-oaks-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8f5e3410-86ac-11e4-8c28-020000005b00/meadow-oaks-golf-country-club",
+  "checked_at": 1795524900.5368102,
+  "sha256": "735abc5c715b85770e8a4599191dfee3f5778aa84a7d4b68ef95905503962af1",
+  "title": "Meadow Oaks Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8f5e3410-86ac-11e4-8c28-020000005b00",
+    "name": "Meadow Oaks Golf & Country Club",
+    "address": "13125 Fairwinds Road, Hudson, FL",
+    "courses": [
+      {
+        "name": "Meadow Oaks",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6031,
+            "par": 70,
+            "rating": 65.9,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6031,
+            "par": 70,
+            "rating": 74,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5487,
+            "par": 70,
+            "rating": 63.4,
+            "slope": 111
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5487,
+            "par": 70,
+            "rating": 67.5,
+            "slope": 122
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4566,
+            "par": 70,
+            "rating": 60.5,
+            "slope": 105
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4566,
+            "par": 70,
+            "rating": 61.1,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8f5e3410-86ac-11e4-8c28-020000005b00/meadow-oaks-golf-country-club"
+  }
+}

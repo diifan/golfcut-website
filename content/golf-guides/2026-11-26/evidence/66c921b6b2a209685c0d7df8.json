@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8f82fa20-86ac-11e4-8c28-020000005b00/oriole-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8f82fa20-86ac-11e4-8c28-020000005b00/oriole-golf-club",
+  "checked_at": 1795583788.5767508,
+  "sha256": "41d64778fd7fe5d4d571a6b23719a9c777280978fb446c90732a123a28eb0d18",
+  "title": "Oriole Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8f82fa20-86ac-11e4-8c28-020000005b00",
+    "name": "Oriole Golf Club",
+    "address": "8000 West Margate Boulevard",
+    "courses": [
+      {
+        "name": "Oriole",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6070,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6070,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6418,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6418,
+            "par": 72,
+            "rating": 76,
+            "slope": 135
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4875,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4875,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 110
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5696,
+            "par": 72,
+            "rating": 63.9,
+            "slope": 104
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5696,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8f82fa20-86ac-11e4-8c28-020000005b00/oriole-golf-club"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83edbc90-86ac-11e4-8c28-020000005b00/timber-pointe",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83edbc90-86ac-11e4-8c28-020000005b00/timber-pointe",
+  "checked_at": 1795524695.6911612,
+  "sha256": "418ecc530839608904d2bff1cf4ebf207f4c98aa0f2dc2e11ff8bc67dc82e76a",
+  "title": "Timber Pointe - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "83edbc90-86ac-11e4-8c28-020000005b00",
+    "name": "Timber Pointe",
+    "address": "5750 Woodstock Rd, Poplar Grove, IL",
+    "courses": [
+      {
+        "name": "Timber Pointe",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7077,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6642,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6057,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5550,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 120
+          },
+          {
+            "name": "Purple",
+            "category": "MALE",
+            "yards": 4955,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83edbc90-86ac-11e4-8c28-020000005b00/timber-pointe"
+  }
+}

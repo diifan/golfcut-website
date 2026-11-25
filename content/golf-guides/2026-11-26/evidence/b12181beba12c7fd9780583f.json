@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8f63b250-86ac-11e4-8c28-020000005b00/blue-cypress-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8f63b250-86ac-11e4-8c28-020000005b00/blue-cypress-golf-club",
+  "checked_at": 1795524466.1797118,
+  "sha256": "130d5345fa2a5b9cbe817b4de199dd4b3714d01262304896d7af8eb95594d4b7",
+  "title": "Blue Cypress Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8f63b250-86ac-11e4-8c28-020000005b00",
+    "name": "Blue Cypress Golf Club",
+    "address": "4012-5 University Blvd N, Jacksonville, FL",
+    "courses": [
+      {
+        "name": "Blue Cypress",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6485,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 109
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6485,
+            "par": 72,
+            "rating": 76.4,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5910,
+            "par": 72,
+            "rating": 64.8,
+            "slope": 98
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5910,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5214,
+            "par": 72,
+            "rating": 63.2,
+            "slope": 95
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5214,
+            "par": 72,
+            "rating": 68,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4172,
+            "par": 72,
+            "rating": 63.9,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4172,
+            "par": 72,
+            "rating": 62.2,
+            "slope": 98
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8f63b250-86ac-11e4-8c28-020000005b00/blue-cypress-golf-club"
+  }
+}

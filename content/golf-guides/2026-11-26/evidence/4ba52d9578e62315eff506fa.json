@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95969c50-86ac-11e4-8c28-020000005b00/hatherly-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95969c50-86ac-11e4-8c28-020000005b00/hatherly-golf-club",
+  "checked_at": 1795524596.061498,
+  "sha256": "37ce0212bbc4d4f21dbed3c7450b1787b6e387ba268666e4a81cddb38805c1f9",
+  "title": "Hatherly Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95969c50-86ac-11e4-8c28-020000005b00",
+    "name": "Hatherly Golf Club",
+    "address": "663 Hatherly Rd, North Scituate, MA",
+    "courses": [
+      {
+        "name": "Hatherly",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6185,
+            "par": 70,
+            "rating": 70.2,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6185,
+            "par": 71,
+            "rating": 76.4,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6019,
+            "par": 70,
+            "rating": 67.7,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6019,
+            "par": 71,
+            "rating": 74,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5378,
+            "par": 70,
+            "rating": 66.5,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5378,
+            "par": 71,
+            "rating": 71.9,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95969c50-86ac-11e4-8c28-020000005b00/hatherly-golf-club"
+  }
+}

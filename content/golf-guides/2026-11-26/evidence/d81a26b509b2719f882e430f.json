@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6ca5dd0-86ac-11e4-8c28-020000005b00/canyon-springs-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6ca5dd0-86ac-11e4-8c28-020000005b00/canyon-springs-golf-course",
+  "checked_at": 1795524904.0990047,
+  "sha256": "4d36af0a9dd93bae9d558e1017ffe6e411581e2092cd5f0fdfee75bd14e68dfc",
+  "title": "Canyon Springs Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6ca5dd0-86ac-11e4-8c28-020000005b00",
+    "name": "Canyon Springs Golf Course",
+    "address": "199 Canyon Springs Rd, Twin Falls, ID",
+    "courses": [
+      {
+        "name": "Canyon Springs",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6769,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 122
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6769,
+            "par": 74,
+            "rating": 77.9,
+            "slope": 139
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6464,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 115
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6464,
+            "par": 74,
+            "rating": 74.8,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6028,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 106
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6028,
+            "par": 74,
+            "rating": 72.6,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5172,
+            "par": 72,
+            "rating": 63.2,
+            "slope": 95
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5172,
+            "par": 74,
+            "rating": 68.4,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6ca5dd0-86ac-11e4-8c28-020000005b00/canyon-springs-golf-course"
+  }
+}

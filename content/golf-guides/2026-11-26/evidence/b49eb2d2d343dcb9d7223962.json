@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b46cbec0-86ac-11e4-8c28-020000005b00/indianhead-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b46cbec0-86ac-11e4-8c28-020000005b00/indianhead-golf-club",
+  "checked_at": 1795524588.8799322,
+  "sha256": "454a073efc2e2a5555ff724d9ce92d5d01ce0a2cf6d2e8ca6a480354de9b317d",
+  "title": "Indianhead Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b46cbec0-86ac-11e4-8c28-020000005b00",
+    "name": "Indianhead Golf Club",
+    "address": "4100 W Husker Hwy, Grand Island, NE",
+    "courses": [
+      {
+        "name": "Indianhead",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 6607,
+            "par": 72,
+            "rating": 72,
+            "slope": 120
+          },
+          {
+            "name": "Club",
+            "category": "MALE",
+            "yards": 6371,
+            "par": 72,
+            "rating": 71,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5752,
+            "par": 72,
+            "rating": 68,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5637,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b46cbec0-86ac-11e4-8c28-020000005b00/indianhead-golf-club"
+  }
+}

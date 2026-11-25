@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99f64cf0-86ac-11e4-8c28-020000005b00/osiris-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99f64cf0-86ac-11e4-8c28-020000005b00/osiris-country-club",
+  "checked_at": 1795524757.2377505,
+  "sha256": "bdf4cfb39a22796a8f7ca1af953a86259a15b6d865b9dc6dcecaf91318031658",
+  "title": "Osiris Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99f64cf0-86ac-11e4-8c28-020000005b00",
+    "name": "Osiris Country Club",
+    "address": "Lake Osiris Road, Walden, NY",
+    "courses": [
+      {
+        "name": "Osiris",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6491,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6491,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6056,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6056,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5454,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5454,
+            "par": 72,
+            "rating": 72,
+            "slope": 126
+          },
+          {
+            "name": "Red/Gold",
+            "category": "MALE",
+            "yards": 5454,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 121
+          },
+          {
+            "name": "Red/Gold",
+            "category": "FEMALE",
+            "yards": 5454,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99f64cf0-86ac-11e4-8c28-020000005b00/osiris-country-club"
+  }
+}

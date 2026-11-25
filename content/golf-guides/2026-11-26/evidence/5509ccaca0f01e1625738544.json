@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5e55500-86ac-11e4-8c28-020000005b00/fox-lake",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5e55500-86ac-11e4-8c28-020000005b00/fox-lake",
+  "checked_at": 1795524509.2514603,
+  "sha256": "afad6bd2071352f992fcfcb30c28bde2931b0a09ea718960d005add3fa9628ff",
+  "title": "Fox Lake - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b5e55500-86ac-11e4-8c28-020000005b00",
+    "name": "Fox Lake",
+    "address": "N10500 Indian Point Rd., Fox Lake, WI",
+    "courses": [
+      {
+        "name": "Fox Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6524,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6524,
+            "par": 72,
+            "rating": 76.6,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5939,
+            "par": 72,
+            "rating": 68,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5939,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5022,
+            "par": 72,
+            "rating": 63.3,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5022,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5e55500-86ac-11e4-8c28-020000005b00/fox-lake"
+  }
+}

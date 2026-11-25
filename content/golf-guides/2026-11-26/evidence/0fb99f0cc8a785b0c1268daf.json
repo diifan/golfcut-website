@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95ed20c0-86ac-11e4-8c28-020000005b00/tatnuck-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95ed20c0-86ac-11e4-8c28-020000005b00/tatnuck-country-club",
+  "checked_at": 1795524701.2105193,
+  "sha256": "0ff94494169a53be51b715adba81eecd8364edb955e4e85a08a49d2c7a149f4b",
+  "title": "Tatnuck Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95ed20c0-86ac-11e4-8c28-020000005b00",
+    "name": "Tatnuck Country Club",
+    "address": "1222 Pleasant St., Worcester, Massachusetts",
+    "courses": [
+      {
+        "name": "Tatnuck",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 6162,
+            "par": 70,
+            "rating": 69.7,
+            "slope": 122
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 6162,
+            "par": 73,
+            "rating": 74,
+            "slope": 127
+          },
+          {
+            "name": "Green/Gold",
+            "category": "MALE",
+            "yards": 5537,
+            "par": 70,
+            "rating": 68.8,
+            "slope": 120
+          },
+          {
+            "name": "Green/Gold",
+            "category": "FEMALE",
+            "yards": 5537,
+            "par": 73,
+            "rating": 70.6,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95ed20c0-86ac-11e4-8c28-020000005b00/tatnuck-country-club"
+  }
+}

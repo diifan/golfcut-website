@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/798a2130-86ac-11e4-8c28-020000005b00/green-acres-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/798a2130-86ac-11e4-8c28-020000005b00/green-acres-golf-course",
+  "checked_at": 1795524707.2118275,
+  "sha256": "3a5fdce0468109bb8aa8966f58ee2c2bf46bf629eab0e6d25d533823b45628ec",
+  "title": "Green Acres Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "798a2130-86ac-11e4-8c28-020000005b00",
+    "name": "Green Acres Golf Course",
+    "address": "10 miles E of Regina on Hwy 46",
+    "courses": [
+      {
+        "name": "Green Acres Golf Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Men",
+            "category": "MALE",
+            "yards": 3035,
+            "par": 36,
+            "rating": 36.3,
+            "slope": 118
+          },
+          {
+            "name": "Men",
+            "category": "FEMALE",
+            "yards": 3035,
+            "par": 36,
+            "rating": 37.1,
+            "slope": 126
+          },
+          {
+            "name": "Women",
+            "category": "MALE",
+            "yards": 2690,
+            "par": 36,
+            "rating": 34.7,
+            "slope": 112
+          },
+          {
+            "name": "Women",
+            "category": "FEMALE",
+            "yards": 2690,
+            "par": 36,
+            "rating": 35.3,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/798a2130-86ac-11e4-8c28-020000005b00/green-acres-golf-course"
+  }
+}

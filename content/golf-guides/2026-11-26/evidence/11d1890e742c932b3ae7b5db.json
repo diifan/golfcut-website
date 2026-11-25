@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae94c600-86ac-11e4-8c28-020000005b00/long-bay",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae94c600-86ac-11e4-8c28-020000005b00/long-bay",
+  "checked_at": 1795524759.496469,
+  "sha256": "3d205e8b69244514c2ed6021f73a9641cfea01e4eed9fac2cd996669d964c70d",
+  "title": "Long Bay Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae94c600-86ac-11e4-8c28-020000005b00",
+    "name": "Long Bay Club",
+    "address": "350 FoxTail Dr",
+    "courses": [
+      {
+        "name": "Long Bay",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7025,
+            "par": 72,
+            "rating": 74,
+            "slope": 142
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7025,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6593,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6593,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6209,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6209,
+            "par": 72,
+            "rating": 76.6,
+            "slope": 142
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5725,
+            "par": 72,
+            "rating": 68,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5725,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 135
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4944,
+            "par": 72,
+            "rating": 64.3,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4944,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae94c600-86ac-11e4-8c28-020000005b00/long-bay"
+  }
+}

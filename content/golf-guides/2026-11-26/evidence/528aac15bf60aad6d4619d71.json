@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/adf59fd0-86ac-11e4-8c28-020000005b00/old-south-golf-links",
+  "resolved_url": "https://18birdies.com/golf-courses/club/adf59fd0-86ac-11e4-8c28-020000005b00/old-south-golf-links",
+  "checked_at": 1795524625.3293052,
+  "sha256": "3a76884cfc9c6c60453ba0195d5392bfec20f4e3141baee2f40b2e36175d8a65",
+  "title": "Old South Golf Links - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "adf59fd0-86ac-11e4-8c28-020000005b00",
+    "name": "Old South Golf Links",
+    "address": "50 Buckingham Plantation Dr",
+    "courses": [
+      {
+        "name": "Old South",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6772,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 141
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6772,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6354,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6354,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5779,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5779,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 140
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5135,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 112
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5135,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4776,
+            "par": 72,
+            "rating": 63.6,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4776,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/adf59fd0-86ac-11e4-8c28-020000005b00/old-south-golf-links"
+  }
+}

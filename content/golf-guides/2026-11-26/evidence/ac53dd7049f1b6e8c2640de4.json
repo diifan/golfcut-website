@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/91440b10-86ac-11e4-8c28-020000005b00/woodward-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/91440b10-86ac-11e4-8c28-020000005b00/woodward-golf-country-club",
+  "checked_at": 1795524992.9890192,
+  "sha256": "66146663c5bcc7543eef51b0a12adea120167f8858736bf5c21d20596e71a041",
+  "title": "Woodward Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "91440b10-86ac-11e4-8c28-020000005b00",
+    "name": "Woodward Golf & Country Club",
+    "address": "2141 Wheel Dr",
+    "courses": [
+      {
+        "name": "Woodward",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6526,
+            "par": 71,
+            "rating": 70.7,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6076,
+            "par": 71,
+            "rating": 68.7,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5657,
+            "par": 71,
+            "rating": 66.6,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5180,
+            "par": 71,
+            "rating": 65.4,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/91440b10-86ac-11e4-8c28-020000005b00/woodward-golf-country-club"
+  }
+}

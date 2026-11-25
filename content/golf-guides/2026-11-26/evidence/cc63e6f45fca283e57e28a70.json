@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b42b48f0-86ac-11e4-8c28-020000005b00/timber-truss-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b42b48f0-86ac-11e4-8c28-020000005b00/timber-truss-golf-course",
+  "checked_at": 1795524644.8406723,
+  "sha256": "7cf66ea9f5fdee8beb8c77d6be69d49c40e7e0ea2cf1a5fc2db25a8be9ce9cb6",
+  "title": "Timber Truss Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b42b48f0-86ac-11e4-8c28-020000005b00",
+    "name": "Timber Truss Golf Course",
+    "address": "9425 Plantation Rd, Olive Branch, MS",
+    "courses": [
+      {
+        "name": "Timber Truss",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6773,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6773,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6178,
+            "par": 72,
+            "rating": 70,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6178,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5688,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5688,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5055,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5055,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b42b48f0-86ac-11e4-8c28-020000005b00/timber-truss-golf-course"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a3c1dd0-86ac-11e4-8c28-020000005b00/tahoe-city-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a3c1dd0-86ac-11e4-8c28-020000005b00/tahoe-city-golf-course",
+  "checked_at": 1795524383.422157,
+  "sha256": "12b081fdb74af3f0ae9f89555f17ecc45e45d1158936bc0da24cc42c9de3d36c",
+  "title": "Tahoe City Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a3c1dd0-86ac-11e4-8c28-020000005b00",
+    "name": "Tahoe City Golf Course",
+    "address": "251 N Lake Blvd",
+    "courses": [
+      {
+        "name": "Tahoe City(9 holes )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 2573,
+            "par": 33,
+            "rating": 32.4,
+            "slope": 117
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 2573,
+            "par": 33,
+            "rating": 34.7,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2281,
+            "par": 33,
+            "rating": 31.1,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2281,
+            "par": 33,
+            "rating": 33.2,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a3c1dd0-86ac-11e4-8c28-020000005b00/tahoe-city-golf-course"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ab27100-86ac-11e4-8c28-020000005b00/blair-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ab27100-86ac-11e4-8c28-020000005b00/blair-park-golf-course",
+  "checked_at": 1795524765.5016882,
+  "sha256": "369fc111e08fb12b43e2e771c68d00b0b27cf184408a98d7eb51c1bd70a455fb",
+  "title": "Blair Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9ab27100-86ac-11e4-8c28-020000005b00",
+    "name": "Blair Park Golf Course",
+    "address": "1901 S Main St, High Point, NC",
+    "courses": [
+      {
+        "name": "Blair Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6449,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 122
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 6449,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Men's",
+            "category": "MALE",
+            "yards": 6009,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 118
+          },
+          {
+            "name": "Men's",
+            "category": "FEMALE",
+            "yards": 6009,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Senior's",
+            "category": "MALE",
+            "yards": 5737,
+            "par": 72,
+            "rating": 68,
+            "slope": 116
+          },
+          {
+            "name": "Senior's",
+            "category": "FEMALE",
+            "yards": 5737,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 5110,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ladies",
+            "category": "FEMALE",
+            "yards": 5110,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ab27100-86ac-11e4-8c28-020000005b00/blair-park-golf-course"
+  }
+}

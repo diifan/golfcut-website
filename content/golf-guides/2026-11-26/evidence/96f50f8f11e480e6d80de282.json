@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c5cc5a0-86ac-11e4-8c28-020000005b00/north-olmsted-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c5cc5a0-86ac-11e4-8c28-020000005b00/north-olmsted-golf-club",
+  "checked_at": 1795525021.0070891,
+  "sha256": "05e305936824d4819d1b97a8fb3d37bbb613b0ec6cc1fa7b49526bc7a7f4ec40",
+  "title": "North Olmsted Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9c5cc5a0-86ac-11e4-8c28-020000005b00",
+    "name": "North Olmsted Golf Club",
+    "address": "5840 Canterbury Rd",
+    "courses": [
+      {
+        "name": "North Olmstead(9 holes )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1702,
+            "par": 30,
+            "rating": 28.5,
+            "slope": 86
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1702,
+            "par": 30,
+            "rating": 30,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1431,
+            "par": 30,
+            "rating": 28.32174,
+            "slope": 86.26192
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1431,
+            "par": 30,
+            "rating": 27.2,
+            "slope": 81
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c5cc5a0-86ac-11e4-8c28-020000005b00/north-olmsted-golf-club"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/72d4c0c0-86ac-11e4-8c28-020000005b00/shortland-waters-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/72d4c0c0-86ac-11e4-8c28-020000005b00/shortland-waters-golf-club",
+  "checked_at": 1795525012.4596622,
+  "sha256": "34867c838022cd7dc8844c7a0d475b3b0f62c5e94766504b9541557415d10d65",
+  "title": "Shortland Waters Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "72d4c0c0-86ac-11e4-8c28-020000005b00",
+    "name": "Shortland Waters Golf Club",
+    "address": "Vale St, Shortland NSW 2287, Australia",
+    "courses": [
+      {
+        "name": "Shortland Waters",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6382,
+            "par": 71,
+            "rating": 71,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6382,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5937,
+            "par": 71,
+            "rating": 70.8,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5937,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5111,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5111,
+            "par": 71,
+            "rating": 72.6,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/72d4c0c0-86ac-11e4-8c28-020000005b00/shortland-waters-golf-club"
+  }
+}

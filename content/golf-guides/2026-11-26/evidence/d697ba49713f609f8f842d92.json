@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5e8b060-86ac-11e4-8c28-020000005b00/black-stone-creek-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5e8b060-86ac-11e4-8c28-020000005b00/black-stone-creek-golf-club",
+  "checked_at": 1795525013.7214203,
+  "sha256": "d84eb5205d48360f84ad36021a41df5db7ebe96f10be45e219c89acc0f781334",
+  "title": "BlackStone Creek Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b5e8b060-86ac-11e4-8c28-020000005b00",
+    "name": "BlackStone Creek Golf Club",
+    "address": "N112 W17300 Mequon Road Germantown, Wisconsin 53022",
+    "courses": [
+      {
+        "name": "Blackstone Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6770,
+            "par": 71,
+            "rating": 73,
+            "slope": 129
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6770,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6313,
+            "par": 71,
+            "rating": 70.9,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6313,
+            "par": 71,
+            "rating": 76.4,
+            "slope": 132
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5515,
+            "par": 71,
+            "rating": 67.3,
+            "slope": 118
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5515,
+            "par": 71,
+            "rating": 72,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4953,
+            "par": 71,
+            "rating": 64.1,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4953,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5e8b060-86ac-11e4-8c28-020000005b00/black-stone-creek-golf-club"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b66e0d00-86ac-11e4-8c28-020000005b00/cherokee-hills-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b66e0d00-86ac-11e4-8c28-020000005b00/cherokee-hills-golf-club",
+  "checked_at": 1795582854.9183795,
+  "sha256": "f33446c9db981df1f4a9fd6739138369c1517195ec7be874eed5dcfc51623b62",
+  "title": "Cherokee Hills Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b66e0d00-86ac-11e4-8c28-020000005b00",
+    "name": "Cherokee Hills Golf Club",
+    "address": "777 West Cherokee Street",
+    "courses": [
+      {
+        "name": "Cherokee Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6855,
+            "par": 70,
+            "rating": 73.8,
+            "slope": 129
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6855,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6298,
+            "par": 70,
+            "rating": 71,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6298,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5849,
+            "par": 70,
+            "rating": 68.3,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5849,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5001,
+            "par": 70,
+            "rating": 65.5,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5001,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b66e0d00-86ac-11e4-8c28-020000005b00/cherokee-hills-golf-club"
+  }
+}

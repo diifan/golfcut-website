@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b286c0b0-86ac-11e4-8c28-020000005b00/willow-ridge-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b286c0b0-86ac-11e4-8c28-020000005b00/willow-ridge-golf-club",
+  "checked_at": 1795582854.5221906,
+  "sha256": "fc58fa5e2809bfac36757f32d40b406a77f7e06acde2c3814ef5ec1a9cffa3f5",
+  "title": "Willow Ridge Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b286c0b0-86ac-11e4-8c28-020000005b00",
+    "name": "Willow Ridge Golf Club",
+    "address": "3311 N River Rd",
+    "courses": [
+      {
+        "name": "Willow Ridge",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3024,
+            "par": 36,
+            "rating": 35.4,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3024,
+            "par": 36,
+            "rating": 35.9,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b286c0b0-86ac-11e4-8c28-020000005b00/willow-ridge-golf-club"
+  }
+}

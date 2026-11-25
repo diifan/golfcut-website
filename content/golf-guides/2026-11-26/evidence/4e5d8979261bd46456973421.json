@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/adbd78d0-86ac-11e4-8c28-020000005b00/edgewood-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/adbd78d0-86ac-11e4-8c28-020000005b00/edgewood-country-club",
+  "checked_at": 1795524755.0232089,
+  "sha256": "d461a20ed5930f8dd7c781a8101a95ce7c89a1781d2f113a06fe9ba57d4be7bf",
+  "title": "Edgewood Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "adbd78d0-86ac-11e4-8c28-020000005b00",
+    "name": "Edgewood Country Club",
+    "address": "100 Churchill Rd, Pittsburgh, PA",
+    "courses": [
+      {
+        "name": "Edgewood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6620,
+            "par": 71,
+            "rating": 72.5,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6620,
+            "par": 71,
+            "rating": 78.9,
+            "slope": 145
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6252,
+            "par": 71,
+            "rating": 71.1,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6252,
+            "par": 71,
+            "rating": 77.1,
+            "slope": 140
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5521,
+            "par": 71,
+            "rating": 68,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5521,
+            "par": 71,
+            "rating": 73.5,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5179,
+            "par": 71,
+            "rating": 66.7,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5179,
+            "par": 71,
+            "rating": 71.6,
+            "slope": 130
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/adbd78d0-86ac-11e4-8c28-020000005b00/edgewood-country-club"
+  }
+}

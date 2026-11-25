@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9cc96a20-86ac-11e4-8c28-020000005b00/twin-base",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9cc96a20-86ac-11e4-8c28-020000005b00/twin-base",
+  "checked_at": 1795524393.977462,
+  "sha256": "e0c1338aeaf1510744a5c0636ddd10a038680c2d7024f3152e232945c86b4739",
+  "title": "Twin Base - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9cc96a20-86ac-11e4-8c28-020000005b00",
+    "name": "Twin Base",
+    "address": "Bldg 893 Area A, Wright Patterson Afb, OH",
+    "courses": [
+      {
+        "name": "Twin Base",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6903,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6903,
+            "par": 72,
+            "rating": 78.6,
+            "slope": 140
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6418,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6418,
+            "par": 72,
+            "rating": 76,
+            "slope": 135
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5592,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 114
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5592,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5177,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5177,
+            "par": 72,
+            "rating": 69,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9cc96a20-86ac-11e4-8c28-020000005b00/twin-base"
+  }
+}

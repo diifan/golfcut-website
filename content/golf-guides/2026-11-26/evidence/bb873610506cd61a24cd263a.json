@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b297b0a0-86ac-11e4-8c28-020000005b00/gladstone-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b297b0a0-86ac-11e4-8c28-020000005b00/gladstone-golf-club",
+  "checked_at": 1795524755.9864748,
+  "sha256": "3f3b10e713baedc681745ac3dd7eea760082f137036ac5aca1c1fa9d8f0950d6",
+  "title": "Gladstone Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b297b0a0-86ac-11e4-8c28-020000005b00",
+    "name": "Gladstone Golf Club",
+    "address": "6514 Days River 24.5 Road, Gladstone, Michigan 49837",
+    "courses": [
+      {
+        "name": "Gladstone",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6344,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 127
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6003,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 124
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 5186,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b297b0a0-86ac-11e4-8c28-020000005b00/gladstone-golf-club"
+  }
+}

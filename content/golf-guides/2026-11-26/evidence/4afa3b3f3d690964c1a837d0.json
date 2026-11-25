@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98cdf990-86ac-11e4-8c28-020000005b00/hollow-brook",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98cdf990-86ac-11e4-8c28-020000005b00/hollow-brook",
+  "checked_at": 1795525002.401033,
+  "sha256": "73730ac987a00e981cc655ea6cf628e5d56554c4c3da110f03859b0bd5f52f78",
+  "title": "Hollow Brook - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "98cdf990-86ac-11e4-8c28-020000005b00",
+    "name": "Hollow Brook",
+    "address": "1060 Oregon Rd",
+    "courses": [
+      {
+        "name": "Hollow Brook",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6923,
+            "par": 71,
+            "rating": 74.2,
+            "slope": 146
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6577,
+            "par": 71,
+            "rating": 72,
+            "slope": 142
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6182,
+            "par": 71,
+            "rating": 70.1,
+            "slope": 137
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5583,
+            "par": 71,
+            "rating": 67.6,
+            "slope": 135
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4882,
+            "par": 71,
+            "rating": 65.9,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98cdf990-86ac-11e4-8c28-020000005b00/hollow-brook"
+  }
+}

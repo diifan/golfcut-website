@@ -1,0 +1,531 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/94846900-86ac-11e4-8c28-020000005b00/perry-park-golf-resort",
+  "resolved_url": "https://18birdies.com/golf-courses/club/94846900-86ac-11e4-8c28-020000005b00/perry-park-golf-resort",
+  "checked_at": 1795524717.5742843,
+  "sha256": "01b5f345f802fd440b10116f24181f3c92c0acfd4db6909acb4a31bf2d59d54e",
+  "title": "Perry Park Golf Resort - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "94846900-86ac-11e4-8c28-020000005b00",
+    "name": "Perry Park Golf Resort",
+    "address": "595 Springport Ferry Road, Perry Park, KY",
+    "courses": [
+      {
+        "name": "Antlers to Whitetail",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7089,
+            "par": 72,
+            "rating": 73,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7089,
+            "par": 72,
+            "rating": 79.4,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6693,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 123
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6693,
+            "par": 72,
+            "rating": 77.2,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6235,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6235,
+            "par": 72,
+            "rating": 75,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5392,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5392,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4123,
+            "par": 72,
+            "rating": 60.7,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4123,
+            "par": 72,
+            "rating": 62.9,
+            "slope": 105
+          }
+        ]
+      },
+      {
+        "name": "Whitetail to Buckskin",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7355,
+            "par": 73,
+            "rating": 74.4,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7355,
+            "par": 73,
+            "rating": 81.3,
+            "slope": 142
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6916,
+            "par": 73,
+            "rating": 72.4,
+            "slope": 126
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6916,
+            "par": 73,
+            "rating": 79,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6403,
+            "par": 73,
+            "rating": 70.6,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6403,
+            "par": 73,
+            "rating": 76.3,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5589,
+            "par": 73,
+            "rating": 66.6,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5589,
+            "par": 73,
+            "rating": 71.8,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4439,
+            "par": 73,
+            "rating": 61.9,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4439,
+            "par": 73,
+            "rating": 65.4,
+            "slope": 109
+          }
+        ]
+      },
+      {
+        "name": "Buckskin to Antlers",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7150,
+            "par": 73,
+            "rating": 73.6,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7150,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6743,
+            "par": 73,
+            "rating": 71.7,
+            "slope": 124
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6743,
+            "par": 73,
+            "rating": 77.8,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6346,
+            "par": 73,
+            "rating": 70.5,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6346,
+            "par": 73,
+            "rating": 76.1,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5493,
+            "par": 73,
+            "rating": 66.7,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5493,
+            "par": 73,
+            "rating": 71.9,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4374,
+            "par": 73,
+            "rating": 61.8,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4374,
+            "par": 73,
+            "rating": 64.9,
+            "slope": 110
+          }
+        ]
+      },
+      {
+        "name": "Antlers",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 3442,
+            "par": 36,
+            "rating": 36.3,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 3442,
+            "par": 36,
+            "rating": 39.4,
+            "slope": 136
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 3260,
+            "par": 36,
+            "rating": 35.2,
+            "slope": 121
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 3260,
+            "par": 36,
+            "rating": 38.4,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3089,
+            "par": 36,
+            "rating": 34.7,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3089,
+            "par": 36,
+            "rating": 37.4,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2648,
+            "par": 36,
+            "rating": 33.1,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2648,
+            "par": 36,
+            "rating": 35.5,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2029,
+            "par": 36,
+            "rating": 30.3,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2029,
+            "par": 36,
+            "rating": 31.2,
+            "slope": 105
+          }
+        ]
+      },
+      {
+        "name": "White Tail",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 3647,
+            "par": 36,
+            "rating": 36.7,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 3647,
+            "par": 36,
+            "rating": 40,
+            "slope": 138
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 3433,
+            "par": 36,
+            "rating": 35.9,
+            "slope": 124
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 3433,
+            "par": 36,
+            "rating": 38.8,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3146,
+            "par": 36,
+            "rating": 34.8,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3146,
+            "par": 36,
+            "rating": 37.6,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2744,
+            "par": 36,
+            "rating": 33,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2744,
+            "par": 36,
+            "rating": 35.4,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2094,
+            "par": 36,
+            "rating": 30.4,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2094,
+            "par": 36,
+            "rating": 31.7,
+            "slope": 104
+          }
+        ]
+      },
+      {
+        "name": "Buckskin",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 3708,
+            "par": 37,
+            "rating": 37.5,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 3708,
+            "par": 37,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 3483,
+            "par": 37,
+            "rating": 36.5,
+            "slope": 127
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 3483,
+            "par": 37,
+            "rating": 39.5,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3257,
+            "par": 37,
+            "rating": 35.8,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3257,
+            "par": 37,
+            "rating": 38.7,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2845,
+            "par": 37,
+            "rating": 33.6,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2845,
+            "par": 37,
+            "rating": 36.4,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2345,
+            "par": 37,
+            "rating": 31.5,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2345,
+            "par": 37,
+            "rating": 33.7,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/94846900-86ac-11e4-8c28-020000005b00/perry-park-golf-resort"
+  }
+}

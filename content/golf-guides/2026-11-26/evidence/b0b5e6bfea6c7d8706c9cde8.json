@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98e0e550-86ac-11e4-8c28-020000005b00/bay-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98e0e550-86ac-11e4-8c28-020000005b00/bay-park-golf-course",
+  "checked_at": 1795524643.4573631,
+  "sha256": "aac5105329fbfd36bf3112122e298a97a8cbf7ea3dc9c688ab0eafa55dcb5f72",
+  "title": "Bay Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "98e0e550-86ac-11e4-8c28-020000005b00",
+    "name": "Bay Park Golf Course",
+    "address": "1 1st Ave, East Rockaway, NY",
+    "courses": [
+      {
+        "name": "Bay Park (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1956,
+            "par": 30,
+            "rating": 30.1,
+            "slope": 106
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1956,
+            "par": 30,
+            "rating": 31.3,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1956,
+            "par": 30,
+            "rating": 31.4,
+            "slope": 99
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1956,
+            "par": 30,
+            "rating": 31.4,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98e0e550-86ac-11e4-8c28-020000005b00/bay-park-golf-course"
+  }
+}

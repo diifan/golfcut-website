@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/82ecc750-86ac-11e4-8c28-020000005b00/nickol-knoll-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/82ecc750-86ac-11e4-8c28-020000005b00/nickol-knoll-golf-club",
+  "checked_at": 1795524992.6106102,
+  "sha256": "6b832e7dcd40b3522130a3caa12de43ec3493026bf96f5844f84f5b5b4229bde",
+  "title": "Nickol Knoll Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "82ecc750-86ac-11e4-8c28-020000005b00",
+    "name": "Nickol Knoll Golf Club",
+    "address": "3800 N. Kennicott, Arlington Heights, IL",
+    "courses": [
+      {
+        "name": "Nickol Knoll",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 1163,
+            "par": 27,
+            "rating": 27.10502,
+            "slope": 81.35216
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 1013,
+            "par": 27,
+            "rating": 26.42402,
+            "slope": 78.60416
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 865,
+            "par": 27,
+            "rating": 25.7521,
+            "slope": 75.8928
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/82ecc750-86ac-11e4-8c28-020000005b00/nickol-knoll-golf-club"
+  }
+}

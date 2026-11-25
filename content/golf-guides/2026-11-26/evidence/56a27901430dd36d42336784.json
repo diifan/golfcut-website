@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/94a22a30-86ac-11e4-8c28-020000005b00/aj-jolly-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/94a22a30-86ac-11e4-8c28-020000005b00/aj-jolly-golf-course",
+  "checked_at": 1795524657.723792,
+  "sha256": "7b4069add67da9957fd84900a475c242692a8098b1f21d7b7f4337a24ab00ec4",
+  "title": "AJ Jolly Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "94a22a30-86ac-11e4-8c28-020000005b00",
+    "name": "AJ Jolly Golf Course",
+    "address": "11541 Alexandria Pike, Alexandria, KY",
+    "courses": [
+      {
+        "name": "AJ Jolly Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6235,
+            "par": 71,
+            "rating": 70,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6235,
+            "par": 71,
+            "rating": 75.1,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5835,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5835,
+            "par": 71,
+            "rating": 72.9,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5330,
+            "par": 71,
+            "rating": 65.6,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5330,
+            "par": 71,
+            "rating": 70.6,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/94a22a30-86ac-11e4-8c28-020000005b00/aj-jolly-golf-course"
+  }
+}

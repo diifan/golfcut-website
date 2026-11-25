@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4c4c9d0-86ac-11e4-8c28-020000005b00/highlands-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4c4c9d0-86ac-11e4-8c28-020000005b00/highlands-golf-club",
+  "checked_at": 1795524488.1275811,
+  "sha256": "226bac20f5a135bf2105004434ce6aaf20dd3f54a2ee28c52d8c4f2e6208b6d4",
+  "title": "Highlands Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b4c4c9d0-86ac-11e4-8c28-020000005b00",
+    "name": "Highlands Golf Club",
+    "address": "33260 Highlands Lane, Gearhart, OR",
+    "courses": [
+      {
+        "name": "Highlands ",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3588,
+            "par": 62,
+            "rating": 59,
+            "slope": 91
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3588,
+            "par": 62,
+            "rating": 61,
+            "slope": 95
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3588,
+            "par": 62,
+            "rating": 57,
+            "slope": 91
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3588,
+            "par": 62,
+            "rating": 58,
+            "slope": 94
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4c4c9d0-86ac-11e4-8c28-020000005b00/highlands-golf-club"
+  }
+}

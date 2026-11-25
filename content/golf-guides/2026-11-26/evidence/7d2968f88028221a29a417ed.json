@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/919893b0-86ac-11e4-8c28-020000005b00/livingston",
+  "resolved_url": "https://18birdies.com/golf-courses/club/919893b0-86ac-11e4-8c28-020000005b00/livingston",
+  "checked_at": 1795524524.9442778,
+  "sha256": "ca84c2ee51beeeb3b173352b5ed92fa50733c199e1c1d6d5e53339f9aeaf6ff7",
+  "title": "Livingston Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "919893b0-86ac-11e4-8c28-020000005b00",
+    "name": "Livingston Country Club",
+    "address": "105 Country Club Rd, Livingston, AL",
+    "courses": [
+      {
+        "name": "Livingston Country Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Mens",
+            "category": "MALE",
+            "yards": 6319,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 120
+          },
+          {
+            "name": "Mens",
+            "category": "FEMALE",
+            "yards": 6319,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 5089,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ladies",
+            "category": "FEMALE",
+            "yards": 5089,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/919893b0-86ac-11e4-8c28-020000005b00/livingston"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b0b1850-86ac-11e4-8c28-020000005b00/siler-city-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b0b1850-86ac-11e4-8c28-020000005b00/siler-city-country-club",
+  "checked_at": 1795524711.3798203,
+  "sha256": "97cbe5780e52f74d19ab453b636366d885d1b97a56d24db476e9db392d965f33",
+  "title": "Siler City Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9b0b1850-86ac-11e4-8c28-020000005b00",
+    "name": "Siler City Country Club",
+    "address": "150 Country Club Dr., Siler City, NC",
+    "courses": [
+      {
+        "name": "Siler City",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6662,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6038,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5243,
+            "par": 72,
+            "rating": 64.7,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4963,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b0b1850-86ac-11e4-8c28-020000005b00/siler-city-country-club"
+  }
+}

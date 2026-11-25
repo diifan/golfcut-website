@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d773650-86ac-11e4-8c28-020000005b00/abington-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d773650-86ac-11e4-8c28-020000005b00/abington-country-club",
+  "checked_at": 1795524682.485641,
+  "sha256": "06828248b019f0e8b635407bd345f2c0c01c5bc8508c518e12994df89cdfd161",
+  "title": "Abington Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star-o star star-o star-o star star star-o star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "9d773650-86ac-11e4-8c28-020000005b00",
+    "name": "Abington Country Club",
+    "address": "300 Meetinghouse Rd, Jenkintown, PA",
+    "courses": [
+      {
+        "name": "9 Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2112,
+            "par": 31,
+            "rating": 31.1,
+            "slope": 108
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2112,
+            "par": 31,
+            "rating": 33.1,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1899,
+            "par": 31,
+            "rating": 31.1,
+            "slope": 108
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1899,
+            "par": 31,
+            "rating": 32,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1716,
+            "par": 31,
+            "rating": 31,
+            "slope": 97
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1716,
+            "par": 31,
+            "rating": 30.9,
+            "slope": 104
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d773650-86ac-11e4-8c28-020000005b00/abington-country-club"
+  }
+}

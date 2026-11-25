@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9e07770-86ac-11e4-8c28-020000005b00/londonderry-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9e07770-86ac-11e4-8c28-020000005b00/londonderry-country-club",
+  "checked_at": 1795524489.9854693,
+  "sha256": "46d33afb30adf9b52e248aa3c86741ff470c3bd2cb0b4122572dec9674e58ef8",
+  "title": "Londonderry Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b9e07770-86ac-11e4-8c28-020000005b00",
+    "name": "Londonderry Country Club",
+    "address": "56 Kimball Road, Londonderry, NH",
+    "courses": [
+      {
+        "name": "Londonderry",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3810,
+            "par": 62,
+            "rating": 60.7,
+            "slope": 102
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3810,
+            "par": 62,
+            "rating": 61.2,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3215,
+            "par": 62,
+            "rating": 59.5,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3215,
+            "par": 62,
+            "rating": 58.5,
+            "slope": 92
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9e07770-86ac-11e4-8c28-020000005b00/londonderry-country-club"
+  }
+}

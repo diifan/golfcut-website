@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99f896e0-86ac-11e4-8c28-020000005b00/cronins-golf-resort",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99f896e0-86ac-11e4-8c28-020000005b00/cronins-golf-resort",
+  "checked_at": 1795525024.1855857,
+  "sha256": "db33e7b8ee9d9269145b3a3ea299606ef6e1dc651ff23ebe249e65594cb8ef13",
+  "title": "Cronin's Golf Resort - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99f896e0-86ac-11e4-8c28-020000005b00",
+    "name": "Cronin's Golf Resort",
+    "address": "Golf Course Rd, Warrensburg, NY",
+    "courses": [
+      {
+        "name": "Cronins",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6161,
+            "par": 70,
+            "rating": 67.2,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6161,
+            "par": 71,
+            "rating": 74.7,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5947,
+            "par": 70,
+            "rating": 65.8,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5947,
+            "par": 71,
+            "rating": 73.5,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5709,
+            "par": 70,
+            "rating": 70.9,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5709,
+            "par": 71,
+            "rating": 68,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99f896e0-86ac-11e4-8c28-020000005b00/cronins-golf-resort"
+  }
+}

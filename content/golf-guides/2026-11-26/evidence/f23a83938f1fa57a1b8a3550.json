@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b07ff430-86ac-11e4-8c28-020000005b00/swinomish-golf-links",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b07ff430-86ac-11e4-8c28-020000005b00/swinomish-golf-links",
+  "checked_at": 1795524649.6525054,
+  "sha256": "577ee5b7eb6d0a1e23eaa1fdca530787750ca54aaecaa0a897479f7a69d21a85",
+  "title": "Swinomish Golf Links - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b07ff430-86ac-11e4-8c28-020000005b00",
+    "name": "Swinomish Golf Links",
+    "address": "12518 Christianson Rd",
+    "courses": [
+      {
+        "name": "Swinomish Golf Links",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6182,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 114
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6182,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5869,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 110
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5869,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5128,
+            "par": 72,
+            "rating": 63.3,
+            "slope": 100
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5128,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b07ff430-86ac-11e4-8c28-020000005b00/swinomish-golf-links"
+  }
+}

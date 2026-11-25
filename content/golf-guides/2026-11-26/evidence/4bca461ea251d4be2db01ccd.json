@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/897f5d80-86ac-11e4-8c28-020000005b00/st-stanislaus-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/897f5d80-86ac-11e4-8c28-020000005b00/st-stanislaus-golf-course",
+  "checked_at": 1795582852.9818587,
+  "sha256": "9b140841fc5c2b0a2c48e4aed4453fcfe7fda0153b56af18278b5e10ff3b42f1",
+  "title": "St. Stanislaus Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "897f5d80-86ac-11e4-8c28-020000005b00",
+    "name": "St. Stanislaus Golf Course",
+    "address": "5000 Crows Landing Rd",
+    "courses": [
+      {
+        "name": "St. Stanislaus",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 1533,
+            "par": 28,
+            "rating": 28.1,
+            "slope": 76
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 1533,
+            "par": 28,
+            "rating": 29.1,
+            "slope": 98
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1344,
+            "par": 28,
+            "rating": 27.92676,
+            "slope": 84.66808
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1344,
+            "par": 28,
+            "rating": 27.92676,
+            "slope": 84.66808
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/897f5d80-86ac-11e4-8c28-020000005b00/st-stanislaus-golf-course"
+  }
+}

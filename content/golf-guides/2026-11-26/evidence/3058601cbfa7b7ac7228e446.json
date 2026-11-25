@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83f2ecb0-86ac-11e4-8c28-020000005b00/quincy-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83f2ecb0-86ac-11e4-8c28-020000005b00/quincy-country-club",
+  "checked_at": 1795582868.9360535,
+  "sha256": "314b9a2ad1222a0f8a74f7313fbaa8faeab4a3fd050131079476e3227526bc87",
+  "title": "Quincy Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "83f2ecb0-86ac-11e4-8c28-020000005b00",
+    "name": "Quincy Country Club",
+    "address": "2410 State Street Quincy, IL ",
+    "courses": [
+      {
+        "name": "Quincy",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6467,
+            "par": 71,
+            "rating": 71.1,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6467,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6230,
+            "par": 71,
+            "rating": 69.9,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6230,
+            "par": 70,
+            "rating": 76.1,
+            "slope": 139
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5373,
+            "par": 71,
+            "rating": 65.6,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5373,
+            "par": 70,
+            "rating": 70.8,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5306,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5306,
+            "par": 70,
+            "rating": 71.2,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83f2ecb0-86ac-11e4-8c28-020000005b00/quincy-country-club"
+  }
+}

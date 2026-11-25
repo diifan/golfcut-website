@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96546e10-86ac-11e4-8c28-020000005b00/castlewood-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96546e10-86ac-11e4-8c28-020000005b00/castlewood-golf-course",
+  "checked_at": 1795524594.860335,
+  "sha256": "9c161d97a2daadfe6b3629458294d6d5217017a1fe43920d1423f0c99cc60cc5",
+  "title": "Castlewood Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "96546e10-86ac-11e4-8c28-020000005b00",
+    "name": "Castlewood Golf Course",
+    "address": "7050 Scandia Trl No",
+    "courses": [
+      {
+        "name": "Castlewood",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3043,
+            "par": 36,
+            "rating": 35,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2733,
+            "par": 36,
+            "rating": 33.5,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2606,
+            "par": 36,
+            "rating": 34.3,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96546e10-86ac-11e4-8c28-020000005b00/castlewood-golf-course"
+  }
+}

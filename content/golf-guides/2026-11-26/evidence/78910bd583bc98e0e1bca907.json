@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8874a440-86ac-11e4-8c28-020000005b00/zigfield-troy-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8874a440-86ac-11e4-8c28-020000005b00/zigfield-troy-golf",
+  "checked_at": 1795524582.7990956,
+  "sha256": "edf557d389d2fe84557c3a5a14806baaa73475681887054c7b4c9ef70aa08d0a",
+  "title": "Zigfield Troy Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8874a440-86ac-11e4-8c28-020000005b00",
+    "name": "Zigfield Troy Golf",
+    "address": "1535 W 75th St.",
+    "courses": [
+      {
+        "name": "Zigfield Troy",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1089,
+            "par": 27,
+            "rating": 26.76906,
+            "slope": 79.99648
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1089,
+            "par": 27,
+            "rating": 26.76906,
+            "slope": 79.99648
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8874a440-86ac-11e4-8c28-020000005b00/zigfield-troy-golf"
+  }
+}

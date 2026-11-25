@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/841038b0-86ac-11e4-8c28-020000005b00/spring-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/841038b0-86ac-11e4-8c28-020000005b00/spring-creek-golf-course",
+  "checked_at": 1795524859.3073263,
+  "sha256": "5de9663e580fa4adc21d6849926b74378d9f352157a14f779634586656526b5e",
+  "title": "Spring Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "841038b0-86ac-11e4-8c28-020000005b00",
+    "name": "Spring Creek Golf Course",
+    "address": "Rural Route 1, Spring Valley, IL",
+    "courses": [
+      {
+        "name": "Spring Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6614,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6614,
+            "par": 73,
+            "rating": 77.1,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6225,
+            "par": 72,
+            "rating": 70,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6225,
+            "par": 73,
+            "rating": 75.7,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5196,
+            "par": 72,
+            "rating": 67,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5196,
+            "par": 73,
+            "rating": 70,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/841038b0-86ac-11e4-8c28-020000005b00/spring-creek-golf-course"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99a6f470-86ac-11e4-8c28-020000005b00/woods-at-cherry-creek",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99a6f470-86ac-11e4-8c28-020000005b00/woods-at-cherry-creek",
+  "checked_at": 1795524559.9881387,
+  "sha256": "eea9005f6662b7ce1276c53265263f47e0dbfd50e3244f66220f4b22e6ed01f0",
+  "title": "Woods At Cherry Creek - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99a6f470-86ac-11e4-8c28-020000005b00",
+    "name": "Woods At Cherry Creek",
+    "address": "967 Reeves Avenue Riverhead, NY ",
+    "courses": [
+      {
+        "name": "Woods",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6550,
+            "par": 71,
+            "rating": 71.4,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6550,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6229,
+            "par": 71,
+            "rating": 70.5,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6229,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5623,
+            "par": 71,
+            "rating": 67.9,
+            "slope": 126
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5623,
+            "par": 71,
+            "rating": 73.1,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5059,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5059,
+            "par": 71,
+            "rating": 69.3,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99a6f470-86ac-11e4-8c28-020000005b00/woods-at-cherry-creek"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9c6fc00-86ac-11e4-8c28-020000005b00/hidden-valley-rv-golf-park",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9c6fc00-86ac-11e4-8c28-020000005b00/hidden-valley-rv-golf-park",
+  "checked_at": 1795524276.62975,
+  "sha256": "5c9ff10cdca010a5b5d7b6c8b76290fc39439ae161c4c3ce430302d79b8676f9",
+  "title": "Hidden Valley RV & Golf Park - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b9c6fc00-86ac-11e4-8c28-020000005b00",
+    "name": "Hidden Valley RV & Golf Park",
+    "address": "81 Damren Rd, Derry, NH",
+    "courses": [
+      {
+        "name": "18 Hole Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6280,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6280,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5823,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5823,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5175,
+            "par": 72,
+            "rating": 64.7,
+            "slope": 110
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5175,
+            "par": 72,
+            "rating": 69,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4470,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4470,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9c6fc00-86ac-11e4-8c28-020000005b00/hidden-valley-rv-golf-park"
+  }
+}

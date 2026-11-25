@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95f11860-86ac-11e4-8c28-020000005b00/locust-hill-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95f11860-86ac-11e4-8c28-020000005b00/locust-hill-golf-course",
+  "checked_at": 1795524235.007206,
+  "sha256": "94f56f0a719290ddc0c5802fc600f814da072e4abfaf62bedcf78b71f29e26c4",
+  "title": "Locust Hill Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "95f11860-86ac-11e4-8c28-020000005b00",
+    "name": "Locust Hill Golf Course",
+    "address": "278 St Andrews Dr, Charles Town, WV",
+    "courses": [
+      {
+        "name": "Locust Hill",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7005,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 140
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7005,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6394,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6394,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 134
+          },
+          {
+            "name": "Grey",
+            "category": "MALE",
+            "yards": 5772,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 125
+          },
+          {
+            "name": "Grey",
+            "category": "FEMALE",
+            "yards": 5772,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5112,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5112,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95f11860-86ac-11e4-8c28-020000005b00/locust-hill-golf-course"
+  }
+}

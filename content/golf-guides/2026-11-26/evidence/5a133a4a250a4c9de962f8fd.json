@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/999456d0-86ac-11e4-8c28-020000005b00/bluff-point-golf-resort",
+  "resolved_url": "https://18birdies.com/golf-courses/club/999456d0-86ac-11e4-8c28-020000005b00/bluff-point-golf-resort",
+  "checked_at": 1795524379.315171,
+  "sha256": "b79837e00a6111479aea2227b4512279a7ca78b2d2843b785635f647764d2fab",
+  "title": "Bluff Point Golf Resort - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "999456d0-86ac-11e4-8c28-020000005b00",
+    "name": "Bluff Point Golf Resort",
+    "address": "75 Bluff Point Dr, Plattsburgh, NY",
+    "courses": [
+      {
+        "name": "Bluff Point",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6309,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6309,
+            "par": 73,
+            "rating": 75.5,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5295,
+            "par": 72,
+            "rating": 69,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5295,
+            "par": 73,
+            "rating": 70.8,
+            "slope": 126
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5295,
+            "par": 72,
+            "rating": 69,
+            "slope": 128
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5295,
+            "par": 73,
+            "rating": 70.1,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/999456d0-86ac-11e4-8c28-020000005b00/bluff-point-golf-resort"
+  }
+}

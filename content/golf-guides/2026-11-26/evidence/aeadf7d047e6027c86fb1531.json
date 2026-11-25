@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/73ebaf00-86ac-11e4-8c28-020000005b00/clifton-springs-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/73ebaf00-86ac-11e4-8c28-020000005b00/clifton-springs-golf-club",
+  "checked_at": 1795525006.642781,
+  "sha256": "60f93b8d72a04535cfacdde698d146ac8aca31018fbe5744dc1ce3222e8a557d",
+  "title": "Clifton Springs Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "73ebaf00-86ac-11e4-8c28-020000005b00",
+    "name": "Clifton Springs Golf Club",
+    "address": "Springs Street,Clifton Springs",
+    "courses": [
+      {
+        "name": "Clifton Springs",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6315,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6315,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5692,
+            "par": 71,
+            "rating": 67.4,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5692,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/73ebaf00-86ac-11e4-8c28-020000005b00/clifton-springs-golf-club"
+  }
+}

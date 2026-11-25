@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b44623f0-86ac-11e4-8c28-020000005b00/lion-hills-cc",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b44623f0-86ac-11e4-8c28-020000005b00/lion-hills-cc",
+  "checked_at": 1795583820.348947,
+  "sha256": "bf30895f4b4610a3e5ad18c7971dd2c2286eaac3432fea20c0b17d5e55b978e0",
+  "title": "Lion Hills CC - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b44623f0-86ac-11e4-8c28-020000005b00",
+    "name": "Lion Hills CC",
+    "address": "2331 Military Rd",
+    "courses": [
+      {
+        "name": "Lion Hills CC",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6410,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6064,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5523,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4979,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b44623f0-86ac-11e4-8c28-020000005b00/lion-hills-cc"
+  }
+}

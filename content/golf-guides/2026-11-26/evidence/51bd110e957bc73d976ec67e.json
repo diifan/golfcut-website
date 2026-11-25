@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/93514030-86ac-11e4-8c28-020000005b00/countryland-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/93514030-86ac-11e4-8c28-020000005b00/countryland-golf-club",
+  "checked_at": 1795524594.1131237,
+  "sha256": "69a8238ed021390a88e65c62570a5d36edea96810205f9cd108a087f38c1f4b7",
+  "title": "Country Land Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "93514030-86ac-11e4-8c28-020000005b00",
+    "name": "Country Land Golf Club",
+    "address": "6560 Mayfield Dr, Cumming, Georgia 30041, Forsyth County",
+    "courses": [
+      {
+        "name": "Country Land",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6025,
+            "par": 70,
+            "rating": 67.3,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6025,
+            "par": 69,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5510,
+            "par": 70,
+            "rating": 65.7,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5510,
+            "par": 69,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4296,
+            "par": 70,
+            "rating": 60.4,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4296,
+            "par": 69,
+            "rating": 63.6,
+            "slope": 104
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/93514030-86ac-11e4-8c28-020000005b00/countryland-golf-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba208db0-86ac-11e4-8c28-020000005b00/killington-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba208db0-86ac-11e4-8c28-020000005b00/killington-golf-course",
+  "checked_at": 1795524659.3088546,
+  "sha256": "f425a897f9f9b567b5d70ab3bb054f8b4051dd941f1a070605d0ce6b8673d5a8",
+  "title": "Killington Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ba208db0-86ac-11e4-8c28-020000005b00",
+    "name": "Killington Golf Course",
+    "address": "227 E Mountain Rd, Killington, VT",
+    "courses": [
+      {
+        "name": "Killington",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6168,
+            "par": 72,
+            "rating": 71,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5876,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 123
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5105,
+            "par": 72,
+            "rating": 65.6,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4803,
+            "par": 72,
+            "rating": 64.1,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba208db0-86ac-11e4-8c28-020000005b00/killington-golf-course"
+  }
+}

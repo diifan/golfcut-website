@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8cd1e3e0-86ac-11e4-8c28-020000005b00/golf-club-of-alexandria",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8cd1e3e0-86ac-11e4-8c28-020000005b00/golf-club-of-alexandria",
+  "checked_at": 1795525003.8325994,
+  "sha256": "27b811b283970e8410d9ffdbbf8cd43c7960a49e4586c62c259ca619fe1dd934",
+  "title": "Golf Club of Alexandria - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8cd1e3e0-86ac-11e4-8c28-020000005b00",
+    "name": "Golf Club of Alexandria",
+    "address": "1800 S Harrison St",
+    "courses": [
+      {
+        "name": "The Golf Club of Alexandria",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6235,
+            "par": 70,
+            "rating": 69.3,
+            "slope": 113
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6235,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5763,
+            "par": 70,
+            "rating": 66.9,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5763,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4701,
+            "par": 70,
+            "rating": 62.3,
+            "slope": 97
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4701,
+            "par": 70,
+            "rating": 66.2,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8cd1e3e0-86ac-11e4-8c28-020000005b00/golf-club-of-alexandria"
+  }
+}

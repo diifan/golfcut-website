@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b24c9de0-86ac-11e4-8c28-020000005b00/michigan-meadows-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b24c9de0-86ac-11e4-8c28-020000005b00/michigan-meadows-golf-course",
+  "checked_at": 1795524588.3589005,
+  "sha256": "4db19aea356bd97b229187b1249624c648a0e2af070ddb2df8df80048834c73b",
+  "title": "Michigan Meadows Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star-o star star-o star-o star star star-o star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "b24c9de0-86ac-11e4-8c28-020000005b00",
+    "name": "Michigan Meadows Golf Course",
+    "address": "4575 County Line Rd, Casco, MI",
+    "courses": [
+      {
+        "name": "Michigan Meadows",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5954,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5660,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5276,
+            "par": 72,
+            "rating": 66,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5070,
+            "par": 72,
+            "rating": 68,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b24c9de0-86ac-11e4-8c28-020000005b00/michigan-meadows-golf-course"
+  }
+}

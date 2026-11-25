@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9308860-86ac-11e4-8c28-020000005b00/de-soto-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9308860-86ac-11e4-8c28-020000005b00/de-soto-country-club",
+  "checked_at": 1795582850.5117753,
+  "sha256": "f4ab6fe775f212652809789311b4dfdb43e1ae3d864a5f6198ade37e834e0874",
+  "title": "DeSoto Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b9308860-86ac-11e4-8c28-020000005b00",
+    "name": "DeSoto Country Club",
+    "address": "1000 Lakeshore Drive, DeSoto MO",
+    "courses": [
+      {
+        "name": "DeSoto Country Club",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3325,
+            "par": 36,
+            "rating": 36.6,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3325,
+            "par": 36,
+            "rating": 38.6,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2975,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2975,
+            "par": 36,
+            "rating": 36.8,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2605,
+            "par": 36,
+            "rating": 34.3,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2605,
+            "par": 36,
+            "rating": 33.6,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9308860-86ac-11e4-8c28-020000005b00/de-soto-country-club"
+  }
+}

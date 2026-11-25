@@ -1,0 +1,435 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d351280-86ac-11e4-8c28-020000005b00/north-branch-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d351280-86ac-11e4-8c28-020000005b00/north-branch-golf-course",
+  "checked_at": 1795524377.364793,
+  "sha256": "ddaded284ea795367ea42315066dc742fc2780ce5a1b67cd7b744f256cc26949",
+  "title": "North Branch Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d351280-86ac-11e4-8c28-020000005b00",
+    "name": "North Branch Golf Course",
+    "address": "8492 E Base Rd, Greensburg, IN",
+    "courses": [
+      {
+        "name": "North Branch (Bridge/Prairie)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5646,
+            "par": 70,
+            "rating": 67.2,
+            "slope": 115
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5646,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5387,
+            "par": 70,
+            "rating": 66,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5387,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4720,
+            "par": 70,
+            "rating": 62.8,
+            "slope": 103
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4720,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4300,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4300,
+            "par": 70,
+            "rating": 64.8,
+            "slope": 104
+          }
+        ]
+      },
+      {
+        "name": "North Branch (Meadow/Bridge)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6099,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6099,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5849,
+            "par": 71,
+            "rating": 66.6,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5849,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4823,
+            "par": 71,
+            "rating": 62.4,
+            "slope": 101
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4823,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4624,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4624,
+            "par": 71,
+            "rating": 64.6,
+            "slope": 105
+          }
+        ]
+      },
+      {
+        "name": "North Branch (Prairie/Meadow)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6001,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6001,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5674,
+            "par": 71,
+            "rating": 68,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5674,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4711,
+            "par": 71,
+            "rating": 63.2,
+            "slope": 105
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4711,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4394,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4394,
+            "par": 71,
+            "rating": 66.4,
+            "slope": 114
+          }
+        ]
+      },
+      {
+        "name": "Bridge",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2774,
+            "par": 35,
+            "rating": 33.7,
+            "slope": 115
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2774,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2606,
+            "par": 35,
+            "rating": 33.2,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2606,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2304,
+            "par": 35,
+            "rating": 31.7,
+            "slope": 106
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2304,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2035,
+            "par": 35,
+            "rating": 32.6,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2035,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      },
+      {
+        "name": "Meadow",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3227,
+            "par": 36,
+            "rating": 34.4,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3227,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3068,
+            "par": 36,
+            "rating": 33.7,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3068,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2407,
+            "par": 36,
+            "rating": 31.4,
+            "slope": 101
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2407,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2359,
+            "par": 36,
+            "rating": 32.5,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2359,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      },
+      {
+        "name": "Prairie",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2872,
+            "par": 35,
+            "rating": 34.7,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2872,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2781,
+            "par": 35,
+            "rating": 34.1,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2781,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2416,
+            "par": 35,
+            "rating": 31.6,
+            "slope": 102
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2416,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2265,
+            "par": 35,
+            "rating": 33.2,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2265,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d351280-86ac-11e4-8c28-020000005b00/north-branch-golf-course"
+  }
+}

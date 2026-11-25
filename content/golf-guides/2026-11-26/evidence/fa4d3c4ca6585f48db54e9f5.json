@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95ea88b0-86ac-11e4-8c28-020000005b00/taconic",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95ea88b0-86ac-11e4-8c28-020000005b00/taconic",
+  "checked_at": 1795524670.0672011,
+  "sha256": "532a7eb7fc7ad3d1d2558b7780bdacff2e2e162a0120ab3e281823f6f7e3a321",
+  "title": "Taconic - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95ea88b0-86ac-11e4-8c28-020000005b00",
+    "name": "Taconic",
+    "address": "19 Meacham Street, Williamstown, MA",
+    "courses": [
+      {
+        "name": "Taconic",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6808,
+            "par": 71,
+            "rating": 73.5,
+            "slope": 134
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6808,
+            "par": 71,
+            "rating": 80.1,
+            "slope": 141
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6410,
+            "par": 71,
+            "rating": 71.8,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6410,
+            "par": 71,
+            "rating": 78,
+            "slope": 136
+          },
+          {
+            "name": "Purple",
+            "category": "MALE",
+            "yards": 5826,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 128
+          },
+          {
+            "name": "Purple",
+            "category": "FEMALE",
+            "yards": 5826,
+            "par": 71,
+            "rating": 74.8,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5143,
+            "par": 71,
+            "rating": 65.8,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5143,
+            "par": 71,
+            "rating": 70.5,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95ea88b0-86ac-11e4-8c28-020000005b00/taconic"
+  }
+}

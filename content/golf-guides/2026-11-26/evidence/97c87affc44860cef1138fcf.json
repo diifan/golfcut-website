@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ed506e0-86ac-11e4-8c28-020000005b00/greens-of-manatee-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ed506e0-86ac-11e4-8c28-020000005b00/greens-of-manatee-golf-club",
+  "checked_at": 1795582887.8095284,
+  "sha256": "b2c2d5909f21423b09c5a0d6b13f3675cc94459061d8cfb6657162198fd913ac",
+  "title": "Greens of Manatee Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "8ed506e0-86ac-11e4-8c28-020000005b00",
+    "name": "Greens of Manatee Golf Club",
+    "address": "101 Cortez Rd W, Bradenton, FL",
+    "courses": [
+      {
+        "name": "Greens of Manatee",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3489,
+            "par": 61,
+            "rating": 68.9,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3489,
+            "par": 61,
+            "rating": 60.4,
+            "slope": 100
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3127,
+            "par": 61,
+            "rating": 59.1,
+            "slope": 100
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3127,
+            "par": 61,
+            "rating": 68.6,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ed506e0-86ac-11e4-8c28-020000005b00/greens-of-manatee-golf-club"
+  }
+}

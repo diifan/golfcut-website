@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95d83930-86ac-11e4-8c28-020000005b00/mink-meadows-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95d83930-86ac-11e4-8c28-020000005b00/mink-meadows-golf-club",
+  "checked_at": 1795524396.3117633,
+  "sha256": "a16e3c4f8506fd8169922e5dd9e0424488028b95a44e6150a294b1521696afea",
+  "title": "Mink Meadows Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95d83930-86ac-11e4-8c28-020000005b00",
+    "name": "Mink Meadows Golf Club",
+    "address": "320 Golf Club Road",
+    "courses": [
+      {
+        "name": "Mink Meadows",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6199,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 127
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5550,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 126
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5044,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95d83930-86ac-11e4-8c28-020000005b00/mink-meadows-golf-club"
+  }
+}

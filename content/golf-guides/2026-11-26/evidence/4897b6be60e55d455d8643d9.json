@@ -1,0 +1,417 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ea25e20-86ac-11e4-8c28-020000005b00/miccosukee-golf-and-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ea25e20-86ac-11e4-8c28-020000005b00/miccosukee-golf-and-country-club",
+  "checked_at": 1795524426.3115165,
+  "sha256": "ff8276031f5a051dab0047f8c9999d37d1b6b3c500cc94e276e75503a7040df7",
+  "title": "Miccosukee Golf and Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8ea25e20-86ac-11e4-8c28-020000005b00",
+    "name": "Miccosukee Golf and Country Club",
+    "address": "6401 Kendale Lakes Drive, Miami, FL",
+    "courses": [
+      {
+        "name": "Marlin / Dolphin",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6984,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6984,
+            "par": 73,
+            "rating": 81.1,
+            "slope": 145
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6470,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6470,
+            "par": 73,
+            "rating": 75.2,
+            "slope": 137
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5941,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 135
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5941,
+            "par": 73,
+            "rating": 78.2,
+            "slope": 142
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5308,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 124
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5308,
+            "par": 73,
+            "rating": 71.7,
+            "slope": 131
+          }
+        ]
+      },
+      {
+        "name": "Marlin",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3092,
+            "par": 36,
+            "rating": 36.9,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2702,
+            "par": 36,
+            "rating": 34.5,
+            "slope": 118
+          }
+        ]
+      },
+      {
+        "name": "Barracuda",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3280,
+            "par": 36,
+            "rating": 36.9,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3280,
+            "par": 36,
+            "rating": 37.4,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3082,
+            "par": 36,
+            "rating": 34.5,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3082,
+            "par": 36,
+            "rating": 37.2,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2817,
+            "par": 36,
+            "rating": 35.9,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2817,
+            "par": 36,
+            "rating": 38.6,
+            "slope": 139
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 2664,
+            "par": 36,
+            "rating": 34.2,
+            "slope": 110
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 2664,
+            "par": 36,
+            "rating": 35.8,
+            "slope": 127
+          }
+        ]
+      },
+      {
+        "name": "Dolphin",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3060,
+            "par": 36,
+            "rating": 36.9,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2579,
+            "par": 36,
+            "rating": 33.5,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 3319,
+            "par": 36,
+            "rating": 35.4,
+            "slope": 129
+          }
+        ]
+      },
+      {
+        "name": "Barracuda / Marlin",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6761,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6761,
+            "par": 73,
+            "rating": 79.7,
+            "slope": 144
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6326,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6326,
+            "par": 73,
+            "rating": 77.3,
+            "slope": 141
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5861,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5861,
+            "par": 73,
+            "rating": 74.6,
+            "slope": 138
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5396,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 122
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5396,
+            "par": 73,
+            "rating": 72.4,
+            "slope": 131
+          }
+        ]
+      },
+      {
+        "name": "Dolphin / Barracuda",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6783,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 139
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6783,
+            "par": 72,
+            "rating": 80.2,
+            "slope": 145
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6308,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6308,
+            "par": 72,
+            "rating": 77.5,
+            "slope": 141
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5714,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5714,
+            "par": 72,
+            "rating": 74,
+            "slope": 137
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5240,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 121
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5240,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 128
+          }
+        ]
+      },
+      {
+        "name": "Dolphin / Marlin",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6984,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6984,
+            "par": 73,
+            "rating": 81.1,
+            "slope": 145
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6470,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6470,
+            "par": 73,
+            "rating": 75.2,
+            "slope": 137
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5941,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 135
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5941,
+            "par": 73,
+            "rating": 78.2,
+            "slope": 142
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5308,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 124
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5308,
+            "par": 73,
+            "rating": 71.7,
+            "slope": 131
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ea25e20-86ac-11e4-8c28-020000005b00/miccosukee-golf-and-country-club"
+  }
+}

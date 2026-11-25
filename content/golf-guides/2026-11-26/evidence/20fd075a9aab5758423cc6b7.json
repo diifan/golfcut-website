@@ -1,0 +1,531 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/91425d60-86ac-11e4-8c28-020000005b00/bent-brook-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/91425d60-86ac-11e4-8c28-020000005b00/bent-brook-golf-club",
+  "checked_at": 1795525004.0370536,
+  "sha256": "98500db4d2973834dde58eaee21d4e2972798673643ef30542c7822e500c909e",
+  "title": "Bent Brook Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "91425d60-86ac-11e4-8c28-020000005b00",
+    "name": "Bent Brook Golf Club",
+    "address": " 7900 Dickey Springs Rd, Bessemer, Alabama 35022, Jefferson County",
+    "courses": [
+      {
+        "name": "Brook/Windmill",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "I",
+            "category": "MALE",
+            "yards": 7258,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 130
+          },
+          {
+            "name": "I",
+            "category": "FEMALE",
+            "yards": 7258,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 6585,
+            "par": 72,
+            "rating": 71,
+            "slope": 123
+          },
+          {
+            "name": "II",
+            "category": "FEMALE",
+            "yards": 6585,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "III",
+            "category": "MALE",
+            "yards": 5851,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 114
+          },
+          {
+            "name": "III",
+            "category": "FEMALE",
+            "yards": 5851,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 129
+          },
+          {
+            "name": "IV",
+            "category": "MALE",
+            "yards": 4996,
+            "par": 72,
+            "rating": 63.6,
+            "slope": 107
+          },
+          {
+            "name": "IV",
+            "category": "FEMALE",
+            "yards": 4996,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 120
+          },
+          {
+            "name": "V",
+            "category": "MALE",
+            "yards": 4121,
+            "par": 72,
+            "rating": 60,
+            "slope": 97
+          },
+          {
+            "name": "V",
+            "category": "FEMALE",
+            "yards": 4121,
+            "par": 72,
+            "rating": 63.1,
+            "slope": 108
+          }
+        ]
+      },
+      {
+        "name": "Brook/Graveyard",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "I",
+            "category": "MALE",
+            "yards": 7240,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 134
+          },
+          {
+            "name": "I",
+            "category": "FEMALE",
+            "yards": 7240,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 6559,
+            "par": 72,
+            "rating": 71,
+            "slope": 128
+          },
+          {
+            "name": "II",
+            "category": "FEMALE",
+            "yards": 6559,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "III",
+            "category": "MALE",
+            "yards": 5818,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 117
+          },
+          {
+            "name": "III",
+            "category": "FEMALE",
+            "yards": 5818,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 129
+          },
+          {
+            "name": "IV",
+            "category": "MALE",
+            "yards": 5050,
+            "par": 72,
+            "rating": 63.8,
+            "slope": 111
+          },
+          {
+            "name": "IV",
+            "category": "FEMALE",
+            "yards": 5050,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 120
+          },
+          {
+            "name": "V",
+            "category": "MALE",
+            "yards": 4202,
+            "par": 72,
+            "rating": 60.4,
+            "slope": 102
+          },
+          {
+            "name": "V",
+            "category": "FEMALE",
+            "yards": 4202,
+            "par": 72,
+            "rating": 63.8,
+            "slope": 110
+          }
+        ]
+      },
+      {
+        "name": "Graveyard/Windmill",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "I",
+            "category": "MALE",
+            "yards": 7062,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 127
+          },
+          {
+            "name": "I",
+            "category": "FEMALE",
+            "yards": 7062,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 6476,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 122
+          },
+          {
+            "name": "II",
+            "category": "FEMALE",
+            "yards": 6476,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "III",
+            "category": "MALE",
+            "yards": 5799,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 115
+          },
+          {
+            "name": "III",
+            "category": "FEMALE",
+            "yards": 5799,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 126
+          },
+          {
+            "name": "IV",
+            "category": "MALE",
+            "yards": 5020,
+            "par": 72,
+            "rating": 63.8,
+            "slope": 108
+          },
+          {
+            "name": "IV",
+            "category": "FEMALE",
+            "yards": 5020,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 117
+          },
+          {
+            "name": "V",
+            "category": "MALE",
+            "yards": 4209,
+            "par": 72,
+            "rating": 60.9,
+            "slope": 103
+          },
+          {
+            "name": "V",
+            "category": "FEMALE",
+            "yards": 4209,
+            "par": 72,
+            "rating": 63.4,
+            "slope": 107
+          }
+        ]
+      },
+      {
+        "name": "Brook",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "I",
+            "category": "MALE",
+            "yards": 3718,
+            "par": 36,
+            "rating": 37.5,
+            "slope": 135
+          },
+          {
+            "name": "I",
+            "category": "FEMALE",
+            "yards": 3718,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 3334,
+            "par": 36,
+            "rating": 35.7,
+            "slope": 128
+          },
+          {
+            "name": "II",
+            "category": "FEMALE",
+            "yards": 3334,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "III",
+            "category": "MALE",
+            "yards": 2935,
+            "par": 36,
+            "rating": 33.7,
+            "slope": 116
+          },
+          {
+            "name": "III",
+            "category": "FEMALE",
+            "yards": 2935,
+            "par": 36,
+            "rating": 36.5,
+            "slope": 131
+          },
+          {
+            "name": "IV",
+            "category": "MALE",
+            "yards": 2513,
+            "par": 36,
+            "rating": 31.8,
+            "slope": 109
+          },
+          {
+            "name": "IV",
+            "category": "FEMALE",
+            "yards": 2513,
+            "par": 36,
+            "rating": 34.1,
+            "slope": 122
+          },
+          {
+            "name": "V",
+            "category": "MALE",
+            "yards": 2057,
+            "par": 36,
+            "rating": 30.1,
+            "slope": 100
+          },
+          {
+            "name": "V",
+            "category": "FEMALE",
+            "yards": 2057,
+            "par": 36,
+            "rating": 31.6,
+            "slope": 111
+          }
+        ]
+      },
+      {
+        "name": "Graveyard",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "I",
+            "category": "MALE",
+            "yards": 3522,
+            "par": 36,
+            "rating": 36.7,
+            "slope": 132
+          },
+          {
+            "name": "I",
+            "category": "FEMALE",
+            "yards": 3522,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 3225,
+            "par": 36,
+            "rating": 35.3,
+            "slope": 127
+          },
+          {
+            "name": "II",
+            "category": "FEMALE",
+            "yards": 3225,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "III",
+            "category": "MALE",
+            "yards": 2883,
+            "par": 36,
+            "rating": 33.6,
+            "slope": 118
+          },
+          {
+            "name": "III",
+            "category": "FEMALE",
+            "yards": 2883,
+            "par": 36,
+            "rating": 36.3,
+            "slope": 126
+          },
+          {
+            "name": "IV",
+            "category": "MALE",
+            "yards": 2537,
+            "par": 36,
+            "rating": 32,
+            "slope": 112
+          },
+          {
+            "name": "IV",
+            "category": "FEMALE",
+            "yards": 2537,
+            "par": 36,
+            "rating": 34.4,
+            "slope": 118
+          },
+          {
+            "name": "V",
+            "category": "MALE",
+            "yards": 2145,
+            "par": 36,
+            "rating": 30.6,
+            "slope": 107
+          },
+          {
+            "name": "V",
+            "category": "FEMALE",
+            "yards": 2145,
+            "par": 36,
+            "rating": 32.2,
+            "slope": 109
+          }
+        ]
+      },
+      {
+        "name": "Windmill",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "I",
+            "category": "MALE",
+            "yards": 3540,
+            "par": 36,
+            "rating": 36.4,
+            "slope": 122
+          },
+          {
+            "name": "I",
+            "category": "FEMALE",
+            "yards": 3540,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 3251,
+            "par": 36,
+            "rating": 35.1,
+            "slope": 117
+          },
+          {
+            "name": "II",
+            "category": "FEMALE",
+            "yards": 3251,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "III",
+            "category": "MALE",
+            "yards": 2916,
+            "par": 36,
+            "rating": 33.6,
+            "slope": 111
+          },
+          {
+            "name": "III",
+            "category": "FEMALE",
+            "yards": 2916,
+            "par": 36,
+            "rating": 36,
+            "slope": 126
+          },
+          {
+            "name": "IV",
+            "category": "MALE",
+            "yards": 2483,
+            "par": 36,
+            "rating": 31.8,
+            "slope": 103
+          },
+          {
+            "name": "IV",
+            "category": "FEMALE",
+            "yards": 2483,
+            "par": 36,
+            "rating": 33.8,
+            "slope": 116
+          },
+          {
+            "name": "V",
+            "category": "MALE",
+            "yards": 2064,
+            "par": 36,
+            "rating": 30.3,
+            "slope": 98
+          },
+          {
+            "name": "V",
+            "category": "FEMALE",
+            "yards": 2064,
+            "par": 36,
+            "rating": 31.2,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/91425d60-86ac-11e4-8c28-020000005b00/bent-brook-golf-club"
+  }
+}

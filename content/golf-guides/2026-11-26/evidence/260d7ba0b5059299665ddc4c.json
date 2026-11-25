@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/89660920-86ac-11e4-8c28-020000005b00/bixby-village-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/89660920-86ac-11e4-8c28-020000005b00/bixby-village-golf-course",
+  "checked_at": 1795524889.011843,
+  "sha256": "d540c4d1496fa3b013350f5d663da30e6522088c26296b2a556a4850119cd2f4",
+  "title": "Bixby Village Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "89660920-86ac-11e4-8c28-020000005b00",
+    "name": "Bixby Village Golf Course",
+    "address": "6180 Bixby Village Dr, Long Beach, CA",
+    "courses": [
+      {
+        "name": "Bixby Village (9 holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 1795,
+            "par": 30,
+            "rating": 28.1,
+            "slope": 88
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 1795,
+            "par": 30,
+            "rating": 30.5,
+            "slope": 103
+          },
+          {
+            "name": "Back Regulation",
+            "category": "MALE",
+            "yards": 1671,
+            "par": 30,
+            "rating": 30.1,
+            "slope": 94
+          },
+          {
+            "name": "Back Regulation",
+            "category": "FEMALE",
+            "yards": 1671,
+            "par": 30,
+            "rating": 29.8,
+            "slope": 100
+          },
+          {
+            "name": "Front Regulation",
+            "category": "MALE",
+            "yards": 1521,
+            "par": 30,
+            "rating": 29.4,
+            "slope": 91
+          },
+          {
+            "name": "Front Regulation",
+            "category": "FEMALE",
+            "yards": 1521,
+            "par": 30,
+            "rating": 27.4,
+            "slope": 85
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/89660920-86ac-11e4-8c28-020000005b00/bixby-village-golf-course"
+  }
+}

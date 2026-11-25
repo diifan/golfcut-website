@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8f3d3e90-86ac-11e4-8c28-020000005b00/myerlee-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8f3d3e90-86ac-11e4-8c28-020000005b00/myerlee-country-club",
+  "checked_at": 1795524706.7871578,
+  "sha256": "e67b9e76c979eb0161e17646a5dc2f1c91f3649e16dca9cb65e3be737692319f",
+  "title": "Myerlee Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8f3d3e90-86ac-11e4-8c28-020000005b00",
+    "name": "Myerlee Country Club",
+    "address": "1380 Myerlee Country Club Blvd, Fort Myers, FL",
+    "courses": [
+      {
+        "name": "Myerlee",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 3509,
+            "par": 60,
+            "rating": 58.7,
+            "slope": 98
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 3509,
+            "par": 60,
+            "rating": 60.5,
+            "slope": 100
+          },
+          {
+            "name": "Regular",
+            "category": "MALE",
+            "yards": 3261,
+            "par": 60,
+            "rating": 57.7,
+            "slope": 95
+          },
+          {
+            "name": "Regular",
+            "category": "FEMALE",
+            "yards": 3261,
+            "par": 60,
+            "rating": 59.2,
+            "slope": 98
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 2728,
+            "par": 60,
+            "rating": 56.9,
+            "slope": 94
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 2728,
+            "par": 60,
+            "rating": 55.1,
+            "slope": 86
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8f3d3e90-86ac-11e4-8c28-020000005b00/myerlee-country-club"
+  }
+}

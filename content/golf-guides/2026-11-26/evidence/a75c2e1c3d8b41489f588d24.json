@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8bfc4460-86ac-11e4-8c28-020000005b00/ratliff-ranch-golf-links",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8bfc4460-86ac-11e4-8c28-020000005b00/ratliff-ranch-golf-links",
+  "checked_at": 1795524989.6243207,
+  "sha256": "8e3ba0787f628df6fa004e99672e7da33b71f305f8e142301f2e7885e18b061c",
+  "title": "Ratliff Ranch Golf Links - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8bfc4460-86ac-11e4-8c28-020000005b00",
+    "name": "Ratliff Ranch Golf Links",
+    "address": "7500 N Grandview, Odessa, TX",
+    "courses": [
+      {
+        "name": "Ratliff Ranch",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6849,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6278,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5568,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4887,
+            "par": 72,
+            "rating": 64.3,
+            "slope": 104
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8bfc4460-86ac-11e4-8c28-020000005b00/ratliff-ranch-golf-links"
+  }
+}

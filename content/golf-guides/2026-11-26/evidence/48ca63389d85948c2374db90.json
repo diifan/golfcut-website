@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c1d8800-86ac-11e4-8c28-020000005b00/riverside-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c1d8800-86ac-11e4-8c28-020000005b00/riverside-golf-course",
+  "checked_at": 1795524238.2977326,
+  "sha256": "4519b4427f800d371678541fc7bad071f63e3f45442de8506c00920577fe6629",
+  "title": "Riverside Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8c1d8800-86ac-11e4-8c28-020000005b00",
+    "name": "Riverside Golf Course",
+    "address": "203 McDonald, San Antonio, TX",
+    "courses": [
+      {
+        "name": "Riverside Golf Texas",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 6766,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 130
+          },
+          {
+            "name": "Tournament",
+            "category": "FEMALE",
+            "yards": 6766,
+            "par": 72,
+            "rating": 77.9,
+            "slope": 139
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6333,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 116
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6333,
+            "par": 72,
+            "rating": 78.6,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5933,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5933,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5424,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 112
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5424,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4708,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4708,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 121
+          }
+        ]
+      },
+      {
+        "name": "Par 3 ",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 923,
+            "par": 27,
+            "rating": 26.01542,
+            "slope": 76.95536
+          },
+          {
+            "name": "Tournament",
+            "category": "FEMALE",
+            "yards": 923,
+            "par": 27,
+            "rating": 26.01542,
+            "slope": 76.95536
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c1d8800-86ac-11e4-8c28-020000005b00/riverside-golf-course"
+  }
+}

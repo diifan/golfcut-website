@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c534fc0-86ac-11e4-8c28-020000005b00/washington-golf-learning-center",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c534fc0-86ac-11e4-8c28-020000005b00/washington-golf-learning-center",
+  "checked_at": 1795524617.264098,
+  "sha256": "c72a60a10ee168bb435f033485805074d09a760afdd0c2063055c84b5aceb3b4",
+  "title": "Washington Golf Learning Center - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9c534fc0-86ac-11e4-8c28-020000005b00",
+    "name": "Washington Golf Learning Center",
+    "address": "3841 Washington Park Blvd, Newburgh Heights, OH",
+    "courses": [
+      {
+        "name": "Washington (9 holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2956,
+            "par": 60,
+            "rating": 56.2,
+            "slope": 88
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2956,
+            "par": 60,
+            "rating": 58.2,
+            "slope": 95
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 2308,
+            "par": 60,
+            "rating": 53.6,
+            "slope": 82
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 2308,
+            "par": 60,
+            "rating": 56.2,
+            "slope": 78
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2164,
+            "par": 60,
+            "rating": 52.8,
+            "slope": 81
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2164,
+            "par": 60,
+            "rating": 55.6,
+            "slope": 75
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c534fc0-86ac-11e4-8c28-020000005b00/washington-golf-learning-center"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/97e1c4d0-86ac-11e4-8c28-020000005b00/glen-ridge-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/97e1c4d0-86ac-11e4-8c28-020000005b00/glen-ridge-country-club",
+  "checked_at": 1795583801.5993762,
+  "sha256": "5ddfc02664b89015e33866476ef6d2c2342042990b42470c419872723159e097",
+  "title": "Glen Ridge Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "97e1c4d0-86ac-11e4-8c28-020000005b00",
+    "name": "Glen Ridge Country Club",
+    "address": "555 Ridgewood Ave, Glen Ridge, NJ",
+    "courses": [
+      {
+        "name": "Glen Ridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6123,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6123,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5902,
+            "par": 71,
+            "rating": 69,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5902,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 135
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5484,
+            "par": 71,
+            "rating": 67,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5484,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4800,
+            "par": 71,
+            "rating": 63.7,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4800,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/97e1c4d0-86ac-11e4-8c28-020000005b00/glen-ridge-country-club"
+  }
+}

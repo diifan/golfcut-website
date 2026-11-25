@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b267c700-86ac-11e4-8c28-020000005b00/springfield-oaks-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b267c700-86ac-11e4-8c28-020000005b00/springfield-oaks-golf-course",
+  "checked_at": 1795524965.1941092,
+  "sha256": "7ec8cd84937255c45b76f425f13cd6a27060c1a8a0af70df3c4f6d19da80124b",
+  "title": "Springfield Oaks Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b267c700-86ac-11e4-8c28-020000005b00",
+    "name": "Springfield Oaks Golf Course",
+    "address": "12450 Andersonville Rd, Davisburg, MI",
+    "courses": [
+      {
+        "name": "Springfield Oaks",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6033,
+            "par": 71,
+            "rating": 69.5,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5705,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5372,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b267c700-86ac-11e4-8c28-020000005b00/springfield-oaks-golf-course"
+  }
+}

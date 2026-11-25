@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9bcae5e0-86ac-11e4-8c28-020000005b00/miami-valley-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9bcae5e0-86ac-11e4-8c28-020000005b00/miami-valley-golf-club",
+  "checked_at": 1795583777.8287702,
+  "sha256": "f953bbf64bedaae1a57959952713ca6c8ef8eaf61445fa09f126f047431bddcb",
+  "title": "Miami Valley Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9bcae5e0-86ac-11e4-8c28-020000005b00",
+    "name": "Miami Valley Golf Club",
+    "address": "3311 Salem Ave",
+    "courses": [
+      {
+        "name": "Miami Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6795,
+            "par": 71,
+            "rating": 72.4,
+            "slope": 129
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6795,
+            "par": 74,
+            "rating": 78,
+            "slope": 139
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6405,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6405,
+            "par": 74,
+            "rating": 76,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5865,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5865,
+            "par": 74,
+            "rating": 73.6,
+            "slope": 126
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5340,
+            "par": 71,
+            "rating": 65.8,
+            "slope": 113
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5340,
+            "par": 74,
+            "rating": 70.4,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9bcae5e0-86ac-11e4-8c28-020000005b00/miami-valley-golf-club"
+  }
+}

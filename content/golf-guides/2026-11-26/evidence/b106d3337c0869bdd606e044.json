@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/adc56810-86ac-11e4-8c28-020000005b00/mount-airy-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/adc56810-86ac-11e4-8c28-020000005b00/mount-airy-golf-club",
+  "checked_at": 1795524737.1680207,
+  "sha256": "7162004500b465b2bdfbb6b1bb028585c15a7b590995f7a65f0b56150e7376ea",
+  "title": "Mount Airy Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "adc56810-86ac-11e4-8c28-020000005b00",
+    "name": "Mount Airy Golf Club",
+    "address": "312 S R 45100, Mt Pocono",
+    "courses": [
+      {
+        "name": "Mount Airy",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6580,
+            "par": 71,
+            "rating": 72.4,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6038,
+            "par": 71,
+            "rating": 70,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5617,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5284,
+            "par": 71,
+            "rating": 69,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/adc56810-86ac-11e4-8c28-020000005b00/mount-airy-golf-club"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a475320-86ac-11e4-8c28-020000005b00/black-mountain-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a475320-86ac-11e4-8c28-020000005b00/black-mountain-golf-club",
+  "checked_at": 1795524906.5065305,
+  "sha256": "51af255948ce27b3b6831d299739fd8c93a6e003ed5badfd937c50440a318bf0",
+  "title": "Black Mountain Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9a475320-86ac-11e4-8c28-020000005b00",
+    "name": "Black Mountain Golf Club",
+    "address": "17 Ross Drive, Black Mountain, NC 28711",
+    "courses": [
+      {
+        "name": "Black Mountain",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6215,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6215,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5789,
+            "par": 71,
+            "rating": 67.4,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5789,
+            "par": 71,
+            "rating": 73.2,
+            "slope": 134
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4969,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4969,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5489,
+            "par": 71,
+            "rating": 64.1,
+            "slope": 110
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5489,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a475320-86ac-11e4-8c28-020000005b00/black-mountain-golf-club"
+  }
+}

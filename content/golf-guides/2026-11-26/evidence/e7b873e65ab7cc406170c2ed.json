@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a2a6a90-86ac-11e4-8c28-020000005b00/sinaloa-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a2a6a90-86ac-11e4-8c28-020000005b00/sinaloa-golf-course",
+  "checked_at": 1795524977.5543938,
+  "sha256": "db9a9b8775e7f648047933d1bb3d0b531ae50138eb27f5b283f4405efe68f096",
+  "title": "Sinaloa Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a2a6a90-86ac-11e4-8c28-020000005b00",
+    "name": "Sinaloa Golf Course",
+    "address": "980 Madera Rd, Simi Valley",
+    "courses": [
+      {
+        "name": "Sinaloa",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2078,
+            "par": 54,
+            "rating": 52.18592,
+            "slope": 78.99842
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2078,
+            "par": 54,
+            "rating": 52.18592,
+            "slope": 78.99842
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a2a6a90-86ac-11e4-8c28-020000005b00/sinaloa-golf-course"
+  }
+}

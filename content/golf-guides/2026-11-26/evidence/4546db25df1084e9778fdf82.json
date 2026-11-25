@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ca889f0-86ac-11e4-8c28-020000005b00/oakhurst-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ca889f0-86ac-11e4-8c28-020000005b00/oakhurst-golf-club",
+  "checked_at": 1795524474.6573904,
+  "sha256": "abce08406a1095e73cb1779f38748f123ab95df54e5fb1cddc46a5cb6e5182b8",
+  "title": "Oakhurst Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8ca889f0-86ac-11e4-8c28-020000005b00",
+    "name": "Oakhurst Golf Club",
+    "address": "20700 Mills Branch Drive, Porter",
+    "courses": [
+      {
+        "name": "Oakhurst",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7002,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7002,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6242,
+            "par": 72,
+            "rating": 69,
+            "slope": 119
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6242,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5647,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5647,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5188,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5188,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ca889f0-86ac-11e4-8c28-020000005b00/oakhurst-golf-club"
+  }
+}

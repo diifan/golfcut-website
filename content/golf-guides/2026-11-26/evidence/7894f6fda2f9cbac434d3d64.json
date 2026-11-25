@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0983720-86ac-11e4-8c28-020000005b00/enumclaw-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0983720-86ac-11e4-8c28-020000005b00/enumclaw-golf-club",
+  "checked_at": 1795524603.8940978,
+  "sha256": "079f9e7732d621de3683dc89db8709d95784004ed8764c962f8d40e6e5e2ccb0",
+  "title": "Enumclaw Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b0983720-86ac-11e4-8c28-020000005b00",
+    "name": "Enumclaw Golf Club",
+    "address": "45220 288th Ave SE, Enumclaw, WA",
+    "courses": [
+      {
+        "name": "Enumclaw",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5611,
+            "par": 70,
+            "rating": 66,
+            "slope": 105
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5611,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5095,
+            "par": 70,
+            "rating": 64.6,
+            "slope": 99
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5095,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0983720-86ac-11e4-8c28-020000005b00/enumclaw-golf-club"
+  }
+}

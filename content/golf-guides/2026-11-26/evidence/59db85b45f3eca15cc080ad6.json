@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d62b230-86ac-11e4-8c28-020000005b00/country-oaks-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d62b230-86ac-11e4-8c28-020000005b00/country-oaks-golf-club",
+  "checked_at": 1795524409.7197385,
+  "sha256": "bdb2db9b4fcc6ef510f34bb27b9dc2f6fe7e4a3fc748a8a0e2b9aed8536ef804",
+  "title": "Country Oaks Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d62b230-86ac-11e4-8c28-020000005b00",
+    "name": "Country Oaks Golf Club",
+    "address": "US Hwy 50 W",
+    "courses": [
+      {
+        "name": "Country Oaks",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6958,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6659,
+            "par": 72,
+            "rating": 72,
+            "slope": 125
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6027,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5341,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4983,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d62b230-86ac-11e4-8c28-020000005b00/country-oaks-golf-club"
+  }
+}

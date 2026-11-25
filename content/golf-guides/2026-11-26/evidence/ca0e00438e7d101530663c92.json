@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/aeaf79f0-86ac-11e4-8c28-020000005b00/belle-fourche-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/aeaf79f0-86ac-11e4-8c28-020000005b00/belle-fourche-country-club",
+  "checked_at": 1795582922.581138,
+  "sha256": "1ef695e82fba23d357a98f56760a4619d17f1861d77e05ef0207de5cfd2a0c3b",
+  "title": "Belle Fourche Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "aeaf79f0-86ac-11e4-8c28-020000005b00",
+    "name": "Belle Fourche Country Club",
+    "address": "10941 SD-34, Belle Fourche, SD",
+    "courses": [
+      {
+        "name": "Belle Fourche (Nine-Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3027,
+            "par": 36,
+            "rating": 35.1,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3027,
+            "par": 36,
+            "rating": 37,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2554,
+            "par": 36,
+            "rating": 34.1,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2554,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/aeaf79f0-86ac-11e4-8c28-020000005b00/belle-fourche-country-club"
+  }
+}

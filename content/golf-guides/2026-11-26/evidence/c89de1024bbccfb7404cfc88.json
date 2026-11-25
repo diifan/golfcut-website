@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9af80580-86ac-11e4-8c28-020000005b00/the-pointe-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9af80580-86ac-11e4-8c28-020000005b00/the-pointe-golf-club",
+  "checked_at": 1795524387.7311718,
+  "sha256": "4065093efd91a29dde6e985df2e3cb8c661b90cd2036431ae00e501591fa5596",
+  "title": "The Pointe Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9af80580-86ac-11e4-8c28-020000005b00",
+    "name": "The Pointe Golf Club",
+    "address": "308 Pointe Golf Club Dr., Powells Point, NC",
+    "courses": [
+      {
+        "name": "Pointe",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6276,
+            "par": 71,
+            "rating": 70,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6276,
+            "par": 71,
+            "rating": 75.3,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5893,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5893,
+            "par": 71,
+            "rating": 74.2,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5322,
+            "par": 71,
+            "rating": 65.6,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5322,
+            "par": 71,
+            "rating": 70.7,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4862,
+            "par": 71,
+            "rating": 64,
+            "slope": 102
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4862,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9af80580-86ac-11e4-8c28-020000005b00/the-pointe-golf-club"
+  }
+}

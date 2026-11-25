@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8dee7770-86ac-11e4-8c28-020000005b00/western-skies-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8dee7770-86ac-11e4-8c28-020000005b00/western-skies-golf-course",
+  "checked_at": 1795524160.323502,
+  "sha256": "fdbdaac4d5787f11e192022bf9165849658440f6b32722379c494ca152b1be32",
+  "title": "Western Skies Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8dee7770-86ac-11e4-8c28-020000005b00",
+    "name": "Western Skies Golf Course",
+    "address": "1245 E Warner Rd Gilbert, AZ",
+    "courses": [
+      {
+        "name": "Western Skies",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6744,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 122
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 6744,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Mens Club",
+            "category": "MALE",
+            "yards": 6236,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 118
+          },
+          {
+            "name": "Mens Club",
+            "category": "FEMALE",
+            "yards": 6236,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5990,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 113
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5990,
+            "par": 72,
+            "rating": 74,
+            "slope": 123
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5639,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 105
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5639,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8dee7770-86ac-11e4-8c28-020000005b00/western-skies-golf-course"
+  }
+}

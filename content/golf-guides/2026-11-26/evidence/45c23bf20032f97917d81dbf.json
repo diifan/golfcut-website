@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0d47cd0-86ac-11e4-8c28-020000005b00/rainier-golf-and-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0d47cd0-86ac-11e4-8c28-020000005b00/rainier-golf-and-country-club",
+  "checked_at": 1795524441.0077407,
+  "sha256": "6c80aa8e4f7a93426b55148e3264ad23adaa0637c55ab4a2d383d5508147bf82",
+  "title": "Rainier Golf and Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b0d47cd0-86ac-11e4-8c28-020000005b00",
+    "name": "Rainier Golf and Country Club",
+    "address": "1856 S 112th St, Seattle, WA",
+    "courses": [
+      {
+        "name": "Rainier",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6373,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 135
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6373,
+            "par": 74,
+            "rating": 77.2,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6141,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6141,
+            "par": 74,
+            "rating": 75.8,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5741,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5741,
+            "par": 74,
+            "rating": 73.6,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0d47cd0-86ac-11e4-8c28-020000005b00/rainier-golf-and-country-club"
+  }
+}

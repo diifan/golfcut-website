@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ccdd6f0-86ac-11e4-8c28-020000005b00/reeves-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ccdd6f0-86ac-11e4-8c28-020000005b00/reeves-golf-course",
+  "checked_at": 1795524486.2546904,
+  "sha256": "1c07d4dcd51913b1287cb47ac05c5be4d8633b113987c812fbdbcc83d5c806d6",
+  "title": "Reeves Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9ccdd6f0-86ac-11e4-8c28-020000005b00",
+    "name": "Reeves Golf Course",
+    "address": "4757 Playfield Lane  Cincinnati, OH 45226",
+    "courses": [
+      {
+        "name": "Reeves",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6188,
+            "par": 70,
+            "rating": 68.7,
+            "slope": 114
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6188,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5804,
+            "par": 70,
+            "rating": 67,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5804,
+            "par": 70,
+            "rating": 72.3,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5013,
+            "par": 70,
+            "rating": 63.6,
+            "slope": 104
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5013,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 111
+          }
+        ]
+      },
+      {
+        "name": "Par 3",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1070,
+            "par": 27,
+            "rating": 26.6828,
+            "slope": 79.6484
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1070,
+            "par": 27,
+            "rating": 26.6828,
+            "slope": 79.6484
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ccdd6f0-86ac-11e4-8c28-020000005b00/reeves-golf-course"
+  }
+}

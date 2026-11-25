@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c1e7260-86ac-11e4-8c28-020000005b00/fort-sam-houston-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c1e7260-86ac-11e4-8c28-020000005b00/fort-sam-houston-golf-course",
+  "checked_at": 1795525022.776874,
+  "sha256": "8a2adc18dd5133232ceeae4d7e85adc2aa4f2cf53c7ce1d1f4b1a2b1a4c204b3",
+  "title": "Fort Sam Houston Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8c1e7260-86ac-11e4-8c28-020000005b00",
+    "name": "Fort Sam Houston Golf Course",
+    "address": "1050 Harry Wurzbach Rd, San Antonio, TX",
+    "courses": [
+      {
+        "name": "La Loma at Fort Sam Houston",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6819,
+            "par": 71,
+            "rating": 72.8,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6412,
+            "par": 71,
+            "rating": 70.7,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5552,
+            "par": 71,
+            "rating": 66.9,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5235,
+            "par": 71,
+            "rating": 65.5,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c1e7260-86ac-11e4-8c28-020000005b00/fort-sam-houston-golf-course"
+  }
+}

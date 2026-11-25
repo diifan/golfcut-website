@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d2b6040-86ac-11e4-8c28-020000005b00/woodstone-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d2b6040-86ac-11e4-8c28-020000005b00/woodstone-golf-club",
+  "checked_at": 1795524096.6717312,
+  "sha256": "54173213e79a64a35c670f0fd7f785c110a91b236d42db93352fa531d1d405d6",
+  "title": "Woodstone Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d2b6040-86ac-11e4-8c28-020000005b00",
+    "name": "Woodstone Golf Club",
+    "address": "3777 Dogwood Road",
+    "courses": [
+      {
+        "name": "Woodstone",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Ash",
+            "category": "MALE",
+            "yards": 7091,
+            "par": 72,
+            "rating": 75,
+            "slope": 143
+          },
+          {
+            "name": "Oak",
+            "category": "MALE",
+            "yards": 6437,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 139
+          },
+          {
+            "name": "Maple",
+            "category": "MALE",
+            "yards": 5900,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 137
+          },
+          {
+            "name": "Pine",
+            "category": "MALE",
+            "yards": 5130,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d2b6040-86ac-11e4-8c28-020000005b00/woodstone-golf-club"
+  }
+}

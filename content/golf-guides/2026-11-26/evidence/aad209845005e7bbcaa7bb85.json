@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b54cbe80-86ac-11e4-8c28-020000005b00/clifton-hollow-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b54cbe80-86ac-11e4-8c28-020000005b00/clifton-hollow-golf-club",
+  "checked_at": 1795524551.469496,
+  "sha256": "c9eaecebb7b54ceb0c43fe89b32ade2105d83fc58f6621e23d7948d22af8d34a",
+  "title": "The Hollow Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b54cbe80-86ac-11e4-8c28-020000005b00",
+    "name": "The Hollow Golf Club",
+    "address": "W12166 829th Ave, River Falls, WI",
+    "courses": [
+      {
+        "name": "Clifton Hollow",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6339,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6339,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5981,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5981,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5229,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 108
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5229,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4648,
+            "par": 72,
+            "rating": 64.3,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4648,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b54cbe80-86ac-11e4-8c28-020000005b00/clifton-hollow-golf-club"
+  }
+}

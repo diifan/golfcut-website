@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c36ee20-86ac-11e4-8c28-020000005b00/ridge-top",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c36ee20-86ac-11e4-8c28-020000005b00/ridge-top",
+  "checked_at": 1795524423.1775827,
+  "sha256": "214d0ba89072ac4fba28ea50588b8b87cc3d46a0d6648678cce76138dd991300",
+  "title": "Ridge Top - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9c36ee20-86ac-11e4-8c28-020000005b00",
+    "name": "Ridge Top",
+    "address": "7441 Tower Rd, Medina, OH",
+    "courses": [
+      {
+        "name": "Ridge Top",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6241,
+            "par": 71,
+            "rating": 69.9,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5893,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 111
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4968,
+            "par": 71,
+            "rating": 63.8,
+            "slope": 107
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 3090,
+            "par": 71,
+            "rating": 59,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c36ee20-86ac-11e4-8c28-020000005b00/ridge-top"
+  }
+}

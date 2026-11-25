@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7b24be60-86ac-11e4-8c28-020000005b00/ardglass",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7b24be60-86ac-11e4-8c28-020000005b00/ardglass",
+  "checked_at": 1795524727.9678106,
+  "sha256": "0dea4e39d0f8a95d674d5815685df001b9aad4f51d444bea0500fd2ff8c4ed5c",
+  "title": "Ardglass Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "7b24be60-86ac-11e4-8c28-020000005b00",
+    "name": "Ardglass Golf Club",
+    "address": "9 Castle Pl, Ardglass, Downpatrick",
+    "courses": [
+      {
+        "name": "Ardglass",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6299,
+            "par": 71,
+            "rating": 70.6,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6299,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5883,
+            "par": 71,
+            "rating": 68.6,
+            "slope": 114
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5883,
+            "par": 71,
+            "rating": 73.9,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5360,
+            "par": 71,
+            "rating": 66.2,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5360,
+            "par": 71,
+            "rating": 71.1,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7b24be60-86ac-11e4-8c28-020000005b00/ardglass"
+  }
+}

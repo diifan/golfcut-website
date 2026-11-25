@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afa39df0-86ac-11e4-8c28-020000005b00/el-monte",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afa39df0-86ac-11e4-8c28-020000005b00/el-monte",
+  "checked_at": 1795524985.1965306,
+  "sha256": "cb9a14f342da71ca9b5f07a65e079881f23604b7abc46882255e9126baa1d8f3",
+  "title": "El Monte - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "afa39df0-86ac-11e4-8c28-020000005b00",
+    "name": "El Monte",
+    "address": "1300 Valley Dr., Ogden, UT",
+    "courses": [
+      {
+        "name": "El Monte",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 3009,
+            "par": 35,
+            "rating": 33.5,
+            "slope": 116
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 3009,
+            "par": 35,
+            "rating": 37,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2871,
+            "par": 35,
+            "rating": 32.6,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2871,
+            "par": 35,
+            "rating": 35.3,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2596,
+            "par": 35,
+            "rating": 31,
+            "slope": 102
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2596,
+            "par": 35,
+            "rating": 33.4,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afa39df0-86ac-11e4-8c28-020000005b00/el-monte"
+  }
+}

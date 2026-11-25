@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b56e2930-86ac-11e4-8c28-020000005b00/rivermoor",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b56e2930-86ac-11e4-8c28-020000005b00/rivermoor",
+  "checked_at": 1795524620.973369,
+  "sha256": "d93b3aec60b07c488b688f0f6fb165ad2f299337b34bf1f9fd4fc9268cad3d72",
+  "title": "Rivermoor Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b56e2930-86ac-11e4-8c28-020000005b00",
+    "name": "Rivermoor Golf Club",
+    "address": "30802 Waterford Dr, Waterford, WI",
+    "courses": [
+      {
+        "name": "Rivermoor",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6255,
+            "par": 70,
+            "rating": 70.7,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6255,
+            "par": 73,
+            "rating": 75.2,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6055,
+            "par": 70,
+            "rating": 69.8,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6055,
+            "par": 73,
+            "rating": 75.1,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5722,
+            "par": 70,
+            "rating": 68.2,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5722,
+            "par": 73,
+            "rating": 73.2,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5518,
+            "par": 70,
+            "rating": 67.1,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5518,
+            "par": 73,
+            "rating": 72.1,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b56e2930-86ac-11e4-8c28-020000005b00/rivermoor"
+  }
+}

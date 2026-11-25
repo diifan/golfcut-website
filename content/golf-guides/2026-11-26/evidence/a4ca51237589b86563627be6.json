@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/961b83c0-86ac-11e4-8c28-020000005b00/hyland-greens-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/961b83c0-86ac-11e4-8c28-020000005b00/hyland-greens-golf",
+  "checked_at": 1795524522.1111991,
+  "sha256": "5e8a7a2dcd436700cfdf721493a710c055d5e585b1176a1b271c98eb17290537",
+  "title": "Hyland Greens Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "961b83c0-86ac-11e4-8c28-020000005b00",
+    "name": "Hyland Greens Golf",
+    "address": "10100 Normandale Blvd, Bloomington, MN",
+    "courses": [
+      {
+        "name": "Hyland Greens",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1590,
+            "par": 28,
+            "rating": 28.5,
+            "slope": 94
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1590,
+            "par": 28,
+            "rating": 29.5,
+            "slope": 86
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1457,
+            "par": 28,
+            "rating": 28,
+            "slope": 93
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1457,
+            "par": 28,
+            "rating": 29.1,
+            "slope": 84
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/961b83c0-86ac-11e4-8c28-020000005b00/hyland-greens-golf"
+  }
+}

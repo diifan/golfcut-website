@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b08f3670-86ac-11e4-8c28-020000005b00/colfax-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b08f3670-86ac-11e4-8c28-020000005b00/colfax-golf-country-club",
+  "checked_at": 1795582942.4723978,
+  "sha256": "4d54a70a655c947c89fc0aa185078d5331a98c570c4ed41ce861755dad407e9c",
+  "title": "Colfax Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b08f3670-86ac-11e4-8c28-020000005b00",
+    "name": "Colfax Golf & Country Club",
+    "address": "2402 N Cedar St, Colfax, WA",
+    "courses": [
+      {
+        "name": "9 holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 3010,
+            "par": 35,
+            "rating": 34.3,
+            "slope": 118
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 3010,
+            "par": 36,
+            "rating": 37.7,
+            "slope": 125
+          },
+          {
+            "name": "White/Yellow",
+            "category": "MALE",
+            "yards": 2817,
+            "par": 35,
+            "rating": 33.7,
+            "slope": 121
+          },
+          {
+            "name": "White/Yellow",
+            "category": "FEMALE",
+            "yards": 2817,
+            "par": 36,
+            "rating": 36.8,
+            "slope": 122
+          }
+        ]
+      },
+      {
+        "name": "18 Hole",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 6020,
+            "par": 70,
+            "rating": 67,
+            "slope": 120
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 6020,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 124
+          },
+          {
+            "name": "White/Yellow",
+            "category": "MALE",
+            "yards": 5634,
+            "par": 70,
+            "rating": 66,
+            "slope": 113
+          },
+          {
+            "name": "White/Yellow",
+            "category": "FEMALE",
+            "yards": 5634,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b08f3670-86ac-11e4-8c28-020000005b00/colfax-golf-country-club"
+  }
+}

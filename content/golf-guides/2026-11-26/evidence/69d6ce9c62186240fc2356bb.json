@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/990c6220-86ac-11e4-8c28-020000005b00/sunny-hill-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/990c6220-86ac-11e4-8c28-020000005b00/sunny-hill-golf-course",
+  "checked_at": 1795525020.68974,
+  "sha256": "59e961cdc6bacd018642fc0ff5834813058f3a699f2df133b792d5fac7dd631d",
+  "title": "Sunny Hill Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "990c6220-86ac-11e4-8c28-020000005b00",
+    "name": "Sunny Hill Golf Course",
+    "address": "352 Sunny Hill Rd, Greenville, NY",
+    "courses": [
+      {
+        "name": "Sunny Hill",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 4316,
+            "par": 66,
+            "rating": 61.9,
+            "slope": 95
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 4115,
+            "par": 66,
+            "rating": 63.7,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/990c6220-86ac-11e4-8c28-020000005b00/sunny-hill-golf-course"
+  }
+}

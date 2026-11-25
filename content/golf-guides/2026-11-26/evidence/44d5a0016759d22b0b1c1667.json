@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ba5f8c0-86ac-11e4-8c28-020000005b00/sand-ridge-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ba5f8c0-86ac-11e4-8c28-020000005b00/sand-ridge-golf-club",
+  "checked_at": 1795524773.6315064,
+  "sha256": "cc575d73682674514d367432bc80fff29449681fe2f431570a59960cbfb78ace",
+  "title": "Sand Ridge Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9ba5f8c0-86ac-11e4-8c28-020000005b00",
+    "name": "Sand Ridge Golf Club",
+    "address": "12150 Mayfield Rd, Chardon, OH",
+    "courses": [
+      {
+        "name": "Sand Ridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Double diamond",
+            "category": "MALE",
+            "yards": 7275,
+            "par": 72,
+            "rating": 76,
+            "slope": 140
+          },
+          {
+            "name": "Diamond",
+            "category": "MALE",
+            "yards": 6698,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 135
+          },
+          {
+            "name": "Square",
+            "category": "MALE",
+            "yards": 5974,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 126
+          },
+          {
+            "name": "Circle",
+            "category": "MALE",
+            "yards": 5100,
+            "par": 72,
+            "rating": 64.7,
+            "slope": 112
+          },
+          {
+            "name": "Triangle",
+            "category": "MALE",
+            "yards": 6330,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 131
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ba5f8c0-86ac-11e4-8c28-020000005b00/sand-ridge-golf-club"
+  }
+}

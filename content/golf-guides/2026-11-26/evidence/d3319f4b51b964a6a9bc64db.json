@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b70fa430-86ac-11e4-8c28-020000005b00/fox-ridge-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b70fa430-86ac-11e4-8c28-020000005b00/fox-ridge-golf-club",
+  "checked_at": 1795524375.688224,
+  "sha256": "e51a50822dfea31543bd444597fbf51ea22afc668c821e954495ddd857c5f39c",
+  "title": "Fox Ridge Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b70fa430-86ac-11e4-8c28-020000005b00",
+    "name": "Fox Ridge Golf Club",
+    "address": "355 Country Club Ln, Dike, IA",
+    "courses": [
+      {
+        "name": "Fox Ridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6809,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6257,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6131,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5367,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b70fa430-86ac-11e4-8c28-020000005b00/fox-ridge-golf-club"
+  }
+}

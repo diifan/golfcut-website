@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5c65b50-86ac-11e4-8c28-020000005b00/lake-wissota-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5c65b50-86ac-11e4-8c28-020000005b00/lake-wissota-golf",
+  "checked_at": 1795524448.3272278,
+  "sha256": "f88d41ce507c411330c5b5786954e92a14402f45e179f6973397373a10927d75",
+  "title": "Lake Wissota Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b5c65b50-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Wissota Golf",
+    "address": "16108 97th Ave, Chippewa Falls, WI 54729",
+    "courses": [
+      {
+        "name": "Lake Wissota",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6006,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6006,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5682,
+            "par": 71,
+            "rating": 67.6,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5682,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4820,
+            "par": 71,
+            "rating": 66.9,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4820,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5c65b50-86ac-11e4-8c28-020000005b00/lake-wissota-golf"
+  }
+}

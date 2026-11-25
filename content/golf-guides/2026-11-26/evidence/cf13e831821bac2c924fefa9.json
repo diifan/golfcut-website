@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98e48ed0-86ac-11e4-8c28-020000005b00/heartland-golf-park",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98e48ed0-86ac-11e4-8c28-020000005b00/heartland-golf-park",
+  "checked_at": 1795524836.3894377,
+  "sha256": "e04acfcb7f7f9beaa90acd0931cdb49d13986f2903260b14e9426c268db08d0a",
+  "title": "Heartland Golf Park - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "98e48ed0-86ac-11e4-8c28-020000005b00",
+    "name": "Heartland Golf Park",
+    "address": "1200 Long Island Ave, Edgewood, NY",
+    "courses": [
+      {
+        "name": "Par 3",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1220,
+            "par": 27,
+            "rating": 27.2,
+            "slope": 87
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1220,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1079,
+            "par": 27,
+            "rating": 26.9,
+            "slope": 85
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1079,
+            "par": 27,
+            "rating": 28.5,
+            "slope": 89
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 930,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 930,
+            "par": 27,
+            "rating": 25.4,
+            "slope": 88
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98e48ed0-86ac-11e4-8c28-020000005b00/heartland-golf-park"
+  }
+}

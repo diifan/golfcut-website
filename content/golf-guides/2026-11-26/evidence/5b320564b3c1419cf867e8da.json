@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/89c03710-86ac-11e4-8c28-020000005b00/portola-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/89c03710-86ac-11e4-8c28-020000005b00/portola-country-club",
+  "checked_at": 1795582923.15669,
+  "sha256": "a115adc390faa7c772b52aa58e8eb258106097426e9e54da82577f0263c54033",
+  "title": "Portola Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "89c03710-86ac-11e4-8c28-020000005b00",
+    "name": "Portola Country Club",
+    "address": "42500 Portola Ave, Palm Desert, CA",
+    "courses": [
+      {
+        "name": "Portola",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2134,
+            "par": 54,
+            "rating": 52.41776,
+            "slope": 79.27226
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1930,
+            "par": 54,
+            "rating": 51.5732,
+            "slope": 78.2747
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/89c03710-86ac-11e4-8c28-020000005b00/portola-country-club"
+  }
+}

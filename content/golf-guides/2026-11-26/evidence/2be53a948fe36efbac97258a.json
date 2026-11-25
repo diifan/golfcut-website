@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b76e3ef0-86ac-11e4-8c28-020000005b00/osceola-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b76e3ef0-86ac-11e4-8c28-020000005b00/osceola-municipal-golf-course",
+  "checked_at": 1795524576.3758519,
+  "sha256": "3ebfeb9fe819acb0eeb103d158c90c5cbb4f40f35b24f4b3c6a3040ffc49f24e",
+  "title": "Osceola Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b76e3ef0-86ac-11e4-8c28-020000005b00",
+    "name": "Osceola Municipal Golf Course",
+    "address": "400 E Fayette St., Osceola, IA",
+    "courses": [
+      {
+        "name": "9 Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2742,
+            "par": 35,
+            "rating": 35.1,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2742,
+            "par": 35,
+            "rating": 35.7,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2888,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2888,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2248,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2248,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      },
+      {
+        "name": "18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5484,
+            "par": 70,
+            "rating": 65.2,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5484,
+            "par": 70,
+            "rating": 69.8,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5776,
+            "par": 70,
+            "rating": 67,
+            "slope": 114
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5776,
+            "par": 70,
+            "rating": 72.2,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4496,
+            "par": 70,
+            "rating": 63,
+            "slope": 98
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4496,
+            "par": 70,
+            "rating": 66.8,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b76e3ef0-86ac-11e4-8c28-020000005b00/osceola-municipal-golf-course"
+  }
+}

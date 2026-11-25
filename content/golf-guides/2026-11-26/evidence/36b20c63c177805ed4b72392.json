@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8de3a200-86ac-11e4-8c28-020000005b00/prescott-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8de3a200-86ac-11e4-8c28-020000005b00/prescott-golf-country-club",
+  "checked_at": 1795524652.138032,
+  "sha256": "de2b50071b68ecbbb24826698aaa7d11c740151ca6db6da3efef27de879f4a6b",
+  "title": "Prescott Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8de3a200-86ac-11e4-8c28-020000005b00",
+    "name": "Prescott Golf & Country Club",
+    "address": "1030 Prescott Country Club Blvd",
+    "courses": [
+      {
+        "name": "Prescott",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue tees",
+            "category": "MALE",
+            "yards": 6655,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 127
+          },
+          {
+            "name": "White tees",
+            "category": "MALE",
+            "yards": 6302,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 122
+          },
+          {
+            "name": "Red tees",
+            "category": "MALE",
+            "yards": 5732,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8de3a200-86ac-11e4-8c28-020000005b00/prescott-golf-country-club"
+  }
+}

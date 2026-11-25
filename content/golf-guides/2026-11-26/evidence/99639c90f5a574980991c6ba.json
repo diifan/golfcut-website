@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8933ae80-86ac-11e4-8c28-020000005b00/echo-hills-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8933ae80-86ac-11e4-8c28-020000005b00/echo-hills-golf-club",
+  "checked_at": 1795524696.2768474,
+  "sha256": "102c6d96529a32341b4a1bf6e6a95434798e4da17c49ebb3a5d2c9c3548d872e",
+  "title": "Echo Hills Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8933ae80-86ac-11e4-8c28-020000005b00",
+    "name": "Echo Hills Golf Club",
+    "address": "545 E Thornton Ave, Hemet, CA",
+    "courses": [
+      {
+        "name": "Echo Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4288,
+            "par": 70,
+            "rating": 61.2,
+            "slope": 93
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4288,
+            "par": 70,
+            "rating": 64.8,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3976,
+            "par": 70,
+            "rating": 59.8,
+            "slope": 89
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3976,
+            "par": 70,
+            "rating": 63,
+            "slope": 102
+          }
+        ]
+      },
+      {
+        "name": "Echo Hills (9holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2144,
+            "par": 35,
+            "rating": 30.6,
+            "slope": 93
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2144,
+            "par": 35,
+            "rating": 32.4,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1988,
+            "par": 35,
+            "rating": 29.9,
+            "slope": 89
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1988,
+            "par": 35,
+            "rating": 31.5,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8933ae80-86ac-11e4-8c28-020000005b00/echo-hills-golf-club"
+  }
+}

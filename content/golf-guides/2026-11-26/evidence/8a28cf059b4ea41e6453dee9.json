@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/904d27f0-86ac-11e4-8c28-020000005b00/sebastian-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/904d27f0-86ac-11e4-8c28-020000005b00/sebastian-municipal-golf-course",
+  "checked_at": 1795524697.743005,
+  "sha256": "d8cc5f50ea9c5ccc85fa3b4edbc53b5d76ff085d618a7e9b2559e6cd5edc3c5d",
+  "title": "Sebastian Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "904d27f0-86ac-11e4-8c28-020000005b00",
+    "name": "Sebastian Municipal Golf Course",
+    "address": "101 E Airport Rd Sebastian, FL",
+    "courses": [
+      {
+        "name": "Sebastian Municipal",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6563,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 124
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6563,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6098,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6098,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5466,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5466,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5195,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5195,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/904d27f0-86ac-11e4-8c28-020000005b00/sebastian-municipal-golf-course"
+  }
+}

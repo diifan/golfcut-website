@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b59e12d0-86ac-11e4-8c28-020000005b00/the-glen-golf-park",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b59e12d0-86ac-11e4-8c28-020000005b00/the-glen-golf-park",
+  "checked_at": 1795524490.1614487,
+  "sha256": "2a9470d7878d46d8da3f14ad94bd5e220e3be0b69ae0eaf7af4976b555d1bebc",
+  "title": "The Glen Golf Park - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b59e12d0-86ac-11e4-8c28-020000005b00",
+    "name": "The Glen Golf Park",
+    "address": "3747 Speedway Rd, Madison, WI",
+    "courses": [
+      {
+        "name": "The Glen Golf Park",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Sumac",
+            "category": "MALE",
+            "yards": 2372,
+            "par": 32,
+            "rating": 31.4,
+            "slope": 104
+          },
+          {
+            "name": "Sumac",
+            "category": "FEMALE",
+            "yards": 2372,
+            "par": 32,
+            "rating": 33.2,
+            "slope": 113
+          },
+          {
+            "name": "Pine",
+            "category": "MALE",
+            "yards": 2202,
+            "par": 32,
+            "rating": 30.9,
+            "slope": 102
+          },
+          {
+            "name": "Pine",
+            "category": "FEMALE",
+            "yards": 2202,
+            "par": 32,
+            "rating": 32.2,
+            "slope": 109
+          },
+          {
+            "name": "Lake",
+            "category": "MALE",
+            "yards": 1855,
+            "par": 32,
+            "rating": 29.7,
+            "slope": 98
+          },
+          {
+            "name": "Lake",
+            "category": "FEMALE",
+            "yards": 1855,
+            "par": 32,
+            "rating": 30.3,
+            "slope": 101
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b59e12d0-86ac-11e4-8c28-020000005b00/the-glen-golf-park"
+  }
+}

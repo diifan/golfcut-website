@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b26e0890-86ac-11e4-8c28-020000005b00/rouge-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b26e0890-86ac-11e4-8c28-020000005b00/rouge-park-golf-course",
+  "checked_at": 1795523939.407347,
+  "sha256": "8584f483ba49f2a38b4f13c453ce7e417f34756f03f8fa64546f81f5dbc605cb",
+  "title": "Rouge Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b26e0890-86ac-11e4-8c28-020000005b00",
+    "name": "Rouge Park Golf Course",
+    "address": "11701 Burt Rd, Detroit, MI",
+    "courses": [
+      {
+        "name": "Rouge Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6311,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6311,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6047,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6047,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Grey",
+            "category": "MALE",
+            "yards": 5533,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 110
+          },
+          {
+            "name": "Grey",
+            "category": "FEMALE",
+            "yards": 5533,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b26e0890-86ac-11e4-8c28-020000005b00/rouge-park-golf-course"
+  }
+}

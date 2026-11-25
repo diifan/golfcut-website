@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8bd7cc70-86ac-11e4-8c28-020000005b00/luling",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8bd7cc70-86ac-11e4-8c28-020000005b00/luling",
+  "checked_at": 1795583791.7672055,
+  "sha256": "055c1086761cc9ec055bed5f0462d798742a258fd91a31836f6e9c679d9c7303",
+  "title": "Luling Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8bd7cc70-86ac-11e4-8c28-020000005b00",
+    "name": "Luling Golf Club",
+    "address": "1005 S Magnolia Luling, TX",
+    "courses": [
+      {
+        "name": "Luling",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 5708,
+            "par": 70,
+            "rating": 67.3,
+            "slope": 112
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 5708,
+            "par": 70,
+            "rating": 72.8,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4712,
+            "par": 70,
+            "rating": 62.6,
+            "slope": 100
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4712,
+            "par": 70,
+            "rating": 67.9,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4052,
+            "par": 70,
+            "rating": 61.1,
+            "slope": 84
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4052,
+            "par": 70,
+            "rating": 63.7,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8bd7cc70-86ac-11e4-8c28-020000005b00/luling"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6d5f690-86ac-11e4-8c28-020000005b00/river-valley-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6d5f690-86ac-11e4-8c28-020000005b00/river-valley-golf-course",
+  "checked_at": 1795524194.0840151,
+  "sha256": "612c896da4e290692276ce88a9a1b1eacf59eb33b8c4e4dd4642b4d80c56e99b",
+  "title": "River Valley Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6d5f690-86ac-11e4-8c28-020000005b00",
+    "name": "River Valley Golf Course",
+    "address": "22927 Valley View Trail, Adel, IA",
+    "courses": [
+      {
+        "name": "River Valley Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6573,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 130
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6573,
+            "par": 72,
+            "rating": 77.8,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6133,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6133,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5100,
+            "par": 72,
+            "rating": 64.3,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5100,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6d5f690-86ac-11e4-8c28-020000005b00/river-valley-golf-course"
+  }
+}

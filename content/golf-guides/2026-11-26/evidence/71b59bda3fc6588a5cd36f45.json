@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afd97b00-86ac-11e4-8c28-020000005b00/lees-hill-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afd97b00-86ac-11e4-8c28-020000005b00/lees-hill-golf-club",
+  "checked_at": 1795524561.9509273,
+  "sha256": "73efdeb8abd51562052e55081fc3d13b93f3410adafd67b3fdf4a141ac2642a2",
+  "title": "Lee's Hill Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "afd97b00-86ac-11e4-8c28-020000005b00",
+    "name": "Lee's Hill Golf Club",
+    "address": "10200 Old Dominion Pkwy, Fredericksburg, VA",
+    "courses": [
+      {
+        "name": "Lees Hill",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Cannon",
+            "category": "MALE",
+            "yards": 6572,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 135
+          },
+          {
+            "name": "Cannon",
+            "category": "FEMALE",
+            "yards": 6572,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 136
+          },
+          {
+            "name": "Rifle",
+            "category": "MALE",
+            "yards": 6113,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 129
+          },
+          {
+            "name": "Rifle",
+            "category": "FEMALE",
+            "yards": 6113,
+            "par": 72,
+            "rating": 76.5,
+            "slope": 136
+          },
+          {
+            "name": "Saber",
+            "category": "MALE",
+            "yards": 5778,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 125
+          },
+          {
+            "name": "Saber",
+            "category": "FEMALE",
+            "yards": 5778,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 132
+          },
+          {
+            "name": "Pistol",
+            "category": "MALE",
+            "yards": 4935,
+            "par": 72,
+            "rating": 64.7,
+            "slope": 117
+          },
+          {
+            "name": "Pistol",
+            "category": "FEMALE",
+            "yards": 4935,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afd97b00-86ac-11e4-8c28-020000005b00/lees-hill-golf-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/949b2550-86ac-11e4-8c28-020000005b00/midland-trail-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/949b2550-86ac-11e4-8c28-020000005b00/midland-trail-golf-club",
+  "checked_at": 1795524373.5899475,
+  "sha256": "18330bc16fe376172a79250c4d811e1b6d787d77bfdea9890f2c303e93c9ba5d",
+  "title": "Midland Trail Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "949b2550-86ac-11e4-8c28-020000005b00",
+    "name": "Midland Trail Golf Club",
+    "address": "15360 Shelbyville Rd, Louisville, KY",
+    "courses": [
+      {
+        "name": "Midland Trail",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6832,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6642,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6259,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5334,
+            "par": 72,
+            "rating": 64.8,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/949b2550-86ac-11e4-8c28-020000005b00/midland-trail-golf-club"
+  }
+}

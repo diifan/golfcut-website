@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d4ae470-86ac-11e4-8c28-020000005b00/woodstock-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d4ae470-86ac-11e4-8c28-020000005b00/woodstock-club",
+  "checked_at": 1795524673.1591842,
+  "sha256": "1d4471ecbd30b63d72e7801e87ea6738c495b3c719116f55358c7b0d4a90d38b",
+  "title": "Woodstock Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d4ae470-86ac-11e4-8c28-020000005b00",
+    "name": "Woodstock Club",
+    "address": "1301 W 38th St, Indianapolis, IN",
+    "courses": [
+      {
+        "name": "Woodstock",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 6174,
+            "par": 70,
+            "rating": 69.7,
+            "slope": 124
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 6174,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 132
+          },
+          {
+            "name": "Red/gold",
+            "category": "MALE",
+            "yards": 5321,
+            "par": 70,
+            "rating": 69.2,
+            "slope": 118
+          },
+          {
+            "name": "Red/gold",
+            "category": "FEMALE",
+            "yards": 5321,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d4ae470-86ac-11e4-8c28-020000005b00/woodstock-club"
+  }
+}

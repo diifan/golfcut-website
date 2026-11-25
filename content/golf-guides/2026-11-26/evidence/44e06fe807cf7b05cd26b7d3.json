@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8358a880-86ac-11e4-8c28-020000005b00/geneva-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8358a880-86ac-11e4-8c28-020000005b00/geneva-golf-club",
+  "checked_at": 1795524477.6435597,
+  "sha256": "c39e9f1ba7334b46bb8b5d4297ecc548347311bdf287b519f25cfa423f6e944c",
+  "title": "Geneva Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8358a880-86ac-11e4-8c28-020000005b00",
+    "name": "Geneva Golf Club",
+    "address": "831 S St, Geneva, IL",
+    "courses": [
+      {
+        "name": "Geneva",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6036,
+            "par": 68,
+            "rating": 70.4,
+            "slope": 139
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6036,
+            "par": 68,
+            "rating": 74,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5860,
+            "par": 68,
+            "rating": 69.6,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5860,
+            "par": 68,
+            "rating": 75.4,
+            "slope": 138
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5168,
+            "par": 68,
+            "rating": 66.4,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5168,
+            "par": 68,
+            "rating": 71.4,
+            "slope": 130
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8358a880-86ac-11e4-8c28-020000005b00/geneva-golf-club"
+  }
+}

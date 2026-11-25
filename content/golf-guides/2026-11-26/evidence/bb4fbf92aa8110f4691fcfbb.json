@@ -1,0 +1,81 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98707040-86ac-11e4-8c28-020000005b00/beekman-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98707040-86ac-11e4-8c28-020000005b00/beekman-golf",
+  "checked_at": 1795524857.5862997,
+  "sha256": "abee9cafdd02dfdecd8a1983acbf075c0f77df28bd3d768ee9041276cf356e69",
+  "title": "Beekman Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "98707040-86ac-11e4-8c28-020000005b00",
+    "name": "Beekman Golf",
+    "address": "11 Country Club Rd, Hopewell Junction, NY",
+    "courses": [
+      {
+        "name": "Beekman(Taconic + Highland  BACK)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6532,
+            "par": 72,
+            "rating": 72,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6195,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 123
+          }
+        ]
+      },
+      {
+        "name": "VALLEY / TACONIC BACK",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6495,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6092,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 121
+          }
+        ]
+      },
+      {
+        "name": "HIGHLAND / VALLEY BACK",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6485,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6129,
+            "par": 72,
+            "rating": 69,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98707040-86ac-11e4-8c28-020000005b00/beekman-golf"
+  }
+}

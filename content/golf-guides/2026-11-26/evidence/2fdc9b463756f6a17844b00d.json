@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e0b4e40-86ac-11e4-8c28-020000005b00/sunland-village-east-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e0b4e40-86ac-11e4-8c28-020000005b00/sunland-village-east-golf-course",
+  "checked_at": 1795524701.4415646,
+  "sha256": "43d2d8bf2f7f8c2f27110909b5a20bb1d7c612c1526bdf9c299b31674e77a5ed",
+  "title": "Sunland Village East Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8e0b4e40-86ac-11e4-8c28-020000005b00",
+    "name": "Sunland Village East Golf Course",
+    "address": "2250 S Buttercup St, Mesa, AZ",
+    "courses": [
+      {
+        "name": "Sunland Village East",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3621,
+            "par": 62,
+            "rating": 58.7,
+            "slope": 90
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3621,
+            "par": 62,
+            "rating": 59.6,
+            "slope": 93
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3235,
+            "par": 62,
+            "rating": 59.6,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3235,
+            "par": 62,
+            "rating": 57.1,
+            "slope": 85
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e0b4e40-86ac-11e4-8c28-020000005b00/sunland-village-east-golf-course"
+  }
+}

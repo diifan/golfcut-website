@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/78772a90-86ac-11e4-8c28-020000005b00/stonehenge-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/78772a90-86ac-11e4-8c28-020000005b00/stonehenge-golf-club",
+  "checked_at": 1795524420.457833,
+  "sha256": "1c28705c972e40193f13098b6b6fad89088c96df1cb106dbec277164ff9981f4",
+  "title": "Stonehenge Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "78772a90-86ac-11e4-8c28-020000005b00",
+    "name": "Stonehenge Golf Club",
+    "address": "3033 Taunton Road",
+    "courses": [
+      {
+        "name": "Stonehenge (9 holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Plat",
+            "category": "MALE",
+            "yards": 3388,
+            "par": 35,
+            "rating": 37.9,
+            "slope": 125
+          },
+          {
+            "name": "Plat",
+            "category": "FEMALE",
+            "yards": 3388,
+            "par": 34,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 3116,
+            "par": 35,
+            "rating": 36.7,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 3116,
+            "par": 34,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2844,
+            "par": 35,
+            "rating": 35.4,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2844,
+            "par": 34,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 2363,
+            "par": 35,
+            "rating": 33.2,
+            "slope": 106
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 2363,
+            "par": 34,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/78772a90-86ac-11e4-8c28-020000005b00/stonehenge-golf-club"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95629400-86ac-11e4-8c28-020000005b00/country-club-of-halifax",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95629400-86ac-11e4-8c28-020000005b00/country-club-of-halifax",
+  "checked_at": 1795524459.4330206,
+  "sha256": "9cd14066a8daa1fb3ac52e749c251132a5d42e709a0fcdd32c69da2c7447bd5e",
+  "title": "Country Club Of Halifax - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95629400-86ac-11e4-8c28-020000005b00",
+    "name": "Country Club Of Halifax",
+    "address": "100 Country Club Drive, Halifax, MA",
+    "courses": [
+      {
+        "name": "Halifax",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6708,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 130
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6708,
+            "par": 73,
+            "rating": 77.6,
+            "slope": 138
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6482,
+            "par": 72,
+            "rating": 72,
+            "slope": 127
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6482,
+            "par": 73,
+            "rating": 77.4,
+            "slope": 134
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5465,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 122
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5465,
+            "par": 73,
+            "rating": 73.2,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95629400-86ac-11e4-8c28-020000005b00/country-club-of-halifax"
+  }
+}

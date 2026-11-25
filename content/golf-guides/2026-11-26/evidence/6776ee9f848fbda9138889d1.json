@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b99b7f30-86ac-11e4-8c28-020000005b00/deer-lake-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b99b7f30-86ac-11e4-8c28-020000005b00/deer-lake-golf-club",
+  "checked_at": 1795524777.1711032,
+  "sha256": "017047e3677b9a1e420ada9d36013eb505346550202a25a20060555e498c1c9d",
+  "title": "Deer Lake Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b99b7f30-86ac-11e4-8c28-020000005b00",
+    "name": "Deer Lake Golf Club",
+    "address": "Hwy M, Van Buren, MO",
+    "courses": [
+      {
+        "name": "Deer Run",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6919,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6919,
+            "par": 72,
+            "rating": 78.7,
+            "slope": 140
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6415,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6415,
+            "par": 72,
+            "rating": 76,
+            "slope": 134
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5457,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5457,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b99b7f30-86ac-11e4-8c28-020000005b00/deer-lake-golf-club"
+  }
+}

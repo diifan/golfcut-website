@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b29f03a0-86ac-11e4-8c28-020000005b00/grand-beach-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b29f03a0-86ac-11e4-8c28-020000005b00/grand-beach-golf-course",
+  "checked_at": 1795582872.139281,
+  "sha256": "d3a04543e352108a66fa5a0600012dd42ec63aaf122e11daea07836a060f32ea",
+  "title": "Grand Beach Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b29f03a0-86ac-11e4-8c28-020000005b00",
+    "name": "Grand Beach Golf Course",
+    "address": "48200 Perkins Blvd.",
+    "courses": [
+      {
+        "name": "Grand Beach",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 5785,
+            "par": 70,
+            "rating": 68.9,
+            "slope": 128
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 5785,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold/Red",
+            "category": "MALE",
+            "yards": 4634,
+            "par": 70,
+            "rating": 63.2,
+            "slope": 112
+          },
+          {
+            "name": "Gold/Red",
+            "category": "FEMALE",
+            "yards": 4634,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b29f03a0-86ac-11e4-8c28-020000005b00/grand-beach-golf-course"
+  }
+}

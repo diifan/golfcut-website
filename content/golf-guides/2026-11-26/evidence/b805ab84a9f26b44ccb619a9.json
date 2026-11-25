@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99bf3760-86ac-11e4-8c28-020000005b00/saratoga-lake-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99bf3760-86ac-11e4-8c28-020000005b00/saratoga-lake-golf-club",
+  "checked_at": 1795524510.691197,
+  "sha256": "fb52d2364c875138a8fdefb255cf265f64642d017d98bd703e4bd999dd51d4eb",
+  "title": "Saratoga Lake Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99bf3760-86ac-11e4-8c28-020000005b00",
+    "name": "Saratoga Lake Golf Club",
+    "address": "35 Gracemore Rd, Saratoga Springs, NY",
+    "courses": [
+      {
+        "name": "Saratoga Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6266,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6266,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5808,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5808,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 138
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5124,
+            "par": 72,
+            "rating": 66,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5124,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4491,
+            "par": 72,
+            "rating": 64.1,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4491,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99bf3760-86ac-11e4-8c28-020000005b00/saratoga-lake-golf-club"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e07a4c0-86ac-11e4-8c28-020000005b00/dobson-ranch-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e07a4c0-86ac-11e4-8c28-020000005b00/dobson-ranch-golf-course",
+  "checked_at": 1795524527.6363633,
+  "sha256": "e95d4301287ae44b6969ccc26d13a35d9bd228bf10b76cb98329308fcad7d83c",
+  "title": "Dobson Ranch Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8e07a4c0-86ac-11e4-8c28-020000005b00",
+    "name": "Dobson Ranch Golf Course",
+    "address": "2155 S Dobson Rd, Mesa, AZ",
+    "courses": [
+      {
+        "name": "Dobson Ranch",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6793,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6793,
+            "par": 72,
+            "rating": 78,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6181,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6181,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5451,
+            "par": 72,
+            "rating": 66,
+            "slope": 112
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5451,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e07a4c0-86ac-11e4-8c28-020000005b00/dobson-ranch-golf-course"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/933cf4e0-86ac-11e4-8c28-020000005b00/brunswick-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/933cf4e0-86ac-11e4-8c28-020000005b00/brunswick-country-club",
+  "checked_at": 1795524458.7719347,
+  "sha256": "74773a9dc2a9bca21672a96897421d5bf0937eb7a0b8f46e31e21c23c36991b4",
+  "title": "Brunswick Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "933cf4e0-86ac-11e4-8c28-020000005b00",
+    "name": "Brunswick Country Club",
+    "address": "4041 Darien Hwy, Brunswick, GA",
+    "courses": [
+      {
+        "name": "Brunswick",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6802,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 131
+          },
+          {
+            "name": "Ross",
+            "category": "MALE",
+            "yards": 6437,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6260,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 124
+          },
+          {
+            "name": "Grey",
+            "category": "MALE",
+            "yards": 5870,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 120
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5573,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5008,
+            "par": 72,
+            "rating": 63.8,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/933cf4e0-86ac-11e4-8c28-020000005b00/brunswick-country-club"
+  }
+}

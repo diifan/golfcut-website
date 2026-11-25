@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af7a9220-86ac-11e4-8c28-020000005b00/copper-club-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af7a9220-86ac-11e4-8c28-020000005b00/copper-club-golf-course",
+  "checked_at": 1795524333.084189,
+  "sha256": "b93ea7c47579cddad2c75cff19dd2e1f1b18a4ca59ff1756fd6fbac1a8720637",
+  "title": "Copper Club Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "af7a9220-86ac-11e4-8c28-020000005b00",
+    "name": "Copper Club Golf Course",
+    "address": "8975 W 2600 S",
+    "courses": [
+      {
+        "name": "Copper(9 holes )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 3224,
+            "par": 36,
+            "rating": 34.1,
+            "slope": 116
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 3224,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "MALE",
+            "yards": 2759,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "FEMALE",
+            "yards": 2759,
+            "par": 36,
+            "rating": 34.2,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af7a9220-86ac-11e4-8c28-020000005b00/copper-club-golf-course"
+  }
+}

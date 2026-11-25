@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98b0d4a0-86ac-11e4-8c28-020000005b00/gull-haven",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98b0d4a0-86ac-11e4-8c28-020000005b00/gull-haven",
+  "checked_at": 1795524497.4970636,
+  "sha256": "35a3710f4957ea08ec54da54f847c0a27ae038d4f3d265a162657701fd7189fe",
+  "title": "Gull Haven - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "98b0d4a0-86ac-11e4-8c28-020000005b00",
+    "name": "Gull Haven",
+    "address": "1 Gullhaven Dr, Central Islip, NY",
+    "courses": [
+      {
+        "name": "Gull Haven(9 holes )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2727,
+            "par": 35,
+            "rating": 32.9,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2609,
+            "par": 35,
+            "rating": 32.3,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2384,
+            "par": 35,
+            "rating": 33.3,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98b0d4a0-86ac-11e4-8c28-020000005b00/gull-haven"
+  }
+}

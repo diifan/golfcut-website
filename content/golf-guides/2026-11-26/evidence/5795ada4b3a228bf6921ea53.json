@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad907560-86ac-11e4-8c28-020000005b00/sunny-hill-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad907560-86ac-11e4-8c28-020000005b00/sunny-hill-golf-course",
+  "checked_at": 1795582938.3499918,
+  "sha256": "3241143a5e4348059e3d865837bb0dd12376cf9ab0bc4cd9cd10610c1fb5658a",
+  "title": "Sunny Hill Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ad907560-86ac-11e4-8c28-020000005b00",
+    "name": "Sunny Hill Golf Course",
+    "address": "187 W Haas Manor Rd, Sunbury, PA",
+    "courses": [
+      {
+        "name": "Sunny Hill",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1119,
+            "par": 29,
+            "rating": 26.90526,
+            "slope": 80.54608
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1119,
+            "par": 29,
+            "rating": 26.90526,
+            "slope": 80.54608
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1099,
+            "par": 29,
+            "rating": 26.81446,
+            "slope": 80.17968
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1099,
+            "par": 29,
+            "rating": 26.81446,
+            "slope": 80.17968
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad907560-86ac-11e4-8c28-020000005b00/sunny-hill-golf-course"
+  }
+}

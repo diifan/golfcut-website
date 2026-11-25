@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/976a9900-86ac-11e4-8c28-020000005b00/washoe-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/976a9900-86ac-11e4-8c28-020000005b00/washoe-golf-course",
+  "checked_at": 1795524981.9887125,
+  "sha256": "81122d28fb2dc95e22f23fdd1a0fbe00aa23d0dafa7aaa30f32481cf9cddebbd",
+  "title": "Washoe Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "976a9900-86ac-11e4-8c28-020000005b00",
+    "name": "Washoe Golf Course",
+    "address": "2601 S Arlington, Reno NV",
+    "courses": [
+      {
+        "name": "Washoe",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6708,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6387,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5850,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5636,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 114
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 4614,
+            "par": 72,
+            "rating": 61.5,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/976a9900-86ac-11e4-8c28-020000005b00/washoe-golf-course"
+  }
+}

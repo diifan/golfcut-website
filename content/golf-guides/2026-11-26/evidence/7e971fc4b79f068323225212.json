@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b67204a0-86ac-11e4-8c28-020000005b00/james-e-stewart-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b67204a0-86ac-11e4-8c28-020000005b00/james-e-stewart-golf-course",
+  "checked_at": 1795524218.5425816,
+  "sha256": "4fb175aabede42bafb4b2befd3bda17a230fefd150a0e26ffe6c254289916dd2",
+  "title": "James E Stewart Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b67204a0-86ac-11e4-8c28-020000005b00",
+    "name": "James E Stewart Golf Course",
+    "address": "824 Fredrick Douglas Ave, Oklahoma City, OK",
+    "courses": [
+      {
+        "name": "James Stewart 9 holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 3105,
+            "par": 35,
+            "rating": 34.1,
+            "slope": 118
+          },
+          {
+            "name": "Tournament",
+            "category": "FEMALE",
+            "yards": 3105,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 2925,
+            "par": 35,
+            "rating": 33.9,
+            "slope": 116
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 2925,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 2662,
+            "par": 35,
+            "rating": 32.1,
+            "slope": 107
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 2662,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 2400,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 2400,
+            "par": 35,
+            "rating": 32.5,
+            "slope": 105
+          },
+          {
+            "name": "Junior",
+            "category": "MALE",
+            "yards": 2246,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Junior",
+            "category": "FEMALE",
+            "yards": 2246,
+            "par": 35,
+            "rating": 32.1,
+            "slope": 101
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b67204a0-86ac-11e4-8c28-020000005b00/james-e-stewart-golf-course"
+  }
+}

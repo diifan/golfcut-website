@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b90c310-86ac-11e4-8c28-020000005b00/wilkshire-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b90c310-86ac-11e4-8c28-020000005b00/wilkshire-golf-course",
+  "checked_at": 1795525016.5371728,
+  "sha256": "79d1ec66769db4f8d496583f0a7e397cef1fcc75793752109e6a8e1412a09803",
+  "title": "Wilkshire Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9b90c310-86ac-11e4-8c28-020000005b00",
+    "name": "Wilkshire Golf Course",
+    "address": "10566 Wilkshire Blvd, Bolivar, OH",
+    "courses": [
+      {
+        "name": "Wilkshire",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6445,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6445,
+            "par": 72,
+            "rating": 77.1,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5848,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5848,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5130,
+            "par": 72,
+            "rating": 64.6,
+            "slope": 112
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5130,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4621,
+            "par": 72,
+            "rating": 62.3,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4621,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b90c310-86ac-11e4-8c28-020000005b00/wilkshire-golf-course"
+  }
+}

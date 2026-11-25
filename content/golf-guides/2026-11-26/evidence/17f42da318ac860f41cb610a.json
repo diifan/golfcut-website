@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/89e9df20-86ac-11e4-8c28-020000005b00/tucker-oaks-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/89e9df20-86ac-11e4-8c28-020000005b00/tucker-oaks-golf-course",
+  "checked_at": 1795582937.652193,
+  "sha256": "70146a93e84159428e5b980cc639f25a8308882dbb176f47cbf3ffff3314f870",
+  "title": "Tucker Oaks Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "89e9df20-86ac-11e4-8c28-020000005b00",
+    "name": "Tucker Oaks Golf Course",
+    "address": "6241 Churn Creek Rd",
+    "courses": [
+      {
+        "name": "Tucker Oaks",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 3169,
+            "par": 36,
+            "rating": 34.2,
+            "slope": 111
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 3169,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Middle/Red",
+            "category": "MALE",
+            "yards": 3013,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Middle/Red",
+            "category": "FEMALE",
+            "yards": 3013,
+            "par": 36,
+            "rating": 36.1,
+            "slope": 115
+          }
+        ]
+      },
+      {
+        "name": "Tucker Oaks (18 holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 6338,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 111
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 6338,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Middle/Red",
+            "category": "MALE",
+            "yards": 6026,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Middle/Red",
+            "category": "FEMALE",
+            "yards": 6026,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/89e9df20-86ac-11e4-8c28-020000005b00/tucker-oaks-golf-course"
+  }
+}

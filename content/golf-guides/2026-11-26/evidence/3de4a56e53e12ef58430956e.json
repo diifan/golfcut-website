@@ -1,0 +1,83 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4d74060-86ac-11e4-8c28-020000005b00/the-nines-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4d74060-86ac-11e4-8c28-020000005b00/the-nines-golf-course",
+  "checked_at": 1795582892.322493,
+  "sha256": "426f9311c0c5fb63e66355f9d1b64b4e0913aaf69a7beb76544a338d0553d84d",
+  "title": "The Nines Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b4d74060-86ac-11e4-8c28-020000005b00",
+    "name": "The Nines Golf Course",
+    "address": "9301 SW Bayou Drive, McMinnville, OR",
+    "courses": [
+      {
+        "name": "The Nines Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6206,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6442,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5220,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 104
+          }
+        ]
+      },
+      {
+        "name": "Par 3",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1020,
+            "par": 27,
+            "rating": 25,
+            "slope": 95
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1020,
+            "par": 27,
+            "rating": 25,
+            "slope": 95
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 950,
+            "par": 27,
+            "rating": 25,
+            "slope": 95
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 950,
+            "par": 27,
+            "rating": 25,
+            "slope": 95
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4d74060-86ac-11e4-8c28-020000005b00/the-nines-golf-course"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b70eb9d0-86ac-11e4-8c28-020000005b00/waveland",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b70eb9d0-86ac-11e4-8c28-020000005b00/waveland",
+  "checked_at": 1795524307.9262438,
+  "sha256": "2e4f7f5e512e922e49c7d2498a6ba43a9fa92224753e770c113905752673e950",
+  "title": "Waveland - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b70eb9d0-86ac-11e4-8c28-020000005b00",
+    "name": "Waveland",
+    "address": "4908 University Avenue, Des Moines, IA",
+    "courses": [
+      {
+        "name": "Waveland",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6544,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6544,
+            "par": 72,
+            "rating": 77,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6282,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6282,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5651,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 111
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5651,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5323,
+            "par": 72,
+            "rating": 64.1,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5323,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b70eb9d0-86ac-11e4-8c28-020000005b00/waveland"
+  }
+}

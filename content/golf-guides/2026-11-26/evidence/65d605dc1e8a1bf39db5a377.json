@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98e3f290-86ac-11e4-8c28-020000005b00/eden-valley-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98e3f290-86ac-11e4-8c28-020000005b00/eden-valley-golf-course",
+  "checked_at": 1795524983.3051174,
+  "sha256": "bdcb59a96d128dabf253a15ab4a915fc4a7e3b827a0c4438885fffd7720553d2",
+  "title": "Eden Valley Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "98e3f290-86ac-11e4-8c28-020000005b00",
+    "name": "Eden Valley Golf Course",
+    "address": "10401 Sisson Hwy, Eden, NY",
+    "courses": [
+      {
+        "name": "Eden Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6123,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6123,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5394,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5394,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5164,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5164,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98e3f290-86ac-11e4-8c28-020000005b00/eden-valley-golf-course"
+  }
+}

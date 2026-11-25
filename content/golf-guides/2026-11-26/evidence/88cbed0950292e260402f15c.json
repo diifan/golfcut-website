@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9bde94f0-86ac-11e4-8c28-020000005b00/fostoria-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9bde94f0-86ac-11e4-8c28-020000005b00/fostoria-country-club",
+  "checked_at": 1795525023.6053193,
+  "sha256": "207c1c45b59698273432819e85203f2f2ba7a63910bf725ca0ff1e315805ccf0",
+  "title": "Fostoria Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9bde94f0-86ac-11e4-8c28-020000005b00",
+    "name": "Fostoria Country Club",
+    "address": "747 W Independence Rd",
+    "courses": [
+      {
+        "name": "Fostoria",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6527,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6223,
+            "par": 72,
+            "rating": 69,
+            "slope": 121
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5254,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4988,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9bde94f0-86ac-11e4-8c28-020000005b00/fostoria-country-club"
+  }
+}

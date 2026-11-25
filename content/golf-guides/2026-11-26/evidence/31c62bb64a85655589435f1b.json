@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af5ea5b0-86ac-11e4-8c28-020000005b00/cole-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af5ea5b0-86ac-11e4-8c28-020000005b00/cole-park-golf-course",
+  "checked_at": 1795524765.8595881,
+  "sha256": "de49c256d223f1d2af34e65bd2bbf2b2a9ade0b3b68a911e27437b2eca8e9a9b",
+  "title": "Cole Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af5ea5b0-86ac-11e4-8c28-020000005b00",
+    "name": "Cole Park Golf Course",
+    "address": "1601 Club Loop, Fort Campbell",
+    "courses": [
+      {
+        "name": "Cole Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6843,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6843,
+            "par": 72,
+            "rating": 78.3,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6219,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6219,
+            "par": 72,
+            "rating": 75,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5799,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5799,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5057,
+            "par": 72,
+            "rating": 68,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5057,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af5ea5b0-86ac-11e4-8c28-020000005b00/cole-park-golf-course"
+  }
+}

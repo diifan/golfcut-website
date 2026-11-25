@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c8e5cf0-86ac-11e4-8c28-020000005b00/locust-hills-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c8e5cf0-86ac-11e4-8c28-020000005b00/locust-hills-golf-course",
+  "checked_at": 1795524884.5281444,
+  "sha256": "ff9227a195887e79d05a5bb9147eb32fc0f064244bc0df1f74d3a391c5a4abcb",
+  "title": "Locust Hills Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9c8e5cf0-86ac-11e4-8c28-020000005b00",
+    "name": "Locust Hills Golf Course",
+    "address": "5575 N River Rd, Springfield, OH",
+    "courses": [
+      {
+        "name": "Locust Hills (Locust)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6596,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 112
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6185,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 109
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5327,
+            "par": 72,
+            "rating": 64.5,
+            "slope": 99
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4631,
+            "par": 72,
+            "rating": 61.7,
+            "slope": 93
+          }
+        ]
+      },
+      {
+        "name": "Locust Hills (Maple)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6752,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 115
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6241,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 112
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5420,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 99
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4664,
+            "par": 72,
+            "rating": 61.3,
+            "slope": 94
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c8e5cf0-86ac-11e4-8c28-020000005b00/locust-hills-golf-course"
+  }
+}

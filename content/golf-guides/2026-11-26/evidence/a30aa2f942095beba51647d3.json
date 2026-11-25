@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9bda7640-86ac-11e4-8c28-020000005b00/fairfield-greens",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9bda7640-86ac-11e4-8c28-020000005b00/fairfield-greens",
+  "checked_at": 1795582932.4585924,
+  "sha256": "15ad5a63d3fcb547de0a21959cb8df1e59c7f4922b49ccc3ab0602985802e0e0",
+  "title": "Fairfield Greens - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9bda7640-86ac-11e4-8c28-020000005b00",
+    "name": "Fairfield Greens",
+    "address": "2200 John Gray Road",
+    "courses": [
+      {
+        "name": "Fairfield Greens South Trace",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6246,
+            "par": 70,
+            "rating": 70,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6246,
+            "par": 70,
+            "rating": 75.1,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5818,
+            "par": 70,
+            "rating": 68,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5818,
+            "par": 70,
+            "rating": 72.8,
+            "slope": 127
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4971,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 116
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 4971,
+            "par": 70,
+            "rating": 68.5,
+            "slope": 114
+          }
+        ]
+      },
+      {
+        "name": "Fairfield Greens North Trace (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1885,
+            "par": 31,
+            "rating": 31,
+            "slope": 98
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1885,
+            "par": 31,
+            "rating": 31,
+            "slope": 104
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1607,
+            "par": 31,
+            "rating": 29.8,
+            "slope": 92
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1607,
+            "par": 31,
+            "rating": 29.5,
+            "slope": 99
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 1406,
+            "par": 31,
+            "rating": 28.20824,
+            "slope": 85.80392
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 1406,
+            "par": 31,
+            "rating": 28.20824,
+            "slope": 85.80392
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9bda7640-86ac-11e4-8c28-020000005b00/fairfield-greens"
+  }
+}

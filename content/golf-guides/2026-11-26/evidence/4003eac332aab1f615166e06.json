@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/88bcf7e0-86ac-11e4-8c28-020000005b00/baywood-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/88bcf7e0-86ac-11e4-8c28-020000005b00/baywood-golf-country-club",
+  "checked_at": 1795582911.1098814,
+  "sha256": "fc7d8859d2055aba75f8fb745ffd112528179226a6b1682ad37a25a3e3e2a15c",
+  "title": "Baywood Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "88bcf7e0-86ac-11e4-8c28-020000005b00",
+    "name": "Baywood Golf & Country Club",
+    "address": "3600 Buttermilk Ln",
+    "courses": [
+      {
+        "name": "Baywood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6427,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6427,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6149,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6149,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5758,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5758,
+            "par": 72,
+            "rating": 73,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/88bcf7e0-86ac-11e4-8c28-020000005b00/baywood-golf-country-club"
+  }
+}

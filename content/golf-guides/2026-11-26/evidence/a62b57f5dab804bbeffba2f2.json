@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ade2b410-86ac-11e4-8c28-020000005b00/the-aiken-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ade2b410-86ac-11e4-8c28-020000005b00/the-aiken-golf-club",
+  "checked_at": 1795523910.8564906,
+  "sha256": "bde774e92bdbe145c7441de3259c0605bf9bd9a96c1e46f8083589cb7346fc05",
+  "title": "The Aiken Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ade2b410-86ac-11e4-8c28-020000005b00",
+    "name": "The Aiken Golf Club",
+    "address": "557 Highland Park Dr, Aiken, SC",
+    "courses": [
+      {
+        "name": "Aiken",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 5775,
+            "par": 70,
+            "rating": 69,
+            "slope": 125
+          },
+          {
+            "name": "Tournament",
+            "category": "FEMALE",
+            "yards": 5775,
+            "par": 70,
+            "rating": 74.4,
+            "slope": 139
+          },
+          {
+            "name": "Medal",
+            "category": "MALE",
+            "yards": 5628,
+            "par": 70,
+            "rating": 68.3,
+            "slope": 123
+          },
+          {
+            "name": "Medal",
+            "category": "FEMALE",
+            "yards": 5628,
+            "par": 70,
+            "rating": 73.5,
+            "slope": 137
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5237,
+            "par": 70,
+            "rating": 66.4,
+            "slope": 119
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5237,
+            "par": 70,
+            "rating": 71.5,
+            "slope": 130
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4535,
+            "par": 70,
+            "rating": 63.5,
+            "slope": 112
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 4535,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ade2b410-86ac-11e4-8c28-020000005b00/the-aiken-golf-club"
+  }
+}

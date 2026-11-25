@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ebb6460-86ac-11e4-8c28-020000005b00/boca-rio-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ebb6460-86ac-11e4-8c28-020000005b00/boca-rio-golf-club",
+  "checked_at": 1795524708.5821533,
+  "sha256": "6e374a2230c9f2dca6a8fcd2c104318e7e629562a1a990c81f9305e2af00e41a",
+  "title": "Boca Rio Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "8ebb6460-86ac-11e4-8c28-020000005b00",
+    "name": "Boca Rio Golf Club",
+    "address": "22041 Boca Rio Rd",
+    "courses": [
+      {
+        "name": "Boca Rio",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7116,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7116,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 6707,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 135
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 6707,
+            "par": 72,
+            "rating": 77.6,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6262,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6262,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 133
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5538,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5538,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 131
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ebb6460-86ac-11e4-8c28-020000005b00/boca-rio-golf-club"
+  }
+}

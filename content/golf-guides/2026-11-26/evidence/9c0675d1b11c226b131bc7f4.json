@@ -1,0 +1,225 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9714fef0-86ac-11e4-8c28-020000005b00/hadley-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9714fef0-86ac-11e4-8c28-020000005b00/hadley-creek-golf-course",
+  "checked_at": 1795582911.9688907,
+  "sha256": "57f9651816da502eea98a2d941394113846b926710076383330b2e1d3c3a0f76",
+  "title": "Hadley Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9714fef0-86ac-11e4-8c28-020000005b00",
+    "name": "Hadley Creek Golf Course",
+    "address": "1925 48th Street NE, Rochester, MN",
+    "courses": [
+      {
+        "name": "9 Holes (8 = Par 3)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2048,
+            "par": 31,
+            "rating": 31.2,
+            "slope": 105
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2048,
+            "par": 31,
+            "rating": 31.8,
+            "slope": 107
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1914,
+            "par": 31,
+            "rating": 30,
+            "slope": 103
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1914,
+            "par": 31,
+            "rating": 31.1,
+            "slope": 92
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 1578,
+            "par": 31,
+            "rating": 29.2,
+            "slope": 96
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 1578,
+            "par": 31,
+            "rating": 29.6,
+            "slope": 86
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 1145,
+            "par": 31,
+            "rating": 27.0233,
+            "slope": 81.0224
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 1145,
+            "par": 31,
+            "rating": 27.0233,
+            "slope": 81.0224
+          }
+        ]
+      },
+      {
+        "name": "18 Holes (8 = Par 3)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4096,
+            "par": 62,
+            "rating": 64.4,
+            "slope": 107
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4096,
+            "par": 62,
+            "rating": 63.7,
+            "slope": 107
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3828,
+            "par": 62,
+            "rating": 62.2,
+            "slope": 104
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3828,
+            "par": 62,
+            "rating": 62.2,
+            "slope": 92
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 3156,
+            "par": 62,
+            "rating": 60.4,
+            "slope": 95
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 3156,
+            "par": 62,
+            "rating": 59.2,
+            "slope": 86
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 2290,
+            "par": 62,
+            "rating": 53.0636,
+            "slope": 80.0351
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 2290,
+            "par": 62,
+            "rating": 53.0636,
+            "slope": 80.0351
+          }
+        ]
+      },
+      {
+        "name": "18 Holes (8 = Par 4)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4284,
+            "par": 62,
+            "rating": 64.4,
+            "slope": 107
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4284,
+            "par": 62,
+            "rating": 64.7,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3828,
+            "par": 62,
+            "rating": 62.2,
+            "slope": 104
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3828,
+            "par": 62,
+            "rating": 62.2,
+            "slope": 92
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 3156,
+            "par": 62,
+            "rating": 60.4,
+            "slope": 95
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 3156,
+            "par": 62,
+            "rating": 59.2,
+            "slope": 86
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 2290,
+            "par": 62,
+            "rating": 53.0636,
+            "slope": 80.0351
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 2290,
+            "par": 62,
+            "rating": 53.0636,
+            "slope": 80.0351
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9714fef0-86ac-11e4-8c28-020000005b00/hadley-creek-golf-course"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b23c4a30-86ac-11e4-8c28-020000005b00/orchard-hills-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b23c4a30-86ac-11e4-8c28-020000005b00/orchard-hills-country-club",
+  "checked_at": 1795583780.7241533,
+  "sha256": "955db2d355cdb0becab78ba448ff3bc2857b8b7bf98b09db8753dcf54d4df0a0",
+  "title": "Orchard Hills Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b23c4a30-86ac-11e4-8c28-020000005b00",
+    "name": "Orchard Hills Country Club",
+    "address": "2841 Niles-Buchanan Rd",
+    "courses": [
+      {
+        "name": "Orchard Hills CC",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6258,
+            "par": 71,
+            "rating": 70.5,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6052,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5022,
+            "par": 71,
+            "rating": 64.3,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4809,
+            "par": 71,
+            "rating": 66.8,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b23c4a30-86ac-11e4-8c28-020000005b00/orchard-hills-country-club"
+  }
+}

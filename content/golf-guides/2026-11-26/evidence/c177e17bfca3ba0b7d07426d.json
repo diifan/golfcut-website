@@ -1,0 +1,421 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a15f830-86ac-11e4-8c28-020000005b00/san-luis-obispo-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a15f830-86ac-11e4-8c28-020000005b00/san-luis-obispo-country-club",
+  "checked_at": 1795524547.3042166,
+  "sha256": "6fec874a4e998c0d6a9f377e05b3caed5a2e7835a82891ca5123e4d6dc1bf646",
+  "title": "San Luis Obispo Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a15f830-86ac-11e4-8c28-020000005b00",
+    "name": "San Luis Obispo Country Club",
+    "address": "255 Country Club Dr, San Luis Obisbo, CA",
+    "courses": [
+      {
+        "name": "San Luis Obispo",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Professional",
+            "category": "MALE",
+            "yards": 6880,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 135
+          },
+          {
+            "name": "Professional",
+            "category": "FEMALE",
+            "yards": 6880,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Platinum",
+            "category": "MALE",
+            "yards": 6880,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Platinum",
+            "category": "FEMALE",
+            "yards": 6880,
+            "par": 72,
+            "rating": 80.5,
+            "slope": 144
+          },
+          {
+            "name": "Professional (Alt 9)",
+            "category": "MALE",
+            "yards": 6712,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 134
+          },
+          {
+            "name": "Professional (Alt 9)",
+            "category": "FEMALE",
+            "yards": 6712,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6669,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 134
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 6669,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6669,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6669,
+            "par": 72,
+            "rating": 79.3,
+            "slope": 141
+          },
+          {
+            "name": "Championship (Alt 9)",
+            "category": "MALE",
+            "yards": 6514,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 133
+          },
+          {
+            "name": "Championship (Alt 9)",
+            "category": "FEMALE",
+            "yards": 6514,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Combo",
+            "category": "MALE",
+            "yards": 6505,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 132
+          },
+          {
+            "name": "Combo",
+            "category": "FEMALE",
+            "yards": 6505,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Combo (Alt 9)",
+            "category": "MALE",
+            "yards": 6350,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 131
+          },
+          {
+            "name": "Combo (Alt 9)",
+            "category": "FEMALE",
+            "yards": 6350,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6332,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6332,
+            "par": 72,
+            "rating": 77.3,
+            "slope": 137
+          },
+          {
+            "name": "Members",
+            "category": "MALE",
+            "yards": 6332,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 130
+          },
+          {
+            "name": "Members",
+            "category": "FEMALE",
+            "yards": 6332,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Members (Alt 9)",
+            "category": "MALE",
+            "yards": 6191,
+            "par": 72,
+            "rating": 71,
+            "slope": 129
+          },
+          {
+            "name": "Members (Alt 9)",
+            "category": "FEMALE",
+            "yards": 6191,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Club",
+            "category": "MALE",
+            "yards": 6082,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 129
+          },
+          {
+            "name": "Club",
+            "category": "FEMALE",
+            "yards": 6082,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 134
+          },
+          {
+            "name": "Old Tom Morris",
+            "category": "MALE",
+            "yards": 6082,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 129
+          },
+          {
+            "name": "Old Tom Morris",
+            "category": "FEMALE",
+            "yards": 6082,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Club Women",
+            "category": "MALE",
+            "yards": 6055,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Club Women",
+            "category": "FEMALE",
+            "yards": 6055,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Executive",
+            "category": "MALE",
+            "yards": 5891,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 127
+          },
+          {
+            "name": "Executive",
+            "category": "FEMALE",
+            "yards": 5891,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5787,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5787,
+            "par": 72,
+            "rating": 74,
+            "slope": 130
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5731,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 125
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5731,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Combo Women",
+            "category": "MALE",
+            "yards": 5372,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Combo Women",
+            "category": "FEMALE",
+            "yards": 5372,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 126
+          },
+          {
+            "name": "Alternate Combo",
+            "category": "MALE",
+            "yards": 5236,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Alternate Combo",
+            "category": "FEMALE",
+            "yards": 5236,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 122
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5035,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 119
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5035,
+            "par": 72,
+            "rating": 70,
+            "slope": 121
+          },
+          {
+            "name": "Alternate Black",
+            "category": "MALE",
+            "yards": 4907,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Alternate Black",
+            "category": "FEMALE",
+            "yards": 4907,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 118
+          },
+          {
+            "name": "Family 2",
+            "category": "MALE",
+            "yards": 4418,
+            "par": 72,
+            "rating": 62.8,
+            "slope": 112
+          },
+          {
+            "name": "Family 2",
+            "category": "FEMALE",
+            "yards": 4418,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Family 2 Women",
+            "category": "MALE",
+            "yards": 4383,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Family 2 Women",
+            "category": "FEMALE",
+            "yards": 4383,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 114
+          },
+          {
+            "name": "Family 1",
+            "category": "MALE",
+            "yards": 3158,
+            "par": 72,
+            "rating": 57.6,
+            "slope": 96
+          },
+          {
+            "name": "Family 1",
+            "category": "FEMALE",
+            "yards": 3158,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Family 1 Women",
+            "category": "MALE",
+            "yards": 3108,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Family 1 Women",
+            "category": "FEMALE",
+            "yards": 3108,
+            "par": 72,
+            "rating": 59.1,
+            "slope": 101
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a15f830-86ac-11e4-8c28-020000005b00/san-luis-obispo-country-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/929d8090-86ac-11e4-8c28-020000005b00/harrisville-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/929d8090-86ac-11e4-8c28-020000005b00/harrisville-golf-club",
+  "checked_at": 1795524495.406443,
+  "sha256": "24d5c5cf073bf4ad67771b9f01725dc5a57bea500abb6b88d52b13513c775943",
+  "title": "Harrisville Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "929d8090-86ac-11e4-8c28-020000005b00",
+    "name": "Harrisville Golf Club",
+    "address": "125 Harrisville Road, Woodstock, CT",
+    "courses": [
+      {
+        "name": "Harrisville",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue/Gold",
+            "category": "MALE",
+            "yards": 5640,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 117
+          },
+          {
+            "name": "Blue/Gold",
+            "category": "FEMALE",
+            "yards": 5640,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4830,
+            "par": 72,
+            "rating": 63.5,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4830,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/929d8090-86ac-11e4-8c28-020000005b00/harrisville-golf-club"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92e86c40-86ac-11e4-8c28-020000005b00/portland-west-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92e86c40-86ac-11e4-8c28-020000005b00/portland-west-golf",
+  "checked_at": 1795524326.0717404,
+  "sha256": "4617a72302911bec25981f697d8fb16cbf3139098268df29256d343e58fa13a9",
+  "title": "Portland West Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92e86c40-86ac-11e4-8c28-020000005b00",
+    "name": "Portland West Golf",
+    "address": "105 Gospel Lane, Portland, CT",
+    "courses": [
+      {
+        "name": "Portland West",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4012,
+            "par": 60,
+            "rating": 60.9,
+            "slope": 109
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4012,
+            "par": 60,
+            "rating": 63.2,
+            "slope": 106
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3620,
+            "par": 60,
+            "rating": 59.6,
+            "slope": 107
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3620,
+            "par": 60,
+            "rating": 61.1,
+            "slope": 102
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3154,
+            "par": 60,
+            "rating": 59.3,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3154,
+            "par": 60,
+            "rating": 62.8,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92e86c40-86ac-11e4-8c28-020000005b00/portland-west-golf"
+  }
+}

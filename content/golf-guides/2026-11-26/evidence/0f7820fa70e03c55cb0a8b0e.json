@@ -1,0 +1,129 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6d1fef0-86ac-11e4-8c28-020000005b00/mc-call-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6d1fef0-86ac-11e4-8c28-020000005b00/mc-call-golf-club",
+  "checked_at": 1795524848.475327,
+  "sha256": "bc443d5ac8d535f903c7be09cbe5125a0f271f774430023bc2341b297116d744",
+  "title": "McCall Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6d1fef0-86ac-11e4-8c28-020000005b00",
+    "name": "McCall Golf Club",
+    "address": "925 Fairway Dr, McCall, ID",
+    "courses": [
+      {
+        "name": "McCall(Aspen 1-9 / Birch 10-18 )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6295,
+            "par": 71,
+            "rating": 69,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6295,
+            "par": 73,
+            "rating": 75.4,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6009,
+            "par": 71,
+            "rating": 67.4,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6009,
+            "par": 73,
+            "rating": 72.8,
+            "slope": 135
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5552,
+            "par": 71,
+            "rating": 64.7,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5552,
+            "par": 73,
+            "rating": 69.4,
+            "slope": 129
+          }
+        ]
+      },
+      {
+        "name": "McCall (Birch 1-9 / Cedar 10-18)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6221,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5825,
+            "par": 71,
+            "rating": 67.7,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5301,
+            "par": 71,
+            "rating": 64.2,
+            "slope": 108
+          }
+        ]
+      },
+      {
+        "name": "McCall (Cedar 1-9 / Aspren 10-18)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6222,
+            "par": 70,
+            "rating": 68.7,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5792,
+            "par": 70,
+            "rating": 66.7,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5235,
+            "par": 70,
+            "rating": 63.7,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6d1fef0-86ac-11e4-8c28-020000005b00/mc-call-golf-club"
+  }
+}

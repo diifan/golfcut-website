@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9be34fe0-86ac-11e4-8c28-020000005b00/gahanna-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9be34fe0-86ac-11e4-8c28-020000005b00/gahanna-municipal-golf-course",
+  "checked_at": 1795524422.8929243,
+  "sha256": "9e7af9d8f836864f391ff8f9f61286295c1111453fe60bd9e45b2002997df895",
+  "title": "Gahanna Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9be34fe0-86ac-11e4-8c28-020000005b00",
+    "name": "Gahanna Municipal Golf Course",
+    "address": "220 Olde Ridenour Rd.",
+    "courses": [
+      {
+        "name": "9 holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3020,
+            "par": 35,
+            "rating": 34.6,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3020,
+            "par": 35,
+            "rating": 37,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2873,
+            "par": 35,
+            "rating": 32.7,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2873,
+            "par": 35,
+            "rating": 36.2,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2658,
+            "par": 35,
+            "rating": 34.6,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2658,
+            "par": 35,
+            "rating": 34.3,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9be34fe0-86ac-11e4-8c28-020000005b00/gahanna-municipal-golf-course"
+  }
+}

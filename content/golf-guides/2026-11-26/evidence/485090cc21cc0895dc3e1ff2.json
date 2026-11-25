@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9642bad0-86ac-11e4-8c28-020000005b00/ridgeview",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9642bad0-86ac-11e4-8c28-020000005b00/ridgeview",
+  "checked_at": 1795524707.405889,
+  "sha256": "4e52d1ed8f8e5630f6886b976596d0458b26e31e5012526b2c8dfd2b75fb6f55",
+  "title": "Ridgeview - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9642bad0-86ac-11e4-8c28-020000005b00",
+    "name": "Ridgeview",
+    "address": "700 W Redwing St",
+    "courses": [
+      {
+        "name": "Ridgeview",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6264,
+            "par": 70,
+            "rating": 70.9,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5949,
+            "par": 70,
+            "rating": 69.6,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5705,
+            "par": 70,
+            "rating": 68.4,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4843,
+            "par": 70,
+            "rating": 67,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9642bad0-86ac-11e4-8c28-020000005b00/ridgeview"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8f352840-86ac-11e4-8c28-020000005b00/pine-island-ridge-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8f352840-86ac-11e4-8c28-020000005b00/pine-island-ridge-country-club",
+  "checked_at": 1795524496.4521122,
+  "sha256": "97c811a76aec90cb58173a8ec48306d18fd075feac78b1c93a63ec38cde35a00",
+  "title": "Pine Island Ridge Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8f352840-86ac-11e4-8c28-020000005b00",
+    "name": "Pine Island Ridge Country Club",
+    "address": "9400 Pine Ridge Dr",
+    "courses": [
+      {
+        "name": "Pine Island Ridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4747,
+            "par": 66,
+            "rating": 62.9,
+            "slope": 111
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4747,
+            "par": 66,
+            "rating": 67.1,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4261,
+            "par": 66,
+            "rating": 61.3,
+            "slope": 108
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4261,
+            "par": 66,
+            "rating": 64.7,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3750,
+            "par": 66,
+            "rating": 62,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3750,
+            "par": 66,
+            "rating": 61.3,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8f352840-86ac-11e4-8c28-020000005b00/pine-island-ridge-country-club"
+  }
+}

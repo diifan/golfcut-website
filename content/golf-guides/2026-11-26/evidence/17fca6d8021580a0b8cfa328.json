@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8170210-86ac-11e4-8c28-020000005b00/berkshire-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8170210-86ac-11e4-8c28-020000005b00/berkshire-country-club",
+  "checked_at": 1795524707.1674094,
+  "sha256": "5fe11455b76e0d6ec506579907d41ec1fa6766f664ca7ddb581faf15238b7e95",
+  "title": "Berkshire Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b8170210-86ac-11e4-8c28-020000005b00",
+    "name": "Berkshire Country Club",
+    "address": "3720 SW 45th Street, Topeka, KS",
+    "courses": [
+      {
+        "name": "Berkshire",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6142,
+            "par": 70,
+            "rating": 69.6,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5666,
+            "par": 70,
+            "rating": 67.9,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4868,
+            "par": 70,
+            "rating": 64.9,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4402,
+            "par": 70,
+            "rating": 65,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8170210-86ac-11e4-8c28-020000005b00/berkshire-country-club"
+  }
+}

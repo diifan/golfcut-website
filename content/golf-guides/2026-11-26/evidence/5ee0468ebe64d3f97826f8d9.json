@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d7365c0-86ac-11e4-8c28-020000005b00/irwin-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d7365c0-86ac-11e4-8c28-020000005b00/irwin-country-club",
+  "checked_at": 1795524779.9075146,
+  "sha256": "b0c739bba3893730b7d50eb56bcce4bd68c67fbabf0bf9da84fc0959965d3222",
+  "title": "Irwin Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9d7365c0-86ac-11e4-8c28-020000005b00",
+    "name": "Irwin Country Club",
+    "address": "594 Simpson Road, Irwin, PA",
+    "courses": [
+      {
+        "name": "Irwin",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5577,
+            "par": 70,
+            "rating": 66.5,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5577,
+            "par": 70,
+            "rating": 72.6,
+            "slope": 131
+          },
+          {
+            "name": "Gold/Red",
+            "category": "MALE",
+            "yards": 4322,
+            "par": 70,
+            "rating": 64.6,
+            "slope": 110
+          },
+          {
+            "name": "Gold/Red",
+            "category": "FEMALE",
+            "yards": 4322,
+            "par": 70,
+            "rating": 65.2,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d7365c0-86ac-11e4-8c28-020000005b00/irwin-country-club"
+  }
+}

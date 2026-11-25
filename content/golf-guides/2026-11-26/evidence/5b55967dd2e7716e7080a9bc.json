@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3d00990-86ac-11e4-8c28-020000005b00/vassar-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3d00990-86ac-11e4-8c28-020000005b00/vassar-golf-country-club",
+  "checked_at": 1795583796.196955,
+  "sha256": "ee27ccca24600a2e2827f27ae29da051f26009b6164f281b9f82b61bbabb92c6",
+  "title": "Vassar Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b3d00990-86ac-11e4-8c28-020000005b00",
+    "name": "Vassar Golf & Country Club",
+    "address": "3509 Kirk, Vassar, MI",
+    "courses": [
+      {
+        "name": "Vassar",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6389,
+            "par": 72,
+            "rating": 74,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6389,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6156,
+            "par": 72,
+            "rating": 73,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6156,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5363,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5363,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3d00990-86ac-11e4-8c28-020000005b00/vassar-golf-country-club"
+  }
+}

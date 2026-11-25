@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4c1e3a0-86ac-11e4-8c28-020000005b00/fiddlers-green-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4c1e3a0-86ac-11e4-8c28-020000005b00/fiddlers-green-golf-club",
+  "checked_at": 1795524644.1721272,
+  "sha256": "542b0c7f19a195a54431486f3e0861b9a41fd3e8e6035faec740e344f2add2f8",
+  "title": "Fiddlers Green Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b4c1e3a0-86ac-11e4-8c28-020000005b00",
+    "name": "Fiddlers Green Golf Club",
+    "address": "91292 Hwy 99 No, Eugene, Oregon",
+    "courses": [
+      {
+        "name": "Fiddlers Green",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2313,
+            "par": 54,
+            "rating": 52.7,
+            "slope": 78
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2313,
+            "par": 54,
+            "rating": 55.1,
+            "slope": 82
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4c1e3a0-86ac-11e4-8c28-020000005b00/fiddlers-green-golf-club"
+  }
+}

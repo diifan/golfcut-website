@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0ac5b60-86ac-11e4-8c28-020000005b00/trailhead-at-liberty-lake",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0ac5b60-86ac-11e4-8c28-020000005b00/trailhead-at-liberty-lake",
+  "checked_at": 1795524361.7943194,
+  "sha256": "3cf2d0d515e44d660314c1ba757071124aa796bdeaecf6560c76b69034971088",
+  "title": "Trailhead At Liberty Lake - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b0ac5b60-86ac-11e4-8c28-020000005b00",
+    "name": "Trailhead At Liberty Lake",
+    "address": "1102 N Liberty Lake Road",
+    "courses": [
+      {
+        "name": "Trailhead",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5096,
+            "par": 66,
+            "rating": 63.8,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4666,
+            "par": 66,
+            "rating": 61.8,
+            "slope": 102
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4152,
+            "par": 66,
+            "rating": 60.4,
+            "slope": 97
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 3430,
+            "par": 66,
+            "rating": 58,
+            "slope": 89
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0ac5b60-86ac-11e4-8c28-020000005b00/trailhead-at-liberty-lake"
+  }
+}

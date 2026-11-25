@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5b62eb0-86ac-11e4-8c28-020000005b00/yellowstone-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5b62eb0-86ac-11e4-8c28-020000005b00/yellowstone-golf-course",
+  "checked_at": 1795582920.5686111,
+  "sha256": "44fd94b73c6b541dedbc53f08aaf85028d0665300fb592e147cbea92a7861b67",
+  "title": "Yellowstone Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b5b62eb0-86ac-11e4-8c28-020000005b00",
+    "name": "Yellowstone Golf Course",
+    "address": "15750 Old Q Rd, Blanchardville, WI 53516, United States",
+    "courses": [
+      {
+        "name": "Yellowstone",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6316,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5532,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4648,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5b62eb0-86ac-11e4-8c28-020000005b00/yellowstone-golf-course"
+  }
+}

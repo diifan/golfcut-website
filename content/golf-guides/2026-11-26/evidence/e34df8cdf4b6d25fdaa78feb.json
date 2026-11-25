@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8df07340-86ac-11e4-8c28-020000005b00/the-500-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8df07340-86ac-11e4-8c28-020000005b00/the-500-club",
+  "checked_at": 1795524722.461196,
+  "sha256": "ead9b9d1d3ad9eda7d845f6eab387e9c8915afa1ebe349e9e010e68eabee73fa",
+  "title": "The 500 Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8df07340-86ac-11e4-8c28-020000005b00",
+    "name": "The 500 Club",
+    "address": "4707 W Pinnacle Peak Road, Phoenix, AZ",
+    "courses": [
+      {
+        "name": "The 500",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6897,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 123
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 6897,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Regular",
+            "category": "MALE",
+            "yards": 6202,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 119
+          },
+          {
+            "name": "Regular",
+            "category": "FEMALE",
+            "yards": 6202,
+            "par": 72,
+            "rating": 75.7,
+            "slope": 134
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5508,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 111
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5508,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 126
+          }
+        ]
+      },
+      {
+        "name": "The Futures",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 1464,
+            "par": 28,
+            "rating": 28.47156,
+            "slope": 86.86648
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 1464,
+            "par": 28,
+            "rating": 28.47156,
+            "slope": 86.86648
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1283,
+            "par": 28,
+            "rating": 27.64982,
+            "slope": 83.55056
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1283,
+            "par": 28,
+            "rating": 27.64982,
+            "slope": 83.55056
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1075,
+            "par": 28,
+            "rating": 26.7055,
+            "slope": 79.74
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1075,
+            "par": 28,
+            "rating": 26.7055,
+            "slope": 79.74
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8df07340-86ac-11e4-8c28-020000005b00/the-500-club"
+  }
+}

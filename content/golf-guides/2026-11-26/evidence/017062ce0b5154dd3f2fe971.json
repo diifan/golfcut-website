@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/90a46fb0-86ac-11e4-8c28-020000005b00/the-wanderers-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/90a46fb0-86ac-11e4-8c28-020000005b00/the-wanderers-club",
+  "checked_at": 1795524662.278534,
+  "sha256": "6a31faa11225e9e9bd1772f7d040d0c0bc42e3f23257d7ed404d2634bcf8df0e",
+  "title": "The Wanderers Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "90a46fb0-86ac-11e4-8c28-020000005b00",
+    "name": "The Wanderers Club",
+    "address": "1900 Aero Club Drive",
+    "courses": [
+      {
+        "name": "Wanderers",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7052,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6585,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 130
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6129,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5517,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 118
+          },
+          {
+            "name": "Grey",
+            "category": "MALE",
+            "yards": 4739,
+            "par": 72,
+            "rating": 64,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/90a46fb0-86ac-11e4-8c28-020000005b00/the-wanderers-club"
+  }
+}

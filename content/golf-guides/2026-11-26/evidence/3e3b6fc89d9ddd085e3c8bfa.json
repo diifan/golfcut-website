@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/84125b90-86ac-11e4-8c28-020000005b00/long-bridge",
+  "resolved_url": "https://18birdies.com/golf-courses/club/84125b90-86ac-11e4-8c28-020000005b00/long-bridge",
+  "checked_at": 1795524745.9417706,
+  "sha256": "f0ea701be1adb5a40df380f209c4f7b1a16a8c85521d6ae5befb14068e47987c",
+  "title": "Long Bridge - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "84125b90-86ac-11e4-8c28-020000005b00",
+    "name": "Long Bridge",
+    "address": "1055 Camp Sagamon Rd, Springfield, IL",
+    "courses": [
+      {
+        "name": "Long Bridge",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2959,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2752,
+            "par": 36,
+            "rating": 34.5,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2186,
+            "par": 36,
+            "rating": 32.4,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/84125b90-86ac-11e4-8c28-020000005b00/long-bridge"
+  }
+}

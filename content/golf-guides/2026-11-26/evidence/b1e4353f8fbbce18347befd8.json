@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9272c710-86ac-11e4-8c28-020000005b00/rio-grande-golf-resort",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9272c710-86ac-11e4-8c28-020000005b00/rio-grande-golf-resort",
+  "checked_at": 1795583833.929644,
+  "sha256": "90109eb25ae76ec8276130dcd1ca5a2d80990cfadb7501473a6e6ee364edcad6",
+  "title": "Rio Grande Golf Resort - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9272c710-86ac-11e4-8c28-020000005b00",
+    "name": "Rio Grande Golf Resort",
+    "address": "285 Rio Grande Club Trl",
+    "courses": [
+      {
+        "name": "Rio Grande",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7144,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6609,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5978,
+            "par": 72,
+            "rating": 66.9,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5409,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9272c710-86ac-11e4-8c28-020000005b00/rio-grande-golf-resort"
+  }
+}

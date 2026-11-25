@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/933812e0-86ac-11e4-8c28-020000005b00/butternut-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/933812e0-86ac-11e4-8c28-020000005b00/butternut-creek-golf-course",
+  "checked_at": 1795524637.4297967,
+  "sha256": "217b0b52a4090c7babab4d6455b3b971e7398d55af05544e1ed02ca2c1137536",
+  "title": "Butternut Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "933812e0-86ac-11e4-8c28-020000005b00",
+    "name": "Butternut Creek Golf Course",
+    "address": "129 Union Co Recreation Rd",
+    "courses": [
+      {
+        "name": "Butternut Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6492,
+            "par": 72,
+            "rating": 72,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5960,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5351,
+            "par": 72,
+            "rating": 68,
+            "slope": 117
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4632,
+            "par": 72,
+            "rating": 64.5,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4426,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/933812e0-86ac-11e4-8c28-020000005b00/butternut-creek-golf-course"
+  }
+}

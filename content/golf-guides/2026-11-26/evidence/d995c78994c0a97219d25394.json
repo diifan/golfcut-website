@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b26afb50-86ac-11e4-8c28-020000005b00/mullenhurst-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b26afb50-86ac-11e4-8c28-020000005b00/mullenhurst-golf-course",
+  "checked_at": 1795525030.7678761,
+  "sha256": "a892fcc629be8bcc94d9e6617980c7f2b2f444c176297f7f4361d0cfba779e5a",
+  "title": "Mullenhurst Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b26afb50-86ac-11e4-8c28-020000005b00",
+    "name": "Mullenhurst Golf Course",
+    "address": "9810 Mullen Rd",
+    "courses": [
+      {
+        "name": "Mullenhurst",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5220,
+            "par": 71,
+            "rating": 66.3,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5220,
+            "par": 71,
+            "rating": 71,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4490,
+            "par": 71,
+            "rating": 62.9,
+            "slope": 99
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4490,
+            "par": 71,
+            "rating": 66.3,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b26afb50-86ac-11e4-8c28-020000005b00/mullenhurst-golf-course"
+  }
+}

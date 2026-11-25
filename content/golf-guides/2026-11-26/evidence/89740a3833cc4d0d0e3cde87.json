@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ae11060-86ac-11e4-8c28-020000005b00/chambers-county-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ae11060-86ac-11e4-8c28-020000005b00/chambers-county-golf-course",
+  "checked_at": 1795524766.048685,
+  "sha256": "64881e47fede1511bf9a853295755c694d8ed26a0a0011caef411bc2cfc623d6",
+  "title": "Chambers County Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8ae11060-86ac-11e4-8c28-020000005b00",
+    "name": "Chambers County Golf Course",
+    "address": "1 Pinchback Drive PO Box 1596 Anahuac, TX",
+    "courses": [
+      {
+        "name": "Chambers County Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6793,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 116
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6793,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6270,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6270,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5151,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 109
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5151,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5010,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5010,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ae11060-86ac-11e4-8c28-020000005b00/chambers-county-golf-course"
+  }
+}

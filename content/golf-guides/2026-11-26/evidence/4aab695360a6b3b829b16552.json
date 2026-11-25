@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/2a6dca20-23e3-11ed-8188-06780482e2ce/kaanapali-golf-resort",
+  "resolved_url": "https://18birdies.com/golf-courses/club/2a6dca20-23e3-11ed-8188-06780482e2ce/kaanapali-golf-resort",
+  "checked_at": 1795524040.987895,
+  "sha256": "0e17742d494bb900bff61725f8e462d36204d16f55d7c13aa6cf4502e1cf9a44",
+  "title": "Ka'anapali Golf Resort - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "2a6dca20-23e3-11ed-8188-06780482e2ce",
+    "name": "Ka'anapali Golf Resort",
+    "address": "2290 Kaanapali Parkway, Lahaina, HI 96761",
+    "courses": [
+      {
+        "name": "Royal Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6700,
+            "par": 71,
+            "rating": 73.7,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6700,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6267,
+            "par": 71,
+            "rating": 72,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6267,
+            "par": 71,
+            "rating": 76.7,
+            "slope": 137
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5839,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5839,
+            "par": 71,
+            "rating": 74.5,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5016,
+            "par": 71,
+            "rating": 65.3,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5016,
+            "par": 71,
+            "rating": 69.3,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/2a6dca20-23e3-11ed-8188-06780482e2ce/kaanapali-golf-resort"
+  }
+}

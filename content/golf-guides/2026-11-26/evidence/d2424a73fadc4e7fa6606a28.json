@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/d788c8e0-128b-11e8-bd95-0680a328ea36/santa-maria-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/d788c8e0-128b-11e8-bd95-0680a328ea36/santa-maria-country-club",
+  "checked_at": 1795524586.471397,
+  "sha256": "2120ea9f64e9f24841477780b4241bae53b545fe9108e37ed273552039c8c88a",
+  "title": "Santa Maria Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "d788c8e0-128b-11e8-bd95-0680a328ea36",
+    "name": "Santa Maria Country Club",
+    "address": "505 W. Waller Lane Santa Maria, CA",
+    "courses": [
+      {
+        "name": "Santa Maria",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6505,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6505,
+            "par": 72,
+            "rating": 76.5,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6256,
+            "par": 72,
+            "rating": 70,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6256,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 137
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5834,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5834,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5200,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 110
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5200,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/d788c8e0-128b-11e8-bd95-0680a328ea36/santa-maria-country-club"
+  }
+}

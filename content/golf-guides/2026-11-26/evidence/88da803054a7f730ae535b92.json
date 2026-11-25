@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/999bf7f0-86ac-11e4-8c28-020000005b00/mc-cann-memorial-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/999bf7f0-86ac-11e4-8c28-020000005b00/mc-cann-memorial-golf-course",
+  "checked_at": 1795524682.7885094,
+  "sha256": "89b8d80b5ee9b37e8e5fae12bbd4f01a544a7b7bff30419879c9407900c073dd",
+  "title": "McCann Memorial Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "999bf7f0-86ac-11e4-8c28-020000005b00",
+    "name": "McCann Memorial Golf Course",
+    "address": "155 Wilbur Blvd",
+    "courses": [
+      {
+        "name": "McCann Memorial",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6524,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6090,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5642,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5315,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/999bf7f0-86ac-11e4-8c28-020000005b00/mc-cann-memorial-golf-course"
+  }
+}

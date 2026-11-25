@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/97e40ec0-86ac-11e4-8c28-020000005b00/frog-rock-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/97e40ec0-86ac-11e4-8c28-020000005b00/frog-rock-country-club",
+  "checked_at": 1795524710.3406653,
+  "sha256": "2e3acfc679d16c3a8a6424732930c7e5d73af206fdb24c7733b8f62e43f76ea9",
+  "title": "Frog Rock Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "97e40ec0-86ac-11e4-8c28-020000005b00",
+    "name": "Frog Rock Country Club",
+    "address": "420 Boyer Ave, Hammonton, NJ",
+    "courses": [
+      {
+        "name": "Frog Rock",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6143,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6143,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5555,
+            "par": 71,
+            "rating": 65.1,
+            "slope": 105
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5555,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4695,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4695,
+            "par": 71,
+            "rating": 65,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/97e40ec0-86ac-11e4-8c28-020000005b00/frog-rock-country-club"
+  }
+}

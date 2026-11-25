@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6371e80-86ac-11e4-8c28-020000005b00/lawton-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6371e80-86ac-11e4-8c28-020000005b00/lawton-country-club",
+  "checked_at": 1795583806.5639477,
+  "sha256": "d564fdbd1163945dcbbf1b83c0e06abb2520bf945419d5300c1e053c8d8e8a9e",
+  "title": "Lawton Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6371e80-86ac-11e4-8c28-020000005b00",
+    "name": "Lawton Country Club",
+    "address": "4601 West Gore Boulevard • Lawton, OK 73505",
+    "courses": [
+      {
+        "name": "Lawton",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6419,
+            "par": 71,
+            "rating": 72.2,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6041,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5757,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5182,
+            "par": 71,
+            "rating": 68.5,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6371e80-86ac-11e4-8c28-020000005b00/lawton-country-club"
+  }
+}

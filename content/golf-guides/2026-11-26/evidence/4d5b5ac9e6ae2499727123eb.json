@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b70ce510-86ac-11e4-8c28-020000005b00/bright-grandview-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b70ce510-86ac-11e4-8c28-020000005b00/bright-grandview-golf-course",
+  "checked_at": 1795583826.1756716,
+  "sha256": "afd83ebdad2326dc77090cfeda3d600c88d15a03274f274880b48a9ddd768c8e",
+  "title": "Bright Grandview Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b70ce510-86ac-11e4-8c28-020000005b00",
+    "name": "Bright Grandview Golf Course",
+    "address": "2400 E 29th St, Des Moines, IA",
+    "courses": [
+      {
+        "name": "Grandview",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5591,
+            "par": 70,
+            "rating": 65.6,
+            "slope": 110
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5591,
+            "par": 70,
+            "rating": 71.3,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5422,
+            "par": 70,
+            "rating": 65.4,
+            "slope": 106
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5422,
+            "par": 70,
+            "rating": 70.4,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5147,
+            "par": 70,
+            "rating": 63.5,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5147,
+            "par": 70,
+            "rating": 68.4,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b70ce510-86ac-11e4-8c28-020000005b00/bright-grandview-golf-course"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/90fb9060-86ac-11e4-8c28-020000005b00/arrowhead-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/90fb9060-86ac-11e4-8c28-020000005b00/arrowhead-golf-club",
+  "checked_at": 1795524618.5948408,
+  "sha256": "010765e8287661a5df57b628a075d767aed292cdf0b154635cf57ac3ec46363b",
+  "title": "Arrowhead Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "90fb9060-86ac-11e4-8c28-020000005b00",
+    "name": "Arrowhead Golf Club",
+    "address": "2205 Heritage Greens Drive, Naples, FL",
+    "courses": [
+      {
+        "name": "Arrowhead At Heritage Greens",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6832,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 130
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6453,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6011,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5243,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4711,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/90fb9060-86ac-11e4-8c28-020000005b00/arrowhead-golf-club"
+  }
+}

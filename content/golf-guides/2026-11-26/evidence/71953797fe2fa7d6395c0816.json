@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3e5b470-86ac-11e4-8c28-020000005b00/green-oaks-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3e5b470-86ac-11e4-8c28-020000005b00/green-oaks-golf-course",
+  "checked_at": 1795524892.9526958,
+  "sha256": "fd9c0ddb25a2d5ff93c2f4b33b32baa4b829041f9b4137e26119bd201de12796",
+  "title": "Green Oaks Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b3e5b470-86ac-11e4-8c28-020000005b00",
+    "name": "Green Oaks Golf Course",
+    "address": "1775 E Clark Road, Ypsilanti, MI",
+    "courses": [
+      {
+        "name": "Green Oaks",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6787,
+            "par": 71,
+            "rating": 72.4,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6787,
+            "par": 71,
+            "rating": 78,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6163,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6163,
+            "par": 71,
+            "rating": 74.7,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5611,
+            "par": 71,
+            "rating": 66.2,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5611,
+            "par": 71,
+            "rating": 71.5,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5145,
+            "par": 71,
+            "rating": 68.4,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5145,
+            "par": 71,
+            "rating": 68.6,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3e5b470-86ac-11e4-8c28-020000005b00/green-oaks-golf-course"
+  }
+}

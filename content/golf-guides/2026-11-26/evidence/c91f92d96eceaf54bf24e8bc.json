@@ -1,0 +1,375 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/922d0b80-86ac-11e4-8c28-020000005b00/the-club-at-cordillera",
+  "resolved_url": "https://18birdies.com/golf-courses/club/922d0b80-86ac-11e4-8c28-020000005b00/the-club-at-cordillera",
+  "checked_at": 1795582899.7400618,
+  "sha256": "97357e8745550cba5556cbe82cf41afdf3888c71ee9d0a0f5533a2c4e68f6f7e",
+  "title": "The Club at Cordillera - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "922d0b80-86ac-11e4-8c28-020000005b00",
+    "name": "The Club at Cordillera",
+    "address": "100 Kensington Drive",
+    "courses": [
+      {
+        "name": "Summit",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7518,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 142
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7518,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6815,
+            "par": 72,
+            "rating": 73,
+            "slope": 140
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6815,
+            "par": 72,
+            "rating": 78.2,
+            "slope": 139
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 6845,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 136
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 6845,
+            "par": 72,
+            "rating": 78.3,
+            "slope": 140
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6128,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6128,
+            "par": 72,
+            "rating": 74,
+            "slope": 141
+          },
+          {
+            "name": "Silvr/Bl Combo",
+            "category": "MALE",
+            "yards": 6404,
+            "par": 72,
+            "rating": 70,
+            "slope": 134
+          },
+          {
+            "name": "Silvr/Bl Combo",
+            "category": "FEMALE",
+            "yards": 6404,
+            "par": 72,
+            "rating": 76,
+            "slope": 134
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5215,
+            "par": 72,
+            "rating": 64.3,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5215,
+            "par": 72,
+            "rating": 69,
+            "slope": 131
+          }
+        ]
+      },
+      {
+        "name": "Mountain",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7450,
+            "par": 72,
+            "rating": 75,
+            "slope": 143
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7450,
+            "par": 72,
+            "rating": 73,
+            "slope": 139
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7031,
+            "par": 72,
+            "rating": 77,
+            "slope": 133
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7031,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 6561,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 133
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 6561,
+            "par": 72,
+            "rating": 76.8,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5979,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5979,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 145
+          },
+          {
+            "name": "Silvr/Bl Combo",
+            "category": "MALE",
+            "yards": 6203,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 128
+          },
+          {
+            "name": "Silvr/Bl Combo",
+            "category": "FEMALE",
+            "yards": 6203,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5174,
+            "par": 72,
+            "rating": 64.5,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5174,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 139
+          }
+        ]
+      },
+      {
+        "name": "Short",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 1257,
+            "par": 27,
+            "rating": 27,
+            "slope": 88
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 1257,
+            "par": 27,
+            "rating": 28.2,
+            "slope": 92
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1050,
+            "par": 27,
+            "rating": 26.1,
+            "slope": 85
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1050,
+            "par": 27,
+            "rating": 27.5,
+            "slope": 89
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 592,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 592,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      },
+      {
+        "name": "Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7046,
+            "par": 71,
+            "rating": 72.9,
+            "slope": 140
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7046,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6635,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6635,
+            "par": 71,
+            "rating": 77.2,
+            "slope": 137
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 6179,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 133
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 6179,
+            "par": 71,
+            "rating": 74.8,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5682,
+            "par": 71,
+            "rating": 66.6,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5682,
+            "par": 71,
+            "rating": 72.4,
+            "slope": 145
+          },
+          {
+            "name": "Silvr/Bl Combo",
+            "category": "MALE",
+            "yards": 5936,
+            "par": 71,
+            "rating": 68,
+            "slope": 130
+          },
+          {
+            "name": "Silvr/Bl Combo",
+            "category": "FEMALE",
+            "yards": 5936,
+            "par": 71,
+            "rating": 73.5,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4975,
+            "par": 71,
+            "rating": 67.6,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4975,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 131
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/922d0b80-86ac-11e4-8c28-020000005b00/the-club-at-cordillera"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b76edb30-86ac-11e4-8c28-020000005b00/edmundson-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b76edb30-86ac-11e4-8c28-020000005b00/edmundson-golf-course",
+  "checked_at": 1795582896.912733,
+  "sha256": "45999082682b9ed263d7b4bf336e7e8e533fd150e88654e5cfde5dc1749c6b8e",
+  "title": "Edmundson Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b76edb30-86ac-11e4-8c28-020000005b00",
+    "name": "Edmundson Golf Course",
+    "address": "1608 Edmondson Dr., Oskaloosa, IA",
+    "courses": [
+      {
+        "name": "Edmundson",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6031,
+            "par": 70,
+            "rating": 68,
+            "slope": 116
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6031,
+            "par": 70,
+            "rating": 74,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5668,
+            "par": 70,
+            "rating": 66.3,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5668,
+            "par": 70,
+            "rating": 72,
+            "slope": 126
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 4834,
+            "par": 70,
+            "rating": 62.7,
+            "slope": 100
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 4834,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4701,
+            "par": 70,
+            "rating": 66.3,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4701,
+            "par": 70,
+            "rating": 66.6,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b76edb30-86ac-11e4-8c28-020000005b00/edmundson-golf-course"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9cca2d70-86ac-11e4-8c28-020000005b00/wgc-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9cca2d70-86ac-11e4-8c28-020000005b00/wgc-golf-course",
+  "checked_at": 1795524615.3104143,
+  "sha256": "086dee41dc8c0761ab04d50c7e3f5a67dc56e8e618fc5f0ab5ee9a1d6446bce3",
+  "title": "WGC Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9cca2d70-86ac-11e4-8c28-020000005b00",
+    "name": "WGC Golf Course",
+    "address": "944 Country Club Dr, Xenia, OH",
+    "courses": [
+      {
+        "name": "WGC",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6565,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6226,
+            "par": 71,
+            "rating": 68.5,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5479,
+            "par": 71,
+            "rating": 65.1,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4671,
+            "par": 71,
+            "rating": 62.2,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9cca2d70-86ac-11e4-8c28-020000005b00/wgc-golf-course"
+  }
+}

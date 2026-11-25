@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/82fa5be0-86ac-11e4-8c28-020000005b00/apple-canyon-lake",
+  "resolved_url": "https://18birdies.com/golf-courses/club/82fa5be0-86ac-11e4-8c28-020000005b00/apple-canyon-lake",
+  "checked_at": 1795582914.3204067,
+  "sha256": "8b08059675ef1cd236688f4661e67692db1f45adcfa8c95fdbf1c6574a5cb57e",
+  "title": "Apple Canyon Lake - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "82fa5be0-86ac-11e4-8c28-020000005b00",
+    "name": "Apple Canyon Lake",
+    "address": "14A57 Canyon Club Dr",
+    "courses": [
+      {
+        "name": "Apple Canyon Lake",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3280,
+            "par": 36,
+            "rating": 36.1,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3082,
+            "par": 36,
+            "rating": 36.5,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2758,
+            "par": 36,
+            "rating": 35,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/82fa5be0-86ac-11e4-8c28-020000005b00/apple-canyon-lake"
+  }
+}

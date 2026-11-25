@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/aef5aab0-86ac-11e4-8c28-020000005b00/lake-tansi-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/aef5aab0-86ac-11e4-8c28-020000005b00/lake-tansi-golf-course",
+  "checked_at": 1795524359.4188063,
+  "sha256": "75a755564863e8fca28dbe510415c8bc54ac8aaf86296669669dfe8bc67c8c50",
+  "title": "Lake Tansi Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "aef5aab0-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Tansi Golf Course",
+    "address": "2476 Dunbar Road",
+    "courses": [
+      {
+        "name": "Lake Tansi Village",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6701,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6205,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 125
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5758,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5364,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4579,
+            "par": 72,
+            "rating": 62.7,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/aef5aab0-86ac-11e4-8c28-020000005b00/lake-tansi-golf-course"
+  }
+}

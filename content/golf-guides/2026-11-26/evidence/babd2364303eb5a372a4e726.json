@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9116e090-86ac-11e4-8c28-020000005b00/the-breakers-ocean-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9116e090-86ac-11e4-8c28-020000005b00/the-breakers-ocean-course",
+  "checked_at": 1795582930.3981872,
+  "sha256": "63bd60a6b37700b9fed7c5bb1c89a98fafe3d64bd2b19a00f8b7875708c6e890",
+  "title": "The Breakers Ocean Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9116e090-86ac-11e4-8c28-020000005b00",
+    "name": "The Breakers Ocean Course",
+    "address": "2 S County Rd Palm Beach, FL 33480",
+    "courses": [
+      {
+        "name": "Ocean",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6167,
+            "par": 70,
+            "rating": 68.7,
+            "slope": 134
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6167,
+            "par": 71,
+            "rating": 75.1,
+            "slope": 139
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5765,
+            "par": 70,
+            "rating": 67,
+            "slope": 125
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5765,
+            "par": 71,
+            "rating": 72.4,
+            "slope": 132
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5254,
+            "par": 70,
+            "rating": 64.7,
+            "slope": 115
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5254,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 125
+          },
+          {
+            "name": "Junior",
+            "category": "MALE",
+            "yards": 3171,
+            "par": 70,
+            "rating": 64.7,
+            "slope": 115
+          },
+          {
+            "name": "Junior",
+            "category": "FEMALE",
+            "yards": 3171,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9116e090-86ac-11e4-8c28-020000005b00/the-breakers-ocean-course"
+  }
+}

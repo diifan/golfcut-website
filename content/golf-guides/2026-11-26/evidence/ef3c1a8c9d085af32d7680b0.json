@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b58ea30-86ac-11e4-8c28-020000005b00/diamond-creek",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b58ea30-86ac-11e4-8c28-020000005b00/diamond-creek",
+  "checked_at": 1795524406.8071625,
+  "sha256": "5fadb01559eb68144cab2d83d5db013a5e063c66cdaa08ca62518cbf65239ee3",
+  "title": "Diamond Creek - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "9b58ea30-86ac-11e4-8c28-020000005b00",
+    "name": "Diamond Creek",
+    "address": "Dobbins Road, Banner Elk, NC",
+    "courses": [
+      {
+        "name": "Diamond Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7175,
+            "par": 70,
+            "rating": 74.8,
+            "slope": 147
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 7175,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6675,
+            "par": 70,
+            "rating": 72.1,
+            "slope": 141
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6675,
+            "par": 70,
+            "rating": 77.4,
+            "slope": 138
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6115,
+            "par": 70,
+            "rating": 68.7,
+            "slope": 131
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6115,
+            "par": 70,
+            "rating": 74.8,
+            "slope": 149
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5010,
+            "par": 70,
+            "rating": 64.1,
+            "slope": 115
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5010,
+            "par": 70,
+            "rating": 68.7,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b58ea30-86ac-11e4-8c28-020000005b00/diamond-creek"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a678550-86ac-11e4-8c28-020000005b00/cabarrus-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a678550-86ac-11e4-8c28-020000005b00/cabarrus-country-club",
+  "checked_at": 1795524617.150658,
+  "sha256": "8df8a2b7a736c4377a3f6f51817a51647e0908af72d412a395c822c8b5162109",
+  "title": "Cabarrus Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9a678550-86ac-11e4-8c28-020000005b00",
+    "name": "Cabarrus Country Club",
+    "address": "3247 Weddington Rd, Concord, NC",
+    "courses": [
+      {
+        "name": "Cabarrus",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6876,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6361,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5905,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5177,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a678550-86ac-11e4-8c28-020000005b00/cabarrus-country-club"
+  }
+}

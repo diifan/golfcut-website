@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/928c4280-86ac-11e4-8c28-020000005b00/longshore-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/928c4280-86ac-11e4-8c28-020000005b00/longshore-golf-course",
+  "checked_at": 1795524449.4383888,
+  "sha256": "6644df87d7f118368160ca556cfc9a74b6743450270669d43059ae4093d9ff48",
+  "title": "Longshore Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "928c4280-86ac-11e4-8c28-020000005b00",
+    "name": "Longshore Golf Course",
+    "address": "260 S Compo Road, Westport, CT",
+    "courses": [
+      {
+        "name": "Longshore",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5895,
+            "par": 69,
+            "rating": 68.3,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5895,
+            "par": 69,
+            "rating": 73.3,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5632,
+            "par": 69,
+            "rating": 67,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5632,
+            "par": 69,
+            "rating": 73,
+            "slope": 125
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5034,
+            "par": 69,
+            "rating": 64.4,
+            "slope": 111
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5034,
+            "par": 69,
+            "rating": 69.4,
+            "slope": 120
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 4475,
+            "par": 69,
+            "rating": 62.2,
+            "slope": 109
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 4475,
+            "par": 69,
+            "rating": 67.5,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/928c4280-86ac-11e4-8c28-020000005b00/longshore-golf-course"
+  }
+}

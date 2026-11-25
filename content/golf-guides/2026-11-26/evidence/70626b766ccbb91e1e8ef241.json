@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c7fde00-86ac-11e4-8c28-020000005b00/flying-b-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c7fde00-86ac-11e4-8c28-020000005b00/flying-b-golf-course",
+  "checked_at": 1795524631.8469203,
+  "sha256": "4ac1f188aaa9a4da317824fb0ac2ade2be98575d9eeb63585c95174c230c76ff",
+  "title": "Flying B Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9c7fde00-86ac-11e4-8c28-020000005b00",
+    "name": "Flying B Golf Course",
+    "address": "13223 West Middletown Road Salem, OH 44460",
+    "courses": [
+      {
+        "name": "Flying B",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6288,
+            "par": 71,
+            "rating": 70,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5961,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4766,
+            "par": 71,
+            "rating": 66.6,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c7fde00-86ac-11e4-8c28-020000005b00/flying-b-golf-course"
+  }
+}

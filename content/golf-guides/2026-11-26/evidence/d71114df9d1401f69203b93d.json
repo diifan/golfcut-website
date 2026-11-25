@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d0d6640-86ac-11e4-8c28-020000005b00/rocky-ridge-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d0d6640-86ac-11e4-8c28-020000005b00/rocky-ridge-golf",
+  "checked_at": 1795525004.4974737,
+  "sha256": "513ce5094e1fd8c28f97015ccc04b2dd4757d643e5331eef706e54f034b81176",
+  "title": "Rocky Ridge Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d0d6640-86ac-11e4-8c28-020000005b00",
+    "name": "Rocky Ridge Golf",
+    "address": "5 mile S of Darlington on Co Rd 625 E, Crawfordsville, IN",
+    "courses": [
+      {
+        "name": "Rocky Ridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6410,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5997,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5113,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d0d6640-86ac-11e4-8c28-020000005b00/rocky-ridge-golf"
+  }
+}

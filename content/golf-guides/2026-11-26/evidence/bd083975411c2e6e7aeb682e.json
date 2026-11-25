@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83423a50-86ac-11e4-8c28-020000005b00/hughes-creek-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83423a50-86ac-11e4-8c28-020000005b00/hughes-creek-golf-club",
+  "checked_at": 1795524600.3130398,
+  "sha256": "a05858575eb608f12fd7d8bd9efa6469a8ae5f23d0c0d148ceaedc010741d1bf",
+  "title": "Hughes Creek Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "83423a50-86ac-11e4-8c28-020000005b00",
+    "name": "Hughes Creek Golf Club",
+    "address": "1749 Spring Valley Dr, Elburn, IL",
+    "courses": [
+      {
+        "name": "Hughes Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6506,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6204,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5561,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83423a50-86ac-11e4-8c28-020000005b00/hughes-creek-golf-club"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af6caf70-86ac-11e4-8c28-020000005b00/cedar-hills-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af6caf70-86ac-11e4-8c28-020000005b00/cedar-hills-golf-club",
+  "checked_at": 1795524470.4344788,
+  "sha256": "d223c86ec81beb753c35c94736657b416bdd0ab45608ac1a702123df5005705f",
+  "title": "Cedar Hills Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af6caf70-86ac-11e4-8c28-020000005b00",
+    "name": "Cedar Hills Golf Club",
+    "address": "10640 North Clubhouse Drive, Cedar Hills, UT",
+    "courses": [
+      {
+        "name": "Cedar Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6534,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 134
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6534,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6044,
+            "par": 71,
+            "rating": 69.3,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6044,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5533,
+            "par": 71,
+            "rating": 67.1,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5533,
+            "par": 71,
+            "rating": 72.2,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4611,
+            "par": 71,
+            "rating": 63.2,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4611,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af6caf70-86ac-11e4-8c28-020000005b00/cedar-hills-golf-club"
+  }
+}

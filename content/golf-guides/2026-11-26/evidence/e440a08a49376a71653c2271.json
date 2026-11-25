@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/bcdc0430-86ac-11e4-8c28-020000005b00/dundee-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/bcdc0430-86ac-11e4-8c28-020000005b00/dundee-golf-club",
+  "checked_at": 1795582872.3822722,
+  "sha256": "1c80c821d9ca282e0f8329cb90832db6ab7dd22a45fab22868d7cff308d0407a",
+  "title": "Dundee Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "bcdc0430-86ac-11e4-8c28-020000005b00",
+    "name": "Dundee Golf Club",
+    "address": "1 Tandy St, Dundee, 3000, South Africa",
+    "courses": [
+      {
+        "name": "Dundee",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6876.61968,
+            "par": 72,
+            "rating": 76.3,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5749.10777,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/bcdc0430-86ac-11e4-8c28-020000005b00/dundee-golf-club"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b999cb0-86ac-11e4-8c28-020000005b00/lyons-den-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b999cb0-86ac-11e4-8c28-020000005b00/lyons-den-golf-course",
+  "checked_at": 1795524622.9853919,
+  "sha256": "06f98558c03030977b1945bfbc6fc0e2bc8d31cde03d2ea4d7029f9b9e4fd0a0",
+  "title": "Lyons Den Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9b999cb0-86ac-11e4-8c28-020000005b00",
+    "name": "Lyons Den Golf Course",
+    "address": "6347 Manchester Rd, Canal Fulton, OH",
+    "courses": [
+      {
+        "name": "Lyons Den",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5397,
+            "par": 69,
+            "rating": 65.7,
+            "slope": 109
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5397,
+            "par": 69,
+            "rating": 70.9,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5029,
+            "par": 69,
+            "rating": 63.6,
+            "slope": 104
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5029,
+            "par": 69,
+            "rating": 69.2,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4160,
+            "par": 69,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4160,
+            "par": 69,
+            "rating": 65.3,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b999cb0-86ac-11e4-8c28-020000005b00/lyons-den-golf-course"
+  }
+}

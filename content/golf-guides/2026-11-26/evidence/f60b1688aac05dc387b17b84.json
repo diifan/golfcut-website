@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c2ab920-86ac-11e4-8c28-020000005b00/timberview-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c2ab920-86ac-11e4-8c28-020000005b00/timberview-golf-club",
+  "checked_at": 1795524208.9210942,
+  "sha256": "9ac09904e40ba892e110c1bc4641625c07c9c1609ad07c91ba4e126676c6a644",
+  "title": "Timberview Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star-o star star-o star-o star star star-o star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "9c2ab920-86ac-11e4-8c28-020000005b00",
+    "name": "Timberview Golf Club",
+    "address": "1107 London Ave",
+    "courses": [
+      {
+        "name": "Timberview",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6201,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 111
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6201,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6022,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 110
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6022,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5164,
+            "par": 71,
+            "rating": 67.9,
+            "slope": 109
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5164,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5073,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5073,
+            "par": 71,
+            "rating": 64,
+            "slope": 101
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c2ab920-86ac-11e4-8c28-020000005b00/timberview-golf-club"
+  }
+}

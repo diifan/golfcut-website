@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1d942a0-86ac-11e4-8c28-020000005b00/rocky-knoll-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1d942a0-86ac-11e4-8c28-020000005b00/rocky-knoll-country-club",
+  "checked_at": 1795524565.3581564,
+  "sha256": "bfc958981d9b08242fb3f1b88e11d6f7be76fa56c648b313df1388c11282915d",
+  "title": "Rocky Knoll Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1d942a0-86ac-11e4-8c28-020000005b00",
+    "name": "Rocky Knoll Country Club",
+    "address": "94 River road",
+    "courses": [
+      {
+        "name": "Rocky Knoll",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6062,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5835,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 109
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5322,
+            "par": 72,
+            "rating": 65,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4965,
+            "par": 72,
+            "rating": 62.6,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1d942a0-86ac-11e4-8c28-020000005b00/rocky-knoll-country-club"
+  }
+}

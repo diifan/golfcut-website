@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae637cd0-86ac-11e4-8c28-020000005b00/lake-marion-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae637cd0-86ac-11e4-8c28-020000005b00/lake-marion-golf-club",
+  "checked_at": 1795524653.317015,
+  "sha256": "9a855a90863cd43d50b3d53b604510737e75efa41b03423aa2e4bec53265fc99",
+  "title": "Lake Marion Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae637cd0-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Marion Golf Club",
+    "address": "9069 SC-6, Santee, SC 29142",
+    "courses": [
+      {
+        "name": "Lake Marion",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "I",
+            "category": "MALE",
+            "yards": 6413,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 120
+          },
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 5998,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 118
+          },
+          {
+            "name": "III",
+            "category": "MALE",
+            "yards": 5543,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 115
+          },
+          {
+            "name": "IV",
+            "category": "MALE",
+            "yards": 4772,
+            "par": 72,
+            "rating": 63,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae637cd0-86ac-11e4-8c28-020000005b00/lake-marion-golf-club"
+  }
+}

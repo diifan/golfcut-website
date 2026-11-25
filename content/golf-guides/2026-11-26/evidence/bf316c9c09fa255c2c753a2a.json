@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba193ab0-86ac-11e4-8c28-020000005b00/brattleboro-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba193ab0-86ac-11e4-8c28-020000005b00/brattleboro-country-club",
+  "checked_at": 1795524601.60725,
+  "sha256": "e68b665f919816e0f0c3b270adeadded24e4ffaf228d93cbae1944aec03438fb",
+  "title": "Brattleboro Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ba193ab0-86ac-11e4-8c28-020000005b00",
+    "name": "Brattleboro Country Club",
+    "address": "348 Upper DummerSton Rd",
+    "courses": [
+      {
+        "name": "Brattleboro",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6533,
+            "par": 71,
+            "rating": 71.8,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6073,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5400,
+            "par": 71,
+            "rating": 66.6,
+            "slope": 109
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5051,
+            "par": 71,
+            "rating": 65.4,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba193ab0-86ac-11e4-8c28-020000005b00/brattleboro-country-club"
+  }
+}

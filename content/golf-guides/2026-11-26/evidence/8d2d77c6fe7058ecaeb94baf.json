@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9cc2b360-86ac-11e4-8c28-020000005b00/green-ridge-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9cc2b360-86ac-11e4-8c28-020000005b00/green-ridge-golf-course",
+  "checked_at": 1795582859.543495,
+  "sha256": "6adfdffa2a0984778d2410a0c95853fa21d35b79287cf6c9f4fadd0e55c73bce",
+  "title": "Green Ridge Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9cc2b360-86ac-11e4-8c28-020000005b00",
+    "name": "Green Ridge Golf Course",
+    "address": "29150 Ridge Rd",
+    "courses": [
+      {
+        "name": "Green Ridge",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2215,
+            "par": 32,
+            "rating": 32.5,
+            "slope": 104
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2215,
+            "par": 37,
+            "rating": 32.7,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1965,
+            "par": 32,
+            "rating": 31.4,
+            "slope": 99
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1965,
+            "par": 37,
+            "rating": 31.4,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9cc2b360-86ac-11e4-8c28-020000005b00/green-ridge-golf-course"
+  }
+}

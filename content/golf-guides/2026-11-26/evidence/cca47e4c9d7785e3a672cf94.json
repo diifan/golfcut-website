@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/775d2f10-86ac-11e4-8c28-020000005b00/niagara-falls-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/775d2f10-86ac-11e4-8c28-020000005b00/niagara-falls-golf-club",
+  "checked_at": 1795524401.793756,
+  "sha256": "9202ae17584568c9b7db01f7f2a34689e43b36a366be73d48c8880a057ff0503",
+  "title": "Niagara Falls Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "775d2f10-86ac-11e4-8c28-020000005b00",
+    "name": "Niagara Falls Golf Club",
+    "address": "6169 Garner Road, Niagara Falls",
+    "courses": [
+      {
+        "name": "Niagara Falls",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6135,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6135,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5865,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5865,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5400,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5400,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/775d2f10-86ac-11e4-8c28-020000005b00/niagara-falls-golf-club"
+  }
+}

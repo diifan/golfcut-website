@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/999c4610-86ac-11e4-8c28-020000005b00/vassar-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/999c4610-86ac-11e4-8c28-020000005b00/vassar-golf-course",
+  "checked_at": 1795583796.2940435,
+  "sha256": "895950cb227b4cc04542685b5d582760af32af9ca81fb89e800d4331ed7c9014",
+  "title": "Vassar Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "999c4610-86ac-11e4-8c28-020000005b00",
+    "name": "Vassar Golf Course",
+    "address": "124 Raymond Avenue Poughkeepsie, NY",
+    "courses": [
+      {
+        "name": "9 holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2514,
+            "par": 34,
+            "rating": 31.9,
+            "slope": 105
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2514,
+            "par": 34,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 2213,
+            "par": 34,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 2213,
+            "par": 34,
+            "rating": 32.4,
+            "slope": 108
+          }
+        ]
+      },
+      {
+        "name": "18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5304,
+            "par": 68,
+            "rating": 63.8,
+            "slope": 105
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5304,
+            "par": 68,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5003,
+            "par": 68,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5003,
+            "par": 68,
+            "rating": 64.8,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/999c4610-86ac-11e4-8c28-020000005b00/vassar-golf-course"
+  }
+}

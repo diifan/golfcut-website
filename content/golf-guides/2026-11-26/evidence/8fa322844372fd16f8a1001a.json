@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af09f600-86ac-11e4-8c28-020000005b00/bear-trace-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af09f600-86ac-11e4-8c28-020000005b00/bear-trace-golf-club",
+  "checked_at": 1795524618.231766,
+  "sha256": "85a19ebadf8e0e65196326d6d721ce023782c0b80977f71641b30813f28e4fd6",
+  "title": "Bear Trace Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af09f600-86ac-11e4-8c28-020000005b00",
+    "name": "Bear Trace Golf Club",
+    "address": "8919 Harrison Bay Road, Harrison, TN",
+    "courses": [
+      {
+        "name": "Bear Trace Golf Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7140,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6558,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5926,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5290,
+            "par": 72,
+            "rating": 69,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af09f600-86ac-11e4-8c28-020000005b00/bear-trace-golf-club"
+  }
+}

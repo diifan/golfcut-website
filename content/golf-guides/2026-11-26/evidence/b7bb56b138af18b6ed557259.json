@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8b140740-86ac-11e4-8c28-020000005b00/bridgeport-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8b140740-86ac-11e4-8c28-020000005b00/bridgeport-country-club",
+  "checked_at": 1795524622.6170433,
+  "sha256": "2d648bebf505e5baeb9933a1c899ed43f68a2c38b90ba654c9ea5a0c62a4a79c",
+  "title": "Bridgeport Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8b140740-86ac-11e4-8c28-020000005b00",
+    "name": "Bridgeport Country Club",
+    "address": "2123 Farm Road, Bridgeport, TX",
+    "courses": [
+      {
+        "name": "9 Hole Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 2925,
+            "par": 35,
+            "rating": 67.2,
+            "slope": 113
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 2925,
+            "par": 35,
+            "rating": 73,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2221,
+            "par": 35,
+            "rating": 65.1,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2221,
+            "par": 35,
+            "rating": 64.9,
+            "slope": 105
+          }
+        ]
+      },
+      {
+        "name": "18 hole Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5850,
+            "par": 70,
+            "rating": 67.2,
+            "slope": 113
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5850,
+            "par": 70,
+            "rating": 73,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4442,
+            "par": 70,
+            "rating": 65.1,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4442,
+            "par": 70,
+            "rating": 64.9,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8b140740-86ac-11e4-8c28-020000005b00/bridgeport-country-club"
+  }
+}

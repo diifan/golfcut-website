@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83df8bc0-86ac-11e4-8c28-020000005b00/twin-lakes-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83df8bc0-86ac-11e4-8c28-020000005b00/twin-lakes-golf-club",
+  "checked_at": 1795582881.8692071,
+  "sha256": "8bd3313e568a442c10a4fdffa49fe20156c163c9192b1ef652c13954b52743d6",
+  "title": "Twin Lakes Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "83df8bc0-86ac-11e4-8c28-020000005b00",
+    "name": "Twin Lakes Golf Club",
+    "address": "1200 E Twin Lakes Dr, Palatine, IL",
+    "courses": [
+      {
+        "name": "Twin Lakes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1460,
+            "par": 29,
+            "rating": 30,
+            "slope": 110
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1460,
+            "par": 29,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1312,
+            "par": 29,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1312,
+            "par": 29,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White II",
+            "category": "MALE",
+            "yards": 1269,
+            "par": 29,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White II",
+            "category": "FEMALE",
+            "yards": 1269,
+            "par": 29,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1080,
+            "par": 29,
+            "rating": 35,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1080,
+            "par": 29,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83df8bc0-86ac-11e4-8c28-020000005b00/twin-lakes-golf-club"
+  }
+}

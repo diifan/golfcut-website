@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8f430af0-86ac-11e4-8c28-020000005b00/whiskey-creek-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8f430af0-86ac-11e4-8c28-020000005b00/whiskey-creek-country-club",
+  "checked_at": 1795524986.6097991,
+  "sha256": "852a27251700926e0e669c9d7c2437784d9fc9b9e4b99fed67a2eef70eb91b35",
+  "title": "Whiskey Creek Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8f430af0-86ac-11e4-8c28-020000005b00",
+    "name": "Whiskey Creek Country Club",
+    "address": "1449 Whiskey Creek, Fort Myers, FL",
+    "courses": [
+      {
+        "name": "Whiskey Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Mens Yardage",
+            "category": "MALE",
+            "yards": 3333,
+            "par": 60,
+            "rating": 57.8,
+            "slope": 101
+          },
+          {
+            "name": "Ladies yardage",
+            "category": "MALE",
+            "yards": 3001,
+            "par": 60,
+            "rating": 58.6,
+            "slope": 99
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8f430af0-86ac-11e4-8c28-020000005b00/whiskey-creek-country-club"
+  }
+}

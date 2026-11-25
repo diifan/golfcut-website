@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d6ab330-86ac-11e4-8c28-020000005b00/paupack-hills",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d6ab330-86ac-11e4-8c28-020000005b00/paupack-hills",
+  "checked_at": 1795524475.9915109,
+  "sha256": "40e826ce61939c9c5b3ac6ddbeeb2da937167d67224423507a3eb095ea271931",
+  "title": "Paupack Hills - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d6ab330-86ac-11e4-8c28-020000005b00",
+    "name": "Paupack Hills",
+    "address": "125 Country Club Drive, Greentown, PA",
+    "courses": [
+      {
+        "name": "Paupack Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6556,
+            "par": 71,
+            "rating": 72.5,
+            "slope": 134
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 6556,
+            "par": 72,
+            "rating": 76.8,
+            "slope": 136
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6238,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 134
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6238,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 132
+          },
+          {
+            "name": "Forward - White",
+            "category": "MALE",
+            "yards": 5496,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 128
+          },
+          {
+            "name": "Forward - White",
+            "category": "FEMALE",
+            "yards": 5496,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 124
+          },
+          {
+            "name": "Forward - Red",
+            "category": "MALE",
+            "yards": 5496,
+            "par": 71,
+            "rating": 70,
+            "slope": 120
+          },
+          {
+            "name": "Forward - Red",
+            "category": "FEMALE",
+            "yards": 5496,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 132
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d6ab330-86ac-11e4-8c28-020000005b00/paupack-hills"
+  }
+}

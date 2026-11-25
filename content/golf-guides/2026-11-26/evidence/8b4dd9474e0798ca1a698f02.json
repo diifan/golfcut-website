@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8aa9acb0-86ac-11e4-8c28-020000005b00/river-island-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8aa9acb0-86ac-11e4-8c28-020000005b00/river-island-country-club",
+  "checked_at": 1795524434.9296002,
+  "sha256": "16710617081ced0bcf5d8a934589e9e725f704626383b798e61a66f531e977a6",
+  "title": "River Island Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8aa9acb0-86ac-11e4-8c28-020000005b00",
+    "name": "River Island Country Club",
+    "address": "31989 River Island Dr, Porterville, CA",
+    "courses": [
+      {
+        "name": "River Island",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6872,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6872,
+            "par": 72,
+            "rating": 78.5,
+            "slope": 140
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6335,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6335,
+            "par": 72,
+            "rating": 75.6,
+            "slope": 134
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5620,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5620,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5217,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5217,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8aa9acb0-86ac-11e4-8c28-020000005b00/river-island-country-club"
+  }
+}

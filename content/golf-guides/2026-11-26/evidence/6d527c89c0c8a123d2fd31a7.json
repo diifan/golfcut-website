@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba73b6c0-86ac-11e4-8c28-020000005b00/pipestem-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba73b6c0-86ac-11e4-8c28-020000005b00/pipestem-golf-course",
+  "checked_at": 1795582935.9435601,
+  "sha256": "9d0ea1e8d5d41fd533b69fd8c5a7005fab71f2eceefa04ad34687a8ac5e1c732",
+  "title": "Pipestem Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ba73b6c0-86ac-11e4-8c28-020000005b00",
+    "name": "Pipestem Golf Course",
+    "address": "3405 Pipestem Drive",
+    "courses": [
+      {
+        "name": "Championship Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6221,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6884,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5567,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5782,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba73b6c0-86ac-11e4-8c28-020000005b00/pipestem-golf-course"
+  }
+}

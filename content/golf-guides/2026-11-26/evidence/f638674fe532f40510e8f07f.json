@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a1c7290-86ac-11e4-8c28-020000005b00/seneca-hickory-stick-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a1c7290-86ac-11e4-8c28-020000005b00/seneca-hickory-stick-golf-course",
+  "checked_at": 1795524503.4857066,
+  "sha256": "8398c57fa1a77c8ed92663a5d26f42673a1d1a11713f6fba896e35fcde8d4fd7",
+  "title": "Seneca Hickory Stick Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9a1c7290-86ac-11e4-8c28-020000005b00",
+    "name": "Seneca Hickory Stick Golf Course",
+    "address": "4560 Creek Rd, Lewiston, NY",
+    "courses": [
+      {
+        "name": "Seneca Hickory Stick",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7016,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 142
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6670,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6331,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 135
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5955,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5417,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a1c7290-86ac-11e4-8c28-020000005b00/seneca-hickory-stick-golf-course"
+  }
+}

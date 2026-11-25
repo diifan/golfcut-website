@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae63f200-86ac-11e4-8c28-020000005b00/santee-cooper-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae63f200-86ac-11e4-8c28-020000005b00/santee-cooper-country-club",
+  "checked_at": 1795524549.0861008,
+  "sha256": "d3d96e3b868c28a711fa7294aeebea4217104ab14bfaeedfdb72fd94e30c12da",
+  "title": "Santee-Cooper Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae63f200-86ac-11e4-8c28-020000005b00",
+    "name": "Santee-Cooper Country Club",
+    "address": "630 Santee Drive Santee, SC 29142",
+    "courses": [
+      {
+        "name": "Santee Cooper",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6589,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6198,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5560,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 117
+          },
+          {
+            "name": "Beige",
+            "category": "MALE",
+            "yards": 5343,
+            "par": 72,
+            "rating": 64.7,
+            "slope": 113
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5045,
+            "par": 72,
+            "rating": 61.6,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae63f200-86ac-11e4-8c28-020000005b00/santee-cooper-country-club"
+  }
+}

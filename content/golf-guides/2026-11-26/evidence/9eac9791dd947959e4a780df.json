@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99480b90-86ac-11e4-8c28-020000005b00/lochmor-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99480b90-86ac-11e4-8c28-020000005b00/lochmor-golf-course",
+  "checked_at": 1795582858.3971522,
+  "sha256": "cf8417df5f1b6013df454aae5a39c16e4afea3970c7fd59889423a79c129a7b1",
+  "title": "Lochmor Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99480b90-86ac-11e4-8c28-020000005b00",
+    "name": "Lochmor Golf Course",
+    "address": "586 Loch Sheldrake Rd, Loch Sheldrake, NY",
+    "courses": [
+      {
+        "name": "Lochmor",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6550,
+            "par": 71,
+            "rating": 71.5,
+            "slope": 124
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6305,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5356,
+            "par": 71,
+            "rating": 65.8,
+            "slope": 107
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5176,
+            "par": 71,
+            "rating": 68.5,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99480b90-86ac-11e4-8c28-020000005b00/lochmor-golf-course"
+  }
+}

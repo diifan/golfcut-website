@@ -1,0 +1,273 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/88e8c2d0-86ac-11e4-8c28-020000005b00/desert-princess-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/88e8c2d0-86ac-11e4-8c28-020000005b00/desert-princess-country-club",
+  "checked_at": 1795524778.1552105,
+  "sha256": "ccd240e4b4252da5681c303ee235ab1338fb185f23073cfde631b9a28de6767d",
+  "title": "Desert Princess Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "88e8c2d0-86ac-11e4-8c28-020000005b00",
+    "name": "Desert Princess Country Club",
+    "address": "28555 Landau Blvd, Cathedral City, CA",
+    "courses": [
+      {
+        "name": "Cielo to Lagos",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6600,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6600,
+            "par": 72,
+            "rating": 78.6,
+            "slope": 141
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6111,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6111,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5663,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5663,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 130
+          },
+          {
+            "name": "Combo",
+            "category": "MALE",
+            "yards": 5506,
+            "par": 72,
+            "rating": 66.9,
+            "slope": 117
+          },
+          {
+            "name": "Combo",
+            "category": "FEMALE",
+            "yards": 5506,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5217,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5217,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 124
+          }
+        ]
+      },
+      {
+        "name": "Vista to Cielo",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6816,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6816,
+            "par": 72,
+            "rating": 79.8,
+            "slope": 145
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6364,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6364,
+            "par": 72,
+            "rating": 77.4,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5942,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5942,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 133
+          },
+          {
+            "name": "Combo",
+            "category": "MALE",
+            "yards": 5748,
+            "par": 72,
+            "rating": 68,
+            "slope": 119
+          },
+          {
+            "name": "Combo",
+            "category": "FEMALE",
+            "yards": 5748,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5403,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5403,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 126
+          }
+        ]
+      },
+      {
+        "name": "Lagos to Vista",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6706,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6706,
+            "par": 72,
+            "rating": 79.4,
+            "slope": 143
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6269,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6269,
+            "par": 72,
+            "rating": 76.8,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5835,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5835,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 132
+          },
+          {
+            "name": "Combo",
+            "category": "MALE",
+            "yards": 5650,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 118
+          },
+          {
+            "name": "Combo",
+            "category": "FEMALE",
+            "yards": 5650,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5322,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5322,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/88e8c2d0-86ac-11e4-8c28-020000005b00/desert-princess-country-club"
+  }
+}

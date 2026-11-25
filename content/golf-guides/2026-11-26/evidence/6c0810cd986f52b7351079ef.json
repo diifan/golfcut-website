@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af1cbab0-86ac-11e4-8c28-020000005b00/madisonville-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af1cbab0-86ac-11e4-8c28-020000005b00/madisonville-golf-course",
+  "checked_at": 1795583805.4197474,
+  "sha256": "9f3c10dfac4822890138f11b2956a3592a174cd4d0f6057bd854b3f6d56a02a9",
+  "title": "Madisonville Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af1cbab0-86ac-11e4-8c28-020000005b00",
+    "name": "Madisonville Golf Course",
+    "address": "180 Golf Course Rd, Madisonville, TN",
+    "courses": [
+      {
+        "name": "Madisonville Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5677,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5677,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af1cbab0-86ac-11e4-8c28-020000005b00/madisonville-golf-course"
+  }
+}

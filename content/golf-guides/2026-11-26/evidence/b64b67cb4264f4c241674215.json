@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/94972db0-86ac-11e4-8c28-020000005b00/sugar-bay-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/94972db0-86ac-11e4-8c28-020000005b00/sugar-bay-golf",
+  "checked_at": 1795582871.2083037,
+  "sha256": "823e6e866c85bd2f305ea3ef76404a23d6e9ba2ca796efe70cf03ad7d2afe483",
+  "title": "Sugar Bay Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "94972db0-86ac-11e4-8c28-020000005b00",
+    "name": "Sugar Bay Golf",
+    "address": "975 Dry Creek Road",
+    "courses": [
+      {
+        "name": "Sugar Bay",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6174,
+            "par": 71,
+            "rating": 68.8,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5824,
+            "par": 71,
+            "rating": 66.5,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4609,
+            "par": 71,
+            "rating": 61.7,
+            "slope": 100
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5283,
+            "par": 71,
+            "rating": 63,
+            "slope": 104
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/94972db0-86ac-11e4-8c28-020000005b00/sugar-bay-golf"
+  }
+}

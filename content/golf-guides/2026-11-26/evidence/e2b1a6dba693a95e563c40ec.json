@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/adea5530-86ac-11e4-8c28-020000005b00/bulls-bay-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/adea5530-86ac-11e4-8c28-020000005b00/bulls-bay-golf-club",
+  "checked_at": 1795524395.629531,
+  "sha256": "0e1e0610cfb046730b77afdbfe3de731b78b002aa583a15a3fab58bacf922060",
+  "title": "Bulls Bay Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "adea5530-86ac-11e4-8c28-020000005b00",
+    "name": "Bulls Bay Golf Club",
+    "address": "995 Bulls Bay Blvd, Awendaw, SC 29429",
+    "courses": [
+      {
+        "name": "Bulls Bay",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Maverick",
+            "category": "MALE",
+            "yards": 7222,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 139
+          },
+          {
+            "name": "Skull",
+            "category": "MALE",
+            "yards": 6692,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 135
+          },
+          {
+            "name": "Bull",
+            "category": "MALE",
+            "yards": 6104,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 126
+          },
+          {
+            "name": "Bay",
+            "category": "MALE",
+            "yards": 5335,
+            "par": 72,
+            "rating": 66,
+            "slope": 116
+          },
+          {
+            "name": "Club",
+            "category": "MALE",
+            "yards": 6345,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/adea5530-86ac-11e4-8c28-020000005b00/bulls-bay-golf-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4392ba0-86ac-11e4-8c28-020000005b00/starkville-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4392ba0-86ac-11e4-8c28-020000005b00/starkville-country-club",
+  "checked_at": 1795583813.9140604,
+  "sha256": "cfd33e844ef178fff742363dcb7a26ad230164019e036fcfe3bc4e3e3b8ea18b",
+  "title": "Starkville Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b4392ba0-86ac-11e4-8c28-020000005b00",
+    "name": "Starkville Country Club",
+    "address": "1800 South Montgomery Street - Fairway Dr., Starkville, MS",
+    "courses": [
+      {
+        "name": "Starkville",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6560,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6110,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5110,
+            "par": 72,
+            "rating": 65,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4800,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4392ba0-86ac-11e4-8c28-020000005b00/starkville-country-club"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad902740-86ac-11e4-8c28-020000005b00/valley-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad902740-86ac-11e4-8c28-020000005b00/valley-country-club",
+  "checked_at": 1795582868.1585386,
+  "sha256": "c8fd4cc002a9b05c8cb976f428ef8b9ab149523552266b24c0c3e5d1f863566d",
+  "title": "Valley Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ad902740-86ac-11e4-8c28-020000005b00",
+    "name": "Valley Country Club",
+    "address": "79 Country Club Lane, Sugarloaf, PA",
+    "courses": [
+      {
+        "name": "Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6134,
+            "par": 71,
+            "rating": 70.6,
+            "slope": 130
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 6134,
+            "par": 71,
+            "rating": 74.7,
+            "slope": 125
+          },
+          {
+            "name": "Brown",
+            "category": "MALE",
+            "yards": 5635,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 125
+          },
+          {
+            "name": "Brown",
+            "category": "FEMALE",
+            "yards": 5635,
+            "par": 71,
+            "rating": 71.9,
+            "slope": 120
+          },
+          {
+            "name": "Beige",
+            "category": "MALE",
+            "yards": 5031,
+            "par": 71,
+            "rating": 64.8,
+            "slope": 121
+          },
+          {
+            "name": "Beige",
+            "category": "FEMALE",
+            "yards": 5031,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad902740-86ac-11e4-8c28-020000005b00/valley-country-club"
+  }
+}

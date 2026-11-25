@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8fe25830-86ac-11e4-8c28-020000005b00/new-smyrna-beach-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8fe25830-86ac-11e4-8c28-020000005b00/new-smyrna-beach-golf-course",
+  "checked_at": 1795524681.8060882,
+  "sha256": "a8d18832b53d2832923383299a805c1a7c370aac2637678f1670b484005865b9",
+  "title": "New Smyrna Beach Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8fe25830-86ac-11e4-8c28-020000005b00",
+    "name": "New Smyrna Beach Golf Course",
+    "address": "1000 Wayne Ave",
+    "courses": [
+      {
+        "name": "New Smyrna Beach",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6543,
+            "par": 72,
+            "rating": 72,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6543,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6135,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6135,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5477,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5477,
+            "par": 72,
+            "rating": 72,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4717,
+            "par": 72,
+            "rating": 66.9,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4717,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8fe25830-86ac-11e4-8c28-020000005b00/new-smyrna-beach-golf-course"
+  }
+}

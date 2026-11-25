@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/983f0000-86ac-11e4-8c28-020000005b00/washington-township-municipal-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/983f0000-86ac-11e4-8c28-020000005b00/washington-township-municipal-course",
+  "checked_at": 1795582845.0344982,
+  "sha256": "08da906636ef2fab246b65cce5c8730ce5deafce8e1f6d2c685d4c74e0c4f5f5",
+  "title": "Washington Township Municipal Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "983f0000-86ac-11e4-8c28-020000005b00",
+    "name": "Washington Township Municipal Course",
+    "address": "197 Fries Mill Rd",
+    "courses": [
+      {
+        "name": "9 Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1251,
+            "par": 28,
+            "rating": 27.1,
+            "slope": 81
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1251,
+            "par": 28,
+            "rating": 28,
+            "slope": 86
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1251,
+            "par": 28,
+            "rating": 26.3,
+            "slope": 77
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1251,
+            "par": 28,
+            "rating": 27.5,
+            "slope": 82
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/983f0000-86ac-11e4-8c28-020000005b00/washington-township-municipal-course"
+  }
+}

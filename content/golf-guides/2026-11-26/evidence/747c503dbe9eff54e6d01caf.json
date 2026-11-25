@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8eb1af0-86ac-11e4-8c28-020000005b00/kahuku",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8eb1af0-86ac-11e4-8c28-020000005b00/kahuku",
+  "checked_at": 1795524476.7304735,
+  "sha256": "faabd8edcc841c31a039ec5067754cf57bad0ca28a90a68804c2b81f94d1d9a6",
+  "title": "Kahuku - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b8eb1af0-86ac-11e4-8c28-020000005b00",
+    "name": "Kahuku",
+    "address": "56-501 Kamehameha Hwy, Kahuku, HI",
+    "courses": [
+      {
+        "name": "Kahuku",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2699,
+            "par": 35,
+            "rating": 32.6,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2699,
+            "par": 35,
+            "rating": 35.3,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2699,
+            "par": 35,
+            "rating": 34.8,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2699,
+            "par": 35,
+            "rating": 34.5,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8eb1af0-86ac-11e4-8c28-020000005b00/kahuku"
+  }
+}

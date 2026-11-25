@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af0d2a50-86ac-11e4-8c28-020000005b00/valleybrook-golf-and-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af0d2a50-86ac-11e4-8c28-020000005b00/valleybrook-golf-and-country-club",
+  "checked_at": 1795582882.253972,
+  "sha256": "4c7f533d48321617cd6c8557b3d004eed32a3f24a113973a7e45569e1ea79ac7",
+  "title": "Valleybrook Golf and Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af0d2a50-86ac-11e4-8c28-020000005b00",
+    "name": "Valleybrook Golf and Country Club",
+    "address": "180 Valleybrook Rd, Hixson, TN",
+    "courses": [
+      {
+        "name": "Valleybrook",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6713,
+            "par": 71,
+            "rating": 72.8,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6133,
+            "par": 71,
+            "rating": 70.6,
+            "slope": 124
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5745,
+            "par": 71,
+            "rating": 67.9,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5088,
+            "par": 71,
+            "rating": 65.4,
+            "slope": 114
+          },
+          {
+            "name": "Red/White",
+            "category": "MALE",
+            "yards": 4760,
+            "par": 71,
+            "rating": 63.8,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af0d2a50-86ac-11e4-8c28-020000005b00/valleybrook-golf-and-country-club"
+  }
+}

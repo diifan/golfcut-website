@@ -1,0 +1,295 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8bb4b410-86ac-11e4-8c28-020000005b00/atascocita-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8bb4b410-86ac-11e4-8c28-020000005b00/atascocita-golf-club",
+  "checked_at": 1795524670.4985316,
+  "sha256": "38b64b5d8c3a206f76b9fb13cb3f680da5dceb5dd2040c9f09718cdb457a924c",
+  "title": "Atascocita Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8bb4b410-86ac-11e4-8c28-020000005b00",
+    "name": "Atascocita Golf Club",
+    "address": "20114 Pinehurst Drive, Atascocita, TX",
+    "courses": [
+      {
+        "name": "Pinehurst to Point",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6661,
+            "par": 71,
+            "rating": 73.1,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6661,
+            "par": 71,
+            "rating": 77.3,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6341,
+            "par": 71,
+            "rating": 71.6,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6341,
+            "par": 71,
+            "rating": 75.6,
+            "slope": 134
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5918,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 124
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5918,
+            "par": 71,
+            "rating": 75.2,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5575,
+            "par": 71,
+            "rating": 67.4,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5575,
+            "par": 71,
+            "rating": 72.9,
+            "slope": 126
+          }
+        ]
+      },
+      {
+        "name": "Point to Shores",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6754,
+            "par": 71,
+            "rating": 73.2,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6754,
+            "par": 71,
+            "rating": 77.8,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6400,
+            "par": 71,
+            "rating": 72,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6400,
+            "par": 71,
+            "rating": 75.9,
+            "slope": 134
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5915,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 126
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5915,
+            "par": 71,
+            "rating": 75.1,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5433,
+            "par": 71,
+            "rating": 67,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5433,
+            "par": 71,
+            "rating": 72,
+            "slope": 125
+          }
+        ]
+      },
+      {
+        "name": "Shores to Pinehurst",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6569,
+            "par": 70,
+            "rating": 72.1,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6569,
+            "par": 70,
+            "rating": 76.8,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6183,
+            "par": 70,
+            "rating": 70.8,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6183,
+            "par": 70,
+            "rating": 74.8,
+            "slope": 132
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5693,
+            "par": 70,
+            "rating": 68.4,
+            "slope": 123
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5693,
+            "par": 70,
+            "rating": 73.7,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5288,
+            "par": 70,
+            "rating": 66.4,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5288,
+            "par": 70,
+            "rating": 71.3,
+            "slope": 121
+          }
+        ]
+      },
+      {
+        "name": "Shores to Point",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6754,
+            "par": 71,
+            "rating": 73.2,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6754,
+            "par": 71,
+            "rating": 77.8,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6400,
+            "par": 71,
+            "rating": 72,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6400,
+            "par": 71,
+            "rating": 75.9,
+            "slope": 134
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5915,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 126
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5915,
+            "par": 71,
+            "rating": 75.1,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5433,
+            "par": 71,
+            "rating": 67,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5433,
+            "par": 71,
+            "rating": 72,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8bb4b410-86ac-11e4-8c28-020000005b00/atascocita-golf-club"
+  }
+}

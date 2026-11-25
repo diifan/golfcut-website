@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c3ca8c0-86ac-11e4-8c28-020000005b00/stewart-peninsula",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c3ca8c0-86ac-11e4-8c28-020000005b00/stewart-peninsula",
+  "checked_at": 1795524724.6403692,
+  "sha256": "d780f606d9e37953232ed5e3688b476a1da7b28f4eeecc0caa7724a2707bbb47",
+  "title": "Stewart Peninsula  - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8c3ca8c0-86ac-11e4-8c28-020000005b00",
+    "name": "Stewart Peninsula ",
+    "address": "100 Cottonwood Springs Circle, The Colony, TX",
+    "courses": [
+      {
+        "name": "Stewart Peninsula",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 5325,
+            "par": 66,
+            "rating": 65.9,
+            "slope": 124
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 5325,
+            "par": 66,
+            "rating": 70.2,
+            "slope": 122
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 4715,
+            "par": 66,
+            "rating": 63,
+            "slope": 111
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 4715,
+            "par": 66,
+            "rating": 67,
+            "slope": 115
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 4000,
+            "par": 66,
+            "rating": 60.7,
+            "slope": 102
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 4000,
+            "par": 66,
+            "rating": 64,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c3ca8c0-86ac-11e4-8c28-020000005b00/stewart-peninsula"
+  }
+}

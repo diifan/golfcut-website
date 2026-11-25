@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d105e30-86ac-11e4-8c28-020000005b00/lake-arthur-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d105e30-86ac-11e4-8c28-020000005b00/lake-arthur-golf-club",
+  "checked_at": 1795524652.7016313,
+  "sha256": "a1a0d95369161918b6272c60e7010bba8f1469024d5b83683abace6007551639",
+  "title": "Lake Arthur Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d105e30-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Arthur Golf Club",
+    "address": "255 Isle Rd",
+    "courses": [
+      {
+        "name": "Lake Arthur",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6637,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6301,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5567,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5140,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d105e30-86ac-11e4-8c28-020000005b00/lake-arthur-golf-club"
+  }
+}

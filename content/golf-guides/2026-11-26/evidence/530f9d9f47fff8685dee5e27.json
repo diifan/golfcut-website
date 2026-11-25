@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b38d5b40-86ac-11e4-8c28-020000005b00/gull-lake-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b38d5b40-86ac-11e4-8c28-020000005b00/gull-lake-country-club",
+  "checked_at": 1795524612.9088504,
+  "sha256": "5ccb6d2b47a845af503420b30c6507d55db1daed6009ed2449e653ce7bdb8800",
+  "title": "Gull Lake Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b38d5b40-86ac-11e4-8c28-020000005b00",
+    "name": "Gull Lake Country Club",
+    "address": "9725 W Gull Lake Dr",
+    "courses": [
+      {
+        "name": "Gull Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6457,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 133
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6457,
+            "par": 74,
+            "rating": 76.2,
+            "slope": 135
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6244,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 131
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6244,
+            "par": 74,
+            "rating": 75.1,
+            "slope": 132
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5315,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 120
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5315,
+            "par": 74,
+            "rating": 72.5,
+            "slope": 129
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b38d5b40-86ac-11e4-8c28-020000005b00/gull-lake-country-club"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/aebe4700-86ac-11e4-8c28-020000005b00/central-valley",
+  "resolved_url": "https://18birdies.com/golf-courses/club/aebe4700-86ac-11e4-8c28-020000005b00/central-valley",
+  "checked_at": 1795524563.7796185,
+  "sha256": "2d3ef36bef91c56dd8f1bfb9b2f20a91c44f81d56fc894fac655dab027b208ba",
+  "title": "Central Valley - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "aebe4700-86ac-11e4-8c28-020000005b00",
+    "name": "Central Valley",
+    "address": "700 East Highway 38",
+    "courses": [
+      {
+        "name": "Central Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6326,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 124
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6326,
+            "par": 72,
+            "rating": 76,
+            "slope": 134
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5947,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 120
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5947,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4983,
+            "par": 72,
+            "rating": 64.3,
+            "slope": 111
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4983,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/aebe4700-86ac-11e4-8c28-020000005b00/central-valley"
+  }
+}

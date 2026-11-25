@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b069fb30-86ac-11e4-8c28-020000005b00/the-manor-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b069fb30-86ac-11e4-8c28-020000005b00/the-manor-golf-club",
+  "checked_at": 1795524414.6974468,
+  "sha256": "a22428a459d27ebe213023c13e4e83e4a9eb5d2649bd3fef13abdc2a8c1daac1",
+  "title": "The Manor Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b069fb30-86ac-11e4-8c28-020000005b00",
+    "name": "The Manor Golf Club",
+    "address": "3463 Farmville Rd, Farmville, VA",
+    "courses": [
+      {
+        "name": "Manor",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7214,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 144
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6675,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6153,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 132
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5723,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5367,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b069fb30-86ac-11e4-8c28-020000005b00/the-manor-golf-club"
+  }
+}

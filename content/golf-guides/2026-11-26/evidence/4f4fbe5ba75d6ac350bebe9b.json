@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/953c2040-86ac-11e4-8c28-020000005b00/the-blandford-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/953c2040-86ac-11e4-8c28-020000005b00/the-blandford-club",
+  "checked_at": 1795582922.2575698,
+  "sha256": "6033337fbbb40fa804431f924b7e813ab64f0f7ccd69ef58091a3c25612d3a05",
+  "title": "The Blandford Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "953c2040-86ac-11e4-8c28-020000005b00",
+    "name": "The Blandford Club",
+    "address": "17 North St",
+    "courses": [
+      {
+        "name": "Blandford",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2784,
+            "par": 35,
+            "rating": 34.1,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2673,
+            "par": 35,
+            "rating": 33.4,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2368,
+            "par": 35,
+            "rating": 33.2,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/953c2040-86ac-11e4-8c28-020000005b00/the-blandford-club"
+  }
+}

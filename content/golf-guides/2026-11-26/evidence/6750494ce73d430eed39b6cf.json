@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/80bacc20-86ac-11e4-8c28-020000005b00/woodlawn-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/80bacc20-86ac-11e4-8c28-020000005b00/woodlawn-golf-course",
+  "checked_at": 1795524668.9481812,
+  "sha256": "0a263d2f1e631e3a027ff8c517b0ac400de9fc8501ec95ee545ca242094db8d7",
+  "title": "Woodlawn Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "80bacc20-86ac-11e4-8c28-020000005b00",
+    "name": "Woodlawn Golf Course",
+    "address": "Gebäude 553, Ramstein Flugplatz, Rhineland-Palatinate",
+    "courses": [
+      {
+        "name": "Woodlawn",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blau",
+            "category": "MALE",
+            "yards": 6044,
+            "par": 70,
+            "rating": 67.2,
+            "slope": 122
+          },
+          {
+            "name": "Blau",
+            "category": "FEMALE",
+            "yards": 6044,
+            "par": 71,
+            "rating": 74,
+            "slope": 130
+          },
+          {
+            "name": "Weiß",
+            "category": "MALE",
+            "yards": 5691,
+            "par": 70,
+            "rating": 66.2,
+            "slope": 119
+          },
+          {
+            "name": "Weiß",
+            "category": "FEMALE",
+            "yards": 5691,
+            "par": 71,
+            "rating": 72.2,
+            "slope": 126
+          },
+          {
+            "name": "Rot",
+            "category": "MALE",
+            "yards": 5089,
+            "par": 70,
+            "rating": 68.1,
+            "slope": 117
+          },
+          {
+            "name": "Rot",
+            "category": "FEMALE",
+            "yards": 5089,
+            "par": 71,
+            "rating": 68.4,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/80bacc20-86ac-11e4-8c28-020000005b00/woodlawn-golf-course"
+  }
+}

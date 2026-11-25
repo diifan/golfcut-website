@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5cb1640-86ac-11e4-8c28-020000005b00/door-creek-golf-course-executive-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5cb1640-86ac-11e4-8c28-020000005b00/door-creek-golf-course-executive-course",
+  "checked_at": 1795524848.6442919,
+  "sha256": "29d458c9419117be9d386f439a3c2536636a6ba2a9a2bb15e0d463298c13f5bb",
+  "title": "Door Creek Golf Course - Executive Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b5cb1640-86ac-11e4-8c28-020000005b00",
+    "name": "Door Creek Golf Course - Executive Course",
+    "address": "4321 Vilas Rd.",
+    "courses": [
+      {
+        "name": "Door Creek(Executive )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1471,
+            "par": 30,
+            "rating": 27.9,
+            "slope": 84
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1471,
+            "par": 30,
+            "rating": 29.1,
+            "slope": 90
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1225,
+            "par": 30,
+            "rating": 27.1,
+            "slope": 80
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1225,
+            "par": 30,
+            "rating": 28.3,
+            "slope": 85
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5cb1640-86ac-11e4-8c28-020000005b00/door-creek-golf-course-executive-course"
+  }
+}

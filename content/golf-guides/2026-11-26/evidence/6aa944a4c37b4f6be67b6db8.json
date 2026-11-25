@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92d3d2d0-86ac-11e4-8c28-020000005b00/bulls-bridge-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92d3d2d0-86ac-11e4-8c28-020000005b00/bulls-bridge-golf-club",
+  "checked_at": 1795524679.5776024,
+  "sha256": "8ee705b4f0eee86857671cfa1b8328cf71424efed5466b2b5cb3532545a3ddee",
+  "title": "Bulls Bridge Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92d3d2d0-86ac-11e4-8c28-020000005b00",
+    "name": "Bulls Bridge Golf Club",
+    "address": "71 Bulls Bridge Rd",
+    "courses": [
+      {
+        "name": "Bulls Bridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6992,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6532,
+            "par": 72,
+            "rating": 72,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6131,
+            "par": 72,
+            "rating": 70,
+            "slope": 130
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5291,
+            "par": 72,
+            "rating": 69,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92d3d2d0-86ac-11e4-8c28-020000005b00/bulls-bridge-golf-club"
+  }
+}

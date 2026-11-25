@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5dbdf20-86ac-11e4-8c28-020000005b00/edgerton-towne-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5dbdf20-86ac-11e4-8c28-020000005b00/edgerton-towne-country-club",
+  "checked_at": 1795524738.537352,
+  "sha256": "0458cda0d3b846582add8585fe556b6b894d76107f0d74adfd3033bcba41f685",
+  "title": "Edgerton Towne Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b5dbdf20-86ac-11e4-8c28-020000005b00",
+    "name": "Edgerton Towne Country Club",
+    "address": "115 Jenson St, Edgerton, WI",
+    "courses": [
+      {
+        "name": "Edgerton Towne",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5973,
+            "par": 70,
+            "rating": 69.1,
+            "slope": 120
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5973,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5539,
+            "par": 70,
+            "rating": 67.3,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5539,
+            "par": 70,
+            "rating": 72.2,
+            "slope": 121
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5539,
+            "par": 70,
+            "rating": 64.6,
+            "slope": 109
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5539,
+            "par": 70,
+            "rating": 69.5,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4964,
+            "par": 70,
+            "rating": 63.9,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4964,
+            "par": 70,
+            "rating": 68.6,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5dbdf20-86ac-11e4-8c28-020000005b00/edgerton-towne-country-club"
+  }
+}

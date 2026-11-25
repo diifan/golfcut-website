@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8f6e60b0-86ac-11e4-8c28-020000005b00/key-colony-beach",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8f6e60b0-86ac-11e4-8c28-020000005b00/key-colony-beach",
+  "checked_at": 1795582945.8559194,
+  "sha256": "96964ad30d7ec73831594b149d1d8cfbabd057aa310caeba70fad7405a77dc83",
+  "title": "Key Colony Beach - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "8f6e60b0-86ac-11e4-8c28-020000005b00",
+    "name": "Key Colony Beach",
+    "address": "460 8th St, Key Colony Beach, FL",
+    "courses": [
+      {
+        "name": "Key Colony Beach",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 962,
+            "par": 27,
+            "rating": 26.19248,
+            "slope": 77.66984
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 962,
+            "par": 27,
+            "rating": 26.19248,
+            "slope": 77.66984
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8f6e60b0-86ac-11e4-8c28-020000005b00/key-colony-beach"
+  }
+}

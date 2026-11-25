@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ae7a010-86ac-11e4-8c28-020000005b00/butler-park-pitch-putt",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ae7a010-86ac-11e4-8c28-020000005b00/butler-park-pitch-putt",
+  "checked_at": 1795582933.064456,
+  "sha256": "21175bc2bb8882d3ea541ea93d04ea9ca4b2bf28c49538c417dc8a777be325db",
+  "title": "Butler Park Pitch & Putt - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8ae7a010-86ac-11e4-8c28-020000005b00",
+    "name": "Butler Park Pitch & Putt",
+    "address": "201 Lee Barton Drive, Austin, TX",
+    "courses": [
+      {
+        "name": "Butler Park Pitch & Putt",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Men",
+            "category": "MALE",
+            "yards": 703,
+            "par": 27,
+            "rating": 53.9,
+            "slope": 96
+          },
+          {
+            "name": "Men",
+            "category": "FEMALE",
+            "yards": 703,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 703,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ladies",
+            "category": "FEMALE",
+            "yards": 703,
+            "par": 27,
+            "rating": 55.1,
+            "slope": 98
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ae7a010-86ac-11e4-8c28-020000005b00/butler-park-pitch-putt"
+  }
+}

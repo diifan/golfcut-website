@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad779630-86ac-11e4-8c28-020000005b00/windber-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad779630-86ac-11e4-8c28-020000005b00/windber-country-club",
+  "checked_at": 1795525016.7131052,
+  "sha256": "8409ec097a33aef771a1ff3d2701344f26b1b9821bf130b7ebfd068f901557fb",
+  "title": "Windber Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ad779630-86ac-11e4-8c28-020000005b00",
+    "name": "Windber Country Club",
+    "address": "1392 Forest Hills Drive",
+    "courses": [
+      {
+        "name": "Windber",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6848,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6499,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6039,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 132
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5161,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4981,
+            "par": 72,
+            "rating": 64.2,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad779630-86ac-11e4-8c28-020000005b00/windber-country-club"
+  }
+}

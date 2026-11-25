@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9936f490-86ac-11e4-8c28-020000005b00/lake-placid-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9936f490-86ac-11e4-8c28-020000005b00/lake-placid-club",
+  "checked_at": 1795582900.417934,
+  "sha256": "55d27c793f356151e0c5ae1b5127b847b3fcd5dfc6dbc16414fc67ba2557cad2",
+  "title": "Lake Placid Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9936f490-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Placid Club",
+    "address": "101 Olympic Drive",
+    "courses": [
+      {
+        "name": "Mountain Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship Gold",
+            "category": "MALE",
+            "yards": 6501,
+            "par": 70,
+            "rating": 72,
+            "slope": 131
+          },
+          {
+            "name": "Medal Blue",
+            "category": "MALE",
+            "yards": 5864,
+            "par": 70,
+            "rating": 68.7,
+            "slope": 126
+          },
+          {
+            "name": "Match White",
+            "category": "MALE",
+            "yards": 5527,
+            "par": 70,
+            "rating": 65.6,
+            "slope": 122
+          },
+          {
+            "name": "Forward Green",
+            "category": "MALE",
+            "yards": 4693,
+            "par": 70,
+            "rating": 62.5,
+            "slope": 110
+          }
+        ]
+      },
+      {
+        "name": "Links Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship Gold",
+            "category": "MALE",
+            "yards": 7052,
+            "par": 71,
+            "rating": 73.4,
+            "slope": 140
+          },
+          {
+            "name": "Medal Blue",
+            "category": "MALE",
+            "yards": 6415,
+            "par": 71,
+            "rating": 70.4,
+            "slope": 127
+          },
+          {
+            "name": "Match White",
+            "category": "MALE",
+            "yards": 5455,
+            "par": 71,
+            "rating": 65.5,
+            "slope": 115
+          },
+          {
+            "name": "Forward Green",
+            "category": "MALE",
+            "yards": 4964,
+            "par": 71,
+            "rating": 63.3,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9936f490-86ac-11e4-8c28-020000005b00/lake-placid-club"
+  }
+}

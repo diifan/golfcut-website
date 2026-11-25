@@ -1,0 +1,273 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6d22600-86ac-11e4-8c28-020000005b00/mc-call-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6d22600-86ac-11e4-8c28-020000005b00/mc-call-golf-club",
+  "checked_at": 1795524979.2680655,
+  "sha256": "7d9c88e580cf118adde5b79c6a560f0993b9bde76903b53eb0a22044c3d38b36",
+  "title": "McCall Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6d22600-86ac-11e4-8c28-020000005b00",
+    "name": "McCall Golf Club",
+    "address": "925 Fairway Drive McCall, ID 83638",
+    "courses": [
+      {
+        "name": "McCall Golf Club (Aspen/Birch)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6226,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6226,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5862,
+            "par": 71,
+            "rating": 66.9,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5862,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 132
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5408,
+            "par": 71,
+            "rating": 63.9,
+            "slope": 109
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5408,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 127
+          },
+          {
+            "name": "Silver/Gold",
+            "category": "MALE",
+            "yards": 5012,
+            "par": 71,
+            "rating": 62.7,
+            "slope": 105
+          },
+          {
+            "name": "Silver/Gold",
+            "category": "FEMALE",
+            "yards": 5012,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4391,
+            "par": 71,
+            "rating": 61.6,
+            "slope": 99
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4391,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 109
+          }
+        ]
+      },
+      {
+        "name": "McCall Golf Club (Birch/Cedar)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6204,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6204,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5736,
+            "par": 71,
+            "rating": 67.5,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5736,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 135
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5235,
+            "par": 71,
+            "rating": 64.3,
+            "slope": 111
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5235,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 125
+          },
+          {
+            "name": "Silver/Gold",
+            "category": "MALE",
+            "yards": 4853,
+            "par": 71,
+            "rating": 62.9,
+            "slope": 106
+          },
+          {
+            "name": "Silver/Gold",
+            "category": "FEMALE",
+            "yards": 4853,
+            "par": 72,
+            "rating": 67,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4191,
+            "par": 71,
+            "rating": 60.8,
+            "slope": 98
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4191,
+            "par": 72,
+            "rating": 63.7,
+            "slope": 111
+          }
+        ]
+      },
+      {
+        "name": "McCall Golf Club (Cedar/Aspen)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6182,
+            "par": 70,
+            "rating": 69.1,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6182,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5688,
+            "par": 70,
+            "rating": 66.4,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5688,
+            "par": 70,
+            "rating": 71.9,
+            "slope": 130
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5103,
+            "par": 70,
+            "rating": 63.4,
+            "slope": 110
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5103,
+            "par": 70,
+            "rating": 68,
+            "slope": 125
+          },
+          {
+            "name": "Silver/Gold",
+            "category": "MALE",
+            "yards": 4709,
+            "par": 70,
+            "rating": 62.4,
+            "slope": 103
+          },
+          {
+            "name": "Silver/Gold",
+            "category": "FEMALE",
+            "yards": 4709,
+            "par": 70,
+            "rating": 66.6,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 3952,
+            "par": 70,
+            "rating": 60.2,
+            "slope": 97
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 3952,
+            "par": 70,
+            "rating": 63.3,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6d22600-86ac-11e4-8c28-020000005b00/mc-call-golf-club"
+  }
+}

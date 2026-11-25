@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b578d790-86ac-11e4-8c28-020000005b00/west-bend-lakes",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b578d790-86ac-11e4-8c28-020000005b00/west-bend-lakes",
+  "checked_at": 1795524368.811462,
+  "sha256": "56bc0fb46ff2d9a38efb88d2b90230273b60800d3a2d02db14bab1260372cac2",
+  "title": "West Bend Lakes - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b578d790-86ac-11e4-8c28-020000005b00",
+    "name": "West Bend Lakes",
+    "address": "1241 Highway 33, West Bend, WI",
+    "courses": [
+      {
+        "name": "West Bend Lakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6456,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 122
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6456,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6194,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6194,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 128
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5773,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 116
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5773,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5301,
+            "par": 72,
+            "rating": 66,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5301,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b578d790-86ac-11e4-8c28-020000005b00/west-bend-lakes"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a624370-86ac-11e4-8c28-020000005b00/vista-valencia-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a624370-86ac-11e4-8c28-020000005b00/vista-valencia-golf-course",
+  "checked_at": 1795583817.306378,
+  "sha256": "cdf5a1713fb13ba828d55183877f6c451824f6ae23bf55a2e1ffdaff7b8506d6",
+  "title": "Vista Valencia Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a624370-86ac-11e4-8c28-020000005b00",
+    "name": "Vista Valencia Golf Course",
+    "address": "24700 W Trevino Rd, Valencia, CA",
+    "courses": [
+      {
+        "name": "Vista",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4366,
+            "par": 61,
+            "rating": 61,
+            "slope": 103
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4366,
+            "par": 64,
+            "rating": 65.4,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4064,
+            "par": 61,
+            "rating": 59.6,
+            "slope": 99
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4064,
+            "par": 64,
+            "rating": 63.6,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3758,
+            "par": 61,
+            "rating": 58,
+            "slope": 96
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3758,
+            "par": 64,
+            "rating": 62.2,
+            "slope": 104
+          }
+        ]
+      },
+      {
+        "name": "Par-3 (Chica)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 915,
+            "par": 27,
+            "rating": 25,
+            "slope": 79
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 915,
+            "par": 27,
+            "rating": 26.1,
+            "slope": 82
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a624370-86ac-11e4-8c28-020000005b00/vista-valencia-golf-course"
+  }
+}

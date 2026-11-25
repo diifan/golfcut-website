@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4c3df70-86ac-11e4-8c28-020000005b00/sunset-grove-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4c3df70-86ac-11e4-8c28-020000005b00/sunset-grove-golf-course",
+  "checked_at": 1795583817.6636066,
+  "sha256": "f477a398271d787b48b303bc5c356baa128a4480e9e848398c6b59c64a8f6088",
+  "title": "Sunset Grove Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b4c3df70-86ac-11e4-8c28-020000005b00",
+    "name": "Sunset Grove Golf Course",
+    "address": "41615 NW Osterman Rd, Forest Grove, OR",
+    "courses": [
+      {
+        "name": "Sunset Grove (9 holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5716,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 111
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5716,
+            "par": 74,
+            "rating": 74.8,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5430,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5430,
+            "par": 74,
+            "rating": 71,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4c3df70-86ac-11e4-8c28-020000005b00/sunset-grove-golf-course"
+  }
+}

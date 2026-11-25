@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/89d6cc50-86ac-11e4-8c28-020000005b00/pleasanton-golf-center",
+  "resolved_url": "https://18birdies.com/golf-courses/club/89d6cc50-86ac-11e4-8c28-020000005b00/pleasanton-golf-center",
+  "checked_at": 1795524549.4561746,
+  "sha256": "530652f0a099c67612bdbfb27b54e958fb0cbc03c60a344f84e2d7fcaba7ab86",
+  "title": "Pleasanton Golf Center - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "89d6cc50-86ac-11e4-8c28-020000005b00",
+    "name": "Pleasanton Golf Center",
+    "address": "4501 Pleasanton Ave, Pleasanton",
+    "courses": [
+      {
+        "name": "Pleasanton Fairways",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1681,
+            "par": 30,
+            "rating": 30,
+            "slope": 87
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1681,
+            "par": 30,
+            "rating": 30,
+            "slope": 88
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1586,
+            "par": 30,
+            "rating": 29.7,
+            "slope": 92
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1586,
+            "par": 30,
+            "rating": 30,
+            "slope": 83
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/89d6cc50-86ac-11e4-8c28-020000005b00/pleasanton-golf-center"
+  }
+}

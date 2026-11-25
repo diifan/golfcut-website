@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c22a2d0-86ac-11e4-8c28-020000005b00/erie-shores",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c22a2d0-86ac-11e4-8c28-020000005b00/erie-shores",
+  "checked_at": 1795524987.0414443,
+  "sha256": "61a4d2cbb294a5c61d2e58c4780e72c6fd3cb4d091cb67c882d11ca9b4153d04",
+  "title": "Erie Shores - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9c22a2d0-86ac-11e4-8c28-020000005b00",
+    "name": "Erie Shores",
+    "address": "7298 Lake Rd, Madison, OH",
+    "courses": [
+      {
+        "name": "Erie Shores",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5980,
+            "par": 70,
+            "rating": 68,
+            "slope": 114
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5980,
+            "par": 70,
+            "rating": 73.7,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5768,
+            "par": 70,
+            "rating": 66.9,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5768,
+            "par": 70,
+            "rating": 72.6,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4984,
+            "par": 70,
+            "rating": 63.2,
+            "slope": 104
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4984,
+            "par": 70,
+            "rating": 68.4,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4716,
+            "par": 70,
+            "rating": 66.4,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4716,
+            "par": 70,
+            "rating": 66.4,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c22a2d0-86ac-11e4-8c28-020000005b00/erie-shores"
+  }
+}

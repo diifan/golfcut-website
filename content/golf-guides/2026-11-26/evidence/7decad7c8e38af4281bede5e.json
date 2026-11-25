@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9bb53b00-86ac-11e4-8c28-020000005b00/mastick-woods-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9bb53b00-86ac-11e4-8c28-020000005b00/mastick-woods-golf-course",
+  "checked_at": 1795524428.8871973,
+  "sha256": "cd4f838bbb2f56f8cf836c5139f92239c62c4c5acbd72a5ec10b115ebe2d1ef6",
+  "title": "Mastick Woods Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9bb53b00-86ac-11e4-8c28-020000005b00",
+    "name": "Mastick Woods Golf Course",
+    "address": "19900 Puritas Rd., Cleveland, OH",
+    "courses": [
+      {
+        "name": "9 Hole Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 1900,
+            "par": 31,
+            "rating": 29.1,
+            "slope": 81
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 1900,
+            "par": 31,
+            "rating": 29.8,
+            "slope": 86
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1755,
+            "par": 31,
+            "rating": 28.8,
+            "slope": 79
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1755,
+            "par": 31,
+            "rating": 29.5,
+            "slope": 83
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9bb53b00-86ac-11e4-8c28-020000005b00/mastick-woods-golf-course"
+  }
+}

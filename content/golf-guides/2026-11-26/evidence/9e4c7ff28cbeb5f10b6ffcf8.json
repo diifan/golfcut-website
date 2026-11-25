@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1eaced0-86ac-11e4-8c28-020000005b00/turner-highlands-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1eaced0-86ac-11e4-8c28-020000005b00/turner-highlands-golf-course",
+  "checked_at": 1795583824.494493,
+  "sha256": "d29e4a7c27edf4eb05b86b5a589575a47f73f5b954ad11eb2f76caed16f2e3cd",
+  "title": "Turner Highlands Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1eaced0-86ac-11e4-8c28-020000005b00",
+    "name": "Turner Highlands Golf Course",
+    "address": "10 Highland Ave # B",
+    "courses": [
+      {
+        "name": "Turner Highlands",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5903,
+            "par": 70,
+            "rating": 69.1,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5903,
+            "par": 70,
+            "rating": 74.1,
+            "slope": 126
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5197,
+            "par": 70,
+            "rating": 65.3,
+            "slope": 112
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5197,
+            "par": 70,
+            "rating": 70.1,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4555,
+            "par": 70,
+            "rating": 65.7,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4555,
+            "par": 70,
+            "rating": 66.1,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1eaced0-86ac-11e4-8c28-020000005b00/turner-highlands-golf-course"
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e97fde0-86ac-11e4-8c28-020000005b00/ocotillo-golf-resort",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e97fde0-86ac-11e4-8c28-020000005b00/ocotillo-golf-resort",
+  "checked_at": 1795523725.2496054,
+  "sha256": "23615ad792ceff93767272f1f6ccd30b54b35f92d8481507fcdafb3027079a51",
+  "title": "Ocotillo Golf Resort - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8e97fde0-86ac-11e4-8c28-020000005b00",
+    "name": "Ocotillo Golf Resort",
+    "address": "3751 South Clubhouse Drive, Chandler, AZ",
+    "courses": [
+      {
+        "name": "Oasis to Sky",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7042,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 134
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7042,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6379,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6379,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6028,
+            "par": 72,
+            "rating": 69,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6028,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5128,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5128,
+            "par": 72,
+            "rating": 70,
+            "slope": 116
+          }
+        ]
+      },
+      {
+        "name": "Sky to Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6782,
+            "par": 71,
+            "rating": 71.9,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6782,
+            "par": 71,
+            "rating": 78,
+            "slope": 139
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6162,
+            "par": 71,
+            "rating": 70,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6162,
+            "par": 71,
+            "rating": 74.7,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5817,
+            "par": 71,
+            "rating": 68.4,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5817,
+            "par": 71,
+            "rating": 73.2,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5134,
+            "par": 71,
+            "rating": 68.3,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5134,
+            "par": 71,
+            "rating": 69.3,
+            "slope": 117
+          }
+        ]
+      },
+      {
+        "name": "Sky to Oasis",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7042,
+            "par": 72,
+            "rating": 72,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7042,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6379,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6379,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6028,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6028,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5128,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5128,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 111
+          }
+        ]
+      },
+      {
+        "name": "Valley to Oasis",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6830,
+            "par": 71,
+            "rating": 72,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6830,
+            "par": 71,
+            "rating": 78.2,
+            "slope": 139
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6279,
+            "par": 71,
+            "rating": 70.5,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6279,
+            "par": 71,
+            "rating": 75.3,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5925,
+            "par": 71,
+            "rating": 68.8,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5925,
+            "par": 71,
+            "rating": 74.1,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5124,
+            "par": 71,
+            "rating": 68.3,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5124,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e97fde0-86ac-11e4-8c28-020000005b00/ocotillo-golf-resort"
+  }
+}

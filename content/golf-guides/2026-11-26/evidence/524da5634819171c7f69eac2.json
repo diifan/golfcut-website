@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1e46630-86ac-11e4-8c28-020000005b00/deep-brook-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1e46630-86ac-11e4-8c28-020000005b00/deep-brook-golf-course",
+  "checked_at": 1795524976.510915,
+  "sha256": "9a3c48004bcf4ed04009fc4d0ef95d94b71130ae16b0dd59cd1b4b35b06c33b3",
+  "title": "Deep Brook Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "b1e46630-86ac-11e4-8c28-020000005b00",
+    "name": "Deep Brook Golf Course",
+    "address": "36 New County Rd",
+    "courses": [
+      {
+        "name": "Deep Brook",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3076,
+            "par": 36,
+            "rating": 35.5,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2831,
+            "par": 36,
+            "rating": 34.1,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2312,
+            "par": 36,
+            "rating": 33,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1e46630-86ac-11e4-8c28-020000005b00/deep-brook-golf-course"
+  }
+}

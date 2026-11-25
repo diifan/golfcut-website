@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95da5c10-86ac-11e4-8c28-020000005b00/little-harbor-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95da5c10-86ac-11e4-8c28-020000005b00/little-harbor-country-club",
+  "checked_at": 1795583792.6459248,
+  "sha256": "8175ff01bc2c14493e553c0fdb39c8a32738528b0e7221ea177fed4472a38b40",
+  "title": "Little Harbor Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95da5c10-86ac-11e4-8c28-020000005b00",
+    "name": "Little Harbor Country Club",
+    "address": "1 Little Harbor Rd, Wareham, MA",
+    "courses": [
+      {
+        "name": "Little Harbor",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3038,
+            "par": 56,
+            "rating": 57,
+            "slope": 79
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3038,
+            "par": 56,
+            "rating": 58,
+            "slope": 95
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2692,
+            "par": 56,
+            "rating": 54.72788,
+            "slope": 82.00088
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2692,
+            "par": 56,
+            "rating": 57,
+            "slope": 79
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95da5c10-86ac-11e4-8c28-020000005b00/little-harbor-country-club"
+  }
+}

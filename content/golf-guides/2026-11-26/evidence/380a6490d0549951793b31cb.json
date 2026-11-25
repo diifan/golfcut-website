@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96a6d3d0-86ac-11e4-8c28-020000005b00/montgomery-national-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96a6d3d0-86ac-11e4-8c28-020000005b00/montgomery-national-golf-club",
+  "checked_at": 1795524681.565954,
+  "sha256": "2d163ce1ccd7c2e4bae704e718ec2178bc844460df39f626cf755845e96ad686",
+  "title": "Montgomery National Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96a6d3d0-86ac-11e4-8c28-020000005b00",
+    "name": "Montgomery National Golf Club",
+    "address": "900 Rogers Dr, Montgomery, MN",
+    "courses": [
+      {
+        "name": "Montgomery",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6452,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6452,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6192,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6192,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5489,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5489,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5037,
+            "par": 72,
+            "rating": 64.6,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5037,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96a6d3d0-86ac-11e4-8c28-020000005b00/montgomery-national-golf-club"
+  }
+}

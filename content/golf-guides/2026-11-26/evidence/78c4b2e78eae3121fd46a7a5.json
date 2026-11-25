@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c0b86a0-86ac-11e4-8c28-020000005b00/randolph-oaks-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c0b86a0-86ac-11e4-8c28-020000005b00/randolph-oaks-golf-course",
+  "checked_at": 1795524554.7631545,
+  "sha256": "e2a7d31f4229d3274c0a51588b929876397e90c89e11bf25798ed749ffc1521e",
+  "title": "Randolph Oaks Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8c0b86a0-86ac-11e4-8c28-020000005b00",
+    "name": "Randolph Oaks Golf Course",
+    "address": "Building 1300, Golf Course Rd, Randolph AFB, TX",
+    "courses": [
+      {
+        "name": "Randolph Oaks",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7172,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7172,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6490,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6490,
+            "par": 72,
+            "rating": 76.4,
+            "slope": 135
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5873,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5873,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5486,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5486,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c0b86a0-86ac-11e4-8c28-020000005b00/randolph-oaks-golf-course"
+  }
+}

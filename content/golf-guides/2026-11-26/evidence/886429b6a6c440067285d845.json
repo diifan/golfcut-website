@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8db6380-86ac-11e4-8c28-020000005b00/brush-creek",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8db6380-86ac-11e4-8c28-020000005b00/brush-creek",
+  "checked_at": 1795525000.8171945,
+  "sha256": "c83b5044f489883b49259d68ac5591f778b811f91536ea463b982ef9805e8f14",
+  "title": "Brush Creek - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b8db6380-86ac-11e4-8c28-020000005b00",
+    "name": "Brush Creek",
+    "address": "6220 Har Ber Ave, Springdale, AR",
+    "courses": [
+      {
+        "name": "Brush Creek",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2926,
+            "par": 36,
+            "rating": 35.5,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2926,
+            "par": 36,
+            "rating": 36.5,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2431,
+            "par": 36,
+            "rating": 33.5,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2431,
+            "par": 36,
+            "rating": 33.5,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8db6380-86ac-11e4-8c28-020000005b00/brush-creek"
+  }
+}

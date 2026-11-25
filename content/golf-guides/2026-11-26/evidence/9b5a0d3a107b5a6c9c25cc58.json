@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95e61be0-86ac-11e4-8c28-020000005b00/woods-of-westminster-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95e61be0-86ac-11e4-8c28-020000005b00/woods-of-westminster-golf-course",
+  "checked_at": 1795524684.2252326,
+  "sha256": "5416c4cc1b6fd8563c5ce31b92850d15f30dc055607cd7cf848577a48a9d268e",
+  "title": "Woods of Westminster Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95e61be0-86ac-11e4-8c28-020000005b00",
+    "name": "Woods of Westminster Golf Course",
+    "address": "90 Bean Porridge Hill Rd, Westminster, MA",
+    "courses": [
+      {
+        "name": "Woods Of Westminister",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6060,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5505,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4765,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95e61be0-86ac-11e4-8c28-020000005b00/woods-of-westminster-golf-course"
+  }
+}

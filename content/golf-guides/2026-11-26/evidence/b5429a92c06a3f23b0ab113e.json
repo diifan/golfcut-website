@@ -1,0 +1,139 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/971b1970-86ac-11e4-8c28-020000005b00/brookview-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/971b1970-86ac-11e4-8c28-020000005b00/brookview-golf-course",
+  "checked_at": 1795583790.989576,
+  "sha256": "1934b2a5de9e0ccde1e10e743978fedfde30d917cc141fcdb67a725df25c6e28",
+  "title": "Brookview Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "971b1970-86ac-11e4-8c28-020000005b00",
+    "name": "Brookview Golf Course",
+    "address": "200 Brookview Parkway Golden Valley, MN 55426",
+    "courses": [
+      {
+        "name": "Short Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Member",
+            "category": "MALE",
+            "yards": 1287,
+            "par": 27,
+            "rating": 27.6,
+            "slope": 87
+          },
+          {
+            "name": "Member",
+            "category": "FEMALE",
+            "yards": 1287,
+            "par": 27,
+            "rating": 27.6,
+            "slope": 87
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 1146,
+            "par": 27,
+            "rating": 28.9,
+            "slope": 89
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 1146,
+            "par": 27,
+            "rating": 28.9,
+            "slope": 89
+          }
+        ]
+      },
+      {
+        "name": "Championship Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6424,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6424,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6152,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6152,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 134
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5441,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5441,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5265,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5265,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 125
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 6307,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 127
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 6307,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 136
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/971b1970-86ac-11e4-8c28-020000005b00/brookview-golf-course"
+  }
+}

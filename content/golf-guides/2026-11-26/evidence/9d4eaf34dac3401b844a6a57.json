@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b9249b0-86ac-11e4-8c28-020000005b00/riverby-hills-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b9249b0-86ac-11e4-8c28-020000005b00/riverby-hills-golf-club",
+  "checked_at": 1795524621.7900834,
+  "sha256": "7c65cdb9ee5ef895fdec39de0926af1c7607e0fc2d3e3974640e39e933064562",
+  "title": "Riverby Hills Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9b9249b0-86ac-11e4-8c28-020000005b00",
+    "name": "Riverby Hills Golf Club",
+    "address": "16571 W River Rd",
+    "courses": [
+      {
+        "name": "Riverby Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6853,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6488,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5980,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5059,
+            "par": 72,
+            "rating": 63.9,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b9249b0-86ac-11e4-8c28-020000005b00/riverby-hills-golf-club"
+  }
+}

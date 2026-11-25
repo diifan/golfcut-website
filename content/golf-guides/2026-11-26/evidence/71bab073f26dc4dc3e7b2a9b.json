@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a235060-86ac-11e4-8c28-020000005b00/mohansic-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a235060-86ac-11e4-8c28-020000005b00/mohansic-golf-course",
+  "checked_at": 1795524474.8196542,
+  "sha256": "af2e92101b150943130818d391e755ad4b925f963ab1a9fdddd32de1cf47d6a4",
+  "title": "Mohansic Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9a235060-86ac-11e4-8c28-020000005b00",
+    "name": "Mohansic Golf Course",
+    "address": "1500 Baldwin Rd, Yorktown Heights, NY",
+    "courses": [
+      {
+        "name": "Mohansic",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6548,
+            "par": 70,
+            "rating": 72.5,
+            "slope": 133
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6548,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6275,
+            "par": 70,
+            "rating": 71.2,
+            "slope": 131
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6275,
+            "par": 70,
+            "rating": 77.6,
+            "slope": 139
+          },
+          {
+            "name": "Middle/Forward",
+            "category": "MALE",
+            "yards": 5877,
+            "par": 70,
+            "rating": 69.4,
+            "slope": 128
+          },
+          {
+            "name": "Middle/Forward",
+            "category": "FEMALE",
+            "yards": 5877,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5456,
+            "par": 70,
+            "rating": 67.4,
+            "slope": 122
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5456,
+            "par": 70,
+            "rating": 73,
+            "slope": 128
+          },
+          {
+            "name": "Play it Forward",
+            "category": "MALE",
+            "yards": 3784,
+            "par": 70,
+            "rating": 59.9,
+            "slope": 107
+          },
+          {
+            "name": "Play it Forward",
+            "category": "FEMALE",
+            "yards": 3784,
+            "par": 70,
+            "rating": 63.4,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a235060-86ac-11e4-8c28-020000005b00/mohansic-golf-course"
+  }
+}

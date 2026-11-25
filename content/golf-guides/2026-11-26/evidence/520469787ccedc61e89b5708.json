@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b651d270-86ac-11e4-8c28-020000005b00/pryor-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b651d270-86ac-11e4-8c28-020000005b00/pryor-creek-golf-course",
+  "checked_at": 1795524636.0129964,
+  "sha256": "1271ff1a959ace97427bf5e44ce9e8d7f7d5cb07a8210e9dd1e9e42fd0015d43",
+  "title": "Pryor Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b651d270-86ac-11e4-8c28-020000005b00",
+    "name": "Pryor Creek Golf Course",
+    "address": "724 E 530, Pryor, OK",
+    "courses": [
+      {
+        "name": "Pryor Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6539,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6300,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5790,
+            "par": 72,
+            "rating": 68,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5220,
+            "par": 72,
+            "rating": 64.8,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b651d270-86ac-11e4-8c28-020000005b00/pryor-creek-golf-course"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95800710-86ac-11e4-8c28-020000005b00/quashnet-valley-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95800710-86ac-11e4-8c28-020000005b00/quashnet-valley-country-club",
+  "checked_at": 1795524659.250961,
+  "sha256": "31606f4ff59cf4d414c91feba380915c95d6b473ffe8d4c7b9a69aeec18ea359",
+  "title": "Quashnet Valley Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95800710-86ac-11e4-8c28-020000005b00",
+    "name": "Quashnet Valley Country Club",
+    "address": "309 Old Barnstable Road",
+    "courses": [
+      {
+        "name": "Quashnet Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6601,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6601,
+            "par": 72,
+            "rating": 77,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6093,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6093,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5141,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5141,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95800710-86ac-11e4-8c28-020000005b00/quashnet-valley-country-club"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a18de60-86ac-11e4-8c28-020000005b00/mcinnis-park-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a18de60-86ac-11e4-8c28-020000005b00/mcinnis-park-golf-club",
+  "checked_at": 1795524853.6499212,
+  "sha256": "7a00f8b8195f07e5cac12bf63b84b6ba3103428391a36717593e1a9b5f4054ac",
+  "title": "Mcinnis Park Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8a18de60-86ac-11e4-8c28-020000005b00",
+    "name": "Mcinnis Park Golf Club",
+    "address": "350 Smith Ranch Rd, San Rafael, CA",
+    "courses": [
+      {
+        "name": "Mcinnis Park (9 holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1843,
+            "par": 31,
+            "rating": 29.9,
+            "slope": 94
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1843,
+            "par": 31,
+            "rating": 30.7,
+            "slope": 103
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1715,
+            "par": 31,
+            "rating": 29.5,
+            "slope": 90
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1715,
+            "par": 31,
+            "rating": 29.8,
+            "slope": 91
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1526,
+            "par": 31,
+            "rating": 28.8,
+            "slope": 88
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1526,
+            "par": 31,
+            "rating": 29.2,
+            "slope": 87
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a18de60-86ac-11e4-8c28-020000005b00/mcinnis-park-golf-club"
+  }
+}

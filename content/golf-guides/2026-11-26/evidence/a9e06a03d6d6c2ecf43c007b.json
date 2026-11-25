@@ -1,0 +1,515 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/97e3c0a0-86ac-11e4-8c28-020000005b00/crystal-springs-resort",
+  "resolved_url": "https://18birdies.com/golf-courses/club/97e3c0a0-86ac-11e4-8c28-020000005b00/crystal-springs-resort",
+  "checked_at": 1795524716.1748319,
+  "sha256": "cd72c4d8f22669e4f1ddfac48fa6d1c04f47c6b800b0f071eaf6cbb8a255d355",
+  "title": "Crystal Springs Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "97e3c0a0-86ac-11e4-8c28-020000005b00",
+    "name": "Crystal Springs Golf Club",
+    "address": "1 Wild Turkey Way",
+    "courses": [
+      {
+        "name": "Cascades",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6630,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6630,
+            "par": 72,
+            "rating": 79,
+            "slope": 143
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7254,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7254,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6044,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6044,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 139
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5482,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5482,
+            "par": 72,
+            "rating": 73,
+            "slope": 126
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 3076,
+            "par": 72,
+            "rating": 58.2,
+            "slope": 98
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 3076,
+            "par": 72,
+            "rating": 58.2,
+            "slope": 89
+          }
+        ]
+      },
+      {
+        "name": "Crystal Springs",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6134,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 144
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6134,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6531,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 148
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6531,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5637,
+            "par": 72,
+            "rating": 69,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5637,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 138
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4824,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4824,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5111,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5111,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      },
+      {
+        "name": "Black Bear",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6048,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6048,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 141
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6397,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 132
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6397,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5711,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5711,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 135
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4630,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4630,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4894,
+            "par": 72,
+            "rating": 63.8,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4894,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      },
+      {
+        "name": "Ballyowen",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6066,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6066,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7094,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 140
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7094,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5531,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5531,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4903,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4903,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6508,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 133
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6508,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      },
+      {
+        "name": "Minerals ",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2305,
+            "par": 31,
+            "rating": 31.8,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2305,
+            "par": 31,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2044,
+            "par": 31,
+            "rating": 30.7,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2044,
+            "par": 31,
+            "rating": 32.5,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1726,
+            "par": 31,
+            "rating": 30,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1726,
+            "par": 31,
+            "rating": 30.3,
+            "slope": 114
+          },
+          {
+            "name": "Yellow Family",
+            "category": "MALE",
+            "yards": 1251,
+            "par": 31,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow Family",
+            "category": "FEMALE",
+            "yards": 1251,
+            "par": 31,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      },
+      {
+        "name": "Wild Turkey",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6555,
+            "par": 71,
+            "rating": 71.7,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6555,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7202,
+            "par": 71,
+            "rating": 75.3,
+            "slope": 135
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7202,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5942,
+            "par": 71,
+            "rating": 69,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5942,
+            "par": 70,
+            "rating": 74.1,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5004,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5004,
+            "par": 70,
+            "rating": 68.5,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5004,
+            "par": 71,
+            "rating": 64.7,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5004,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/97e3c0a0-86ac-11e4-8c28-020000005b00/crystal-springs-resort"
+  }
+}

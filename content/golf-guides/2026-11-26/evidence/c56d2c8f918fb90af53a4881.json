@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8b564f0-86ac-11e4-8c28-020000005b00/sage-meadows-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8b564f0-86ac-11e4-8c28-020000005b00/sage-meadows-country-club",
+  "checked_at": 1795524771.562878,
+  "sha256": "331d2a8e34d9d1d80d1d53bb7241e302eec98ffb119bb5627940f5dbb699ec5f",
+  "title": "Sage Meadows Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b8b564f0-86ac-11e4-8c28-020000005b00",
+    "name": "Sage Meadows Country Club",
+    "address": "4406 Clubhouse Dr.",
+    "courses": [
+      {
+        "name": "Sage Meadows",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6396,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5868,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5384,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4947,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8b564f0-86ac-11e4-8c28-020000005b00/sage-meadows-country-club"
+  }
+}

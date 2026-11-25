@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6733d20-86ac-11e4-8c28-020000005b00/fort-sill-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6733d20-86ac-11e4-8c28-020000005b00/fort-sill-golf-course",
+  "checked_at": 1795524733.4019732,
+  "sha256": "12a818e3aa324b5d22a9d7a4fea8b8fbbbd214dd1d7c8806fe774c5b26898b4e",
+  "title": "Fort Sill Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6733d20-86ac-11e4-8c28-020000005b00",
+    "name": "Fort Sill Golf Course",
+    "address": "1270 Quinette Road",
+    "courses": [
+      {
+        "name": "Fort Sill",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6592,
+            "par": 72,
+            "rating": 71,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5921,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5079,
+            "par": 72,
+            "rating": 63.6,
+            "slope": 102
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4495,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6733d20-86ac-11e4-8c28-020000005b00/fort-sill-golf-course"
+  }
+}

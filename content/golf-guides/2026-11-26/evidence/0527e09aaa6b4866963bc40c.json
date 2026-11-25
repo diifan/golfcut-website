@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a103d90-86ac-11e4-8c28-020000005b00/west-sayville-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a103d90-86ac-11e4-8c28-020000005b00/west-sayville-golf-course",
+  "checked_at": 1795524712.3219995,
+  "sha256": "963c2d21dd0fc919d210e17990134bdaadfe1a43dfe064e950985b4ce25874c3",
+  "title": "West Sayville Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9a103d90-86ac-11e4-8c28-020000005b00",
+    "name": "West Sayville Golf Course",
+    "address": "Montauk Highway, West Sayville, NY",
+    "courses": [
+      {
+        "name": "West Sayville",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6804,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6804,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6130,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6130,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 135
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5534,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5534,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5370,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5370,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a103d90-86ac-11e4-8c28-020000005b00/west-sayville-golf-course"
+  }
+}

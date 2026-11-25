@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d1c5a60-86ac-11e4-8c28-020000005b00/the-farm",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d1c5a60-86ac-11e4-8c28-020000005b00/the-farm",
+  "checked_at": 1795582861.057638,
+  "sha256": "ba48c399c47e1d9e4f08b7fae6a910dcfa78282827fa98072c913ea45b43c015",
+  "title": "The Farm - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8d1c5a60-86ac-11e4-8c28-020000005b00",
+    "name": "The Farm",
+    "address": "6901 Petersburg Rd Evansville, IN",
+    "courses": [
+      {
+        "name": "The Farm",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5727,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 112
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5727,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5307,
+            "par": 70,
+            "rating": 65,
+            "slope": 110
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5307,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4854,
+            "par": 70,
+            "rating": 62.9,
+            "slope": 104
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4854,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4114,
+            "par": 70,
+            "rating": 60.2,
+            "slope": 95
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4114,
+            "par": 70,
+            "rating": 63,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d1c5a60-86ac-11e4-8c28-020000005b00/the-farm"
+  }
+}

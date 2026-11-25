@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d90c710-86ac-11e4-8c28-020000005b00/studebaker-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d90c710-86ac-11e4-8c28-020000005b00/studebaker-golf-course",
+  "checked_at": 1795524770.9979315,
+  "sha256": "d18c1204a7cf58c4e14d3f6ac3fa936cea1e524531aeb741b68533307a26678f",
+  "title": "Studebaker Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8d90c710-86ac-11e4-8c28-020000005b00",
+    "name": "Studebaker Golf Course",
+    "address": "718 E Calvert St, South Bend, Indiana 46613, Saint Joseph County",
+    "courses": [
+      {
+        "name": "9 holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Mens",
+            "category": "MALE",
+            "yards": 1898,
+            "par": 29,
+            "rating": 58.8,
+            "slope": 89
+          },
+          {
+            "name": "Mens",
+            "category": "FEMALE",
+            "yards": 1898,
+            "par": 29,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 1898,
+            "par": 29,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ladies",
+            "category": "FEMALE",
+            "yards": 1898,
+            "par": 29,
+            "rating": 57.4,
+            "slope": 85
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d90c710-86ac-11e4-8c28-020000005b00/studebaker-golf-course"
+  }
+}

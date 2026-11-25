@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b12a3df0-86ac-11e4-8c28-020000005b00/squire-creek",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b12a3df0-86ac-11e4-8c28-020000005b00/squire-creek",
+  "checked_at": 1795524433.600203,
+  "sha256": "54b73a34a9c331335c71beb88f734457c358330eeb239bd967c7b8c9fd21c3e4",
+  "title": "Squire Creek - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b12a3df0-86ac-11e4-8c28-020000005b00",
+    "name": "Squire Creek",
+    "address": "289 Squire Creek Parkway, Choudrant, LA",
+    "courses": [
+      {
+        "name": "Squire Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7105,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 146
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6582,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 143
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6130,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5708,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 133
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5195,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b12a3df0-86ac-11e4-8c28-020000005b00/squire-creek"
+  }
+}

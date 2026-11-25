@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ac13e10-86ac-11e4-8c28-020000005b00/pine-knolls-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ac13e10-86ac-11e4-8c28-020000005b00/pine-knolls-golf-club",
+  "checked_at": 1795524640.5937502,
+  "sha256": "0176a82b966580ff0ed264bf3343abab1b49af8fa47b3cf36fd819361a223808",
+  "title": "Pine Knolls Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9ac13e10-86ac-11e4-8c28-020000005b00",
+    "name": "Pine Knolls Golf Club",
+    "address": "1100 Quail Hollow Rd, Kernersville, NC 27284",
+    "courses": [
+      {
+        "name": "Pine Knolls",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6261,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6261,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5887,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5887,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5048,
+            "par": 72,
+            "rating": 64.7,
+            "slope": 107
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5048,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4358,
+            "par": 72,
+            "rating": 62.2,
+            "slope": 99
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4358,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ac13e10-86ac-11e4-8c28-020000005b00/pine-knolls-golf-club"
+  }
+}

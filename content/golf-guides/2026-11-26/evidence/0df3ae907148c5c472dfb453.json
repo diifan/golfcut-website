@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b825f630-86ac-11e4-8c28-020000005b00/firekeeper-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b825f630-86ac-11e4-8c28-020000005b00/firekeeper-golf-course",
+  "checked_at": 1795524637.8018787,
+  "sha256": "2f676c5947539e275922203392e76ab8d78b72b9eb6228fa435130655e534da6",
+  "title": "Firekeeper Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b825f630-86ac-11e4-8c28-020000005b00",
+    "name": "Firekeeper Golf Course",
+    "address": "12524 150 Road, Mayetta, KS",
+    "courses": [
+      {
+        "name": "Firekeeper",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Notah",
+            "category": "MALE",
+            "yards": 7535,
+            "par": 72,
+            "rating": 77.1,
+            "slope": 137
+          },
+          {
+            "name": "Eagle",
+            "category": "MALE",
+            "yards": 6940,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 130
+          },
+          {
+            "name": "Buffalo",
+            "category": "MALE",
+            "yards": 6395,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 126
+          },
+          {
+            "name": "Bear",
+            "category": "MALE",
+            "yards": 5800,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 122
+          },
+          {
+            "name": "Deer",
+            "category": "MALE",
+            "yards": 4805,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b825f630-86ac-11e4-8c28-020000005b00/firekeeper-golf-course"
+  }
+}

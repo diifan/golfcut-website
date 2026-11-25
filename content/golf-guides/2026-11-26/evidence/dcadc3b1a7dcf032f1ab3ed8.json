@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8b6de710-86ac-11e4-8c28-020000005b00/cowboys-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8b6de710-86ac-11e4-8c28-020000005b00/cowboys-golf-club",
+  "checked_at": 1795524535.9340973,
+  "sha256": "0e62a0ec4f00e01288abe0400dadbd33b30212cc1401b8b48cd5212f772807ed",
+  "title": "Cowboys Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8b6de710-86ac-11e4-8c28-020000005b00",
+    "name": "Cowboys Golf Club",
+    "address": "1600 Fairway Drive, Grapevine, TX",
+    "courses": [
+      {
+        "name": "Cowboys",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7017,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 140
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7017,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 6563,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 137
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 6563,
+            "par": 72,
+            "rating": 76.8,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6182,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6182,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 141
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4702,
+            "par": 72,
+            "rating": 64.2,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4702,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8b6de710-86ac-11e4-8c28-020000005b00/cowboys-golf-club"
+  }
+}

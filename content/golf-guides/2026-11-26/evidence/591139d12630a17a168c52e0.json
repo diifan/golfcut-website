@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c1ec080-86ac-11e4-8c28-020000005b00/fort-sam-houston-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c1ec080-86ac-11e4-8c28-020000005b00/fort-sam-houston-golf-club",
+  "checked_at": 1795525022.7709894,
+  "sha256": "c579d729d9e330909de1c37d5a60740c58ce3dce23c341a1bf6f1a29a1635efe",
+  "title": "Fort Sam Houston Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8c1ec080-86ac-11e4-8c28-020000005b00",
+    "name": "Fort Sam Houston Golf Club",
+    "address": "1050 Harry Wurzbach Rd San Antonio, TX",
+    "courses": [
+      {
+        "name": "Salado Del Rio at Fort Sam Houston",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6857,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6527,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5620,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5390,
+            "par": 72,
+            "rating": 65.6,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c1ec080-86ac-11e4-8c28-020000005b00/fort-sam-houston-golf-club"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96128310-86ac-11e4-8c28-020000005b00/balmoral-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96128310-86ac-11e4-8c28-020000005b00/balmoral-golf-course",
+  "checked_at": 1795524972.9614973,
+  "sha256": "eb939c51e4db813ec7b86eed850062f4fc0173ec208ccebbc67cd7d5e34785e9",
+  "title": "Balmoral Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96128310-86ac-11e4-8c28-020000005b00",
+    "name": "Balmoral Golf Course",
+    "address": "28294 State Hwy 78, Battle Lake, MN",
+    "courses": [
+      {
+        "name": "Balmoral",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6290,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6290,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6055,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6055,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5630,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5630,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5195,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5195,
+            "par": 72,
+            "rating": 69,
+            "slope": 116
+          }
+        ]
+      },
+      {
+        "name": "Par 3",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1187,
+            "par": 27,
+            "rating": 27.21398,
+            "slope": 81.79184
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1187,
+            "par": 27,
+            "rating": 27.21398,
+            "slope": 81.79184
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96128310-86ac-11e4-8c28-020000005b00/balmoral-golf-course"
+  }
+}

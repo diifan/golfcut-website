@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/352bffe0-a50e-11e6-8139-0680a328ea36/links-on-the-bayou",
+  "resolved_url": "https://18birdies.com/golf-courses/club/352bffe0-a50e-11e6-8139-0680a328ea36/links-on-the-bayou",
+  "checked_at": 1795524788.0191152,
+  "sha256": "ed6026ef9f67a4c09c4c4bcb352795f8eb2312f1aa2d0cb16432ed25980379d1",
+  "title": "Links on the Bayou - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "352bffe0-a50e-11e6-8139-0680a328ea36",
+    "name": "Links on the Bayou",
+    "address": "271 Vandenburg Dr, Alexandria, LA",
+    "courses": [
+      {
+        "name": "Links on the Bayou",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6842,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6252,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5884,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 122
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5465,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/352bffe0-a50e-11e6-8139-0680a328ea36/links-on-the-bayou"
+  }
+}

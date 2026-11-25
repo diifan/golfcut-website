@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95456f10-86ac-11e4-8c28-020000005b00/milton-hoosic-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95456f10-86ac-11e4-8c28-020000005b00/milton-hoosic-club",
+  "checked_at": 1795524903.347746,
+  "sha256": "21d6ce1ba0fc2bda8e45ced538060c361eebeced959730120863e961b08822ee",
+  "title": "Milton-Hoosic Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95456f10-86ac-11e4-8c28-020000005b00",
+    "name": "Milton-Hoosic Club",
+    "address": "70 Greenlodge St, Canton, MA",
+    "courses": [
+      {
+        "name": "Milton-Hoosic",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 6010,
+            "par": 70,
+            "rating": 69.3,
+            "slope": 123
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 6010,
+            "par": 70,
+            "rating": 74.7,
+            "slope": 132
+          },
+          {
+            "name": "Red/Gold",
+            "category": "MALE",
+            "yards": 5442,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 119
+          },
+          {
+            "name": "Red/Gold",
+            "category": "FEMALE",
+            "yards": 5442,
+            "par": 70,
+            "rating": 72.6,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95456f10-86ac-11e4-8c28-020000005b00/milton-hoosic-club"
+  }
+}

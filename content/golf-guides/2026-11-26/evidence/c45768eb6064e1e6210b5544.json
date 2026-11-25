@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0d985e0-86ac-11e4-8c28-020000005b00/snohomish-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0d985e0-86ac-11e4-8c28-020000005b00/snohomish-golf-club",
+  "checked_at": 1795524270.1766725,
+  "sha256": "8518faf758dddae2f6cf015ea94fc7c991b1107071a197e8cedd3f2dd10e7e51",
+  "title": "Snohomish Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b0d985e0-86ac-11e4-8c28-020000005b00",
+    "name": "Snohomish Golf Club",
+    "address": "7806 147th Ave SE, Snohomish, WA",
+    "courses": [
+      {
+        "name": "Snohomish",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6823,
+            "par": 72,
+            "rating": 72,
+            "slope": 125
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6823,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6325,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6325,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 131
+          },
+          {
+            "name": "Gold/Silver",
+            "category": "MALE",
+            "yards": 6018,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 119
+          },
+          {
+            "name": "Gold/Silver",
+            "category": "FEMALE",
+            "yards": 6018,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 127
+          },
+          {
+            "name": "Silver ",
+            "category": "MALE",
+            "yards": 5717,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 115
+          },
+          {
+            "name": "Silver ",
+            "category": "FEMALE",
+            "yards": 5717,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 122
+          },
+          {
+            "name": "Copper",
+            "category": "MALE",
+            "yards": 5312,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 109
+          },
+          {
+            "name": "Copper",
+            "category": "FEMALE",
+            "yards": 5312,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0d985e0-86ac-11e4-8c28-020000005b00/snohomish-golf-club"
+  }
+}

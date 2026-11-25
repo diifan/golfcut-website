@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3159330-86ac-11e4-8c28-020000005b00/emerald-vale-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3159330-86ac-11e4-8c28-020000005b00/emerald-vale-golf-club",
+  "checked_at": 1795524985.7909164,
+  "sha256": "e2cdd842734c4df8237668eac1a6732f6a26883b5f48338ad726da1a5daf6659",
+  "title": "Emerald Vale Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b3159330-86ac-11e4-8c28-020000005b00",
+    "name": "Emerald Vale Golf Club",
+    "address": "6867 E M42",
+    "courses": [
+      {
+        "name": "Emerald Vale",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6800,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6474,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6030,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5277,
+            "par": 72,
+            "rating": 69,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3159330-86ac-11e4-8c28-020000005b00/emerald-vale-golf-club"
+  }
+}

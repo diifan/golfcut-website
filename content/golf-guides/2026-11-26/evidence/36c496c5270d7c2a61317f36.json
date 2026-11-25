@@ -1,0 +1,435 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8f80fe50-86ac-11e4-8c28-020000005b00/sanlan-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8f80fe50-86ac-11e4-8c28-020000005b00/sanlan-golf-course",
+  "checked_at": 1795524521.2822294,
+  "sha256": "dd2ced37c6a3ceaef2fd23b693a81eb19a8423306406e81e3611b34e6964db74",
+  "title": "Sanlan Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8f80fe50-86ac-11e4-8c28-020000005b00",
+    "name": "Sanlan Golf Course",
+    "address": "2505 Sanlan Golf Drive, Lakeland, FL",
+    "courses": [
+      {
+        "name": "Alligator Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3001,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3001,
+            "par": 36,
+            "rating": 36.9,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2724,
+            "par": 36,
+            "rating": 33,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2724,
+            "par": 36,
+            "rating": 35.4,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2189,
+            "par": 36,
+            "rating": 32.5,
+            "slope": 103
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2189,
+            "par": 36,
+            "rating": 33,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2097,
+            "par": 36,
+            "rating": 32,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2097,
+            "par": 36,
+            "rating": 32.9,
+            "slope": 103
+          }
+        ]
+      },
+      {
+        "name": "Bobcat Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2910,
+            "par": 36,
+            "rating": 34.9,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2910,
+            "par": 36,
+            "rating": 36.4,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2628,
+            "par": 36,
+            "rating": 34.1,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2628,
+            "par": 36,
+            "rating": 34.9,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2203,
+            "par": 36,
+            "rating": 32.4,
+            "slope": 105
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2203,
+            "par": 36,
+            "rating": 33,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2173,
+            "par": 36,
+            "rating": 32.4,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2173,
+            "par": 36,
+            "rating": 32.5,
+            "slope": 103
+          }
+        ]
+      },
+      {
+        "name": "Coyote Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3156,
+            "par": 36,
+            "rating": 34.9,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3156,
+            "par": 36,
+            "rating": 37.7,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2963,
+            "par": 36,
+            "rating": 34.1,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2963,
+            "par": 36,
+            "rating": 36.7,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2639,
+            "par": 36,
+            "rating": 32.4,
+            "slope": 105
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2639,
+            "par": 36,
+            "rating": 33,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2308,
+            "par": 36,
+            "rating": 33,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2308,
+            "par": 36,
+            "rating": 32.5,
+            "slope": 103
+          }
+        ]
+      },
+      {
+        "name": "Alligator/Bobcat",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5911,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5911,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5352,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5352,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4392,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 103
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4392,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4270,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4270,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 103
+          }
+        ]
+      },
+      {
+        "name": "Alligator/Coyote",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6157,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6157,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5687,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5687,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4828,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 105
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4828,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4405,
+            "par": 72,
+            "rating": 65,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4405,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 103
+          }
+        ]
+      },
+      {
+        "name": "Bobcat/Coyote",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6066,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6066,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5591,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5591,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4842,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 105
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4842,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4481,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4481,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8f80fe50-86ac-11e4-8c28-020000005b00/sanlan-golf-course"
+  }
+}

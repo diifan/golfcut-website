@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c1a2ca0-86ac-11e4-8c28-020000005b00/quick-sand-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c1a2ca0-86ac-11e4-8c28-020000005b00/quick-sand-golf-course",
+  "checked_at": 1795583825.392944,
+  "sha256": "ccf27b70de0a309377d5ffd93c84578ab23012b5291b628dbfbd447412a956aa",
+  "title": "QuickSand Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8c1a2ca0-86ac-11e4-8c28-020000005b00",
+    "name": "QuickSand Golf Course",
+    "address": "2305 Pulliam Street, San Angelo, TX",
+    "courses": [
+      {
+        "name": "Quick Sand",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7171,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 142
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6693,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6120,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5606,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5023,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c1a2ca0-86ac-11e4-8c28-020000005b00/quick-sand-golf-course"
+  }
+}

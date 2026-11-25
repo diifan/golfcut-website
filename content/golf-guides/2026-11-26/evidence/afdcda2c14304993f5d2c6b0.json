@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/899a5f90-86ac-11e4-8c28-020000005b00/rancho-solano-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/899a5f90-86ac-11e4-8c28-020000005b00/rancho-solano-golf-course",
+  "checked_at": 1795524498.4173145,
+  "sha256": "5d3e6b2d70a5b8c140fd88b50d4f9942942dd46465cf9fc8be40facd261e5100",
+  "title": "Rancho Solano Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "899a5f90-86ac-11e4-8c28-020000005b00",
+    "name": "Rancho Solano Golf Course",
+    "address": "3250 Rancho Solano Parkway, Fairfield, CA",
+    "courses": [
+      {
+        "name": "Rancho Solano",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6632,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6632,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue / White",
+            "category": "MALE",
+            "yards": 6427,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 131
+          },
+          {
+            "name": "Blue / White",
+            "category": "FEMALE",
+            "yards": 6427,
+            "par": 72,
+            "rating": 76.8,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6192,
+            "par": 72,
+            "rating": 70,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6192,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 135
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5678,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5678,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5214,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5214,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/899a5f90-86ac-11e4-8c28-020000005b00/rancho-solano-golf-course"
+  }
+}

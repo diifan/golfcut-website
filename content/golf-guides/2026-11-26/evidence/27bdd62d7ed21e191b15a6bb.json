@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b57ad360-86ac-11e4-8c28-020000005b00/crane-meadows-golf-range",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b57ad360-86ac-11e4-8c28-020000005b00/crane-meadows-golf-range",
+  "checked_at": 1795524403.2658067,
+  "sha256": "86e39087d0a85443dcd3feba2a57f95ce4f68376fcfaeee1b9769bd0defc76a9",
+  "title": "Crane Meadows Golf & Range - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b57ad360-86ac-11e4-8c28-020000005b00",
+    "name": "Crane Meadows Golf & Range",
+    "address": "8103 Zinser St",
+    "courses": [
+      {
+        "name": "Crane Meadow(9 holes )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6300,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6300,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6002,
+            "par": 72,
+            "rating": 70,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6002,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5044,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5044,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b57ad360-86ac-11e4-8c28-020000005b00/crane-meadows-golf-range"
+  }
+}

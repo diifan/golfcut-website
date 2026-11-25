@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b28931b0-86ac-11e4-8c28-020000005b00/warfield-greens",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b28931b0-86ac-11e4-8c28-020000005b00/warfield-greens",
+  "checked_at": 1795582942.9946342,
+  "sha256": "85d5a4d3c95af951ed62ae7a9bdf6b314cabc07975585fec004090db4d6fcc9d",
+  "title": "Warfield Greens - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b28931b0-86ac-11e4-8c28-020000005b00",
+    "name": "Warfield Greens",
+    "address": "34255 Utica Rd, Fraser, MI",
+    "courses": [
+      {
+        "name": "9 Holes Only",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1622,
+            "par": 29,
+            "rating": 29.8,
+            "slope": 93
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1622,
+            "par": 29,
+            "rating": 29.6,
+            "slope": 99
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b28931b0-86ac-11e4-8c28-020000005b00/warfield-greens"
+  }
+}

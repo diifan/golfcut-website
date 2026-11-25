@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/60a4d770-2f5a-11eb-8ee6-06780482e2ce/rose-hill-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/60a4d770-2f5a-11eb-8ee6-06780482e2ce/rose-hill-golf-club",
+  "checked_at": 1795524616.2368937,
+  "sha256": "0b784abc61fe23400ffe01a8ab69765562ace6fd72e3cc4ad3bc8d72ea64296e",
+  "title": "Rose Hill Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "60a4d770-2f5a-11eb-8ee6-06780482e2ce",
+    "name": "Rose Hill Golf Club",
+    "address": "222 Rose Hill Road, Kingston, Rhode Island",
+    "courses": [
+      {
+        "name": "Rose",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1206,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1206,
+            "par": 27,
+            "rating": 27.30024,
+            "slope": 82.13992
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 981,
+            "par": 27,
+            "rating": 26.27874,
+            "slope": 78.01792
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 981,
+            "par": 27,
+            "rating": 26.27874,
+            "slope": 78.01792
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/60a4d770-2f5a-11eb-8ee6-06780482e2ce/rose-hill-golf-club"
+  }
+}

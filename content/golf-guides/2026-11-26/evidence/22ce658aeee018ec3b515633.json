@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b602a100-86ac-11e4-8c28-020000005b00/walsh-golf-center",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b602a100-86ac-11e4-8c28-020000005b00/walsh-golf-center",
+  "checked_at": 1795525002.6780188,
+  "sha256": "87c481ac5e9940a2774e9156cdef30474edd47e8c671d9b522936f12711153fe",
+  "title": "Walsh Golf Center - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b602a100-86ac-11e4-8c28-020000005b00",
+    "name": "Walsh Golf Center",
+    "address": "4203 County Rd B, La Crosse, WI",
+    "courses": [
+      {
+        "name": "Walsh GC(9 holes )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2145,
+            "par": 32,
+            "rating": 30.6,
+            "slope": 99
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2145,
+            "par": 32,
+            "rating": 32.4,
+            "slope": 103
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 1877,
+            "par": 32,
+            "rating": 30.1,
+            "slope": 93
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 1877,
+            "par": 32,
+            "rating": 31.2,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1760,
+            "par": 32,
+            "rating": 29.5,
+            "slope": 85
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1760,
+            "par": 32,
+            "rating": 30,
+            "slope": 88
+          }
+        ]
+      },
+      {
+        "name": "Walsh GC(18 holes )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4290,
+            "par": 64,
+            "rating": 61.2,
+            "slope": 99
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4290,
+            "par": 64,
+            "rating": 64.8,
+            "slope": 103
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 3754,
+            "par": 64,
+            "rating": 60.2,
+            "slope": 93
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 3754,
+            "par": 64,
+            "rating": 62.4,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3520,
+            "par": 64,
+            "rating": 59,
+            "slope": 85
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3520,
+            "par": 64,
+            "rating": 60,
+            "slope": 88
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b602a100-86ac-11e4-8c28-020000005b00/walsh-golf-center"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9878d4b0-86ac-11e4-8c28-020000005b00/birch-run-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9878d4b0-86ac-11e4-8c28-020000005b00/birch-run-country-club",
+  "checked_at": 1795582874.8404462,
+  "sha256": "4208fc03ae1d9e9deac21aa94d1d23d0f0edb7c70680a9aa5dba7221944f7c06",
+  "title": "Birch Run Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9878d4b0-86ac-11e4-8c28-020000005b00",
+    "name": "Birch Run Country Club",
+    "address": "4130 Birch Run Rd",
+    "courses": [
+      {
+        "name": "Birch Run Country Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6011,
+            "par": 70,
+            "rating": 68.4,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4920,
+            "par": 70,
+            "rating": 67.3,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9878d4b0-86ac-11e4-8c28-020000005b00/birch-run-country-club"
+  }
+}

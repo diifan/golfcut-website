@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b987a910-86ac-11e4-8c28-020000005b00/copper-hill-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b987a910-86ac-11e4-8c28-020000005b00/copper-hill-golf-club",
+  "checked_at": 1795524999.8702989,
+  "sha256": "8fc9c4bd656a8c5246dc0288542f1966a025e0c2b9d816e74ff47b79269a806a",
+  "title": "Copper Hill Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b987a910-86ac-11e4-8c28-020000005b00",
+    "name": "Copper Hill Golf Club",
+    "address": "6480 SE US 169, Saint Joseph, MO",
+    "courses": [
+      {
+        "name": "Copper Hill Golf Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2658,
+            "par": 58,
+            "rating": 58,
+            "slope": 113
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2658,
+            "par": 58,
+            "rating": 54.58712,
+            "slope": 81.83462
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2227,
+            "par": 58,
+            "rating": 52.80278,
+            "slope": 79.72703
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2227,
+            "par": 58,
+            "rating": 58,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b987a910-86ac-11e4-8c28-020000005b00/copper-hill-golf-club"
+  }
+}

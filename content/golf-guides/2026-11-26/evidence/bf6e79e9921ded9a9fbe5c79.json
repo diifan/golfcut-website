@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae652a80-86ac-11e4-8c28-020000005b00/oconee-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae652a80-86ac-11e4-8c28-020000005b00/oconee-country-club",
+  "checked_at": 1795524229.4080975,
+  "sha256": "ef48090cde4167992a8e6a9923b71b47030c26ae25ee41d8e85491dc1fba2834",
+  "title": "Oconee Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae652a80-86ac-11e4-8c28-020000005b00",
+    "name": "Oconee Country Club",
+    "address": "781 Richland Road",
+    "courses": [
+      {
+        "name": "Oconee",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6051,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6051,
+            "par": 73,
+            "rating": 74.1,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5767,
+            "par": 71,
+            "rating": 66.7,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5767,
+            "par": 73,
+            "rating": 73.3,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4770,
+            "par": 71,
+            "rating": 63.5,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4770,
+            "par": 73,
+            "rating": 67.3,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4666,
+            "par": 71,
+            "rating": 66.2,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4666,
+            "par": 73,
+            "rating": 66.6,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae652a80-86ac-11e4-8c28-020000005b00/oconee-country-club"
+  }
+}

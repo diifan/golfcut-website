@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b24990a0-86ac-11e4-8c28-020000005b00/carleton-glen-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b24990a0-86ac-11e4-8c28-020000005b00/carleton-glen-golf-club",
+  "checked_at": 1795582866.3031137,
+  "sha256": "dbcb79133d29effa36f1e40516cbc546c226835a6ae3fb843155976d72307235",
+  "title": "Carleton Glen Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b24990a0-86ac-11e4-8c28-020000005b00",
+    "name": "Carleton Glen Golf Club",
+    "address": "13470 Grafton Rd",
+    "courses": [
+      {
+        "name": "Carleton Glen",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6501,
+            "par": 71,
+            "rating": 71.9,
+            "slope": 127
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6501,
+            "par": 71,
+            "rating": 76.5,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6312,
+            "par": 71,
+            "rating": 69.9,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6312,
+            "par": 71,
+            "rating": 76.2,
+            "slope": 134
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5602,
+            "par": 71,
+            "rating": 65.1,
+            "slope": 116
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5602,
+            "par": 71,
+            "rating": 69.9,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b24990a0-86ac-11e4-8c28-020000005b00/carleton-glen-golf-club"
+  }
+}

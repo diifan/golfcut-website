@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/78035a20-86ac-11e4-8c28-020000005b00/black-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/78035a20-86ac-11e4-8c28-020000005b00/black-creek-golf-course",
+  "checked_at": 1795524604.4247677,
+  "sha256": "cb11b5b10ea39a475af2262ba3eea8f1689b8049d00c4059b6e54c2500770fc8",
+  "title": "Black Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "78035a20-86ac-11e4-8c28-020000005b00",
+    "name": "Black Creek Golf Course",
+    "address": "4360 South Plank Road, Oil Springs",
+    "courses": [
+      {
+        "name": "Black Creek",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2897,
+            "par": 34,
+            "rating": 33,
+            "slope": 101
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2897,
+            "par": 35,
+            "rating": 36.4,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2556,
+            "par": 34,
+            "rating": 34.1,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2556,
+            "par": 35,
+            "rating": 34,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/78035a20-86ac-11e4-8c28-020000005b00/black-creek-golf-course"
+  }
+}

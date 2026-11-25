@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96c7c950-86ac-11e4-8c28-020000005b00/preston-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96c7c950-86ac-11e4-8c28-020000005b00/preston-golf-country-club",
+  "checked_at": 1795582945.9608831,
+  "sha256": "c69fa7973eab4d529b83868c148ae0c651a370e036a0f6604a6ed389caa4d186",
+  "title": "Preston Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96c7c950-86ac-11e4-8c28-020000005b00",
+    "name": "Preston Golf & Country Club",
+    "address": "Hwy 16 W",
+    "courses": [
+      {
+        "name": "Preston Golf & Country Club",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3073,
+            "par": 35,
+            "rating": 34,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3073,
+            "par": 35,
+            "rating": 37,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2895,
+            "par": 35,
+            "rating": 35.7,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2895,
+            "par": 35,
+            "rating": 36.1,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2401,
+            "par": 35,
+            "rating": 33.4,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2401,
+            "par": 35,
+            "rating": 33.7,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96c7c950-86ac-11e4-8c28-020000005b00/preston-golf-country-club"
+  }
+}

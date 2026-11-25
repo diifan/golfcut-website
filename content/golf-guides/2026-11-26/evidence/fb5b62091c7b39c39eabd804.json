@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92f00d60-86ac-11e4-8c28-020000005b00/heritage-shores",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92f00d60-86ac-11e4-8c28-020000005b00/heritage-shores",
+  "checked_at": 1795582808.6297808,
+  "sha256": "54b90a677378166d574af422eaf89a5d6aae59e0c0095b9debeba5840c009175",
+  "title": "Heritage Shores - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92f00d60-86ac-11e4-8c28-020000005b00",
+    "name": "Heritage Shores",
+    "address": "1 Heritage Shores Circle Bridgeville, DE",
+    "courses": [
+      {
+        "name": "Heritage Shores",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 7005,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 139
+          },
+          {
+            "name": "Tournament",
+            "category": "FEMALE",
+            "yards": 7005,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6477,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 138
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 6477,
+            "par": 72,
+            "rating": 76.4,
+            "slope": 135
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5906,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 123
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5906,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 129
+          },
+          {
+            "name": "Intermediate",
+            "category": "MALE",
+            "yards": 5651,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 121
+          },
+          {
+            "name": "Intermediate",
+            "category": "FEMALE",
+            "yards": 5651,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 132
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4740,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 114
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 4740,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92f00d60-86ac-11e4-8c28-020000005b00/heritage-shores"
+  }
+}

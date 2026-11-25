@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8dfbbde0-86ac-11e4-8c28-020000005b00/cerbat-cliffs-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8dfbbde0-86ac-11e4-8c28-020000005b00/cerbat-cliffs-golf-course",
+  "checked_at": 1795524432.9567952,
+  "sha256": "280f74db8010970f04449a26333ac7c6f62c8b18fb0889bd7a4241dbea7af471",
+  "title": "Cerbat Cliffs Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8dfbbde0-86ac-11e4-8c28-020000005b00",
+    "name": "Cerbat Cliffs Golf Course",
+    "address": "1001,Gates Avenue,Kingman",
+    "courses": [
+      {
+        "name": "Cerbat Cliffs",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6659,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6178,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 125
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5740,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 118
+          },
+          {
+            "name": "Copper",
+            "category": "MALE",
+            "yards": 4915,
+            "par": 72,
+            "rating": 63.8,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8dfbbde0-86ac-11e4-8c28-020000005b00/cerbat-cliffs-golf-course"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/924c5350-86ac-11e4-8c28-020000005b00/bella-rosa-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/924c5350-86ac-11e4-8c28-020000005b00/bella-rosa-golf-course",
+  "checked_at": 1795524530.0365102,
+  "sha256": "00b471ac3b54a79433989a82ab2044e9d8f88f65a40910533e136e0e46df86ac",
+  "title": "Bella Rosa Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "924c5350-86ac-11e4-8c28-020000005b00",
+    "name": "Bella Rosa Golf Course",
+    "address": "5830 County Road 20",
+    "courses": [
+      {
+        "name": "Bella Rosa",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5874,
+            "par": 70,
+            "rating": 68,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5874,
+            "par": 70,
+            "rating": 75,
+            "slope": 133
+          },
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 5643,
+            "par": 70,
+            "rating": 66.7,
+            "slope": 118
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 5643,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5412,
+            "par": 70,
+            "rating": 65.4,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5412,
+            "par": 70,
+            "rating": 71.8,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4718,
+            "par": 70,
+            "rating": 63.6,
+            "slope": 100
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4718,
+            "par": 70,
+            "rating": 66.8,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/924c5350-86ac-11e4-8c28-020000005b00/bella-rosa-golf-course"
+  }
+}

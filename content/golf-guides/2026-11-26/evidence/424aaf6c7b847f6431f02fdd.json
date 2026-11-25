@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95f5ac40-86ac-11e4-8c28-020000005b00/bear-hill-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95f5ac40-86ac-11e4-8c28-020000005b00/bear-hill-golf-club",
+  "checked_at": 1795524555.834361,
+  "sha256": "11074d39075e093d4f726928d898cbd97b54a78f9dcea529c61d7d9a776ec593",
+  "title": "Bear Hill Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95f5ac40-86ac-11e4-8c28-020000005b00",
+    "name": "Bear Hill Golf Club",
+    "address": "2 North St",
+    "courses": [
+      {
+        "name": "Bear Hill",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 6202,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 133
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 6202,
+            "par": 72,
+            "rating": 77,
+            "slope": 146
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "MALE",
+            "yards": 5454,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 120
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "FEMALE",
+            "yards": 5454,
+            "par": 72,
+            "rating": 72,
+            "slope": 132
+          },
+          {
+            "name": "Silver/Yellow",
+            "category": "MALE",
+            "yards": 4872,
+            "par": 72,
+            "rating": 65.2,
+            "slope": 117
+          },
+          {
+            "name": "Silver/Yellow",
+            "category": "FEMALE",
+            "yards": 4872,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95f5ac40-86ac-11e4-8c28-020000005b00/bear-hill-golf-club"
+  }
+}

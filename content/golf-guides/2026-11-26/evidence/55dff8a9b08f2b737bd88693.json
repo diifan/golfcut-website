@@ -1,0 +1,445 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a53af30-86ac-11e4-8c28-020000005b00/star-hill-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a53af30-86ac-11e4-8c28-020000005b00/star-hill-golf-club",
+  "checked_at": 1795524627.669669,
+  "sha256": "97cc847f19f1f93b5ba57a14f6c3a87d11e41dcf4fade4ba1f280ce3abd0b899",
+  "title": "Star Hill Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9a53af30-86ac-11e4-8c28-020000005b00",
+    "name": "Star Hill Golf Club",
+    "address": "202 Clubhouse Drive, Cape Carteret, NC",
+    "courses": [
+      {
+        "name": "Lakes to Sands",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6625,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6625,
+            "par": 72,
+            "rating": 77.1,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6244,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6244,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5462,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 111
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5462,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 123
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4740,
+            "par": 72,
+            "rating": 63.4,
+            "slope": 107
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4740,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4740,
+            "par": 72,
+            "rating": 63.1,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4740,
+            "par": 72,
+            "rating": 67,
+            "slope": 110
+          }
+        ]
+      },
+      {
+        "name": "Pines to Lakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6651,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6651,
+            "par": 72,
+            "rating": 77.3,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6225,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6225,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5449,
+            "par": 72,
+            "rating": 66,
+            "slope": 111
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5449,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 123
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4716,
+            "par": 72,
+            "rating": 63.2,
+            "slope": 105
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4716,
+            "par": 72,
+            "rating": 67,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4716,
+            "par": 72,
+            "rating": 62.9,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4716,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 112
+          }
+        ]
+      },
+      {
+        "name": "Pines to Sands",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6514,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6514,
+            "par": 72,
+            "rating": 76.5,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6095,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6095,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5323,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 110
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5323,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 120
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4494,
+            "par": 72,
+            "rating": 62.2,
+            "slope": 102
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4494,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4494,
+            "par": 72,
+            "rating": 62,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4494,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 107
+          }
+        ]
+      },
+      {
+        "name": "Sands to Lakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6625,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6625,
+            "par": 72,
+            "rating": 77.1,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6244,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6244,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5462,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 111
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5462,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 123
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4740,
+            "par": 72,
+            "rating": 63.4,
+            "slope": 107
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4740,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4740,
+            "par": 72,
+            "rating": 63.1,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4740,
+            "par": 72,
+            "rating": 67,
+            "slope": 110
+          }
+        ]
+      },
+      {
+        "name": "Sands to Pines",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6514,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6514,
+            "par": 72,
+            "rating": 76.5,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6095,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6095,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5323,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 110
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5323,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 120
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4494,
+            "par": 72,
+            "rating": 62.2,
+            "slope": 102
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4494,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4494,
+            "par": 72,
+            "rating": 62,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4494,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a53af30-86ac-11e4-8c28-020000005b00/star-hill-golf-club"
+  }
+}

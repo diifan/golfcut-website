@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9cd291e0-86ac-11e4-8c28-020000005b00/meadowbrook-at-clayton",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9cd291e0-86ac-11e4-8c28-020000005b00/meadowbrook-at-clayton",
+  "checked_at": 1795582937.742021,
+  "sha256": "d015c39a64022a7db50952353a65ab869044c040b757d6644f594bf745ec19ce",
+  "title": "Meadowbrook at Clayton - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9cd291e0-86ac-11e4-8c28-020000005b00",
+    "name": "Meadowbrook at Clayton",
+    "address": "6001 Salem Ave",
+    "courses": [
+      {
+        "name": "Meadowbrook",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6663,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6402,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 131
+          },
+          {
+            "name": "Grey",
+            "category": "MALE",
+            "yards": 5586,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5376,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9cd291e0-86ac-11e4-8c28-020000005b00/meadowbrook-at-clayton"
+  }
+}

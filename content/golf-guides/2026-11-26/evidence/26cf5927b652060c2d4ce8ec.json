@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9cb71aa0-86ac-11e4-8c28-020000005b00/echo-valley",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9cb71aa0-86ac-11e4-8c28-020000005b00/echo-valley",
+  "checked_at": 1795582868.6236641,
+  "sha256": "63f03a58a83d930bc96abac416f525084448304150ac24029159e58d517d5290",
+  "title": "Echo Valley - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9cb71aa0-86ac-11e4-8c28-020000005b00",
+    "name": "Echo Valley",
+    "address": "21056 Quarry Rd, Wellington, OH",
+    "courses": [
+      {
+        "name": "Echo Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6110,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6110,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5570,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5570,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5278,
+            "par": 71,
+            "rating": 66.1,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5278,
+            "par": 71,
+            "rating": 66.1,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9cb71aa0-86ac-11e4-8c28-020000005b00/echo-valley"
+  }
+}

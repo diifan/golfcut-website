@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8edcf620-86ac-11e4-8c28-020000005b00/rivard",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8edcf620-86ac-11e4-8c28-020000005b00/rivard",
+  "checked_at": 1795582862.620968,
+  "sha256": "d7df612455282e6cbe73b4dcca2d1a75babe083209e89aeb52c9214f36f60640",
+  "title": "Rivard - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8edcf620-86ac-11e4-8c28-020000005b00",
+    "name": "Rivard",
+    "address": "18001 Rivard Blvd",
+    "courses": [
+      {
+        "name": "Rivard",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6524,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6170,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5545,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5101,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8edcf620-86ac-11e4-8c28-020000005b00/rivard"
+  }
+}

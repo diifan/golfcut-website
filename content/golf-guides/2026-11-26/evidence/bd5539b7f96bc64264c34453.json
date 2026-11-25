@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0ef09b0-86ac-11e4-8c28-020000005b00/orchard-hills-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0ef09b0-86ac-11e4-8c28-020000005b00/orchard-hills-golf-country-club",
+  "checked_at": 1795583780.7356508,
+  "sha256": "76464c91d0342eab8e597cce3733396fca895e64693e580b2cacb56a816e22bf",
+  "title": "Orchard Hills Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b0ef09b0-86ac-11e4-8c28-020000005b00",
+    "name": "Orchard Hills Golf & Country Club",
+    "address": "605 39th Street Washougal, WA 98671",
+    "courses": [
+      {
+        "name": "Orchard Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5935,
+            "par": 70,
+            "rating": 70.1,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5935,
+            "par": 71,
+            "rating": 73.5,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5752,
+            "par": 70,
+            "rating": 68.8,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5752,
+            "par": 71,
+            "rating": 74.2,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5348,
+            "par": 70,
+            "rating": 66.3,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5348,
+            "par": 71,
+            "rating": 71.4,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0ef09b0-86ac-11e4-8c28-020000005b00/orchard-hills-golf-country-club"
+  }
+}

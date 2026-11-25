@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8920c2c0-86ac-11e4-8c28-020000005b00/valley-golf-center",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8920c2c0-86ac-11e4-8c28-020000005b00/valley-golf-center",
+  "checked_at": 1795582947.0932527,
+  "sha256": "e8b2025e835c2dadf6412ab0048ab59cbf28ede57d3d28b0cc07f5094a0595dc",
+  "title": "Highway 41 Golf Center - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8920c2c0-86ac-11e4-8c28-020000005b00",
+    "name": "Highway 41 Golf Center",
+    "address": "41445 Avenue 9, Fresno, CA",
+    "courses": [
+      {
+        "name": "Highway 41 (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1082,
+            "par": 27,
+            "rating": 25.9,
+            "slope": 75
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1082,
+            "par": 27,
+            "rating": 27.2,
+            "slope": 82
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 911,
+            "par": 27,
+            "rating": 25.2,
+            "slope": 72
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 911,
+            "par": 27,
+            "rating": 26.6,
+            "slope": 79
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8920c2c0-86ac-11e4-8c28-020000005b00/valley-golf-center"
+  }
+}

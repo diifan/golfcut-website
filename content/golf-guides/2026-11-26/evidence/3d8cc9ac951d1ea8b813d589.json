@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/887b33f0-86ac-11e4-8c28-020000005b00/indian-bluff-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/887b33f0-86ac-11e4-8c28-020000005b00/indian-bluff-golf-course",
+  "checked_at": 1795524981.0627778,
+  "sha256": "2b10d32fc1352213096cd56749bf01bd4503858de78919a67bcee1f36bd364e3",
+  "title": "Indian Bluff Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "887b33f0-86ac-11e4-8c28-020000005b00",
+    "name": "Indian Bluff Golf Course",
+    "address": "6200 78th Ave, Milan, IL",
+    "courses": [
+      {
+        "name": "Indian Bluff",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 5700,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 113
+          },
+          {
+            "name": "Men",
+            "category": "MALE",
+            "yards": 5516,
+            "par": 70,
+            "rating": 66.7,
+            "slope": 111
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 4510,
+            "par": 70,
+            "rating": 65.5,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/887b33f0-86ac-11e4-8c28-020000005b00/indian-bluff-golf-course"
+  }
+}

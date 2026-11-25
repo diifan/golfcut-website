@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a54c0a0-86ac-11e4-8c28-020000005b00/dogwood-valley-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a54c0a0-86ac-11e4-8c28-020000005b00/dogwood-valley-golf-course",
+  "checked_at": 1795525002.5320923,
+  "sha256": "17662a90308acfafad5084d1b8bae8dcfadb86dac4cd7dfe19338dbddaf3d38b",
+  "title": "Dogwood Valley Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9a54c0a0-86ac-11e4-8c28-020000005b00",
+    "name": "Dogwood Valley Golf Course",
+    "address": "328 Dogwood Valley Rd, Forest City, NC",
+    "courses": [
+      {
+        "name": "Dogwood Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6098,
+            "par": 72,
+            "rating": 35.4,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6098,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5740,
+            "par": 72,
+            "rating": 34.6,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5740,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4944,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4944,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4144,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4144,
+            "par": 72,
+            "rating": 33.5,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a54c0a0-86ac-11e4-8c28-020000005b00/dogwood-valley-golf-course"
+  }
+}

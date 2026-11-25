@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d8f6780-86ac-11e4-8c28-020000005b00/elbel-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d8f6780-86ac-11e4-8c28-020000005b00/elbel-golf-course",
+  "checked_at": 1795524616.9551067,
+  "sha256": "01b36a3d0d0de4ede32a2b60272bb98e992770ea2501e53c00b34eeeaeb52e15",
+  "title": "ELBEL PARK GOLF COURSE - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d8f6780-86ac-11e4-8c28-020000005b00",
+    "name": "ELBEL PARK GOLF COURSE",
+    "address": "26595 Auten Rd, South Bend, IN",
+    "courses": [
+      {
+        "name": "Elbel",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6890,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 130
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6890,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6441,
+            "par": 72,
+            "rating": 71,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6441,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6109,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6109,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 133
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5159,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 107
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5159,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d8f6780-86ac-11e4-8c28-020000005b00/elbel-golf-course"
+  }
+}

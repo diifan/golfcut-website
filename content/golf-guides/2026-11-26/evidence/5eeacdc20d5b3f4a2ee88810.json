@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/924eeb60-86ac-11e4-8c28-020000005b00/black-canyon-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/924eeb60-86ac-11e4-8c28-020000005b00/black-canyon-golf-course",
+  "checked_at": 1795524500.2943141,
+  "sha256": "4fe6b73e6c4f44054cabf4f39e5b23c393a45f1579c7972cd4b1db4cee2f4ba4",
+  "title": "Black Canyon Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "924eeb60-86ac-11e4-8c28-020000005b00",
+    "name": "Black Canyon Golf Course",
+    "address": "1350 Birch St",
+    "courses": [
+      {
+        "name": "Black Canyon",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6174,
+            "par": 70,
+            "rating": 68.2,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5829,
+            "par": 70,
+            "rating": 66.5,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5471,
+            "par": 70,
+            "rating": 64.8,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5154,
+            "par": 70,
+            "rating": 68.4,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/924eeb60-86ac-11e4-8c28-020000005b00/black-canyon-golf-course"
+  }
+}

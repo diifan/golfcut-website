@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/82feefc0-86ac-11e4-8c28-020000005b00/barrington-hills-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/82feefc0-86ac-11e4-8c28-020000005b00/barrington-hills-country-club",
+  "checked_at": 1795525010.8225248,
+  "sha256": "10e91eba3cadf82077378fd6cdedd2593e5d3ae60af74167901d66ec68a25371",
+  "title": "Barrington Hills Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "82feefc0-86ac-11e4-8c28-020000005b00",
+    "name": "Barrington Hills Country Club",
+    "address": "300 W County Line Rd",
+    "courses": [
+      {
+        "name": "Barrington Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6795,
+            "par": 71,
+            "rating": 73.6,
+            "slope": 132
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6795,
+            "par": 73,
+            "rating": 78,
+            "slope": 139
+          },
+          {
+            "name": "Regular",
+            "category": "MALE",
+            "yards": 6617,
+            "par": 71,
+            "rating": 71.9,
+            "slope": 128
+          },
+          {
+            "name": "Regular",
+            "category": "FEMALE",
+            "yards": 6617,
+            "par": 73,
+            "rating": 77.1,
+            "slope": 137
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5941,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 121
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5941,
+            "par": 73,
+            "rating": 73.5,
+            "slope": 129
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 5492,
+            "par": 71,
+            "rating": 66.7,
+            "slope": 116
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 5492,
+            "par": 73,
+            "rating": 71.5,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/82feefc0-86ac-11e4-8c28-020000005b00/barrington-hills-country-club"
+  }
+}

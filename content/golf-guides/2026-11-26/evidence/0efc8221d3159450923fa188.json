@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae62b980-86ac-11e4-8c28-020000005b00/persimmon-hill-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae62b980-86ac-11e4-8c28-020000005b00/persimmon-hill-golf-club",
+  "checked_at": 1795582857.396132,
+  "sha256": "0809f5520dbdc4f1c1e28f5746eba52b65767d385d793c61395641067c915b31",
+  "title": "Persimmon Hill Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae62b980-86ac-11e4-8c28-020000005b00",
+    "name": "Persimmon Hill Golf Club",
+    "address": "126 Golf Club Ave Saluda, SC 29138",
+    "courses": [
+      {
+        "name": "Persimmon Hill",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6925,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6405,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5865,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5449,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae62b980-86ac-11e4-8c28-020000005b00/persimmon-hill-golf-club"
+  }
+}

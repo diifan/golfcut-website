@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/72775e80-86ac-11e4-8c28-020000005b00/south-lakes-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/72775e80-86ac-11e4-8c28-020000005b00/south-lakes-golf-club",
+  "checked_at": 1795524430.4599073,
+  "sha256": "f5602b782a82cff63f8ff7d6d49d979ff3c6d15e4da4b776f522d57092b237a1",
+  "title": "South Lakes Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "72775e80-86ac-11e4-8c28-020000005b00",
+    "name": "South Lakes Golf Club",
+    "address": "Billabong Road",
+    "courses": [
+      {
+        "name": "South Lakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6036,
+            "par": 69,
+            "rating": 69.5,
+            "slope": 115
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6036,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5937,
+            "par": 69,
+            "rating": 69,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5937,
+            "par": 70,
+            "rating": 74.7,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5570,
+            "par": 69,
+            "rating": 67.4,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5570,
+            "par": 70,
+            "rating": 72.4,
+            "slope": 124
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 3398,
+            "par": 69,
+            "rating": 58.1,
+            "slope": 86
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 3398,
+            "par": 70,
+            "rating": 59.6,
+            "slope": 97
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/72775e80-86ac-11e4-8c28-020000005b00/south-lakes-golf-club"
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/c6235780-a4ba-11ec-b5d7-06780482e2ce/fields-ranch-at-pga-frisco",
+  "resolved_url": "https://18birdies.com/golf-courses/club/c6235780-a4ba-11ec-b5d7-06780482e2ce/fields-ranch-at-pga-frisco",
+  "checked_at": 1795524760.3411894,
+  "sha256": "f2ed0d2ea89909fb5eb11b47550e5beeefca859879d8e0f05a71921af6032992",
+  "title": "Fields Ranch at PGA Frisco - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "c6235780-a4ba-11ec-b5d7-06780482e2ce",
+    "name": "Fields Ranch at PGA Frisco",
+    "address": "3255 PGA Parkway Frisco, TX",
+    "courses": [
+      {
+        "name": "East Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "I ",
+            "category": "MALE",
+            "yards": 7467,
+            "par": 72,
+            "rating": 77.1,
+            "slope": 150
+          },
+          {
+            "name": "I ",
+            "category": "FEMALE",
+            "yards": 7467,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "PGA",
+            "category": "MALE",
+            "yards": 7860,
+            "par": 72,
+            "rating": 78.9,
+            "slope": 152
+          },
+          {
+            "name": "PGA",
+            "category": "FEMALE",
+            "yards": 7860,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 7066,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 146
+          },
+          {
+            "name": "II",
+            "category": "FEMALE",
+            "yards": 7066,
+            "par": 72,
+            "rating": 82.6,
+            "slope": 155
+          },
+          {
+            "name": "II/III",
+            "category": "MALE",
+            "yards": 6793,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 141
+          },
+          {
+            "name": "II/III",
+            "category": "FEMALE",
+            "yards": 6793,
+            "par": 72,
+            "rating": 81,
+            "slope": 155
+          },
+          {
+            "name": "III",
+            "category": "MALE",
+            "yards": 6543,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 140
+          },
+          {
+            "name": "III",
+            "category": "FEMALE",
+            "yards": 6543,
+            "par": 72,
+            "rating": 79.4,
+            "slope": 154
+          },
+          {
+            "name": "III/IV ",
+            "category": "MALE",
+            "yards": 6154,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 133
+          },
+          {
+            "name": "III/IV ",
+            "category": "FEMALE",
+            "yards": 6154,
+            "par": 72,
+            "rating": 77.4,
+            "slope": 150
+          },
+          {
+            "name": "IV",
+            "category": "MALE",
+            "yards": 5710,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 131
+          },
+          {
+            "name": "IV",
+            "category": "FEMALE",
+            "yards": 5710,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 143
+          },
+          {
+            "name": "IV/V ",
+            "category": "MALE",
+            "yards": 5285,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 128
+          },
+          {
+            "name": "IV/V ",
+            "category": "FEMALE",
+            "yards": 5285,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 133
+          },
+          {
+            "name": "V",
+            "category": "MALE",
+            "yards": 4790,
+            "par": 72,
+            "rating": 64.2,
+            "slope": 117
+          },
+          {
+            "name": "V",
+            "category": "FEMALE",
+            "yards": 4790,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 129
+          }
+        ]
+      },
+      {
+        "name": "West Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "I ",
+            "category": "MALE",
+            "yards": 7329,
+            "par": 72,
+            "rating": 76.3,
+            "slope": 140
+          },
+          {
+            "name": "I ",
+            "category": "FEMALE",
+            "yards": 7329,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "PGA",
+            "category": "MALE",
+            "yards": 7319,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "PGA",
+            "category": "FEMALE",
+            "yards": 7319,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 6783,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 139
+          },
+          {
+            "name": "II",
+            "category": "FEMALE",
+            "yards": 6783,
+            "par": 72,
+            "rating": 80,
+            "slope": 149
+          },
+          {
+            "name": "II/III",
+            "category": "MALE",
+            "yards": 6452,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 135
+          },
+          {
+            "name": "II/III",
+            "category": "FEMALE",
+            "yards": 6452,
+            "par": 72,
+            "rating": 78.2,
+            "slope": 148
+          },
+          {
+            "name": "III",
+            "category": "MALE",
+            "yards": 6149,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 129
+          },
+          {
+            "name": "III",
+            "category": "FEMALE",
+            "yards": 6149,
+            "par": 72,
+            "rating": 76.5,
+            "slope": 146
+          },
+          {
+            "name": "III/IV ",
+            "category": "MALE",
+            "yards": 5727,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 124
+          },
+          {
+            "name": "III/IV ",
+            "category": "FEMALE",
+            "yards": 5727,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 137
+          },
+          {
+            "name": "IV",
+            "category": "MALE",
+            "yards": 5383,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 118
+          },
+          {
+            "name": "IV",
+            "category": "FEMALE",
+            "yards": 5383,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 127
+          },
+          {
+            "name": "IV/V ",
+            "category": "MALE",
+            "yards": 5016,
+            "par": 72,
+            "rating": 64.2,
+            "slope": 112
+          },
+          {
+            "name": "IV/V ",
+            "category": "FEMALE",
+            "yards": 5016,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 124
+          },
+          {
+            "name": "V",
+            "category": "MALE",
+            "yards": 4710,
+            "par": 72,
+            "rating": 62.6,
+            "slope": 111
+          },
+          {
+            "name": "V",
+            "category": "FEMALE",
+            "yards": 4710,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 117
+          },
+          {
+            "name": "VI",
+            "category": "MALE",
+            "yards": 4089,
+            "par": 72,
+            "rating": 60.7,
+            "slope": 106
+          },
+          {
+            "name": "VI",
+            "category": "FEMALE",
+            "yards": 4089,
+            "par": 72,
+            "rating": 88.3,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/c6235780-a4ba-11ec-b5d7-06780482e2ce/fields-ranch-at-pga-frisco"
+  }
+}

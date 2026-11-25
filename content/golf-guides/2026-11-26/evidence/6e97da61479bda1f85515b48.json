@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ac535b0-86ac-11e4-8c28-020000005b00/mountain-falls-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ac535b0-86ac-11e4-8c28-020000005b00/mountain-falls-golf",
+  "checked_at": 1795524614.090946,
+  "sha256": "e71bdc9b30b21e063e1bb6735b279559d1c0f7a68dd7a4a2faf6d1574c302532",
+  "title": "Mountain Falls Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "9ac535b0-86ac-11e4-8c28-020000005b00",
+    "name": "Mountain Falls Golf",
+    "address": "Hwy 64 W, Lake Toxaway, NC",
+    "courses": [
+      {
+        "name": "Mountain Falls",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1008,
+            "par": 27,
+            "rating": 26.40132,
+            "slope": 78.51256
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1008,
+            "par": 28,
+            "rating": 26.40132,
+            "slope": 78.51256
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 829,
+            "par": 27,
+            "rating": 25.58866,
+            "slope": 75.23328
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 829,
+            "par": 28,
+            "rating": 25.58866,
+            "slope": 75.23328
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 784,
+            "par": 27,
+            "rating": 25.38436,
+            "slope": 74.40888
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 784,
+            "par": 28,
+            "rating": 25.38436,
+            "slope": 74.40888
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ac535b0-86ac-11e4-8c28-020000005b00/mountain-falls-golf"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92c7ebf0-86ac-11e4-8c28-020000005b00/silvermine-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92c7ebf0-86ac-11e4-8c28-020000005b00/silvermine-golf-club",
+  "checked_at": 1795524604.9905515,
+  "sha256": "4de28e669527cc89ceae24ba667364185e2873527e5e118c46ae9ebca3504fb1",
+  "title": "Silvermine Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92c7ebf0-86ac-11e4-8c28-020000005b00",
+    "name": "Silvermine Golf Club",
+    "address": "95 N Seir Hill Rd",
+    "courses": [
+      {
+        "name": "Silvermine(Barn Nine + Grey Hollow)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 5301,
+            "par": 70,
+            "rating": 66.4,
+            "slope": 122
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5116,
+            "par": 70,
+            "rating": 68.2,
+            "slope": 117
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4743,
+            "par": 70,
+            "rating": 66.5,
+            "slope": 114
+          }
+        ]
+      },
+      {
+        "name": "Silvermine(ProShop9)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 2105,
+            "par": 31,
+            "rating": 32,
+            "slope": 102
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 2105,
+            "par": 32,
+            "rating": 32.1,
+            "slope": 108
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 1984,
+            "par": 31,
+            "rating": 31.5,
+            "slope": 99
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 1984,
+            "par": 32,
+            "rating": 31.5,
+            "slope": 106
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 1942,
+            "par": 31,
+            "rating": 31.3,
+            "slope": 99
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 1942,
+            "par": 32,
+            "rating": 30.2,
+            "slope": 98
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92c7ebf0-86ac-11e4-8c28-020000005b00/silvermine-golf-club"
+  }
+}

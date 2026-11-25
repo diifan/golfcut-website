@@ -1,0 +1,465 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/adf32ed0-86ac-11e4-8c28-020000005b00/belfair-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/adf32ed0-86ac-11e4-8c28-020000005b00/belfair-golf-club",
+  "checked_at": 1795524659.8830552,
+  "sha256": "f5f7125f0a7f887daa058eb788cd8ee8eae3437401697646ee313cb819a5e59a",
+  "title": "Belfair Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "adf32ed0-86ac-11e4-8c28-020000005b00",
+    "name": "Belfair Golf Club",
+    "address": "200 Belfair Oaks Blvd, Bluffton SC",
+    "courses": [
+      {
+        "name": "East Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6936,
+            "par": 71,
+            "rating": 74.4,
+            "slope": 142
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 6936,
+            "par": 71,
+            "rating": 78.8,
+            "slope": 141
+          },
+          {
+            "name": "Challenge",
+            "category": "MALE",
+            "yards": 6655,
+            "par": 71,
+            "rating": 73.4,
+            "slope": 134
+          },
+          {
+            "name": "Challenge",
+            "category": "FEMALE",
+            "yards": 6655,
+            "par": 71,
+            "rating": 77.3,
+            "slope": 137
+          },
+          {
+            "name": "Medal",
+            "category": "MALE",
+            "yards": 6514,
+            "par": 71,
+            "rating": 72.2,
+            "slope": 132
+          },
+          {
+            "name": "Medal",
+            "category": "FEMALE",
+            "yards": 6514,
+            "par": 71,
+            "rating": 76.5,
+            "slope": 136
+          },
+          {
+            "name": "Tourney",
+            "category": "MALE",
+            "yards": 6311,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 130
+          },
+          {
+            "name": "Tourney",
+            "category": "FEMALE",
+            "yards": 6311,
+            "par": 71,
+            "rating": 72,
+            "slope": 128
+          },
+          {
+            "name": "Member",
+            "category": "MALE",
+            "yards": 6097,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 128
+          },
+          {
+            "name": "Member",
+            "category": "FEMALE",
+            "yards": 6097,
+            "par": 71,
+            "rating": 75.9,
+            "slope": 143
+          },
+          {
+            "name": "Players",
+            "category": "MALE",
+            "yards": 5816,
+            "par": 71,
+            "rating": 69,
+            "slope": 125
+          },
+          {
+            "name": "Players",
+            "category": "FEMALE",
+            "yards": 5816,
+            "par": 71,
+            "rating": 72.8,
+            "slope": 127
+          },
+          {
+            "name": "Club",
+            "category": "MALE",
+            "yards": 5529,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 121
+          },
+          {
+            "name": "Club",
+            "category": "FEMALE",
+            "yards": 5529,
+            "par": 71,
+            "rating": 73.3,
+            "slope": 134
+          },
+          {
+            "name": "Club/Fwd",
+            "category": "MALE",
+            "yards": 5194,
+            "par": 71,
+            "rating": 66.4,
+            "slope": 118
+          },
+          {
+            "name": "Club/Fwd",
+            "category": "FEMALE",
+            "yards": 5194,
+            "par": 71,
+            "rating": 69.5,
+            "slope": 120
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4965,
+            "par": 71,
+            "rating": 65.4,
+            "slope": 116
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 4965,
+            "par": 71,
+            "rating": 70.5,
+            "slope": 127
+          }
+        ]
+      },
+      {
+        "name": "West - Right ",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7129,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 144
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 7129,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Challenge",
+            "category": "MALE",
+            "yards": 6886,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 141
+          },
+          {
+            "name": "Challenge",
+            "category": "FEMALE",
+            "yards": 6886,
+            "par": 72,
+            "rating": 78.5,
+            "slope": 140
+          },
+          {
+            "name": "Medal",
+            "category": "MALE",
+            "yards": 6690,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 139
+          },
+          {
+            "name": "Medal",
+            "category": "FEMALE",
+            "yards": 6690,
+            "par": 72,
+            "rating": 77.5,
+            "slope": 138
+          },
+          {
+            "name": "Tourney",
+            "category": "MALE",
+            "yards": 6506,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 137
+          },
+          {
+            "name": "Tourney",
+            "category": "FEMALE",
+            "yards": 6506,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 127
+          },
+          {
+            "name": "Member",
+            "category": "MALE",
+            "yards": 6205,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 132
+          },
+          {
+            "name": "Member",
+            "category": "FEMALE",
+            "yards": 6205,
+            "par": 72,
+            "rating": 77.1,
+            "slope": 145
+          },
+          {
+            "name": "Players",
+            "category": "MALE",
+            "yards": 5824,
+            "par": 72,
+            "rating": 69,
+            "slope": 125
+          },
+          {
+            "name": "Players",
+            "category": "FEMALE",
+            "yards": 5824,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 128
+          },
+          {
+            "name": "Club",
+            "category": "MALE",
+            "yards": 5583,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 122
+          },
+          {
+            "name": "Club",
+            "category": "FEMALE",
+            "yards": 5583,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 132
+          },
+          {
+            "name": "Club/Fwd",
+            "category": "MALE",
+            "yards": 5349,
+            "par": 72,
+            "rating": 66.9,
+            "slope": 120
+          },
+          {
+            "name": "Club/Fwd",
+            "category": "FEMALE",
+            "yards": 5349,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 122
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4948,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 115
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 4948,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 122
+          }
+        ]
+      },
+      {
+        "name": "West - Left Handicap",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7129,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 144
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 7129,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Challenge",
+            "category": "MALE",
+            "yards": 6886,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 141
+          },
+          {
+            "name": "Challenge",
+            "category": "FEMALE",
+            "yards": 6886,
+            "par": 72,
+            "rating": 78.5,
+            "slope": 140
+          },
+          {
+            "name": "Medal",
+            "category": "MALE",
+            "yards": 6690,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 139
+          },
+          {
+            "name": "Medal",
+            "category": "FEMALE",
+            "yards": 6690,
+            "par": 72,
+            "rating": 77.5,
+            "slope": 138
+          },
+          {
+            "name": "Tourney",
+            "category": "MALE",
+            "yards": 6506,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 137
+          },
+          {
+            "name": "Tourney",
+            "category": "FEMALE",
+            "yards": 6506,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 126
+          },
+          {
+            "name": "Member",
+            "category": "MALE",
+            "yards": 6205,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 132
+          },
+          {
+            "name": "Member",
+            "category": "FEMALE",
+            "yards": 6205,
+            "par": 72,
+            "rating": 77,
+            "slope": 143
+          },
+          {
+            "name": "Players",
+            "category": "MALE",
+            "yards": 5824,
+            "par": 72,
+            "rating": 69,
+            "slope": 125
+          },
+          {
+            "name": "Players",
+            "category": "FEMALE",
+            "yards": 5824,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 128
+          },
+          {
+            "name": "Club",
+            "category": "MALE",
+            "yards": 5583,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 122
+          },
+          {
+            "name": "Club",
+            "category": "FEMALE",
+            "yards": 5583,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 131
+          },
+          {
+            "name": "Club/Fwd",
+            "category": "MALE",
+            "yards": 5349,
+            "par": 72,
+            "rating": 66.9,
+            "slope": 120
+          },
+          {
+            "name": "Club/Fwd",
+            "category": "FEMALE",
+            "yards": 5349,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 122
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4948,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 115
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 4948,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/adf32ed0-86ac-11e4-8c28-020000005b00/belfair-golf-club"
+  }
+}

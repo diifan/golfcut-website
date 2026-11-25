@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98bb34e0-86ac-11e4-8c28-020000005b00/northern-pines-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98bb34e0-86ac-11e4-8c28-020000005b00/northern-pines-golf-club",
+  "checked_at": 1795525027.9273176,
+  "sha256": "88bdca633fe24fc01c415b949f0d49876988e3a2636de69a6bebc2ec4baf2605",
+  "title": "Northern Pines Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "98bb34e0-86ac-11e4-8c28-020000005b00",
+    "name": "Northern Pines Golf Club",
+    "address": "6722 Route 31 Cicero, New York ",
+    "courses": [
+      {
+        "name": "Northern Pines",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6602,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6602,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6030,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6030,
+            "par": 71,
+            "rating": 75.2,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5380,
+            "par": 71,
+            "rating": 65.6,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5380,
+            "par": 71,
+            "rating": 71,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4990,
+            "par": 71,
+            "rating": 63.5,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4990,
+            "par": 71,
+            "rating": 68.7,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98bb34e0-86ac-11e4-8c28-020000005b00/northern-pines-golf-club"
+  }
+}

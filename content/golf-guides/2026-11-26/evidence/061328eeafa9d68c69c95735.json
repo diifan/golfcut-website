@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/91eeca00-86ac-11e4-8c28-020000005b00/flatirons-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/91eeca00-86ac-11e4-8c28-020000005b00/flatirons-golf-course",
+  "checked_at": 1795524457.0446758,
+  "sha256": "27fb666628a3852f5f3c68e5a5c4e2ef66a17953acdbea4abb3b87c37843a9d5",
+  "title": "Flatirons Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "91eeca00-86ac-11e4-8c28-020000005b00",
+    "name": "Flatirons Golf Course",
+    "address": "5706 Arapahoe",
+    "courses": [
+      {
+        "name": "Flatirons",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6967,
+            "par": 70,
+            "rating": 72,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6422,
+            "par": 70,
+            "rating": 70,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6010,
+            "par": 70,
+            "rating": 67.8,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5276,
+            "par": 70,
+            "rating": 64.2,
+            "slope": 106
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4731,
+            "par": 70,
+            "rating": 61.8,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/91eeca00-86ac-11e4-8c28-020000005b00/flatirons-golf-course"
+  }
+}

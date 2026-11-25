@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7c111a30-86ac-11e4-8c28-020000005b00/the-royal-dublin-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7c111a30-86ac-11e4-8c28-020000005b00/the-royal-dublin-golf-club",
+  "checked_at": 1795524383.0472476,
+  "sha256": "bf3434ef9609ba0890ae2e7c21a71a2645f92ab5b1cb1f07e088eb3ad501fcda",
+  "title": "The Royal Dublin Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "7c111a30-86ac-11e4-8c28-020000005b00",
+    "name": "The Royal Dublin Golf Club",
+    "address": "North Bull Island Nature Reserve , Dollymount, Dublin 3 ,",
+    "courses": [
+      {
+        "name": "Royal Dublin",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7267,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 139
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7267,
+            "par": 74,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6907,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6907,
+            "par": 74,
+            "rating": 78.6,
+            "slope": 140
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6275,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 131
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 6275,
+            "par": 74,
+            "rating": 75.3,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5948,
+            "par": 72,
+            "rating": 72,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5948,
+            "par": 74,
+            "rating": 75.9,
+            "slope": 136
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7c111a30-86ac-11e4-8c28-020000005b00/the-royal-dublin-golf-club"
+  }
+}

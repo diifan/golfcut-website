@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99348390-86ac-11e4-8c28-020000005b00/queensbury-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99348390-86ac-11e4-8c28-020000005b00/queensbury-country-club",
+  "checked_at": 1795524700.3440757,
+  "sha256": "098ba7afa36276cef33ba5f213e241172bb558b17d4bc7b918ecf6daf8500634",
+  "title": "Queensbury Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99348390-86ac-11e4-8c28-020000005b00",
+    "name": "Queensbury Country Club",
+    "address": "907 St Route 149, Lake George, NY",
+    "courses": [
+      {
+        "name": "Queensbury",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6067,
+            "par": 70,
+            "rating": 66.3,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5536,
+            "par": 70,
+            "rating": 64.2,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4755,
+            "par": 70,
+            "rating": 61,
+            "slope": 99
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99348390-86ac-11e4-8c28-020000005b00/queensbury-country-club"
+  }
+}

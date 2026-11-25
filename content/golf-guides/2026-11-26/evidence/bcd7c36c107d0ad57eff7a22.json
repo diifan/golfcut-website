@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96abdce0-86ac-11e4-8c28-020000005b00/dacotah-ridge-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96abdce0-86ac-11e4-8c28-020000005b00/dacotah-ridge-golf-club",
+  "checked_at": 1795524371.820536,
+  "sha256": "27550d90b2a6060652ca0581ada199bde4cab822b370240ad856020af5782849",
+  "title": "Dacotah Ridge Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96abdce0-86ac-11e4-8c28-020000005b00",
+    "name": "Dacotah Ridge Golf Club",
+    "address": "31042 County Hwy 2",
+    "courses": [
+      {
+        "name": "Dacotah Ridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 7109,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 145
+          },
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6642,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 142
+          },
+          {
+            "name": "Regular",
+            "category": "MALE",
+            "yards": 6217,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 138
+          },
+          {
+            "name": "Intermediate",
+            "category": "MALE",
+            "yards": 5668,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 133
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5055,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96abdce0-86ac-11e4-8c28-020000005b00/dacotah-ridge-golf-club"
+  }
+}

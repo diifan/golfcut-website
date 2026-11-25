@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b337e840-86ac-11e4-8c28-020000005b00/westwind-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b337e840-86ac-11e4-8c28-020000005b00/westwind-golf-course",
+  "checked_at": 1795525029.8415897,
+  "sha256": "1f0da113dfea3d578086cf85038199cc5acdc4b922ed9c82d002f8f9e41694bd",
+  "title": "Westwind Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b337e840-86ac-11e4-8c28-020000005b00",
+    "name": "Westwind Golf Course",
+    "address": "2540 E Hile Rd, Muskegon, MI",
+    "courses": [
+      {
+        "name": "Westwind",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6100,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6100,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 131
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b337e840-86ac-11e4-8c28-020000005b00/westwind-golf-course"
+  }
+}

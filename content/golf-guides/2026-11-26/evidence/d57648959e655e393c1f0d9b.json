@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d3d4fe0-86ac-11e4-8c28-020000005b00/champions-pointe",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d3d4fe0-86ac-11e4-8c28-020000005b00/champions-pointe",
+  "checked_at": 1795524667.468004,
+  "sha256": "36b07df0e6c37c5065941c2a0338b2c845a651edb121ff9c34e0c407daa7413d",
+  "title": "Champions Pointe - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d3d4fe0-86ac-11e4-8c28-020000005b00",
+    "name": "Champions Pointe",
+    "address": "1820 Champions Club Lane, Henryville, IN",
+    "courses": [
+      {
+        "name": "Champions Pointe",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Fuzzy",
+            "category": "MALE",
+            "yards": 7174,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 135
+          },
+          {
+            "name": "Fuzzy",
+            "category": "FEMALE",
+            "yards": 7174,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6484,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6484,
+            "par": 72,
+            "rating": 76.4,
+            "slope": 135
+          },
+          {
+            "name": "Grey",
+            "category": "MALE",
+            "yards": 5931,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 123
+          },
+          {
+            "name": "Grey",
+            "category": "FEMALE",
+            "yards": 5931,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5184,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5184,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d3d4fe0-86ac-11e4-8c28-020000005b00/champions-pointe"
+  }
+}

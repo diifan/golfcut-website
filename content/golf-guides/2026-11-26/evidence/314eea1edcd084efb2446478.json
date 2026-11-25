@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96f960a0-86ac-11e4-8c28-020000005b00/gem-lake-hills-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96f960a0-86ac-11e4-8c28-020000005b00/gem-lake-hills-golf-course",
+  "checked_at": 1795524968.8921463,
+  "sha256": "a83578a7af174e175c482947af76ba38bd1ee1de4af5c63da2786400abf5a307",
+  "title": "Gem Lake Hills Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96f960a0-86ac-11e4-8c28-020000005b00",
+    "name": "Gem Lake Hills Golf Course",
+    "address": "4039 Scheuneman Rd., White Bear Lake",
+    "courses": [
+      {
+        "name": "Gem Lake Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3366,
+            "par": 57,
+            "rating": 60.2,
+            "slope": 102
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2911,
+            "par": 57,
+            "rating": 55.63454,
+            "slope": 83.07179
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96f960a0-86ac-11e4-8c28-020000005b00/gem-lake-hills-golf-course"
+  }
+}

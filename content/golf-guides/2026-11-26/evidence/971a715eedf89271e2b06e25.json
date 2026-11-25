@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92707d20-86ac-11e4-8c28-020000005b00/salida-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92707d20-86ac-11e4-8c28-020000005b00/salida-golf-club",
+  "checked_at": 1795583773.6521158,
+  "sha256": "0d076b93a2bd6f77b3490fc84d940b3a551ab53a9dc2c9756904d0b1c82f51ef",
+  "title": "Salida Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92707d20-86ac-11e4-8c28-020000005b00",
+    "name": "Salida Golf Club",
+    "address": "404 Grant St",
+    "courses": [
+      {
+        "name": "Salida",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 6360,
+            "par": 70,
+            "rating": 68.5,
+            "slope": 125
+          },
+          {
+            "name": "Yellow/White",
+            "category": "MALE",
+            "yards": 5594,
+            "par": 70,
+            "rating": 65.4,
+            "slope": 108
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "MALE",
+            "yards": 4921,
+            "par": 70,
+            "rating": 62.4,
+            "slope": 96
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92707d20-86ac-11e4-8c28-020000005b00/salida-golf-club"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/999da5a0-86ac-11e4-8c28-020000005b00/blind-brook",
+  "resolved_url": "https://18birdies.com/golf-courses/club/999da5a0-86ac-11e4-8c28-020000005b00/blind-brook",
+  "checked_at": 1795524691.6072917,
+  "sha256": "f0a3120b0a6f26333f44a8213e3206928bd867286206038a88e2ac22575c7c80",
+  "title": "Blind Brook - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "999da5a0-86ac-11e4-8c28-020000005b00",
+    "name": "Blind Brook",
+    "address": "Anderson Hill Rd",
+    "courses": [
+      {
+        "name": "Blind Brook",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6411,
+            "par": 71,
+            "rating": 70.9,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6245,
+            "par": 71,
+            "rating": 70,
+            "slope": 122
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5584,
+            "par": 71,
+            "rating": 67.2,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/999da5a0-86ac-11e4-8c28-020000005b00/blind-brook"
+  }
+}

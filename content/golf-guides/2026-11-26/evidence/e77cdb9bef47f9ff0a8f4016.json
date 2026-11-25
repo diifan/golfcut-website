@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b31da30-86ac-11e4-8c28-020000005b00/land-o-lakes-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b31da30-86ac-11e4-8c28-020000005b00/land-o-lakes-golf-course",
+  "checked_at": 1795582883.5642369,
+  "sha256": "516fb1a3bdbdaae2fe7b09d8428af189f188f3455350c9a2d4863a4b2bf41630",
+  "title": "Land-O-Lakes Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9b31da30-86ac-11e4-8c28-020000005b00",
+    "name": "Land-O-Lakes Golf Course",
+    "address": "2950 Bill Hooks Rd, Whiteville, NC",
+    "courses": [
+      {
+        "name": "Land-O-Lakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5813,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5813,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5383,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5383,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4907,
+            "par": 72,
+            "rating": 64.1,
+            "slope": 106
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4907,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4105,
+            "par": 72,
+            "rating": 61,
+            "slope": 92
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4105,
+            "par": 72,
+            "rating": 63.6,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b31da30-86ac-11e4-8c28-020000005b00/land-o-lakes-golf-course"
+  }
+}

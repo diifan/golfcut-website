@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5b89fb0-86ac-11e4-8c28-020000005b00/bristol-oaks-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5b89fb0-86ac-11e4-8c28-020000005b00/bristol-oaks-country-club",
+  "checked_at": 1795525010.2003098,
+  "sha256": "0af24f1eaad5691a135ccfcfdbc5dba0bd5511d4299589f95926b3c262e21940",
+  "title": "Bristol Oaks Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b5b89fb0-86ac-11e4-8c28-020000005b00",
+    "name": "Bristol Oaks Country Club",
+    "address": "16801 75th St, Bristol, WI",
+    "courses": [
+      {
+        "name": "Bristol Oaks",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6431,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6431,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6102,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6102,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5836,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5836,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5126,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5126,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5b89fb0-86ac-11e4-8c28-020000005b00/bristol-oaks-country-club"
+  }
+}

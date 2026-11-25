@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b501f9e0-86ac-11e4-8c28-020000005b00/tokatee-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b501f9e0-86ac-11e4-8c28-020000005b00/tokatee-golf-club",
+  "checked_at": 1795524391.930874,
+  "sha256": "135df58e900321a2e0eff33a7eaee72ebeb59957c2dafcd8c7fb7efd15dee493",
+  "title": "Tokatee Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b501f9e0-86ac-11e4-8c28-020000005b00",
+    "name": "Tokatee Golf Club",
+    "address": "54947 McKenzie Hwy",
+    "courses": [
+      {
+        "name": "Tokatee",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6806,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6245,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5922,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 116
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5018,
+            "par": 72,
+            "rating": 64.1,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b501f9e0-86ac-11e4-8c28-020000005b00/tokatee-golf-club"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8b485db0-86ac-11e4-8c28-020000005b00/butterfield-trail",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8b485db0-86ac-11e4-8c28-020000005b00/butterfield-trail",
+  "checked_at": 1795524248.2595844,
+  "sha256": "893ffb3aec4b20f197a49ec9c51d6d303553d933b3b07671a1d0563071988bc7",
+  "title": "Butterfield Trail - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8b485db0-86ac-11e4-8c28-020000005b00",
+    "name": "Butterfield Trail",
+    "address": "1858 Cottonwoods, El Paso, TX",
+    "courses": [
+      {
+        "name": "Butterfield Trail",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Iron",
+            "category": "MALE",
+            "yards": 7307,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6865,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 134
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 6480,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 129
+          },
+          {
+            "name": "Copper",
+            "category": "MALE",
+            "yards": 6008,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 121
+          },
+          {
+            "name": "Bronze",
+            "category": "MALE",
+            "yards": 5053,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8b485db0-86ac-11e4-8c28-020000005b00/butterfield-trail"
+  }
+}

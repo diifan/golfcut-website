@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98a5ff30-86ac-11e4-8c28-020000005b00/canandaigua-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98a5ff30-86ac-11e4-8c28-020000005b00/canandaigua-country-club",
+  "checked_at": 1795524439.9261994,
+  "sha256": "e262e4c0c592e769b26e44d05c49f389b231172632c8b81cf084dec59c5eaa88",
+  "title": "Canandaigua Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "98a5ff30-86ac-11e4-8c28-020000005b00",
+    "name": "Canandaigua Country Club",
+    "address": "1 Fallbrook Park, Canandaigua, NY",
+    "courses": [
+      {
+        "name": "Canandaigua",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6237,
+            "par": 71,
+            "rating": 69.5,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6237,
+            "par": 73,
+            "rating": 75.1,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5523,
+            "par": 71,
+            "rating": 67.4,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5523,
+            "par": 73,
+            "rating": 73,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5304,
+            "par": 71,
+            "rating": 65.3,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5304,
+            "par": 73,
+            "rating": 70.9,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98a5ff30-86ac-11e4-8c28-020000005b00/canandaigua-country-club"
+  }
+}

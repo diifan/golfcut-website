@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8dc36fd0-86ac-11e4-8c28-020000005b00/chippendale-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8dc36fd0-86ac-11e4-8c28-020000005b00/chippendale-golf-course",
+  "checked_at": 1795524574.7594583,
+  "sha256": "57da514cdbb1edda40d38e29d63f3038781e19a92a4ec6539a488ca3be75e0c8",
+  "title": "Chippendale Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8dc36fd0-86ac-11e4-8c28-020000005b00",
+    "name": "Chippendale Golf Course",
+    "address": "1047 Golf Course Lane, Kokomo, IN",
+    "courses": [
+      {
+        "name": "Chippendale (Championship 18)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6685,
+            "par": 73,
+            "rating": 71.4,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6685,
+            "par": 73,
+            "rating": 77.5,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6437,
+            "par": 73,
+            "rating": 70,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6437,
+            "par": 73,
+            "rating": 76.1,
+            "slope": 135
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5371,
+            "par": 73,
+            "rating": 65.4,
+            "slope": 108
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5371,
+            "par": 73,
+            "rating": 70.5,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5077,
+            "par": 73,
+            "rating": 63.4,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5077,
+            "par": 73,
+            "rating": 67.2,
+            "slope": 113
+          }
+        ]
+      },
+      {
+        "name": "Chippendale (Vintage 9)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3006,
+            "par": 35,
+            "rating": 36.2,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2901,
+            "par": 35,
+            "rating": 35.7,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2566,
+            "par": 35,
+            "rating": 34.1,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2448,
+            "par": 35,
+            "rating": 33.6,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8dc36fd0-86ac-11e4-8c28-020000005b00/chippendale-golf-course"
+  }
+}

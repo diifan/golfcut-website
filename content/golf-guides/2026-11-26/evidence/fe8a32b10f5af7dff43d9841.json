@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98da2e90-86ac-11e4-8c28-020000005b00/briar-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98da2e90-86ac-11e4-8c28-020000005b00/briar-creek-golf-course",
+  "checked_at": 1795524902.937975,
+  "sha256": "243ad1c284596d23fbc387ae535431e3e6a265333de0188c31b70eb6c07c17a9",
+  "title": "Briar Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "98da2e90-86ac-11e4-8c28-020000005b00",
+    "name": "Briar Creek Golf Course",
+    "address": "2347 Pangburn Rd, Duanesburg, NY",
+    "courses": [
+      {
+        "name": "Briar Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5672,
+            "par": 70,
+            "rating": 67.2,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5672,
+            "par": 70,
+            "rating": 72.1,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5081,
+            "par": 70,
+            "rating": 64.1,
+            "slope": 107
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5081,
+            "par": 70,
+            "rating": 65.1,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5046,
+            "par": 70,
+            "rating": 67.9,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5046,
+            "par": 70,
+            "rating": 63.8,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98da2e90-86ac-11e4-8c28-020000005b00/briar-creek-golf-course"
+  }
+}

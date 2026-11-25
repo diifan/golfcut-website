@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ad0ce70-86ac-11e4-8c28-020000005b00/scothurst-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ad0ce70-86ac-11e4-8c28-020000005b00/scothurst-golf-course",
+  "checked_at": 1795524254.0163565,
+  "sha256": "2e0ee5d03b1a81e2e3bf19070c04fb1df50d74e696936753e0704d83cd0f11a7",
+  "title": "Scothurst Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9ad0ce70-86ac-11e4-8c28-020000005b00",
+    "name": "Scothurst Golf Course",
+    "address": "142 Scothurst Dr, Lumber Bridge, NC 28357",
+    "courses": [
+      {
+        "name": "Scothurst",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7001,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6319,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5682,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5150,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ad0ce70-86ac-11e4-8c28-020000005b00/scothurst-golf-course"
+  }
+}

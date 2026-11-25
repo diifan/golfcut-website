@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0de67e0-86ac-11e4-8c28-020000005b00/pine-acres",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0de67e0-86ac-11e4-8c28-020000005b00/pine-acres",
+  "checked_at": 1795582846.6546102,
+  "sha256": "3b2765bfbbab2ffc8e25fd680f43b124753ca69b44b7eb7084aac7d8079ff612",
+  "title": "Pine Acres - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b0de67e0-86ac-11e4-8c28-020000005b00",
+    "name": "Pine Acres",
+    "address": "11912 N Division St",
+    "courses": [
+      {
+        "name": "Pine Acres 1-9",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Mens",
+            "category": "MALE",
+            "yards": 760,
+            "par": 27,
+            "rating": 27.3,
+            "slope": 87
+          },
+          {
+            "name": "Mens",
+            "category": "FEMALE",
+            "yards": 760,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 760,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ladies",
+            "category": "FEMALE",
+            "yards": 760,
+            "par": 27,
+            "rating": 28.5,
+            "slope": 89
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0de67e0-86ac-11e4-8c28-020000005b00/pine-acres"
+  }
+}

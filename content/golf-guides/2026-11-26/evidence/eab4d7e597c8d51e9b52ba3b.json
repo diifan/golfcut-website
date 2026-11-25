@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/d3bf46a0-474e-11e9-b442-0680a328ea36/inland-greens-park-par-3-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/d3bf46a0-474e-11e9-b442-0680a328ea36/inland-greens-park-par-3-golf-course",
+  "checked_at": 1795582919.3827343,
+  "sha256": "2f3c224c85a1a0abe080bf33e70ae33f071a7cf700b845922f8c52cc5fcb625e",
+  "title": "Inland Greens Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "d3bf46a0-474e-11e9-b442-0680a328ea36",
+    "name": "Inland Greens Golf Course",
+    "address": "5945 Inland Greens Dr,",
+    "courses": [
+      {
+        "name": "9 Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 952,
+            "par": 27,
+            "rating": 26.2,
+            "slope": 87
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 952,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 648,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 648,
+            "par": 27,
+            "rating": 27,
+            "slope": 89
+          }
+        ]
+      },
+      {
+        "name": "18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1904,
+            "par": 54,
+            "rating": 52.4,
+            "slope": 87
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1904,
+            "par": 54,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1296,
+            "par": 54,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1296,
+            "par": 54,
+            "rating": 54,
+            "slope": 89
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/d3bf46a0-474e-11e9-b442-0680a328ea36/inland-greens-park-par-3-golf-course"
+  }
+}

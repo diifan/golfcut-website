@@ -1,0 +1,59 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae4c7260-86ac-11e4-8c28-020000005b00/tupelo-bay-golf-center",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae4c7260-86ac-11e4-8c28-020000005b00/tupelo-bay-golf-center",
+  "checked_at": 1795524418.1553936,
+  "sha256": "2a900f7a00035c5e87c9681c7789541f8e0f81e3ddcfd9014a19bed736852b65",
+  "title": "Tupelo Bay Golf Center - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "ae4c7260-86ac-11e4-8c28-020000005b00",
+    "name": "Tupelo Bay Golf Center",
+    "address": "1800 Hwy 17 N, Murrells Inlet, SC",
+    "courses": [
+      {
+        "name": "Tupelo Bay(Executive )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3179,
+            "par": 58,
+            "rating": 58,
+            "slope": 80
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2929,
+            "par": 58,
+            "rating": 55.70906,
+            "slope": 83.15981
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2498,
+            "par": 58,
+            "rating": 53.92472,
+            "slope": 81.05222
+          }
+        ]
+      },
+      {
+        "name": "Tupelo Bay(Par 3 )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 785,
+            "par": 27,
+            "rating": 25.3889,
+            "slope": 74.4272
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae4c7260-86ac-11e4-8c28-020000005b00/tupelo-bay-golf-center"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b452f530-86ac-11e4-8c28-020000005b00/hidden-acres-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b452f530-86ac-11e4-8c28-020000005b00/hidden-acres-golf-course",
+  "checked_at": 1795524705.749276,
+  "sha256": "0fd34fc14b89caa9b41a2d3951f78934d1a80ef687b851ecdb99c6385ea260df",
+  "title": "Hidden Acres Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b452f530-86ac-11e4-8c28-020000005b00",
+    "name": "Hidden Acres Golf Course",
+    "address": "5536 West Lilac Rd, Beatrice, NE",
+    "courses": [
+      {
+        "name": "Hidden Acres",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6195,
+            "par": 71,
+            "rating": 70,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5978,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5193,
+            "par": 71,
+            "rating": 66.3,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4787,
+            "par": 71,
+            "rating": 66.7,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b452f530-86ac-11e4-8c28-020000005b00/hidden-acres-golf-course"
+  }
+}

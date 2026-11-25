@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b33d3f70-86ac-11e4-8c28-020000005b00/oak-ridge-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b33d3f70-86ac-11e4-8c28-020000005b00/oak-ridge-golf-club",
+  "checked_at": 1795524376.3254454,
+  "sha256": "460d95b02078d62400241a80ab6de982adb094ac63576422f809c75c9a00413e",
+  "title": "Oak Ridge Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b33d3f70-86ac-11e4-8c28-020000005b00",
+    "name": "Oak Ridge Golf Club",
+    "address": "35035 26 Mile Rd, New Haven, MI",
+    "courses": [
+      {
+        "name": "Marsh Oaks Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6362,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5845,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4916,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 107
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6705,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 133
+          }
+        ]
+      },
+      {
+        "name": "Old Oaks Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6580,
+            "par": 71,
+            "rating": 71.1,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6179,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4897,
+            "par": 71,
+            "rating": 66.4,
+            "slope": 107
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5450,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b33d3f70-86ac-11e4-8c28-020000005b00/oak-ridge-golf-club"
+  }
+}

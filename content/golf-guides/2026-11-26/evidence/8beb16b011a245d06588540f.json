@@ -1,0 +1,99 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b37e8e30-86ac-11e4-8c28-020000005b00/hankerd-hills-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b37e8e30-86ac-11e4-8c28-020000005b00/hankerd-hills-golf-course",
+  "checked_at": 1795524965.1915824,
+  "sha256": "98a6ad07fc07a62070bc21d4117208e3c7b97164a8e35d7ba3313f689584bc48",
+  "title": "Hankerd Hills Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b37e8e30-86ac-11e4-8c28-020000005b00",
+    "name": "Hankerd Hills Golf Course",
+    "address": "10251 Resort Rd, Pleasant Lake, MI",
+    "courses": [
+      {
+        "name": "Hankerd Hills (Front/Back)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6426,
+            "par": 72,
+            "rating": 71,
+            "slope": 126
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6426,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 135
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5835,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 121
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5835,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 128
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4516,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 112
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 4516,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 109
+          }
+        ]
+      },
+      {
+        "name": "Original (9 holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 2864,
+            "par": 36,
+            "rating": 34,
+            "slope": 119
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 2718,
+            "par": 36,
+            "rating": 33.4,
+            "slope": 112
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 2194,
+            "par": 36,
+            "rating": 32.4,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b37e8e30-86ac-11e4-8c28-020000005b00/hankerd-hills-golf-course"
+  }
+}

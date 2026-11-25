@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9bb254d0-86ac-11e4-8c28-020000005b00/meadow-links-golf-academy",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9bb254d0-86ac-11e4-8c28-020000005b00/meadow-links-golf-academy",
+  "checked_at": 1795524186.5583375,
+  "sha256": "270a1baaf033cb343b6d6838bb62c396b0f41bc3006d4aded6523b4d729c8c80",
+  "title": "Meadow Links & Golf Academy - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9bb254d0-86ac-11e4-8c28-020000005b00",
+    "name": "Meadow Links & Golf Academy",
+    "address": "10999 Mill Rd.",
+    "courses": [
+      {
+        "name": "Meadow Links(9 holes )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 2110,
+            "par": 31,
+            "rating": 30.6,
+            "slope": 109
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 1781,
+            "par": 31,
+            "rating": 29.4,
+            "slope": 99
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 1285,
+            "par": 31,
+            "rating": 27.6,
+            "slope": 83
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9bb254d0-86ac-11e4-8c28-020000005b00/meadow-links-golf-academy"
+  }
+}

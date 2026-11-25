@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9926ef00-86ac-11e4-8c28-020000005b00/butternut-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9926ef00-86ac-11e4-8c28-020000005b00/butternut-creek-golf-course",
+  "checked_at": 1795524648.075039,
+  "sha256": "9303ec456b18071f5126666cef1ed3100a15a0825f691fcc40b9f2a45eecab53",
+  "title": "Butternut Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9926ef00-86ac-11e4-8c28-020000005b00",
+    "name": "Butternut Creek Golf Course",
+    "address": "5050 Jamesville Rd, Jamesville, NY",
+    "courses": [
+      {
+        "name": "Butternut Creek",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 3376,
+            "par": 27,
+            "rating": 37.9,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 3376,
+            "par": 27,
+            "rating": 38.9,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3117,
+            "par": 27,
+            "rating": 36.7,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3117,
+            "par": 27,
+            "rating": 37.5,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2861,
+            "par": 27,
+            "rating": 35.5,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2861,
+            "par": 27,
+            "rating": 36.2,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2645,
+            "par": 27,
+            "rating": 34.5,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2645,
+            "par": 27,
+            "rating": 35,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9926ef00-86ac-11e4-8c28-020000005b00/butternut-creek-golf-course"
+  }
+}

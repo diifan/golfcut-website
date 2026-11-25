@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9919a890-86ac-11e4-8c28-020000005b00/cantiague-park",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9919a890-86ac-11e4-8c28-020000005b00/cantiague-park",
+  "checked_at": 1795524555.3245926,
+  "sha256": "bb261caaa933218cd38cb2f57f5502400fbc17eab7d5c08ff64037476f515a04",
+  "title": "Cantiague Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9919a890-86ac-11e4-8c28-020000005b00",
+    "name": "Cantiague Park Golf Course",
+    "address": "480 West John Street Hicksville, NY",
+    "courses": [
+      {
+        "name": "Cantiague Park",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2053.79958,
+            "par": 30,
+            "rating": 29.3,
+            "slope": 86
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2053.79958,
+            "par": 30,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1788.0523500000002,
+            "par": 30,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1788.0523500000002,
+            "par": 30,
+            "rating": 29.2,
+            "slope": 85
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9919a890-86ac-11e4-8c28-020000005b00/cantiague-park"
+  }
+}

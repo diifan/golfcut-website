@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8b323da0-86ac-11e4-8c28-020000005b00/longwood-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8b323da0-86ac-11e4-8c28-020000005b00/longwood-golf-club",
+  "checked_at": 1795583812.8102765,
+  "sha256": "0f867d0fb29c95187b830a643e6c0e477eaa9a755bd4eaa7e7c1472418f1409c",
+  "title": "Longwood Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8b323da0-86ac-11e4-8c28-020000005b00",
+    "name": "Longwood Golf Club",
+    "address": "13300 Longwood Trace Dr, Cypress, TX",
+    "courses": [
+      {
+        "name": "Longwood Golf Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7093,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 138
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 7093,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Back\t",
+            "category": "MALE",
+            "yards": 6547,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 129
+          },
+          {
+            "name": "Back\t",
+            "category": "FEMALE",
+            "yards": 6547,
+            "par": 72,
+            "rating": 76.7,
+            "slope": 136
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5981,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 124
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5981,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 129
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5306,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 118
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5306,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8b323da0-86ac-11e4-8c28-020000005b00/longwood-golf-club"
+  }
+}

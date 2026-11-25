@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8881eab0-86ac-11e4-8c28-020000005b00/chalet-hills-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8881eab0-86ac-11e4-8c28-020000005b00/chalet-hills-golf-club",
+  "checked_at": 1795524590.6467514,
+  "sha256": "faef48d5e30f1f0eeff0b826b44140744119ef0a5636384558e8e97a4445f3d7",
+  "title": "Chalet Hills Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8881eab0-86ac-11e4-8c28-020000005b00",
+    "name": "Chalet Hills Golf Club",
+    "address": "943 Rawson Bridge Rd, Cary, IL",
+    "courses": [
+      {
+        "name": "Chalet Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6877,
+            "par": 73,
+            "rating": 74,
+            "slope": 142
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6594,
+            "par": 73,
+            "rating": 72.7,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5983,
+            "par": 73,
+            "rating": 70,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4934,
+            "par": 73,
+            "rating": 67.4,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8881eab0-86ac-11e4-8c28-020000005b00/chalet-hills-golf-club"
+  }
+}

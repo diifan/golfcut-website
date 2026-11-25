@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae075310-86ac-11e4-8c28-020000005b00/darlington-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae075310-86ac-11e4-8c28-020000005b00/darlington-country-club",
+  "checked_at": 1795524453.1944506,
+  "sha256": "c5aea5c2f36b80c7f8abf072a1fdebe963cab02149b6150c3cf68b461b9bcacf",
+  "title": "Darlington Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae075310-86ac-11e4-8c28-020000005b00",
+    "name": "Darlington Country Club",
+    "address": "125 Country Club Rd, Darlington, SC",
+    "courses": [
+      {
+        "name": "Darlington",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6342,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6342,
+            "par": 72,
+            "rating": 75.6,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5668,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5668,
+            "par": 72,
+            "rating": 72,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5299,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5299,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5186,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5186,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae075310-86ac-11e4-8c28-020000005b00/darlington-country-club"
+  }
+}

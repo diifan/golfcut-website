@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae77ef30-86ac-11e4-8c28-020000005b00/saluda-valley-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae77ef30-86ac-11e4-8c28-020000005b00/saluda-valley-country-club",
+  "checked_at": 1795524208.4753318,
+  "sha256": "426af1c20f5a9bb17fabd1b55dbf30f59e7805e0ba787d72a15721c440321c5b",
+  "title": "Saluda Valley Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae77ef30-86ac-11e4-8c28-020000005b00",
+    "name": "Saluda Valley Country Club",
+    "address": "598 Beaver Dam Rd.",
+    "courses": [
+      {
+        "name": "Saluda Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6484,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 119
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5828,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 112
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5126,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae77ef30-86ac-11e4-8c28-020000005b00/saluda-valley-country-club"
+  }
+}

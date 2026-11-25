@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ca73c20-86ac-11e4-8c28-020000005b00/mayfair",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ca73c20-86ac-11e4-8c28-020000005b00/mayfair",
+  "checked_at": 1795524990.4271371,
+  "sha256": "d21d523562a4643086ef203cc15d7b8ae3f8865eb45a634e7bb3bbfb78d329ff",
+  "title": "Mayfair Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9ca73c20-86ac-11e4-8c28-020000005b00",
+    "name": "Mayfair Country Club",
+    "address": "2229 Raber Rd, Uniontown, OH",
+    "courses": [
+      {
+        "name": "Mayfair",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6240,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 133
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6240,
+            "par": 72,
+            "rating": 76.4,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5929,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5929,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 132
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5598,
+            "par": 71,
+            "rating": 67.2,
+            "slope": 124
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5598,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4720,
+            "par": 71,
+            "rating": 63.4,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4720,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ca73c20-86ac-11e4-8c28-020000005b00/mayfair"
+  }
+}

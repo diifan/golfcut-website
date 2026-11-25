@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a2b8dc0-86ac-11e4-8c28-020000005b00/shinnecock-hills-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a2b8dc0-86ac-11e4-8c28-020000005b00/shinnecock-hills-golf-club",
+  "checked_at": 1795582842.5328507,
+  "sha256": "74bf9e9ee19d1c866eabed0049f2752c7113a4a3fcd7ecba108c693f56664877",
+  "title": "Shinnecock Hills Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "9a2b8dc0-86ac-11e4-8c28-020000005b00",
+    "name": "Shinnecock Hills Golf Club",
+    "address": "200 Tuckahoe Road, Southampton, NY",
+    "courses": [
+      {
+        "name": "Shinnecock Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 6940,
+            "par": 70,
+            "rating": 74.7,
+            "slope": 145
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 6940,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6430,
+            "par": 70,
+            "rating": 72.5,
+            "slope": 140
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 6430,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6141,
+            "par": 70,
+            "rating": 70.8,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6141,
+            "par": 70,
+            "rating": 76.9,
+            "slope": 145
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5396,
+            "par": 70,
+            "rating": 67.4,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5396,
+            "par": 70,
+            "rating": 72.8,
+            "slope": 135
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a2b8dc0-86ac-11e4-8c28-020000005b00/shinnecock-hills-golf-club"
+  }
+}

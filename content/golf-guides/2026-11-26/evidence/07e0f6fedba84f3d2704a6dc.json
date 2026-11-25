@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2836550-86ac-11e4-8c28-020000005b00/flint-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2836550-86ac-11e4-8c28-020000005b00/flint-golf-club",
+  "checked_at": 1795524574.9986506,
+  "sha256": "66e9a06c3fa1d04f62459ae8023b70aca4e1be9e12092c3dba120cda9012f8df",
+  "title": "Flint Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b2836550-86ac-11e4-8c28-020000005b00",
+    "name": "Flint Golf Club",
+    "address": "3100 Lakewood Dr",
+    "courses": [
+      {
+        "name": "Flint",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6671,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 129
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6671,
+            "par": 75,
+            "rating": 77.4,
+            "slope": 137
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6433,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 126
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6433,
+            "par": 75,
+            "rating": 76.1,
+            "slope": 135
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5935,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 116
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5935,
+            "par": 75,
+            "rating": 73.5,
+            "slope": 129
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 5922,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 123
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 5922,
+            "par": 75,
+            "rating": 74,
+            "slope": 130
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2836550-86ac-11e4-8c28-020000005b00/flint-golf-club"
+  }
+}

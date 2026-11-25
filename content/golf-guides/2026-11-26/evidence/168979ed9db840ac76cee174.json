@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8ed3dd0-86ac-11e4-8c28-020000005b00/hokulia",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8ed3dd0-86ac-11e4-8c28-020000005b00/hokulia",
+  "checked_at": 1795582947.4105866,
+  "sha256": "37f473779fb130005691e2e867b689e10956ac10ebd9e065fe747849b81e7d76",
+  "title": "Hokulia - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b8ed3dd0-86ac-11e4-8c28-020000005b00",
+    "name": "Hokulia",
+    "address": "78-6831 Alii Dr Ste K15, Kailua Kona, HI",
+    "courses": [
+      {
+        "name": "Hokulia",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7335,
+            "par": 72,
+            "rating": 76.5,
+            "slope": 143
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7083,
+            "par": 72,
+            "rating": 75.6,
+            "slope": 141
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6701,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6284,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 136
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5314,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8ed3dd0-86ac-11e4-8c28-020000005b00/hokulia"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/c04b3a50-86ac-11e4-8c28-020000005b00/royal-lytham-and-st-annes-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/c04b3a50-86ac-11e4-8c28-020000005b00/royal-lytham-and-st-annes-golf-club",
+  "checked_at": 1795524618.5707417,
+  "sha256": "e0ad73b41a1c63e685a5bd0191910e2c9795804cfaf5be7e5273a8d68f488a27",
+  "title": "Royal Lytham and St Annes Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "c04b3a50-86ac-11e4-8c28-020000005b00",
+    "name": "Royal Lytham and St Annes Golf Club",
+    "address": "Links Gate, Lytham St. Annes",
+    "courses": [
+      {
+        "name": "18 Hole Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7094,
+            "par": 70,
+            "rating": 76.5,
+            "slope": 152
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7094,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 6643,
+            "par": 70,
+            "rating": 74.3,
+            "slope": 147
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 6643,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6346,
+            "par": 70,
+            "rating": 72.5,
+            "slope": 139
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 6346,
+            "par": 71,
+            "rating": 79.2,
+            "slope": 153
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 5855,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 5855,
+            "par": 71,
+            "rating": 76.4,
+            "slope": 148
+          }
+        ]
+      },
+      {
+        "name": "9 Hole Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 2000,
+            "par": 31,
+            "rating": 31.6,
+            "slope": 100
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 2000,
+            "par": 31,
+            "rating": 31.6,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/c04b3a50-86ac-11e4-8c28-020000005b00/royal-lytham-and-st-annes-golf-club"
+  }
+}

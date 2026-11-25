@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/962017a0-86ac-11e4-8c28-020000005b00/centerbrook-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/962017a0-86ac-11e4-8c28-020000005b00/centerbrook-golf-course",
+  "checked_at": 1795524533.448466,
+  "sha256": "087af783ba97f2e383360384030f471ea5aa9b7e3d3512f87f233febd82ee5cb",
+  "title": "Centerbrook Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "962017a0-86ac-11e4-8c28-020000005b00",
+    "name": "Centerbrook Golf Course",
+    "address": "5500 N Lilac Dr Brooklyn Center, MN",
+    "courses": [
+      {
+        "name": "Centerbrook Golf Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1550,
+            "par": 27,
+            "rating": 28.5,
+            "slope": 86
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1389,
+            "par": 27,
+            "rating": 26.4,
+            "slope": 79
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1299,
+            "par": 27,
+            "rating": 25.5,
+            "slope": 74
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/962017a0-86ac-11e4-8c28-020000005b00/centerbrook-golf-course"
+  }
+}

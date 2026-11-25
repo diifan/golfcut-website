@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8924e170-86ac-11e4-8c28-020000005b00/gilroy-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8924e170-86ac-11e4-8c28-020000005b00/gilroy-golf-course",
+  "checked_at": 1795524660.9611855,
+  "sha256": "bc7172be0ee0f71017701010b955492f611ec3dc5c764a158235afba189c77c0",
+  "title": "Gilroy Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8924e170-86ac-11e4-8c28-020000005b00",
+    "name": "Gilroy Golf Course",
+    "address": "2695 Hecker Pass Rd, Gilroy, CA",
+    "courses": [
+      {
+        "name": "Gilroy Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White / Black",
+            "category": "MALE",
+            "yards": 5824,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 114
+          },
+          {
+            "name": "White / Black",
+            "category": "FEMALE",
+            "yards": 5824,
+            "par": 71,
+            "rating": 73.3,
+            "slope": 119
+          },
+          {
+            "name": "Green / Yellow",
+            "category": "MALE",
+            "yards": 5023,
+            "par": 71,
+            "rating": 64.1,
+            "slope": 102
+          },
+          {
+            "name": "Green / Yellow",
+            "category": "FEMALE",
+            "yards": 5023,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8924e170-86ac-11e4-8c28-020000005b00/gilroy-golf-course"
+  }
+}

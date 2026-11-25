@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ae1aca0-86ac-11e4-8c28-020000005b00/andrews-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ae1aca0-86ac-11e4-8c28-020000005b00/andrews-country-club",
+  "checked_at": 1795582933.1277397,
+  "sha256": "07705eddebecc23784631c99033dd96aba876f529dc8fc29034966fde71def0b",
+  "title": "Andrews Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8ae1aca0-86ac-11e4-8c28-020000005b00",
+    "name": "Andrews Country Club",
+    "address": "920 Golf Course Rd, Andrews, TX",
+    "courses": [
+      {
+        "name": "Andrews",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6308,
+            "par": 70,
+            "rating": 70.2,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6308,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5792,
+            "par": 70,
+            "rating": 65.1,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5792,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5186,
+            "par": 70,
+            "rating": 68.3,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5186,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 132
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ae1aca0-86ac-11e4-8c28-020000005b00/andrews-country-club"
+  }
+}

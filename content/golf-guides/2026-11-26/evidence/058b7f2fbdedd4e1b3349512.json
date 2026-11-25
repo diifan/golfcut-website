@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/951dc2d0-86ac-11e4-8c28-020000005b00/richland-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/951dc2d0-86ac-11e4-8c28-020000005b00/richland-golf-club",
+  "checked_at": 1795524502.4579022,
+  "sha256": "5586d03cdd95bdf4460cd5cad055e3b5ac878a0e20f84eb61059541d6eb2138b",
+  "title": "Richland Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "951dc2d0-86ac-11e4-8c28-020000005b00",
+    "name": "Richland Golf Club",
+    "address": "50 Glenbrook Drive, Middletown, MD",
+    "courses": [
+      {
+        "name": "Hollow Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6811,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 139
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6811,
+            "par": 72,
+            "rating": 78.1,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6414,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6414,
+            "par": 72,
+            "rating": 76,
+            "slope": 134
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5719,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 123
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5719,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5105,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5105,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/951dc2d0-86ac-11e4-8c28-020000005b00/richland-golf-club"
+  }
+}

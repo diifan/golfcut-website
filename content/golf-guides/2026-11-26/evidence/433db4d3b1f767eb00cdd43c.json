@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99ca8200-86ac-11e4-8c28-020000005b00/mountain-top-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99ca8200-86ac-11e4-8c28-020000005b00/mountain-top-golf-course",
+  "checked_at": 1795524459.095562,
+  "sha256": "a0eeb8ef9367f3ed94fd3502c85e7590c275a5afe6f678dd35558bb5293469ac",
+  "title": "Mountain Top Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99ca8200-86ac-11e4-8c28-020000005b00",
+    "name": "Mountain Top Golf Course",
+    "address": "Route 80, Sherburne, NY",
+    "courses": [
+      {
+        "name": "Mountain Top",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2588,
+            "par": 35,
+            "rating": 34.2,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2138,
+            "par": 35,
+            "rating": 32.2,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99ca8200-86ac-11e4-8c28-020000005b00/mountain-top-golf-course"
+  }
+}

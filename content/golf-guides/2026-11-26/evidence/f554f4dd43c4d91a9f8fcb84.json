@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/971cc720-86ac-11e4-8c28-020000005b00/halla-greens-executive-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/971cc720-86ac-11e4-8c28-020000005b00/halla-greens-executive-golf-course",
+  "checked_at": 1795524462.4303858,
+  "sha256": "f064eb355ef9a25b94454c1610c961aa4565d2bb30a9decfec4dd0a88f9e2a74",
+  "title": "Halla Greens Executive Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "971cc720-86ac-11e4-8c28-020000005b00",
+    "name": "Halla Greens Executive Golf Course",
+    "address": "495 Pioneer Trail",
+    "courses": [
+      {
+        "name": "Halla Greens Executive",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1694,
+            "par": 29,
+            "rating": 29,
+            "slope": 94
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1556,
+            "par": 29,
+            "rating": 28.6,
+            "slope": 91
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 1267,
+            "par": 29,
+            "rating": 27.57718,
+            "slope": 83.25744
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/971cc720-86ac-11e4-8c28-020000005b00/halla-greens-executive-golf-course"
+  }
+}

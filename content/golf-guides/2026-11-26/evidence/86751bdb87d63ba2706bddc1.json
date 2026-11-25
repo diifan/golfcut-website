@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8b56dca0-86ac-11e4-8c28-020000005b00/river-crest-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8b56dca0-86ac-11e4-8c28-020000005b00/river-crest-country-club",
+  "checked_at": 1795524565.5544775,
+  "sha256": "36782e3a721125e2fb49ca376d982ed1e8328157b0128a830a2716c3ffc9d514",
+  "title": "River Crest Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8b56dca0-86ac-11e4-8c28-020000005b00",
+    "name": "River Crest Country Club",
+    "address": "1501 Western Ave, Fort Worth, TX",
+    "courses": [
+      {
+        "name": "River Crest",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6212,
+            "par": 70,
+            "rating": 72.1,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5754,
+            "par": 70,
+            "rating": 70.3,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5602,
+            "par": 70,
+            "rating": 68.1,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8b56dca0-86ac-11e4-8c28-020000005b00/river-crest-country-club"
+  }
+}

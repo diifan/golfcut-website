@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92dd6fc0-86ac-11e4-8c28-020000005b00/east-mountain-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92dd6fc0-86ac-11e4-8c28-020000005b00/east-mountain-golf-course",
+  "checked_at": 1795524412.7751217,
+  "sha256": "7c5961c0187335cdda2e81b6169660fdeb50afee2c6fa709b726459db328aac0",
+  "title": "East Mountain Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "92dd6fc0-86ac-11e4-8c28-020000005b00",
+    "name": "East Mountain Golf Course",
+    "address": "171 E Mountain Rd, Waterbury, CT",
+    "courses": [
+      {
+        "name": "East Mountain",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6076,
+            "par": 70,
+            "rating": 68.7,
+            "slope": 119
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6076,
+            "par": 70,
+            "rating": 74.2,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5817,
+            "par": 70,
+            "rating": 67.2,
+            "slope": 115
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5817,
+            "par": 70,
+            "rating": 73.9,
+            "slope": 128
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5444,
+            "par": 70,
+            "rating": 65.5,
+            "slope": 111
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5444,
+            "par": 70,
+            "rating": 71.9,
+            "slope": 124
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5366,
+            "par": 70,
+            "rating": 69.4,
+            "slope": 119
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5366,
+            "par": 70,
+            "rating": 71.3,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92dd6fc0-86ac-11e4-8c28-020000005b00/east-mountain-golf-course"
+  }
+}

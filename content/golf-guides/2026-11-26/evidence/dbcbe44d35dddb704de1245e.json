@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/968d3150-86ac-11e4-8c28-020000005b00/heritage-links-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/968d3150-86ac-11e4-8c28-020000005b00/heritage-links-golf-course",
+  "checked_at": 1795524691.8821313,
+  "sha256": "372f385536e7e49e76504a367b5b1e2139bb999049176e9c3ab570100ce6ac2b",
+  "title": "Heritage Links Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "968d3150-86ac-11e4-8c28-020000005b00",
+    "name": "Heritage Links Golf Course",
+    "address": "8075 Lucerne Blvd",
+    "courses": [
+      {
+        "name": "Heritage Links",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6672,
+            "par": 71,
+            "rating": 73,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6320,
+            "par": 71,
+            "rating": 71.4,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5929,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5145,
+            "par": 71,
+            "rating": 68.4,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/968d3150-86ac-11e4-8c28-020000005b00/heritage-links-golf-course"
+  }
+}

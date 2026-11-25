@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c5eafb0-86ac-11e4-8c28-020000005b00/canyon-west-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c5eafb0-86ac-11e4-8c28-020000005b00/canyon-west-golf-club",
+  "checked_at": 1795524546.9616637,
+  "sha256": "35eba79f585eedd6940c4fc3cd1c4cc3e1eba1b96cc3ab3400fcc0e740e3e24e",
+  "title": "Canyon West Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8c5eafb0-86ac-11e4-8c28-020000005b00",
+    "name": "Canyon West Golf Club",
+    "address": "160 Club House Drive, Weatherford, TX",
+    "courses": [
+      {
+        "name": "Canyon West",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6653,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 134
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6653,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6236,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6236,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5821,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5821,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5433,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5433,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c5eafb0-86ac-11e4-8c28-020000005b00/canyon-west-golf-club"
+  }
+}

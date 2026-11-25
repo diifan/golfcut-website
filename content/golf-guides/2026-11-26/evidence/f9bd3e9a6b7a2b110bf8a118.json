@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b358b6b0-86ac-11e4-8c28-020000005b00/oxford-hills-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b358b6b0-86ac-11e4-8c28-020000005b00/oxford-hills-golf-club",
+  "checked_at": 1795582865.0160005,
+  "sha256": "c8c1913dde819891c2f0229a7f70fae62cf40ee816fbc1fb160a4f5a1a562d88",
+  "title": "Oxford Hills Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b358b6b0-86ac-11e4-8c28-020000005b00",
+    "name": "Oxford Hills Golf Club",
+    "address": "300 E. Drahner Rd, Oxford, MI",
+    "courses": [
+      {
+        "name": "Oxford Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6522,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6522,
+            "par": 72,
+            "rating": 76.6,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6274,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6274,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5312,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5312,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b358b6b0-86ac-11e4-8c28-020000005b00/oxford-hills-golf-club"
+  }
+}

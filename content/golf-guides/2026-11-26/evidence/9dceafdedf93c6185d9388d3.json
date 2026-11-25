@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8fa50110-86ac-11e4-8c28-020000005b00/killian-greens-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8fa50110-86ac-11e4-8c28-020000005b00/killian-greens-golf-club",
+  "checked_at": 1795524378.439635,
+  "sha256": "3a2ea8dffcca854c4d78132d38a63219967a8ec077dfbcbcbf2bcdb1cf135e22",
+  "title": "Killian Greens Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8fa50110-86ac-11e4-8c28-020000005b00",
+    "name": "Killian Greens Golf Club",
+    "address": "9980 SW 104th St",
+    "courses": [
+      {
+        "name": "Killian Greens",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6294,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6294,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5934,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5934,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5399,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5399,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5179,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5179,
+            "par": 72,
+            "rating": 70,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8fa50110-86ac-11e4-8c28-020000005b00/killian-greens-golf-club"
+  }
+}

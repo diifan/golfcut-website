@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b001ea90-86ac-11e4-8c28-020000005b00/holston-hills-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b001ea90-86ac-11e4-8c28-020000005b00/holston-hills-country-club",
+  "checked_at": 1795582945.127591,
+  "sha256": "561c099859e93c683e23e9b918244d8ffaeb7b4b373919a55f84f188779f2f5a",
+  "title": "Holston Hills Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b001ea90-86ac-11e4-8c28-020000005b00",
+    "name": "Holston Hills Country Club",
+    "address": "1000 Country Club Road, Marion, VA",
+    "courses": [
+      {
+        "name": "Holston Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6630,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6265,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5493,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5078,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b001ea90-86ac-11e4-8c28-020000005b00/holston-hills-country-club"
+  }
+}

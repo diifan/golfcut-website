@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c123d60-86ac-11e4-8c28-020000005b00/live-oak-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c123d60-86ac-11e4-8c28-020000005b00/live-oak-country-club",
+  "checked_at": 1795524747.1899478,
+  "sha256": "e628a03f7b8cd5cd8bcfc05ae5bac966b33875ccd512c9f6893c0f16b64d4594",
+  "title": "Live Oak Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8c123d60-86ac-11e4-8c28-020000005b00",
+    "name": "Live Oak Country Club",
+    "address": "316 Country Club Rd, Rockport, TX",
+    "courses": [
+      {
+        "name": "Live Oak (9 holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5984,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5890,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4944,
+            "par": 72,
+            "rating": 68,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c123d60-86ac-11e4-8c28-020000005b00/live-oak-country-club"
+  }
+}

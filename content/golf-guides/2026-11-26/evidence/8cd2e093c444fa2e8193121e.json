@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/926c5e70-86ac-11e4-8c28-020000005b00/pueblo-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/926c5e70-86ac-11e4-8c28-020000005b00/pueblo-country-club",
+  "checked_at": 1795525012.4898472,
+  "sha256": "5ca7b8eb58f0fa44ce2ad185e6446f8ec4d318f419ea2c567cd3509249dc1334",
+  "title": "Pueblo Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "926c5e70-86ac-11e4-8c28-020000005b00",
+    "name": "Pueblo Country Club",
+    "address": "3200 8th Ave",
+    "courses": [
+      {
+        "name": "Pueblo",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6428,
+            "par": 71,
+            "rating": 69.5,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6094,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5537,
+            "par": 71,
+            "rating": 66.4,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/926c5e70-86ac-11e4-8c28-020000005b00/pueblo-country-club"
+  }
+}

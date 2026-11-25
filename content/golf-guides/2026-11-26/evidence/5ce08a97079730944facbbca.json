@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ca99b60-86ac-11e4-8c28-020000005b00/augusta-pines",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ca99b60-86ac-11e4-8c28-020000005b00/augusta-pines",
+  "checked_at": 1795524523.6125734,
+  "sha256": "e889d652bcc69fd20f8208026a250bbaa003a1b4931c59a97ea734885b973bfe",
+  "title": "Augusta Pines - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8ca99b60-86ac-11e4-8c28-020000005b00",
+    "name": "Augusta Pines",
+    "address": "18 Augusta Pines Dr, Spring, TX",
+    "courses": [
+      {
+        "name": "Augusta Pines",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Professional",
+            "category": "MALE",
+            "yards": 7041,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 132
+          },
+          {
+            "name": "Professional",
+            "category": "FEMALE",
+            "yards": 7041,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Masters",
+            "category": "MALE",
+            "yards": 6446,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 125
+          },
+          {
+            "name": "Masters",
+            "category": "FEMALE",
+            "yards": 6446,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 135
+          },
+          {
+            "name": "Members",
+            "category": "MALE",
+            "yards": 6140,
+            "par": 72,
+            "rating": 70,
+            "slope": 119
+          },
+          {
+            "name": "Members",
+            "category": "FEMALE",
+            "yards": 6140,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 131
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5606,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 115
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5606,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 128
+          },
+          {
+            "name": "First",
+            "category": "MALE",
+            "yards": 5007,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 116
+          },
+          {
+            "name": "First",
+            "category": "FEMALE",
+            "yards": 5007,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ca99b60-86ac-11e4-8c28-020000005b00/augusta-pines"
+  }
+}

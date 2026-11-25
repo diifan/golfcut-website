@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/93f632c0-86ac-11e4-8c28-020000005b00/georgia-national",
+  "resolved_url": "https://18birdies.com/golf-courses/club/93f632c0-86ac-11e4-8c28-020000005b00/georgia-national",
+  "checked_at": 1795524782.929163,
+  "sha256": "a01bf975f107165c6d937a5064ad80a7cbf7656c8647f641bf58834a8573160a",
+  "title": "Georgia National - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "93f632c0-86ac-11e4-8c28-020000005b00",
+    "name": "Georgia National",
+    "address": "1715 Lake Dow Rd, McDonough, GA 30252",
+    "courses": [
+      {
+        "name": "Georgia National",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6907,
+            "par": 71,
+            "rating": 74.6,
+            "slope": 143
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6497,
+            "par": 71,
+            "rating": 71.9,
+            "slope": 138
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6000,
+            "par": 71,
+            "rating": 69.9,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5741,
+            "par": 71,
+            "rating": 69,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5005,
+            "par": 71,
+            "rating": 67.7,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/93f632c0-86ac-11e4-8c28-020000005b00/georgia-national"
+  }
+}

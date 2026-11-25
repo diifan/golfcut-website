@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b7c55fa0-86ac-11e4-8c28-020000005b00/oak-country-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b7c55fa0-86ac-11e4-8c28-020000005b00/oak-country-golf-course",
+  "checked_at": 1795524898.159068,
+  "sha256": "5efaff4a2447f422bca1cdfa74e05d6a8ec4cebab744b876849ad42731cf5ddd",
+  "title": "Oak Country Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b7c55fa0-86ac-11e4-8c28-020000005b00",
+    "name": "Oak Country Golf Course",
+    "address": "8800 Scott Dr, De Soto, KS 66018",
+    "courses": [
+      {
+        "name": "Oak Country",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3937,
+            "par": 66,
+            "rating": 61.4,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3333,
+            "par": 66,
+            "rating": 58.1,
+            "slope": 95
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b7c55fa0-86ac-11e4-8c28-020000005b00/oak-country-golf-course"
+  }
+}

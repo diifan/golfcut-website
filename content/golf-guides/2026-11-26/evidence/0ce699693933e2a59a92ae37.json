@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/934b9ae0-86ac-11e4-8c28-020000005b00/country-club-of-columbus",
+  "resolved_url": "https://18birdies.com/golf-courses/club/934b9ae0-86ac-11e4-8c28-020000005b00/country-club-of-columbus",
+  "checked_at": 1795583785.7049673,
+  "sha256": "03214b11f3714f076ee61f0ecfe84ab8e64ab8d31f5014db0eb77dc41e17a4f0",
+  "title": "Country Club of Columbus - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "934b9ae0-86ac-11e4-8c28-020000005b00",
+    "name": "Country Club of Columbus",
+    "address": "2606 Cherokee Ave, Columbus, GA",
+    "courses": [
+      {
+        "name": "Columbus",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6515,
+            "par": 71,
+            "rating": 71.9,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6099,
+            "par": 71,
+            "rating": 70.6,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5619,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 126
+          },
+          {
+            "name": "Haskins",
+            "category": "MALE",
+            "yards": 5260,
+            "par": 71,
+            "rating": 66.2,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4627,
+            "par": 71,
+            "rating": 63.7,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/934b9ae0-86ac-11e4-8c28-020000005b00/country-club-of-columbus"
+  }
+}

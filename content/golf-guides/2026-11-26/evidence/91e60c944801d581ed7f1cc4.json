@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95bfcf30-86ac-11e4-8c28-020000005b00/hazelton-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95bfcf30-86ac-11e4-8c28-020000005b00/hazelton-golf-course",
+  "checked_at": 1795525018.591139,
+  "sha256": "05dbdeb90e5e79422fafa99be5481decc2e9f49347ff8c4ec7c5e541b68d9c13",
+  "title": "Hazelton Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "95bfcf30-86ac-11e4-8c28-020000005b00",
+    "name": "Hazelton Golf Course",
+    "address": "329 Summer Street, Rehoboth, MA",
+    "courses": [
+      {
+        "name": "Hazelton",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6727,
+            "par": 70,
+            "rating": 72.3,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6727,
+            "par": 68,
+            "rating": 77.7,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6333,
+            "par": 70,
+            "rating": 70.9,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6333,
+            "par": 68,
+            "rating": 75.6,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6052,
+            "par": 70,
+            "rating": 69,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6052,
+            "par": 68,
+            "rating": 74.5,
+            "slope": 124
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5033,
+            "par": 70,
+            "rating": 60.9,
+            "slope": 83
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5033,
+            "par": 68,
+            "rating": 64.9,
+            "slope": 92
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95bfcf30-86ac-11e4-8c28-020000005b00/hazelton-golf-course"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/984800b0-86ac-11e4-8c28-020000005b00/hawk-pointe-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/984800b0-86ac-11e4-8c28-020000005b00/hawk-pointe-golf-club",
+  "checked_at": 1795524626.50707,
+  "sha256": "5090907d2d42b16c033cfc95b954c3ea2c657d796b27202796308b66ef5f84d0",
+  "title": "Hawk Pointe Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "984800b0-86ac-11e4-8c28-020000005b00",
+    "name": "Hawk Pointe Golf Club",
+    "address": "294 Route 31 South, Washington, NJ",
+    "courses": [
+      {
+        "name": "Hawk Pointe",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 7118,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 137
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6716,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6444,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 133
+          },
+          {
+            "name": "Reserve",
+            "category": "MALE",
+            "yards": 5973,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5635,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4789,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/984800b0-86ac-11e4-8c28-020000005b00/hawk-pointe-golf-club"
+  }
+}

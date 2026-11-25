@@ -1,0 +1,121 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7804b9b0-86ac-11e4-8c28-020000005b00/hawk-ridge-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7804b9b0-86ac-11e4-8c28-020000005b00/hawk-ridge-golf-course",
+  "checked_at": 1795524770.1965683,
+  "sha256": "6b4ca7ca817d103693bd7fd605cfb61b480677e999e1029a22030ae5c1bddd61",
+  "title": "Hawk Ridge Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "7804b9b0-86ac-11e4-8c28-020000005b00",
+    "name": "Hawk Ridge Golf Course",
+    "address": "1151 Hurlwood Ln, Orillia",
+    "courses": [
+      {
+        "name": "Hawks Island",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1034,
+            "par": 27,
+            "rating": 26.51936,
+            "slope": 78.98888
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 1300,
+            "par": 27,
+            "rating": 27.727,
+            "slope": 83.862
+          }
+        ]
+      },
+      {
+        "name": "Meadow Nest",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7008,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6441,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5849,
+            "par": 72,
+            "rating": 68,
+            "slope": 122
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5128,
+            "par": 72,
+            "rating": 64.5,
+            "slope": 112
+          },
+          {
+            "name": "White blue",
+            "category": "MALE",
+            "yards": 6013,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 124
+          }
+        ]
+      },
+      {
+        "name": "Timber Ridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6556,
+            "par": 71,
+            "rating": 72.4,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6186,
+            "par": 71,
+            "rating": 70,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5708,
+            "par": 71,
+            "rating": 67.5,
+            "slope": 125
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4985,
+            "par": 71,
+            "rating": 63.6,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7804b9b0-86ac-11e4-8c28-020000005b00/hawk-ridge-golf-course"
+  }
+}

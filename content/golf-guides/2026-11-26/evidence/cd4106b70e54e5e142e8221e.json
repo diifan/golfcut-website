@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0d31d40-86ac-11e4-8c28-020000005b00/glen-acres-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0d31d40-86ac-11e4-8c28-020000005b00/glen-acres-golf-country-club",
+  "checked_at": 1795524639.890768,
+  "sha256": "9a959be361c1d7730aa99e946f1bc13f900924550c01a49e6f62d54d35b0ab87",
+  "title": "Glen Acres Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b0d31d40-86ac-11e4-8c28-020000005b00",
+    "name": "Glen Acres Golf & Country Club",
+    "address": "1000 S 112th St, Seattle, WA",
+    "courses": [
+      {
+        "name": "Glen Acres",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 6088,
+            "par": 71,
+            "rating": 70.4,
+            "slope": 135
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 6088,
+            "par": 71,
+            "rating": 76.4,
+            "slope": 136
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "MALE",
+            "yards": 5652,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 125
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "FEMALE",
+            "yards": 5652,
+            "par": 71,
+            "rating": 73.2,
+            "slope": 133
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0d31d40-86ac-11e4-8c28-020000005b00/glen-acres-golf-country-club"
+  }
+}

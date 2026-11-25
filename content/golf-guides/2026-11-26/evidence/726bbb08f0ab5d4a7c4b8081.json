@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad95a580-86ac-11e4-8c28-020000005b00/hunters-station-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad95a580-86ac-11e4-8c28-020000005b00/hunters-station-golf-course",
+  "checked_at": 1795524489.569849,
+  "sha256": "7a58aa1fdc86f219262f855fb9a31f5f6b7a06780a14d00d464c35f8dbc4520d",
+  "title": "Hunters Station Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ad95a580-86ac-11e4-8c28-020000005b00",
+    "name": "Hunters Station Golf Course",
+    "address": "Route 62 South",
+    "courses": [
+      {
+        "name": "Hunters Station",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5174,
+            "par": 69,
+            "rating": 65,
+            "slope": 110
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5174,
+            "par": 69,
+            "rating": 65,
+            "slope": 110
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4775,
+            "par": 69,
+            "rating": 63.2,
+            "slope": 107
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4775,
+            "par": 69,
+            "rating": 63.2,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4171,
+            "par": 69,
+            "rating": 66.1,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4171,
+            "par": 69,
+            "rating": 66.1,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad95a580-86ac-11e4-8c28-020000005b00/hunters-station-golf-course"
+  }
+}

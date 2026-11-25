@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92dc1030-86ac-11e4-8c28-020000005b00/wallingford-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92dc1030-86ac-11e4-8c28-020000005b00/wallingford-country-club",
+  "checked_at": 1795524596.400322,
+  "sha256": "93a0ca34be2423c761968df1fd60a1eca1685caa62eeb8bc950fa1a2c14ef4cb",
+  "title": "Wallingford Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92dc1030-86ac-11e4-8c28-020000005b00",
+    "name": "Wallingford Country Club",
+    "address": "195 Long Hill Rd",
+    "courses": [
+      {
+        "name": "Wallingford",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6388,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6153,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5559,
+            "par": 71,
+            "rating": 67,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5200,
+            "par": 71,
+            "rating": 68.6,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92dc1030-86ac-11e4-8c28-020000005b00/wallingford-country-club"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8cca1bb0-86ac-11e4-8c28-020000005b00/buffer-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8cca1bb0-86ac-11e4-8c28-020000005b00/buffer-park-golf-course",
+  "checked_at": 1795524577.9587703,
+  "sha256": "3bb5cf808772d57f4e0d3d73e35666af73e1cba7445c0347faa11986664c8039",
+  "title": "Buffer Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8cca1bb0-86ac-11e4-8c28-020000005b00",
+    "name": "Buffer Park Golf Course",
+    "address": "3825 Foltz Street, Indianapolis, IN",
+    "courses": [
+      {
+        "name": "Buffer Park",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 3535,
+            "par": 36,
+            "rating": 36.6,
+            "slope": 131
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 3535,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3285,
+            "par": 36,
+            "rating": 35.2,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3285,
+            "par": 36,
+            "rating": 38.4,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2935,
+            "par": 36,
+            "rating": 33.5,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2935,
+            "par": 36,
+            "rating": 36.6,
+            "slope": 124
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 2535,
+            "par": 36,
+            "rating": 34,
+            "slope": 109
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 2535,
+            "par": 36,
+            "rating": 34.8,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8cca1bb0-86ac-11e4-8c28-020000005b00/buffer-park-golf-course"
+  }
+}

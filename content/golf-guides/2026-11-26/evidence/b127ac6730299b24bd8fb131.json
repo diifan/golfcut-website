@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/836070b0-86ac-11e4-8c28-020000005b00/arlington-greens-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/836070b0-86ac-11e4-8c28-020000005b00/arlington-greens-golf-course",
+  "checked_at": 1795524275.5980587,
+  "sha256": "21e2e34736752f8aca84cb28c95491ecfd37fc262da519b2275e0973ac8ffaba",
+  "title": "Arlington Greens Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "836070b0-86ac-11e4-8c28-020000005b00",
+    "name": "Arlington Greens Golf Course",
+    "address": "200 Arlington Dr., Granite City, IL",
+    "courses": [
+      {
+        "name": "Arlington",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6907,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 125
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6907,
+            "par": 72,
+            "rating": 78.6,
+            "slope": 140
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6365,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6365,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5334,
+            "par": 72,
+            "rating": 69,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5334,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4777,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4777,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/836070b0-86ac-11e4-8c28-020000005b00/arlington-greens-golf-course"
+  }
+}

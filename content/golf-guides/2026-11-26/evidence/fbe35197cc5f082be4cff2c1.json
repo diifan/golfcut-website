@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c79c380-86ac-11e4-8c28-020000005b00/fairway-river-links-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c79c380-86ac-11e4-8c28-020000005b00/fairway-river-links-golf-course",
+  "checked_at": 1795582894.079311,
+  "sha256": "976654f02857af5787e2b5b80e4a261518a32a36181ca0354a0ea0824925437a",
+  "title": "Fairway River Links Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9c79c380-86ac-11e4-8c28-020000005b00",
+    "name": "Fairway River Links Golf Course",
+    "address": "100 Liberty Ave, Rayland, OH",
+    "courses": [
+      {
+        "name": "Fairway River Links",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5810,
+            "par": 70,
+            "rating": 67.2,
+            "slope": 113
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5810,
+            "par": 70,
+            "rating": 72.8,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5464,
+            "par": 70,
+            "rating": 64.1,
+            "slope": 107
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5464,
+            "par": 70,
+            "rating": 71,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4855,
+            "par": 70,
+            "rating": 67,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4855,
+            "par": 70,
+            "rating": 64.9,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c79c380-86ac-11e4-8c28-020000005b00/fairway-river-links-golf-course"
+  }
+}

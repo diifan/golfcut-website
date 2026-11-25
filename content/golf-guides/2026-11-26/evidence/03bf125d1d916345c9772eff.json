@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b86919b0-86ac-11e4-8c28-020000005b00/souris-valley-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b86919b0-86ac-11e4-8c28-020000005b00/souris-valley-golf-course",
+  "checked_at": 1795524729.9351006,
+  "sha256": "ee9a329c88f90f103d10a5a4c59fd6f61c4b7e72be53301860e75d775c720f14",
+  "title": "Souris Valley Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b86919b0-86ac-11e4-8c28-020000005b00",
+    "name": "Souris Valley Golf Course",
+    "address": "2400 14th Ave SW, Minot, ND",
+    "courses": [
+      {
+        "name": "Souris Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6429,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6429,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5760,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5760,
+            "par": 72,
+            "rating": 74,
+            "slope": 124
+          },
+          {
+            "name": "Red-Back",
+            "category": "MALE",
+            "yards": 5090,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 111
+          },
+          {
+            "name": "Red-Back",
+            "category": "FEMALE",
+            "yards": 5090,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 114
+          },
+          {
+            "name": "Red-Front",
+            "category": "MALE",
+            "yards": 4972,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red-Front",
+            "category": "FEMALE",
+            "yards": 4972,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 112
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 3667,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 3667,
+            "par": 72,
+            "rating": 62,
+            "slope": 98
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b86919b0-86ac-11e4-8c28-020000005b00/souris-valley-golf-course"
+  }
+}

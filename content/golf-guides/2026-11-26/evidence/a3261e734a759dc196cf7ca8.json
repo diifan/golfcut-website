@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0cf9ad0-86ac-11e4-8c28-020000005b00/west-richland-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0cf9ad0-86ac-11e4-8c28-020000005b00/west-richland-golf-course",
+  "checked_at": 1795524648.9644332,
+  "sha256": "029ab907c486209d9fff3900c463c6dabebfdd9d0e57e524b627108e1877455b",
+  "title": "West Richland Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star-o star star-o star-o star star star-o star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "b0cf9ad0-86ac-11e4-8c28-020000005b00",
+    "name": "West Richland Golf Course",
+    "address": "4000 Fallon Dr",
+    "courses": [
+      {
+        "name": "West Richland",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5987,
+            "par": 70,
+            "rating": 68.6,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5987,
+            "par": 71,
+            "rating": 73.7,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5551,
+            "par": 70,
+            "rating": 66.6,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5551,
+            "par": 71,
+            "rating": 71.4,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5103,
+            "par": 70,
+            "rating": 64.7,
+            "slope": 105
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5103,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4927,
+            "par": 70,
+            "rating": 63.8,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4927,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0cf9ad0-86ac-11e4-8c28-020000005b00/west-richland-golf-course"
+  }
+}

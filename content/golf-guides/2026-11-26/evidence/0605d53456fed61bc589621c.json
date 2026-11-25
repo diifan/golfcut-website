@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba352720-86ac-11e4-8c28-020000005b00/catamount-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba352720-86ac-11e4-8c28-020000005b00/catamount-country-club",
+  "checked_at": 1795582922.710825,
+  "sha256": "2c9c45b09004fe88126f3e1f7e98180590e98d9b60b66f8d8e22f67dc609a43e",
+  "title": "Catamount Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "ba352720-86ac-11e4-8c28-020000005b00",
+    "name": "Catamount Country Club",
+    "address": "1400 Mountain View Rd, Williston VT 05495",
+    "courses": [
+      {
+        "name": "Catamount",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 2835,
+            "par": 35,
+            "rating": 33.5,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2593,
+            "par": 35,
+            "rating": 32.5,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2132,
+            "par": 35,
+            "rating": 31,
+            "slope": 102
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1833,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba352720-86ac-11e4-8c28-020000005b00/catamount-country-club"
+  }
+}

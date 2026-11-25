@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/994d3bb0-86ac-11e4-8c28-020000005b00/shaker-ridge-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/994d3bb0-86ac-11e4-8c28-020000005b00/shaker-ridge-country-club",
+  "checked_at": 1795524360.0785208,
+  "sha256": "14300c6adb019cb5c08c48dc3af023fa74f27273f2dd6818a0992b55c8c9a490",
+  "title": "Shaker Ridge Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "994d3bb0-86ac-11e4-8c28-020000005b00",
+    "name": "Shaker Ridge Country Club",
+    "address": "802 Albany Shaker Road",
+    "courses": [
+      {
+        "name": "Shaker Ridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6837,
+            "par": 71,
+            "rating": 73.7,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6308,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5663,
+            "par": 71,
+            "rating": 68.3,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5258,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/994d3bb0-86ac-11e4-8c28-020000005b00/shaker-ridge-country-club"
+  }
+}

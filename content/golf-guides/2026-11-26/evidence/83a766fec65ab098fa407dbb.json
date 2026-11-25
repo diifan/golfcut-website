@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b73c5980-86ac-11e4-8c28-020000005b00/kalona-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b73c5980-86ac-11e4-8c28-020000005b00/kalona-golf-club",
+  "checked_at": 1795582863.6251442,
+  "sha256": "17a89bd3b59ebeacf5e2ba1fa86d152d812eb4f9e21c3d51eb90f7514dc8eb71",
+  "title": "Kalona Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b73c5980-86ac-11e4-8c28-020000005b00",
+    "name": "Kalona Golf Club",
+    "address": "1376 Hwy 1, Kalona, IA",
+    "courses": [
+      {
+        "name": "Kalona",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5978,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5978,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5668,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5668,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5016,
+            "par": 72,
+            "rating": 63.8,
+            "slope": 104
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5016,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4362,
+            "par": 72,
+            "rating": 62.4,
+            "slope": 96
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4362,
+            "par": 72,
+            "rating": 65.6,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b73c5980-86ac-11e4-8c28-020000005b00/kalona-golf-club"
+  }
+}

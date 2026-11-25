@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7f2b8f50-6a71-11e8-96f7-0680a328ea36/sag-harbor-state-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7f2b8f50-6a71-11e8-96f7-0680a328ea36/sag-harbor-state-golf-course",
+  "checked_at": 1795524650.3092115,
+  "sha256": "5d963f706041f7b6da47be0a6f3a15baa65bf6b219820dfba02775bdda2cf1a9",
+  "title": "Sag Harbor State Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "7f2b8f50-6a71-11e8-96f7-0680a328ea36",
+    "name": "Sag Harbor State Golf Course",
+    "address": "683 Barcelona Point Road, Sag Harbor, New York 11963, Suffolk County",
+    "courses": [
+      {
+        "name": "Sag Harbor State Golf Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2475,
+            "par": 35,
+            "rating": 32.9,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2475,
+            "par": 35,
+            "rating": 35.3,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2015,
+            "par": 35,
+            "rating": 30.5,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2015,
+            "par": 35,
+            "rating": 32.7,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7f2b8f50-6a71-11e8-96f7-0680a328ea36/sag-harbor-state-golf-course"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae576ee0-86ac-11e4-8c28-020000005b00/surf-golf-beach-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae576ee0-86ac-11e4-8c28-020000005b00/surf-golf-beach-club",
+  "checked_at": 1795524545.215887,
+  "sha256": "364e5cfbb8cb63f9a6aa2756f4930da8e86b1ab18e59fc4e0bb1219c1563a9b5",
+  "title": "Surf Golf & Beach Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae576ee0-86ac-11e4-8c28-020000005b00",
+    "name": "Surf Golf & Beach Club",
+    "address": "1701 Springland Lane",
+    "courses": [
+      {
+        "name": "Surf",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "BLUE",
+            "category": "MALE",
+            "yards": 6842,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 132
+          },
+          {
+            "name": "WHITE",
+            "category": "MALE",
+            "yards": 6360,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 127
+          },
+          {
+            "name": "GOLD",
+            "category": "MALE",
+            "yards": 5960,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 123
+          },
+          {
+            "name": "RED",
+            "category": "MALE",
+            "yards": 5047,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae576ee0-86ac-11e4-8c28-020000005b00/surf-golf-beach-club"
+  }
+}

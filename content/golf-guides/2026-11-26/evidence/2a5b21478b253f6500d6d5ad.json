@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/829db3a0-65e7-11f1-b224-069933b83eb1/elk-valley-resort",
+  "resolved_url": "https://18birdies.com/golf-courses/club/829db3a0-65e7-11f1-b224-069933b83eb1/elk-valley-resort",
+  "checked_at": 1795524984.7199566,
+  "sha256": "bc36cb433fe6a11d8e2a3dc1f29b108585bc7dc6870b32db9005b85c19a28332",
+  "title": "Elk valley resort - Scorecards, Reviews | 18Birdies star star star star star google-play",
+  "course_profile": {
+    "id": "829db3a0-65e7-11f1-b224-069933b83eb1",
+    "name": "Elk valley resort",
+    "address": "3561 N Pine-Featherville Rd, Mountain Home, Idaho 83647",
+    "courses": [
+      {
+        "name": "ELK VALLEY ",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5828,
+            "par": 73,
+            "rating": 66.4,
+            "slope": 103
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5828,
+            "par": 73,
+            "rating": 71.6,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5642,
+            "par": 73,
+            "rating": 65.5,
+            "slope": 102
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5642,
+            "par": 73,
+            "rating": 70.6,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4900,
+            "par": 73,
+            "rating": 61.8,
+            "slope": 91
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4900,
+            "par": 73,
+            "rating": 66.1,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/829db3a0-65e7-11f1-b224-069933b83eb1/elk-valley-resort"
+  }
+}

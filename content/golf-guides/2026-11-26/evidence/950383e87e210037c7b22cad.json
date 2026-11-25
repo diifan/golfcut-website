@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b9b9880-86ac-11e4-8c28-020000005b00/tippecanoe-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b9b9880-86ac-11e4-8c28-020000005b00/tippecanoe-country-club",
+  "checked_at": 1795524485.7458181,
+  "sha256": "04a254a56042ab70c12c1196abedd3d6578681308bbad54656612506a85eb1bd",
+  "title": "Tippecanoe Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9b9b9880-86ac-11e4-8c28-020000005b00",
+    "name": "Tippecanoe Country Club",
+    "address": "5870 Tippecanoe Rd, Canfield, OH",
+    "courses": [
+      {
+        "name": "Tippecanoe",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Position 1",
+            "category": "MALE",
+            "yards": 6878,
+            "par": 72,
+            "rating": 73,
+            "slope": 129
+          },
+          {
+            "name": "Position 2",
+            "category": "MALE",
+            "yards": 6552,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 126
+          },
+          {
+            "name": "Position 3",
+            "category": "MALE",
+            "yards": 6214,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 121
+          },
+          {
+            "name": "Position 4",
+            "category": "MALE",
+            "yards": 5693,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 115
+          },
+          {
+            "name": "Position 5",
+            "category": "MALE",
+            "yards": 5029,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b9b9880-86ac-11e4-8c28-020000005b00/tippecanoe-country-club"
+  }
+}

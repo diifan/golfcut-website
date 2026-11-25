@@ -1,0 +1,531 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/984df420-86ac-11e4-8c28-020000005b00/montclair-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/984df420-86ac-11e4-8c28-020000005b00/montclair-golf-club",
+  "checked_at": 1795523663.7084248,
+  "sha256": "5a3288de0096f03e5d3f4a6d0fd866a442c9694a17024f5e5119918586aa9afe",
+  "title": "Montclair Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "984df420-86ac-11e4-8c28-020000005b00",
+    "name": "Montclair Golf Club",
+    "address": "25 Prospect Avenue, West Orange, NJ",
+    "courses": [
+      {
+        "name": "Montclair (1-2)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6532,
+            "par": 70,
+            "rating": 74.7,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6532,
+            "par": 72,
+            "rating": 76.6,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6254,
+            "par": 70,
+            "rating": 70.7,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6254,
+            "par": 72,
+            "rating": 77.2,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5702,
+            "par": 70,
+            "rating": 70.9,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5702,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 130
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5619,
+            "par": 70,
+            "rating": 67.7,
+            "slope": 123
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5619,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 128
+          },
+          {
+            "name": "Purple",
+            "category": "MALE",
+            "yards": 5147,
+            "par": 70,
+            "rating": 68.4,
+            "slope": 117
+          },
+          {
+            "name": "Purple",
+            "category": "FEMALE",
+            "yards": 5147,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 125
+          }
+        ]
+      },
+      {
+        "name": "Montclair (1-3)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6476,
+            "par": 70,
+            "rating": 71.7,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6476,
+            "par": 72,
+            "rating": 76.3,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6216,
+            "par": 70,
+            "rating": 70.6,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6216,
+            "par": 72,
+            "rating": 77,
+            "slope": 140
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5637,
+            "par": 70,
+            "rating": 70.6,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5637,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 133
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5590,
+            "par": 70,
+            "rating": 67.5,
+            "slope": 121
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5590,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 131
+          },
+          {
+            "name": "Purple",
+            "category": "MALE",
+            "yards": 5080,
+            "par": 70,
+            "rating": 68.1,
+            "slope": 116
+          },
+          {
+            "name": "Purple",
+            "category": "FEMALE",
+            "yards": 5080,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 126
+          }
+        ]
+      },
+      {
+        "name": "Montclair (1-4)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6532,
+            "par": 70,
+            "rating": 71.7,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6532,
+            "par": 72,
+            "rating": 76.6,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6265,
+            "par": 70,
+            "rating": 70.4,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6265,
+            "par": 72,
+            "rating": 77,
+            "slope": 137
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5790,
+            "par": 70,
+            "rating": 71.3,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5790,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 134
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5749,
+            "par": 70,
+            "rating": 68.2,
+            "slope": 123
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5749,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 132
+          },
+          {
+            "name": "Purple",
+            "category": "MALE",
+            "yards": 5132,
+            "par": 70,
+            "rating": 68.3,
+            "slope": 117
+          },
+          {
+            "name": "Purple",
+            "category": "FEMALE",
+            "yards": 5132,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 124
+          }
+        ]
+      },
+      {
+        "name": "Montclair (2-3)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6528,
+            "par": 70,
+            "rating": 74.7,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6528,
+            "par": 72,
+            "rating": 76.6,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6282,
+            "par": 70,
+            "rating": 70.9,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6282,
+            "par": 72,
+            "rating": 77.6,
+            "slope": 139
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5701,
+            "par": 70,
+            "rating": 70.9,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5701,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 132
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5665,
+            "par": 70,
+            "rating": 67.8,
+            "slope": 126
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5665,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 132
+          },
+          {
+            "name": "Purple",
+            "category": "MALE",
+            "yards": 5087,
+            "par": 70,
+            "rating": 68.1,
+            "slope": 117
+          },
+          {
+            "name": "Purple",
+            "category": "FEMALE",
+            "yards": 5087,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 125
+          }
+        ]
+      },
+      {
+        "name": "Montclair (2-4)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6584,
+            "par": 70,
+            "rating": 74.9,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6584,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6331,
+            "par": 70,
+            "rating": 70.7,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6331,
+            "par": 72,
+            "rating": 77.6,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5854,
+            "par": 70,
+            "rating": 71.6,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5854,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 133
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5824,
+            "par": 70,
+            "rating": 68.5,
+            "slope": 128
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5824,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 132
+          },
+          {
+            "name": "Purple",
+            "category": "MALE",
+            "yards": 5139,
+            "par": 70,
+            "rating": 68.3,
+            "slope": 117
+          },
+          {
+            "name": "Purple",
+            "category": "FEMALE",
+            "yards": 5139,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 123
+          }
+        ]
+      },
+      {
+        "name": "Montclair (3-4)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6528,
+            "par": 70,
+            "rating": 71.6,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6528,
+            "par": 72,
+            "rating": 76.6,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6293,
+            "par": 70,
+            "rating": 70.6,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6293,
+            "par": 72,
+            "rating": 77.4,
+            "slope": 140
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5789,
+            "par": 70,
+            "rating": 71.3,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5789,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 136
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5795,
+            "par": 70,
+            "rating": 68.3,
+            "slope": 126
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5795,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 136
+          },
+          {
+            "name": "Purple",
+            "category": "MALE",
+            "yards": 5072,
+            "par": 70,
+            "rating": 68,
+            "slope": 116
+          },
+          {
+            "name": "Purple",
+            "category": "FEMALE",
+            "yards": 5072,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/984df420-86ac-11e4-8c28-020000005b00/montclair-golf-club"
+  }
+}

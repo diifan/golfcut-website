@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5f5a8b0-86ac-11e4-8c28-020000005b00/the-legend-at-bristlecone",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5f5a8b0-86ac-11e4-8c28-020000005b00/the-legend-at-bristlecone",
+  "checked_at": 1795582882.2684543,
+  "sha256": "a8c1a44d8728f365c0b1302bd6f86c9384cdc08aa325e56148b80c8d97c6e2ca",
+  "title": "The Legend at Bristlecone - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b5f5a8b0-86ac-11e4-8c28-020000005b00",
+    "name": "The Legend at Bristlecone",
+    "address": "1500 E Arlene Dr, Hartland, WI",
+    "courses": [
+      {
+        "name": "Bristlecone Pines",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7005,
+            "par": 71,
+            "rating": 74.4,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6493,
+            "par": 71,
+            "rating": 71.8,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6038,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5033,
+            "par": 71,
+            "rating": 65.2,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5f5a8b0-86ac-11e4-8c28-020000005b00/the-legend-at-bristlecone"
+  }
+}

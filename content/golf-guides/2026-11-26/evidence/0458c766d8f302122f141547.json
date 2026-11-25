@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/922d80b0-86ac-11e4-8c28-020000005b00/eaton-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/922d80b0-86ac-11e4-8c28-020000005b00/eaton-country-club",
+  "checked_at": 1795524469.6031172,
+  "sha256": "c899b635666f931c0e5e5156498e9910ef8f9f0df282ee4a4f50c37717d83f42",
+  "title": "Eaton Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "922d80b0-86ac-11e4-8c28-020000005b00",
+    "name": "Eaton Country Club",
+    "address": "37661 Weld County Rd 39",
+    "courses": [
+      {
+        "name": "Eaton",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6788,
+            "par": 71,
+            "rating": 70.9,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6500,
+            "par": 71,
+            "rating": 69.5,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6129,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5764,
+            "par": 71,
+            "rating": 65.8,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/922d80b0-86ac-11e4-8c28-020000005b00/eaton-country-club"
+  }
+}

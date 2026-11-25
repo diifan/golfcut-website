@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af971ad0-86ac-11e4-8c28-020000005b00/mick-riley-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af971ad0-86ac-11e4-8c28-020000005b00/mick-riley-golf-course",
+  "checked_at": 1795524374.5602732,
+  "sha256": "a46154b39990b6e7ac47db4bedd505fa69e0ce8bc49cefb969ace08b5f7f48c4",
+  "title": "Mick Riley Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af971ad0-86ac-11e4-8c28-020000005b00",
+    "name": "Mick Riley Golf Course",
+    "address": "421 E Vine St",
+    "courses": [
+      {
+        "name": "Mick Riley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6560,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 114
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6560,
+            "par": 74,
+            "rating": 76.8,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6112,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6112,
+            "par": 74,
+            "rating": 74.4,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5468,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5468,
+            "par": 74,
+            "rating": 71,
+            "slope": 123
+          }
+        ]
+      },
+      {
+        "name": "Par 3",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2384,
+            "par": 27,
+            "rating": 33.3,
+            "slope": 107
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2384,
+            "par": 27,
+            "rating": 33.6,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1406,
+            "par": 27,
+            "rating": 28.2,
+            "slope": 87
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1406,
+            "par": 27,
+            "rating": 30.2,
+            "slope": 86
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1178,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1178,
+            "par": 27,
+            "rating": 27.6,
+            "slope": 84
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af971ad0-86ac-11e4-8c28-020000005b00/mick-riley-golf-course"
+  }
+}

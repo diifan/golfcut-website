@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/aec6d280-86ac-11e4-8c28-020000005b00/hart-ranch-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/aec6d280-86ac-11e4-8c28-020000005b00/hart-ranch-golf-course",
+  "checked_at": 1795582858.3868062,
+  "sha256": "509bc7497a01f4dd8705717a6dfbebcdddc68ec119c51ccf5e02b3532eb02655",
+  "title": "Hart Ranch Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "aec6d280-86ac-11e4-8c28-020000005b00",
+    "name": "Hart Ranch Golf Course",
+    "address": "23645 Clubhouse Drive, Rapid City, SD",
+    "courses": [
+      {
+        "name": "Hart Ranch",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Brown",
+            "category": "MALE",
+            "yards": 6833,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 129
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 6277,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 123
+          },
+          {
+            "name": "GREEN/ORANGE\t",
+            "category": "MALE",
+            "yards": 5553,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 114
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5314,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 111
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4991,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/aec6d280-86ac-11e4-8c28-020000005b00/hart-ranch-golf-course"
+  }
+}

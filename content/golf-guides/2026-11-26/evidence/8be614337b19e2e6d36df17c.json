@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83211dc0-86ac-11e4-8c28-020000005b00/champaign-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83211dc0-86ac-11e4-8c28-020000005b00/champaign-country-club",
+  "checked_at": 1795524540.0775793,
+  "sha256": "18f6c3dcdd483e56ce55a8c871a67dd6b1d6933eceaab9805ed773761a5fabd7",
+  "title": "Champaign Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "83211dc0-86ac-11e4-8c28-020000005b00",
+    "name": "Champaign Country Club",
+    "address": "1211 S Prospect Ave",
+    "courses": [
+      {
+        "name": "Champaign",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6424,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6424,
+            "par": 72,
+            "rating": 77,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6078,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6078,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 131
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5600,
+            "par": 71,
+            "rating": 67.4,
+            "slope": 122
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5600,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4997,
+            "par": 71,
+            "rating": 64.6,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4997,
+            "par": 72,
+            "rating": 69,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83211dc0-86ac-11e4-8c28-020000005b00/champaign-country-club"
+  }
+}

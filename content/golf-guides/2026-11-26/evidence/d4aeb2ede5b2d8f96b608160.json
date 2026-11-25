@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b0dfe80-86ac-11e4-8c28-020000005b00/cutter-creek-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b0dfe80-86ac-11e4-8c28-020000005b00/cutter-creek-golf-club",
+  "checked_at": 1795524586.5867476,
+  "sha256": "7c1651bc0d5a1232f0815a7f350da8ba538199d182cb687893d42e317c2929a3",
+  "title": "Cutter Creek Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9b0dfe80-86ac-11e4-8c28-020000005b00",
+    "name": "Cutter Creek Golf Club",
+    "address": "28 Nina Lake Drive, Snow Hill, NC",
+    "courses": [
+      {
+        "name": "Cutter Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7280,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 141
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6881,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 137
+          },
+          {
+            "name": "Brown",
+            "category": "MALE",
+            "yards": 6439,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 131
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5863,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5177,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b0dfe80-86ac-11e4-8c28-020000005b00/cutter-creek-golf-club"
+  }
+}

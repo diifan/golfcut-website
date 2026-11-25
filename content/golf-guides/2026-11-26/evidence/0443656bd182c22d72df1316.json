@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/89bbf150-86ac-11e4-8c28-020000005b00/chaparral-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/89bbf150-86ac-11e4-8c28-020000005b00/chaparral-country-club",
+  "checked_at": 1795524686.4012308,
+  "sha256": "bbe364b973c149a7b9dd7330865791746f6b42294a62112f21a1e1371873be58",
+  "title": "Chaparral Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "89bbf150-86ac-11e4-8c28-020000005b00",
+    "name": "Chaparral Country Club",
+    "address": "100 Chaparral Dr, Palm Desert, CA",
+    "courses": [
+      {
+        "name": "Chaparral",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3914,
+            "par": 60,
+            "rating": 59.8,
+            "slope": 98
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3665,
+            "par": 60,
+            "rating": 58.6,
+            "slope": 95
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 3171,
+            "par": 60,
+            "rating": 56.9,
+            "slope": 90
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3069,
+            "par": 60,
+            "rating": 55.7,
+            "slope": 87
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/89bbf150-86ac-11e4-8c28-020000005b00/chaparral-country-club"
+  }
+}

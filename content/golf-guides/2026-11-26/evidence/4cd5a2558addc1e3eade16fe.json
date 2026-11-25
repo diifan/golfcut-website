@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c12d9a0-86ac-11e4-8c28-020000005b00/rockport-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c12d9a0-86ac-11e4-8c28-020000005b00/rockport-country-club",
+  "checked_at": 1795583773.9480643,
+  "sha256": "ffd4d37bfbb319030dbcc211bc797efb320555c541e03b3ebe48ca05128c2ede",
+  "title": "Rockport Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8c12d9a0-86ac-11e4-8c28-020000005b00",
+    "name": "Rockport Country Club",
+    "address": "101 Champions Dr, Rockport, TX",
+    "courses": [
+      {
+        "name": "Rockport",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6538,
+            "par": 71,
+            "rating": 72.8,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6538,
+            "par": 71,
+            "rating": 76.7,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5861,
+            "par": 71,
+            "rating": 70,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5861,
+            "par": 71,
+            "rating": 73.1,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5243,
+            "par": 71,
+            "rating": 66.9,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5243,
+            "par": 71,
+            "rating": 71.7,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4827,
+            "par": 71,
+            "rating": 64.9,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4827,
+            "par": 71,
+            "rating": 69.5,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c12d9a0-86ac-11e4-8c28-020000005b00/rockport-country-club"
+  }
+}

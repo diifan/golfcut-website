@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9887a1c0-86ac-11e4-8c28-020000005b00/batavia-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9887a1c0-86ac-11e4-8c28-020000005b00/batavia-country-club",
+  "checked_at": 1795524632.1085641,
+  "sha256": "fbc87c9e0f2d304dde187bef8c4726e8b42cd327ac966215656b2ae2098e1707",
+  "title": "Batavia Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9887a1c0-86ac-11e4-8c28-020000005b00",
+    "name": "Batavia Country Club",
+    "address": "7909 Batavia-Byron Road Batavia, NY",
+    "courses": [
+      {
+        "name": "Batavia",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7194,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7194,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6570,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6570,
+            "par": 72,
+            "rating": 76.8,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5984,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5984,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5311,
+            "par": 72,
+            "rating": 65.2,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5311,
+            "par": 72,
+            "rating": 70,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9887a1c0-86ac-11e4-8c28-020000005b00/batavia-country-club"
+  }
+}

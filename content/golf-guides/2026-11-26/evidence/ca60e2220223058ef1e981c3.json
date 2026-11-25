@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c358e90-86ac-11e4-8c28-020000005b00/fox-meadow",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c358e90-86ac-11e4-8c28-020000005b00/fox-meadow",
+  "checked_at": 1795524971.667205,
+  "sha256": "a3299dc7d819182b0be611093ad6edd73f24315fe36e0bd807e52c6b699a9556",
+  "title": "Fox Meadow - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9c358e90-86ac-11e4-8c28-020000005b00",
+    "name": "Fox Meadow",
+    "address": "4260 Fox Meadow Drive, Medina, OH",
+    "courses": [
+      {
+        "name": "Fox Meadow",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6917,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6552,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6305,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5801,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4988,
+            "par": 72,
+            "rating": 63.8,
+            "slope": 104
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c358e90-86ac-11e4-8c28-020000005b00/fox-meadow"
+  }
+}

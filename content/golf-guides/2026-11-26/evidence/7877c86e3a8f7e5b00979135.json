@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99a34af0-86ac-11e4-8c28-020000005b00/mohawk-river-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99a34af0-86ac-11e4-8c28-020000005b00/mohawk-river-country-club",
+  "checked_at": 1795524679.893432,
+  "sha256": "dd761c1043e448d9d7247e2489f545ca2da7549c796d8e66e009e22e358119a4",
+  "title": "Mohawk River Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99a34af0-86ac-11e4-8c28-020000005b00",
+    "name": "Mohawk River Country Club",
+    "address": "847 Riverview Rd",
+    "courses": [
+      {
+        "name": "Mohawk River",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7095,
+            "par": 73,
+            "rating": 73.7,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7095,
+            "par": 74,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6490,
+            "par": 73,
+            "rating": 70.7,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6490,
+            "par": 74,
+            "rating": 76.4,
+            "slope": 135
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5815,
+            "par": 73,
+            "rating": 71.4,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5815,
+            "par": 74,
+            "rating": 71.4,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5018,
+            "par": 73,
+            "rating": 67.8,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5018,
+            "par": 74,
+            "rating": 68.3,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99a34af0-86ac-11e4-8c28-020000005b00/mohawk-river-country-club"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0ab7100-86ac-11e4-8c28-020000005b00/leavenworth-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0ab7100-86ac-11e4-8c28-020000005b00/leavenworth-golf-club",
+  "checked_at": 1795524719.8069055,
+  "sha256": "f76da6361e7886d0b55f9efb71c7c55639ea6732f9fd435f02170c605eb2e969",
+  "title": "Leavenworth Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b0ab7100-86ac-11e4-8c28-020000005b00",
+    "name": "Leavenworth Golf Club",
+    "address": "9101 Icicle Rd, Leavenworth, WA",
+    "courses": [
+      {
+        "name": "Leavenworth",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5781,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5781,
+            "par": 71,
+            "rating": 73.8,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5461,
+            "par": 71,
+            "rating": 66.8,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5461,
+            "par": 71,
+            "rating": 72,
+            "slope": 126
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5043,
+            "par": 71,
+            "rating": 64.3,
+            "slope": 114
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5043,
+            "par": 71,
+            "rating": 69,
+            "slope": 121
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 3071,
+            "par": 71,
+            "rating": 58.6,
+            "slope": 96
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 3071,
+            "par": 71,
+            "rating": 59.6,
+            "slope": 95
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0ab7100-86ac-11e4-8c28-020000005b00/leavenworth-golf-club"
+  }
+}

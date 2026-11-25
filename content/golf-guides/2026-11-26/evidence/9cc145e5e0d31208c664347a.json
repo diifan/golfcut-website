@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/922e1cf0-86ac-11e4-8c28-020000005b00/country-club-of-the-rockies",
+  "resolved_url": "https://18birdies.com/golf-courses/club/922e1cf0-86ac-11e4-8c28-020000005b00/country-club-of-the-rockies",
+  "checked_at": 1795525028.707958,
+  "sha256": "d64ae391041e1d88c81ad5f04e68b2819b774946feacac3e286791bcb0bf9110",
+  "title": "Country Club of the Rockies - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "922e1cf0-86ac-11e4-8c28-020000005b00",
+    "name": "Country Club of the Rockies",
+    "address": "676 Swatch",
+    "courses": [
+      {
+        "name": "Rockies",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 7402,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 145
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6859,
+            "par": 72,
+            "rating": 72,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6500,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 128
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6101,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5369,
+            "par": 72,
+            "rating": 66,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/922e1cf0-86ac-11e4-8c28-020000005b00/country-club-of-the-rockies"
+  }
+}

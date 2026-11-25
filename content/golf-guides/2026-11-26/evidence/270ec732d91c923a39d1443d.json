@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99ee36a0-86ac-11e4-8c28-020000005b00/winding-brook-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99ee36a0-86ac-11e4-8c28-020000005b00/winding-brook-country-club",
+  "checked_at": 1795582841.0615396,
+  "sha256": "a7acfa177d9fc7ecb4beb76d9639bd4f783d710d8a4d45724ca225481932e88e",
+  "title": "Winding Brook Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99ee36a0-86ac-11e4-8c28-020000005b00",
+    "name": "Winding Brook Country Club",
+    "address": "2839 Route 203",
+    "courses": [
+      {
+        "name": "Winding Brook",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6106,
+            "par": 70,
+            "rating": 69.2,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6106,
+            "par": 73,
+            "rating": 74.4,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5745,
+            "par": 70,
+            "rating": 67.4,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5745,
+            "par": 73,
+            "rating": 72.5,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5198,
+            "par": 70,
+            "rating": 64.5,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5198,
+            "par": 73,
+            "rating": 69.8,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99ee36a0-86ac-11e4-8c28-020000005b00/winding-brook-country-club"
+  }
+}

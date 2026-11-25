@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2a6cbd0-86ac-11e4-8c28-020000005b00/gracewil-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2a6cbd0-86ac-11e4-8c28-020000005b00/gracewil-country-club",
+  "checked_at": 1795524537.5470016,
+  "sha256": "03e58edbe32ce5b1524229694c23a0a136659fafa31b3646b22d2d8eb69da5ad",
+  "title": "Gracewil Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b2a6cbd0-86ac-11e4-8c28-020000005b00",
+    "name": "Gracewil Country Club",
+    "address": "2597 4 Mile Rd NW, Grand Rapids, MI",
+    "courses": [
+      {
+        "name": "West Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6025,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 106
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6025,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4800,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4800,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 101
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2a6cbd0-86ac-11e4-8c28-020000005b00/gracewil-country-club"
+  }
+}

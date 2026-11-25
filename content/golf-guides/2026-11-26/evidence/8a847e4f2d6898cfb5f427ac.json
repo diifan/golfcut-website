@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8bdc6050-86ac-11e4-8c28-020000005b00/mc-allen-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8bdc6050-86ac-11e4-8c28-020000005b00/mc-allen-country-club",
+  "checked_at": 1795524363.4296036,
+  "sha256": "30f598bd344ac89af11816eb7ab1be1e3da50eb41658d78d495e2e8800499c4a",
+  "title": "McAllen Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8bdc6050-86ac-11e4-8c28-020000005b00",
+    "name": "McAllen Country Club",
+    "address": "615 Wichita Ave, McAllen, TX 78503",
+    "courses": [
+      {
+        "name": "McAllen",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6397,
+            "par": 71,
+            "rating": 72.5,
+            "slope": 132
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6397,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 134
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5946,
+            "par": 71,
+            "rating": 69.9,
+            "slope": 128
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5946,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5628,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5628,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5150,
+            "par": 71,
+            "rating": 65.8,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5150,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8bdc6050-86ac-11e4-8c28-020000005b00/mc-allen-country-club"
+  }
+}

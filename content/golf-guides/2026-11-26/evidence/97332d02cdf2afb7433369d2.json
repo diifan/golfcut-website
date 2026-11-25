@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e0f1ed0-86ac-11e4-8c28-020000005b00/saddle-brooke-ranch-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e0f1ed0-86ac-11e4-8c28-020000005b00/saddle-brooke-ranch-golf-club",
+  "checked_at": 1795582860.885623,
+  "sha256": "a1327e8d92be1cd44f9e4629606d4b94c77ed920819ad1049bbe8588162e1bbb",
+  "title": "SaddleBrooke Ranch Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8e0f1ed0-86ac-11e4-8c28-020000005b00",
+    "name": "SaddleBrooke Ranch Golf Club",
+    "address": "E Robson Cir, Oracle, AZ",
+    "courses": [
+      {
+        "name": "SaddleBrooke Ranch",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6875,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 127
+          },
+          {
+            "name": "Pine",
+            "category": "MALE",
+            "yards": 6418,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 121
+          },
+          {
+            "name": "Mixed",
+            "category": "MALE",
+            "yards": 5800,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 127
+          },
+          {
+            "name": "Rust",
+            "category": "MALE",
+            "yards": 5569,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 108
+          },
+          {
+            "name": "Plum",
+            "category": "MALE",
+            "yards": 5054,
+            "par": 72,
+            "rating": 63.1,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e0f1ed0-86ac-11e4-8c28-020000005b00/saddle-brooke-ranch-golf-club"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0c624f0-86ac-11e4-8c28-020000005b00/horseshoe-lake-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0c624f0-86ac-11e4-8c28-020000005b00/horseshoe-lake-golf-course",
+  "checked_at": 1795524713.3536072,
+  "sha256": "de13242e18252422e4e4b6c3a6c13f9bb5afe3a6f0e7531b0f6c33c686b6b1e4",
+  "title": "Horseshoe Lake Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b0c624f0-86ac-11e4-8c28-020000005b00",
+    "name": "Horseshoe Lake Golf Course",
+    "address": "1250 SW Club House Ct",
+    "courses": [
+      {
+        "name": "Horseshoe Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6120,
+            "par": 71,
+            "rating": 68.6,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5607,
+            "par": 71,
+            "rating": 67,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5015,
+            "par": 71,
+            "rating": 63.6,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0c624f0-86ac-11e4-8c28-020000005b00/horseshoe-lake-golf-course"
+  }
+}

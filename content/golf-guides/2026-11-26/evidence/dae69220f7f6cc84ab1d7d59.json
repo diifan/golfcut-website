@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83ee58d0-86ac-11e4-8c28-020000005b00/byron-hills-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83ee58d0-86ac-11e4-8c28-020000005b00/byron-hills-golf-course",
+  "checked_at": 1795524992.3708916,
+  "sha256": "41642a83ebc3b3feec7ebe30688bbdcdf3f9b0453bfbea3355ecdd9f103c2e9c",
+  "title": "Byron Hills Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "83ee58d0-86ac-11e4-8c28-020000005b00",
+    "name": "Byron Hills Golf Course",
+    "address": "23316 94th Ave No",
+    "courses": [
+      {
+        "name": "Byron Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6465,
+            "par": 71,
+            "rating": 70.5,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6037,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5258,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83ee58d0-86ac-11e4-8c28-020000005b00/byron-hills-golf-course"
+  }
+}

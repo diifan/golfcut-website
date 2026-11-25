@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/832ed960-86ac-11e4-8c28-020000005b00/oak-run-public-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/832ed960-86ac-11e4-8c28-020000005b00/oak-run-public-golf-course",
+  "checked_at": 1795582858.9357822,
+  "sha256": "af2592ee7f6d65028dcfb3777086848055663df6660f363b6655ab27562e2106",
+  "title": "Oak Run Public Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "832ed960-86ac-11e4-8c28-020000005b00",
+    "name": "Oak Run Public Golf Course",
+    "address": "1470 Knox Rd 1725 No, Dahinda, IL",
+    "courses": [
+      {
+        "name": "Oak Run",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6509,
+            "par": 71,
+            "rating": 69.9,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6509,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6038,
+            "par": 71,
+            "rating": 68.3,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6038,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5202,
+            "par": 71,
+            "rating": 65.8,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5202,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4507,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4507,
+            "par": 70,
+            "rating": 67.8,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/832ed960-86ac-11e4-8c28-020000005b00/oak-run-public-golf-course"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/892f68c0-86ac-11e4-8c28-020000005b00/mission-hills-of-hayward-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/892f68c0-86ac-11e4-8c28-020000005b00/mission-hills-of-hayward-golf-course",
+  "checked_at": 1795524974.8398678,
+  "sha256": "8308ba8d7d1aebce1ed7d6af0fcd78b4672934b4d26c56d141066e2c5ae0cc3b",
+  "title": "Mission Hills Of Hayward Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "892f68c0-86ac-11e4-8c28-020000005b00",
+    "name": "Mission Hills Of Hayward Golf Course",
+    "address": "275 Industrial Pkwy, Hayward, CA",
+    "courses": [
+      {
+        "name": "Mission Hills",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1720,
+            "par": 30,
+            "rating": 28.8,
+            "slope": 87
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1720,
+            "par": 30,
+            "rating": 29.5,
+            "slope": 96
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1343,
+            "par": 30,
+            "rating": 27.92222,
+            "slope": 84.64976
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1343,
+            "par": 30,
+            "rating": 27.92222,
+            "slope": 84.64976
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/892f68c0-86ac-11e4-8c28-020000005b00/mission-hills-of-hayward-golf-course"
+  }
+}

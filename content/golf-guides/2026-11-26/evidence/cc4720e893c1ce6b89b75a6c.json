@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95a6f000-86ac-11e4-8c28-020000005b00/old-sandwich-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95a6f000-86ac-11e4-8c28-020000005b00/old-sandwich-golf-club",
+  "checked_at": 1795582840.5723426,
+  "sha256": "75e61792453f6283713ec5ff41d3f52ee89cf0faa3492342eedbeabfd13cb2a2",
+  "title": "Old Sandwich Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "95a6f000-86ac-11e4-8c28-020000005b00",
+    "name": "Old Sandwich Golf Club",
+    "address": "41 Doublebrook Rd, Plymouth, MA",
+    "courses": [
+      {
+        "name": "Old Sandwich",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6868,
+            "par": 71,
+            "rating": 74.1,
+            "slope": 139
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6868,
+            "par": 71,
+            "rating": 78.4,
+            "slope": 140
+          },
+          {
+            "name": "Composite",
+            "category": "MALE",
+            "yards": 6670,
+            "par": 71,
+            "rating": 72.7,
+            "slope": 135
+          },
+          {
+            "name": "Composite",
+            "category": "FEMALE",
+            "yards": 6670,
+            "par": 71,
+            "rating": 77.4,
+            "slope": 137
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6415,
+            "par": 71,
+            "rating": 72.3,
+            "slope": 133
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6415,
+            "par": 71,
+            "rating": 76,
+            "slope": 134
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5400,
+            "par": 71,
+            "rating": 70.8,
+            "slope": 130
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5400,
+            "par": 71,
+            "rating": 70.6,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95a6f000-86ac-11e4-8c28-020000005b00/old-sandwich-golf-club"
+  }
+}

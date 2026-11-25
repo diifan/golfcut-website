@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a2f9ab0-86ac-11e4-8c28-020000005b00/phoenix-lake",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a2f9ab0-86ac-11e4-8c28-020000005b00/phoenix-lake",
+  "checked_at": 1795582889.8806372,
+  "sha256": "fa1fe8c21d8ef8a0cbad1fd7e27e356cc9909c5d4382bb46a467079a8f2830f1",
+  "title": "Phoenix Lake - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8a2f9ab0-86ac-11e4-8c28-020000005b00",
+    "name": "Phoenix Lake",
+    "address": "21448 Paseo de Los Portales Rd, Sonora, CA",
+    "courses": [
+      {
+        "name": "Phoenix Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Black\t",
+            "category": "MALE",
+            "yards": 5125,
+            "par": 70,
+            "rating": 65.6,
+            "slope": 117
+          },
+          {
+            "name": "White/Black\t",
+            "category": "FEMALE",
+            "yards": 5125,
+            "par": 70,
+            "rating": 69.5,
+            "slope": 124
+          },
+          {
+            "name": "Red/Blue",
+            "category": "MALE",
+            "yards": 4579,
+            "par": 70,
+            "rating": 63.3,
+            "slope": 109
+          },
+          {
+            "name": "Red/Blue",
+            "category": "FEMALE",
+            "yards": 4579,
+            "par": 70,
+            "rating": 66.4,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a2f9ab0-86ac-11e4-8c28-020000005b00/phoenix-lake"
+  }
+}

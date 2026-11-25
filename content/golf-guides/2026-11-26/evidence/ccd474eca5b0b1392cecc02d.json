@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8b5778e0-86ac-11e4-8c28-020000005b00/shady-oaks",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8b5778e0-86ac-11e4-8c28-020000005b00/shady-oaks",
+  "checked_at": 1795524516.5145597,
+  "sha256": "fee937c0bc1fc1d7432954dd324a17e5f95cf8bb61a604579668fb59a86db782",
+  "title": "Shady Oaks - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "8b5778e0-86ac-11e4-8c28-020000005b00",
+    "name": "Shady Oaks",
+    "address": "320 Roaring Springs Road, Fort Worth, TX",
+    "courses": [
+      {
+        "name": "Shady Oaks",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6854,
+            "par": 71,
+            "rating": 74,
+            "slope": 138
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6854,
+            "par": 73,
+            "rating": 81.4,
+            "slope": 150
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6447,
+            "par": 71,
+            "rating": 71.8,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6447,
+            "par": 73,
+            "rating": 78.8,
+            "slope": 146
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6027,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 131
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 6027,
+            "par": 73,
+            "rating": 75.2,
+            "slope": 139
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5562,
+            "par": 71,
+            "rating": 65.8,
+            "slope": 124
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5562,
+            "par": 73,
+            "rating": 71.6,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8b5778e0-86ac-11e4-8c28-020000005b00/shady-oaks"
+  }
+}

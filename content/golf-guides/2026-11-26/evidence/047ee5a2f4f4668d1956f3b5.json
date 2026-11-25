@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d231120-86ac-11e4-8c28-020000005b00/cherry-hill-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d231120-86ac-11e4-8c28-020000005b00/cherry-hill-golf-club",
+  "checked_at": 1795582878.3346224,
+  "sha256": "e825f196a8c7e8cce52442bb5dcca0e63e31e196830fa9cd96a4c80cc66418a1",
+  "title": "Cherry Hill Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d231120-86ac-11e4-8c28-020000005b00",
+    "name": "Cherry Hill Golf Club",
+    "address": "6615 Wheelock Rd, Fort Wayne, IN",
+    "courses": [
+      {
+        "name": "Cherry Hill",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6825,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6427,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5980,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5348,
+            "par": 72,
+            "rating": 66,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d231120-86ac-11e4-8c28-020000005b00/cherry-hill-golf-club"
+  }
+}

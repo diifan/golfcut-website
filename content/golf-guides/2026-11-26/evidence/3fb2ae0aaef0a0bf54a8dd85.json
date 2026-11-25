@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2d68e60-86ac-11e4-8c28-020000005b00/the-quest-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2d68e60-86ac-11e4-8c28-020000005b00/the-quest-golf-club",
+  "checked_at": 1795524627.1310408,
+  "sha256": "cce709f0164a1148a59e74f65b5f1735a52e270b3ebd50db1406d20d16b4c041",
+  "title": "The Quest Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b2d68e60-86ac-11e4-8c28-020000005b00",
+    "name": "The Quest Golf Club",
+    "address": "119 Quest View Dr",
+    "courses": [
+      {
+        "name": "Quest at Houghton Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6782,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 136
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6549,
+            "par": 72,
+            "rating": 72,
+            "slope": 133
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6027,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 130
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5704,
+            "par": 72,
+            "rating": 67,
+            "slope": 121
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 5095,
+            "par": 72,
+            "rating": 64.5,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2d68e60-86ac-11e4-8c28-020000005b00/the-quest-golf-club"
+  }
+}

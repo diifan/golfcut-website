@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9cdb2c0-86ac-11e4-8c28-020000005b00/crotched-mountain-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9cdb2c0-86ac-11e4-8c28-020000005b00/crotched-mountain-golf-club",
+  "checked_at": 1795524553.6455457,
+  "sha256": "b6f5e5989cfa773fd6caba8ee754702d5fb02bc5f406ff830e5b20f5ef63fb57",
+  "title": "Crotched Mountain Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b9cdb2c0-86ac-11e4-8c28-020000005b00",
+    "name": "Crotched Mountain Golf Club",
+    "address": "740 2nd New Hampshire Turnpike N",
+    "courses": [
+      {
+        "name": "Crotched Mountain",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6111,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5530,
+            "par": 71,
+            "rating": 67.9,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4604,
+            "par": 71,
+            "rating": 62.5,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9cdb2c0-86ac-11e4-8c28-020000005b00/crotched-mountain-golf-club"
+  }
+}

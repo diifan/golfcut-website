@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b558cc70-86ac-11e4-8c28-020000005b00/siren-national",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b558cc70-86ac-11e4-8c28-020000005b00/siren-national",
+  "checked_at": 1795582901.058639,
+  "sha256": "4395deeaacef969bb4e78331a21bc96a43af7f9605420c610af601e06236b04f",
+  "title": "Siren National - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b558cc70-86ac-11e4-8c28-020000005b00",
+    "name": "Siren National",
+    "address": "8606 Waldora Road",
+    "courses": [
+      {
+        "name": "Siren",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6737,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6403,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5975,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5126,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4569,
+            "par": 72,
+            "rating": 63.4,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b558cc70-86ac-11e4-8c28-020000005b00/siren-national"
+  }
+}

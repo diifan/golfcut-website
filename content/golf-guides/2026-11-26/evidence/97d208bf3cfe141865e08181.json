@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/762fd2a0-86ac-11e4-8c28-020000005b00/hampton-golf-and-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/762fd2a0-86ac-11e4-8c28-020000005b00/hampton-golf-and-country-club",
+  "checked_at": 1795524492.3901892,
+  "sha256": "304f43f5a2f44ffe9bf8c98f6d2370f9b77e87cea4cd8996e4e03533d9c3a658",
+  "title": "Hampton Golf and Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "762fd2a0-86ac-11e4-8c28-020000005b00",
+    "name": "Hampton Golf and Country Club",
+    "address": "68 William Bell Drive, Hampton, New Brunswick",
+    "courses": [
+      {
+        "name": "Hampton",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Platinum",
+            "category": "MALE",
+            "yards": 6509,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5960,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 123
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5447,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/762fd2a0-86ac-11e4-8c28-020000005b00/hampton-golf-and-country-club"
+  }
+}

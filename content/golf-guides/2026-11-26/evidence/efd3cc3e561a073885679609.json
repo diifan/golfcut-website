@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99ea17f0-86ac-11e4-8c28-020000005b00/frear-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99ea17f0-86ac-11e4-8c28-020000005b00/frear-park-golf-course",
+  "checked_at": 1795524418.8880131,
+  "sha256": "a1c4eebfa4d1651372c4a9164bc191e77c42c84d7013aa0243b97a40900f17cc",
+  "title": "Frear Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99ea17f0-86ac-11e4-8c28-020000005b00",
+    "name": "Frear Park Golf Course",
+    "address": "Frear Park Road, Troy, NY",
+    "courses": [
+      {
+        "name": "Frear Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6143,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6143,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5739,
+            "par": 71,
+            "rating": 67.5,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5739,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5104,
+            "par": 71,
+            "rating": 64.4,
+            "slope": 110
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5104,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4750,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4750,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99ea17f0-86ac-11e4-8c28-020000005b00/frear-park-golf-course"
+  }
+}

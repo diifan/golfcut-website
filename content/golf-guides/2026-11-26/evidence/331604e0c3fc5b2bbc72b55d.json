@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a441ed0-86ac-11e4-8c28-020000005b00/village-of-sugar-mountain",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a441ed0-86ac-11e4-8c28-020000005b00/village-of-sugar-mountain",
+  "checked_at": 1795524981.1952493,
+  "sha256": "5b750048fe6ced281190d76dc3ce15a3204b531aa40a7f456b742beb10136b94",
+  "title": "Village of Sugar Mountain - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9a441ed0-86ac-11e4-8c28-020000005b00",
+    "name": "Village of Sugar Mountain",
+    "address": "Sugar Mountain Dr, Banner Elk, NC",
+    "courses": [
+      {
+        "name": "Village of Sugar Mountain",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4443,
+            "par": 64,
+            "rating": 62.4,
+            "slope": 113
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4443,
+            "par": 64,
+            "rating": 65.5,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4071,
+            "par": 64,
+            "rating": 61.5,
+            "slope": 108
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4071,
+            "par": 64,
+            "rating": 64.1,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3418,
+            "par": 64,
+            "rating": 60.5,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3418,
+            "par": 64,
+            "rating": 61.1,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a441ed0-86ac-11e4-8c28-020000005b00/village-of-sugar-mountain"
+  }
+}

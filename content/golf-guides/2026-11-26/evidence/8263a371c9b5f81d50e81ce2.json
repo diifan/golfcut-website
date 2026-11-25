@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92ab8a50-86ac-11e4-8c28-020000005b00/east-hartford-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92ab8a50-86ac-11e4-8c28-020000005b00/east-hartford-golf-club",
+  "checked_at": 1795524429.2447696,
+  "sha256": "c39c54ccdbe254525fb48a8353e4fd4d4a60877c48cdd1f5bd24732c6c0b57c1",
+  "title": "East Hartford Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "92ab8a50-86ac-11e4-8c28-020000005b00",
+    "name": "East Hartford Golf Club",
+    "address": "130 Long Hill St. East Hartford, CT 06108",
+    "courses": [
+      {
+        "name": "East Hartford Golf Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6208,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6208,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6076,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6076,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5388,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5388,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5072,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5072,
+            "par": 72,
+            "rating": 69,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92ab8a50-86ac-11e4-8c28-020000005b00/east-hartford-golf-club"
+  }
+}

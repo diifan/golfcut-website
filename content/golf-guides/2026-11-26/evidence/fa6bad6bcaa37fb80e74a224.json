@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b35c1210-86ac-11e4-8c28-020000005b00/lake-cora-hills",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b35c1210-86ac-11e4-8c28-020000005b00/lake-cora-hills",
+  "checked_at": 1795583833.079153,
+  "sha256": "b0ca6419c38985bed88c264857f02493bf62089b6a33d8b4b5d05663aa1c2ba2",
+  "title": "Lake Cora Hills - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b35c1210-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Cora Hills",
+    "address": "56640 County Road 671 Paw Paw",
+    "courses": [
+      {
+        "name": "Lake Cora Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6035,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 124
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6035,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 130
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5527,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 116
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5527,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 123
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4254,
+            "par": 72,
+            "rating": 61.8,
+            "slope": 102
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 4254,
+            "par": 72,
+            "rating": 64.7,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b35c1210-86ac-11e4-8c28-020000005b00/lake-cora-hills"
+  }
+}

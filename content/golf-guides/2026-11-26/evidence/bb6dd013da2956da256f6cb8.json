@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5702500-86ac-11e4-8c28-020000005b00/moor-downs-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5702500-86ac-11e4-8c28-020000005b00/moor-downs-golf-course",
+  "checked_at": 1795524365.873899,
+  "sha256": "93c679731259a0155dfe0628a446cc2155c44ceab984ebc874fc9a9b4bbbf4ce",
+  "title": "Moor Downs Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b5702500-86ac-11e4-8c28-020000005b00",
+    "name": "Moor Downs Golf Course",
+    "address": "438 Prospect Ave, Waukesha, WI",
+    "courses": [
+      {
+        "name": "Moor Downs (18 Holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5428,
+            "par": 70,
+            "rating": 65.8,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5428,
+            "par": 70,
+            "rating": 70.4,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4940,
+            "par": 70,
+            "rating": 63.4,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4940,
+            "par": 70,
+            "rating": 67.4,
+            "slope": 117
+          }
+        ]
+      },
+      {
+        "name": "Moor Downs (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2714,
+            "par": 35,
+            "rating": 32.9,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2714,
+            "par": 35,
+            "rating": 35.2,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2470,
+            "par": 35,
+            "rating": 31.7,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2470,
+            "par": 35,
+            "rating": 33.7,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5702500-86ac-11e4-8c28-020000005b00/moor-downs-golf-course"
+  }
+}

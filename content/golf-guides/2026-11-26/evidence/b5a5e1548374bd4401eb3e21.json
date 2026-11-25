@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/91a39030-86ac-11e4-8c28-020000005b00/wynlakes-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/91a39030-86ac-11e4-8c28-020000005b00/wynlakes-golf-country-club",
+  "checked_at": 1795524591.7735822,
+  "sha256": "fa3a6b003d076dd4f660259b513f1a47301bc594582855d4ca8cb0047a8e5972",
+  "title": "Wynlakes Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "91a39030-86ac-11e4-8c28-020000005b00",
+    "name": "Wynlakes Golf & Country Club",
+    "address": "7900 Wynlakes Blvd, Montgomery, AL",
+    "courses": [
+      {
+        "name": "Wynlakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6979,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6575,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6347,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 129
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5625,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4826,
+            "par": 72,
+            "rating": 63.4,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/91a39030-86ac-11e4-8c28-020000005b00/wynlakes-golf-country-club"
+  }
+}

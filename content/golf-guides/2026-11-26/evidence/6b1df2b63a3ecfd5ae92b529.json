@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/90faf420-86ac-11e4-8c28-020000005b00/palm-beach-par-3-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/90faf420-86ac-11e4-8c28-020000005b00/palm-beach-par-3-golf-course",
+  "checked_at": 1795524605.154564,
+  "sha256": "7d2b15a42a17d3e0eab4ef8729654602401abe4c5d6a0cbd7745d04f1f24a80a",
+  "title": "Palm Beach Par-3 Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "90faf420-86ac-11e4-8c28-020000005b00",
+    "name": "Palm Beach Par-3 Golf Course",
+    "address": "2345 South Ocean Blvd, Palm Beach, Florida",
+    "courses": [
+      {
+        "name": "Palm Beach Par 3",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 2572,
+            "par": 54,
+            "rating": 54.23108,
+            "slope": 81.41408
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 2572,
+            "par": 54,
+            "rating": 54.23108,
+            "slope": 81.41408
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2079,
+            "par": 54,
+            "rating": 52.19006,
+            "slope": 79.00331
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2079,
+            "par": 54,
+            "rating": 52.19006,
+            "slope": 79.00331
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1602,
+            "par": 54,
+            "rating": 50.21528,
+            "slope": 76.67078
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1602,
+            "par": 54,
+            "rating": 50.21528,
+            "slope": 76.67078
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/90faf420-86ac-11e4-8c28-020000005b00/palm-beach-par-3-golf-course"
+  }
+}

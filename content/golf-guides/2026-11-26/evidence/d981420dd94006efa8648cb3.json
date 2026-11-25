@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8b48f9f0-86ac-11e4-8c28-020000005b00/el-paso-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8b48f9f0-86ac-11e4-8c28-020000005b00/el-paso-country-club",
+  "checked_at": 1795524749.3046327,
+  "sha256": "ffac44eaa89c494f0f3dbbe89d7b3fcb3fba66a1de7b2cf3ca8ab2c244d5c40c",
+  "title": "El Paso Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8b48f9f0-86ac-11e4-8c28-020000005b00",
+    "name": "El Paso Country Club",
+    "address": "5000 Country Club Place, El Paso, TX",
+    "courses": [
+      {
+        "name": "El Paso",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6889,
+            "par": 71,
+            "rating": 71.5,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6889,
+            "par": 71,
+            "rating": 78.5,
+            "slope": 140
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6363,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6363,
+            "par": 71,
+            "rating": 75.7,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5923,
+            "par": 71,
+            "rating": 67.6,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5923,
+            "par": 71,
+            "rating": 73.5,
+            "slope": 142
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5363,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5363,
+            "par": 71,
+            "rating": 70.5,
+            "slope": 135
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8b48f9f0-86ac-11e4-8c28-020000005b00/el-paso-country-club"
+  }
+}

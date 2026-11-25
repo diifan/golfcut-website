@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b32a7ac0-86ac-11e4-8c28-020000005b00/carrington-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b32a7ac0-86ac-11e4-8c28-020000005b00/carrington-golf-club",
+  "checked_at": 1795524553.9605854,
+  "sha256": "7649b3af2fa941a63eb875394426d781c7ba8305482557fc4573d105b1c19a51",
+  "title": "Carrington Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b32a7ac0-86ac-11e4-8c28-020000005b00",
+    "name": "Carrington Golf Club",
+    "address": "911 St James Park Ave",
+    "courses": [
+      {
+        "name": "Carrington",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6873,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6408,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5791,
+            "par": 72,
+            "rating": 68,
+            "slope": 117
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5067,
+            "par": 72,
+            "rating": 68,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b32a7ac0-86ac-11e4-8c28-020000005b00/carrington-golf-club"
+  }
+}

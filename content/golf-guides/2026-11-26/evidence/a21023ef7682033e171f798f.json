@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/97d9fca0-86ac-11e4-8c28-020000005b00/cruz-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/97d9fca0-86ac-11e4-8c28-020000005b00/cruz-golf-country-club",
+  "checked_at": 1795524593.7268777,
+  "sha256": "e3fd6b57a60cf32e8f53d559d7338186c7b4be00edd1790d8ae795009deecd75",
+  "title": "Cruz Golf Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "97d9fca0-86ac-11e4-8c28-020000005b00",
+    "name": "Cruz Golf Country Club",
+    "address": "55 Birdsall Rd, Farmingdale, NJ",
+    "courses": [
+      {
+        "name": "Cruz Farm",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5062,
+            "par": 70,
+            "rating": 64.3,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5062,
+            "par": 70,
+            "rating": 68.8,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4270,
+            "par": 70,
+            "rating": 64.4,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4270,
+            "par": 70,
+            "rating": 64.6,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/97d9fca0-86ac-11e4-8c28-020000005b00/cruz-golf-country-club"
+  }
+}

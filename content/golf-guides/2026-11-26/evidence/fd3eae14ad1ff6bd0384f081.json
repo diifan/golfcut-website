@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/91491420-86ac-11e4-8c28-020000005b00/brundidge-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/91491420-86ac-11e4-8c28-020000005b00/brundidge-country-club",
+  "checked_at": 1795524694.554982,
+  "sha256": "b3fb33f8d67b03e0ecc6f5ee63d59dbef7dbabdf6b031c52acb558b7f0ae470c",
+  "title": "Brundidge Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "91491420-86ac-11e4-8c28-020000005b00",
+    "name": "Brundidge Country Club",
+    "address": "Springhill Hwy, Brundidge, AL",
+    "courses": [
+      {
+        "name": "Brundidge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Mens (White/Blue)",
+            "category": "MALE",
+            "yards": 6152,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 121
+          },
+          {
+            "name": "Mens (White/Blue)",
+            "category": "FEMALE",
+            "yards": 6152,
+            "par": 76,
+            "rating": 74.6,
+            "slope": 131
+          },
+          {
+            "name": "Ladies (Red)",
+            "category": "MALE",
+            "yards": 5232,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 118
+          },
+          {
+            "name": "Ladies (Red)",
+            "category": "FEMALE",
+            "yards": 5232,
+            "par": 76,
+            "rating": 67.1,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/91491420-86ac-11e4-8c28-020000005b00/brundidge-country-club"
+  }
+}

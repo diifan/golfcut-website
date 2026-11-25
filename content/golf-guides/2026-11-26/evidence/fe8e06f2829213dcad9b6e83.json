@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/93febe40-86ac-11e4-8c28-020000005b00/augusta-national",
+  "resolved_url": "https://18birdies.com/golf-courses/club/93febe40-86ac-11e4-8c28-020000005b00/augusta-national",
+  "checked_at": 1795524646.3167803,
+  "sha256": "62dd00c2db208e613d92ac2a19c80147e3b4abe6c214d85db96144e2ed9c4ba7",
+  "title": "Augusta National - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "93febe40-86ac-11e4-8c28-020000005b00",
+    "name": "Augusta National",
+    "address": "2604 Washington Rd, Augusta, GA 30904",
+    "courses": [
+      {
+        "name": "Augusta National",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Masters",
+            "category": "MALE",
+            "yards": 7445,
+            "par": 72,
+            "rating": 78.9,
+            "slope": 136
+          },
+          {
+            "name": "Masters",
+            "category": "FEMALE",
+            "yards": 7445,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Member",
+            "category": "MALE",
+            "yards": 6365,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 127
+          },
+          {
+            "name": "Member",
+            "category": "FEMALE",
+            "yards": 6365,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 134
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/93febe40-86ac-11e4-8c28-020000005b00/augusta-national"
+  }
+}

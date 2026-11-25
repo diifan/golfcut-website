@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95f0ca40-86ac-11e4-8c28-020000005b00/kings-way-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95f0ca40-86ac-11e4-8c28-020000005b00/kings-way-golf-club",
+  "checked_at": 1795582897.6289487,
+  "sha256": "e2160f4dd98dbe11be4691d764c98e7c251dc2611fb2f6fc4b4afde99b69273d",
+  "title": "Kings Way Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95f0ca40-86ac-11e4-8c28-020000005b00",
+    "name": "Kings Way Golf Club",
+    "address": "81 Kings Circuit,  Yarmouthport, MA 02675",
+    "courses": [
+      {
+        "name": "Kings Way",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3911,
+            "par": 60,
+            "rating": 61,
+            "slope": 108
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3911,
+            "par": 60,
+            "rating": 62.7,
+            "slope": 105
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3637,
+            "par": 60,
+            "rating": 60.1,
+            "slope": 102
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3637,
+            "par": 60,
+            "rating": 61.2,
+            "slope": 102
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 3228,
+            "par": 60,
+            "rating": 57.2,
+            "slope": 94
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 3228,
+            "par": 60,
+            "rating": 59,
+            "slope": 97
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2915,
+            "par": 60,
+            "rating": 55.7,
+            "slope": 83
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2915,
+            "par": 60,
+            "rating": 57.4,
+            "slope": 97
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95f0ca40-86ac-11e4-8c28-020000005b00/kings-way-golf-club"
+  }
+}

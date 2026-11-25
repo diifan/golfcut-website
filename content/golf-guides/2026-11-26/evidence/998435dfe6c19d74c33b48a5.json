@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b318a070-86ac-11e4-8c28-020000005b00/western-greens-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b318a070-86ac-11e4-8c28-020000005b00/western-greens-golf-course",
+  "checked_at": 1795524596.706869,
+  "sha256": "446a335f638bfa4d78a504cd1c479644de6da0cd151eefc69eeec635581ffc20",
+  "title": "Western Greens Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b318a070-86ac-11e4-8c28-020000005b00",
+    "name": "Western Greens Golf Course",
+    "address": "2475 Johnson",
+    "courses": [
+      {
+        "name": "Western Greens",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6164,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5998,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4929,
+            "par": 71,
+            "rating": 62.7,
+            "slope": 104
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b318a070-86ac-11e4-8c28-020000005b00/western-greens-golf-course"
+  }
+}

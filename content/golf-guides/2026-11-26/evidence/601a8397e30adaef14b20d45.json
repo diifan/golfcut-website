@@ -1,0 +1,315 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/88c5aa70-86ac-11e4-8c28-020000005b00/stockdale-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/88c5aa70-86ac-11e4-8c28-020000005b00/stockdale-country-club",
+  "checked_at": 1795524507.9882143,
+  "sha256": "75b469782008c764e7dd5fc9f7a0101a212c40703c3c0681f4f01290863d5499",
+  "title": "Stockdale Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "88c5aa70-86ac-11e4-8c28-020000005b00",
+    "name": "Stockdale Country Club",
+    "address": "7001 Stockdale Highway Bakersfield, CA",
+    "courses": [
+      {
+        "name": "Stockdale",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship - Navy Blue",
+            "category": "MALE",
+            "yards": 6389,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 125
+          },
+          {
+            "name": "Championship - Navy Blue",
+            "category": "FEMALE",
+            "yards": 6389,
+            "par": 71,
+            "rating": 77.9,
+            "slope": 135
+          },
+          {
+            "name": "Championship/Middle Combo",
+            "category": "MALE",
+            "yards": 6249,
+            "par": 71,
+            "rating": 70.5,
+            "slope": 123
+          },
+          {
+            "name": "Championship/Middle Combo",
+            "category": "FEMALE",
+            "yards": 6249,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Middle - Gold",
+            "category": "MALE",
+            "yards": 6135,
+            "par": 71,
+            "rating": 70,
+            "slope": 122
+          },
+          {
+            "name": "Middle - Gold",
+            "category": "FEMALE",
+            "yards": 6135,
+            "par": 71,
+            "rating": 76.5,
+            "slope": 131
+          },
+          {
+            "name": "Middle/Forward Combo",
+            "category": "MALE",
+            "yards": 5969,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 120
+          },
+          {
+            "name": "Middle/Forward Combo",
+            "category": "FEMALE",
+            "yards": 5969,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Forward - Green",
+            "category": "MALE",
+            "yards": 5851,
+            "par": 71,
+            "rating": 68.7,
+            "slope": 118
+          },
+          {
+            "name": "Forward - Green",
+            "category": "FEMALE",
+            "yards": 5851,
+            "par": 71,
+            "rating": 74.7,
+            "slope": 127
+          },
+          {
+            "name": "Junior Back - Green",
+            "category": "MALE",
+            "yards": 5851,
+            "par": 71,
+            "rating": 68.7,
+            "slope": 118
+          },
+          {
+            "name": "Junior Back - Green",
+            "category": "FEMALE",
+            "yards": 5851,
+            "par": 71,
+            "rating": 74.7,
+            "slope": 127
+          },
+          {
+            "name": "Tevis - Red",
+            "category": "MALE",
+            "yards": 5455,
+            "par": 71,
+            "rating": 66.9,
+            "slope": 113
+          },
+          {
+            "name": "Tevis - Red",
+            "category": "FEMALE",
+            "yards": 5455,
+            "par": 71,
+            "rating": 72.5,
+            "slope": 121
+          },
+          {
+            "name": "Forward - Up",
+            "category": "MALE",
+            "yards": 5224,
+            "par": 71,
+            "rating": 65.9,
+            "slope": 110
+          },
+          {
+            "name": "Forward - Up",
+            "category": "FEMALE",
+            "yards": 5224,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 118
+          },
+          {
+            "name": "Junior Middle - Gold",
+            "category": "MALE",
+            "yards": 3600,
+            "par": 71,
+            "rating": 58.5,
+            "slope": 94
+          },
+          {
+            "name": "Junior Middle - Gold",
+            "category": "FEMALE",
+            "yards": 3600,
+            "par": 71,
+            "rating": 62.1,
+            "slope": 101
+          }
+        ]
+      },
+      {
+        "name": "Alternate Hole-1 Green",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship - Navy Blue",
+            "category": "MALE",
+            "yards": 6389,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 125
+          },
+          {
+            "name": "Championship - Navy Blue",
+            "category": "FEMALE",
+            "yards": 6389,
+            "par": 71,
+            "rating": 77.9,
+            "slope": 135
+          },
+          {
+            "name": "Championship/Middle Combo",
+            "category": "MALE",
+            "yards": 6249,
+            "par": 71,
+            "rating": 70.5,
+            "slope": 123
+          },
+          {
+            "name": "Championship/Middle Combo",
+            "category": "FEMALE",
+            "yards": 6249,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Middle - Gold",
+            "category": "MALE",
+            "yards": 6135,
+            "par": 71,
+            "rating": 70,
+            "slope": 122
+          },
+          {
+            "name": "Middle - Gold",
+            "category": "FEMALE",
+            "yards": 6135,
+            "par": 71,
+            "rating": 76.5,
+            "slope": 131
+          },
+          {
+            "name": "Middle/Forward Combo",
+            "category": "MALE",
+            "yards": 5969,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 120
+          },
+          {
+            "name": "Middle/Forward Combo",
+            "category": "FEMALE",
+            "yards": 5969,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Forward - Green",
+            "category": "MALE",
+            "yards": 5851,
+            "par": 71,
+            "rating": 68.7,
+            "slope": 118
+          },
+          {
+            "name": "Forward - Green",
+            "category": "FEMALE",
+            "yards": 5851,
+            "par": 71,
+            "rating": 74.7,
+            "slope": 127
+          },
+          {
+            "name": "Junior Back - Green",
+            "category": "MALE",
+            "yards": 5851,
+            "par": 71,
+            "rating": 68.7,
+            "slope": 118
+          },
+          {
+            "name": "Junior Back - Green",
+            "category": "FEMALE",
+            "yards": 5851,
+            "par": 71,
+            "rating": 74.7,
+            "slope": 127
+          },
+          {
+            "name": "Tevis - Red",
+            "category": "MALE",
+            "yards": 5455,
+            "par": 71,
+            "rating": 66.9,
+            "slope": 113
+          },
+          {
+            "name": "Tevis - Red",
+            "category": "FEMALE",
+            "yards": 5455,
+            "par": 71,
+            "rating": 72.5,
+            "slope": 121
+          },
+          {
+            "name": "Forward - Up",
+            "category": "MALE",
+            "yards": 5224,
+            "par": 71,
+            "rating": 65.9,
+            "slope": 110
+          },
+          {
+            "name": "Forward - Up",
+            "category": "FEMALE",
+            "yards": 5224,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 118
+          },
+          {
+            "name": "Junior Middle - Gold",
+            "category": "MALE",
+            "yards": 3600,
+            "par": 71,
+            "rating": 58.5,
+            "slope": 94
+          },
+          {
+            "name": "Junior Middle - Gold",
+            "category": "FEMALE",
+            "yards": 3600,
+            "par": 71,
+            "rating": 62.1,
+            "slope": 101
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/88c5aa70-86ac-11e4-8c28-020000005b00/stockdale-country-club"
+  }
+}

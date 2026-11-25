@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b85850d0-86ac-11e4-8c28-020000005b00/ellendale-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b85850d0-86ac-11e4-8c28-020000005b00/ellendale-country-club",
+  "checked_at": 1795524778.9831834,
+  "sha256": "9106d748794824576c82d0ded1933a82d3a821e66493dc747807711f12a1832d",
+  "title": "Ellendale Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b85850d0-86ac-11e4-8c28-020000005b00",
+    "name": "Ellendale Country Club",
+    "address": "Hwy 281, Ellendale, ND",
+    "courses": [
+      {
+        "name": "9 Holes Only",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2771,
+            "par": 36,
+            "rating": 35.1,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2651,
+            "par": 36,
+            "rating": 34.5,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b85850d0-86ac-11e4-8c28-020000005b00/ellendale-country-club"
+  }
+}

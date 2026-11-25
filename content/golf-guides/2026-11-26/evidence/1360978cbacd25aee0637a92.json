@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d14f210-86ac-11e4-8c28-020000005b00/elkview-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d14f210-86ac-11e4-8c28-020000005b00/elkview-country-club",
+  "checked_at": 1795582847.8297646,
+  "sha256": "650dc129a6593b63b0542afeedb41b0c480b0831d356710ebfa17b33d06dc0bc",
+  "title": "Elkview Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d14f210-86ac-11e4-8c28-020000005b00",
+    "name": "Elkview Country Club",
+    "address": "161 Country Club Road,Green Field",
+    "courses": [
+      {
+        "name": "Elkview F + B",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6597,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6597,
+            "par": 73,
+            "rating": 77,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6176,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6176,
+            "par": 73,
+            "rating": 74.7,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5548,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5548,
+            "par": 73,
+            "rating": 71.4,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5470,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5470,
+            "par": 73,
+            "rating": 70.9,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d14f210-86ac-11e4-8c28-020000005b00/elkview-country-club"
+  }
+}

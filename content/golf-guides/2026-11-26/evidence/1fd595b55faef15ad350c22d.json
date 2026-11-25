@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad440310-86ac-11e4-8c28-020000005b00/norvelt-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad440310-86ac-11e4-8c28-020000005b00/norvelt-golf-club",
+  "checked_at": 1795524574.694324,
+  "sha256": "49fdb4ff8aa79596d10f5268830de69fea4d76ff79f1df36b7e999637e045387",
+  "title": "Norvelt Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ad440310-86ac-11e4-8c28-020000005b00",
+    "name": "Norvelt Golf Club",
+    "address": "168 Holly Pl",
+    "courses": [
+      {
+        "name": "Norvelt(Luke's Links )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Men",
+            "category": "MALE",
+            "yards": 2367,
+            "par": 33,
+            "rating": 33.2,
+            "slope": 106
+          },
+          {
+            "name": "Men",
+            "category": "FEMALE",
+            "yards": 2367,
+            "par": 34,
+            "rating": 33.5,
+            "slope": 113
+          },
+          {
+            "name": "Women",
+            "category": "MALE",
+            "yards": 2305,
+            "par": 33,
+            "rating": 33,
+            "slope": 105
+          },
+          {
+            "name": "Women",
+            "category": "FEMALE",
+            "yards": 2305,
+            "par": 34,
+            "rating": 33.2,
+            "slope": 112
+          }
+        ]
+      },
+      {
+        "name": "Norvelt(Norvelt )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6334,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6063,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5195,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4743,
+            "par": 72,
+            "rating": 63.6,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad440310-86ac-11e4-8c28-020000005b00/norvelt-golf-club"
+  }
+}

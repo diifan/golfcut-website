@@ -1,0 +1,321 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b95af3c0-86ac-11e4-8c28-020000005b00/osage-national-golf-resort",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b95af3c0-86ac-11e4-8c28-020000005b00/osage-national-golf-resort",
+  "checked_at": 1795524389.4930677,
+  "sha256": "6c179bcbf51696c42307bcf5bed66f98431944dd1c6b37f7914ebddad30e6c43",
+  "title": "Osage National Golf Resort - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b95af3c0-86ac-11e4-8c28-020000005b00",
+    "name": "Osage National Golf Resort",
+    "address": "400 Osage Hills Rd, Lake Ozark, MO",
+    "courses": [
+      {
+        "name": "Links | River",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7120,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 142
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7120,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6681,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6681,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6135,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 127
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6135,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5624,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5624,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4783,
+            "par": 72,
+            "rating": 64.6,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4783,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 117
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4049,
+            "par": 72,
+            "rating": 62.3,
+            "slope": 101
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4049,
+            "par": 72,
+            "rating": 63.7,
+            "slope": 106
+          }
+        ]
+      },
+      {
+        "name": "River | Mountain",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7167,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 139
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7167,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6641,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6641,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6145,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 126
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6145,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5720,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5720,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5066,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5066,
+            "par": 72,
+            "rating": 69,
+            "slope": 118
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4353,
+            "par": 72,
+            "rating": 62.2,
+            "slope": 101
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4353,
+            "par": 72,
+            "rating": 65.2,
+            "slope": 107
+          }
+        ]
+      },
+      {
+        "name": "Mountain | Links",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7165,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 141
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7165,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6660,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6660,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6146,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 126
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6146,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5728,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5728,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4845,
+            "par": 72,
+            "rating": 64.5,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4845,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 117
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4150,
+            "par": 72,
+            "rating": 62.4,
+            "slope": 101
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4150,
+            "par": 72,
+            "rating": 64.1,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b95af3c0-86ac-11e4-8c28-020000005b00/osage-national-golf-resort"
+  }
+}

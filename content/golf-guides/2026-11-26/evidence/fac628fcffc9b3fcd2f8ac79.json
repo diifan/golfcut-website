@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/94b14560-86ac-11e4-8c28-020000005b00/ruggles-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/94b14560-86ac-11e4-8c28-020000005b00/ruggles-golf-course",
+  "checked_at": 1795524578.2925775,
+  "sha256": "668f593549702cae8eec9a065067ac5859d195ee26107ba6269d435939649951",
+  "title": "Ruggles Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "94b14560-86ac-11e4-8c28-020000005b00",
+    "name": "Ruggles Golf Course",
+    "address": "5600 Maryland Blvd, Aberdeen Proving Ground, MD",
+    "courses": [
+      {
+        "name": "Ruggles",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6724,
+            "par": 70,
+            "rating": 74.5,
+            "slope": 131
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 6724,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6477,
+            "par": 70,
+            "rating": 72.2,
+            "slope": 130
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6477,
+            "par": 70,
+            "rating": 78.2,
+            "slope": 139
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5980,
+            "par": 70,
+            "rating": 70.1,
+            "slope": 127
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5980,
+            "par": 70,
+            "rating": 75.6,
+            "slope": 133
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5565,
+            "par": 70,
+            "rating": 68.1,
+            "slope": 122
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5565,
+            "par": 70,
+            "rating": 73.3,
+            "slope": 128
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 5286,
+            "par": 70,
+            "rating": 70.2,
+            "slope": 120
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 5286,
+            "par": 70,
+            "rating": 68.7,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/94b14560-86ac-11e4-8c28-020000005b00/ruggles-golf-course"
+  }
+}

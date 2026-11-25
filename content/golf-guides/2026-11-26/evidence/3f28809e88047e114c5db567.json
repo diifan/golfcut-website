@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/981ea6c0-86ac-11e4-8c28-020000005b00/plainfield-west-nine",
+  "resolved_url": "https://18birdies.com/golf-courses/club/981ea6c0-86ac-11e4-8c28-020000005b00/plainfield-west-nine",
+  "checked_at": 1795524989.8743548,
+  "sha256": "8b0d59df96670c5b6ae9bd0cb206d2fb0b4518dd3b92bec5501ae7744183a821",
+  "title": "Plainfield West Nine - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "981ea6c0-86ac-11e4-8c28-020000005b00",
+    "name": "Plainfield West Nine",
+    "address": "9 Woodland Avenue & Maple Ave, Edison, NJ",
+    "courses": [
+      {
+        "name": "Plainfield West Nine",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5006,
+            "par": 66,
+            "rating": 63.2,
+            "slope": 102
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5006,
+            "par": 70,
+            "rating": 68.6,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4834,
+            "par": 66,
+            "rating": 66.9,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4834,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/981ea6c0-86ac-11e4-8c28-020000005b00/plainfield-west-nine"
+  }
+}

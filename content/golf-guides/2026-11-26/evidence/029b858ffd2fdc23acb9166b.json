@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0b89060-86ac-11e4-8c28-020000005b00/nile-shrine-golf-center",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0b89060-86ac-11e4-8c28-020000005b00/nile-shrine-golf-center",
+  "checked_at": 1795524517.575765,
+  "sha256": "7a22ae94010fbbad11415f0f3b0c207cc3e57268ddc6496df907d47253351c2a",
+  "title": "Nile Shrine Golf Center - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b0b89060-86ac-11e4-8c28-020000005b00",
+    "name": "Nile Shrine Golf Center",
+    "address": "6601 244th St SW, Mountlake Terrace, WA",
+    "courses": [
+      {
+        "name": "Nile Shrine",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 5010,
+            "par": 67,
+            "rating": 64.2,
+            "slope": 110
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 5010,
+            "par": 67,
+            "rating": 68.4,
+            "slope": 117
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 4503,
+            "par": 67,
+            "rating": 62.7,
+            "slope": 102
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 4503,
+            "par": 67,
+            "rating": 66.2,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0b89060-86ac-11e4-8c28-020000005b00/nile-shrine-golf-center"
+  }
+}

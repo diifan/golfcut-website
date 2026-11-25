@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4241d00-86ac-11e4-8c28-020000005b00/lake-caroline",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4241d00-86ac-11e4-8c28-020000005b00/lake-caroline",
+  "checked_at": 1795582837.3285694,
+  "sha256": "448d396027d3027307cdfffb6e0e4023d0a45c3ad47eef86a18a8bd9c1e494da",
+  "title": "Lake Caroline - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b4241d00-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Caroline",
+    "address": "118 Caroline Club Circle, Madison, MS",
+    "courses": [
+      {
+        "name": "Lake Caroline",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6865,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6336,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5763,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5127,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4241d00-86ac-11e4-8c28-020000005b00/lake-caroline"
+  }
+}

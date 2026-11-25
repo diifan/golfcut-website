@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83fc1470-86ac-11e4-8c28-020000005b00/saukie-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83fc1470-86ac-11e4-8c28-020000005b00/saukie-golf-course",
+  "checked_at": 1795524443.1419408,
+  "sha256": "d27126bd7060cf4d50660e0f3ac02c489da177f75eab0f2c62603cf67ae310a0",
+  "title": "Saukie Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "83fc1470-86ac-11e4-8c28-020000005b00",
+    "name": "Saukie Golf Course",
+    "address": "3101 38th St., Rock Island, IL",
+    "courses": [
+      {
+        "name": "Saukie (Richard A. Welch Memorial)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5152,
+            "par": 66,
+            "rating": 63.4,
+            "slope": 92
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4913,
+            "par": 66,
+            "rating": 62.3,
+            "slope": 89
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4499,
+            "par": 66,
+            "rating": 65.4,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83fc1470-86ac-11e4-8c28-020000005b00/saukie-golf-course"
+  }
+}

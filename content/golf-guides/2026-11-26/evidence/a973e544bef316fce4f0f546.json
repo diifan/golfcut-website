@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/77f8d2d0-86ac-11e4-8c28-020000005b00/meadow-springs",
+  "resolved_url": "https://18birdies.com/golf-courses/club/77f8d2d0-86ac-11e4-8c28-020000005b00/meadow-springs",
+  "checked_at": 1795524678.7608385,
+  "sha256": "369f50aacd3f050e3d8887f7888e8e0a018d5a0eaeb576a35c07e83af08176a7",
+  "title": "Meadow Springs Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "77f8d2d0-86ac-11e4-8c28-020000005b00",
+    "name": "Meadow Springs Golf Course",
+    "address": "5839 Hwy. #64, Monetville",
+    "courses": [
+      {
+        "name": "Meadow Springs",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5240,
+            "par": 70,
+            "rating": 64.1,
+            "slope": 107
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5240,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4680,
+            "par": 70,
+            "rating": 63.9,
+            "slope": 103
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 4680,
+            "par": 70,
+            "rating": 64.9,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/77f8d2d0-86ac-11e4-8c28-020000005b00/meadow-springs"
+  }
+}

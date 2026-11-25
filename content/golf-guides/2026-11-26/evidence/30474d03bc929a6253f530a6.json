@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d17b130-86ac-11e4-8c28-020000005b00/eagles-crossing-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d17b130-86ac-11e4-8c28-020000005b00/eagles-crossing-golf-course",
+  "checked_at": 1795524729.1942348,
+  "sha256": "93fa482cda73f99ea8a5b547c7b8e4576562150f1804820d25d4bf76dff14286",
+  "title": "Eagles Crossing Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d17b130-86ac-11e4-8c28-020000005b00",
+    "name": "Eagles Crossing Golf Course",
+    "address": "501 Conodoguinet Avenue",
+    "courses": [
+      {
+        "name": "Eagles Crossing",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6465,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 141
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6220,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 139
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5450,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5020,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d17b130-86ac-11e4-8c28-020000005b00/eagles-crossing-golf-course"
+  }
+}

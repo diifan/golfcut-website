@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99351fd0-86ac-11e4-8c28-020000005b00/top-of-the-world-golf-resort",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99351fd0-86ac-11e4-8c28-020000005b00/top-of-the-world-golf-resort",
+  "checked_at": 1795524433.9545991,
+  "sha256": "c0265f2ac65b28cd1c32819891f3ad659f370b85c56e12703c222db5b87669e3",
+  "title": "Top of the World Golf Resort - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99351fd0-86ac-11e4-8c28-020000005b00",
+    "name": "Top of the World Golf Resort",
+    "address": "441 Lockhart Mountain Rd - Lake George, NY 12845",
+    "courses": [
+      {
+        "name": "Top of the World",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6044,
+            "par": 71,
+            "rating": 67.9,
+            "slope": 110
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5603,
+            "par": 71,
+            "rating": 67.2,
+            "slope": 102
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4682,
+            "par": 71,
+            "rating": 66.2,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99351fd0-86ac-11e4-8c28-020000005b00/top-of-the-world-golf-resort"
+  }
+}

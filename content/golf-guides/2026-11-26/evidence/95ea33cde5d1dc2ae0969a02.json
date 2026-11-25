@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9bd8a180-86ac-11e4-8c28-020000005b00/elyria-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9bd8a180-86ac-11e4-8c28-020000005b00/elyria-country-club",
+  "checked_at": 1795524589.7076116,
+  "sha256": "915a8a11e71b0ffe57e65eeb9583124c5653ca400a067935bc777d12188df199",
+  "title": "Elyria Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9bd8a180-86ac-11e4-8c28-020000005b00",
+    "name": "Elyria Country Club",
+    "address": "41625 Oberlin-Elyria Road, Elyria, OH",
+    "courses": [
+      {
+        "name": "The Elyria",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6736,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6326,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 125
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6005,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5802,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5610,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9bd8a180-86ac-11e4-8c28-020000005b00/elyria-country-club"
+  }
+}

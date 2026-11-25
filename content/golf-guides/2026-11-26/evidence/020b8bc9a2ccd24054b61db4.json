@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0e14e10-86ac-11e4-8c28-020000005b00/tapps-island-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0e14e10-86ac-11e4-8c28-020000005b00/tapps-island-golf-course",
+  "checked_at": 1795524975.4156053,
+  "sha256": "72b3a41183fe74268f7fdb1dce50635a5a538b5b58e5c6c28608d594b6458ee3",
+  "title": "Tapps Island Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b0e14e10-86ac-11e4-8c28-020000005b00",
+    "name": "Tapps Island Golf Course",
+    "address": "20818 Island Pkwy E, Sumner, WA",
+    "courses": [
+      {
+        "name": "Tapps Island(9 holes )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 5511,
+            "par": 70,
+            "rating": 67.4,
+            "slope": 131
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 5511,
+            "par": 70,
+            "rating": 72.8,
+            "slope": 140
+          },
+          {
+            "name": "Red/Gold",
+            "category": "MALE",
+            "yards": 4869,
+            "par": 70,
+            "rating": 64.8,
+            "slope": 117
+          },
+          {
+            "name": "Red/Gold",
+            "category": "FEMALE",
+            "yards": 4869,
+            "par": 70,
+            "rating": 69.2,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0e14e10-86ac-11e4-8c28-020000005b00/tapps-island-golf-course"
+  }
+}

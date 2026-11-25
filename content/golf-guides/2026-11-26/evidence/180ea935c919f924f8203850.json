@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96de85a0-86ac-11e4-8c28-020000005b00/phalen-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96de85a0-86ac-11e4-8c28-020000005b00/phalen-park-golf-course",
+  "checked_at": 1795523742.2908697,
+  "sha256": "a9b73747b38f4b72de127c2eaddb70d8cf3a775713a8b0d8020ca4a20dcd1b39",
+  "title": "Phalen Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "96de85a0-86ac-11e4-8c28-020000005b00",
+    "name": "Phalen Park Golf Course",
+    "address": "1615 Phalen Dr E, Saint Paul, MN",
+    "courses": [
+      {
+        "name": "Phalen Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Chmpionship Tees",
+            "category": "MALE",
+            "yards": 6092,
+            "par": 70,
+            "rating": 69.1,
+            "slope": 122
+          },
+          {
+            "name": "Chmpionship Tees",
+            "category": "FEMALE",
+            "yards": 6092,
+            "par": 71,
+            "rating": 74.3,
+            "slope": 131
+          },
+          {
+            "name": "MGA Tees",
+            "category": "MALE",
+            "yards": 5881,
+            "par": 70,
+            "rating": 68.1,
+            "slope": 119
+          },
+          {
+            "name": "MGA Tees",
+            "category": "FEMALE",
+            "yards": 5881,
+            "par": 71,
+            "rating": 73.5,
+            "slope": 127
+          },
+          {
+            "name": "Forward Tees",
+            "category": "MALE",
+            "yards": 5311,
+            "par": 70,
+            "rating": 65.5,
+            "slope": 115
+          },
+          {
+            "name": "Forward Tees",
+            "category": "FEMALE",
+            "yards": 5311,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96de85a0-86ac-11e4-8c28-020000005b00/phalen-park-golf-course"
+  }
+}

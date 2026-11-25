@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99920ce0-86ac-11e4-8c28-020000005b00/stonegate-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99920ce0-86ac-11e4-8c28-020000005b00/stonegate-golf-course",
+  "checked_at": 1795524752.9996965,
+  "sha256": "85f3549101ccd8db6671a9a74dd9e705f94cf9abff6f337b923aee10d22f853c",
+  "title": "Stonegate Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "99920ce0-86ac-11e4-8c28-020000005b00",
+    "name": "Stonegate Golf Course",
+    "address": "500 County Route 19, West Winfield, NY",
+    "courses": [
+      {
+        "name": "Stonegate",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5715,
+            "par": 71,
+            "rating": 71,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5550,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4775,
+            "par": 71,
+            "rating": 66.7,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99920ce0-86ac-11e4-8c28-020000005b00/stonegate-golf-course"
+  }
+}

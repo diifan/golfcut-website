@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5c6f790-86ac-11e4-8c28-020000005b00/ojibwa-golf-bowl",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5c6f790-86ac-11e4-8c28-020000005b00/ojibwa-golf-bowl",
+  "checked_at": 1795582856.1601906,
+  "sha256": "f467c31239b4f0bc76fb53e49ec00357fd172501a44871272b6b1a01569d5a57",
+  "title": "Ojibwa Golf & Bowl - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b5c6f790-86ac-11e4-8c28-020000005b00",
+    "name": "Ojibwa Golf & Bowl",
+    "address": "8140 136th St, Chippewa Falls WI 54729",
+    "courses": [
+      {
+        "name": "Ojibwa ",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2906,
+            "par": 35,
+            "rating": 34.2,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2704,
+            "par": 35,
+            "rating": 33.2,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2464,
+            "par": 35,
+            "rating": 32,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5c6f790-86ac-11e4-8c28-020000005b00/ojibwa-golf-bowl"
+  }
+}

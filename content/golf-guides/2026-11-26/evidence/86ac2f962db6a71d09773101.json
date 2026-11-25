@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9afce780-86ac-11e4-8c28-020000005b00/olde-beau-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9afce780-86ac-11e4-8c28-020000005b00/olde-beau-golf-country-club",
+  "checked_at": 1795524601.007484,
+  "sha256": "eb7ec9192bc5e472f4db2ee95f04826bf3f79486ffaff2106a6647602f0e71ee",
+  "title": "Olde Beau Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9afce780-86ac-11e4-8c28-020000005b00",
+    "name": "Olde Beau Golf & Country Club",
+    "address": "729 Olde Beau Blvd, Roaring Gap, NC",
+    "courses": [
+      {
+        "name": "Olde Beau",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6565,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6056,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5706,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 126
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4993,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4307,
+            "par": 72,
+            "rating": 64.5,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9afce780-86ac-11e4-8c28-020000005b00/olde-beau-golf-country-club"
+  }
+}

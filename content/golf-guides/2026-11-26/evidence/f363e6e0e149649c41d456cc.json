@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/adb58990-86ac-11e4-8c28-020000005b00/wilkes-barre-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/adb58990-86ac-11e4-8c28-020000005b00/wilkes-barre-golf-club",
+  "checked_at": 1795524606.1234524,
+  "sha256": "cb03758b7f0676b945b4dced3b81cbe8b6c317b2e588b42429ab68af6a66df4a",
+  "title": "Wilkes-Barre Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "adb58990-86ac-11e4-8c28-020000005b00",
+    "name": "Wilkes-Barre Golf Club",
+    "address": "1001 Fairway Drive, Wilkes-Barre, PA",
+    "courses": [
+      {
+        "name": "Wilkes - Barre",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7010,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7010,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6499,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6499,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6060,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6060,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 126
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5209,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5209,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/adb58990-86ac-11e4-8c28-020000005b00/wilkes-barre-golf-club"
+  }
+}

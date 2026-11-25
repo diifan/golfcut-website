@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c28e460-86ac-11e4-8c28-020000005b00/blues-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c28e460-86ac-11e4-8c28-020000005b00/blues-creek-golf-course",
+  "checked_at": 1795524978.0310483,
+  "sha256": "3535095fe8377451abc6800fa840cac2e5ce0b51d8527eb759e98b378f5abb84",
+  "title": "Blues Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "9c28e460-86ac-11e4-8c28-020000005b00",
+    "name": "Blues Creek Golf Course",
+    "address": "20460 State Route 4, Marysville, OH",
+    "courses": [
+      {
+        "name": "Blues Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6147,
+            "par": 71,
+            "rating": 70.1,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6147,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5763,
+            "par": 71,
+            "rating": 68,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5763,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5366,
+            "par": 71,
+            "rating": 65.9,
+            "slope": 121
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5366,
+            "par": 71,
+            "rating": 70.8,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4791,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4791,
+            "par": 71,
+            "rating": 67.6,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c28e460-86ac-11e4-8c28-020000005b00/blues-creek-golf-course"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/997f6f40-86ac-11e4-8c28-020000005b00/oneonta-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/997f6f40-86ac-11e4-8c28-020000005b00/oneonta-country-club",
+  "checked_at": 1795524995.1228573,
+  "sha256": "a7611b796132aef4a726bfd9c69c8ffe28bb8a364169bf37930e7fd790c83af0",
+  "title": "Oneonta Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "997f6f40-86ac-11e4-8c28-020000005b00",
+    "name": "Oneonta Country Club",
+    "address": "7 Country Club Dr",
+    "courses": [
+      {
+        "name": "Oneonta",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6407,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6144,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5446,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5414,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/997f6f40-86ac-11e4-8c28-020000005b00/oneonta-country-club"
+  }
+}

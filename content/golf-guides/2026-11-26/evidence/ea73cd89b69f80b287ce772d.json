@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d6498b0-86ac-11e4-8c28-020000005b00/clayton-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d6498b0-86ac-11e4-8c28-020000005b00/clayton-park-golf-course",
+  "checked_at": 1795524565.1847672,
+  "sha256": "510b1089569c4438d5602864908df6e77ef6ce2d5f646be6b7cdfb3008aff207",
+  "title": "Clayton Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9d6498b0-86ac-11e4-8c28-020000005b00",
+    "name": "Clayton Park Golf Course",
+    "address": "Chonochester Hwy Route 32, Glen Mills, PA",
+    "courses": [
+      {
+        "name": "Clayton Park (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1605,
+            "par": 30,
+            "rating": 29.9,
+            "slope": 96
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1605,
+            "par": 30,
+            "rating": 31.2,
+            "slope": 98
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d6498b0-86ac-11e4-8c28-020000005b00/clayton-park-golf-course"
+  }
+}

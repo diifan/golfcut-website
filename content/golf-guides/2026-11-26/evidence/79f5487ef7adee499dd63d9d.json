@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4737580-86ac-11e4-8c28-020000005b00/kearney-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4737580-86ac-11e4-8c28-020000005b00/kearney-country-club",
+  "checked_at": 1795582869.413204,
+  "sha256": "804f9c26de9cd4108f1e27592ffcd6398160a2d86fc043580d6b0e95139a94fe",
+  "title": "Kearney Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b4737580-86ac-11e4-8c28-020000005b00",
+    "name": "Kearney Country Club",
+    "address": "Tower Hill Rd, Kearney, NE",
+    "courses": [
+      {
+        "name": "Kearney",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6115,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6115,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5711,
+            "par": 71,
+            "rating": 68.5,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5711,
+            "par": 72,
+            "rating": 74,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5022,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5022,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 116
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4245,
+            "par": 71,
+            "rating": 64.2,
+            "slope": 110
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 4245,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4737580-86ac-11e4-8c28-020000005b00/kearney-country-club"
+  }
+}

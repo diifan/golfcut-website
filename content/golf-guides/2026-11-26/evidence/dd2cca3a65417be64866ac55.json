@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d6c39d0-86ac-11e4-8c28-020000005b00/grove-city-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d6c39d0-86ac-11e4-8c28-020000005b00/grove-city-country-club",
+  "checked_at": 1795582839.0346763,
+  "sha256": "38f28f5b3ada85cbfe5f29b1760a0b47159f92a515abfd75e089098f00e3aa02",
+  "title": "Grove City Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d6c39d0-86ac-11e4-8c28-020000005b00",
+    "name": "Grove City Country Club",
+    "address": "73 Country Club Road",
+    "courses": [
+      {
+        "name": "Grove City F + B",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6748,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6748,
+            "par": 72,
+            "rating": 79.1,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6380,
+            "par": 72,
+            "rating": 71,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6380,
+            "par": 72,
+            "rating": 76.8,
+            "slope": 134
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5848,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5848,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5193,
+            "par": 72,
+            "rating": 65.2,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5193,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d6c39d0-86ac-11e4-8c28-020000005b00/grove-city-country-club"
+  }
+}

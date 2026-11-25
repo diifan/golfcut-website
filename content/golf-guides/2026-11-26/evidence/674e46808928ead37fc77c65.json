@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d474cb0-86ac-11e4-8c28-020000005b00/down-river-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d474cb0-86ac-11e4-8c28-020000005b00/down-river-golf-country-club",
+  "checked_at": 1795524753.502875,
+  "sha256": "9a32be5ef626eb469f7b07e2c497a8b67aec96077b45a9888b0a5e3508d42f89",
+  "title": "Down River Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d474cb0-86ac-11e4-8c28-020000005b00",
+    "name": "Down River Golf & Country Club",
+    "address": "134 Riversbend Dr",
+    "courses": [
+      {
+        "name": "Down River",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue markers",
+            "category": "MALE",
+            "yards": 6900,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 127
+          },
+          {
+            "name": "White markers",
+            "category": "MALE",
+            "yards": 6519,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 124
+          },
+          {
+            "name": "Gold seniors",
+            "category": "MALE",
+            "yards": 5615,
+            "par": 72,
+            "rating": 67,
+            "slope": 112
+          },
+          {
+            "name": "Red ladies",
+            "category": "MALE",
+            "yards": 5088,
+            "par": 72,
+            "rating": 64.3,
+            "slope": 104
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d474cb0-86ac-11e4-8c28-020000005b00/down-river-golf-country-club"
+  }
+}

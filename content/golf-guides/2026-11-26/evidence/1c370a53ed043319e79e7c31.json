@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9173400-86ac-11e4-8c28-020000005b00/blue-springs-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9173400-86ac-11e4-8c28-020000005b00/blue-springs-country-club",
+  "checked_at": 1795524528.7230012,
+  "sha256": "82258d76ccb863a4305875b3bb20acfd0a444ebd2a5b185881b2818915093424",
+  "title": "Blue Springs Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b9173400-86ac-11e4-8c28-020000005b00",
+    "name": "Blue Springs Country Club",
+    "address": "1600 N Circle Dr, Blue Springs, MO",
+    "courses": [
+      {
+        "name": "Blue Springs",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6590,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6590,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6174,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6174,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 135
+          },
+          {
+            "name": "Grey",
+            "category": "MALE",
+            "yards": 5541,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 122
+          },
+          {
+            "name": "Grey",
+            "category": "FEMALE",
+            "yards": 5541,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5194,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5194,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9173400-86ac-11e4-8c28-020000005b00/blue-springs-country-club"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b061bdd0-86ac-11e4-8c28-020000005b00/williamsburg-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b061bdd0-86ac-11e4-8c28-020000005b00/williamsburg-golf-club",
+  "checked_at": 1795583831.274204,
+  "sha256": "b3e6057e811dee688890555044f8c4437eae2626e847f5715ae41a1b6e1a0fee",
+  "title": "Williamsburg Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b061bdd0-86ac-11e4-8c28-020000005b00",
+    "name": "Williamsburg Golf Club",
+    "address": "1801 Merrimac Trail, Williamsburg VA",
+    "courses": [
+      {
+        "name": "Williamsburg CC",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6837,
+            "par": 72,
+            "rating": 73,
+            "slope": 134
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6837,
+            "par": 71,
+            "rating": 78.3,
+            "slope": 139
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6370,
+            "par": 72,
+            "rating": 71,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6370,
+            "par": 71,
+            "rating": 75.8,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6057,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6057,
+            "par": 71,
+            "rating": 74.7,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5569,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5569,
+            "par": 71,
+            "rating": 71.9,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b061bdd0-86ac-11e4-8c28-020000005b00/williamsburg-golf-club"
+  }
+}

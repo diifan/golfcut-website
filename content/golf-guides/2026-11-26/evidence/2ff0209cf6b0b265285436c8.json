@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98f9eb90-86ac-11e4-8c28-020000005b00/battle-island-state-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98f9eb90-86ac-11e4-8c28-020000005b00/battle-island-state-course",
+  "checked_at": 1795524568.777834,
+  "sha256": "23ee93edafb20a8fc03bd2d85b52195eacbad69c6b31fd9688e15f1fe4c4f80e",
+  "title": "Battle Island State Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "98f9eb90-86ac-11e4-8c28-020000005b00",
+    "name": "Battle Island State Course",
+    "address": "2150 State Route 48, Fulton, NY",
+    "courses": [
+      {
+        "name": "Battle Island State Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5973,
+            "par": 72,
+            "rating": 69,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5973,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5798,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5798,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5521,
+            "par": 72,
+            "rating": 63.5,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5521,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98f9eb90-86ac-11e4-8c28-020000005b00/battle-island-state-course"
+  }
+}

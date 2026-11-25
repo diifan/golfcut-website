@@ -1,0 +1,273 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/907c7550-86ac-11e4-8c28-020000005b00/woodmont-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/907c7550-86ac-11e4-8c28-020000005b00/woodmont-country-club",
+  "checked_at": 1795524808.0136266,
+  "sha256": "8d46c33cb320c643e13c0b8c4471bbb8c49a3c190b395fa1fb86b9b28f5857e3",
+  "title": "Woodmont Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "907c7550-86ac-11e4-8c28-020000005b00",
+    "name": "Woodmont Country Club",
+    "address": "7801 NW 80th Ave, Tamarac, Fl",
+    "courses": [
+      {
+        "name": "Cypress",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7043,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 138
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7043,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6623,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6623,
+            "par": 72,
+            "rating": 77.1,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6290,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6290,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4860,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4860,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 117
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5407,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 114
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5407,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 126
+          }
+        ]
+      },
+      {
+        "name": "Pines",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2990,
+            "par": 36,
+            "rating": 34.7,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2990,
+            "par": 36,
+            "rating": 36.9,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2813,
+            "par": 36,
+            "rating": 33.7,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2813,
+            "par": 36,
+            "rating": 35.9,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2454,
+            "par": 36,
+            "rating": 32.3,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2454,
+            "par": 36,
+            "rating": 34.7,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2143,
+            "par": 36,
+            "rating": 32.2,
+            "slope": 102
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2143,
+            "par": 36,
+            "rating": 33.7,
+            "slope": 114
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 2143,
+            "par": 36,
+            "rating": 32.2,
+            "slope": 102
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 2143,
+            "par": 36,
+            "rating": 32.3,
+            "slope": 109
+          }
+        ]
+      },
+      {
+        "name": "Temp Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6494,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6494,
+            "par": 72,
+            "rating": 76.4,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6135,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6135,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5607,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5607,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4534,
+            "par": 72,
+            "rating": 65.6,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4534,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 117
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4821,
+            "par": 72,
+            "rating": 66,
+            "slope": 114
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4821,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/907c7550-86ac-11e4-8c28-020000005b00/woodmont-country-club"
+  }
+}

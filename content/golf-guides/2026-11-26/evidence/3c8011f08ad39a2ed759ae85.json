@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b728cb0-86ac-11e4-8c28-020000005b00/turkeyfoot-lake",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b728cb0-86ac-11e4-8c28-020000005b00/turkeyfoot-lake",
+  "checked_at": 1795524722.3339005,
+  "sha256": "b538683c34a42eac3a6b0f73fa94fffa9c2771953c1cc6b2f851ec823bdca1d7",
+  "title": "Turkeyfoot Lake Golf Links - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9b728cb0-86ac-11e4-8c28-020000005b00",
+    "name": "Turkeyfoot Lake Golf Links",
+    "address": "294 W Turkeyfoot Lake Road, Akron, OH",
+    "courses": [
+      {
+        "name": "Turkeyfoot Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6286,
+            "par": 71,
+            "rating": 70.5,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6286,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6073,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 116
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6073,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5550,
+            "par": 71,
+            "rating": 67,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5550,
+            "par": 72,
+            "rating": 72,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4890,
+            "par": 71,
+            "rating": 63.6,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4890,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b728cb0-86ac-11e4-8c28-020000005b00/turkeyfoot-lake"
+  }
+}

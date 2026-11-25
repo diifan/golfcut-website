@@ -1,0 +1,225 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3bf8ed0-86ac-11e4-8c28-020000005b00/centennial-acres-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3bf8ed0-86ac-11e4-8c28-020000005b00/centennial-acres-golf-course",
+  "checked_at": 1795524705.2753358,
+  "sha256": "d1ed565cbed4b2e63dc21a8aa38a5d8fae0fde9ecf69dab8fa639efd266f0f4a",
+  "title": "Centennial Acres Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b3bf8ed0-86ac-11e4-8c28-020000005b00",
+    "name": "Centennial Acres Golf Course",
+    "address": "12485 DOW ROAD, SUNFIELD MI 48890",
+    "courses": [
+      {
+        "name": "Centennial Acres(Midday/Sunset )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6435,
+            "par": 71,
+            "rating": 71.4,
+            "slope": 130
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6435,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5863,
+            "par": 71,
+            "rating": 66.2,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5863,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 128
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5269,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 120
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5269,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 121
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4574,
+            "par": 71,
+            "rating": 65.7,
+            "slope": 112
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 4574,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 113
+          }
+        ]
+      },
+      {
+        "name": "Centennial Acres(Sunrise/Midday )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6674,
+            "par": 72,
+            "rating": 73,
+            "slope": 124
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6674,
+            "par": 72,
+            "rating": 77.4,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6183,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6183,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 132
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5771,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 119
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5771,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 127
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4960,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 115
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 4960,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 117
+          }
+        ]
+      },
+      {
+        "name": "Centennial Acres(Sunrise/Sunset )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6545,
+            "par": 71,
+            "rating": 72.1,
+            "slope": 127
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6545,
+            "par": 72,
+            "rating": 76.7,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6068,
+            "par": 71,
+            "rating": 67.4,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6068,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 130
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5488,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 118
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5488,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 124
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4656,
+            "par": 71,
+            "rating": 66.1,
+            "slope": 113
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 4656,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3bf8ed0-86ac-11e4-8c28-020000005b00/centennial-acres-golf-course"
+  }
+}

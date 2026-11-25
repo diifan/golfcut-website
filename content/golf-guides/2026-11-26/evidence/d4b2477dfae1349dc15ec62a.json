@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c6bcf10-86ac-11e4-8c28-020000005b00/cedar-crest-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c6bcf10-86ac-11e4-8c28-020000005b00/cedar-crest-golf-course",
+  "checked_at": 1795524031.2936907,
+  "sha256": "24ac1b07d46e5ca45a790c4a6fc26001eef9907d77d4e1ed65fd1bc74bb8a60a",
+  "title": "Cedar Crest Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8c6bcf10-86ac-11e4-8c28-020000005b00",
+    "name": "Cedar Crest Golf Course",
+    "address": "1800 Southerland Ave, Dallas, TX ",
+    "courses": [
+      {
+        "name": "Cedar Crest Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 6726,
+            "par": 70,
+            "rating": 73.8,
+            "slope": 134
+          },
+          {
+            "name": "Tournament",
+            "category": "FEMALE",
+            "yards": 6726,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6573,
+            "par": 70,
+            "rating": 73.2,
+            "slope": 132
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6573,
+            "par": 71,
+            "rating": 79.7,
+            "slope": 141
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6114,
+            "par": 70,
+            "rating": 70.8,
+            "slope": 134
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6114,
+            "par": 71,
+            "rating": 77.1,
+            "slope": 136
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5675,
+            "par": 70,
+            "rating": 69.1,
+            "slope": 125
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5675,
+            "par": 71,
+            "rating": 74.6,
+            "slope": 131
+          },
+          {
+            "name": "Ruby",
+            "category": "MALE",
+            "yards": 4902,
+            "par": 70,
+            "rating": 65.2,
+            "slope": 112
+          },
+          {
+            "name": "Ruby",
+            "category": "FEMALE",
+            "yards": 4902,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c6bcf10-86ac-11e4-8c28-020000005b00/cedar-crest-golf-course"
+  }
+}

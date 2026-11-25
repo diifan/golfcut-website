@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3b3f610-86ac-11e4-8c28-020000005b00/pine-river-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3b3f610-86ac-11e4-8c28-020000005b00/pine-river-golf-club",
+  "checked_at": 1795582930.4841454,
+  "sha256": "37315a1ceb24ac7e4bb533876a9ba70c321590df90a06618c00facdca7f429cd",
+  "title": "Pine River Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b3b3f610-86ac-11e4-8c28-020000005b00",
+    "name": "Pine River Golf Club",
+    "address": "2244 Pine River Rd, Standish, MI 48658",
+    "courses": [
+      {
+        "name": "Pine River",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6350,
+            "par": 71,
+            "rating": 70.7,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6101,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4852,
+            "par": 71,
+            "rating": 67,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3b3f610-86ac-11e4-8c28-020000005b00/pine-river-golf-club"
+  }
+}

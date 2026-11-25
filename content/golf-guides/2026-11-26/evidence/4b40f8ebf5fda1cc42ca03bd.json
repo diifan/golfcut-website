@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b7524c0-86ac-11e4-8c28-020000005b00/st-albans-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b7524c0-86ac-11e4-8c28-020000005b00/st-albans-golf-club",
+  "checked_at": 1795524325.364145,
+  "sha256": "565c9685451ad1a23098e743b64ad228f5f4f739130db1fb7d27d439815d8b2c",
+  "title": "St. Albans Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9b7524c0-86ac-11e4-8c28-020000005b00",
+    "name": "St. Albans Golf Club",
+    "address": "3833 N Ridge Road NW, Alexandria, OH",
+    "courses": [
+      {
+        "name": "Saint Albans",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6707,
+            "par": 71,
+            "rating": 71.6,
+            "slope": 114
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6707,
+            "par": 71,
+            "rating": 77.6,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6165,
+            "par": 71,
+            "rating": 68.8,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6165,
+            "par": 71,
+            "rating": 74.7,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5667,
+            "par": 71,
+            "rating": 70.7,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5667,
+            "par": 71,
+            "rating": 72,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5212,
+            "par": 71,
+            "rating": 71.1,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5212,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b7524c0-86ac-11e4-8c28-020000005b00/st-albans-golf-club"
+  }
+}

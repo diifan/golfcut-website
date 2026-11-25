@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/88eae5b0-86ac-11e4-8c28-020000005b00/lake-almanor-west-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/88eae5b0-86ac-11e4-8c28-020000005b00/lake-almanor-west-golf-course",
+  "checked_at": 1795582936.3271961,
+  "sha256": "e74adfd49aa9db3e87bc298ee0718515249f6e049da24dcaece1af43e270662d",
+  "title": "Lake Almanor West Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "88eae5b0-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Almanor West Golf Course",
+    "address": "111 Slim Dr, Chester, CA",
+    "courses": [
+      {
+        "name": "Lake Almanor West",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 6310,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 127
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 6310,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 133
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "MALE",
+            "yards": 5368,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 119
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "FEMALE",
+            "yards": 5368,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/88eae5b0-86ac-11e4-8c28-020000005b00/lake-almanor-west-golf-course"
+  }
+}

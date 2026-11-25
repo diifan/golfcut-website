@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95ccc780-86ac-11e4-8c28-020000005b00/cohasse-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95ccc780-86ac-11e4-8c28-020000005b00/cohasse-country-club",
+  "checked_at": 1795524274.169521,
+  "sha256": "fb94f93d2b4c98b7063595010906832944449ab7d3dc537c0ac46a8408274aa8",
+  "title": "Cohasse Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95ccc780-86ac-11e4-8c28-020000005b00",
+    "name": "Cohasse Country Club",
+    "address": "383 Eastford Road, Southbride, MA",
+    "courses": [
+      {
+        "name": "Cohasse",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 6026,
+            "par": 70,
+            "rating": 70,
+            "slope": 130
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 6026,
+            "par": 72,
+            "rating": 76.6,
+            "slope": 133
+          },
+          {
+            "name": "Yellow/Green",
+            "category": "MALE",
+            "yards": 5394,
+            "par": 70,
+            "rating": 67.7,
+            "slope": 118
+          },
+          {
+            "name": "Yellow/Green",
+            "category": "FEMALE",
+            "yards": 5394,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 127
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "MALE",
+            "yards": 5224,
+            "par": 70,
+            "rating": 68.7,
+            "slope": 118
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "FEMALE",
+            "yards": 5224,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95ccc780-86ac-11e4-8c28-020000005b00/cohasse-country-club"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9494080-86ac-11e4-8c28-020000005b00/winter-stone",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9494080-86ac-11e4-8c28-020000005b00/winter-stone",
+  "checked_at": 1795524585.09317,
+  "sha256": "5f713195ea518c0c9adbb31317bda6576d607c84dff9100ab2b67d01161c5623",
+  "title": "WinterStone - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b9494080-86ac-11e4-8c28-020000005b00",
+    "name": "WinterStone",
+    "address": "17101 E Kentucky Rd, Independence, MO",
+    "courses": [
+      {
+        "name": "WinterStone",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6752,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 133
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6752,
+            "par": 72,
+            "rating": 77.8,
+            "slope": 138
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 6234,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 6234,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5611,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5611,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4976,
+            "par": 72,
+            "rating": 65,
+            "slope": 111
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4976,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9494080-86ac-11e4-8c28-020000005b00/winter-stone"
+  }
+}

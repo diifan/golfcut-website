@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/c4749b40-f5eb-11ee-8b3b-06780482e2ce/gauci-golf-resort",
+  "resolved_url": "https://18birdies.com/golf-courses/club/c4749b40-f5eb-11ee-8b3b-06780482e2ce/gauci-golf-resort",
+  "checked_at": 1795524755.6631646,
+  "sha256": "360327cf0f677fb79283ce5e9012a2183d8004fd42610524854636ff2988314a",
+  "title": "Gauci Golf Resort - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "c4749b40-f5eb-11ee-8b3b-06780482e2ce",
+    "name": "Gauci Golf Resort",
+    "address": "8421 Sports Park Dr , Onsted, MI",
+    "courses": [
+      {
+        "name": "Gauci Golf Resort",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2348,
+            "par": 34,
+            "rating": 33.2,
+            "slope": 106
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2348,
+            "par": 34,
+            "rating": 33.4,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2184,
+            "par": 34,
+            "rating": 32.4,
+            "slope": 103
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2184,
+            "par": 34,
+            "rating": 32.6,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1598,
+            "par": 34,
+            "rating": 29.7,
+            "slope": 92
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1598,
+            "par": 34,
+            "rating": 29.4,
+            "slope": 99
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/c4749b40-f5eb-11ee-8b3b-06780482e2ce/gauci-golf-resort"
+  }
+}

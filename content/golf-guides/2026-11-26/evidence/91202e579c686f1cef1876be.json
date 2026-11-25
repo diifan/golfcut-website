@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8fd0cc00-86ac-11e4-8c28-020000005b00/naples-national-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8fd0cc00-86ac-11e4-8c28-020000005b00/naples-national-golf-club",
+  "checked_at": 1795524389.8889952,
+  "sha256": "02d0f03486b2f8384d66d709bd1fafb3f50d6db390a7bf76d469ebcb0583a963",
+  "title": "Naples National Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "8fd0cc00-86ac-11e4-8c28-020000005b00",
+    "name": "Naples National Golf Club",
+    "address": "9325 Collier Blvd, Naples, FL",
+    "courses": [
+      {
+        "name": "Naples National",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7045,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 147
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6729,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 144
+          },
+          {
+            "name": "Member",
+            "category": "MALE",
+            "yards": 6325,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 138
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6007,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 130
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5575,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8fd0cc00-86ac-11e4-8c28-020000005b00/naples-national-golf-club"
+  }
+}

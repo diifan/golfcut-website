@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b22762a0-86ac-11e4-8c28-020000005b00/pinecroft-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b22762a0-86ac-11e4-8c28-020000005b00/pinecroft-golf-course",
+  "checked_at": 1795524532.56036,
+  "sha256": "4698394a475137caaf07e433c276a2130244be54265ef5140cfd898e1f33f034",
+  "title": "Pinecroft Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b22762a0-86ac-11e4-8c28-020000005b00",
+    "name": "Pinecroft Golf Course",
+    "address": "8260 Henry Rd",
+    "courses": [
+      {
+        "name": "Pinecroft F + B",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6447,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 126
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5939,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 121
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4975,
+            "par": 72,
+            "rating": 64.2,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b22762a0-86ac-11e4-8c28-020000005b00/pinecroft-golf-course"
+  }
+}

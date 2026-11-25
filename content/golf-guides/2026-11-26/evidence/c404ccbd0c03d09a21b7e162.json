@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ed702b0-86ac-11e4-8c28-020000005b00/pinebrook-ironwood-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ed702b0-86ac-11e4-8c28-020000005b00/pinebrook-ironwood-golf-club",
+  "checked_at": 1795524997.8830404,
+  "sha256": "59155e206953178b503e80bfcbfc86eacd91283092cca63e46b2e47d6f35a4ac",
+  "title": "Pinebrook/Ironwood Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8ed702b0-86ac-11e4-8c28-020000005b00",
+    "name": "Pinebrook/Ironwood Golf Club",
+    "address": "4260 Ironwood Circle, Bradenton, FL",
+    "courses": [
+      {
+        "name": "Pinebrook Ironwood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3752,
+            "par": 61,
+            "rating": 60.3,
+            "slope": 101
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3752,
+            "par": 61,
+            "rating": 61.8,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3122,
+            "par": 61,
+            "rating": 58.4,
+            "slope": 93
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3122,
+            "par": 61,
+            "rating": 58.5,
+            "slope": 95
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ed702b0-86ac-11e4-8c28-020000005b00/pinebrook-ironwood-golf-club"
+  }
+}

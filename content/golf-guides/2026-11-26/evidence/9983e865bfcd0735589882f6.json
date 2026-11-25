@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9e9ed50-86ac-11e4-8c28-020000005b00/sagamore-hampton-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9e9ed50-86ac-11e4-8c28-020000005b00/sagamore-hampton-golf-club",
+  "checked_at": 1795523783.3049262,
+  "sha256": "87157d437989db44253551cb1f14ce1c2f139c1b97a7fa2f178c45bcf3db02f1",
+  "title": "Sagamore Hampton Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b9e9ed50-86ac-11e4-8c28-020000005b00",
+    "name": "Sagamore Hampton Golf Club",
+    "address": "101 N Rd, North Hampton, NH",
+    "courses": [
+      {
+        "name": "Sagamore Hampton",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6057,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 116
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6057,
+            "par": 71,
+            "rating": 73.2,
+            "slope": 122
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5690,
+            "par": 71,
+            "rating": 66.5,
+            "slope": 112
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5690,
+            "par": 71,
+            "rating": 71.4,
+            "slope": 119
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 4367,
+            "par": 71,
+            "rating": 61.8,
+            "slope": 102
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 4367,
+            "par": 71,
+            "rating": 65.6,
+            "slope": 107
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 3048,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 3048,
+            "par": 71,
+            "rating": 60,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9e9ed50-86ac-11e4-8c28-020000005b00/sagamore-hampton-golf-club"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c8598a0-86ac-11e4-8c28-020000005b00/cleburne-golf-links",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c8598a0-86ac-11e4-8c28-020000005b00/cleburne-golf-links",
+  "checked_at": 1795524492.5801728,
+  "sha256": "7b23ea233d679620f5a296036fda93c225fed7a1a6051da1b7b665d490831b3f",
+  "title": "Cleburne Golf Links - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8c8598a0-86ac-11e4-8c28-020000005b00",
+    "name": "Cleburne Golf Links",
+    "address": "2501 Country Club, Cleburne, TX",
+    "courses": [
+      {
+        "name": "Cleburne Golf Links",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7068,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6605,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6140,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5399,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 108
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2695,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c8598a0-86ac-11e4-8c28-020000005b00/cleburne-golf-links"
+  }
+}

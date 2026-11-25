@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e047070-86ac-11e4-8c28-020000005b00/apache-wells-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e047070-86ac-11e4-8c28-020000005b00/apache-wells-golf-club",
+  "checked_at": 1795524747.0040827,
+  "sha256": "84d9d743b70021e3f9f66769bd15bbf3c2d09e58c93ce2c0482f8147dbb5d4d7",
+  "title": "Apache Wells Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8e047070-86ac-11e4-8c28-020000005b00",
+    "name": "Apache Wells Golf Club",
+    "address": "5601 East Hermosa Vista Drive, Mesa, AZ",
+    "courses": [
+      {
+        "name": "Apache Wells",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6038,
+            "par": 71,
+            "rating": 67.9,
+            "slope": 109
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6038,
+            "par": 71,
+            "rating": 74,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5746,
+            "par": 71,
+            "rating": 66.3,
+            "slope": 106
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5746,
+            "par": 71,
+            "rating": 72,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5450,
+            "par": 71,
+            "rating": 64.6,
+            "slope": 103
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5450,
+            "par": 71,
+            "rating": 69.9,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5252,
+            "par": 71,
+            "rating": 63.9,
+            "slope": 99
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5252,
+            "par": 71,
+            "rating": 69,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e047070-86ac-11e4-8c28-020000005b00/apache-wells-golf-club"
+  }
+}

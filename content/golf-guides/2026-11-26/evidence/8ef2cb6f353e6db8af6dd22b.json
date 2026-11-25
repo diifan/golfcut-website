@@ -1,0 +1,531 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3577e30-86ac-11e4-8c28-020000005b00/copper-hills-golf-and-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3577e30-86ac-11e4-8c28-020000005b00/copper-hills-golf-and-country-club",
+  "checked_at": 1795524535.59152,
+  "sha256": "215d894479be9a281815817230a7873ccfc295e25015a8eded4e4d8f121bf414",
+  "title": "Copper Hills Golf and Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b3577e30-86ac-11e4-8c28-020000005b00",
+    "name": "Copper Hills Golf and Country Club",
+    "address": "2125 Lakeview Rd, Oxford, MI",
+    "courses": [
+      {
+        "name": "Jungle/Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6539,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 142
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 6539,
+            "par": 72,
+            "rating": 76.7,
+            "slope": 136
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6235,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 138
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6235,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 132
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5858,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 128
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5858,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 128
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5287,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 118
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5287,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 136
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 4673,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 113
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 4673,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 123
+          }
+        ]
+      },
+      {
+        "name": "Marsh/Jungle",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6493,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 140
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 6493,
+            "par": 72,
+            "rating": 76.4,
+            "slope": 135
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6163,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 135
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6163,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 132
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5816,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 125
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5816,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 127
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5336,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 116
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5336,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 136
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 4771,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 114
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 4771,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 127
+          }
+        ]
+      },
+      {
+        "name": "Hills/Marsh ",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6734,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 140
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 6734,
+            "par": 72,
+            "rating": 77.7,
+            "slope": 138
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6414,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 138
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6414,
+            "par": 72,
+            "rating": 76,
+            "slope": 134
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6020,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 135
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6020,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 130
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5511,
+            "par": 72,
+            "rating": 67,
+            "slope": 125
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5511,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 142
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 4754,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 114
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 4754,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 125
+          }
+        ]
+      },
+      {
+        "name": "Marsh 9",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 3344,
+            "par": 36,
+            "rating": 35.8,
+            "slope": 137
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 3344,
+            "par": 36,
+            "rating": 38.7,
+            "slope": 131
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 3171,
+            "par": 36,
+            "rating": 35.1,
+            "slope": 135
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 3171,
+            "par": 36,
+            "rating": 37.8,
+            "slope": 128
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 2989,
+            "par": 36,
+            "rating": 34.1,
+            "slope": 132
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 2989,
+            "par": 36,
+            "rating": 36.8,
+            "slope": 125
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 2780,
+            "par": 36,
+            "rating": 33.6,
+            "slope": 123
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 2780,
+            "par": 36,
+            "rating": 36.2,
+            "slope": 141
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 2426,
+            "par": 36,
+            "rating": 33.5,
+            "slope": 107
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 2426,
+            "par": 36,
+            "rating": 34.2,
+            "slope": 128
+          }
+        ]
+      },
+      {
+        "name": "Hills 9",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 3390,
+            "par": 36,
+            "rating": 36.7,
+            "slope": 143
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 3390,
+            "par": 36,
+            "rating": 39,
+            "slope": 132
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 3243,
+            "par": 36,
+            "rating": 36.1,
+            "slope": 141
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 3243,
+            "par": 36,
+            "rating": 38.2,
+            "slope": 129
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 3031,
+            "par": 36,
+            "rating": 34.8,
+            "slope": 137
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 3031,
+            "par": 36,
+            "rating": 37.1,
+            "slope": 125
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 2731,
+            "par": 36,
+            "rating": 33.4,
+            "slope": 127
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 2731,
+            "par": 36,
+            "rating": 36.3,
+            "slope": 142
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 2328,
+            "par": 36,
+            "rating": 33.1,
+            "slope": 106
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 2328,
+            "par": 36,
+            "rating": 34.2,
+            "slope": 121
+          }
+        ]
+      },
+      {
+        "name": "Jungle 9",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 3149,
+            "par": 36,
+            "rating": 35.7,
+            "slope": 142
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 3149,
+            "par": 36,
+            "rating": 37.7,
+            "slope": 128
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 2992,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 135
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 2992,
+            "par": 36,
+            "rating": 36.9,
+            "slope": 125
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 2827,
+            "par": 36,
+            "rating": 34.5,
+            "slope": 118
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 2827,
+            "par": 36,
+            "rating": 36,
+            "slope": 122
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 2556,
+            "par": 36,
+            "rating": 32.5,
+            "slope": 109
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 2556,
+            "par": 36,
+            "rating": 34.9,
+            "slope": 130
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 2345,
+            "par": 36,
+            "rating": 33.1,
+            "slope": 106
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 2345,
+            "par": 36,
+            "rating": 34.2,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3577e30-86ac-11e4-8c28-020000005b00/copper-hills-golf-and-country-club"
+  }
+}

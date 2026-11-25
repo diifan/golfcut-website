@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/835dd8a0-86ac-11e4-8c28-020000005b00/glenview-park-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/835dd8a0-86ac-11e4-8c28-020000005b00/glenview-park-golf-club",
+  "checked_at": 1795524625.691251,
+  "sha256": "4dae2ab31ca6e963b7504d4c78bee90c819aeb240157080871b8158869c03864",
+  "title": "Glenview Park Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "835dd8a0-86ac-11e4-8c28-020000005b00",
+    "name": "Glenview Park Golf Club",
+    "address": "800 Shermer Rd, Glenview, IL",
+    "courses": [
+      {
+        "name": "Glenview park / glenview park back",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6113,
+            "par": 70,
+            "rating": 69.6,
+            "slope": 128
+          },
+          {
+            "name": "SILVERBlack",
+            "category": "MALE",
+            "yards": 5889,
+            "par": 70,
+            "rating": 71.8,
+            "slope": 123
+          },
+          {
+            "name": "SILVER",
+            "category": "MALE",
+            "yards": 5673,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 123
+          },
+          {
+            "name": "GOLDSILVER",
+            "category": "MALE",
+            "yards": 5245,
+            "par": 70,
+            "rating": 68.8,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4874,
+            "par": 70,
+            "rating": 67.1,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/835dd8a0-86ac-11e4-8c28-020000005b00/glenview-park-golf-club"
+  }
+}

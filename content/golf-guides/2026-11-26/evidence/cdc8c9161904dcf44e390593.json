@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae5ec1e0-86ac-11e4-8c28-020000005b00/pinetuck-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae5ec1e0-86ac-11e4-8c28-020000005b00/pinetuck-golf-club",
+  "checked_at": 1795524781.759688,
+  "sha256": "8f38f04c24e3bbcfe68ac1940f0ca690538e6d02558339589ec8b34b625de175",
+  "title": "Pinetuck Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star-o star star-o star-o star star star-o star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "ae5ec1e0-86ac-11e4-8c28-020000005b00",
+    "name": "Pinetuck Golf Club",
+    "address": "2578 Tuckaway Road",
+    "courses": [
+      {
+        "name": "Pinetuck",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6580,
+            "par": 70,
+            "rating": 72,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6580,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6121,
+            "par": 70,
+            "rating": 69.9,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6121,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5116,
+            "par": 70,
+            "rating": 65.9,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5116,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4656,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4656,
+            "par": 71,
+            "rating": 67.6,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae5ec1e0-86ac-11e4-8c28-020000005b00/pinetuck-golf-club"
+  }
+}

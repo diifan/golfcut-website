@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99e77fe0-86ac-11e4-8c28-020000005b00/ticonderoga-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99e77fe0-86ac-11e4-8c28-020000005b00/ticonderoga-country-club",
+  "checked_at": 1795524624.0642922,
+  "sha256": "482ba69d9110ddc0b7a06ddfe3deeb1ecf51414fb3c604e174041581d6b4e1cb",
+  "title": "Ticonderoga Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99e77fe0-86ac-11e4-8c28-020000005b00",
+    "name": "Ticonderoga Country Club",
+    "address": "609 New York 9N, Ticonderoga, NY",
+    "courses": [
+      {
+        "name": "Ticonderoga",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6409,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6409,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6074,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6074,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5476,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5476,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4672,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4672,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99e77fe0-86ac-11e4-8c28-020000005b00/ticonderoga-country-club"
+  }
+}

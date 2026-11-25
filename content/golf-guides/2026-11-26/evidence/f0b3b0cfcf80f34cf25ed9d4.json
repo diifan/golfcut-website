@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/958e5ef0-86ac-11e4-8c28-020000005b00/charles-river-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/958e5ef0-86ac-11e4-8c28-020000005b00/charles-river-country-club",
+  "checked_at": 1795583799.3089626,
+  "sha256": "b635b3a693963a3a7d60aee9f5f075f012ab2651889ac2060b3fd0321fa8c948",
+  "title": "Charles River Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "958e5ef0-86ac-11e4-8c28-020000005b00",
+    "name": "Charles River Country Club",
+    "address": "483 Dedham Street, Newton, MA",
+    "courses": [
+      {
+        "name": "Charles River",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6697,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 143
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6697,
+            "par": 73,
+            "rating": 80,
+            "slope": 146
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6436,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6436,
+            "par": 73,
+            "rating": 78.1,
+            "slope": 143
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6182,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6182,
+            "par": 73,
+            "rating": 76.6,
+            "slope": 140
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5578,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5578,
+            "par": 73,
+            "rating": 73.1,
+            "slope": 130
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/958e5ef0-86ac-11e4-8c28-020000005b00/charles-river-country-club"
+  }
+}

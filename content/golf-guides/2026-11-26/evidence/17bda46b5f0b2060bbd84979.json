@@ -1,0 +1,107 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8b733e40-86ac-11e4-8c28-020000005b00/tony-butler-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8b733e40-86ac-11e4-8c28-020000005b00/tony-butler-municipal-golf-course",
+  "checked_at": 1795524353.1698442,
+  "sha256": "4adc15fe19462801fc8659221462968353319dbfa316727bc08b46c2b46ac401",
+  "title": "Tony Butler Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8b733e40-86ac-11e4-8c28-020000005b00",
+    "name": "Tony Butler Municipal Golf Course",
+    "address": "2640 South \"M\" Street Harlingen, TX",
+    "courses": [
+      {
+        "name": "18 Hole Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6320,
+            "par": 70,
+            "rating": 70.5,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6320,
+            "par": 70,
+            "rating": 75.5,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5837,
+            "par": 70,
+            "rating": 68.2,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5837,
+            "par": 70,
+            "rating": 73.4,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5115,
+            "par": 70,
+            "rating": 65.3,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5115,
+            "par": 70,
+            "rating": 68.9,
+            "slope": 112
+          }
+        ]
+      },
+      {
+        "name": "9 Hole Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2881,
+            "par": 35,
+            "rating": 35.6,
+            "slope": 116
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2881,
+            "par": 35,
+            "rating": 36.3,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2467,
+            "par": 35,
+            "rating": 33.6,
+            "slope": 108
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2467,
+            "par": 35,
+            "rating": 34.3,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8b733e40-86ac-11e4-8c28-020000005b00/tony-butler-municipal-golf-course"
+  }
+}

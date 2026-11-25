@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/964c09a0-86ac-11e4-8c28-020000005b00/eveleth-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/964c09a0-86ac-11e4-8c28-020000005b00/eveleth-municipal-golf-course",
+  "checked_at": 1795582902.5001276,
+  "sha256": "e02409b6d6611232725e8ad26be2836cbf7e41f80fe2c226c640d6c99a9f805d",
+  "title": "Eveleth Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "964c09a0-86ac-11e4-8c28-020000005b00",
+    "name": "Eveleth Municipal Golf Course",
+    "address": "Old Hwy 53 & Golf Course Rd.",
+    "courses": [
+      {
+        "name": "Eveleth Municipal",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6336,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6336,
+            "par": 72,
+            "rating": 76.4,
+            "slope": 137
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5264,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5264,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/964c09a0-86ac-11e4-8c28-020000005b00/eveleth-municipal-golf-course"
+  }
+}

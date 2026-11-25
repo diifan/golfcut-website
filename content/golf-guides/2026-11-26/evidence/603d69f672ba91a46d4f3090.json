@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/90972940-86ac-11e4-8c28-020000005b00/venice-east-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/90972940-86ac-11e4-8c28-020000005b00/venice-east-golf-club",
+  "checked_at": 1795524742.2137387,
+  "sha256": "bf00a80d516c8dd7e31bc5007d847f134fb4aaeb6d5b71b0fd3eaa8dc821e738",
+  "title": "Venice East Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "90972940-86ac-11e4-8c28-020000005b00",
+    "name": "Venice East Golf Club",
+    "address": "107 Venice E Blvd, Venice, FL",
+    "courses": [
+      {
+        "name": "Venice East",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2791,
+            "par": 58,
+            "rating": 55.13774,
+            "slope": 82.48499
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2791,
+            "par": 62,
+            "rating": 55.13774,
+            "slope": 82.48499
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/90972940-86ac-11e4-8c28-020000005b00/venice-east-golf-club"
+  }
+}

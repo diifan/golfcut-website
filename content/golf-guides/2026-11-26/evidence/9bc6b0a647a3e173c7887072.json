@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/94c14af0-86ac-11e4-8c28-020000005b00/river-marsh-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/94c14af0-86ac-11e4-8c28-020000005b00/river-marsh-golf-club",
+  "checked_at": 1795583773.3742056,
+  "sha256": "6acdf19dcbf1dd47fe121d0c5563e3b64ccc24abdd6c803784f121ae3dfe7ad2",
+  "title": "River Marsh Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "94c14af0-86ac-11e4-8c28-020000005b00",
+    "name": "River Marsh Golf Club",
+    "address": "100 Heron Blvd",
+    "courses": [
+      {
+        "name": "River Marsh",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6801,
+            "par": 71,
+            "rating": 73,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6391,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5845,
+            "par": 71,
+            "rating": 68.5,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4780,
+            "par": 71,
+            "rating": 66.7,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/94c14af0-86ac-11e4-8c28-020000005b00/river-marsh-golf-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/830139b0-86ac-11e4-8c28-020000005b00/apple-orchard-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/830139b0-86ac-11e4-8c28-020000005b00/apple-orchard-golf-course",
+  "checked_at": 1795524762.351959,
+  "sha256": "03d193e7dc287db6922e2956616564464f0b338a7bcc4ca742a30b51232cf839",
+  "title": "Apple Orchard Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "830139b0-86ac-11e4-8c28-020000005b00",
+    "name": "Apple Orchard Golf Course",
+    "address": "696 W Stearns Road, Bartlett, IL",
+    "courses": [
+      {
+        "name": "Apple Orchard",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1247,
+            "par": 27,
+            "rating": 27.4,
+            "slope": 87
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1247,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1197,
+            "par": 27,
+            "rating": 28.1,
+            "slope": 89
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1197,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/830139b0-86ac-11e4-8c28-020000005b00/apple-orchard-golf-course"
+  }
+}

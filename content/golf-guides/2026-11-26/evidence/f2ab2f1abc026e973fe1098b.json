@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8fd8e250-86ac-11e4-8c28-020000005b00/the-links-of-naples",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8fd8e250-86ac-11e4-8c28-020000005b00/the-links-of-naples",
+  "checked_at": 1795524906.2881086,
+  "sha256": "2a8144aac62e7a1c823e428960f51d12bc67fc14c6b9230287e7b51597e11b2f",
+  "title": "The Links of Naples - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8fd8e250-86ac-11e4-8c28-020000005b00",
+    "name": "The Links of Naples",
+    "address": "16161 Tamiami Trl E, Naples, FL",
+    "courses": [
+      {
+        "name": "The Links of Naples",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 3985,
+            "par": 61,
+            "rating": 60.5,
+            "slope": 98
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 3646,
+            "par": 61,
+            "rating": 58.7,
+            "slope": 95
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3321,
+            "par": 61,
+            "rating": 58.4,
+            "slope": 89
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3321,
+            "par": 61,
+            "rating": 59.6,
+            "slope": 96
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3008,
+            "par": 61,
+            "rating": 58.2,
+            "slope": 90
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8fd8e250-86ac-11e4-8c28-020000005b00/the-links-of-naples"
+  }
+}

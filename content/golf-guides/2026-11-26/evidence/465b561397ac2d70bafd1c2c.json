@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9aa6b130-86ac-11e4-8c28-020000005b00/gillespie-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9aa6b130-86ac-11e4-8c28-020000005b00/gillespie-golf-course",
+  "checked_at": 1795524484.9461079,
+  "sha256": "10b46854411f0b7eb58b8064113ac15de92c942c27232bbdc5c4c4359e9cbb79",
+  "title": "Gillespie Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9aa6b130-86ac-11e4-8c28-020000005b00",
+    "name": "Gillespie Golf Course",
+    "address": "306 E Florida St, Greensboro, North Carolina 27406, Guilford County",
+    "courses": [
+      {
+        "name": "Gillespie",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6445,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6212,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5100,
+            "par": 72,
+            "rating": 64.8,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5017,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9aa6b130-86ac-11e4-8c28-020000005b00/gillespie-golf-course"
+  }
+}

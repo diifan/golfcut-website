@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96d0a2f0-86ac-11e4-8c28-020000005b00/northern-hills-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96d0a2f0-86ac-11e4-8c28-020000005b00/northern-hills-golf-course",
+  "checked_at": 1795525015.563647,
+  "sha256": "9b2b94f47b9b9bc2d8f1145054b5e626cb7346e79fc76c5ba435eb868325fc24",
+  "title": "Northern Hills Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96d0a2f0-86ac-11e4-8c28-020000005b00",
+    "name": "Northern Hills Golf Course",
+    "address": "4721 West Circle Drive Northwest Rochester, MN 55901",
+    "courses": [
+      {
+        "name": "Northern Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6335,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6335,
+            "par": 72,
+            "rating": 75.6,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5981,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5981,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5532,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5532,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96d0a2f0-86ac-11e4-8c28-020000005b00/northern-hills-golf-course"
+  }
+}

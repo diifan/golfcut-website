@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92ae7080-86ac-11e4-8c28-020000005b00/grassmere-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92ae7080-86ac-11e4-8c28-020000005b00/grassmere-country-club",
+  "checked_at": 1795524756.672281,
+  "sha256": "9a6262d68701a3a9d93600fb8672771aff5e44a389087f94ca8207e7faa94ade",
+  "title": "Grassmere Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92ae7080-86ac-11e4-8c28-020000005b00",
+    "name": "Grassmere Country Club",
+    "address": "130 Town Farm Rd",
+    "courses": [
+      {
+        "name": "Grassmere",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3031,
+            "par": 35,
+            "rating": 35,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3031,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2870,
+            "par": 35,
+            "rating": 34.1,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2870,
+            "par": 36,
+            "rating": 36.1,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2727,
+            "par": 35,
+            "rating": 33.4,
+            "slope": 104
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2727,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2333,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2333,
+            "par": 36,
+            "rating": 32.4,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92ae7080-86ac-11e4-8c28-020000005b00/grassmere-country-club"
+  }
+}

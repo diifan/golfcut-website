@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b393eaf0-86ac-11e4-8c28-020000005b00/bruce-hills-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b393eaf0-86ac-11e4-8c28-020000005b00/bruce-hills-golf-club",
+  "checked_at": 1795583802.538489,
+  "sha256": "770207351021b780d6ec33369e3df9d6a504e4703502d8c6a87cbc224b542c84",
+  "title": "Bruce Hills Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b393eaf0-86ac-11e4-8c28-020000005b00",
+    "name": "Bruce Hills Golf Club",
+    "address": "6771 Taft Road, Romeo, MI",
+    "courses": [
+      {
+        "name": "Bruce Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5630,
+            "par": 70,
+            "rating": 67.5,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5630,
+            "par": 70,
+            "rating": 73.1,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4877,
+            "par": 70,
+            "rating": 63.7,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4877,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b393eaf0-86ac-11e4-8c28-020000005b00/bruce-hills-golf-club"
+  }
+}

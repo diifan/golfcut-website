@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b26ef2f0-86ac-11e4-8c28-020000005b00/prairie-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b26ef2f0-86ac-11e4-8c28-020000005b00/prairie-creek-golf-course",
+  "checked_at": 1795663913.632986,
+  "sha256": "1a5348402b859177d5eec40b05b033d27c0ee54973cc6a9d6a4ed25a4a44e890",
+  "title": "Prairie Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b26ef2f0-86ac-11e4-8c28-020000005b00",
+    "name": "Prairie Creek Golf Course",
+    "address": "800 E Webb Road, Dewitt, MI",
+    "courses": [
+      {
+        "name": "Prairie Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6384,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6384,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6028,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6028,
+            "par": 72,
+            "rating": 74,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5084,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5084,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b26ef2f0-86ac-11e4-8c28-020000005b00/prairie-creek-golf-course"
+  }
+}

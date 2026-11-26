@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/923e97b0-86ac-11e4-8c28-020000005b00/dos-rios-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/923e97b0-86ac-11e4-8c28-020000005b00/dos-rios-golf-club",
+  "checked_at": 1795664698.7493029,
+  "sha256": "9cb5b487e69eae467879eadecc485bfff912d6d57e131e9ece5397afdee65aca",
+  "title": "Dos Rios Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "923e97b0-86ac-11e4-8c28-020000005b00",
+    "name": "Dos Rios Golf Club",
+    "address": "501 Cam Del Rio Gunnison, CO 81230",
+    "courses": [
+      {
+        "name": "Dos Rios Front/Back",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6512,
+            "par": 71,
+            "rating": 69,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5991,
+            "par": 71,
+            "rating": 67.2,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5395,
+            "par": 71,
+            "rating": 65,
+            "slope": 105
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4593,
+            "par": 71,
+            "rating": 62.4,
+            "slope": 96
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/923e97b0-86ac-11e4-8c28-020000005b00/dos-rios-golf-club"
+  }
+}

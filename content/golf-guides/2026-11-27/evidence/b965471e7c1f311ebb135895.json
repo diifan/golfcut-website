@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6d07850-86ac-11e4-8c28-020000005b00/bear-lake-west",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6d07850-86ac-11e4-8c28-020000005b00/bear-lake-west",
+  "checked_at": 1795663923.391568,
+  "sha256": "5980f75f02533bbbea88d328b9238bdacbf8163c30121cd538fa3794a63876f2",
+  "title": "Bear Lake West - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6d07850-86ac-11e4-8c28-020000005b00",
+    "name": "Bear Lake West",
+    "address": "155 N. Hwy 89, Fish Haven, ID",
+    "courses": [
+      {
+        "name": "Bear Lake West",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5430,
+            "par": 66,
+            "rating": 65,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5430,
+            "par": 66,
+            "rating": 70.8,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5048,
+            "par": 66,
+            "rating": 62.8,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5048,
+            "par": 66,
+            "rating": 67.8,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4574,
+            "par": 66,
+            "rating": 65.7,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4574,
+            "par": 66,
+            "rating": 66.2,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6d07850-86ac-11e4-8c28-020000005b00/bear-lake-west"
+  }
+}

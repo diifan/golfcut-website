@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4b364b0-86ac-11e4-8c28-020000005b00/greenlea-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4b364b0-86ac-11e4-8c28-020000005b00/greenlea-golf-course",
+  "checked_at": 1795668339.8209002,
+  "sha256": "f135e79a4459717076bbc73c89f3b398bdb6268e1bc0f9fb2ccb7a4dc82c2c47",
+  "title": "Greenlea Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b4b364b0-86ac-11e4-8c28-020000005b00",
+    "name": "Greenlea Golf Course",
+    "address": "26736 SE Kelso Road",
+    "courses": [
+      {
+        "name": "Greenlea(9 holes )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1657,
+            "par": 31,
+            "rating": 29.1,
+            "slope": 84
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1524,
+            "par": 31,
+            "rating": 28.6,
+            "slope": 83
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4b364b0-86ac-11e4-8c28-020000005b00/greenlea-golf-course"
+  }
+}

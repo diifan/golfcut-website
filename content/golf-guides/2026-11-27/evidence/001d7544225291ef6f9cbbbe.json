@@ -1,0 +1,305 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7090eb40-86ac-11e4-8c28-020000005b00/cruden-bay-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7090eb40-86ac-11e4-8c28-020000005b00/cruden-bay-golf-club",
+  "checked_at": 1795663902.4570694,
+  "sha256": "a1aa7cf905c356314953974ffb43e83d8b21824bb0ef703ac7ba2a53c232027c",
+  "title": "Cruden Bay Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "7090eb40-86ac-11e4-8c28-020000005b00",
+    "name": "Cruden Bay Golf Club",
+    "address": "Cruden Bay Golf Club, Aulton Road, Cruden Bay, Aberdeenshire, Scotland",
+    "courses": [
+      {
+        "name": "Cruden Bay",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6634,
+            "par": 71,
+            "rating": 73.4,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6634,
+            "par": 70,
+            "rating": 79.8,
+            "slope": 152
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6250,
+            "par": 71,
+            "rating": 71.7,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6250,
+            "par": 70,
+            "rating": 77.8,
+            "slope": 147
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5868,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5868,
+            "par": 70,
+            "rating": 73.1,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5441,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5441,
+            "par": 70,
+            "rating": 75.6,
+            "slope": 142
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5002,
+            "par": 71,
+            "rating": 65.8,
+            "slope": 115
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5002,
+            "par": 70,
+            "rating": 70.1,
+            "slope": 125
+          }
+        ]
+      },
+      {
+        "name": "Saint Olaf (9 holes only)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 2463,
+            "par": 32,
+            "rating": 32,
+            "slope": 112
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 2463,
+            "par": 32,
+            "rating": 34,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2346,
+            "par": 32,
+            "rating": 33.1,
+            "slope": 106
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2346,
+            "par": 32,
+            "rating": 34.2,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2463,
+            "par": 32,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2463,
+            "par": 32,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2346,
+            "par": 32,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2346,
+            "par": 32,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Brown Men",
+            "category": "MALE",
+            "yards": 2205,
+            "par": 32,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Brown Men",
+            "category": "FEMALE",
+            "yards": 2205,
+            "par": 32,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Brown Ladies",
+            "category": "MALE",
+            "yards": 2205,
+            "par": 32,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Brown Ladies",
+            "category": "FEMALE",
+            "yards": 2205,
+            "par": 32,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      },
+      {
+        "name": "Saint Olaf (18 holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 4926,
+            "par": 64,
+            "rating": 64,
+            "slope": 112
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 4926,
+            "par": 64,
+            "rating": 68.1,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4692,
+            "par": 64,
+            "rating": 66.3,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4692,
+            "par": 64,
+            "rating": 68.4,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4926,
+            "par": 64,
+            "rating": 67.8,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4926,
+            "par": 64,
+            "rating": 73.1,
+            "slope": 134
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4692,
+            "par": 64,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4692,
+            "par": 64,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Brown Men",
+            "category": "MALE",
+            "yards": 4410,
+            "par": 64,
+            "rating": 61.8,
+            "slope": 109
+          },
+          {
+            "name": "Brown Men",
+            "category": "FEMALE",
+            "yards": 4410,
+            "par": 64,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Brown Ladies",
+            "category": "MALE",
+            "yards": 4410,
+            "par": 64,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Brown Ladies",
+            "category": "FEMALE",
+            "yards": 4410,
+            "par": 64,
+            "rating": 66.8,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7090eb40-86ac-11e4-8c28-020000005b00/cruden-bay-golf-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/923d1110-86ac-11e4-8c28-020000005b00/tiara-rado-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/923d1110-86ac-11e4-8c28-020000005b00/tiara-rado-golf-course",
+  "checked_at": 1795668325.9281921,
+  "sha256": "98bcec00e56cdd19671815f3a5af9585569c576b747ceee27e1f9a0e1ef32996",
+  "title": "Tiara Rado Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "923d1110-86ac-11e4-8c28-020000005b00",
+    "name": "Tiara Rado Golf Course",
+    "address": "2063 S Broadway Grand Junction, CO",
+    "courses": [
+      {
+        "name": "Tiara Rado",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6442,
+            "par": 71,
+            "rating": 70.5,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6000,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5486,
+            "par": 71,
+            "rating": 66.3,
+            "slope": 117
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4388,
+            "par": 71,
+            "rating": 64.9,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/923d1110-86ac-11e4-8c28-020000005b00/tiara-rado-golf-course"
+  }
+}

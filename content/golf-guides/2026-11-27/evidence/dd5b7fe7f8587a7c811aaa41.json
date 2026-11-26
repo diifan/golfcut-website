@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0be83d0-86ac-11e4-8c28-020000005b00/olympia-country-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0be83d0-86ac-11e4-8c28-020000005b00/olympia-country-golf-club",
+  "checked_at": 1795583815.2671745,
+  "sha256": "6cf89e2571ecbff84d873f093509e46a045191bb4edef1f85f11b4cc64896007",
+  "title": "Olympia Country & Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b0be83d0-86ac-11e4-8c28-020000005b00",
+    "name": "Olympia Country & Golf Club",
+    "address": "3636 Country Club Dr NW",
+    "courses": [
+      {
+        "name": "Olympia",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6100,
+            "par": 71,
+            "rating": 71.5,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6100,
+            "par": 73,
+            "rating": 77,
+            "slope": 139
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5842,
+            "par": 71,
+            "rating": 65.5,
+            "slope": 114
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5842,
+            "par": 73,
+            "rating": 71.8,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5109,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5109,
+            "par": 73,
+            "rating": 75.9,
+            "slope": 135
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0be83d0-86ac-11e4-8c28-020000005b00/olympia-country-golf-club"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5677270-86ac-11e4-8c28-020000005b00/hiawatha",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5677270-86ac-11e4-8c28-020000005b00/hiawatha",
+  "checked_at": 1795669239.1788585,
+  "sha256": "9aa43ec07ce47fe618f13459559cef33a2acc51feaec0b750f4c13514a7c6329",
+  "title": "Hiawatha Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b5677270-86ac-11e4-8c28-020000005b00",
+    "name": "Hiawatha Golf Club",
+    "address": "10229 Ellsworth Rd, Tomah, WI",
+    "courses": [
+      {
+        "name": "Hiawatha",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6548,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6548,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6242,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6242,
+            "par": 72,
+            "rating": 76.8,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5206,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5206,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5075,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5075,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5677270-86ac-11e4-8c28-020000005b00/hiawatha"
+  }
+}

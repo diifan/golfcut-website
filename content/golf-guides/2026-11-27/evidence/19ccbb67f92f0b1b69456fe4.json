@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af365d30-86ac-11e4-8c28-020000005b00/pickwick-landing-state-park",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af365d30-86ac-11e4-8c28-020000005b00/pickwick-landing-state-park",
+  "checked_at": 1795664725.2789676,
+  "sha256": "feaddc2bba3266a56051484bbfa181358660455a473fbc5d4dbed9f2392417d0",
+  "title": "Pickwick Landing State Park - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af365d30-86ac-11e4-8c28-020000005b00",
+    "name": "Pickwick Landing State Park",
+    "address": "116 State Park Lane, Counce, TN",
+    "courses": [
+      {
+        "name": "Pickwick State Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6483,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6284,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5281,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5229,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af365d30-86ac-11e4-8c28-020000005b00/pickwick-landing-state-park"
+  }
+}

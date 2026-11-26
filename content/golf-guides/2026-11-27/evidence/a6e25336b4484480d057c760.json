@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b24b8c70-86ac-11e4-8c28-020000005b00/the-mackinaw-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b24b8c70-86ac-11e4-8c28-020000005b00/the-mackinaw-club",
+  "checked_at": 1795583829.4043162,
+  "sha256": "7fac8436657aaba273eb3ab34207e3919d519dfae831d8859d86421ca7e56183",
+  "title": "The Mackinaw Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b24b8c70-86ac-11e4-8c28-020000005b00",
+    "name": "The Mackinaw Club",
+    "address": "8700 Mackinaw Club Dr",
+    "courses": [
+      {
+        "name": "Mackinaw",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6807,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 126
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6313,
+            "par": 72,
+            "rating": 69,
+            "slope": 124
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5942,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 122
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5458,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b24b8c70-86ac-11e4-8c28-020000005b00/the-mackinaw-club"
+  }
+}

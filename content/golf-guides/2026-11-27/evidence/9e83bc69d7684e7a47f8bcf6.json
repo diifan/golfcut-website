@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae428750-86ac-11e4-8c28-020000005b00/crown-park",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae428750-86ac-11e4-8c28-020000005b00/crown-park",
+  "checked_at": 1795583802.7094822,
+  "sha256": "e25311c279ea2ae0f89d403f868bcc3a8bc7bc82b85372ff36a0f12f16146171",
+  "title": "Crown Park - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae428750-86ac-11e4-8c28-020000005b00",
+    "name": "Crown Park",
+    "address": "2225 Hwy 9 West, Longs, SC",
+    "courses": [
+      {
+        "name": "Crown Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6502,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6502,
+            "par": 72,
+            "rating": 76.5,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6004,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6004,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5342,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5342,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4597,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4597,
+            "par": 72,
+            "rating": 65.6,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae428750-86ac-11e4-8c28-020000005b00/crown-park"
+  }
+}

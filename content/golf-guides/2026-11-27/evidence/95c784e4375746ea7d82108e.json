@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad168a70-86ac-11e4-8c28-020000005b00/willow-valley-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad168a70-86ac-11e4-8c28-020000005b00/willow-valley-golf-course",
+  "checked_at": 1795663483.446239,
+  "sha256": "e7aa80412c8f125b3bb4a173f175fe5c76c5a90c833ebd2651becafc9758d792",
+  "title": "Willow Valley Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "ad168a70-86ac-11e4-8c28-020000005b00",
+    "name": "Willow Valley Golf Course",
+    "address": "2416 Willow St Pike, Lancaster, PA",
+    "courses": [
+      {
+        "name": "9 Hole Par 32",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2200,
+            "par": 32,
+            "rating": 32,
+            "slope": 107
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2200,
+            "par": 32,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1885,
+            "par": 32,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1885,
+            "par": 32,
+            "rating": 31.2,
+            "slope": 98
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad168a70-86ac-11e4-8c28-020000005b00/willow-valley-golf-course"
+  }
+}

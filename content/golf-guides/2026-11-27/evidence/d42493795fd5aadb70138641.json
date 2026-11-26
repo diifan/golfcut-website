@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b33c06f0-86ac-11e4-8c28-020000005b00/whittaker-woods-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b33c06f0-86ac-11e4-8c28-020000005b00/whittaker-woods-golf-club",
+  "checked_at": 1795666554.3331609,
+  "sha256": "b29ad8b0dd3bf27ec27d37fa31fb147b8d9e2d88ba26a3eeb7f7d102c5caaf78",
+  "title": "Whittaker Woods Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b33c06f0-86ac-11e4-8c28-020000005b00",
+    "name": "Whittaker Woods Golf Club",
+    "address": "12578 Wilson Rd",
+    "courses": [
+      {
+        "name": "Whittaker Woods",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7072,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 147
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6624,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 142
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6062,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 136
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4905,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b33c06f0-86ac-11e4-8c28-020000005b00/whittaker-woods-golf-club"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ca121a0-86ac-11e4-8c28-020000005b00/collins-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ca121a0-86ac-11e4-8c28-020000005b00/collins-park-golf-course",
+  "checked_at": 1795664738.7387843,
+  "sha256": "7b4f91189f36332c2f1dbd0f2d7eb023320e514e2a1926b98f30aa7fd3222b64",
+  "title": "Collins Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9ca121a0-86ac-11e4-8c28-020000005b00",
+    "name": "Collins Park Golf Course",
+    "address": "624 Reineck Dr",
+    "courses": [
+      {
+        "name": "Collins Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6030,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 112
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5612,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 121
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4850,
+            "par": 72,
+            "rating": 67,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ca121a0-86ac-11e4-8c28-020000005b00/collins-park-golf-course"
+  }
+}

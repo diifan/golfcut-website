@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7e4b4160-3044-11e7-941d-0680a328ea36/the-olde-farm-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7e4b4160-3044-11e7-941d-0680a328ea36/the-olde-farm-golf-club",
+  "checked_at": 1795583779.705566,
+  "sha256": "ca81b75c47e56a11360f345317bd9bce2afd0f219f4baf31d8447e7b8f7a9c0b",
+  "title": "The Olde Farm Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "7e4b4160-3044-11e7-941d-0680a328ea36",
+    "name": "The Olde Farm Golf Club",
+    "address": "16639 Ol Jonesboro Rd, Bristol, VA 24202",
+    "courses": [
+      {
+        "name": "Olde Farm",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7119,
+            "par": 71,
+            "rating": 74.5,
+            "slope": 141
+          },
+          {
+            "name": "Medal",
+            "category": "MALE",
+            "yards": 6609,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 132
+          },
+          {
+            "name": "Member",
+            "category": "MALE",
+            "yards": 6082,
+            "par": 71,
+            "rating": 67.9,
+            "slope": 123
+          },
+          {
+            "name": "Senior",
+            "category": "MALE",
+            "yards": 5486,
+            "par": 71,
+            "rating": 69.9,
+            "slope": 120
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4773,
+            "par": 71,
+            "rating": 72,
+            "slope": 135
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7e4b4160-3044-11e7-941d-0680a328ea36/the-olde-farm-golf-club"
+  }
+}

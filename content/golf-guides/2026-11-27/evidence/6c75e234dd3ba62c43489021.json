@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96377030-86ac-11e4-8c28-020000005b00/stalker-lake-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96377030-86ac-11e4-8c28-020000005b00/stalker-lake-golf-course",
+  "checked_at": 1795663898.1924624,
+  "sha256": "d9fb0edcc7caa399ed52ae5a76adb39ade6add4e02c8fe265bd0c2778cef907c",
+  "title": "Stalker Lake Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96377030-86ac-11e4-8c28-020000005b00",
+    "name": "Stalker Lake Golf Course",
+    "address": "15786 Golf Course Rd",
+    "courses": [
+      {
+        "name": "Stalker Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5804,
+            "par": 70,
+            "rating": 68.2,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5578,
+            "par": 70,
+            "rating": 67.2,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4988,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96377030-86ac-11e4-8c28-020000005b00/stalker-lake-golf-course"
+  }
+}

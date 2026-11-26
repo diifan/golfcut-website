@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c50b7b0-86ac-11e4-8c28-020000005b00/oak-shadows-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c50b7b0-86ac-11e4-8c28-020000005b00/oak-shadows-golf-club",
+  "checked_at": 1795666534.204758,
+  "sha256": "e8214c7ed8c35e772e8f422dee5cbf11b61d0e60e012a2bb84235848cd57fdd9",
+  "title": "Oak Shadows Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9c50b7b0-86ac-11e4-8c28-020000005b00",
+    "name": "Oak Shadows Golf Club",
+    "address": "1063 Oak Shadows Dr",
+    "courses": [
+      {
+        "name": "Oak Shadows",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6971,
+            "par": 72,
+            "rating": 73,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6384,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5906,
+            "par": 72,
+            "rating": 68,
+            "slope": 119
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5478,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5172,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c50b7b0-86ac-11e4-8c28-020000005b00/oak-shadows-golf-club"
+  }
+}

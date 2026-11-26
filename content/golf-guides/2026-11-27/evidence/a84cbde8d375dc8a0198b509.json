@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a230240-86ac-11e4-8c28-020000005b00/midvale",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a230240-86ac-11e4-8c28-020000005b00/midvale",
+  "checked_at": 1795663472.6252544,
+  "sha256": "11d687cfd9ac89956fec8802696c1d54523b32b08b6a141f74d42a3c8b5783e5",
+  "title": "Midvale - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9a230240-86ac-11e4-8c28-020000005b00",
+    "name": "Midvale",
+    "address": "2387 Baird Rd, Penfield, NY",
+    "courses": [
+      {
+        "name": "Midvale",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6632,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 131
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6632,
+            "par": 74,
+            "rating": 77.2,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6273,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6273,
+            "par": 74,
+            "rating": 75.3,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6007,
+            "par": 72,
+            "rating": 69,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6007,
+            "par": 74,
+            "rating": 74.8,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5733,
+            "par": 72,
+            "rating": 71,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5733,
+            "par": 74,
+            "rating": 74.5,
+            "slope": 130
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a230240-86ac-11e4-8c28-020000005b00/midvale"
+  }
+}

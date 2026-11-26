@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba553240-86ac-11e4-8c28-020000005b00/esquire-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba553240-86ac-11e4-8c28-020000005b00/esquire-golf-course",
+  "checked_at": 1795664687.219005,
+  "sha256": "3321fd34e75b13f9060033938c743b2ecb03e0954d63249ca6ac8c662237095b",
+  "title": "Esquire Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ba553240-86ac-11e4-8c28-020000005b00",
+    "name": "Esquire Golf Course",
+    "address": "Esquire Dr, Barboursville, WV",
+    "courses": [
+      {
+        "name": "Esquire",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6905,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 115
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6905,
+            "par": 72,
+            "rating": 78.6,
+            "slope": 140
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6408,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6408,
+            "par": 72,
+            "rating": 76,
+            "slope": 134
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5862,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 104
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5862,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5245,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5245,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 98
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba553240-86ac-11e4-8c28-020000005b00/esquire-golf-course"
+  }
+}

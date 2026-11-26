@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b20386f0-86ac-11e4-8c28-020000005b00/duck-lake-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b20386f0-86ac-11e4-8c28-020000005b00/duck-lake-country-club",
+  "checked_at": 1795666530.7812505,
+  "sha256": "2f436aff1617e16c622f469094ed2360847d80efc1cc6c5411ef691c52dc90fb",
+  "title": "Duck Lake Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b20386f0-86ac-11e4-8c28-020000005b00",
+    "name": "Duck Lake Country Club",
+    "address": "2827 Country Club Way",
+    "courses": [
+      {
+        "name": "Duck Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6011,
+            "par": 70,
+            "rating": 72.3,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5265,
+            "par": 70,
+            "rating": 68.9,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5039,
+            "par": 70,
+            "rating": 67.9,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b20386f0-86ac-11e4-8c28-020000005b00/duck-lake-country-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b299fa90-86ac-11e4-8c28-020000005b00/sugar-springs-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b299fa90-86ac-11e4-8c28-020000005b00/sugar-springs-golf-club",
+  "checked_at": 1795666561.820564,
+  "sha256": "3f3fc693f06ccb72578ec69a84c5b35e752df7b5fc69e9e5208f883919536add",
+  "title": "Sugar Springs Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b299fa90-86ac-11e4-8c28-020000005b00",
+    "name": "Sugar Springs Golf Club",
+    "address": "5477 Worthington Cour",
+    "courses": [
+      {
+        "name": "Sugar Springs",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6737,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6350,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5268,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 109
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5115,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b299fa90-86ac-11e4-8c28-020000005b00/sugar-springs-golf-club"
+  }
+}

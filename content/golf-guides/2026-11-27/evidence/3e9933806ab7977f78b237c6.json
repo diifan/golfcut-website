@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/063dedd0-793c-11e7-ad41-0680a328ea36/pasco-golfland",
+  "resolved_url": "https://18birdies.com/golf-courses/club/063dedd0-793c-11e7-ad41-0680a328ea36/pasco-golfland",
+  "checked_at": 1795663913.1755822,
+  "sha256": "4c97f058b6e62210701d723c0d4e155e255c3ef871ced869e9bab899475e516f",
+  "title": "Pasco Golfland - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "063dedd0-793c-11e7-ad41-0680a328ea36",
+    "name": "Pasco Golfland",
+    "address": "2901 N Rd 40, Pasco, WA 99301",
+    "courses": [
+      {
+        "name": "Pasco",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Men",
+            "category": "MALE",
+            "yards": 2185,
+            "par": 54,
+            "rating": 52.6289,
+            "slope": 79.52165
+          },
+          {
+            "name": "Women",
+            "category": "MALE",
+            "yards": 2185,
+            "par": 54,
+            "rating": 52.6289,
+            "slope": 79.52165
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/063dedd0-793c-11e7-ad41-0680a328ea36/pasco-golfland"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/89f96f80-86ac-11e4-8c28-020000005b00/sierra-view-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/89f96f80-86ac-11e4-8c28-020000005b00/sierra-view-country-club",
+  "checked_at": 1795664723.500282,
+  "sha256": "ac8199bc18af8ed0cdd85c0db5f3343afd32fadd47366c12a2321a95782f9872",
+  "title": "Sierra View Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "89f96f80-86ac-11e4-8c28-020000005b00",
+    "name": "Sierra View Country Club",
+    "address": "105 Alta Vista Ave, Roseville, CA",
+    "courses": [
+      {
+        "name": "Sierra View",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6452,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 128
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6452,
+            "par": 73,
+            "rating": 76.2,
+            "slope": 135
+          },
+          {
+            "name": "Old Oak",
+            "category": "MALE",
+            "yards": 6133,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 125
+          },
+          {
+            "name": "Old Oak",
+            "category": "FEMALE",
+            "yards": 6133,
+            "par": 73,
+            "rating": 74.5,
+            "slope": 131
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5846,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 122
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5846,
+            "par": 73,
+            "rating": 74.6,
+            "slope": 132
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5195,
+            "par": 72,
+            "rating": 65.6,
+            "slope": 116
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5195,
+            "par": 73,
+            "rating": 71,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/89f96f80-86ac-11e4-8c28-020000005b00/sierra-view-country-club"
+  }
+}

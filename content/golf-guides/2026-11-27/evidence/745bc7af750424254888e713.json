@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a427120-86ac-11e4-8c28-020000005b00/ayden-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a427120-86ac-11e4-8c28-020000005b00/ayden-golf-country-club",
+  "checked_at": 1795663892.6531527,
+  "sha256": "e9e43ec2f68be6ff443287b840d2221e0f08c82b04dd998f8a642723a6dcec60",
+  "title": "Ayden Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9a427120-86ac-11e4-8c28-020000005b00",
+    "name": "Ayden Golf & Country Club",
+    "address": "4343 Ayden Golf Club Rd, Ayden, NC",
+    "courses": [
+      {
+        "name": "Ayden",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6784,
+            "par": 72,
+            "rating": 71,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6282,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5152,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5062,
+            "par": 72,
+            "rating": 63.8,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a427120-86ac-11e4-8c28-020000005b00/ayden-golf-country-club"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c9d7820-86ac-11e4-8c28-020000005b00/clinton-heights-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c9d7820-86ac-11e4-8c28-020000005b00/clinton-heights-golf-course",
+  "checked_at": 1795666507.1183515,
+  "sha256": "e0770fcef93a65403e180b422631dbdf1f12dfa6018b61df9970b81e0120884a",
+  "title": "Clinton Heights Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9c9d7820-86ac-11e4-8c28-020000005b00",
+    "name": "Clinton Heights Golf Course",
+    "address": "2760 E Township Rd 122",
+    "courses": [
+      {
+        "name": "Clinton Heights",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5562,
+            "par": 70,
+            "rating": 65.7,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4780,
+            "par": 70,
+            "rating": 66.7,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c9d7820-86ac-11e4-8c28-020000005b00/clinton-heights-golf-course"
+  }
+}

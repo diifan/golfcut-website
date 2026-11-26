@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c688570-86ac-11e4-8c28-020000005b00/painesville",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c688570-86ac-11e4-8c28-020000005b00/painesville",
+  "checked_at": 1795583835.93331,
+  "sha256": "b96b850291874da194bf087f435452e5c6c5dd8179c531b5cb13c9e4328a8678",
+  "title": "Painesville - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9c688570-86ac-11e4-8c28-020000005b00",
+    "name": "Painesville",
+    "address": "84 Golf Dr, Painesville, OH",
+    "courses": [
+      {
+        "name": "Painesville",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6325,
+            "par": 71,
+            "rating": 71.5,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5963,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 120
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5181,
+            "par": 71,
+            "rating": 65.6,
+            "slope": 113
+          },
+          {
+            "name": "Bronze",
+            "category": "MALE",
+            "yards": 4584,
+            "par": 71,
+            "rating": 62.8,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c688570-86ac-11e4-8c28-020000005b00/painesville"
+  }
+}

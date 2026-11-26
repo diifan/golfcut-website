@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/aec090f0-86ac-11e4-8c28-020000005b00/lead-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/aec090f0-86ac-11e4-8c28-020000005b00/lead-country-club",
+  "checked_at": 1795664716.1229434,
+  "sha256": "4edaad9c29713a5f291132907ef5f161bfe74140e7c69ef48c16d1e7a35d3111",
+  "title": "Lead Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "aec090f0-86ac-11e4-8c28-020000005b00",
+    "name": "Lead Country Club",
+    "address": "11208 Ironwood Ln, Lead, SD",
+    "courses": [
+      {
+        "name": "Lead(9 holes )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3220,
+            "par": 36,
+            "rating": 36.6,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3220,
+            "par": 36,
+            "rating": 38.1,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2814,
+            "par": 36,
+            "rating": 35.3,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2814,
+            "par": 36,
+            "rating": 37,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/aec090f0-86ac-11e4-8c28-020000005b00/lead-country-club"
+  }
+}

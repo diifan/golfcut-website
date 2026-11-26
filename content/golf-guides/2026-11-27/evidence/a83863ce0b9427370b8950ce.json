@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98cc72f0-86ac-11e4-8c28-020000005b00/cortland-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98cc72f0-86ac-11e4-8c28-020000005b00/cortland-country-club",
+  "checked_at": 1795668335.1717663,
+  "sha256": "4486dfc0d8af6d42180abb7ef00d11cdd9b176b0de92e8cc71bc49b90b518b35",
+  "title": "Cortland Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "98cc72f0-86ac-11e4-8c28-020000005b00",
+    "name": "Cortland Country Club",
+    "address": "4514 State Route 281",
+    "courses": [
+      {
+        "name": "Cortland",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6327,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6003,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5616,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98cc72f0-86ac-11e4-8c28-020000005b00/cortland-country-club"
+  }
+}

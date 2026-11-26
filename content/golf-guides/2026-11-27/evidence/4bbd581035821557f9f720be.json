@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b08a0650-86ac-11e4-8c28-020000005b00/riverside-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b08a0650-86ac-11e4-8c28-020000005b00/riverside-golf-club",
+  "checked_at": 1795666521.146321,
+  "sha256": "f76b0720a5f6dff0c95f6c4899c581304d0c3e2066c459dcb06df069a3c3642f",
+  "title": "Riverside Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b08a0650-86ac-11e4-8c28-020000005b00",
+    "name": "Riverside Golf Club",
+    "address": "1451 NW Airport Rd, Chehalis, WA",
+    "courses": [
+      {
+        "name": "Riverside",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6155,
+            "par": 71,
+            "rating": 68.4,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6155,
+            "par": 71,
+            "rating": 74.6,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5771,
+            "par": 71,
+            "rating": 67.2,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5771,
+            "par": 71,
+            "rating": 73.2,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5456,
+            "par": 71,
+            "rating": 66,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5456,
+            "par": 71,
+            "rating": 70.7,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b08a0650-86ac-11e4-8c28-020000005b00/riverside-golf-club"
+  }
+}

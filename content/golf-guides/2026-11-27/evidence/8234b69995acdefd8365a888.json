@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b83e8740-86ac-11e4-8c28-020000005b00/melody-hill-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b83e8740-86ac-11e4-8c28-020000005b00/melody-hill-country-club",
+  "checked_at": 1795661639.0102453,
+  "sha256": "cfa08adc2aab25623c6d306c718fcf2cea83c1808e6365d0cb12dd61ae5becb8",
+  "title": "Melody Hill Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b83e8740-86ac-11e4-8c28-020000005b00",
+    "name": "Melody Hill Country Club",
+    "address": "55 Melody Hill Ln",
+    "courses": [
+      {
+        "name": "Melody Hill",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6004,
+            "par": 70,
+            "rating": 68.2,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5801,
+            "par": 70,
+            "rating": 67.4,
+            "slope": 108
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5484,
+            "par": 70,
+            "rating": 65.9,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5363,
+            "par": 70,
+            "rating": 69.4,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b83e8740-86ac-11e4-8c28-020000005b00/melody-hill-country-club"
+  }
+}

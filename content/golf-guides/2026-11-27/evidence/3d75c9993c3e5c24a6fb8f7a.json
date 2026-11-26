@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/72e7ac80-86ac-11e4-8c28-020000005b00/concord-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/72e7ac80-86ac-11e4-8c28-020000005b00/concord-golf-club",
+  "checked_at": 1795668304.2755544,
+  "sha256": "598caa3944e2b0593a8298f8adde9419317cf54aa1d072984be61d8a75e49c48",
+  "title": "Concord Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "72e7ac80-86ac-11e4-8c28-020000005b00",
+    "name": "Concord Golf Club",
+    "address": "190 Majors Bay Road, Concord NSW 2137, Australia",
+    "courses": [
+      {
+        "name": "Concord",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6307.942480000001,
+            "par": 71,
+            "rating": 73.6,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6307.942480000001,
+            "par": 74,
+            "rating": 75.5,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5670.367849999999,
+            "par": 71,
+            "rating": 70.8,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5670.367849999999,
+            "par": 74,
+            "rating": 75,
+            "slope": 139
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/72e7ac80-86ac-11e4-8c28-020000005b00/concord-golf-club"
+  }
+}

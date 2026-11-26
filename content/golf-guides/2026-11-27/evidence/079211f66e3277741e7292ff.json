@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8aa8c250-86ac-11e4-8c28-020000005b00/escalon",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8aa8c250-86ac-11e4-8c28-020000005b00/escalon",
+  "checked_at": 1795668317.4615395,
+  "sha256": "e92578b43a8683dde747103cd3fe4ddbcac768a138945fb559990a258fbc71cf",
+  "title": "Escalon - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8aa8c250-86ac-11e4-8c28-020000005b00",
+    "name": "Escalon",
+    "address": "17051 Escalon Bellota Rd",
+    "courses": [
+      {
+        "name": "Escalon",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1514,
+            "par": 31,
+            "rating": 28.4,
+            "slope": 80
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1284,
+            "par": 31,
+            "rating": 28.2,
+            "slope": 78
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8aa8c250-86ac-11e4-8c28-020000005b00/escalon"
+  }
+}

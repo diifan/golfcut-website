@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b711ee20-86ac-11e4-8c28-020000005b00/derby-grange-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b711ee20-86ac-11e4-8c28-020000005b00/derby-grange-golf",
+  "checked_at": 1795666548.1073468,
+  "sha256": "27e6be6d5778c1ee20baef22acee71273a6eac8630bb1f408451c3a7f25ecdbd",
+  "title": "Derby Grange Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b711ee20-86ac-11e4-8c28-020000005b00",
+    "name": "Derby Grange Golf",
+    "address": "13079 Derby Grange Rd, Dubuque, IA",
+    "courses": [
+      {
+        "name": "Derby Grange",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 789,
+            "par": 27,
+            "rating": 25.40706,
+            "slope": 74.50048
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 789,
+            "par": 27,
+            "rating": 25.40706,
+            "slope": 74.50048
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 1058,
+            "par": 27,
+            "rating": 26.62832,
+            "slope": 79.42856
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 1058,
+            "par": 27,
+            "rating": 26.62832,
+            "slope": 79.42856
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b711ee20-86ac-11e4-8c28-020000005b00/derby-grange-golf"
+  }
+}

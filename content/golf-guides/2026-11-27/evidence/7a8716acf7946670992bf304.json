@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d5b3820-86ac-11e4-8c28-020000005b00/phil-harris-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d5b3820-86ac-11e4-8c28-020000005b00/phil-harris-golf-course",
+  "checked_at": 1795668352.2526925,
+  "sha256": "2e6edc7d3a9b37e37abb43a00aef82599c6487eacda445e3c0893f65c14bfa2f",
+  "title": "Phil Harris Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d5b3820-86ac-11e4-8c28-020000005b00",
+    "name": "Phil Harris Golf Course",
+    "address": "681 Po Box, Linton, IN",
+    "courses": [
+      {
+        "name": "Phil Harris",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6013,
+            "par": 71,
+            "rating": 68,
+            "slope": 111
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6013,
+            "par": 71,
+            "rating": 73.9,
+            "slope": 130
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5067,
+            "par": 71,
+            "rating": 68,
+            "slope": 116
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5067,
+            "par": 71,
+            "rating": 68.8,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d5b3820-86ac-11e4-8c28-020000005b00/phil-harris-golf-course"
+  }
+}

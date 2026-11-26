@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/979d41c0-86ac-11e4-8c28-020000005b00/tpc-las-vegas",
+  "resolved_url": "https://18birdies.com/golf-courses/club/979d41c0-86ac-11e4-8c28-020000005b00/tpc-las-vegas",
+  "checked_at": 1795661631.8581374,
+  "sha256": "2489264f36d368cf0b7b90bf5820fe0e201cc6bbc061864ef3503763b64ef228",
+  "title": "TPC Las Vegas - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "979d41c0-86ac-11e4-8c28-020000005b00",
+    "name": "TPC Las Vegas",
+    "address": "9851 Canyon Run Drive, Las Vegas NV",
+    "courses": [
+      {
+        "name": "TPC Las Vegas",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "TPC",
+            "category": "MALE",
+            "yards": 7080,
+            "par": 71,
+            "rating": 73.9,
+            "slope": 146
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6769,
+            "par": 71,
+            "rating": 72.3,
+            "slope": 136
+          },
+          {
+            "name": "Blended",
+            "category": "MALE",
+            "yards": 6336,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6047,
+            "par": 71,
+            "rating": 68.3,
+            "slope": 125
+          },
+          {
+            "name": "Forward Blended",
+            "category": "MALE",
+            "yards": 5527,
+            "par": 71,
+            "rating": 66.5,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4963,
+            "par": 71,
+            "rating": 63.9,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/979d41c0-86ac-11e4-8c28-020000005b00/tpc-las-vegas"
+  }
+}

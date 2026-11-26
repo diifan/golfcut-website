@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/adc2a8f0-86ac-11e4-8c28-020000005b00/twin-woods-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/adc2a8f0-86ac-11e4-8c28-020000005b00/twin-woods-golf-course",
+  "checked_at": 1795663922.5765748,
+  "sha256": "0cf98322294f2a64e0af92522389a2dbf6ae258d069c8dad212d4c2097cc54c5",
+  "title": "Twin Woods Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "adc2a8f0-86ac-11e4-8c28-020000005b00",
+    "name": "Twin Woods Golf Course",
+    "address": "2924 E Orvilla Rd, Hatfield, PA 19440",
+    "courses": [
+      {
+        "name": "Twin Woods Golf Club",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3062,
+            "par": 36,
+            "rating": 34.9,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3062,
+            "par": 36,
+            "rating": 37.7,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 3062,
+            "par": 36,
+            "rating": 33.6,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 3062,
+            "par": 36,
+            "rating": 36.2,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2707,
+            "par": 36,
+            "rating": 33,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2707,
+            "par": 36,
+            "rating": 35.6,
+            "slope": 119
+          },
+          {
+            "name": "Junior",
+            "category": "MALE",
+            "yards": 2707,
+            "par": 36,
+            "rating": 30.7,
+            "slope": 102
+          },
+          {
+            "name": "Junior",
+            "category": "FEMALE",
+            "yards": 2707,
+            "par": 36,
+            "rating": 32.3,
+            "slope": 104
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/adc2a8f0-86ac-11e4-8c28-020000005b00/twin-woods-golf-course"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/c01647a0-86ac-11e4-8c28-020000005b00/royal-st-georges-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/c01647a0-86ac-11e4-8c28-020000005b00/royal-st-georges-golf-club",
+  "checked_at": 1795669235.671344,
+  "sha256": "e084d8d8fc9d829fc29c1844d22f3394955cbc02fee5eedb8efdc87e089ddc7d",
+  "title": "Royal St. Georges Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "c01647a0-86ac-11e4-8c28-020000005b00",
+    "name": "Royal St. Georges Golf Club",
+    "address": "Off Guilford Road, Sandwich, Kent, England",
+    "courses": [
+      {
+        "name": "Royal St George's",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7204,
+            "par": 70,
+            "rating": 75.2,
+            "slope": 138
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 7204,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Medal",
+            "category": "MALE",
+            "yards": 6630,
+            "par": 70,
+            "rating": 72.5,
+            "slope": 133
+          },
+          {
+            "name": "Medal",
+            "category": "FEMALE",
+            "yards": 6630,
+            "par": 70,
+            "rating": 78.8,
+            "slope": 146
+          },
+          {
+            "name": "Weekday",
+            "category": "MALE",
+            "yards": 6340,
+            "par": 70,
+            "rating": 71,
+            "slope": 129
+          },
+          {
+            "name": "Weekday",
+            "category": "FEMALE",
+            "yards": 6340,
+            "par": 70,
+            "rating": 77.2,
+            "slope": 140
+          },
+          {
+            "name": "Pinto",
+            "category": "MALE",
+            "yards": 5801,
+            "par": 70,
+            "rating": 68.3,
+            "slope": 115
+          },
+          {
+            "name": "Pinto",
+            "category": "FEMALE",
+            "yards": 5801,
+            "par": 70,
+            "rating": 74.6,
+            "slope": 134
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/c01647a0-86ac-11e4-8c28-020000005b00/royal-st-georges-golf-club"
+  }
+}

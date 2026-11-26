@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a71e590-86ac-11e4-8c28-020000005b00/lynrock-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a71e590-86ac-11e4-8c28-020000005b00/lynrock-golf-club",
+  "checked_at": 1795666531.5462692,
+  "sha256": "c8f5c8700f1c21c5e4676bd822895dcd713f402290965c8d078f4644f42f7ff9",
+  "title": "Lynrock Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9a71e590-86ac-11e4-8c28-020000005b00",
+    "name": "Lynrock Golf Club",
+    "address": "636 Valley Dr, Eden, NC",
+    "courses": [
+      {
+        "name": "Lyn-Rock",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Players",
+            "category": "MALE",
+            "yards": 6046,
+            "par": 70,
+            "rating": 68,
+            "slope": 122
+          },
+          {
+            "name": "Traditional",
+            "category": "MALE",
+            "yards": 5538,
+            "par": 70,
+            "rating": 66.5,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a71e590-86ac-11e4-8c28-020000005b00/lynrock-golf-club"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8cd650b0-86ac-11e4-8c28-020000005b00/zollner-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8cd650b0-86ac-11e4-8c28-020000005b00/zollner-golf-course",
+  "checked_at": 1795666541.1865416,
+  "sha256": "8816303bce45115eb401f219562844c51246b6e6c70d4f9c53f8893bbad037aa",
+  "title": "Zollner Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8cd650b0-86ac-11e4-8c28-020000005b00",
+    "name": "Zollner Golf Course",
+    "address": "1215 Thunder Ave, Angola, IN",
+    "courses": [
+      {
+        "name": "Zollner",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6384,
+            "par": 71,
+            "rating": 69.9,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6384,
+            "par": 71,
+            "rating": 73.1,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6128,
+            "par": 71,
+            "rating": 68.5,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6128,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5765,
+            "par": 71,
+            "rating": 67.3,
+            "slope": 113
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5765,
+            "par": 71,
+            "rating": 72.4,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5006,
+            "par": 71,
+            "rating": 63.7,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5006,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 114
+          },
+          {
+            "name": "Green/Red",
+            "category": "MALE",
+            "yards": 5367,
+            "par": 71,
+            "rating": 65.1,
+            "slope": 110
+          },
+          {
+            "name": "Green/Red",
+            "category": "FEMALE",
+            "yards": 5367,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8cd650b0-86ac-11e4-8c28-020000005b00/zollner-golf-course"
+  }
+}

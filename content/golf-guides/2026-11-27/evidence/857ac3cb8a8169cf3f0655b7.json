@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afb21ce0-86ac-11e4-8c28-020000005b00/fincastle-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afb21ce0-86ac-11e4-8c28-020000005b00/fincastle-country-club",
+  "checked_at": 1795666494.6504376,
+  "sha256": "ddaf899e1e8238412cafabfec63518d2d740d307a7fda9165b7f104c17fcf290",
+  "title": "Fincastle Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "afb21ce0-86ac-11e4-8c28-020000005b00",
+    "name": "Fincastle Country Club",
+    "address": "1000 Country Club Dr., Bluefield, VA",
+    "courses": [
+      {
+        "name": "Fincastle",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6643,
+            "par": 70,
+            "rating": 70.7,
+            "slope": 135
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6213,
+            "par": 70,
+            "rating": 69,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5884,
+            "par": 70,
+            "rating": 68,
+            "slope": 129
+          },
+          {
+            "name": "Burgundy",
+            "category": "MALE",
+            "yards": 4898,
+            "par": 70,
+            "rating": 63.2,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afb21ce0-86ac-11e4-8c28-020000005b00/fincastle-country-club"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b42d44c0-86ac-11e4-8c28-020000005b00/pearl-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b42d44c0-86ac-11e4-8c28-020000005b00/pearl-municipal-golf-course",
+  "checked_at": 1795663456.971666,
+  "sha256": "268f7f264240e079f5280d2f07c1e099d6c3961c3a2673c88f52efe9f4457853",
+  "title": "Pearl Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b42d44c0-86ac-11e4-8c28-020000005b00",
+    "name": "Pearl Municipal Golf Course",
+    "address": "1001 Center City Dr, Pearl, MS",
+    "courses": [
+      {
+        "name": "Pearl",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6161,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6161,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5622,
+            "par": 71,
+            "rating": 66.5,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5622,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5152,
+            "par": 71,
+            "rating": 65,
+            "slope": 108
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5152,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4647,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4647,
+            "par": 71,
+            "rating": 66.6,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b42d44c0-86ac-11e4-8c28-020000005b00/pearl-municipal-golf-course"
+  }
+}

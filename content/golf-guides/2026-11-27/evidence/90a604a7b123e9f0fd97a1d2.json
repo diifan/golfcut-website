@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/938ac6c0-86ac-11e4-8c28-020000005b00/trident-lakes",
+  "resolved_url": "https://18birdies.com/golf-courses/club/938ac6c0-86ac-11e4-8c28-020000005b00/trident-lakes",
+  "checked_at": 1795663895.5230973,
+  "sha256": "9e7336e03c54a5117ce39908181569e3f990453043317cbf827aef1dea997fb2",
+  "title": "Trident Lakes - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "938ac6c0-86ac-11e4-8c28-020000005b00",
+    "name": "Trident Lakes",
+    "address": "1010 USS Proteus Blvd, Kings Bay Base, GA 31547, USA",
+    "courses": [
+      {
+        "name": "Trident Lakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6648,
+            "par": 72,
+            "rating": 72,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6081,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5506,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5094,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/938ac6c0-86ac-11e4-8c28-020000005b00/trident-lakes"
+  }
+}

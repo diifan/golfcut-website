@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/898e9fc0-86ac-11e4-8c28-020000005b00/big-canyon-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/898e9fc0-86ac-11e4-8c28-020000005b00/big-canyon-country-club",
+  "checked_at": 1795661431.0720325,
+  "sha256": "c55faf69718f50764aaed08ad0191e9a4d2f94aeb2069f20620cff207cea9e97",
+  "title": "Big Canyon Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "898e9fc0-86ac-11e4-8c28-020000005b00",
+    "name": "Big Canyon Country Club",
+    "address": "1 Big Canyon Dr, Newport Beach, CA",
+    "courses": [
+      {
+        "name": "Big Canyon",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7061,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 136
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7061,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black/Blue",
+            "category": "MALE",
+            "yards": 6821,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 134
+          },
+          {
+            "name": "Black/Blue",
+            "category": "FEMALE",
+            "yards": 6821,
+            "par": 72,
+            "rating": 78.2,
+            "slope": 139
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6631,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6631,
+            "par": 72,
+            "rating": 79.7,
+            "slope": 145
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5613,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5613,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 134
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/898e9fc0-86ac-11e4-8c28-020000005b00/big-canyon-country-club"
+  }
+}

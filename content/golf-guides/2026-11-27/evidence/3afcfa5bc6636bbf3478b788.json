@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/88d95980-86ac-11e4-8c28-020000005b00/lakeside-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/88d95980-86ac-11e4-8c28-020000005b00/lakeside-golf-club",
+  "checked_at": 1795669226.6295848,
+  "sha256": "3a1b785ea458dee0683557bc4ccf9766101c780f8c54aff5d9d6363c112ab93b",
+  "title": "Lakeside Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "88d95980-86ac-11e4-8c28-020000005b00",
+    "name": "Lakeside Golf Club",
+    "address": "4500 Lakeside Drive, Burbank, CA",
+    "courses": [
+      {
+        "name": "Lakeside",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6840,
+            "par": 70,
+            "rating": 73.7,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6840,
+            "par": 70,
+            "rating": 78.3,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6597,
+            "par": 70,
+            "rating": 72.5,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6597,
+            "par": 70,
+            "rating": 78.5,
+            "slope": 142
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 6226,
+            "par": 70,
+            "rating": 70.8,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 6226,
+            "par": 70,
+            "rating": 76.4,
+            "slope": 137
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/88d95980-86ac-11e4-8c28-020000005b00/lakeside-golf-club"
+  }
+}

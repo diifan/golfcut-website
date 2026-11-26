@@ -1,0 +1,107 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0ffd290-86ac-11e4-8c28-020000005b00/jefferson-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0ffd290-86ac-11e4-8c28-020000005b00/jefferson-park-golf-course",
+  "checked_at": 1795666563.173651,
+  "sha256": "4308ada1f05c2d4cfcf9b82fa1b3bd5e377c50e630869bb8f274f68c5c3d8344",
+  "title": "Jefferson Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b0ffd290-86ac-11e4-8c28-020000005b00",
+    "name": "Jefferson Park Golf Course",
+    "address": "4101 Beacon Ave S, Seattle, WA",
+    "courses": [
+      {
+        "name": "18 hole",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5869,
+            "par": 69,
+            "rating": 67.6,
+            "slope": 113
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5869,
+            "par": 69,
+            "rating": 73.3,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5467,
+            "par": 69,
+            "rating": 65.5,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5467,
+            "par": 69,
+            "rating": 70.9,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4908,
+            "par": 69,
+            "rating": 63.2,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4908,
+            "par": 69,
+            "rating": 67.4,
+            "slope": 112
+          }
+        ]
+      },
+      {
+        "name": "Par 3 ",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1027,
+            "par": 27,
+            "rating": 30,
+            "slope": 90
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1027,
+            "par": 27,
+            "rating": 30,
+            "slope": 90
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1027,
+            "par": 27,
+            "rating": 30,
+            "slope": 90
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1027,
+            "par": 27,
+            "rating": 30,
+            "slope": 90
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0ffd290-86ac-11e4-8c28-020000005b00/jefferson-park-golf-course"
+  }
+}

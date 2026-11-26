@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/149d1900-0487-11ee-a4f4-06780482e2ce/red-farm-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/149d1900-0487-11ee-a4f4-06780482e2ce/red-farm-golf",
+  "checked_at": 1795664704.9566324,
+  "sha256": "353dce673641b3efd772189d3a6ef35a6a57a58fd4589f2d7ec4a9c9e78bfa9f",
+  "title": "Red Farm Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "149d1900-0487-11ee-a4f4-06780482e2ce",
+    "name": "Red Farm Golf",
+    "address": "119 Fowler St, Upton, MA",
+    "courses": [
+      {
+        "name": "Par 3",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 805,
+            "par": 27,
+            "rating": 25.4797,
+            "slope": 74.7936
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 805,
+            "par": 27,
+            "rating": 25.4797,
+            "slope": 74.7936
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 632,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 632,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/149d1900-0487-11ee-a4f4-06780482e2ce/red-farm-golf"
+  }
+}

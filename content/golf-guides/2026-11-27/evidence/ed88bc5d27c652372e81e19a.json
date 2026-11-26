@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/831bc690-86ac-11e4-8c28-020000005b00/lone-oak-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/831bc690-86ac-11e4-8c28-020000005b00/lone-oak-golf-course",
+  "checked_at": 1795583784.4842134,
+  "sha256": "50660dd1f0efa2a505ae04c5f5a2132a9514a0d5a6e2baaea96dc8354cd04b6c",
+  "title": "Lone Oak Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "831bc690-86ac-11e4-8c28-020000005b00",
+    "name": "Lone Oak Golf Course",
+    "address": "1450E and 1150N Carrollton, Illinois 62016",
+    "courses": [
+      {
+        "name": "Lone Oak",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2005,
+            "par": 32,
+            "rating": 30.5,
+            "slope": 80
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2005,
+            "par": 32,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2005,
+            "par": 32,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2005,
+            "par": 32,
+            "rating": 31.2,
+            "slope": 85
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/831bc690-86ac-11e4-8c28-020000005b00/lone-oak-golf-course"
+  }
+}

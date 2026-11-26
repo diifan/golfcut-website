@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae362b40-86ac-11e4-8c28-020000005b00/lake-city-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae362b40-86ac-11e4-8c28-020000005b00/lake-city-country-club",
+  "checked_at": 1795666490.9994922,
+  "sha256": "4b722177b3114eee29230d23aa034b43df94b976f92713f1ebb760d763b7cc48",
+  "title": "Lake City Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "ae362b40-86ac-11e4-8c28-020000005b00",
+    "name": "Lake City Country Club",
+    "address": "Country Club Rd",
+    "courses": [
+      {
+        "name": "Lake City",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6672,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5981,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5119,
+            "par": 72,
+            "rating": 64.3,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae362b40-86ac-11e4-8c28-020000005b00/lake-city-country-club"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/adc91190-86ac-11e4-8c28-020000005b00/raystown-golf-resort",
+  "resolved_url": "https://18birdies.com/golf-courses/club/adc91190-86ac-11e4-8c28-020000005b00/raystown-golf-resort",
+  "checked_at": 1795668308.8961315,
+  "sha256": "37ae9cf6f914bfd089de0efccc596f35ea565b77993d561c0758f16d9cc4cc17",
+  "title": "Raystown Golf Resort - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "adc91190-86ac-11e4-8c28-020000005b00",
+    "name": "Raystown Golf Resort",
+    "address": "10506 Standing Stone Road",
+    "courses": [
+      {
+        "name": "Standing Stone",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6593,
+            "par": 70,
+            "rating": 72,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6593,
+            "par": 71,
+            "rating": 77,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6175,
+            "par": 70,
+            "rating": 70.1,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6175,
+            "par": 71,
+            "rating": 74.7,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5733,
+            "par": 70,
+            "rating": 67.8,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5733,
+            "par": 71,
+            "rating": 72.4,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5268,
+            "par": 70,
+            "rating": 68.9,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5268,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/adc91190-86ac-11e4-8c28-020000005b00/raystown-golf-resort"
+  }
+}

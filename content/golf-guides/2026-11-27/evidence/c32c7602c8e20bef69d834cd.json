@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a2895d0-86ac-11e4-8c28-020000005b00/sebastopol-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a2895d0-86ac-11e4-8c28-020000005b00/sebastopol-golf-course",
+  "checked_at": 1795663920.6059577,
+  "sha256": "6d035bd4502ed28d4c1efe954323ec04c79006137c7a8d84512a927e87583343",
+  "title": "Sebastopol Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a2895d0-86ac-11e4-8c28-020000005b00",
+    "name": "Sebastopol Golf Course",
+    "address": "2881 Scotts Right Of Way, Sebastopol, CA",
+    "courses": [
+      {
+        "name": "Sebastopol",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3240,
+            "par": 62,
+            "rating": 58.2,
+            "slope": 93
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3240,
+            "par": 62,
+            "rating": 59.1,
+            "slope": 97
+          },
+          {
+            "name": "Short",
+            "category": "MALE",
+            "yards": 3186,
+            "par": 62,
+            "rating": 58.5,
+            "slope": 87
+          },
+          {
+            "name": "Short",
+            "category": "FEMALE",
+            "yards": 3186,
+            "par": 62,
+            "rating": 58.8,
+            "slope": 97
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a2895d0-86ac-11e4-8c28-020000005b00/sebastopol-golf-course"
+  }
+}

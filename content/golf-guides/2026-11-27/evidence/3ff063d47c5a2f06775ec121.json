@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b7980e10-86ac-11e4-8c28-020000005b00/tipton-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b7980e10-86ac-11e4-8c28-020000005b00/tipton-country-club",
+  "checked_at": 1795663460.130006,
+  "sha256": "5169c268fb3b67f7765027086f857e60fa8b01136f602b3b81275a4bf8ce9dcf",
+  "title": "Tipton Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b7980e10-86ac-11e4-8c28-020000005b00",
+    "name": "Tipton Country Club",
+    "address": "1143 Cedar Valley Rd, Tipton, IA",
+    "courses": [
+      {
+        "name": "Tipton",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5841,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5841,
+            "par": 74,
+            "rating": 68.4,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5386,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5386,
+            "par": 74,
+            "rating": 68.4,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b7980e10-86ac-11e4-8c28-020000005b00/tipton-country-club"
+  }
+}

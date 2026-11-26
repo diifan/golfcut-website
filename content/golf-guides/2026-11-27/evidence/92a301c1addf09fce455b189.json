@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/908db360-86ac-11e4-8c28-020000005b00/treasure-bay-golf-tennis",
+  "resolved_url": "https://18birdies.com/golf-courses/club/908db360-86ac-11e4-8c28-020000005b00/treasure-bay-golf-tennis",
+  "checked_at": 1795666500.8810947,
+  "sha256": "113f0084d47b69630f495dbf52f85e82341ad8a1b944058d142e42de0aac62b6",
+  "title": "Treasure Bay Golf & Tennis - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "908db360-86ac-11e4-8c28-020000005b00",
+    "name": "Treasure Bay Golf & Tennis",
+    "address": "10315 Paradise Blvd",
+    "courses": [
+      {
+        "name": "Treasure Island",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 905,
+            "par": 27,
+            "rating": 25.9337,
+            "slope": 76.6256
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 795,
+            "par": 27,
+            "rating": 25.4343,
+            "slope": 74.6104
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/908db360-86ac-11e4-8c28-020000005b00/treasure-bay-golf-tennis"
+  }
+}

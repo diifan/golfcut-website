@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8cd39190-86ac-11e4-8c28-020000005b00/meadowbrook-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8cd39190-86ac-11e4-8c28-020000005b00/meadowbrook-golf-course",
+  "checked_at": 1795524463.4732447,
+  "sha256": "ef113a6b27bde360818a083706ea1d2d50855fa26d37f2c52da47c3dd4c9e3d9",
+  "title": "Meadowbrook Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8cd39190-86ac-11e4-8c28-020000005b00",
+    "name": "Meadowbrook Golf Course",
+    "address": "3429 S Madison Ave, Anderson, IN",
+    "courses": [
+      {
+        "name": "Meadowbrook",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5768,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5433,
+            "par": 71,
+            "rating": 67.7,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4921,
+            "par": 71,
+            "rating": 64.1,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4272,
+            "par": 71,
+            "rating": 64.4,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8cd39190-86ac-11e4-8c28-020000005b00/meadowbrook-golf-course"
+  }
+}

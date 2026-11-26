@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4d607e0-86ac-11e4-8c28-020000005b00/manzanita-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4d607e0-86ac-11e4-8c28-020000005b00/manzanita-golf-course",
+  "checked_at": 1795666495.0613184,
+  "sha256": "7f3427fc9a4bd60f875dc7615c927b0749413d5bcc8d2f79fb7a148604cd088f",
+  "title": "Manzanita Links - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b4d607e0-86ac-11e4-8c28-020000005b00",
+    "name": "Manzanita Links",
+    "address": "908 Lakeview Drive, Manzanita, Oregon 97130, Tillamook County",
+    "courses": [
+      {
+        "name": "9 Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2192,
+            "par": 32,
+            "rating": 61.4,
+            "slope": 110
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2192,
+            "par": 32,
+            "rating": 65.6,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2020,
+            "par": 32,
+            "rating": 60.6,
+            "slope": 103
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2020,
+            "par": 32,
+            "rating": 63,
+            "slope": 112
+          }
+        ]
+      },
+      {
+        "name": "18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4384,
+            "par": 64,
+            "rating": 61.4,
+            "slope": 110
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4384,
+            "par": 64,
+            "rating": 65.6,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4040,
+            "par": 64,
+            "rating": 60.6,
+            "slope": 103
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4040,
+            "par": 64,
+            "rating": 63,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4d607e0-86ac-11e4-8c28-020000005b00/manzanita-golf-course"
+  }
+}

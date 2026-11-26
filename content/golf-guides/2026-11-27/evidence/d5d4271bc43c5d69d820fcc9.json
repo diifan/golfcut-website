@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9982f1b0-86ac-11e4-8c28-020000005b00/oswego-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9982f1b0-86ac-11e4-8c28-020000005b00/oswego-country-club",
+  "checked_at": 1795663888.1330152,
+  "sha256": "8233fd1817294badd6dec4ff795e80294caebec3db134cb6ce5508cfd3a3c6bb",
+  "title": "Oswego Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9982f1b0-86ac-11e4-8c28-020000005b00",
+    "name": "Oswego Country Club",
+    "address": "West River Rd, Oswego, NY",
+    "courses": [
+      {
+        "name": "Oswego",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6424,
+            "par": 71,
+            "rating": 71.6,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6057,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5567,
+            "par": 71,
+            "rating": 67.3,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5316,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9982f1b0-86ac-11e4-8c28-020000005b00/oswego-country-club"
+  }
+}

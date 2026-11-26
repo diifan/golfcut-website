@@ -1,0 +1,267 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/89e37680-86ac-11e4-8c28-020000005b00/rancho-murieta-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/89e37680-86ac-11e4-8c28-020000005b00/rancho-murieta-country-club",
+  "checked_at": 1795664685.815782,
+  "sha256": "cde2b7a78869deef67203fb7604ee289258919434b2fc64cf7da28561afb1919",
+  "title": "Rancho Murieta Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "89e37680-86ac-11e4-8c28-020000005b00",
+    "name": "Rancho Murieta Country Club",
+    "address": "7000 Alameda Dr, Rancho Murieta, CA",
+    "courses": [
+      {
+        "name": "North Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6831,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 140
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6831,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Combo",
+            "category": "MALE",
+            "yards": 6595,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 136
+          },
+          {
+            "name": "Combo",
+            "category": "FEMALE",
+            "yards": 6595,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6335,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 133
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6335,
+            "par": 72,
+            "rating": 77.6,
+            "slope": 142
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 6018,
+            "par": 72,
+            "rating": 70,
+            "slope": 131
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 6018,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 139
+          },
+          {
+            "name": "Bronze",
+            "category": "MALE",
+            "yards": 5608,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 126
+          },
+          {
+            "name": "Bronze",
+            "category": "FEMALE",
+            "yards": 5608,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 132
+          },
+          {
+            "name": "Bronze/Platinum",
+            "category": "MALE",
+            "yards": 5057,
+            "par": 72,
+            "rating": 65.2,
+            "slope": 117
+          },
+          {
+            "name": "Bronze/Platinum",
+            "category": "FEMALE",
+            "yards": 5057,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 125
+          },
+          {
+            "name": "Platinum",
+            "category": "MALE",
+            "yards": 4304,
+            "par": 72,
+            "rating": 62.6,
+            "slope": 106
+          },
+          {
+            "name": "Platinum",
+            "category": "FEMALE",
+            "yards": 4304,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 117
+          },
+          {
+            "name": "Emerald",
+            "category": "MALE",
+            "yards": 3397,
+            "par": 72,
+            "rating": 59.4,
+            "slope": 101
+          },
+          {
+            "name": "Emerald",
+            "category": "FEMALE",
+            "yards": 3397,
+            "par": 72,
+            "rating": 61,
+            "slope": 96
+          }
+        ]
+      },
+      {
+        "name": "South Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6865,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 131
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6865,
+            "par": 72,
+            "rating": 78.4,
+            "slope": 140
+          },
+          {
+            "name": "Combo",
+            "category": "MALE",
+            "yards": 6585,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 130
+          },
+          {
+            "name": "Combo",
+            "category": "FEMALE",
+            "yards": 6585,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6299,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6299,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 137
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5916,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 126
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5916,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 131
+          },
+          {
+            "name": "Bronze",
+            "category": "MALE",
+            "yards": 5583,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 123
+          },
+          {
+            "name": "Bronze",
+            "category": "FEMALE",
+            "yards": 5583,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 127
+          },
+          {
+            "name": "Bronze/Platinum",
+            "category": "MALE",
+            "yards": 4429,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 111
+          },
+          {
+            "name": "Bronze/Platinum",
+            "category": "FEMALE",
+            "yards": 4429,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 111
+          },
+          {
+            "name": "Platinum",
+            "category": "MALE",
+            "yards": 3446,
+            "par": 72,
+            "rating": 58.6,
+            "slope": 97
+          },
+          {
+            "name": "Platinum",
+            "category": "FEMALE",
+            "yards": 3446,
+            "par": 72,
+            "rating": 59.6,
+            "slope": 90
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/89e37680-86ac-11e4-8c28-020000005b00/rancho-murieta-country-club"
+  }
+}

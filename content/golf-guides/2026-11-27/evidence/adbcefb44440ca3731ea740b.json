@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/326149d0-3871-11ed-b064-06780482e2ce/vails-grove-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/326149d0-3871-11ed-b064-06780482e2ce/vails-grove-golf-course",
+  "checked_at": 1795668342.192734,
+  "sha256": "bbf69ebe9314e1ab9906c60f0dbc1cc48307a09726a5e29f3881114553d0a5a4",
+  "title": "Vails Grove Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "326149d0-3871-11ed-b064-06780482e2ce",
+    "name": "Vails Grove Golf Course",
+    "address": "230 Peach Lake Rd, Brewster, NY",
+    "courses": [
+      {
+        "name": "Vails Grove Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4406,
+            "par": 64,
+            "rating": 60.8,
+            "slope": 89
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4406,
+            "par": 68,
+            "rating": 65.3,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4250,
+            "par": 64,
+            "rating": 60.2,
+            "slope": 86
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4250,
+            "par": 68,
+            "rating": 64,
+            "slope": 102
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3884,
+            "par": 64,
+            "rating": 59.2,
+            "slope": 83
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3884,
+            "par": 68,
+            "rating": 61.6,
+            "slope": 99
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/326149d0-3871-11ed-b064-06780482e2ce/vails-grove-golf-course"
+  }
+}

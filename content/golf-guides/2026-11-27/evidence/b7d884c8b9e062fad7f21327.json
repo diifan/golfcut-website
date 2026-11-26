@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92ef7120-86ac-11e4-8c28-020000005b00/the-salt-pond-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92ef7120-86ac-11e4-8c28-020000005b00/the-salt-pond-golf-club",
+  "checked_at": 1795668354.1333616,
+  "sha256": "6331dc24b8a59853031808555d087660207a52edb61481bac09e2ea0e0ef4aa0",
+  "title": "The Salt Pond Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92ef7120-86ac-11e4-8c28-020000005b00",
+    "name": "The Salt Pond Golf Club",
+    "address": "400 Bethany Loop, Bethany Beach, DE",
+    "courses": [
+      {
+        "name": "Salt Pond",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 3174,
+            "par": 54,
+            "rating": 56.5,
+            "slope": 96
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 3174,
+            "par": 54,
+            "rating": 58.6,
+            "slope": 94
+          },
+          {
+            "name": "Beige",
+            "category": "MALE",
+            "yards": 2700,
+            "par": 54,
+            "rating": 56.5,
+            "slope": 96
+          },
+          {
+            "name": "Beige",
+            "category": "FEMALE",
+            "yards": 2700,
+            "par": 54,
+            "rating": 58.6,
+            "slope": 94
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 2130,
+            "par": 54,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 2130,
+            "par": 54,
+            "rating": 52.4012,
+            "slope": 79.2527
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92ef7120-86ac-11e4-8c28-020000005b00/the-salt-pond-golf-club"
+  }
+}

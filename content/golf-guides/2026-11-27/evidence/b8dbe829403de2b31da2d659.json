@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92a71d80-86ac-11e4-8c28-020000005b00/chanticlair-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92a71d80-86ac-11e4-8c28-020000005b00/chanticlair-golf-course",
+  "checked_at": 1795664691.8690283,
+  "sha256": "c86199a38dd7ffa4a61ff82dfdd8e90125db75e4886a0a26f0921e70294a98b2",
+  "title": "Chanticlair Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "92a71d80-86ac-11e4-8c28-020000005b00",
+    "name": "Chanticlair Golf Course",
+    "address": "288 Old Hebron Rd, Colchester, CT",
+    "courses": [
+      {
+        "name": "Chanticlair 18 holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 6214,
+            "par": 70,
+            "rating": 68.8,
+            "slope": 123
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 6214,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "MALE",
+            "yards": 4868,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "FEMALE",
+            "yards": 4868,
+            "par": 70,
+            "rating": 69.3,
+            "slope": 114
+          }
+        ]
+      },
+      {
+        "name": "Chanticlair 9 holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 3107,
+            "par": 35,
+            "rating": 34.2,
+            "slope": 122
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 3107,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "MALE",
+            "yards": 2434,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "FEMALE",
+            "yards": 2434,
+            "par": 35,
+            "rating": 34.6,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92a71d80-86ac-11e4-8c28-020000005b00/chanticlair-golf-course"
+  }
+}

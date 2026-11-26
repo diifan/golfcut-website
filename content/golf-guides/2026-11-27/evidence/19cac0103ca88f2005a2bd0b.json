@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b84ba6a0-86ac-11e4-8c28-020000005b00/midville-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b84ba6a0-86ac-11e4-8c28-020000005b00/midville-country-club",
+  "checked_at": 1795668299.2287986,
+  "sha256": "f866a8d68b4372f7c917f0695b97896c79c3709639c87f7dec6fa2345a2eeb5c",
+  "title": "Midville Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b84ba6a0-86ac-11e4-8c28-020000005b00",
+    "name": "Midville Country Club",
+    "address": "100 Lombardi Ln",
+    "courses": [
+      {
+        "name": "Midville - 9 Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 2895,
+            "par": 35,
+            "rating": 33.5,
+            "slope": 118
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 2895,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2711,
+            "par": 35,
+            "rating": 32.8,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2711,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2186,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2186,
+            "par": 35,
+            "rating": 33.2,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b84ba6a0-86ac-11e4-8c28-020000005b00/midville-country-club"
+  }
+}

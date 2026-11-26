@@ -18,12 +18,22 @@ def refresh_ready(day,r):
  base=run(['git','rev-parse','origin/main'],work)
  progress(day,last_base_check_at=now())
  if base in [r['base_commit'],r['commit']]:return
- try:run(['git','rebase','--onto',base,r['base_commit']],work)
- except Exception:
-  run(['git','rebase','--abort'],work)
-  raise RuntimeError('Concurrent production edit conflicts with SEO batch; preserved both versions, reconciliation required')
- log=run([BUN,'run','build'],work);(HOME/(day+'-build.log')).write_text(log)
- progress(day,state='validated',base_commit=base,commit=run(['git','rev-parse','HEAD'],work),deployment_id=None,deployment_url=None)
+ # Each day modifies shared generated hubs/sitemap. Rebase routinely conflicts
+ # after today's release; rebuild the RESERVED batch on the new main instead.
+ from keyword_pages import build_batch
+ from release import check_manifest
+ check_manifest(r)
+ pool=read(HOME/'semrush-keyword-state.json',{})
+ rows=[x for x in pool.values() if x.get('batch')==day and x.get('status')=='reserved']
+ if len(rows)!=r['target']:raise RuntimeError('Reserved batch no longer matches target')
+ refreshed=PROJECT/('website-seo-keywords-'+day.replace('-','')+'-'+base[:10])
+ if refreshed.exists():raise RuntimeError('Reconciliation worktree already exists; preserved for inspection')
+ run(['git','worktree','add','--detach',str(refreshed),base],work)
+ import shutil
+ runtime=refreshed/'production/tracer-daily';runtime.mkdir(parents=True,exist_ok=True)
+ for source in Path(__file__).resolve().parent.iterdir():
+  if source.is_file() and source.suffix in ('.py','.md'):shutil.copy2(source,runtime/source.name)
+ build_batch(day,rows,refreshed,r['target'])
  stage(day)
 
 def tick():
@@ -37,22 +47,23 @@ def tick():
     try:refresh_ready(day,r)
     except Exception as e:progress(day,state='rebase_required',blockers=[str(e)[-1500:]])
  jobs=due(c,clock)
- # Continue an overnight source/build failure before today's release cutoff.
- # The ordinary prepare time still prepares tomorrow; publish never builds.
- if c['enabled'] and (clock.hour,clock.minute)<(c['hour'],c['minute']):
+ # Catch up today's failed preparation even after the release cutoff.
+ # Tomorrow cannot consume inventory or build on an unpublished main.
+ if c['enabled']:
   today=clock.date().isoformat();current=read(HOME/(today+'-receipt.json'),{})
   if current.get('state') not in ['ready','published','publishing','verifying','reconcile_required']:
    jobs.insert(0,('prepare',today))
  for action,day in jobs:
+  if day>clock.date().isoformat() and read(HOME/(clock.date().isoformat()+'-receipt.json'),{}).get('state')!='published':continue
   r=read(HOME/(day+'-receipt.json'),{})
   if r.get('state')=='published':continue
   # Retrying source outages must not hammer upstream every minute.
   attempted=r.get('last_attempt_at')
-  if attempted and (datetime.datetime.now(datetime.timezone.utc)-datetime.datetime.fromisoformat(attempted)).total_seconds()<900:continue
+  if attempted and r.get('last_attempt_action',action)==action and (datetime.datetime.now(datetime.timezone.utc)-datetime.datetime.fromisoformat(attempted)).total_seconds()<900:continue
   if action=='publish' and (r.get('input_kind')!='semrush_keywords_v1' or r.get('state') not in ['ready','publishing','verifying','reconcile_required']):
    if not r:progress(day,state='missing_prepared_batch',blockers=['No validated version was prepared; publish tick will not build or publish partial content.'])
    continue
-  progress(day,last_attempt_at=now())
+  progress(day,last_attempt_at=now(),last_attempt_action=action)
   try:
    if action=='prepare':
     if r.get('state') not in ['validated','stage_failed','staging','ready']:r=prepare(day)

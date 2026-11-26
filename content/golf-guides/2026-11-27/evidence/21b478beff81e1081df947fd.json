@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b10b4440-86ac-11e4-8c28-020000005b00/fairbanks-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b10b4440-86ac-11e4-8c28-020000005b00/fairbanks-golf-course",
+  "checked_at": 1795666492.9694786,
+  "sha256": "6592e218d3c5115910ae48adb4ef0d80fbcd64b460df97197be3efb72b1ea34e",
+  "title": "Fairbanks Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b10b4440-86ac-11e4-8c28-020000005b00",
+    "name": "Fairbanks Golf Course",
+    "address": "1735 Farmers Loop Rd, Fairbanks, AK",
+    "courses": [
+      {
+        "name": "Fairbanks",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3132,
+            "par": 36,
+            "rating": 34.9,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3132,
+            "par": 36,
+            "rating": 37.6,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2593,
+            "par": 36,
+            "rating": 34.3,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2593,
+            "par": 36,
+            "rating": 34.5,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b10b4440-86ac-11e4-8c28-020000005b00/fairbanks-golf-course"
+  }
+}

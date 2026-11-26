@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b58d9810-86ac-11e4-8c28-020000005b00/grant-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b58d9810-86ac-11e4-8c28-020000005b00/grant-park-golf-course",
+  "checked_at": 1795664684.3197472,
+  "sha256": "2849a9ccdfec0746c34dcf0bdcabd5b5866deca2bc679a6cf5aaadba01740301",
+  "title": "Grant Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b58d9810-86ac-11e4-8c28-020000005b00",
+    "name": "Grant Park Golf Course",
+    "address": "100 E. Hawthorne Avenue, South Milwaukee, WI",
+    "courses": [
+      {
+        "name": "Grant Park Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5268,
+            "par": 68,
+            "rating": 65.8,
+            "slope": 108
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5268,
+            "par": 70,
+            "rating": 70.4,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5117,
+            "par": 68,
+            "rating": 65.1,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5117,
+            "par": 70,
+            "rating": 69.5,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b58d9810-86ac-11e4-8c28-020000005b00/grant-park-golf-course"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9247a70-86ac-11e4-8c28-020000005b00/carthage-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9247a70-86ac-11e4-8c28-020000005b00/carthage-golf-course",
+  "checked_at": 1795663921.878031,
+  "sha256": "f2d0c2195ada26cc34028165c2333cf21adf22ab67beed99fbcef39ac39bb564",
+  "title": "Carthage Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b9247a70-86ac-11e4-8c28-020000005b00",
+    "name": "Carthage Golf Course",
+    "address": "2000 Richard Webster Drive, Carthage, MO",
+    "courses": [
+      {
+        "name": "Carthage",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6408,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 121
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6408,
+            "par": 71,
+            "rating": 76,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6024,
+            "par": 71,
+            "rating": 68.5,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6024,
+            "par": 71,
+            "rating": 73.9,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5502,
+            "par": 71,
+            "rating": 66.1,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5502,
+            "par": 71,
+            "rating": 71.3,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4923,
+            "par": 71,
+            "rating": 63.5,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4923,
+            "par": 71,
+            "rating": 67.7,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9247a70-86ac-11e4-8c28-020000005b00/carthage-golf-course"
+  }
+}

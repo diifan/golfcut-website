@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8c5b8a0-86ac-11e4-8c28-020000005b00/morrilton",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8c5b8a0-86ac-11e4-8c28-020000005b00/morrilton",
+  "checked_at": 1795661422.1201189,
+  "sha256": "1453fbb7807ef30b004a7058b6c74ba450149f0d9e94798fcb609f8ba78727c9",
+  "title": "Morrilton - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "b8c5b8a0-86ac-11e4-8c28-020000005b00",
+    "name": "Morrilton",
+    "address": "Hwy 64 W, Morrilton, AR",
+    "courses": [
+      {
+        "name": "Morrilton",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6317,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6317,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5989,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5989,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5417,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5417,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5094,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5094,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4515,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4515,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8c5b8a0-86ac-11e4-8c28-020000005b00/morrilton"
+  }
+}

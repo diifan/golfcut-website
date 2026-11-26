@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/931a78c0-86ac-11e4-8c28-020000005b00/southland-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/931a78c0-86ac-11e4-8c28-020000005b00/southland-golf-country-club",
+  "checked_at": 1795666493.9382293,
+  "sha256": "571ffe98988cf28985c133bd5ee43a2a8b6cee9fc9341128c392f584d326b444",
+  "title": "Southland Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "931a78c0-86ac-11e4-8c28-020000005b00",
+    "name": "Southland Golf & Country Club",
+    "address": "5726 Southland Dr, Stone Mountain, Georgia",
+    "courses": [
+      {
+        "name": "Southland",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6643,
+            "par": 72,
+            "rating": 73,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6643,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6039,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6039,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5453,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5453,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4811,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4811,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/931a78c0-86ac-11e4-8c28-020000005b00/southland-golf-country-club"
+  }
+}

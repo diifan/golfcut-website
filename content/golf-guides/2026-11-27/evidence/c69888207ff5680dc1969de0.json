@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b06f9a0-86ac-11e4-8c28-020000005b00/red-bird-golf-links",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b06f9a0-86ac-11e4-8c28-020000005b00/red-bird-golf-links",
+  "checked_at": 1795661420.6641023,
+  "sha256": "6e6642e621024056df48461b4e7397908c47c9a0a6336eecffa5e6c62a3a887d",
+  "title": "Red Bird Golf Links - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9b06f9a0-86ac-11e4-8c28-020000005b00",
+    "name": "Red Bird Golf Links",
+    "address": "67 Cherokee Trail",
+    "courses": [
+      {
+        "name": "Red Bird",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Champion ",
+            "category": "MALE",
+            "yards": 1020,
+            "par": 30,
+            "rating": 72.5,
+            "slope": 138
+          },
+          {
+            "name": "Champion ",
+            "category": "FEMALE",
+            "yards": 1020,
+            "par": 30,
+            "rating": 26.4558,
+            "slope": 78.7324
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b06f9a0-86ac-11e4-8c28-020000005b00/red-bird-golf-links"
+  }
+}

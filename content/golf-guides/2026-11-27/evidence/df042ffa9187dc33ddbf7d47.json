@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/74e5aec0-e850-11ec-b7b4-06780482e2ce/jcb-golf-and-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/74e5aec0-e850-11ec-b7b4-06780482e2ce/jcb-golf-and-country-club",
+  "checked_at": 1795663919.907254,
+  "sha256": "d7bd60c2db2951f55a5b3c4457447274ba4d22f64f96ca971a71dff722ebaad9",
+  "title": "JCB Golf and Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "74e5aec0-e850-11ec-b7b4-06780482e2ce",
+    "name": "JCB Golf and Country Club",
+    "address": "Hollington Rd, Rocester, Uttoxeter",
+    "courses": [
+      {
+        "name": "JCB Golf and Country Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 7254,
+            "par": 72,
+            "rating": 78,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 7254,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 7254,
+            "par": 72,
+            "rating": 78,
+            "slope": 134
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 7254,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/74e5aec0-e850-11ec-b7b4-06780482e2ce/jcb-golf-and-country-club"
+  }
+}

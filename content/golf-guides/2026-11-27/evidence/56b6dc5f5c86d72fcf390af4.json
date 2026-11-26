@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b5f04b0-86ac-11e4-8c28-020000005b00/the-pine-needles-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b5f04b0-86ac-11e4-8c28-020000005b00/the-pine-needles-golf-course",
+  "checked_at": 1795583828.9152899,
+  "sha256": "59fc713a7bd92122412178f68bf402621ccaa2a21428151506b029f5b1913800",
+  "title": "The Pine Needles Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9b5f04b0-86ac-11e4-8c28-020000005b00",
+    "name": "The Pine Needles Golf Course",
+    "address": "1005 Midland Road, Southern Pines, NC",
+    "courses": [
+      {
+        "name": "Pine Needles",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Medal",
+            "category": "MALE",
+            "yards": 7025,
+            "par": 71,
+            "rating": 74.7,
+            "slope": 141
+          },
+          {
+            "name": "Medal",
+            "category": "FEMALE",
+            "yards": 7025,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ross",
+            "category": "MALE",
+            "yards": 6450,
+            "par": 71,
+            "rating": 71.9,
+            "slope": 138
+          },
+          {
+            "name": "Ross",
+            "category": "FEMALE",
+            "yards": 6450,
+            "par": 71,
+            "rating": 77.6,
+            "slope": 144
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6050,
+            "par": 71,
+            "rating": 70,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6050,
+            "par": 71,
+            "rating": 75.5,
+            "slope": 139
+          },
+          {
+            "name": "Executive",
+            "category": "MALE",
+            "yards": 5495,
+            "par": 71,
+            "rating": 66.4,
+            "slope": 124
+          },
+          {
+            "name": "Executive",
+            "category": "FEMALE",
+            "yards": 5495,
+            "par": 71,
+            "rating": 71.3,
+            "slope": 129
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4940,
+            "par": 71,
+            "rating": 64.4,
+            "slope": 117
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 4940,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b5f04b0-86ac-11e4-8c28-020000005b00/the-pine-needles-golf-course"
+  }
+}

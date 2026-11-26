@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afb77410-86ac-11e4-8c28-020000005b00/hat-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afb77410-86ac-11e4-8c28-020000005b00/hat-creek-golf-course",
+  "checked_at": 1795668307.244547,
+  "sha256": "ae3c5d895cb6b803aa32fe50aab9abfd5103db41bc31c20032113c58ed431ddc",
+  "title": "Hat Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "afb77410-86ac-11e4-8c28-020000005b00",
+    "name": "Hat Creek Golf Course",
+    "address": "437 Golf Course Rd, Brookneal, VA",
+    "courses": [
+      {
+        "name": "Hat Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "BLUE/BLUE\t",
+            "category": "MALE",
+            "yards": 6262,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 136
+          },
+          {
+            "name": "WHITE/WHITE",
+            "category": "MALE",
+            "yards": 5758,
+            "par": 72,
+            "rating": 66,
+            "slope": 129
+          },
+          {
+            "name": "SILVER/SILVER\t",
+            "category": "MALE",
+            "yards": 4888,
+            "par": 72,
+            "rating": 62.4,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afb77410-86ac-11e4-8c28-020000005b00/hat-creek-golf-course"
+  }
+}

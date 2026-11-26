@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b7f1c6d0-86ac-11e4-8c28-020000005b00/marion-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b7f1c6d0-86ac-11e4-8c28-020000005b00/marion-country-club",
+  "checked_at": 1795583834.0698893,
+  "sha256": "c977de5826d985b21f4972a07a9885bcbba7a5e50e9f4a984719272c1a34f0ee",
+  "title": "Marion Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b7f1c6d0-86ac-11e4-8c28-020000005b00",
+    "name": "Marion Country Club",
+    "address": "2101 East 190th Highway",
+    "courses": [
+      {
+        "name": "Marion",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3092,
+            "par": 36,
+            "rating": 35.4,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2950,
+            "par": 36,
+            "rating": 34.2,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2583,
+            "par": 36,
+            "rating": 34.2,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b7f1c6d0-86ac-11e4-8c28-020000005b00/marion-country-club"
+  }
+}

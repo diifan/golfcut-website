@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/94e32ad0-86ac-11e4-8c28-020000005b00/fantasy-valley-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/94e32ad0-86ac-11e4-8c28-020000005b00/fantasy-valley-golf-course",
+  "checked_at": 1795664739.2387462,
+  "sha256": "ae52d5f3219b47a205b4b37be4b9e2f177019324632a24585b5f851bebd6c189",
+  "title": "Fantasy Valley Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "94e32ad0-86ac-11e4-8c28-020000005b00",
+    "name": "Fantasy Valley Golf Course",
+    "address": "296 Marsh Hill Road, McHenry, MD",
+    "courses": [
+      {
+        "name": "Fantasy Valley Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6719,
+            "par": 71,
+            "rating": 73.3,
+            "slope": 142
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6719,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6303,
+            "par": 71,
+            "rating": 71.7,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6303,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5485,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5485,
+            "par": 71,
+            "rating": 73.4,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4557,
+            "par": 71,
+            "rating": 63.5,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4557,
+            "par": 71,
+            "rating": 66.4,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/94e32ad0-86ac-11e4-8c28-020000005b00/fantasy-valley-golf-course"
+  }
+}

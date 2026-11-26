@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2fefdf0-86ac-11e4-8c28-020000005b00/leland-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2fefdf0-86ac-11e4-8c28-020000005b00/leland-country-club",
+  "checked_at": 1795666503.6502552,
+  "sha256": "719e2abb32563c29a75661fddf01b1a85e601ad6e2e4cc8288dc81faefe06405",
+  "title": "Leland Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b2fefdf0-86ac-11e4-8c28-020000005b00",
+    "name": "Leland Country Club",
+    "address": "184 North Fifth Street",
+    "courses": [
+      {
+        "name": "Leland",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 5863,
+            "par": 71,
+            "rating": 69,
+            "slope": 123
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5712,
+            "par": 71,
+            "rating": 66.8,
+            "slope": 117
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5347,
+            "par": 71,
+            "rating": 61.2,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2fefdf0-86ac-11e4-8c28-020000005b00/leland-country-club"
+  }
+}

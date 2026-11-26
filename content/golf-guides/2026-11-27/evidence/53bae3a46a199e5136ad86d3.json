@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95964e30-86ac-11e4-8c28-020000005b00/thomson-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95964e30-86ac-11e4-8c28-020000005b00/thomson-country-club",
+  "checked_at": 1795663891.0025752,
+  "sha256": "824cd9151df49a98c4306bbd1deb9b6caee4d537a2db88786950ad7d5f821905",
+  "title": "Thomson Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95964e30-86ac-11e4-8c28-020000005b00",
+    "name": "Thomson Country Club",
+    "address": "2 Midiron Dr",
+    "courses": [
+      {
+        "name": "Thomson",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6524,
+            "par": 72,
+            "rating": 72,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6146,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5544,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95964e30-86ac-11e4-8c28-020000005b00/thomson-country-club"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad2ecd60-86ac-11e4-8c28-020000005b00/brabenders-south-woods",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad2ecd60-86ac-11e4-8c28-020000005b00/brabenders-south-woods",
+  "checked_at": 1795583799.4036906,
+  "sha256": "875dadde2f7b88cb5b768c6f039952671c1e86f2c21ae8a9317ae48e70a5090a",
+  "title": "Brabenders South Woods - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ad2ecd60-86ac-11e4-8c28-020000005b00",
+    "name": "Brabenders South Woods",
+    "address": "4051 GREENLEE ROAD",
+    "courses": [
+      {
+        "name": "Brabenders South Woods",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2658,
+            "par": 34,
+            "rating": 34.6,
+            "slope": 112
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2478,
+            "par": 34,
+            "rating": 33.7,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2234,
+            "par": 34,
+            "rating": 32.6,
+            "slope": 104
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad2ecd60-86ac-11e4-8c28-020000005b00/brabenders-south-woods"
+  }
+}

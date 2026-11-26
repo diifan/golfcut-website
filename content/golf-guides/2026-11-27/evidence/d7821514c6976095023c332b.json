@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4355b10-86ac-11e4-8c28-020000005b00/mallard-pointe-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4355b10-86ac-11e4-8c28-020000005b00/mallard-pointe-golf-course",
+  "checked_at": 1795666543.7403781,
+  "sha256": "5f8d63c8653a1e5f9518a7bf131d727050af95d2c4cdaa7a96c249775f2ee56b",
+  "title": "Mallard Pointe Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b4355b10-86ac-11e4-8c28-020000005b00",
+    "name": "Mallard Pointe Golf Course",
+    "address": "3037 State Park Rd, Sardis, MS",
+    "courses": [
+      {
+        "name": "Magnolia Trace (Mallard Pointe)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7004,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6498,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5959,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5300,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4355b10-86ac-11e4-8c28-020000005b00/mallard-pointe-golf-course"
+  }
+}

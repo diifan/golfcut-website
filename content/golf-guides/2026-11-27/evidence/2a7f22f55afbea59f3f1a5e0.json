@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1cfa5b0-86ac-11e4-8c28-020000005b00/oakdale-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1cfa5b0-86ac-11e4-8c28-020000005b00/oakdale-country-club",
+  "checked_at": 1795669222.2089214,
+  "sha256": "bf0654904cd07a874cd8bcdfeb23e17ac55cdb02dfd8d0bcd91c7108af1e695c",
+  "title": "Oakdale Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1cfa5b0-86ac-11e4-8c28-020000005b00",
+    "name": "Oakdale Country Club",
+    "address": "13 Country Club Rd",
+    "courses": [
+      {
+        "name": "Oakdale",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 5989,
+            "par": 73,
+            "rating": 69.2,
+            "slope": 124
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 5989,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red/Gold",
+            "category": "MALE",
+            "yards": 5162,
+            "par": 73,
+            "rating": 64.8,
+            "slope": 110
+          },
+          {
+            "name": "Red/Gold",
+            "category": "FEMALE",
+            "yards": 5162,
+            "par": 73,
+            "rating": 69.5,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1cfa5b0-86ac-11e4-8c28-020000005b00/oakdale-country-club"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b59ed620-86ac-11e4-8c28-020000005b00/nakoma",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b59ed620-86ac-11e4-8c28-020000005b00/nakoma",
+  "checked_at": 1795663880.0757544,
+  "sha256": "5fd27fcf82b0ed102ba37a3011750d9bd7b3ca966fec8bed6d6a5c1fe8a0ec2d",
+  "title": "Nakoma - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b59ed620-86ac-11e4-8c28-020000005b00",
+    "name": "Nakoma",
+    "address": "4145 Country Club Rd, Madison, WI",
+    "courses": [
+      {
+        "name": "Nakoma",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6501,
+            "par": 70,
+            "rating": 71.9,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6501,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Players",
+            "category": "MALE",
+            "yards": 6369,
+            "par": 70,
+            "rating": 71.1,
+            "slope": 128
+          },
+          {
+            "name": "Players",
+            "category": "FEMALE",
+            "yards": 6369,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6104,
+            "par": 70,
+            "rating": 70,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6104,
+            "par": 70,
+            "rating": 75.6,
+            "slope": 134
+          },
+          {
+            "name": "Challenge",
+            "category": "MALE",
+            "yards": 5446,
+            "par": 70,
+            "rating": 67.2,
+            "slope": 120
+          },
+          {
+            "name": "Challenge",
+            "category": "FEMALE",
+            "yards": 5446,
+            "par": 70,
+            "rating": 72.1,
+            "slope": 125
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5317,
+            "par": 70,
+            "rating": 66.7,
+            "slope": 119
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5317,
+            "par": 70,
+            "rating": 71.5,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b59ed620-86ac-11e4-8c28-020000005b00/nakoma"
+  }
+}

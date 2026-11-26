@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b91bc7e0-86ac-11e4-8c28-020000005b00/hail-ridge-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b91bc7e0-86ac-11e4-8c28-020000005b00/hail-ridge-golf-course",
+  "checked_at": 1795669234.124182,
+  "sha256": "8eefa88bf070ab26aec54ccaa30c2e825fed588ee0d5ab46dcfe75a4691ec0ac",
+  "title": "Hail Ridge Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b91bc7e0-86ac-11e4-8c28-020000005b00",
+    "name": "Hail Ridge Golf Course",
+    "address": "17511 Highway 87, Boonville, MO",
+    "courses": [
+      {
+        "name": "Hail Ridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6416,
+            "par": 71,
+            "rating": 71.9,
+            "slope": 135
+          },
+          {
+            "name": "Middies",
+            "category": "MALE",
+            "yards": 5917,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b91bc7e0-86ac-11e4-8c28-020000005b00/hail-ridge-golf-course"
+  }
+}

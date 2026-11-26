@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b7d9aaf0-86ac-11e4-8c28-020000005b00/smoky-hill-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b7d9aaf0-86ac-11e4-8c28-020000005b00/smoky-hill-country-club",
+  "checked_at": 1795666498.6741118,
+  "sha256": "ebde2b5f683cee2f3eb96384ffc2c427604c52fde7097715709c414a51836a7d",
+  "title": "Smoky Hill Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b7d9aaf0-86ac-11e4-8c28-020000005b00",
+    "name": "Smoky Hill Country Club",
+    "address": "3303 N Hall St., Hays, KS",
+    "courses": [
+      {
+        "name": "Smoky Hill",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6291,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5839,
+            "par": 71,
+            "rating": 67.9,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5416,
+            "par": 71,
+            "rating": 64.7,
+            "slope": 109
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5211,
+            "par": 71,
+            "rating": 68.7,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b7d9aaf0-86ac-11e4-8c28-020000005b00/smoky-hill-country-club"
+  }
+}

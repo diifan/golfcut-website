@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8f19d810-86ac-11e4-8c28-020000005b00/boca-delray-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8f19d810-86ac-11e4-8c28-020000005b00/boca-delray-golf-country-club",
+  "checked_at": 1795668344.3954058,
+  "sha256": "939114fc8671d3c0cd6fbe4a9d3b17108c9848f24db05cb3e3db335af0b18d6c",
+  "title": "Boca Delray Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8f19d810-86ac-11e4-8c28-020000005b00",
+    "name": "Boca Delray Golf & Country Club",
+    "address": "5483 Boca Delray Blvd, Delray Beach, FL 33484",
+    "courses": [
+      {
+        "name": "Boca Delray",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3071,
+            "par": 60,
+            "rating": 56.5,
+            "slope": 96
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3071,
+            "par": 60,
+            "rating": 58.4,
+            "slope": 105
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2782,
+            "par": 60,
+            "rating": 55.10048,
+            "slope": 82.44098
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2782,
+            "par": 60,
+            "rating": 55.10048,
+            "slope": 82.44098
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8f19d810-86ac-11e4-8c28-020000005b00/boca-delray-golf-country-club"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d7ab8c0-86ac-11e4-8c28-020000005b00/kane-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d7ab8c0-86ac-11e4-8c28-020000005b00/kane-country-club",
+  "checked_at": 1795583785.4877257,
+  "sha256": "aede8655ba1c8afdd122e975e8f60b2eb6502f3c7bde593fffc80be2eb5495b6",
+  "title": "Kane Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d7ab8c0-86ac-11e4-8c28-020000005b00",
+    "name": "Kane Country Club",
+    "address": "6654 Route 6, Kane, PA",
+    "courses": [
+      {
+        "name": "Kane",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6005,
+            "par": 70,
+            "rating": 69.2,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4927,
+            "par": 70,
+            "rating": 64.9,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4852,
+            "par": 70,
+            "rating": 64,
+            "slope": 104
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d7ab8c0-86ac-11e4-8c28-020000005b00/kane-country-club"
+  }
+}

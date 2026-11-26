@@ -1,0 +1,59 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9061d00-86ac-11e4-8c28-020000005b00/kealohi",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9061d00-86ac-11e4-8c28-020000005b00/kealohi",
+  "checked_at": 1795663441.0679276,
+  "sha256": "7f136acf6a19fd2c579668293d5eb42992f755434121b7b82b72af65f2a90f95",
+  "title": "Ke'alohi  - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b9061d00-86ac-11e4-8c28-020000005b00",
+    "name": "Ke'alohi ",
+    "address": "Bldg 2105 McClelland Rd, JB Pearl Harbor Hickam, HI",
+    "courses": [
+      {
+        "name": "9 Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1435,
+            "par": 27,
+            "rating": 26.2,
+            "slope": 80
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1435,
+            "par": 29,
+            "rating": 27.5,
+            "slope": 83
+          }
+        ]
+      },
+      {
+        "name": "18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2870,
+            "par": 54,
+            "rating": 52.4,
+            "slope": 80
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2870,
+            "par": 58,
+            "rating": 55,
+            "slope": 83
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9061d00-86ac-11e4-8c28-020000005b00/kealohi"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/88d70f90-86ac-11e4-8c28-020000005b00/zaca-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/88d70f90-86ac-11e4-8c28-020000005b00/zaca-creek-golf-course",
+  "checked_at": 1795664726.3678973,
+  "sha256": "0c770912b0412705156654cc2b9ab7cc6d05cb68d54ed0b3b792b9bee877a528",
+  "title": "Zaca Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "88d70f90-86ac-11e4-8c28-020000005b00",
+    "name": "Zaca Creek Golf Course",
+    "address": "223 Shadow Mountain Dr, Buellton, CA",
+    "courses": [
+      {
+        "name": "Zaca Creek",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1512,
+            "par": 28,
+            "rating": 27.3,
+            "slope": 81
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1512,
+            "par": 28,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1277,
+            "par": 28,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1277,
+            "par": 28,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/88d70f90-86ac-11e4-8c28-020000005b00/zaca-creek-golf-course"
+  }
+}

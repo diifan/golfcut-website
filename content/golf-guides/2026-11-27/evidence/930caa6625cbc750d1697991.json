@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7107c8f0-86ac-11e4-8c28-020000005b00/western-gailes-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7107c8f0-86ac-11e4-8c28-020000005b00/western-gailes-golf-club",
+  "checked_at": 1795666502.4185925,
+  "sha256": "0aca713ea6aa615c7f5e132882d1b671969a03d2b44fe274fa34796c474c39d7",
+  "title": "Western Gailes Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "7107c8f0-86ac-11e4-8c28-020000005b00",
+    "name": "Western Gailes Golf Club",
+    "address": "Gailes, Irvine, Ayrshire",
+    "courses": [
+      {
+        "name": "Western Gailes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Champ",
+            "category": "MALE",
+            "yards": 7014,
+            "par": 71,
+            "rating": 75,
+            "slope": 140
+          },
+          {
+            "name": "Champ",
+            "category": "FEMALE",
+            "yards": 7014,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Medal",
+            "category": "MALE",
+            "yards": 6640,
+            "par": 71,
+            "rating": 74,
+            "slope": 137
+          },
+          {
+            "name": "Medal",
+            "category": "FEMALE",
+            "yards": 6640,
+            "par": 71,
+            "rating": 77.2,
+            "slope": 137
+          },
+          {
+            "name": "Standard",
+            "category": "MALE",
+            "yards": 6106,
+            "par": 71,
+            "rating": 71,
+            "slope": 132
+          },
+          {
+            "name": "Standard",
+            "category": "FEMALE",
+            "yards": 6106,
+            "par": 71,
+            "rating": 74.4,
+            "slope": 131
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5441,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 119
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5441,
+            "par": 71,
+            "rating": 68,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7107c8f0-86ac-11e4-8c28-020000005b00/western-gailes-golf-club"
+  }
+}

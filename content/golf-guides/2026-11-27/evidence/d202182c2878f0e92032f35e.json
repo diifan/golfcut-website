@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/88e1e500-86ac-11e4-8c28-020000005b00/rancho-carlsbad-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/88e1e500-86ac-11e4-8c28-020000005b00/rancho-carlsbad-golf-club",
+  "checked_at": 1795666490.99928,
+  "sha256": "f80341b051692ed2fc2c34d1058abea14ee35bd9b3ce758c8b2ea0ad96443e07",
+  "title": "Rancho Carlsbad Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "88e1e500-86ac-11e4-8c28-020000005b00",
+    "name": "Rancho Carlsbad Golf Club",
+    "address": "5200 El Camino Real, Carlsbad, CA",
+    "courses": [
+      {
+        "name": "Rancho Carlsbad",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1983,
+            "par": 54,
+            "rating": 51.79262,
+            "slope": 78.53387
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1983,
+            "par": 54,
+            "rating": 51.79262,
+            "slope": 78.53387
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1776,
+            "par": 54,
+            "rating": 50.93564,
+            "slope": 77.52164
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1776,
+            "par": 54,
+            "rating": 50.93564,
+            "slope": 77.52164
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/88e1e500-86ac-11e4-8c28-020000005b00/rancho-carlsbad-golf-club"
+  }
+}

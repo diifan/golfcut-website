@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8dea09e0-3209-11e8-85dc-0680a328ea36/savanna-club-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8dea09e0-3209-11e8-85dc-0680a328ea36/savanna-club-golf-course",
+  "checked_at": 1795668319.9515738,
+  "sha256": "78a90bf957afc0565b9db061a8a401ebdb5ea67732de6f8e40424a7d6b933fd8",
+  "title": "Savanna Club Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8dea09e0-3209-11e8-85dc-0680a328ea36",
+    "name": "Savanna Club Golf Course",
+    "address": "3490 Crabapple Dr, Port Saint Lucie, Florida ",
+    "courses": [
+      {
+        "name": "default course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3756,
+            "par": 62,
+            "rating": 59.8,
+            "slope": 99
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3756,
+            "par": 62,
+            "rating": 61.6,
+            "slope": 104
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3386,
+            "par": 62,
+            "rating": 55.9,
+            "slope": 90
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3386,
+            "par": 62,
+            "rating": 59.8,
+            "slope": 100
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2895,
+            "par": 62,
+            "rating": 55.9,
+            "slope": 90
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2895,
+            "par": 62,
+            "rating": 57.6,
+            "slope": 95
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8dea09e0-3209-11e8-85dc-0680a328ea36/savanna-club-golf-course"
+  }
+}

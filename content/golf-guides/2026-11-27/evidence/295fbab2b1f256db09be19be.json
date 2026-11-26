@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b13ed760-86ac-11e4-8c28-020000005b00/homer-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b13ed760-86ac-11e4-8c28-020000005b00/homer-golf-course",
+  "checked_at": 1795661422.4216235,
+  "sha256": "2c0988672b362ded81a0aaecedca1c5e7385565fc52bcb78479f9e819e8581eb",
+  "title": "Homer golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b13ed760-86ac-11e4-8c28-020000005b00",
+    "name": "Homer golf Course",
+    "address": "101 Country Club Circle, Homer, LA",
+    "courses": [
+      {
+        "name": "Homer ( 9 holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White to Blue",
+            "category": "MALE",
+            "yards": 3167,
+            "par": 36,
+            "rating": 36.9,
+            "slope": 121
+          },
+          {
+            "name": "White to Blue",
+            "category": "FEMALE",
+            "yards": 3167,
+            "par": 36,
+            "rating": 37.8,
+            "slope": 128
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 2750,
+            "par": 36,
+            "rating": 35,
+            "slope": 113
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 2750,
+            "par": 36,
+            "rating": 35.6,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2480,
+            "par": 36,
+            "rating": 33.8,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2480,
+            "par": 36,
+            "rating": 34.1,
+            "slope": 115
+          }
+        ]
+      },
+      {
+        "name": "Homer ( 18 holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White to Blue",
+            "category": "MALE",
+            "yards": 6336,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 121
+          },
+          {
+            "name": "White to Blue",
+            "category": "FEMALE",
+            "yards": 6336,
+            "par": 72,
+            "rating": 75.6,
+            "slope": 128
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5500,
+            "par": 72,
+            "rating": 70,
+            "slope": 113
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5500,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4960,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4960,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b13ed760-86ac-11e4-8c28-020000005b00/homer-golf-course"
+  }
+}

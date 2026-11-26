@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b66b74f0-86ac-11e4-8c28-020000005b00/boiling-springs-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b66b74f0-86ac-11e4-8c28-020000005b00/boiling-springs-golf-course",
+  "checked_at": 1795661428.10724,
+  "sha256": "5dd24a60aa19eadf5dbdc9df749f4dd21740aa653943d3cc3cfed10d64e7ae89",
+  "title": "Boiling Springs Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b66b74f0-86ac-11e4-8c28-020000005b00",
+    "name": "Boiling Springs Golf Course",
+    "address": "5283 State Highway 34C, woodward, OK",
+    "courses": [
+      {
+        "name": "Boiling Springs",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6562,
+            "par": 71,
+            "rating": 71.5,
+            "slope": 133
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6562,
+            "par": 71,
+            "rating": 76.8,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6049,
+            "par": 71,
+            "rating": 68.5,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6049,
+            "par": 71,
+            "rating": 74.1,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5107,
+            "par": 71,
+            "rating": 65.5,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5107,
+            "par": 71,
+            "rating": 69.3,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b66b74f0-86ac-11e4-8c28-020000005b00/boiling-springs-golf-course"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba3ec410-86ac-11e4-8c28-020000005b00/three-crowns-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba3ec410-86ac-11e4-8c28-020000005b00/three-crowns-golf-club",
+  "checked_at": 1795661635.3556693,
+  "sha256": "a2876005c9aa38eacb1de8021c741930804729676c958dce58fbb48309363c58",
+  "title": "Three Crowns Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ba3ec410-86ac-11e4-8c28-020000005b00",
+    "name": "Three Crowns Golf Club",
+    "address": "1601 King Boulevard, Casper, WY",
+    "courses": [
+      {
+        "name": "Three Crowns Golf Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6950,
+            "par": 71,
+            "rating": 72.5,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6430,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5801,
+            "par": 71,
+            "rating": 67.5,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4988,
+            "par": 71,
+            "rating": 67.6,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba3ec410-86ac-11e4-8c28-020000005b00/three-crowns-golf-club"
+  }
+}

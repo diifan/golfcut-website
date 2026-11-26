@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/adcdf390-86ac-11e4-8c28-020000005b00/downing-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/adcdf390-86ac-11e4-8c28-020000005b00/downing-golf-course",
+  "checked_at": 1795666535.9823294,
+  "sha256": "27195b6fdf30ffbab0e221fdbbb18a0715a701bd8db5e034ba038cdf613ad17c",
+  "title": "Downing Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "adcdf390-86ac-11e4-8c28-020000005b00",
+    "name": "Downing Golf Course",
+    "address": "Troupe Road, Harborcreek, PA",
+    "courses": [
+      {
+        "name": "Downing",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7092,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7092,
+            "par": 72,
+            "rating": 80.6,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6653,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6653,
+            "par": 72,
+            "rating": 77.2,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5775,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5775,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/adcdf390-86ac-11e4-8c28-020000005b00/downing-golf-course"
+  }
+}

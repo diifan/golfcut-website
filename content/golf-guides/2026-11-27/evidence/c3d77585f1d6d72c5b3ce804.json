@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92417de0-86ac-11e4-8c28-020000005b00/holyoke-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92417de0-86ac-11e4-8c28-020000005b00/holyoke-golf-club",
+  "checked_at": 1795668294.4917307,
+  "sha256": "fa13802a32f2e2ae1109568b84d8b3a496bee1da8108bd44a11dd7452fe6f711",
+  "title": "Holyoke Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92417de0-86ac-11e4-8c28-020000005b00",
+    "name": "Holyoke Golf Club",
+    "address": "415 E Carnahan St, Holyoke, CO",
+    "courses": [
+      {
+        "name": "Holyoke",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 6392,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 123
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 6392,
+            "par": 74,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5592,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5592,
+            "par": 74,
+            "rating": 73.3,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92417de0-86ac-11e4-8c28-020000005b00/holyoke-golf-club"
+  }
+}

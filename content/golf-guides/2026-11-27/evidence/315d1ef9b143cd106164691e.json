@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2e0a080-86ac-11e4-8c28-020000005b00/the-miners-9",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2e0a080-86ac-11e4-8c28-020000005b00/the-miners-9",
+  "checked_at": 1795661663.593965,
+  "sha256": "e32da0925aa00953d9ef321a2adceeb5d4dadb68287257d215c86be088db1dc0",
+  "title": "The Miners' 9 - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b2e0a080-86ac-11e4-8c28-020000005b00",
+    "name": "The Miners' 9",
+    "address": "110 Hiawatha",
+    "courses": [
+      {
+        "name": "Miners' 9",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6396,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6396,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5962,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5962,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2e0a080-86ac-11e4-8c28-020000005b00/the-miners-9"
+  }
+}

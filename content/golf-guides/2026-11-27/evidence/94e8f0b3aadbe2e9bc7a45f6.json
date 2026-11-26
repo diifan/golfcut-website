@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b96ef0f0-86ac-11e4-8c28-020000005b00/mt-vernon-municipal",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b96ef0f0-86ac-11e4-8c28-020000005b00/mt-vernon-municipal",
+  "checked_at": 1795668350.1748176,
+  "sha256": "bdf6f6bc7f091127627fbb082170ac5f2fe1c1769d3368be97ba2b59f140af93",
+  "title": "Mt. Vernon Municipal - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b96ef0f0-86ac-11e4-8c28-020000005b00",
+    "name": "Mt. Vernon Municipal",
+    "address": "Hwy 174, Mount Vernon, MO",
+    "courses": [
+      {
+        "name": "Mt. Vernon Municipal",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Combination",
+            "category": "MALE",
+            "yards": 5836,
+            "par": 70,
+            "rating": 66.7,
+            "slope": 107
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5636,
+            "par": 70,
+            "rating": 70.6,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4580,
+            "par": 70,
+            "rating": 65.8,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b96ef0f0-86ac-11e4-8c28-020000005b00/mt-vernon-municipal"
+  }
+}

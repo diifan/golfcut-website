@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95702890-86ac-11e4-8c28-020000005b00/indian-pond-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95702890-86ac-11e4-8c28-020000005b00/indian-pond-country-club",
+  "checked_at": 1795661410.193611,
+  "sha256": "8bbba3dbaf354924ab11aa875fad02fd926c1eaaacfab93f722925118fd3bf2b",
+  "title": "Indian Pond Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95702890-86ac-11e4-8c28-020000005b00",
+    "name": "Indian Pond Country Club",
+    "address": "60 Country Club Way",
+    "courses": [
+      {
+        "name": "Indian Pond",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6604,
+            "par": 72,
+            "rating": 73,
+            "slope": 136
+          },
+          {
+            "name": "Member",
+            "category": "MALE",
+            "yards": 6321,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 133
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6012,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 131
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5425,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 128
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4641,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95702890-86ac-11e4-8c28-020000005b00/indian-pond-country-club"
+  }
+}

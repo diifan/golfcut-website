@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8acbdab0-86ac-11e4-8c28-020000005b00/sunnyvale-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8acbdab0-86ac-11e4-8c28-020000005b00/sunnyvale-golf-course",
+  "checked_at": 1795661431.296985,
+  "sha256": "4aa9939ae489b5a38b179ea94920c46133ce42ce211e20f388361dbda9ddf4b4",
+  "title": "Sunnyvale Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8acbdab0-86ac-11e4-8c28-020000005b00",
+    "name": "Sunnyvale Golf Course",
+    "address": "605 Macara Ave, Sunnyvale",
+    "courses": [
+      {
+        "name": "Sunnyvale",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6255,
+            "par": 70,
+            "rating": 69.6,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6255,
+            "par": 70,
+            "rating": 75.4,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5742,
+            "par": 70,
+            "rating": 67.5,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5742,
+            "par": 70,
+            "rating": 72.7,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5173,
+            "par": 70,
+            "rating": 65,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5173,
+            "par": 70,
+            "rating": 69.7,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8acbdab0-86ac-11e4-8c28-020000005b00/sunnyvale-golf-course"
+  }
+}

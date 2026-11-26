@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b863bc0-86ac-11e4-8c28-020000005b00/shawnee-hills-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b863bc0-86ac-11e4-8c28-020000005b00/shawnee-hills-golf-course",
+  "checked_at": 1795663425.5085182,
+  "sha256": "747e142ebdff3df9f93816a11975ce3a15cd95c04279a2e5efc53f0e52371eeb",
+  "title": "Shawnee Hills Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9b863bc0-86ac-11e4-8c28-020000005b00",
+    "name": "Shawnee Hills Golf Course",
+    "address": "18753 Egbert Rd, Bedford, OH",
+    "courses": [
+      {
+        "name": "Championship Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6366,
+            "par": 71,
+            "rating": 70.7,
+            "slope": 120
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6366,
+            "par": 71,
+            "rating": 75.8,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6175,
+            "par": 71,
+            "rating": 70.1,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6175,
+            "par": 71,
+            "rating": 74.7,
+            "slope": 132
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5516,
+            "par": 71,
+            "rating": 67.1,
+            "slope": 115
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5516,
+            "par": 71,
+            "rating": 67.5,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5240,
+            "par": 71,
+            "rating": 65.2,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5240,
+            "par": 71,
+            "rating": 64.4,
+            "slope": 103
+          }
+        ]
+      },
+      {
+        "name": "Par 3 Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 1293,
+            "par": 27,
+            "rating": 27.69522,
+            "slope": 83.73376
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 1293,
+            "par": 27,
+            "rating": 27.69522,
+            "slope": 83.73376
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1293,
+            "par": 27,
+            "rating": 27.69522,
+            "slope": 83.73376
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1293,
+            "par": 27,
+            "rating": 27.69522,
+            "slope": 83.73376
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b863bc0-86ac-11e4-8c28-020000005b00/shawnee-hills-golf-course"
+  }
+}

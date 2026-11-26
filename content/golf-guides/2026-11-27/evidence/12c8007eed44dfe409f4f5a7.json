@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e4ebfe0-86ac-11e4-8c28-020000005b00/dorado-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e4ebfe0-86ac-11e4-8c28-020000005b00/dorado-country-club",
+  "checked_at": 1795583808.7457318,
+  "sha256": "97a8be8857bcce48a73628653ac58e5f2c85247da2d5f82b9844d59d83ba9007",
+  "title": "Dorado Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8e4ebfe0-86ac-11e4-8c28-020000005b00",
+    "name": "Dorado Country Club",
+    "address": "6601 E Speedway Blvd, Tucson, AZ",
+    "courses": [
+      {
+        "name": "Dorado",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3751,
+            "par": 62,
+            "rating": 58.9,
+            "slope": 92
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3751,
+            "par": 62,
+            "rating": 60.4,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3187,
+            "par": 62,
+            "rating": 59.4,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3187,
+            "par": 62,
+            "rating": 57.5,
+            "slope": 92
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e4ebfe0-86ac-11e4-8c28-020000005b00/dorado-country-club"
+  }
+}

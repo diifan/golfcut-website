@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/990472e0-86ac-11e4-8c28-020000005b00/holland-meadows-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/990472e0-86ac-11e4-8c28-020000005b00/holland-meadows-golf-course",
+  "checked_at": 1795583796.9090269,
+  "sha256": "b3c1627e149d4c52551da3ac1b02b6b7504ad1021cad67c8c197c999a2862d68",
+  "title": "Holland Meadows Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "990472e0-86ac-11e4-8c28-020000005b00",
+    "name": "Holland Meadows Golf Course",
+    "address": "1503 NY-29, Gloversville, NY 12078, USA",
+    "courses": [
+      {
+        "name": "Holland Meadows Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3333,
+            "par": 59,
+            "rating": 60.1,
+            "slope": 102
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3333,
+            "par": 63,
+            "rating": 59.6,
+            "slope": 98
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/990472e0-86ac-11e4-8c28-020000005b00/holland-meadows-golf-course"
+  }
+}

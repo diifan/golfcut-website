@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae2450f0-86ac-11e4-8c28-020000005b00/greer-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae2450f0-86ac-11e4-8c28-020000005b00/greer-golf-country-club",
+  "checked_at": 1795664690.8257425,
+  "sha256": "c29c313fb8ccadd812b9be0845e9e3dab05f45e08246ba97c3eb201934a43525",
+  "title": "Greer Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae2450f0-86ac-11e4-8c28-020000005b00",
+    "name": "Greer Golf & Country Club",
+    "address": "2299 E Gap Creek Rd",
+    "courses": [
+      {
+        "name": "Greer",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6225,
+            "par": 72,
+            "rating": 71,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6225,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5718,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5718,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 135
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5082,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5082,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4574,
+            "par": 72,
+            "rating": 63.4,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4574,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae2450f0-86ac-11e4-8c28-020000005b00/greer-golf-country-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d1910c0-86ac-11e4-8c28-020000005b00/the-carroll-valley-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d1910c0-86ac-11e4-8c28-020000005b00/the-carroll-valley-golf-course",
+  "checked_at": 1795661642.2972462,
+  "sha256": "127f17aa6e123ead29cac66766b3352694140ddbf0063c2bce736aa8e7909718",
+  "title": "The Carroll Valley Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d1910c0-86ac-11e4-8c28-020000005b00",
+    "name": "The Carroll Valley Golf Course",
+    "address": "78 Country Club Trail, Fairfield, PA",
+    "courses": [
+      {
+        "name": "Carroll Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6688,
+            "par": 71,
+            "rating": 72.3,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6335,
+            "par": 71,
+            "rating": 70.7,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5549,
+            "par": 71,
+            "rating": 66.7,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4892,
+            "par": 71,
+            "rating": 67.2,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d1910c0-86ac-11e4-8c28-020000005b00/the-carroll-valley-golf-course"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ddbd9d0-86ac-11e4-8c28-020000005b00/tierra-grande",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ddbd9d0-86ac-11e4-8c28-020000005b00/tierra-grande",
+  "checked_at": 1795666537.989738,
+  "sha256": "a1f641365f20abbfd44335c857a42e75bc56f7e7a39d55aee898bc1ff5f6872a",
+  "title": "Tierra Grande - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8ddbd9d0-86ac-11e4-8c28-020000005b00",
+    "name": "Tierra Grande",
+    "address": "813 W Calle Rosa",
+    "courses": [
+      {
+        "name": "Tierra Grande",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4433,
+            "par": 67,
+            "rating": 60.9,
+            "slope": 92
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4433,
+            "par": 67,
+            "rating": 64.4,
+            "slope": 100
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4068,
+            "par": 67,
+            "rating": 59.5,
+            "slope": 86
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4068,
+            "par": 67,
+            "rating": 62.3,
+            "slope": 95
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ddbd9d0-86ac-11e4-8c28-020000005b00/tierra-grande"
+  }
+}

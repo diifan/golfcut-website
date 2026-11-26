@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6be28d0-86ac-11e4-8c28-020000005b00/juniper-hills-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6be28d0-86ac-11e4-8c28-020000005b00/juniper-hills-country-club",
+  "checked_at": 1795666494.4105804,
+  "sha256": "6128a6c65df9ba139dc1c1bf1399b0a89c33c8460b202488a56b31d52af9c385",
+  "title": "Juniper Hills Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6be28d0-86ac-11e4-8c28-020000005b00",
+    "name": "Juniper Hills Country Club",
+    "address": "6600 S Bannock Hwy, Pocatello, ID",
+    "courses": [
+      {
+        "name": "Juniper Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6268,
+            "par": 71,
+            "rating": 70,
+            "slope": 128
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6268,
+            "par": 73,
+            "rating": 76,
+            "slope": 141
+          },
+          {
+            "name": "Back / Middle",
+            "category": "MALE",
+            "yards": 5850,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 122
+          },
+          {
+            "name": "Back / Middle",
+            "category": "FEMALE",
+            "yards": 5850,
+            "par": 73,
+            "rating": 74.8,
+            "slope": 137
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5730,
+            "par": 71,
+            "rating": 67.2,
+            "slope": 117
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5730,
+            "par": 73,
+            "rating": 72.7,
+            "slope": 135
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5102,
+            "par": 71,
+            "rating": 64.4,
+            "slope": 111
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5102,
+            "par": 73,
+            "rating": 69.4,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6be28d0-86ac-11e4-8c28-020000005b00/juniper-hills-country-club"
+  }
+}

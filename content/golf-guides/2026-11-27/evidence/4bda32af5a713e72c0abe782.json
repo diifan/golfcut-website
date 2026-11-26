@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d303080-86ac-11e4-8c28-020000005b00/maplecrest",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d303080-86ac-11e4-8c28-020000005b00/maplecrest",
+  "checked_at": 1795664685.0270019,
+  "sha256": "eaa59bd4ae105a4c9942a50879b0edbd5836a0a8ec190399d1ff978b164929e1",
+  "title": "Maplecrest - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d303080-86ac-11e4-8c28-020000005b00",
+    "name": "Maplecrest",
+    "address": "611 Hackett Rd., Goshen, IN",
+    "courses": [
+      {
+        "name": "Maplecrest",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6341,
+            "par": 71,
+            "rating": 70.1,
+            "slope": 124
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5897,
+            "par": 71,
+            "rating": 68.3,
+            "slope": 116
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5393,
+            "par": 71,
+            "rating": 69.5,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d303080-86ac-11e4-8c28-020000005b00/maplecrest"
+  }
+}

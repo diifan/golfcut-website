@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae2d2a90-86ac-11e4-8c28-020000005b00/spanish-wells-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae2d2a90-86ac-11e4-8c28-020000005b00/spanish-wells-club",
+  "checked_at": 1795663924.9086366,
+  "sha256": "b02d96e3ec4d10a4d71710eb9bf8b5141ad39f082f567fcd437b3dcb281949a1",
+  "title": "Spanish Wells Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae2d2a90-86ac-11e4-8c28-020000005b00",
+    "name": "Spanish Wells Club",
+    "address": "1 Brams Point Rd",
+    "courses": [
+      {
+        "name": "Spanish Wells",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "MEN",
+            "category": "MALE",
+            "yards": 6111,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 123
+          },
+          {
+            "name": "WOMEN",
+            "category": "MALE",
+            "yards": 5106,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae2d2a90-86ac-11e4-8c28-020000005b00/spanish-wells-club"
+  }
+}

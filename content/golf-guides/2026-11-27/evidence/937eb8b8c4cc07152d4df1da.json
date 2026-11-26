@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad2b23e0-86ac-11e4-8c28-020000005b00/corey-creek-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad2b23e0-86ac-11e4-8c28-020000005b00/corey-creek-golf-club",
+  "checked_at": 1795666532.7741523,
+  "sha256": "4732ab0daff6dd717061197b1e692185e491be68b4089c2b333c00cce6eba10f",
+  "title": "Corey Creek Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ad2b23e0-86ac-11e4-8c28-020000005b00",
+    "name": "Corey Creek Golf Club",
+    "address": "18795 US Route 6",
+    "courses": [
+      {
+        "name": "Corey Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6571,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6164,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 125
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5373,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4917,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 115
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 4417,
+            "par": 72,
+            "rating": 62.1,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad2b23e0-86ac-11e4-8c28-020000005b00/corey-creek-golf-club"
+  }
+}

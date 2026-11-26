@@ -1,0 +1,445 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b195f810-86ac-11e4-8c28-020000005b00/towa-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b195f810-86ac-11e4-8c28-020000005b00/towa-golf-club",
+  "checked_at": 1795669219.2807307,
+  "sha256": "386a5bec4bc705ad2bcf58da14dd92d9350f0c8ef0aeca3c3196c667c1259a4c",
+  "title": "Towa Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b195f810-86ac-11e4-8c28-020000005b00",
+    "name": "Towa Golf Club",
+    "address": "40 Buffalo Thunder Trail, Santa Fe NM",
+    "courses": [
+      {
+        "name": "Valley/Boulder",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6955,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6955,
+            "par": 72,
+            "rating": 78.9,
+            "slope": 141
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6453,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 126
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6453,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6033,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6033,
+            "par": 72,
+            "rating": 74,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5535,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5535,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4856,
+            "par": 72,
+            "rating": 62.3,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4856,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 117
+          }
+        ]
+      },
+      {
+        "name": "Pinon/Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6952,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6952,
+            "par": 72,
+            "rating": 78.9,
+            "slope": 141
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6517,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 125
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6517,
+            "par": 72,
+            "rating": 76.6,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6042,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6042,
+            "par": 72,
+            "rating": 74,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5496,
+            "par": 72,
+            "rating": 64.8,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5496,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4758,
+            "par": 72,
+            "rating": 61.8,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4758,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 117
+          }
+        ]
+      },
+      {
+        "name": "Pinon/Boulder",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7153,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7153,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6640,
+            "par": 72,
+            "rating": 70,
+            "slope": 129
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6640,
+            "par": 72,
+            "rating": 77.2,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6199,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6199,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5605,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5605,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4820,
+            "par": 72,
+            "rating": 62.3,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4820,
+            "par": 72,
+            "rating": 66,
+            "slope": 121
+          }
+        ]
+      },
+      {
+        "name": "Boulder/Pinon",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7153,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7153,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6640,
+            "par": 72,
+            "rating": 70,
+            "slope": 129
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6640,
+            "par": 72,
+            "rating": 77.2,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6199,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6199,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5605,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5605,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4820,
+            "par": 72,
+            "rating": 62.3,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4820,
+            "par": 72,
+            "rating": 66,
+            "slope": 121
+          }
+        ]
+      },
+      {
+        "name": "Boulder/Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6955,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6955,
+            "par": 72,
+            "rating": 78.9,
+            "slope": 141
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6453,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 126
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6453,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6033,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6033,
+            "par": 72,
+            "rating": 74,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5535,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5535,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4856,
+            "par": 72,
+            "rating": 62.3,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4856,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b195f810-86ac-11e4-8c28-020000005b00/towa-golf-club"
+  }
+}

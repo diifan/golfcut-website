@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b48576e0-86ac-11e4-8c28-020000005b00/lake-maloney-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b48576e0-86ac-11e4-8c28-020000005b00/lake-maloney-golf-club",
+  "checked_at": 1795664688.2736323,
+  "sha256": "7257ae77150c96219f7f968a97990488af88cca48e3ec1009c37bcc7da9c301f",
+  "title": "Lake Maloney Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b48576e0-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Maloney Golf Club",
+    "address": "620 S Maloney Dr",
+    "courses": [
+      {
+        "name": "Lake Maloney",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7052,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 127
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6574,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5981,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 118
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5176,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4554,
+            "par": 72,
+            "rating": 63,
+            "slope": 105
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4069,
+            "par": 72,
+            "rating": 61.6,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b48576e0-86ac-11e4-8c28-020000005b00/lake-maloney-golf-club"
+  }
+}

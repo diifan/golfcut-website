@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e33bdd0-86ac-11e4-8c28-020000005b00/scottsdale-shadows",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e33bdd0-86ac-11e4-8c28-020000005b00/scottsdale-shadows",
+  "checked_at": 1795663874.1073093,
+  "sha256": "18f393969e79d69e2757a026a5ea4a66e9331030700229eba3b5360f16437201",
+  "title": "Scottsdale Shadows - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8e33bdd0-86ac-11e4-8c28-020000005b00",
+    "name": "Scottsdale Shadows",
+    "address": "7800 E Camelback Road, Scottsdale, AZ",
+    "courses": [
+      {
+        "name": "Scottsdale Shadows (9 holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 964,
+            "par": 27,
+            "rating": 27.3,
+            "slope": 87
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 964,
+            "par": 27,
+            "rating": 26.20156,
+            "slope": 77.70648
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 860,
+            "par": 27,
+            "rating": 25.7294,
+            "slope": 75.8012
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 860,
+            "par": 27,
+            "rating": 28.5,
+            "slope": 89
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e33bdd0-86ac-11e4-8c28-020000005b00/scottsdale-shadows"
+  }
+}

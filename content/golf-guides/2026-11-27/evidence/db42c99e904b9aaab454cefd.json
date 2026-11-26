@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b552b1f0-86ac-11e4-8c28-020000005b00/plum-lake-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b552b1f0-86ac-11e4-8c28-020000005b00/plum-lake-golf-club",
+  "checked_at": 1795664728.0575087,
+  "sha256": "cf928e8314f9674e3cbdd3d986edf096bcf1b0fb45ec0cbc6c571f0d2b2cbd4d",
+  "title": "Plum Lake Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b552b1f0-86ac-11e4-8c28-020000005b00",
+    "name": "Plum Lake Golf Club",
+    "address": "3160 Club House Road, Sayner, WI",
+    "courses": [
+      {
+        "name": "Plum Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6346,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6346,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6212,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6212,
+            "par": 72,
+            "rating": 76.8,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5538,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5538,
+            "par": 72,
+            "rating": 73,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5178,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5178,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b552b1f0-86ac-11e4-8c28-020000005b00/plum-lake-golf-club"
+  }
+}

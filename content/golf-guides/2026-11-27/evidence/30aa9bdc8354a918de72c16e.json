@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83d63cf0-86ac-11e4-8c28-020000005b00/butler-national-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83d63cf0-86ac-11e4-8c28-020000005b00/butler-national-golf-club",
+  "checked_at": 1795661442.4246058,
+  "sha256": "eb777a203eba36d795165c76c04d3c0c71e8a29a8da3c4cfd6faf05510508ea0",
+  "title": "Butler National Golf club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "83d63cf0-86ac-11e4-8c28-020000005b00",
+    "name": "Butler National Golf club",
+    "address": "2616 York Rd",
+    "courses": [
+      {
+        "name": "Butler National",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Butler",
+            "category": "MALE",
+            "yards": 7523,
+            "par": 71,
+            "rating": 78.4,
+            "slope": 155
+          },
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 6989,
+            "par": 71,
+            "rating": 75.5,
+            "slope": 149
+          },
+          {
+            "name": "Member",
+            "category": "MALE",
+            "yards": 6712,
+            "par": 71,
+            "rating": 74.2,
+            "slope": 146
+          },
+          {
+            "name": "Founders",
+            "category": "MALE",
+            "yards": 6267,
+            "par": 71,
+            "rating": 72.1,
+            "slope": 140
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83d63cf0-86ac-11e4-8c28-020000005b00/butler-national-golf-club"
+  }
+}

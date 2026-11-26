@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b35fbb90-86ac-11e4-8c28-020000005b00/huckleberry-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b35fbb90-86ac-11e4-8c28-020000005b00/huckleberry-creek-golf-course",
+  "checked_at": 1795664695.2248607,
+  "sha256": "9fc9fa4ed0d3167ccdddc325a3aa8531b6fb785ca1a250ea812f197a13379820",
+  "title": "Huckleberry Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b35fbb90-86ac-11e4-8c28-020000005b00",
+    "name": "Huckleberry Creek Golf Course",
+    "address": "2900 N Hubbardston Rd",
+    "courses": [
+      {
+        "name": "Huckleberry Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5752,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5752,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4649,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4649,
+            "par": 71,
+            "rating": 65.9,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b35fbb90-86ac-11e4-8c28-020000005b00/huckleberry-creek-golf-course"
+  }
+}

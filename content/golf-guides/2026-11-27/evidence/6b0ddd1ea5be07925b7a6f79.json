@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/c08a3f20-86ac-11e4-8c28-020000005b00/wallasey",
+  "resolved_url": "https://18birdies.com/golf-courses/club/c08a3f20-86ac-11e4-8c28-020000005b00/wallasey",
+  "checked_at": 1795669249.4616833,
+  "sha256": "68d9b87bf0398ae92047d724b156482157c6a7827fc854020fb4b1386447022a",
+  "title": "Wallasey - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "c08a3f20-86ac-11e4-8c28-020000005b00",
+    "name": "Wallasey",
+    "address": "Bayswater Road, Wallasy, Merseyside",
+    "courses": [
+      {
+        "name": "Wallasey",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6682,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6682,
+            "par": 74,
+            "rating": 77.4,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6554,
+            "par": 72,
+            "rating": 73,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6554,
+            "par": 74,
+            "rating": 76.8,
+            "slope": 136
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6279,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 132
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 6279,
+            "par": 74,
+            "rating": 75.3,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5777,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5777,
+            "par": 74,
+            "rating": 75,
+            "slope": 140
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/c08a3f20-86ac-11e4-8c28-020000005b00/wallasey"
+  }
+}

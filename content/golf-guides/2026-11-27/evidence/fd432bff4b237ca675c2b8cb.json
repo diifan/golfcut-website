@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1d6f8b0-86ac-11e4-8c28-020000005b00/waterville-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1d6f8b0-86ac-11e4-8c28-020000005b00/waterville-country-club",
+  "checked_at": 1795664708.1565306,
+  "sha256": "84f8706ff4b04400da9b929cd00117fbb18ba9744b527ee726829c90db1454ee",
+  "title": "Waterville Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1d6f8b0-86ac-11e4-8c28-020000005b00",
+    "name": "Waterville Country Club",
+    "address": "Country Club Road, Oakland, ME",
+    "courses": [
+      {
+        "name": "Waterville",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6301,
+            "par": 70,
+            "rating": 71.2,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6301,
+            "par": 73,
+            "rating": 75.4,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6026,
+            "par": 70,
+            "rating": 69.8,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6026,
+            "par": 73,
+            "rating": 73.9,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5606,
+            "par": 70,
+            "rating": 67.8,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5606,
+            "par": 73,
+            "rating": 73.4,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5381,
+            "par": 70,
+            "rating": 69.4,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5381,
+            "par": 73,
+            "rating": 72.4,
+            "slope": 129
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1d6f8b0-86ac-11e4-8c28-020000005b00/waterville-country-club"
+  }
+}

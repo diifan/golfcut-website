@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/973bc0d0-86ac-11e4-8c28-020000005b00/king-ranch-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/973bc0d0-86ac-11e4-8c28-020000005b00/king-ranch-golf-course",
+  "checked_at": 1795668314.6574302,
+  "sha256": "c8377abf6fbf8ee9b3e7a325d7b521a18df19b70dd1fe69879a665db4170c9e2",
+  "title": "King Ranch Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "973bc0d0-86ac-11e4-8c28-020000005b00",
+    "name": "King Ranch Golf Course",
+    "address": "17775 Mullan Rd.",
+    "courses": [
+      {
+        "name": "King Ranch",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6321,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 110
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6321,
+            "par": 72,
+            "rating": 75.6,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5966,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5966,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5453,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5453,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/973bc0d0-86ac-11e4-8c28-020000005b00/king-ranch-golf-course"
+  }
+}

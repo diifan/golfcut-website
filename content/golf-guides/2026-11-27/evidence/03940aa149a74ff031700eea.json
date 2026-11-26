@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba3fd580-86ac-11e4-8c28-020000005b00/olive-glenn-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba3fd580-86ac-11e4-8c28-020000005b00/olive-glenn-golf-country-club",
+  "checked_at": 1795583811.3229458,
+  "sha256": "439d307c94af2fe4f3df009cd4a979b53f18b8a128c4ee0695e4544dfb999155",
+  "title": "Olive Glenn Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ba3fd580-86ac-11e4-8c28-020000005b00",
+    "name": "Olive Glenn Golf & Country Club",
+    "address": "802 Meadow Ln",
+    "courses": [
+      {
+        "name": "Olive Glenn",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6905,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6515,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6238,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5524,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba3fd580-86ac-11e4-8c28-020000005b00/olive-glenn-golf-country-club"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/91519fa0-86ac-11e4-8c28-020000005b00/chesley-oaks-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/91519fa0-86ac-11e4-8c28-020000005b00/chesley-oaks-golf-course",
+  "checked_at": 1795583775.749183,
+  "sha256": "60ada7694f330c940c0003f7707d4835462813a26d2742ed0035cef5df0179c1",
+  "title": "Chesley Oaks Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "91519fa0-86ac-11e4-8c28-020000005b00",
+    "name": "Chesley Oaks Golf Course",
+    "address": "1035 County Rd 1583",
+    "courses": [
+      {
+        "name": "Chesley Oaks",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6738,
+            "par": 71,
+            "rating": 71.7,
+            "slope": 125
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 6738,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6152,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6152,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5547,
+            "par": 71,
+            "rating": 66.5,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5547,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4981,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4981,
+            "par": 71,
+            "rating": 67.9,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/91519fa0-86ac-11e4-8c28-020000005b00/chesley-oaks-golf-course"
+  }
+}

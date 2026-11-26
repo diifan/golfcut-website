@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/f9627bc0-839b-11e7-88dc-0680a328ea36/cricket-hill-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/f9627bc0-839b-11e7-88dc-0680a328ea36/cricket-hill-golf-club",
+  "checked_at": 1795666526.7352989,
+  "sha256": "2c1496826550a28d0d8dae2c22110179a8c0ca5beaaaa92886bf6ae70db41f11",
+  "title": "Cricket Hill Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "f9627bc0-839b-11e7-88dc-0680a328ea36",
+    "name": "Cricket Hill Golf Club",
+    "address": "176 Cricket Hill Rd, Hawley, PA 18428",
+    "courses": [
+      {
+        "name": "Cricket HIll",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5496,
+            "par": 71,
+            "rating": 67.5,
+            "slope": 115
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5496,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5270,
+            "par": 71,
+            "rating": 66.1,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5270,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4432,
+            "par": 71,
+            "rating": 62.8,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4432,
+            "par": 71,
+            "rating": 66.5,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/f9627bc0-839b-11e7-88dc-0680a328ea36/cricket-hill-golf-club"
+  }
+}

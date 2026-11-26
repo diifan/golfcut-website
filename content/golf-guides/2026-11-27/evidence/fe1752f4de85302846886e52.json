@@ -1,0 +1,77 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/887d2fc0-86ac-11e4-8c28-020000005b00/tpc-at-deere-run",
+  "resolved_url": "https://18birdies.com/golf-courses/club/887d2fc0-86ac-11e4-8c28-020000005b00/tpc-at-deere-run",
+  "checked_at": 1795666561.8517838,
+  "sha256": "16e9a6816e2e64fb0fcab3595a75f2afcd0d29c014a25206c0ea978361345bef",
+  "title": "TPC at Deere Run - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "887d2fc0-86ac-11e4-8c28-020000005b00",
+    "name": "TPC at Deere Run",
+    "address": "3100 Heather Knoll, Silvis, IL",
+    "courses": [
+      {
+        "name": "TPC Deere Run",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "John Deere Classic",
+            "category": "MALE",
+            "yards": 7258,
+            "par": 71,
+            "rating": 75.8,
+            "slope": 144
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7075,
+            "par": 71,
+            "rating": 74.8,
+            "slope": 142
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6530,
+            "par": 71,
+            "rating": 72.4,
+            "slope": 136
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 6274,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6008,
+            "par": 71,
+            "rating": 69.9,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5179,
+            "par": 71,
+            "rating": 68.5,
+            "slope": 117
+          },
+          {
+            "name": "White/Gold",
+            "category": "MALE",
+            "yards": 5563,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/887d2fc0-86ac-11e4-8c28-020000005b00/tpc-at-deere-run"
+  }
+}

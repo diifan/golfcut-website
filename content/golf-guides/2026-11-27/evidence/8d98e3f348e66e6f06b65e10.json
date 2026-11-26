@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad6a28b0-86ac-11e4-8c28-020000005b00/skytop-mountain-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad6a28b0-86ac-11e4-8c28-020000005b00/skytop-mountain-golf-club",
+  "checked_at": 1795668319.8947606,
+  "sha256": "057f002a19350c2076c28a4c5c47494a0a1086e07911d578e0e51c3d88210cc6",
+  "title": "Skytop Mountain Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ad6a28b0-86ac-11e4-8c28-020000005b00",
+    "name": "Skytop Mountain Golf Club",
+    "address": "350 Freestone Lane, Port Matilda, PA",
+    "courses": [
+      {
+        "name": "Freestone",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6976,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 147
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6453,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 141
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5770,
+            "par": 72,
+            "rating": 69,
+            "slope": 137
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4968,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4500,
+            "par": 72,
+            "rating": 63.5,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad6a28b0-86ac-11e4-8c28-020000005b00/skytop-mountain-golf-club"
+  }
+}

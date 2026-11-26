@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1d17a70-86ac-11e4-8c28-020000005b00/cobbossee-colony-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1d17a70-86ac-11e4-8c28-020000005b00/cobbossee-colony-golf-course",
+  "checked_at": 1795664703.0107832,
+  "sha256": "692758c3f588d37d36d9977125187346d67782b7741c34ddfda78818edec305d",
+  "title": "Cobbossee Colony Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1d17a70-86ac-11e4-8c28-020000005b00",
+    "name": "Cobbossee Colony Golf Course",
+    "address": "885 Cobbossee Rd",
+    "courses": [
+      {
+        "name": "Cobbossee (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 2390,
+            "par": 34,
+            "rating": 30.5,
+            "slope": 94
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 2390,
+            "par": 34,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red/Red",
+            "category": "MALE",
+            "yards": 2001,
+            "par": 34,
+            "rating": 29.4,
+            "slope": 87
+          },
+          {
+            "name": "Red/Red",
+            "category": "FEMALE",
+            "yards": 2001,
+            "par": 34,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2001,
+            "par": 34,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2001,
+            "par": 34,
+            "rating": 30.8,
+            "slope": 98
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1d17a70-86ac-11e4-8c28-020000005b00/cobbossee-colony-golf-course"
+  }
+}

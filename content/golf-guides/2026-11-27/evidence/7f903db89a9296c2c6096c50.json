@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8c654e0-86ac-11e4-8c28-020000005b00/big-creek-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8c654e0-86ac-11e4-8c28-020000005b00/big-creek-golf-country-club",
+  "checked_at": 1795664701.540795,
+  "sha256": "68d64114fb7c7e6fce561d449ef22547de374213e0ac88943da3d34daa524f36",
+  "title": "Big Creek Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b8c654e0-86ac-11e4-8c28-020000005b00",
+    "name": "Big Creek Golf & Country Club",
+    "address": "452 Country Club Drive",
+    "courses": [
+      {
+        "name": "Big Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7320,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6740,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6197,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5807,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5068,
+            "par": 72,
+            "rating": 68,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8c654e0-86ac-11e4-8c28-020000005b00/big-creek-golf-country-club"
+  }
+}

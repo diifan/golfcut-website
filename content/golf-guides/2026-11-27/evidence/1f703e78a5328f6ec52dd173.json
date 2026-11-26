@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ba9c950-86ac-11e4-8c28-020000005b00/chillicothe-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ba9c950-86ac-11e4-8c28-020000005b00/chillicothe-country-club",
+  "checked_at": 1795661418.2964625,
+  "sha256": "c6eebbad73fdb7172ba01b928be404317c8ac8059969bd1b4eb5e1983410d37d",
+  "title": "Chillicothe Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9ba9c950-86ac-11e4-8c28-020000005b00",
+    "name": "Chillicothe Country Club",
+    "address": "800 Arch Street",
+    "courses": [
+      {
+        "name": "Chillicothe(9 holes )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 6325,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 121
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 6325,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 133
+          },
+          {
+            "name": "Red/Gold",
+            "category": "MALE",
+            "yards": 5350,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 114
+          },
+          {
+            "name": "Red/Gold",
+            "category": "FEMALE",
+            "yards": 5350,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ba9c950-86ac-11e4-8c28-020000005b00/chillicothe-country-club"
+  }
+}

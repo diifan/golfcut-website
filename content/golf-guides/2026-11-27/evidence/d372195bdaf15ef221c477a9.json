@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98ad5230-86ac-11e4-8c28-020000005b00/pheasant-hollow-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98ad5230-86ac-11e4-8c28-020000005b00/pheasant-hollow-golf-course",
+  "checked_at": 1795664709.0884917,
+  "sha256": "cd5d7d2356a16d96a1a9c1615d3b85d60ffe008b11164c656c1db45a4ad19016",
+  "title": "Pheasant Hollow Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "98ad5230-86ac-11e4-8c28-020000005b00",
+    "name": "Pheasant Hollow Golf Course",
+    "address": "2670 Phillips Rd, Castleton-on-the-Hudson, NY 12033",
+    "courses": [
+      {
+        "name": "9 Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3438,
+            "par": 36,
+            "rating": 34.1,
+            "slope": 108
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3438,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3150,
+            "par": 36,
+            "rating": 35.7,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3150,
+            "par": 36,
+            "rating": 36.2,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2777,
+            "par": 36,
+            "rating": 31.4,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2777,
+            "par": 36,
+            "rating": 34.3,
+            "slope": 101
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98ad5230-86ac-11e4-8c28-020000005b00/pheasant-hollow-golf-course"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4c9f9f0-86ac-11e4-8c28-020000005b00/willow-creek-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4c9f9f0-86ac-11e4-8c28-020000005b00/willow-creek-country-club",
+  "checked_at": 1795663920.0493722,
+  "sha256": "2ee91dee368c107accc2ac311dac7a8e6fe66094119ea2572ec6b23a203b18f6",
+  "title": "Willow Creek Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b4c9f9f0-86ac-11e4-8c28-020000005b00",
+    "name": "Willow Creek Country Club",
+    "address": "53726 Hwy 74, Hepner, OR",
+    "courses": [
+      {
+        "name": "Willow Creek",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 1725,
+            "par": 30,
+            "rating": 29.5,
+            "slope": 89
+          },
+          {
+            "name": "White/Red",
+            "category": "MALE",
+            "yards": 1725,
+            "par": 30,
+            "rating": 29.2,
+            "slope": 88
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4c9f9f0-86ac-11e4-8c28-020000005b00/willow-creek-country-club"
+  }
+}

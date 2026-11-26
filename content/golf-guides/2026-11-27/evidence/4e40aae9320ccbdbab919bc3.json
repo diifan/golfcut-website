@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98f94f50-86ac-11e4-8c28-020000005b00/thunderhart-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98f94f50-86ac-11e4-8c28-020000005b00/thunderhart-golf-course",
+  "checked_at": 1795666503.151549,
+  "sha256": "5a1e56d69643a580688c857388514a4d9f1cd4f682c56d15e52f5242e2395516",
+  "title": "Thunderhart Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "98f94f50-86ac-11e4-8c28-020000005b00",
+    "name": "Thunderhart Golf Course",
+    "address": "2740 Route 67, Freehold, NY",
+    "courses": [
+      {
+        "name": "Thunderhart",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6482,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6482,
+            "par": 72,
+            "rating": 76.4,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6040,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6040,
+            "par": 72,
+            "rating": 74,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5233,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 108
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5233,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5013,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5013,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98f94f50-86ac-11e4-8c28-020000005b00/thunderhart-golf-course"
+  }
+}

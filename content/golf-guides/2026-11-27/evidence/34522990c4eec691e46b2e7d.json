@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b7d1400-86ac-11e4-8c28-020000005b00/ohio-university-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b7d1400-86ac-11e4-8c28-020000005b00/ohio-university-golf-course",
+  "checked_at": 1795663904.6974256,
+  "sha256": "9309c983a611c52f5784e918e1528bcef5179f24ef88314ae2e3fbb3e71e4252",
+  "title": "Ohio University Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9b7d1400-86ac-11e4-8c28-020000005b00",
+    "name": "Ohio University Golf Course",
+    "address": "106 Golf and Tennis Center",
+    "courses": [
+      {
+        "name": "Ohio University",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Chapionship",
+            "category": "MALE",
+            "yards": 3152,
+            "par": 35,
+            "rating": 35.4,
+            "slope": 126
+          },
+          {
+            "name": "Member",
+            "category": "MALE",
+            "yards": 2761,
+            "par": 35,
+            "rating": 33.4,
+            "slope": 119
+          },
+          {
+            "name": "Senior",
+            "category": "MALE",
+            "yards": 2434,
+            "par": 35,
+            "rating": 31.7,
+            "slope": 109
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 2140,
+            "par": 35,
+            "rating": 32.2,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b7d1400-86ac-11e4-8c28-020000005b00/ohio-university-golf-course"
+  }
+}

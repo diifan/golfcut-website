@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/70953100-86ac-11e4-8c28-020000005b00/balmore-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/70953100-86ac-11e4-8c28-020000005b00/balmore-golf-club",
+  "checked_at": 1795663471.623186,
+  "sha256": "f9f96c6cbb118334f5fd12770e1ed5d04916c81296cda831b4cfe4b472355a79",
+  "title": "Balmore Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "70953100-86ac-11e4-8c28-020000005b00",
+    "name": "Balmore Golf Club",
+    "address": "Golf Course Road, Balmore",
+    "courses": [
+      {
+        "name": "Balmore",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5542,
+            "par": 66,
+            "rating": 67.3,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5542,
+            "par": 66,
+            "rating": 71.4,
+            "slope": 124
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5294,
+            "par": 66,
+            "rating": 66,
+            "slope": 116
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5294,
+            "par": 66,
+            "rating": 70,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5073,
+            "par": 66,
+            "rating": 68,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5073,
+            "par": 66,
+            "rating": 69.7,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/70953100-86ac-11e4-8c28-020000005b00/balmore-golf-club"
+  }
+}

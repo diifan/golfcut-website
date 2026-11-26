@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/aeeea5d0-86ac-11e4-8c28-020000005b00/graymere-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/aeeea5d0-86ac-11e4-8c28-020000005b00/graymere-country-club",
+  "checked_at": 1795666493.3804984,
+  "sha256": "e4ed98915ded00a9e5b568844b95970c6ff8a68f4819a2e5e3ae9887b5ea2512",
+  "title": "Graymere Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "aeeea5d0-86ac-11e4-8c28-020000005b00",
+    "name": "Graymere Country Club",
+    "address": "2100 Country Club Ln, Columbia, TN",
+    "courses": [
+      {
+        "name": "Graymere Country",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6314,
+            "par": 72,
+            "rating": 70,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6063,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5573,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5118,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/aeeea5d0-86ac-11e4-8c28-020000005b00/graymere-country-club"
+  }
+}

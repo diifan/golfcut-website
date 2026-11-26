@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ccc5050-86ac-11e4-8c28-020000005b00/zanesville-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ccc5050-86ac-11e4-8c28-020000005b00/zanesville-country-club",
+  "checked_at": 1795664739.2067013,
+  "sha256": "c044b9663c30021ed879bf8aaf7d144bfedde8897c014beb55a5a18bddf9c04d",
+  "title": "Zanesville Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9ccc5050-86ac-11e4-8c28-020000005b00",
+    "name": "Zanesville Country Club",
+    "address": "1300 Country Club Dr, Zanesville, OH",
+    "courses": [
+      {
+        "name": "Zanesville",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6983,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6615,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 124
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 6062,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5795,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5277,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 113
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4491,
+            "par": 72,
+            "rating": 62.6,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ccc5050-86ac-11e4-8c28-020000005b00/zanesville-country-club"
+  }
+}

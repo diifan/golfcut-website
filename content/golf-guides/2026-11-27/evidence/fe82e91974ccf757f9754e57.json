@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2755b90-86ac-11e4-8c28-020000005b00/the-dutch-hollow-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2755b90-86ac-11e4-8c28-020000005b00/the-dutch-hollow-golf-club",
+  "checked_at": 1795583819.0285645,
+  "sha256": "dafdf994e56f983d4cf6ac3840efc45cabaebdda99c96557dd6ef153459165a8",
+  "title": "The Dutch Hollow Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b2755b90-86ac-11e4-8c28-020000005b00",
+    "name": "The Dutch Hollow Golf Club",
+    "address": "8500 E Lansing Road, Durand, MI",
+    "courses": [
+      {
+        "name": "Dutch Hollow",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5554,
+            "par": 71,
+            "rating": 65.1,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5554,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5005,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5005,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4794,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4794,
+            "par": 73,
+            "rating": 65.9,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2755b90-86ac-11e4-8c28-020000005b00/the-dutch-hollow-golf-club"
+  }
+}

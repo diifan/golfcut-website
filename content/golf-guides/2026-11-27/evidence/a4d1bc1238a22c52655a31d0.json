@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/957531a0-86ac-11e4-8c28-020000005b00/grandview-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/957531a0-86ac-11e4-8c28-020000005b00/grandview-golf-course",
+  "checked_at": 1795661407.414052,
+  "sha256": "24eaf1ef6d616f8e71298080ffcd5b3536a3ad6cd79d3e34e2adcc83e3afc516",
+  "title": "Grandview Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "957531a0-86ac-11e4-8c28-020000005b00",
+    "name": "Grandview Golf Course",
+    "address": "449 Wachusett Street",
+    "courses": [
+      {
+        "name": "Grand View",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3357,
+            "par": 36,
+            "rating": 37.8,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3357,
+            "par": 37,
+            "rating": 38.8,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3103,
+            "par": 36,
+            "rating": 36.6,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3103,
+            "par": 37,
+            "rating": 37.5,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/957531a0-86ac-11e4-8c28-020000005b00/grandview-golf-course"
+  }
+}

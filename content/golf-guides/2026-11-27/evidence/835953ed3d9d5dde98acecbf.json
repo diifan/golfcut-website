@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9bf6d7e0-86ac-11e4-8c28-020000005b00/circling-hills-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9bf6d7e0-86ac-11e4-8c28-020000005b00/circling-hills-golf-course",
+  "checked_at": 1795664698.254877,
+  "sha256": "a84252206951d4d61eb8aeceb321fb6a8c17e34048b3dca14afd9a060b103657",
+  "title": "Circling Hills Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9bf6d7e0-86ac-11e4-8c28-020000005b00",
+    "name": "Circling Hills Golf Course",
+    "address": "10240 Carolina Trace Rd",
+    "courses": [
+      {
+        "name": "Circling Hills F + B",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6390,
+            "par": 71,
+            "rating": 70.6,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6005,
+            "par": 71,
+            "rating": 68.8,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5460,
+            "par": 71,
+            "rating": 66.3,
+            "slope": 117
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4900,
+            "par": 71,
+            "rating": 63.4,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9bf6d7e0-86ac-11e4-8c28-020000005b00/circling-hills-golf-course"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c2e50e0-86ac-11e4-8c28-020000005b00/pedernales",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c2e50e0-86ac-11e4-8c28-020000005b00/pedernales",
+  "checked_at": 1795663477.4386907,
+  "sha256": "85c172ee1669d65120145dcafed8d3714cf43e5407094788de87d921153d40a0",
+  "title": "Pedernales - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8c2e50e0-86ac-11e4-8c28-020000005b00",
+    "name": "Pedernales",
+    "address": "807 Paisley Drive, Spicewood, TX",
+    "courses": [
+      {
+        "name": "Pedernales",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3330,
+            "par": 36,
+            "rating": 36.2,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3205,
+            "par": 36,
+            "rating": 35.7,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3030,
+            "par": 36,
+            "rating": 34.9,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c2e50e0-86ac-11e4-8c28-020000005b00/pedernales"
+  }
+}

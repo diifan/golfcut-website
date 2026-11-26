@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8f0e750-86ac-11e4-8c28-020000005b00/hapuna-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8f0e750-86ac-11e4-8c28-020000005b00/hapuna-golf-course",
+  "checked_at": 1795666539.0911205,
+  "sha256": "271b0e41feabcb45e6e4162e3177abb3f729464f77c5d82fcf1642f10265ce44",
+  "title": "Hapuna Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b8f0e750-86ac-11e4-8c28-020000005b00",
+    "name": "Hapuna Golf Course",
+    "address": "62-100 Kaunaʻoa Dr, Waimea, HI",
+    "courses": [
+      {
+        "name": "Hapuna",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6858,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 138
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 6858,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 6475,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 131
+          },
+          {
+            "name": "Tournament",
+            "category": "FEMALE",
+            "yards": 6475,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Regular",
+            "category": "MALE",
+            "yards": 5774,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 123
+          },
+          {
+            "name": "Regular",
+            "category": "FEMALE",
+            "yards": 5774,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 137
+          },
+          {
+            "name": "Composite",
+            "category": "MALE",
+            "yards": 5258,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 116
+          },
+          {
+            "name": "Composite",
+            "category": "FEMALE",
+            "yards": 5258,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 126
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4746,
+            "par": 72,
+            "rating": 64.8,
+            "slope": 111
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 4746,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8f0e750-86ac-11e4-8c28-020000005b00/hapuna-golf-course"
+  }
+}

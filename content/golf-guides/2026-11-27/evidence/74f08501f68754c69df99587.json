@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2e1d900-86ac-11e4-8c28-020000005b00/the-fields-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2e1d900-86ac-11e4-8c28-020000005b00/the-fields-golf-course",
+  "checked_at": 1795583776.7556272,
+  "sha256": "8c1faed564a96dc574cd9063e86d83f961f541dab3984cbf403882262376ceb5",
+  "title": "The Fields Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b2e1d900-86ac-11e4-8c28-020000005b00",
+    "name": "The Fields Golf Course",
+    "address": "1508 N State Rd, Ithaca, MI 48847",
+    "courses": [
+      {
+        "name": "The Fields",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5552,
+            "par": 70,
+            "rating": 63.9,
+            "slope": 110
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5209,
+            "par": 70,
+            "rating": 68.7,
+            "slope": 118
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 4874,
+            "par": 70,
+            "rating": 66.6,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2e1d900-86ac-11e4-8c28-020000005b00/the-fields-golf-course"
+  }
+}

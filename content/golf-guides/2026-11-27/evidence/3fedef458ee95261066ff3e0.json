@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d5321d0-86ac-11e4-8c28-020000005b00/legacy-hills-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d5321d0-86ac-11e4-8c28-020000005b00/legacy-hills-golf-club",
+  "checked_at": 1795666561.7411344,
+  "sha256": "929fe51d59860e4bffcc54b55430b698fa6291033f3f1c14eef8e445daf27894",
+  "title": "Legacy Hills Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d5321d0-86ac-11e4-8c28-020000005b00",
+    "name": "Legacy Hills Golf Club",
+    "address": "286 W Johnson Rd, La Porte, IN",
+    "courses": [
+      {
+        "name": "Legacy Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6512,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6002,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 123
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5623,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5078,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d5321d0-86ac-11e4-8c28-020000005b00/legacy-hills-golf-club"
+  }
+}

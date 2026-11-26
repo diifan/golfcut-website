@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af158ec0-86ac-11e4-8c28-020000005b00/cherokee-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af158ec0-86ac-11e4-8c28-020000005b00/cherokee-country-club",
+  "checked_at": 1795664740.710692,
+  "sha256": "866f99d3c45fd075f72db78e2c7ffd45471c2d83d03ae1ffaea6945703f3f4d6",
+  "title": "Cherokee Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af158ec0-86ac-11e4-8c28-020000005b00",
+    "name": "Cherokee Country Club",
+    "address": "5205 Lyons View Dr, Knoxville, TN",
+    "courses": [
+      {
+        "name": "Cherokee",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6370,
+            "par": 70,
+            "rating": 71.6,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5958,
+            "par": 70,
+            "rating": 69.4,
+            "slope": 128
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 5773,
+            "par": 70,
+            "rating": 70.3,
+            "slope": 128
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5465,
+            "par": 70,
+            "rating": 67.4,
+            "slope": 122
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5132,
+            "par": 70,
+            "rating": 65.1,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4841,
+            "par": 70,
+            "rating": 64.4,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af158ec0-86ac-11e4-8c28-020000005b00/cherokee-country-club"
+  }
+}

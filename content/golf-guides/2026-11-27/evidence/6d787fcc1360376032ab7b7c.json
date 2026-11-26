@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b498b0c0-86ac-11e4-8c28-020000005b00/scottsbluff-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b498b0c0-86ac-11e4-8c28-020000005b00/scottsbluff-country-club",
+  "checked_at": 1795666543.6503026,
+  "sha256": "d2de4c023827ab49f1c0fef9c528b318825e66ea51461cf0c245a0c94f3aafa2",
+  "title": "Scottsbluff Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b498b0c0-86ac-11e4-8c28-020000005b00",
+    "name": "Scottsbluff Country Club",
+    "address": "5014 Ave I",
+    "courses": [
+      {
+        "name": "Scotts Bluff",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7071,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6500,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6205,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5467,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b498b0c0-86ac-11e4-8c28-020000005b00/scottsbluff-country-club"
+  }
+}

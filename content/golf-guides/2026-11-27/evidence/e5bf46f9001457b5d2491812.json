@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/971d6360-86ac-11e4-8c28-020000005b00/forest-hills-golf-rv-resort",
+  "resolved_url": "https://18birdies.com/golf-courses/club/971d6360-86ac-11e4-8c28-020000005b00/forest-hills-golf-rv-resort",
+  "checked_at": 1795583805.4343553,
+  "sha256": "28598fe727b36acabed63ba67a3a875cdc513ace6e983c18cf81f9e8504ec51d",
+  "title": "Forest Hills Golf & RV Resort - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "971d6360-86ac-11e4-8c28-020000005b00",
+    "name": "Forest Hills Golf & RV Resort",
+    "address": "22931 185th Street Detroit Lakes, MN 56501",
+    "courses": [
+      {
+        "name": "Forest Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6346,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 137
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5981,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 130
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5008,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/971d6360-86ac-11e4-8c28-020000005b00/forest-hills-golf-rv-resort"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1cd34b0-86ac-11e4-8c28-020000005b00/lake-kezar-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1cd34b0-86ac-11e4-8c28-020000005b00/lake-kezar-country-club",
+  "checked_at": 1795661688.1974385,
+  "sha256": "ab51f18f1969a2019aec6b529f6c8dbf9ea258c0787731752ade889a3e966797",
+  "title": "Lake Kezar Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1cd34b0-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Kezar Country Club",
+    "address": "5 Kimball Rd",
+    "courses": [
+      {
+        "name": "Lake Kezar",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6010,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5540,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5086,
+            "par": 72,
+            "rating": 65.6,
+            "slope": 104
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4687,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1cd34b0-86ac-11e4-8c28-020000005b00/lake-kezar-country-club"
+  }
+}

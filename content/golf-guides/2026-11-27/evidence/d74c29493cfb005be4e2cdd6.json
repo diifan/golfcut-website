@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98cd5d50-86ac-11e4-8c28-020000005b00/walden-oaks-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98cd5d50-86ac-11e4-8c28-020000005b00/walden-oaks-country-club",
+  "checked_at": 1795668301.7152684,
+  "sha256": "99dab3f4d736f3120fdd97580c0fc9a109a11e7b1d1ab57ed03dbbf953911ab9",
+  "title": "Walden Oaks Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "98cd5d50-86ac-11e4-8c28-020000005b00",
+    "name": "Walden Oaks Country Club",
+    "address": "3369 Walden Oaks Blvd",
+    "courses": [
+      {
+        "name": "Walden Oaks",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6035,
+            "par": 71,
+            "rating": 68.3,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5574,
+            "par": 71,
+            "rating": 66.8,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4908,
+            "par": 71,
+            "rating": 67.3,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4572,
+            "par": 71,
+            "rating": 63.3,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98cd5d50-86ac-11e4-8c28-020000005b00/walden-oaks-country-club"
+  }
+}

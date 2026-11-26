@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95fa1910-86ac-11e4-8c28-020000005b00/touisset-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95fa1910-86ac-11e4-8c28-020000005b00/touisset-country-club",
+  "checked_at": 1795663921.5708451,
+  "sha256": "707509f145af0d7865ee4a65319f4ba96e368dc867a68358b3b5dabf4d04a7f5",
+  "title": "Touisset Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "95fa1910-86ac-11e4-8c28-020000005b00",
+    "name": "Touisset Country Club",
+    "address": "221 Pearse Rd, Swansea, MA",
+    "courses": [
+      {
+        "name": "Touisset (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 3024,
+            "par": 36,
+            "rating": 34.1,
+            "slope": 113
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 3024,
+            "par": 36,
+            "rating": 37,
+            "slope": 120
+          },
+          {
+            "name": "Yellow/White",
+            "category": "MALE",
+            "yards": 2826,
+            "par": 36,
+            "rating": 33.3,
+            "slope": 108
+          },
+          {
+            "name": "Yellow/White",
+            "category": "FEMALE",
+            "yards": 2826,
+            "par": 36,
+            "rating": 35.9,
+            "slope": 116
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "MALE",
+            "yards": 2725,
+            "par": 36,
+            "rating": 32.7,
+            "slope": 104
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "FEMALE",
+            "yards": 2725,
+            "par": 36,
+            "rating": 35.2,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95fa1910-86ac-11e4-8c28-020000005b00/touisset-country-club"
+  }
+}

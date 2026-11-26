@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af0ba3b0-86ac-11e4-8c28-020000005b00/country-hills-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af0ba3b0-86ac-11e4-8c28-020000005b00/country-hills-golf-course",
+  "checked_at": 1795668284.5995433,
+  "sha256": "5760315126835db03792e488bdcdf129c009229d99ee856d12a03391ef49c9a9",
+  "title": "Country Hills Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af0ba3b0-86ac-11e4-8c28-020000005b00",
+    "name": "Country Hills Golf Course",
+    "address": "1501 Saundersville Road",
+    "courses": [
+      {
+        "name": "Country Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6211,
+            "par": 70,
+            "rating": 69.7,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5862,
+            "par": 70,
+            "rating": 68.1,
+            "slope": 118
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5324,
+            "par": 70,
+            "rating": 65.6,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4991,
+            "par": 70,
+            "rating": 67.7,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af0ba3b0-86ac-11e4-8c28-020000005b00/country-hills-golf-course"
+  }
+}

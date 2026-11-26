@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2559e90-86ac-11e4-8c28-020000005b00/cheboygan-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2559e90-86ac-11e4-8c28-020000005b00/cheboygan-golf-country-club",
+  "checked_at": 1795661645.7792513,
+  "sha256": "aa0f013ec0e5280dfe386fe89a9178da8e61d728d24af75fa80d54a067f344ae",
+  "title": "Cheboygan Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b2559e90-86ac-11e4-8c28-020000005b00",
+    "name": "Cheboygan Golf & Country Club",
+    "address": "1431 Old Mackinaw Rd",
+    "courses": [
+      {
+        "name": "Cheboygan",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue/Championship",
+            "category": "MALE",
+            "yards": 6003,
+            "par": 70,
+            "rating": 69.3,
+            "slope": 131
+          },
+          {
+            "name": "Blue/Championship",
+            "category": "FEMALE",
+            "yards": 6003,
+            "par": 71,
+            "rating": 73.8,
+            "slope": 130
+          },
+          {
+            "name": "White/Back",
+            "category": "MALE",
+            "yards": 5556,
+            "par": 70,
+            "rating": 67.9,
+            "slope": 129
+          },
+          {
+            "name": "White/Back",
+            "category": "FEMALE",
+            "yards": 5556,
+            "par": 71,
+            "rating": 73.2,
+            "slope": 131
+          },
+          {
+            "name": "Red/Middle",
+            "category": "MALE",
+            "yards": 4512,
+            "par": 70,
+            "rating": 65.2,
+            "slope": 120
+          },
+          {
+            "name": "Red/Middle",
+            "category": "FEMALE",
+            "yards": 4512,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2559e90-86ac-11e4-8c28-020000005b00/cheboygan-golf-country-club"
+  }
+}

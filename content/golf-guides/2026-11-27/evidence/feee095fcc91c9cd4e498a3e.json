@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98ef3d30-86ac-11e4-8c28-020000005b00/lyndon-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98ef3d30-86ac-11e4-8c28-020000005b00/lyndon-golf-course",
+  "checked_at": 1795666559.7460506,
+  "sha256": "2d9cb67d199c7ddd04f16ba9453f12606c7dd04433f0f8329b773063969395d0",
+  "title": "Lyndon Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "98ef3d30-86ac-11e4-8c28-020000005b00",
+    "name": "Lyndon Golf Course",
+    "address": "7054 E Genesee St, Fayetteville, NY",
+    "courses": [
+      {
+        "name": "Lyndon",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4643,
+            "par": 68,
+            "rating": 62.9,
+            "slope": 94
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4643,
+            "par": 70,
+            "rating": 66.6,
+            "slope": 114
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 4203,
+            "par": 68,
+            "rating": 64.1,
+            "slope": 109
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 4203,
+            "par": 70,
+            "rating": 64.7,
+            "slope": 97
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98ef3d30-86ac-11e4-8c28-020000005b00/lyndon-golf-course"
+  }
+}

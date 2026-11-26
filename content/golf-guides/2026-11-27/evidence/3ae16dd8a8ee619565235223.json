@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/82b849d0-86ac-11e4-8c28-020000005b00/piper-glen-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/82b849d0-86ac-11e4-8c28-020000005b00/piper-glen-golf-course",
+  "checked_at": 1795663880.085782,
+  "sha256": "85fc96ab7fa3f3e6e8fa42fe3223ba9504d72bbf573b73bdac6bd27dfdba5561",
+  "title": "Piper Glen Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "82b849d0-86ac-11e4-8c28-020000005b00",
+    "name": "Piper Glen Golf Course",
+    "address": "7112 Piper Glen, Springfield, IL",
+    "courses": [
+      {
+        "name": "Piper Glen",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7005,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6612,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6124,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 124
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5571,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5138,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/82b849d0-86ac-11e4-8c28-020000005b00/piper-glen-golf-course"
+  }
+}

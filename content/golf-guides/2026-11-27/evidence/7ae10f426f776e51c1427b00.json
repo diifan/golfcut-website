@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ec09480-86ac-11e4-8c28-020000005b00/dogwood-lakes-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ec09480-86ac-11e4-8c28-020000005b00/dogwood-lakes-golf-club",
+  "checked_at": 1795668348.7645764,
+  "sha256": "0ec7dbb2913937c62e8561e8c121773801a6c69bb1d84ce6e6524c03bd823bec",
+  "title": "Dogwood Lakes Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8ec09480-86ac-11e4-8c28-020000005b00",
+    "name": "Dogwood Lakes Golf Club",
+    "address": "1934 Country Club Dr., Bonifay, FL",
+    "courses": [
+      {
+        "name": "Dogwood Lakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6207,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5379,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4542,
+            "par": 72,
+            "rating": 63,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ec09480-86ac-11e4-8c28-020000005b00/dogwood-lakes-golf-club"
+  }
+}

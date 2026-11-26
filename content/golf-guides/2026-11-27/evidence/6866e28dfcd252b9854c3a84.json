@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d187480-86ac-11e4-8c28-020000005b00/carmichaels-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d187480-86ac-11e4-8c28-020000005b00/carmichaels-golf-club",
+  "checked_at": 1795666529.7765267,
+  "sha256": "ddc2c77a0229dd823ae0619b3bd479c9bbd9ca1ee3da7774e670c81f29cca477",
+  "title": "Carmichaels Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d187480-86ac-11e4-8c28-020000005b00",
+    "name": "Carmichaels Golf Club",
+    "address": "471 Harts Road, Carmichaels, Pennsylvania 15320, Greene County",
+    "courses": [
+      {
+        "name": "Carmichaels",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5375,
+            "par": 70,
+            "rating": 66.2,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5375,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4625,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4625,
+            "par": 70,
+            "rating": 66.5,
+            "slope": 109
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4740,
+            "par": 70,
+            "rating": 63.5,
+            "slope": 107
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4740,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d187480-86ac-11e4-8c28-020000005b00/carmichaels-golf-club"
+  }
+}

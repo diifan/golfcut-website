@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b44ab7d0-86ac-11e4-8c28-020000005b00/wood-river-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b44ab7d0-86ac-11e4-8c28-020000005b00/wood-river-country-club",
+  "checked_at": 1795668312.759121,
+  "sha256": "0a8556fc8cd581f4bcbea2ad656eeb28d036c1529ea2bf83f70c5f829991eda1",
+  "title": "[Closed] Wood River Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b44ab7d0-86ac-11e4-8c28-020000005b00",
+    "name": "[Closed] Wood River Country Club",
+    "address": "11937 W Holling Rd, Holing Rd, Wood River, NE",
+    "courses": [
+      {
+        "name": "Wood River",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5868,
+            "par": 72,
+            "rating": 70,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5314,
+            "par": 72,
+            "rating": 63,
+            "slope": 101
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b44ab7d0-86ac-11e4-8c28-020000005b00/wood-river-country-club"
+  }
+}

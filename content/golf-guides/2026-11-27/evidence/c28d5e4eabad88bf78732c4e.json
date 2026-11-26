@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/d4555da0-4d56-11e7-aa7a-0680a328ea36/northport-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/d4555da0-4d56-11e7-aa7a-0680a328ea36/northport-golf-course",
+  "checked_at": 1795666537.451212,
+  "sha256": "95794839036bc621b7a5377e0444902d6fe6e92e7c4caf12882b1b30cf0be83f",
+  "title": "Northport Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "d4555da0-4d56-11e7-aa7a-0680a328ea36",
+    "name": "Northport Golf Course",
+    "address": "79 Middleville Rd, Northport, NY 11768",
+    "courses": [
+      {
+        "name": "Northport",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Men",
+            "category": "MALE",
+            "yards": 4920,
+            "par": 70,
+            "rating": 69.3,
+            "slope": 103
+          },
+          {
+            "name": "Men",
+            "category": "FEMALE",
+            "yards": 4920,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 4920,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ladies",
+            "category": "FEMALE",
+            "yards": 4920,
+            "par": 70,
+            "rating": 65,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/d4555da0-4d56-11e7-aa7a-0680a328ea36/northport-golf-course"
+  }
+}

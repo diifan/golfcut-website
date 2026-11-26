@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96b10d00-86ac-11e4-8c28-020000005b00/new-prague-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96b10d00-86ac-11e4-8c28-020000005b00/new-prague-golf-club",
+  "checked_at": 1795664701.375869,
+  "sha256": "c62c78921e6ee41637ff3eda9593860b460ba45e6ac1d98048554645b2d2f8e7",
+  "title": "New Prague Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96b10d00-86ac-11e4-8c28-020000005b00",
+    "name": "New Prague Golf Club",
+    "address": "400 Lexington Ave South, New Prague, MN",
+    "courses": [
+      {
+        "name": "New Prague",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6401,
+            "par": 72,
+            "rating": 76.5,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6096,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 134
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5716,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5033,
+            "par": 72,
+            "rating": 69,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96b10d00-86ac-11e4-8c28-020000005b00/new-prague-golf-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4467210-86ac-11e4-8c28-020000005b00/annandale-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4467210-86ac-11e4-8c28-020000005b00/annandale-golf-club",
+  "checked_at": 1795669223.616044,
+  "sha256": "525afc582c2a36104e377bcb395f144b5737cea0562e6405fd36c2acaf0cb15c",
+  "title": "Annandale Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b4467210-86ac-11e4-8c28-020000005b00",
+    "name": "Annandale Golf Club",
+    "address": "100 Annandale Golf Club Drive Madison, MS ",
+    "courses": [
+      {
+        "name": "Annandale",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 7157,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 132
+          },
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6637,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 127
+          },
+          {
+            "name": "Member",
+            "category": "MALE",
+            "yards": 6243,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 122
+          },
+          {
+            "name": "Chairman",
+            "category": "MALE",
+            "yards": 5888,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4467210-86ac-11e4-8c28-020000005b00/annandale-golf-club"
+  }
+}

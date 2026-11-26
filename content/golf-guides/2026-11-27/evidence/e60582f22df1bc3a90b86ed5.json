@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba15b840-86ac-11e4-8c28-020000005b00/the-jack-o-lantern-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba15b840-86ac-11e4-8c28-020000005b00/the-jack-o-lantern-golf-course",
+  "checked_at": 1795663921.5154977,
+  "sha256": "59b7a69bdbbffc2453e71355958ed62dbdc210893e96e6e234fd1527c4c38dd9",
+  "title": "The Jack O'Lantern Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "ba15b840-86ac-11e4-8c28-020000005b00",
+    "name": "The Jack O'Lantern Golf Course",
+    "address": "1668 Daniel Webster Hwy, Woodstock, NH",
+    "courses": [
+      {
+        "name": "The Jack",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6109,
+            "par": 70,
+            "rating": 68.6,
+            "slope": 117
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6109,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 131
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 5072,
+            "par": 70,
+            "rating": 68,
+            "slope": 116
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 5072,
+            "par": 72,
+            "rating": 67,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba15b840-86ac-11e4-8c28-020000005b00/the-jack-o-lantern-golf-course"
+  }
+}

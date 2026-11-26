@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d46fe90-86ac-11e4-8c28-020000005b00/whispering-woods-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d46fe90-86ac-11e4-8c28-020000005b00/whispering-woods-golf-club",
+  "checked_at": 1795668323.8882802,
+  "sha256": "04cca7e32bd3085ad0e6a869948347aba6a8a3afe1c0b208bb0e927e5879a506",
+  "title": "Whispering Woods Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d46fe90-86ac-11e4-8c28-020000005b00",
+    "name": "Whispering Woods Golf Club",
+    "address": "7214 Grubb Road, Erie, PA",
+    "courses": [
+      {
+        "name": "Whispering Woods",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6804,
+            "par": 72,
+            "rating": 74,
+            "slope": 144
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6475,
+            "par": 72,
+            "rating": 72,
+            "slope": 142
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6043,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 138
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5298,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4760,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d46fe90-86ac-11e4-8c28-020000005b00/whispering-woods-golf-club"
+  }
+}

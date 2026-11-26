@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b160b740-86ac-11e4-8c28-020000005b00/royal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b160b740-86ac-11e4-8c28-020000005b00/royal-golf-course",
+  "checked_at": 1795661413.0486,
+  "sha256": "2afd284030bc18762ae1a7b0e413b72d212f5bf4194345bb2c4a7fd9341dcb60",
+  "title": "Royal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b160b740-86ac-11e4-8c28-020000005b00",
+    "name": "Royal Golf Course",
+    "address": "201 Royal Dr, Slidell, LA",
+    "courses": [
+      {
+        "name": "Royal Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6655,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6655,
+            "par": 72,
+            "rating": 77.3,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6245,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6245,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5811,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5811,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4895,
+            "par": 72,
+            "rating": 63.3,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4895,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b160b740-86ac-11e4-8c28-020000005b00/royal-golf-course"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/967fc3d0-86ac-11e4-8c28-020000005b00/valley-high-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/967fc3d0-86ac-11e4-8c28-020000005b00/valley-high-golf-club",
+  "checked_at": 1795666510.520467,
+  "sha256": "8238d926ee01bded84c9e7132cdeac6f9c0d32bb9c8a849a3064c732daf1824b",
+  "title": "Valley High Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "967fc3d0-86ac-11e4-8c28-020000005b00",
+    "name": "Valley High Golf Club",
+    "address": "9203 Mound Prairie Dr., Houston, MN",
+    "courses": [
+      {
+        "name": "Valley High",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6157,
+            "par": 71,
+            "rating": 70,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5916,
+            "par": 71,
+            "rating": 69,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5299,
+            "par": 71,
+            "rating": 66,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4796,
+            "par": 71,
+            "rating": 66.8,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/967fc3d0-86ac-11e4-8c28-020000005b00/valley-high-golf-club"
+  }
+}

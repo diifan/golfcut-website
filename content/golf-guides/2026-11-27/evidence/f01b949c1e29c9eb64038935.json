@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9abfde80-86ac-11e4-8c28-020000005b00/club-at-irish-creek",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9abfde80-86ac-11e4-8c28-020000005b00/club-at-irish-creek",
+  "checked_at": 1795663448.289148,
+  "sha256": "2bd508b149845399dcdad5a071e8a787bd1078c249f59c826082550e9d9c47a9",
+  "title": "Club At Irish Creek - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9abfde80-86ac-11e4-8c28-020000005b00",
+    "name": "Club At Irish Creek",
+    "address": "1196 Fairway Drive, Kannapolis, NC",
+    "courses": [
+      {
+        "name": "Irish Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7099,
+            "par": 71,
+            "rating": 74.3,
+            "slope": 135
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7099,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6489,
+            "par": 71,
+            "rating": 71.3,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6489,
+            "par": 71,
+            "rating": 76.4,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5867,
+            "par": 71,
+            "rating": 68.4,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5867,
+            "par": 71,
+            "rating": 74.9,
+            "slope": 138
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5146,
+            "par": 71,
+            "rating": 65.1,
+            "slope": 111
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5146,
+            "par": 71,
+            "rating": 70.6,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9abfde80-86ac-11e4-8c28-020000005b00/club-at-irish-creek"
+  }
+}

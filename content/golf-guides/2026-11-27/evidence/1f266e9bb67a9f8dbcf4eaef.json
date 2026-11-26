@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1838180-86ac-11e4-8c28-020000005b00/san-juan-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1838180-86ac-11e4-8c28-020000005b00/san-juan-country-club",
+  "checked_at": 1795661639.0661013,
+  "sha256": "88db1cd6adac895533251a0e47d94dbd1826ae16f904bf810bd34d15d5f9af3f",
+  "title": "San Juan Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1838180-86ac-11e4-8c28-020000005b00",
+    "name": "San Juan Country Club",
+    "address": "5775 Country Club Dr, Farmington, NM",
+    "courses": [
+      {
+        "name": "San Juan",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6750,
+            "par": 71,
+            "rating": 73.4,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6303,
+            "par": 71,
+            "rating": 72.3,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5740,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5396,
+            "par": 73,
+            "rating": 70.7,
+            "slope": 130
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4332,
+            "par": 73,
+            "rating": 65.1,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1838180-86ac-11e4-8c28-020000005b00/san-juan-country-club"
+  }
+}

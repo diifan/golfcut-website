@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b74e5ae0-86ac-11e4-8c28-020000005b00/hart-ridge-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b74e5ae0-86ac-11e4-8c28-020000005b00/hart-ridge-golf-course",
+  "checked_at": 1795583817.9972515,
+  "sha256": "29e61b8d8458f95adbae1a4e06e0ee6f543b19afbf9619e353c8103d4dffa4b4",
+  "title": "Hart Ridge Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b74e5ae0-86ac-11e4-8c28-020000005b00",
+    "name": "Hart Ridge Golf Course",
+    "address": "1647 195th St., Manchester, IA",
+    "courses": [
+      {
+        "name": "Hart Ridge",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2747,
+            "par": 35,
+            "rating": 35,
+            "slope": 113
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2747,
+            "par": 35,
+            "rating": 35.6,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2096,
+            "par": 35,
+            "rating": 32,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2096,
+            "par": 35,
+            "rating": 32.1,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b74e5ae0-86ac-11e4-8c28-020000005b00/hart-ridge-golf-course"
+  }
+}

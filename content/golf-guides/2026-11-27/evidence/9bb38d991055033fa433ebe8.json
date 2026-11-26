@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96915000-86ac-11e4-8c28-020000005b00/little-falls-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96915000-86ac-11e4-8c28-020000005b00/little-falls-golf-course",
+  "checked_at": 1795663864.629689,
+  "sha256": "1d4a2bcda0307d2a9249c2d85101f80fe98c618ee328d498b043417efde33425",
+  "title": "Little Falls Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96915000-86ac-11e4-8c28-020000005b00",
+    "name": "Little Falls Golf Course",
+    "address": "1 Edgewater Drive, Little Falls, MN 56345",
+    "courses": [
+      {
+        "name": "Little Falls",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6125,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5238,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5029,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96915000-86ac-11e4-8c28-020000005b00/little-falls-golf-course"
+  }
+}

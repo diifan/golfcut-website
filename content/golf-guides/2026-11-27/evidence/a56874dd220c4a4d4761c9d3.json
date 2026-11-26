@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/830dbcd0-86ac-11e4-8c28-020000005b00/the-meadows-club-of-blue-island",
+  "resolved_url": "https://18birdies.com/golf-courses/club/830dbcd0-86ac-11e4-8c28-020000005b00/the-meadows-club-of-blue-island",
+  "checked_at": 1795663889.670789,
+  "sha256": "cc4aad90104ffcd7324d2e35b9d06bdabc55c2c78702dfa22d379d0608864ea4",
+  "title": "The Meadows Club of Blue Island - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "830dbcd0-86ac-11e4-8c28-020000005b00",
+    "name": "The Meadows Club of Blue Island",
+    "address": "2802 W 123rd St, Blue Island, IL",
+    "courses": [
+      {
+        "name": "Meadows",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6556,
+            "par": 71,
+            "rating": 71.3,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6556,
+            "par": 71,
+            "rating": 76.8,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6287,
+            "par": 71,
+            "rating": 68.7,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6287,
+            "par": 71,
+            "rating": 75.3,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5040,
+            "par": 71,
+            "rating": 67.9,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5040,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/830dbcd0-86ac-11e4-8c28-020000005b00/the-meadows-club-of-blue-island"
+  }
+}

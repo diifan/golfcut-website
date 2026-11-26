@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/aebb60d0-86ac-11e4-8c28-020000005b00/eureka-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/aebb60d0-86ac-11e4-8c28-020000005b00/eureka-municipal-golf-course",
+  "checked_at": 1795666510.611426,
+  "sha256": "c2f660072684cc4c1724a1d3a2efb177e8dbbd5505f2d60bec3e7c6e0078974f",
+  "title": "Eureka Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "aebb60d0-86ac-11e4-8c28-020000005b00",
+    "name": "Eureka Municipal Golf Course",
+    "address": "Fairway Drive, Eureka, SD",
+    "courses": [
+      {
+        "name": "Eureka(9 holes )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5384,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5384,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4554,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4554,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/aebb60d0-86ac-11e4-8c28-020000005b00/eureka-municipal-golf-course"
+  }
+}

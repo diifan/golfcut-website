@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/6eefa570-fef3-11ec-89c0-06780482e2ce/hardwick-crossing-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/6eefa570-fef3-11ec-89c0-06780482e2ce/hardwick-crossing-country-club",
+  "checked_at": 1795661433.036308,
+  "sha256": "9562802ef9d8474903f626bb1c7114c27dc3f3cbe59070adcb3ae2943f14b859",
+  "title": "Hardwick Crossing Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "6eefa570-fef3-11ec-89c0-06780482e2ce",
+    "name": "Hardwick Crossing Country Club",
+    "address": "262 Lower Rd, Gilbertville, MA",
+    "courses": [
+      {
+        "name": "Hardwick Crossing Country Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White to Blue",
+            "category": "MALE",
+            "yards": 5692,
+            "par": 70,
+            "rating": 67.9,
+            "slope": 117
+          },
+          {
+            "name": "White to Blue",
+            "category": "FEMALE",
+            "yards": 5692,
+            "par": 70,
+            "rating": 72.9,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4694,
+            "par": 70,
+            "rating": 62,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4694,
+            "par": 70,
+            "rating": 66.6,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/6eefa570-fef3-11ec-89c0-06780482e2ce/hardwick-crossing-country-club"
+  }
+}

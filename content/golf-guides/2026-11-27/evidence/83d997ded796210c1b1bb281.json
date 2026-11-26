@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/97d47e60-86ac-11e4-8c28-020000005b00/old-orchard-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/97d47e60-86ac-11e4-8c28-020000005b00/old-orchard-country-club",
+  "checked_at": 1795583791.5624883,
+  "sha256": "a60cfdef0de291d9e843ca40a78514926207635cf7dc4dd00bc9e81af2ba614a",
+  "title": "Old Orchard Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "97d47e60-86ac-11e4-8c28-020000005b00",
+    "name": "Old Orchard Country Club",
+    "address": "54 Monmouth Rd, Eatontown, NJ",
+    "courses": [
+      {
+        "name": "Old Orchard",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6679,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6679,
+            "par": 72,
+            "rating": 77.4,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6300,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6300,
+            "par": 72,
+            "rating": 76.6,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5685,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5685,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/97d47e60-86ac-11e4-8c28-020000005b00/old-orchard-country-club"
+  }
+}

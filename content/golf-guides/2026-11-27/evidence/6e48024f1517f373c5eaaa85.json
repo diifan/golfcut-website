@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/896015b0-86ac-11e4-8c28-020000005b00/little-river-inn-golf-tennis",
+  "resolved_url": "https://18birdies.com/golf-courses/club/896015b0-86ac-11e4-8c28-020000005b00/little-river-inn-golf-tennis",
+  "checked_at": 1795583826.6974897,
+  "sha256": "3f1cc988956e90bfadc3df9b1feb6fa1386e67d76b20ab77a7f78f9578180786",
+  "title": "Little River Inn Golf & Tennis - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "896015b0-86ac-11e4-8c28-020000005b00",
+    "name": "Little River Inn Golf & Tennis",
+    "address": "77504 N Hwy 1, Little River, CA",
+    "courses": [
+      {
+        "name": "18 Hole Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5520,
+            "par": 71,
+            "rating": 67.9,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5520,
+            "par": 71,
+            "rating": 71.6,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5154,
+            "par": 71,
+            "rating": 68.4,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5154,
+            "par": 71,
+            "rating": 68.8,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/896015b0-86ac-11e4-8c28-020000005b00/little-river-inn-golf-tennis"
+  }
+}

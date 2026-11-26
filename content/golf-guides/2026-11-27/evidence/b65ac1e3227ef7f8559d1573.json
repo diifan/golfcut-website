@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a555ce0-86ac-11e4-8c28-020000005b00/little-river-golf-resort",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a555ce0-86ac-11e4-8c28-020000005b00/little-river-golf-resort",
+  "checked_at": 1795664697.607788,
+  "sha256": "538547bba1b2bac699c65e72bf883364e07dfebd80c4fa8ddae960c725968748",
+  "title": "Little River Golf & Resort - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9a555ce0-86ac-11e4-8c28-020000005b00",
+    "name": "Little River Golf & Resort",
+    "address": "500 Little River Farm Rd, Carthage, NC",
+    "courses": [
+      {
+        "name": "Little River",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7018,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6430,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5516,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4850,
+            "par": 72,
+            "rating": 63.1,
+            "slope": 107
+          },
+          {
+            "name": "White/Gold",
+            "category": "MALE",
+            "yards": 6026,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a555ce0-86ac-11e4-8c28-020000005b00/little-river-golf-resort"
+  }
+}

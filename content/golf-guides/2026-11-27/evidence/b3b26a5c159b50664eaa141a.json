@@ -1,0 +1,177 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/833b5c80-86ac-11e4-8c28-020000005b00/lacoma-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/833b5c80-86ac-11e4-8c28-020000005b00/lacoma-golf-course",
+  "checked_at": 1795663905.8204205,
+  "sha256": "c0bbbf2ab3c2513c15bbc67afc52739df8c625fa4ec5d6f5f7b218e88176c0d6",
+  "title": "Lacoma Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "833b5c80-86ac-11e4-8c28-020000005b00",
+    "name": "Lacoma Golf Course",
+    "address": "8080 Timmerman, East Dubuque, IL",
+    "courses": [
+      {
+        "name": "Lacoma (Blue)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6814,
+            "par": 71,
+            "rating": 72.9,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6814,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6295,
+            "par": 71,
+            "rating": 70.7,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6295,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5763,
+            "par": 71,
+            "rating": 68.3,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5763,
+            "par": 71,
+            "rating": 73.3,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5166,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5166,
+            "par": 71,
+            "rating": 70,
+            "slope": 115
+          }
+        ]
+      },
+      {
+        "name": "Lacoma (Red/Gold)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5663,
+            "par": 71,
+            "rating": 67.1,
+            "slope": 113
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5663,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5239,
+            "par": 71,
+            "rating": 65.1,
+            "slope": 108
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5239,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4509,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4509,
+            "par": 71,
+            "rating": 65.6,
+            "slope": 107
+          }
+        ]
+      },
+      {
+        "name": "Par 3",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 999,
+            "par": 27,
+            "rating": 26.8,
+            "slope": 87
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 999,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 645,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 645,
+            "par": 27,
+            "rating": 28,
+            "slope": 88
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/833b5c80-86ac-11e4-8c28-020000005b00/lacoma-golf-course"
+  }
+}

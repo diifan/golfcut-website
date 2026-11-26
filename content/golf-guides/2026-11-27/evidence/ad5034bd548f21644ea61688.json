@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ccf3680-86ac-11e4-8c28-020000005b00/wyoming-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ccf3680-86ac-11e4-8c28-020000005b00/wyoming-golf-club",
+  "checked_at": 1795664735.9705505,
+  "sha256": "383427a52c2a3d4b603be036cb7b1f5ce071ca3ca3bdf3b79803137b8a37c254",
+  "title": "Wyoming Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9ccf3680-86ac-11e4-8c28-020000005b00",
+    "name": "Wyoming Golf Club",
+    "address": "81 Mt Pleasant Ave, Cincinnati, OH",
+    "courses": [
+      {
+        "name": "Wyoming(9 holes )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 6188,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 129
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 6188,
+            "par": 74,
+            "rating": 74.8,
+            "slope": 132
+          },
+          {
+            "name": "Yellow/Red",
+            "category": "MALE",
+            "yards": 5350,
+            "par": 72,
+            "rating": 66,
+            "slope": 119
+          },
+          {
+            "name": "Yellow/Red",
+            "category": "FEMALE",
+            "yards": 5350,
+            "par": 74,
+            "rating": 71.6,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ccf3680-86ac-11e4-8c28-020000005b00/wyoming-golf-club"
+  }
+}

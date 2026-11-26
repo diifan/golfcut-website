@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c08b230-86ac-11e4-8c28-020000005b00/hickory-grove-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c08b230-86ac-11e4-8c28-020000005b00/hickory-grove-golf-club",
+  "checked_at": 1795663873.506166,
+  "sha256": "200f11084623e8cd255c4043fa50ebf6c4c1e6ce73526018351f2253c36bc63e",
+  "title": "Hickory Grove Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9c08b230-86ac-11e4-8c28-020000005b00",
+    "name": "Hickory Grove Golf Club",
+    "address": "1490 Fairway Drive, Jefferson, OH",
+    "courses": [
+      {
+        "name": "Hickory Grove",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6500,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6500,
+            "par": 73,
+            "rating": 76.5,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6149,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6149,
+            "par": 73,
+            "rating": 74.6,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5598,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5598,
+            "par": 73,
+            "rating": 71.5,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c08b230-86ac-11e4-8c28-020000005b00/hickory-grove-golf-club"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2775760-86ac-11e4-8c28-020000005b00/bonnie-view-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2775760-86ac-11e4-8c28-020000005b00/bonnie-view-golf-course",
+  "checked_at": 1795664741.6244226,
+  "sha256": "4b3410b0f3a703ecb26ceef8f1cf5e7202d3466cb3d8cebe8bc3e4250c690f91",
+  "title": "Bonnie View Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b2775760-86ac-11e4-8c28-020000005b00",
+    "name": "Bonnie View Golf Course",
+    "address": "194 S. Michigan Road Eaton Rapids, MI 48827",
+    "courses": [
+      {
+        "name": "Bonnie View",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2965,
+            "par": 36,
+            "rating": 33.4,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2965,
+            "par": 36,
+            "rating": 36.7,
+            "slope": 124
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 2677,
+            "par": 36,
+            "rating": 33,
+            "slope": 111
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 2677,
+            "par": 36,
+            "rating": 35.2,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2542,
+            "par": 36,
+            "rating": 34,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2542,
+            "par": 36,
+            "rating": 33.4,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2775760-86ac-11e4-8c28-020000005b00/bonnie-view-golf-course"
+  }
+}

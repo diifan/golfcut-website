@@ -1,0 +1,525 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92f7fca0-86ac-11e4-8c28-020000005b00/hoopers-landing-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92f7fca0-86ac-11e4-8c28-020000005b00/hoopers-landing-golf-course",
+  "checked_at": 1795664712.993077,
+  "sha256": "b68dd2988a0d520213aaa7e053829dbf422f32582d315ab014966d4be43a02bc",
+  "title": "Hooper's Landing Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92f7fca0-86ac-11e4-8c28-020000005b00",
+    "name": "Hooper's Landing Golf Course",
+    "address": "1019 Locust St, Seaford, DE",
+    "courses": [
+      {
+        "name": "Hoopers Landing Regular 18",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6707,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6707,
+            "par": 72,
+            "rating": 77.6,
+            "slope": 138
+          },
+          {
+            "name": "Blue / White",
+            "category": "MALE",
+            "yards": 6425,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 124
+          },
+          {
+            "name": "Blue / White",
+            "category": "FEMALE",
+            "yards": 6425,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6175,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6175,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 132
+          },
+          {
+            "name": "White / Gold",
+            "category": "MALE",
+            "yards": 5909,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 116
+          },
+          {
+            "name": "White / Gold",
+            "category": "FEMALE",
+            "yards": 5909,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5681,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5681,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5379,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5379,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 116
+          }
+        ]
+      },
+      {
+        "name": "Hoopers Landing Walking (15-5)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3398,
+            "par": 36,
+            "rating": 35.8,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3398,
+            "par": 36,
+            "rating": 39,
+            "slope": 132
+          },
+          {
+            "name": "Blue / White",
+            "category": "MALE",
+            "yards": 3263,
+            "par": 36,
+            "rating": 35,
+            "slope": 124
+          },
+          {
+            "name": "Blue / White",
+            "category": "FEMALE",
+            "yards": 3263,
+            "par": 36,
+            "rating": 38.3,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3154,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3154,
+            "par": 36,
+            "rating": 37.7,
+            "slope": 128
+          },
+          {
+            "name": "White / Gold",
+            "category": "MALE",
+            "yards": 3032,
+            "par": 36,
+            "rating": 33.9,
+            "slope": 116
+          },
+          {
+            "name": "White / Gold",
+            "category": "FEMALE",
+            "yards": 3032,
+            "par": 36,
+            "rating": 37.1,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2904,
+            "par": 36,
+            "rating": 33.3,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2904,
+            "par": 36,
+            "rating": 35.9,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2765,
+            "par": 36,
+            "rating": 35.1,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2765,
+            "par": 36,
+            "rating": 35.4,
+            "slope": 116
+          }
+        ]
+      },
+      {
+        "name": "Hoopers Landing Walking (1-18)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3398,
+            "par": 36,
+            "rating": 35.8,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3398,
+            "par": 36,
+            "rating": 39,
+            "slope": 132
+          },
+          {
+            "name": "Blue / White",
+            "category": "MALE",
+            "yards": 3263,
+            "par": 36,
+            "rating": 35,
+            "slope": 124
+          },
+          {
+            "name": "Blue / White",
+            "category": "FEMALE",
+            "yards": 3263,
+            "par": 36,
+            "rating": 38.3,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3154,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3154,
+            "par": 36,
+            "rating": 37.7,
+            "slope": 128
+          },
+          {
+            "name": "White / Gold",
+            "category": "MALE",
+            "yards": 3032,
+            "par": 36,
+            "rating": 33.9,
+            "slope": 116
+          },
+          {
+            "name": "White / Gold",
+            "category": "FEMALE",
+            "yards": 3032,
+            "par": 36,
+            "rating": 37.1,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2904,
+            "par": 36,
+            "rating": 33.3,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2904,
+            "par": 36,
+            "rating": 35.9,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2765,
+            "par": 36,
+            "rating": 35.1,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2765,
+            "par": 36,
+            "rating": 35.4,
+            "slope": 116
+          }
+        ]
+      },
+      {
+        "name": "Hoopers Landing Walking (5-13)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3292,
+            "par": 36,
+            "rating": 35.8,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3292,
+            "par": 36,
+            "rating": 38.5,
+            "slope": 130
+          },
+          {
+            "name": "Blue / White",
+            "category": "MALE",
+            "yards": 3128,
+            "par": 36,
+            "rating": 35,
+            "slope": 124
+          },
+          {
+            "name": "Blue / White",
+            "category": "FEMALE",
+            "yards": 3128,
+            "par": 36,
+            "rating": 37.6,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2987,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2987,
+            "par": 36,
+            "rating": 36.8,
+            "slope": 125
+          },
+          {
+            "name": "White / Gold",
+            "category": "MALE",
+            "yards": 2885,
+            "par": 36,
+            "rating": 33.9,
+            "slope": 116
+          },
+          {
+            "name": "White / Gold",
+            "category": "FEMALE",
+            "yards": 2885,
+            "par": 36,
+            "rating": 36.3,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2717,
+            "par": 36,
+            "rating": 33.3,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2717,
+            "par": 36,
+            "rating": 35.9,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2549,
+            "par": 36,
+            "rating": 34.1,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2549,
+            "par": 36,
+            "rating": 35.4,
+            "slope": 116
+          }
+        ]
+      },
+      {
+        "name": "Hoopers Landing Walking (14-4)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3415,
+            "par": 36,
+            "rating": 35.8,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3415,
+            "par": 36,
+            "rating": 39.1,
+            "slope": 133
+          },
+          {
+            "name": "Blue / White",
+            "category": "MALE",
+            "yards": 3297,
+            "par": 36,
+            "rating": 35,
+            "slope": 124
+          },
+          {
+            "name": "Blue / White",
+            "category": "FEMALE",
+            "yards": 3297,
+            "par": 36,
+            "rating": 38.5,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3188,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3188,
+            "par": 36,
+            "rating": 37.9,
+            "slope": 128
+          },
+          {
+            "name": "White / Gold",
+            "category": "MALE",
+            "yards": 3024,
+            "par": 36,
+            "rating": 33.9,
+            "slope": 116
+          },
+          {
+            "name": "White / Gold",
+            "category": "FEMALE",
+            "yards": 3024,
+            "par": 36,
+            "rating": 37,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2964,
+            "par": 36,
+            "rating": 33.3,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2964,
+            "par": 36,
+            "rating": 35.9,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2830,
+            "par": 36,
+            "rating": 35.4,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2830,
+            "par": 36,
+            "rating": 35.4,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92f7fca0-86ac-11e4-8c28-020000005b00/hoopers-landing-golf-course"
+  }
+}

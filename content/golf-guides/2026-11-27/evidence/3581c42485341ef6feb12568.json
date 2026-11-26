@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/aec7bce0-86ac-11e4-8c28-020000005b00/rapid-city-elks-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/aec7bce0-86ac-11e4-8c28-020000005b00/rapid-city-elks-golf-course",
+  "checked_at": 1795666527.087504,
+  "sha256": "f0596003c31b95bd5742717fe347a6dd79c833ddfca0fb75fe4fdd885c4e63fa",
+  "title": "Rapid City Elks Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "aec7bce0-86ac-11e4-8c28-020000005b00",
+    "name": "Rapid City Elks Golf Course",
+    "address": "3333 E 39th St",
+    "courses": [
+      {
+        "name": "Rapid City Elks",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6170,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 130
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6170,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5954,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5954,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 140
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5237,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5237,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 132
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4930,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4930,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 129
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/aec7bce0-86ac-11e4-8c28-020000005b00/rapid-city-elks-golf-course"
+  }
+}

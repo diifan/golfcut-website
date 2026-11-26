@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/93f40fe0-86ac-11e4-8c28-020000005b00/brasstown-valley-resort",
+  "resolved_url": "https://18birdies.com/golf-courses/club/93f40fe0-86ac-11e4-8c28-020000005b00/brasstown-valley-resort",
+  "checked_at": 1795668291.1871696,
+  "sha256": "671ca334f97a1648ec2a5c3a9b3f979d69d6ca71f5169cc1768619aa0707d317",
+  "title": "Brasstown Valley Resort - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "93f40fe0-86ac-11e4-8c28-020000005b00",
+    "name": "Brasstown Valley Resort",
+    "address": "6321 US-76, Young Harris, GA 30582",
+    "courses": [
+      {
+        "name": "Brasstown Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7047,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 137
+          },
+          {
+            "name": "Teal",
+            "category": "MALE",
+            "yards": 6593,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6011,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 130
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5307,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5028,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/93f40fe0-86ac-11e4-8c28-020000005b00/brasstown-valley-resort"
+  }
+}

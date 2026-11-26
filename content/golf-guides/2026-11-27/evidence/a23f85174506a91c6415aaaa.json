@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b46d0ce0-86ac-11e4-8c28-020000005b00/jackrabbit-run-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b46d0ce0-86ac-11e4-8c28-020000005b00/jackrabbit-run-golf-course",
+  "checked_at": 1795664695.9622245,
+  "sha256": "d1e61a22de02ac53a90dec2a8caec305e2f3e36efa4c1eeaaa5295504b8dffe5",
+  "title": "Jackrabbit Run Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b46d0ce0-86ac-11e4-8c28-020000005b00",
+    "name": "Jackrabbit Run Golf Course",
+    "address": "2800 N Shady Bend Rd, Grand Island, NE",
+    "courses": [
+      {
+        "name": "Jackrabbit Run",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6746,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 110
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6417,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 108
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6169,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5470,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b46d0ce0-86ac-11e4-8c28-020000005b00/jackrabbit-run-golf-course"
+  }
+}

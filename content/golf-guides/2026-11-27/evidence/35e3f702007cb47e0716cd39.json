@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad67dec0-86ac-11e4-8c28-020000005b00/pocono-manor-inn",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad67dec0-86ac-11e4-8c28-020000005b00/pocono-manor-inn",
+  "checked_at": 1795663875.9224107,
+  "sha256": "f3276083d77df5ef5acad2f49e616728f0703b960d8b79fb42fd5c2d14287de8",
+  "title": "Pocono Manor Inn - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ad67dec0-86ac-11e4-8c28-020000005b00",
+    "name": "Pocono Manor Inn",
+    "address": "Route 314 Manor Road, Pocono Manor, PA",
+    "courses": [
+      {
+        "name": "Pocono Manor Inn (East)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6565,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 115
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6565,
+            "par": 74,
+            "rating": 76.8,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6304,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6304,
+            "par": 74,
+            "rating": 75.4,
+            "slope": 133
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5932,
+            "par": 72,
+            "rating": 63.1,
+            "slope": 105
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5932,
+            "par": 74,
+            "rating": 73.4,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5835,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5835,
+            "par": 74,
+            "rating": 66.7,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad67dec0-86ac-11e4-8c28-020000005b00/pocono-manor-inn"
+  }
+}

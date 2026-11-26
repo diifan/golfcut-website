@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8dd37560-86ac-11e4-8c28-020000005b00/arizona-city-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8dd37560-86ac-11e4-8c28-020000005b00/arizona-city-golf-course",
+  "checked_at": 1795668359.2497058,
+  "sha256": "a9a17e67386f2aa1fb2a6f70869dd7ce76cc4fbaaab356330408dcbc0f4c447d",
+  "title": "Arizona City Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8dd37560-86ac-11e4-8c28-020000005b00",
+    "name": "Arizona City Golf Course",
+    "address": "13939 E Cleator Rd, Arizona City, AZ",
+    "courses": [
+      {
+        "name": "Arizona",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Prickly Pear",
+            "category": "MALE",
+            "yards": 6742,
+            "par": 72,
+            "rating": 72,
+            "slope": 116
+          },
+          {
+            "name": "Prickly Pear",
+            "category": "FEMALE",
+            "yards": 6742,
+            "par": 72,
+            "rating": 77.8,
+            "slope": 138
+          },
+          {
+            "name": "Barrel Cactus",
+            "category": "MALE",
+            "yards": 6413,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 114
+          },
+          {
+            "name": "Barrel Cactus",
+            "category": "FEMALE",
+            "yards": 6413,
+            "par": 72,
+            "rating": 76,
+            "slope": 134
+          },
+          {
+            "name": "Saguaro",
+            "category": "MALE",
+            "yards": 5935,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 111
+          },
+          {
+            "name": "Saguaro",
+            "category": "FEMALE",
+            "yards": 5935,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 120
+          },
+          {
+            "name": "Palm Tree",
+            "category": "MALE",
+            "yards": 5126,
+            "par": 72,
+            "rating": 63.9,
+            "slope": 100
+          },
+          {
+            "name": "Palm Tree",
+            "category": "FEMALE",
+            "yards": 5126,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8dd37560-86ac-11e4-8c28-020000005b00/arizona-city-golf-course"
+  }
+}

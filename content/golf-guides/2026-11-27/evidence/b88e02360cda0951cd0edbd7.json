@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/d7f45e00-2f54-11f0-ad6c-06780482e2ce/mankato-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/d7f45e00-2f54-11f0-ad6c-06780482e2ce/mankato-country-club",
+  "checked_at": 1795666550.022609,
+  "sha256": "399111309bd70ce88346790823668d153996077b41a5af37c921e16098507fd9",
+  "title": "Mankato Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "d7f45e00-2f54-11f0-ad6c-06780482e2ce",
+    "name": "Mankato Country Club",
+    "address": "1644 150 rd Mankato, KS",
+    "courses": [
+      {
+        "name": "Mankato Country Club",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2605,
+            "par": 34,
+            "rating": 34.3,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2605,
+            "par": 37,
+            "rating": 34.8,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2283,
+            "par": 34,
+            "rating": 32.9,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2283,
+            "par": 37,
+            "rating": 33.1,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/d7f45e00-2f54-11f0-ad6c-06780482e2ce/mankato-country-club"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ab126c0-86ac-11e4-8c28-020000005b00/california-oaks-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ab126c0-86ac-11e4-8c28-020000005b00/california-oaks-golf-course",
+  "checked_at": 1795663893.2898893,
+  "sha256": "2c95dcc9ce3a2389d0a706ddcef83b8a4ffefefb11b1d047d5648f8fed0307c6",
+  "title": "California Oaks Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8ab126c0-86ac-11e4-8c28-020000005b00",
+    "name": "California Oaks Golf Course",
+    "address": "40603 Colony Drive, Murrieta, CA",
+    "courses": [
+      {
+        "name": "California Oaks",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5215,
+            "par": 70,
+            "rating": 66.1,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5215,
+            "par": 68,
+            "rating": 70.2,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4816,
+            "par": 70,
+            "rating": 64.3,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4816,
+            "par": 68,
+            "rating": 68.1,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4265,
+            "par": 70,
+            "rating": 61.3,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4265,
+            "par": 68,
+            "rating": 65.3,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ab126c0-86ac-11e4-8c28-020000005b00/california-oaks-golf-course"
+  }
+}

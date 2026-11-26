@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afdbc4f0-86ac-11e4-8c28-020000005b00/front-royal-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afdbc4f0-86ac-11e4-8c28-020000005b00/front-royal-golf-club",
+  "checked_at": 1795661447.9910986,
+  "sha256": "c5269cb66dd09ce76ba7eb0f6bf5d9deb67638d07ffcb297a9066b43b4bfaf65",
+  "title": "Front Royal Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "afdbc4f0-86ac-11e4-8c28-020000005b00",
+    "name": "Front Royal Golf Club",
+    "address": "902 Country Club Rd, Front Royal, VA",
+    "courses": [
+      {
+        "name": "Front Royal (18 holes) ",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 6048,
+            "par": 71,
+            "rating": 75.2,
+            "slope": 135
+          },
+          {
+            "name": "Gray/Black",
+            "category": "FEMALE",
+            "yards": 4801,
+            "par": 71,
+            "rating": 63.6,
+            "slope": 105
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "FEMALE",
+            "yards": 4684,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 120
+          },
+          {
+            "name": "Red/Yellow (FlingGolf)",
+            "category": "FEMALE",
+            "yards": 4684,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afdbc4f0-86ac-11e4-8c28-020000005b00/front-royal-golf-club"
+  }
+}

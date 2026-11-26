@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9218e740-86ac-11e4-8c28-020000005b00/ranch-at-roaring-fork",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9218e740-86ac-11e4-8c28-020000005b00/ranch-at-roaring-fork",
+  "checked_at": 1795583827.8178763,
+  "sha256": "e7bbb12ac5976e95d9596a23e12ebf80893bb068f11f8190d52a65ae599f89f2",
+  "title": "Ranch at Roaring Fork - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9218e740-86ac-11e4-8c28-020000005b00",
+    "name": "Ranch at Roaring Fork",
+    "address": "14913 Highway 82 Ofc",
+    "courses": [
+      {
+        "name": "Ranch at Roaring Fork",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2156,
+            "par": 54,
+            "rating": 52.50884,
+            "slope": 79.37984
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1960,
+            "par": 54,
+            "rating": 51.6974,
+            "slope": 78.4214
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9218e740-86ac-11e4-8c28-020000005b00/ranch-at-roaring-fork"
+  }
+}

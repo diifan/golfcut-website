@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9cc7a40-86ac-11e4-8c28-020000005b00/exeter-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9cc7a40-86ac-11e4-8c28-020000005b00/exeter-country-club",
+  "checked_at": 1795663457.9596283,
+  "sha256": "7307c431d80769dba67ec56a4f384fbd3cb327ca526835764a094cdc52d94f0b",
+  "title": "Exeter Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b9cc7a40-86ac-11e4-8c28-020000005b00",
+    "name": "Exeter Country Club",
+    "address": "Jady Hill Ave, Exeter, NH",
+    "courses": [
+      {
+        "name": "Exeter Country Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 5522,
+            "par": 70,
+            "rating": 67.9,
+            "slope": 113
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 5522,
+            "par": 74,
+            "rating": 72.2,
+            "slope": 125
+          },
+          {
+            "name": "Red/Gold",
+            "category": "MALE",
+            "yards": 5157,
+            "par": 70,
+            "rating": 65.4,
+            "slope": 112
+          },
+          {
+            "name": "Red/Gold",
+            "category": "FEMALE",
+            "yards": 5157,
+            "par": 74,
+            "rating": 68.6,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9cc7a40-86ac-11e4-8c28-020000005b00/exeter-country-club"
+  }
+}

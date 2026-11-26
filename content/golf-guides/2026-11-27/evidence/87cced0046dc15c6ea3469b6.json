@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae506a00-86ac-11e4-8c28-020000005b00/the-aero-club-short-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae506a00-86ac-11e4-8c28-020000005b00/the-aero-club-short-course",
+  "checked_at": 1795669253.9819293,
+  "sha256": "388804d4fa281d794bafb3704608f889961b47cc2498817f674b2ccc1671186c",
+  "title": "The Aero Club Short Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae506a00-86ac-11e4-8c28-020000005b00",
+    "name": "The Aero Club Short Course",
+    "address": "3301 S Kings Hwy, Myrtle Beach, South Carolina",
+    "courses": [
+      {
+        "name": "The Aero Club Short course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1348,
+            "par": 54,
+            "rating": 52.3,
+            "slope": 87
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1348,
+            "par": 54,
+            "rating": 54,
+            "slope": 89
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae506a00-86ac-11e4-8c28-020000005b00/the-aero-club-short-course"
+  }
+}

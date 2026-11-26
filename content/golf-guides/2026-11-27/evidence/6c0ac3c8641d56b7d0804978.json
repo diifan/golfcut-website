@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8cd73b10-86ac-11e4-8c28-020000005b00/harrison-hills",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8cd73b10-86ac-11e4-8c28-020000005b00/harrison-hills",
+  "checked_at": 1795664700.0924916,
+  "sha256": "a9f98e1d262583ea41d0855bb094f96f251fca97567c6de62eaa61747bf2d1c9",
+  "title": "Harrison Hills - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8cd73b10-86ac-11e4-8c28-020000005b00",
+    "name": "Harrison Hills",
+    "address": "413 E New St.",
+    "courses": [
+      {
+        "name": "Harrison Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6820,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 131
+          },
+          {
+            "name": "Brown",
+            "category": "MALE",
+            "yards": 6398,
+            "par": 72,
+            "rating": 71,
+            "slope": 130
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6106,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5223,
+            "par": 72,
+            "rating": 65.6,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8cd73b10-86ac-11e4-8c28-020000005b00/harrison-hills"
+  }
+}

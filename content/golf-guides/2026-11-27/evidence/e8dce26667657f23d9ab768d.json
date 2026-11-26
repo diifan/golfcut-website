@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b516ba60-86ac-11e4-8c28-020000005b00/the-preserve-at-silver-spring",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b516ba60-86ac-11e4-8c28-020000005b00/the-preserve-at-silver-spring",
+  "checked_at": 1795664744.8379924,
+  "sha256": "e2a92ba0dc620ead835145150b5c11c098600c8346525b89f0f993dd3616fe09",
+  "title": "The Preserve at Silver Spring - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b516ba60-86ac-11e4-8c28-020000005b00",
+    "name": "The Preserve at Silver Spring",
+    "address": "N56 W21318 Silver Spring Dr, Menomonee Falls, WI",
+    "courses": [
+      {
+        "name": "The Island Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6912,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 128
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6912,
+            "par": 72,
+            "rating": 78.7,
+            "slope": 140
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 6481,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 126
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 6481,
+            "par": 72,
+            "rating": 77.3,
+            "slope": 134
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6481,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6481,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b516ba60-86ac-11e4-8c28-020000005b00/the-preserve-at-silver-spring"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ba646e0-86ac-11e4-8c28-020000005b00/st-denis-golf-club-and-party-center",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ba646e0-86ac-11e4-8c28-020000005b00/st-denis-golf-club-and-party-center",
+  "checked_at": 1795664706.3857276,
+  "sha256": "d1544c7dcf44d46bf8ee1af79a8d4fe55acfee7446d685ecfdfc099a4329757c",
+  "title": "St Denis Golf Club and Party Center - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9ba646e0-86ac-11e4-8c28-020000005b00",
+    "name": "St Denis Golf Club and Party Center",
+    "address": "10660 Chardon Rd",
+    "courses": [
+      {
+        "name": "St. Denis",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6640,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6375,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5800,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ba646e0-86ac-11e4-8c28-020000005b00/st-denis-golf-club-and-party-center"
+  }
+}

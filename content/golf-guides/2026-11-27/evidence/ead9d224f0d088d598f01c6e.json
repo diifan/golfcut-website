@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad7413c0-86ac-11e4-8c28-020000005b00/iron-masters-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad7413c0-86ac-11e4-8c28-020000005b00/iron-masters-country-club",
+  "checked_at": 1795664745.4290545,
+  "sha256": "077bf0a2b5435a13d7479e95dc6cd454456c683bc608d121fd1ccf6470d69bea",
+  "title": "Iron Masters Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ad7413c0-86ac-11e4-8c28-020000005b00",
+    "name": "Iron Masters Country Club",
+    "address": "Country Club Rd",
+    "courses": [
+      {
+        "name": "Iron Masters",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6527,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6093,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5672,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5586,
+            "par": 72,
+            "rating": 68,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad7413c0-86ac-11e4-8c28-020000005b00/iron-masters-country-club"
+  }
+}

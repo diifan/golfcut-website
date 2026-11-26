@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b649bc20-86ac-11e4-8c28-020000005b00/hidden-trails-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b649bc20-86ac-11e4-8c28-020000005b00/hidden-trails-country-club",
+  "checked_at": 1795664706.6538537,
+  "sha256": "2570806392a507c48f15b636b5cbd1c647dcdb63b87a1508f692db34fab3bd56",
+  "title": "Hidden Trails Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b649bc20-86ac-11e4-8c28-020000005b00",
+    "name": "Hidden Trails Country Club",
+    "address": "6501 S Country Club Dr",
+    "courses": [
+      {
+        "name": "Hidden Trails",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6450,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6048,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5286,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b649bc20-86ac-11e4-8c28-020000005b00/hidden-trails-country-club"
+  }
+}

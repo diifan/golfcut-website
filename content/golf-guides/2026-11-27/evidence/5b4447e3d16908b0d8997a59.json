@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95953cc0-86ac-11e4-8c28-020000005b00/pine-ridge-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95953cc0-86ac-11e4-8c28-020000005b00/pine-ridge-country-club",
+  "checked_at": 1795669222.2378838,
+  "sha256": "6daad18899589dc1a4e3d62626faedeb3c4c9e3ee2c5825de4786505eb45e2cd",
+  "title": "Pine Ridge Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "95953cc0-86ac-11e4-8c28-020000005b00",
+    "name": "Pine Ridge Country Club",
+    "address": "28 Pleasant Street, North Oxford, MA",
+    "courses": [
+      {
+        "name": "Pine Ridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6036,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6036,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5595,
+            "par": 71,
+            "rating": 67.9,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5595,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4399,
+            "par": 71,
+            "rating": 66.1,
+            "slope": 113
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 4399,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4216,
+            "par": 71,
+            "rating": 62.4,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4216,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95953cc0-86ac-11e4-8c28-020000005b00/pine-ridge-country-club"
+  }
+}

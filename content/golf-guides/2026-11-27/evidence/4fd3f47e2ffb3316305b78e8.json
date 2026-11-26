@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92b5c380-86ac-11e4-8c28-020000005b00/milbrook-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92b5c380-86ac-11e4-8c28-020000005b00/milbrook-club",
+  "checked_at": 1795664742.8310819,
+  "sha256": "8d5d0d9dd8901a8f086814bfeb79826247a4252f82c7de5d23283c71482f079d",
+  "title": "Milbrook Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92b5c380-86ac-11e4-8c28-020000005b00",
+    "name": "Milbrook Club",
+    "address": "61 Woodside Drive, Greenwich, CT",
+    "courses": [
+      {
+        "name": "Milbrook",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 6305,
+            "par": 70,
+            "rating": 70.8,
+            "slope": 129
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 6305,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black/Silver",
+            "category": "MALE",
+            "yards": 5787,
+            "par": 70,
+            "rating": 68.4,
+            "slope": 126
+          },
+          {
+            "name": "Black/Silver",
+            "category": "FEMALE",
+            "yards": 5787,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow/Red",
+            "category": "MALE",
+            "yards": 5610,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow/Red",
+            "category": "FEMALE",
+            "yards": 5610,
+            "par": 72,
+            "rating": 73,
+            "slope": 129
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5134,
+            "par": 70,
+            "rating": 65.4,
+            "slope": 123
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5134,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92b5c380-86ac-11e4-8c28-020000005b00/milbrook-club"
+  }
+}

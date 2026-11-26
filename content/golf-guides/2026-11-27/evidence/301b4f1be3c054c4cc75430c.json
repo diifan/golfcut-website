@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b0c50d0-86ac-11e4-8c28-020000005b00/country-club-of-johnston-county",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b0c50d0-86ac-11e4-8c28-020000005b00/country-club-of-johnston-county",
+  "checked_at": 1795668319.1682336,
+  "sha256": "0f7995914e3153c833b08be59997399f2b12a98e34e46ba8930d41933417b827",
+  "title": "Country Club of Johnston County - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9b0c50d0-86ac-11e4-8c28-020000005b00",
+    "name": "Country Club of Johnston County",
+    "address": "694 Country Club Road, Smithfield, NC",
+    "courses": [
+      {
+        "name": "Johnston County",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6573,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6115,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5433,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5061,
+            "par": 72,
+            "rating": 68,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b0c50d0-86ac-11e4-8c28-020000005b00/country-club-of-johnston-county"
+  }
+}

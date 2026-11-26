@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83509230-86ac-11e4-8c28-020000005b00/flossmoor",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83509230-86ac-11e4-8c28-020000005b00/flossmoor",
+  "checked_at": 1795666548.6774259,
+  "sha256": "f94e88f5165455e47703739698f3ae0758c2d8956c90576ac0448328e97325e9",
+  "title": "Flossmoor - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "83509230-86ac-11e4-8c28-020000005b00",
+    "name": "Flossmoor",
+    "address": "193 Western Ave, Flossmoor, IL",
+    "courses": [
+      {
+        "name": "Flossmoor",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6764,
+            "par": 72,
+            "rating": 74,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6764,
+            "par": 74,
+            "rating": 77.9,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6437,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6437,
+            "par": 74,
+            "rating": 76.1,
+            "slope": 135
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7136,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 144
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7136,
+            "par": 74,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5503,
+            "par": 72,
+            "rating": 70,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5503,
+            "par": 74,
+            "rating": 73,
+            "slope": 133
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83509230-86ac-11e4-8c28-020000005b00/flossmoor"
+  }
+}

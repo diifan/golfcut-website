@@ -1,0 +1,243 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c881b60-86ac-11e4-8c28-020000005b00/shelby-oaks-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c881b60-86ac-11e4-8c28-020000005b00/shelby-oaks-golf-club",
+  "checked_at": 1795663874.3714485,
+  "sha256": "87bf265ff3db17d31605414f8f03cc1e62a2dbf44b0085287d2a67aec50525dd",
+  "title": "Shelby Oaks Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9c881b60-86ac-11e4-8c28-020000005b00",
+    "name": "Shelby Oaks Golf Club",
+    "address": "9900 Sidney Fryeburg Rd",
+    "courses": [
+      {
+        "name": "North & West",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6675,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6281,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 117
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5722,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5203,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 117
+          }
+        ]
+      },
+      {
+        "name": "North & South",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6561,
+            "par": 72,
+            "rating": 71,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6259,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 119
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5743,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5536,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 120
+          }
+        ]
+      },
+      {
+        "name": "West & South",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6676,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6218,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 120
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5703,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5203,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 117
+          }
+        ]
+      },
+      {
+        "name": "North",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3280,
+            "par": 36,
+            "rating": 35.5,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3161,
+            "par": 36,
+            "rating": 35.1,
+            "slope": 116
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 2881,
+            "par": 36,
+            "rating": 32.8,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2768,
+            "par": 36,
+            "rating": 35.1,
+            "slope": 114
+          }
+        ]
+      },
+      {
+        "name": "South",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3281,
+            "par": 36,
+            "rating": 35.5,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3098,
+            "par": 36,
+            "rating": 34.7,
+            "slope": 122
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 2862,
+            "par": 36,
+            "rating": 33.7,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2768,
+            "par": 36,
+            "rating": 35.1,
+            "slope": 114
+          }
+        ]
+      },
+      {
+        "name": "West",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3395,
+            "par": 36,
+            "rating": 35.9,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3120,
+            "par": 36,
+            "rating": 35,
+            "slope": 118
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 2841,
+            "par": 36,
+            "rating": 32.5,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2435,
+            "par": 36,
+            "rating": 33.6,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c881b60-86ac-11e4-8c28-020000005b00/shelby-oaks-golf-club"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3a2df10-86ac-11e4-8c28-020000005b00/morrison-lake-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3a2df10-86ac-11e4-8c28-020000005b00/morrison-lake-golf-club",
+  "checked_at": 1795668315.376402,
+  "sha256": "74e6c4dc250542a6002a1eeec7b4b37d637d49d7c1f483a668218a163c669554",
+  "title": "Morrison Lake Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b3a2df10-86ac-11e4-8c28-020000005b00",
+    "name": "Morrison Lake Golf Club",
+    "address": "6425 Portland Road, Saranac, MI",
+    "courses": [
+      {
+        "name": "Morrison Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5698,
+            "par": 70,
+            "rating": 67.3,
+            "slope": 115
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5698,
+            "par": 70,
+            "rating": 71.7,
+            "slope": 125
+          },
+          {
+            "name": "White ",
+            "category": "MALE",
+            "yards": 5333,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White ",
+            "category": "FEMALE",
+            "yards": 5333,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red ",
+            "category": "MALE",
+            "yards": 4421,
+            "par": 70,
+            "rating": 67.2,
+            "slope": 115
+          },
+          {
+            "name": "Red ",
+            "category": "FEMALE",
+            "yards": 4421,
+            "par": 70,
+            "rating": 68.3,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4013,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4013,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3a2df10-86ac-11e4-8c28-020000005b00/morrison-lake-golf-club"
+  }
+}

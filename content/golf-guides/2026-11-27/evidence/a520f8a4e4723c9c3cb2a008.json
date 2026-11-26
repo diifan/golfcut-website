@@ -1,0 +1,59 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b7ec1b0-86ac-11e4-8c28-020000005b00/maple-ridge-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b7ec1b0-86ac-11e4-8c28-020000005b00/maple-ridge-golf-course",
+  "checked_at": 1795668313.127442,
+  "sha256": "3ec9809f6481cb96527bfd43b874b94ce5e9682b36db1354eae3299286bf89b9",
+  "title": "Maple Ridge Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9b7ec1b0-86ac-11e4-8c28-020000005b00",
+    "name": "Maple Ridge Golf Course",
+    "address": "8921 Center Road, Austinburg, OH",
+    "courses": [
+      {
+        "name": "Maple Ridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6001,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5420,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 119
+          }
+        ]
+      },
+      {
+        "name": "Spring Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6001,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5420,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b7ec1b0-86ac-11e4-8c28-020000005b00/maple-ridge-golf-course"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/832b7e00-86ac-11e4-8c28-020000005b00/river-lakes-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/832b7e00-86ac-11e4-8c28-020000005b00/river-lakes-golf-course",
+  "checked_at": 1795668345.760193,
+  "sha256": "a3c878aa04b44e8fa128321a2d91e68bba96a5d3c8d0550d3f9eec870d0ddac2",
+  "title": "River Lakes Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "832b7e00-86ac-11e4-8c28-020000005b00",
+    "name": "River Lakes Golf Course",
+    "address": "2218 Ramsey Rd, Columbia, IL",
+    "courses": [
+      {
+        "name": "River Lakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5710,
+            "par": 70,
+            "rating": 67.2,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5710,
+            "par": 70,
+            "rating": 72.3,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4675,
+            "par": 70,
+            "rating": 66.2,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4675,
+            "par": 70,
+            "rating": 64.9,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/832b7e00-86ac-11e4-8c28-020000005b00/river-lakes-golf-course"
+  }
+}

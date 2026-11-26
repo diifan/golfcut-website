@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/97e2fd50-86ac-11e4-8c28-020000005b00/panther-valley-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/97e2fd50-86ac-11e4-8c28-020000005b00/panther-valley-golf-country-club",
+  "checked_at": 1795669241.408297,
+  "sha256": "64c65618e2b3cc863577fc3facc27e9e28cdfe23d9a973052e23e54df62ab47d",
+  "title": "Panther Valley Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "97e2fd50-86ac-11e4-8c28-020000005b00",
+    "name": "Panther Valley Golf & Country Club",
+    "address": "1 Forest Dr Allamuchy Township, NJ 07820",
+    "courses": [
+      {
+        "name": "Panther Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6827,
+            "par": 71,
+            "rating": 73.5,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6365,
+            "par": 71,
+            "rating": 71.3,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6024,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5469,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 120
+          },
+          {
+            "name": "Composite",
+            "category": "MALE",
+            "yards": 6365,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 130
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/97e2fd50-86ac-11e4-8c28-020000005b00/panther-valley-golf-country-club"
+  }
+}

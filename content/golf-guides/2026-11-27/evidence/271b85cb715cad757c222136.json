@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2b23d80-86ac-11e4-8c28-020000005b00/idyl-wyld-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2b23d80-86ac-11e4-8c28-020000005b00/idyl-wyld-golf-course",
+  "checked_at": 1795661628.5725186,
+  "sha256": "6cc091130fe1fa880210c756ba44444c63371e070784ed2d972bae3888f948e7",
+  "title": "Idyl Wyld Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b2b23d80-86ac-11e4-8c28-020000005b00",
+    "name": "Idyl Wyld Golf Course",
+    "address": "35786 5 Mile Rd, Livonia, MI",
+    "courses": [
+      {
+        "name": "Idyl wyld",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5872,
+            "par": 70,
+            "rating": 68,
+            "slope": 126
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5872,
+            "par": 70,
+            "rating": 73.1,
+            "slope": 128
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 4665,
+            "par": 70,
+            "rating": 62.5,
+            "slope": 102
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 4665,
+            "par": 70,
+            "rating": 65.6,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2b23d80-86ac-11e4-8c28-020000005b00/idyl-wyld-golf-course"
+  }
+}

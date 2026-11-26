@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96c83e80-86ac-11e4-8c28-020000005b00/princeton-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96c83e80-86ac-11e4-8c28-020000005b00/princeton-golf-course",
+  "checked_at": 1795668356.193915,
+  "sha256": "4bbde5617cbae248056efabc2350161f740402c55fd71d43cb98919fe203ef43",
+  "title": "Princeton Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "96c83e80-86ac-11e4-8c28-020000005b00",
+    "name": "Princeton Golf Course",
+    "address": "Golf Course Rd",
+    "courses": [
+      {
+        "name": "Princeton",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6381,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6381,
+            "par": 71,
+            "rating": 77.4,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6150,
+            "par": 71,
+            "rating": 70.1,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6150,
+            "par": 71,
+            "rating": 76.2,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5770,
+            "par": 71,
+            "rating": 68.4,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5770,
+            "par": 71,
+            "rating": 74,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4967,
+            "par": 71,
+            "rating": 64.5,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4967,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96c83e80-86ac-11e4-8c28-020000005b00/princeton-golf-course"
+  }
+}

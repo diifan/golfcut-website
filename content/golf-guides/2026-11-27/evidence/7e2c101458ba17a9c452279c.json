@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af254630-86ac-11e4-8c28-020000005b00/overton-park-9",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af254630-86ac-11e4-8c28-020000005b00/overton-park-9",
+  "checked_at": 1795663919.3815882,
+  "sha256": "47ab003fcf4f0777a22c84420a11bc356e54106f65cf78e3f2ffe86938755ec6",
+  "title": "Overton Park 9 - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af254630-86ac-11e4-8c28-020000005b00",
+    "name": "Overton Park 9",
+    "address": "2080 Poplar Ave, Memphis, TN",
+    "courses": [
+      {
+        "name": "Overton Park",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Sky",
+            "category": "MALE",
+            "yards": 2125,
+            "par": 34,
+            "rating": 30.3,
+            "slope": 90
+          },
+          {
+            "name": "Sky",
+            "category": "FEMALE",
+            "yards": 2125,
+            "par": 33,
+            "rating": 32.1,
+            "slope": 98
+          },
+          {
+            "name": "Forest",
+            "category": "MALE",
+            "yards": 1940,
+            "par": 34,
+            "rating": 29.5,
+            "slope": 87
+          },
+          {
+            "name": "Forest",
+            "category": "FEMALE",
+            "yards": 1940,
+            "par": 33,
+            "rating": 31,
+            "slope": 94
+          },
+          {
+            "name": "Wildflower",
+            "category": "MALE",
+            "yards": 1755,
+            "par": 34,
+            "rating": 28.8,
+            "slope": 86
+          },
+          {
+            "name": "Wildflower",
+            "category": "FEMALE",
+            "yards": 1755,
+            "par": 33,
+            "rating": 29.9,
+            "slope": 88
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af254630-86ac-11e4-8c28-020000005b00/overton-park-9"
+  }
+}

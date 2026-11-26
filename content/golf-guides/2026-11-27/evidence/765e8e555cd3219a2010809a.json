@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5fe8250-86ac-11e4-8c28-020000005b00/irish-waters",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5fe8250-86ac-11e4-8c28-020000005b00/irish-waters",
+  "checked_at": 1795664720.0812726,
+  "sha256": "27e0f3d57fb4b7b8ddee0ae39886d2145f4e4864f8b8338808663741000257b4",
+  "title": "Irish Waters - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b5fe8250-86ac-11e4-8c28-020000005b00",
+    "name": "Irish Waters",
+    "address": "N4265 Murphy Rd, Kaukauna, WI",
+    "courses": [
+      {
+        "name": "Irish Waters",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6053,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6053,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5792,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5792,
+            "par": 71,
+            "rating": 73.3,
+            "slope": 126
+          },
+          {
+            "name": "White Short",
+            "category": "MALE",
+            "yards": 5772,
+            "par": 71,
+            "rating": 65.9,
+            "slope": 111
+          },
+          {
+            "name": "White Short",
+            "category": "FEMALE",
+            "yards": 5772,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5142,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5142,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5fe8250-86ac-11e4-8c28-020000005b00/irish-waters"
+  }
+}

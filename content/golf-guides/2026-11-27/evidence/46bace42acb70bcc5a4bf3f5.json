@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/97538e90-86ac-11e4-8c28-020000005b00/rivers-bend-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/97538e90-86ac-11e4-8c28-020000005b00/rivers-bend-golf-course",
+  "checked_at": 1795666495.8264177,
+  "sha256": "c6663f5eaf4cecb02067f113493ba3d74b73fe818e929fe5cd3b5b9874e19e23",
+  "title": "River's Bend Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "97538e90-86ac-11e4-8c28-020000005b00",
+    "name": "River's Bend Golf Course",
+    "address": "46 Golf Course Rd",
+    "courses": [
+      {
+        "name": "Thompson Falls (River's Bend)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5974,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5974,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5418,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5418,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/97538e90-86ac-11e4-8c28-020000005b00/rivers-bend-golf-course"
+  }
+}

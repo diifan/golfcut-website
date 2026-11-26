@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/1049fbe0-4e6a-11f1-9a9e-06780482e2ce/brambles",
+  "resolved_url": "https://18birdies.com/golf-courses/club/1049fbe0-4e6a-11f1-9a9e-06780482e2ce/brambles",
+  "checked_at": 1795663885.528411,
+  "sha256": "acd96004470c76acfd549c1566ea6a902ffb11dc0bb92375788d3df01520651c",
+  "title": "Brambles - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "1049fbe0-4e6a-11f1-9a9e-06780482e2ce",
+    "name": "Brambles",
+    "address": "18900 Grange Rd",
+    "courses": [
+      {
+        "name": "Brambles course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 7190,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 141
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 7190,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6579,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 132
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6579,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 5318,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 5318,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/1049fbe0-4e6a-11f1-9a9e-06780482e2ce/brambles"
+  }
+}

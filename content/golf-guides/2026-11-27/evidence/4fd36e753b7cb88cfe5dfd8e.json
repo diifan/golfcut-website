@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8fa8f8b0-86ac-11e4-8c28-020000005b00/jupiter-dunes-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8fa8f8b0-86ac-11e4-8c28-020000005b00/jupiter-dunes-golf-course",
+  "checked_at": 1795668340.3754776,
+  "sha256": "9b07a5e565f817f33c6da89e45302f5d48836875fe4216dfc33bb99874f72620",
+  "title": "Jupiter Dunes Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8fa8f8b0-86ac-11e4-8c28-020000005b00",
+    "name": "Jupiter Dunes Golf Course",
+    "address": "401 N Highway A1a, Jupiter, FL",
+    "courses": [
+      {
+        "name": "Jupiter Dunes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1952,
+            "par": 54,
+            "rating": 51.66428,
+            "slope": 78.38228
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1952,
+            "par": 54,
+            "rating": 51.66428,
+            "slope": 78.38228
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1568,
+            "par": 54,
+            "rating": 50.07452,
+            "slope": 76.50452
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1568,
+            "par": 54,
+            "rating": 50.07452,
+            "slope": 76.50452
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8fa8f8b0-86ac-11e4-8c28-020000005b00/jupiter-dunes-golf-course"
+  }
+}

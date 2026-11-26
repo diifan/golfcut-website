@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/93e40a50-86ac-11e4-8c28-020000005b00/currahee-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/93e40a50-86ac-11e4-8c28-020000005b00/currahee-club",
+  "checked_at": 1795668340.609257,
+  "sha256": "9d2cc8834cb40abec77c2a772fc1186773325d5dde69285be40bd51c65a94ac0",
+  "title": "Currahee Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "93e40a50-86ac-11e4-8c28-020000005b00",
+    "name": "Currahee Club",
+    "address": "Currahee Club Dr",
+    "courses": [
+      {
+        "name": "Currahee Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "CHAMPION",
+            "category": "MALE",
+            "yards": 7513,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 151
+          },
+          {
+            "name": "CURRAHEE",
+            "category": "MALE",
+            "yards": 7221,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 149
+          },
+          {
+            "name": "MEMBER",
+            "category": "MALE",
+            "yards": 6319,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 141
+          },
+          {
+            "name": "ALTERNATE",
+            "category": "MALE",
+            "yards": 6047,
+            "par": 72,
+            "rating": 70,
+            "slope": 133
+          },
+          {
+            "name": "FORWARD",
+            "category": "MALE",
+            "yards": 5325,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 122
+          },
+          {
+            "name": "HARTWELL",
+            "category": "MALE",
+            "yards": 3080,
+            "par": 72,
+            "rating": 57.1,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/93e40a50-86ac-11e4-8c28-020000005b00/currahee-club"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5e81420-86ac-11e4-8c28-020000005b00/nippersink",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5e81420-86ac-11e4-8c28-020000005b00/nippersink",
+  "checked_at": 1795663886.431542,
+  "sha256": "86354893b1c55936564083e27f3663ef25e676c5a6d4dacf7222b47e0a4a5001",
+  "title": "Nippersink Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b5e81420-86ac-11e4-8c28-020000005b00",
+    "name": "Nippersink Golf Club",
+    "address": "N1055 Tombeau Rd, Genoa City, WI",
+    "courses": [
+      {
+        "name": "Nippersink",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6546,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6546,
+            "par": 72,
+            "rating": 76.7,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6233,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6233,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 136
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5377,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5377,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5e81420-86ac-11e4-8c28-020000005b00/nippersink"
+  }
+}

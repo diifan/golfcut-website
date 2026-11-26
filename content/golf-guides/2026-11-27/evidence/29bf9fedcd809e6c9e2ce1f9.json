@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad4143f0-86ac-11e4-8c28-020000005b00/scallys-golf-center",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad4143f0-86ac-11e4-8c28-020000005b00/scallys-golf-center",
+  "checked_at": 1795663892.1448758,
+  "sha256": "0abd678949839b01c0eba32c865ed2fc7ddafd6da5115feb3b5fb5f307e873df",
+  "title": "Scally's Golf Center - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ad4143f0-86ac-11e4-8c28-020000005b00",
+    "name": "Scally's Golf Center",
+    "address": "265 HookStown Grade Rd, Moon Township, PA",
+    "courses": [
+      {
+        "name": "Championship",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Long",
+            "category": "MALE",
+            "yards": 2390,
+            "par": 54,
+            "rating": 53,
+            "slope": 75
+          },
+          {
+            "name": "Long",
+            "category": "FEMALE",
+            "yards": 2390,
+            "par": 54,
+            "rating": 55.2,
+            "slope": 80
+          },
+          {
+            "name": "Short",
+            "category": "MALE",
+            "yards": 2028,
+            "par": 54,
+            "rating": 51.6,
+            "slope": 72
+          },
+          {
+            "name": "Short",
+            "category": "FEMALE",
+            "yards": 2028,
+            "par": 54,
+            "rating": 54,
+            "slope": 75
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad4143f0-86ac-11e4-8c28-020000005b00/scallys-golf-center"
+  }
+}

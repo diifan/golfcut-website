@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b980a430-86ac-11e4-8c28-020000005b00/island-green-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b980a430-86ac-11e4-8c28-020000005b00/island-green-golf-club",
+  "checked_at": 1795663495.2515042,
+  "sha256": "fafe367936cf9e1c8f17ac3c0a48b131ce6e2289772247687fd8c6600f6f76ac",
+  "title": "Island Green Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b980a430-86ac-11e4-8c28-020000005b00",
+    "name": "Island Green Golf Club",
+    "address": "169 Country Club Dr, Republic, MO",
+    "courses": [
+      {
+        "name": "Island Green front/back",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7017,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7017,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6521,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6521,
+            "par": 72,
+            "rating": 76.6,
+            "slope": 136
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5961,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 113
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5961,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 129
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b980a430-86ac-11e4-8c28-020000005b00/island-green-golf-club"
+  }
+}

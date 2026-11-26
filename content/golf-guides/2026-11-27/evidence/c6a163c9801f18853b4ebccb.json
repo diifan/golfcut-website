@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/d0705de0-7ec8-11f1-a65f-069933b83eb1/tanglewood-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/d0705de0-7ec8-11f1-a65f-069933b83eb1/tanglewood-golf-club",
+  "checked_at": 1795524579.4886904,
+  "sha256": "35cf4fbfe5fba7066fb94615a3ac142d5a2ce74a62df42c51052926af6ff678a",
+  "title": "Tanglewood Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star-o star star star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "d0705de0-7ec8-11f1-a65f-069933b83eb1",
+    "name": "Tanglewood Golf Club",
+    "address": "100 Clubhouse Circle  Clemmons, NC",
+    "courses": [
+      {
+        "name": "PAR3",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1424,
+            "par": 54,
+            "rating": 53.1,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1424,
+            "par": 54,
+            "rating": 54.5,
+            "slope": 85
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/d0705de0-7ec8-11f1-a65f-069933b83eb1/tanglewood-golf-club"
+  }
+}

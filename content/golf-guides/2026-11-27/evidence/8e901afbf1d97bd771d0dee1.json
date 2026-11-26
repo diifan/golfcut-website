@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1a05850-86ac-11e4-8c28-020000005b00/desert-lakes-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1a05850-86ac-11e4-8c28-020000005b00/desert-lakes-golf-course",
+  "checked_at": 1795664725.7440925,
+  "sha256": "aeb8cefd66c45b939e912ef3250fb8373bb62d65ba3c1a781552bcee29c2c135",
+  "title": "Desert Lakes Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b1a05850-86ac-11e4-8c28-020000005b00",
+    "name": "Desert Lakes Golf Course",
+    "address": "2351 Hamilton Rd",
+    "courses": [
+      {
+        "name": "Desert Lakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6544,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6121,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5779,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 116
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5125,
+            "par": 72,
+            "rating": 63.8,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1a05850-86ac-11e4-8c28-020000005b00/desert-lakes-golf-course"
+  }
+}

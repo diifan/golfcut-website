@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92b80d70-86ac-11e4-8c28-020000005b00/guilford-lakes-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92b80d70-86ac-11e4-8c28-020000005b00/guilford-lakes-golf-club",
+  "checked_at": 1795663912.8875473,
+  "sha256": "10e0cfe5946aa08ff87e544cb3542d90b397e0846a4b25db052c03a85294c8ba",
+  "title": "Guilford Lakes Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92b80d70-86ac-11e4-8c28-020000005b00",
+    "name": "Guilford Lakes Golf Club",
+    "address": "4 Hickory Rd",
+    "courses": [
+      {
+        "name": "Guilford Lakes Golf Club",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1319,
+            "par": 27,
+            "rating": 26.4,
+            "slope": 72
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1031,
+            "par": 27,
+            "rating": 26.4,
+            "slope": 72
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 739,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92b80d70-86ac-11e4-8c28-020000005b00/guilford-lakes-golf-club"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0b24ed0-86ac-11e4-8c28-020000005b00/cedarcrest-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0b24ed0-86ac-11e4-8c28-020000005b00/cedarcrest-golf-course",
+  "checked_at": 1795668295.1240015,
+  "sha256": "4ee70a166780e4d2d880651cb18f8019b4f306e02096c98eb8270dd611f20b34",
+  "title": "Cedarcrest Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b0b24ed0-86ac-11e4-8c28-020000005b00",
+    "name": "Cedarcrest Golf Course",
+    "address": "6810 84th St NE, Marysville, WA",
+    "courses": [
+      {
+        "name": "Cedarcrest",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5811,
+            "par": 70,
+            "rating": 68,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5811,
+            "par": 70,
+            "rating": 73.6,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5360,
+            "par": 70,
+            "rating": 65.5,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5360,
+            "par": 70,
+            "rating": 70.7,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4727,
+            "par": 70,
+            "rating": 62.5,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4727,
+            "par": 70,
+            "rating": 66.6,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0b24ed0-86ac-11e4-8c28-020000005b00/cedarcrest-golf-course"
+  }
+}

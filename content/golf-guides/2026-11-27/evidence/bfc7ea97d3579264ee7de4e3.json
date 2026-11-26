@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2e61ec0-86ac-11e4-8c28-020000005b00/cascades-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2e61ec0-86ac-11e4-8c28-020000005b00/cascades-golf-course",
+  "checked_at": 1795669219.9526906,
+  "sha256": "b0067358df2f09133bb7ea1521659843b337d51693c7d107cd82a154000162ed",
+  "title": "Cascades Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b2e61ec0-86ac-11e4-8c28-020000005b00",
+    "name": "Cascades Golf Course",
+    "address": "1992 Warren Avenue",
+    "courses": [
+      {
+        "name": "Cascades(Eighteen )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6614,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6385,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5794,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5213,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2e61ec0-86ac-11e4-8c28-020000005b00/cascades-golf-course"
+  }
+}

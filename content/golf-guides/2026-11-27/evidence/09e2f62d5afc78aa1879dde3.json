@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/941ec960-86ac-11e4-8c28-020000005b00/ryland-lakes-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/941ec960-86ac-11e4-8c28-020000005b00/ryland-lakes-country-club",
+  "checked_at": 1795666509.808631,
+  "sha256": "594d822c4d13c188e7eeaaad3fefe61e74bae195c5576db270c4fcc581c29ad9",
+  "title": "Ryland Lakes Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "941ec960-86ac-11e4-8c28-020000005b00",
+    "name": "Ryland Lakes Country Club",
+    "address": "2 Maplewood Drive Ryland Heights, KY",
+    "courses": [
+      {
+        "name": "Ryland Lakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 5864,
+            "par": 70,
+            "rating": 67.5,
+            "slope": 123
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 5864,
+            "par": 73,
+            "rating": 73.1,
+            "slope": 128
+          },
+          {
+            "name": "Red/Gold",
+            "category": "MALE",
+            "yards": 5063,
+            "par": 70,
+            "rating": 63.9,
+            "slope": 117
+          },
+          {
+            "name": "Red/Gold",
+            "category": "FEMALE",
+            "yards": 5063,
+            "par": 73,
+            "rating": 69.1,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/941ec960-86ac-11e4-8c28-020000005b00/ryland-lakes-country-club"
+  }
+}

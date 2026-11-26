@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5e07300-86ac-11e4-8c28-020000005b00/lauderdale-lakes",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5e07300-86ac-11e4-8c28-020000005b00/lauderdale-lakes",
+  "checked_at": 1795583794.591339,
+  "sha256": "f2456aae2dcfc78cc9a9ebcccea918fd0db186fc49be0385d44755969437fad5",
+  "title": "Lauderdale Lakes - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b5e07300-86ac-11e4-8c28-020000005b00",
+    "name": "Lauderdale Lakes",
+    "address": "N7498 Country Club Dr., Elkhorn, WI",
+    "courses": [
+      {
+        "name": "Lauderdale Lakes(9 holes )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2973,
+            "par": 35,
+            "rating": 33.9,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2973,
+            "par": 35,
+            "rating": 36.5,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2505,
+            "par": 35,
+            "rating": 32.4,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2505,
+            "par": 35,
+            "rating": 34.6,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5e07300-86ac-11e4-8c28-020000005b00/lauderdale-lakes"
+  }
+}

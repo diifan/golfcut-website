@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afab1800-86ac-11e4-8c28-020000005b00/poplar-grove-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afab1800-86ac-11e4-8c28-020000005b00/poplar-grove-golf-course",
+  "checked_at": 1795666540.2752166,
+  "sha256": "ed674c233e0882425496435a9a5fadd60b07982d1cbcae266c83ddb85c9db8bb",
+  "title": "Poplar Grove Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "afab1800-86ac-11e4-8c28-020000005b00",
+    "name": "Poplar Grove Golf Course",
+    "address": "129 Tavern Lane, Amherst, VA",
+    "courses": [
+      {
+        "name": "Poplar Grove",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "SLAMMER",
+            "category": "MALE",
+            "yards": 7059,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 146
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6557,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6101,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 135
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5640,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5180,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afab1800-86ac-11e4-8c28-020000005b00/poplar-grove-golf-course"
+  }
+}

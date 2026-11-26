@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b7932c10-86ac-11e4-8c28-020000005b00/lincoln-valley-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b7932c10-86ac-11e4-8c28-020000005b00/lincoln-valley-golf-course",
+  "checked_at": 1795664747.0379093,
+  "sha256": "4c5bda1288dcacb0de666d5c9458edd901fd977ca5bc2236e238f6f4166a8711",
+  "title": "Lincoln Valley Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b7932c10-86ac-11e4-8c28-020000005b00",
+    "name": "Lincoln Valley Golf Course",
+    "address": "1538 235th St, State Center, IA",
+    "courses": [
+      {
+        "name": "Lincoln Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6432,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6009,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5079,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b7932c10-86ac-11e4-8c28-020000005b00/lincoln-valley-golf-course"
+  }
+}

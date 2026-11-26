@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b53b0b40-86ac-11e4-8c28-020000005b00/foxboro-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b53b0b40-86ac-11e4-8c28-020000005b00/foxboro-golf-club",
+  "checked_at": 1795666504.1487076,
+  "sha256": "59b8730127afc4ac4c4b9662d158836c7f97b4080f3d49949677155506c27226",
+  "title": "Foxboro Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b53b0b40-86ac-11e4-8c28-020000005b00",
+    "name": "Foxboro Golf Club",
+    "address": "1020 County Road, Oregon, WI",
+    "courses": [
+      {
+        "name": "Foxboro",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6108,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6108,
+            "par": 73,
+            "rating": 74.4,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5728,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5728,
+            "par": 73,
+            "rating": 73.9,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5123,
+            "par": 71,
+            "rating": 64.9,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5123,
+            "par": 73,
+            "rating": 69.8,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b53b0b40-86ac-11e4-8c28-020000005b00/foxboro-golf-club"
+  }
+}

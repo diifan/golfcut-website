@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/d1d934b0-f2ee-11e6-a072-0680a328ea36/cypress-knoll-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/d1d934b0-f2ee-11e6-a072-0680a328ea36/cypress-knoll-golf-country-club",
+  "checked_at": 1795663900.418698,
+  "sha256": "ffe64977bc5d7ede8c247c6c81849022430a214c9038bc3ef193569b28b0e695",
+  "title": "Cypress Knoll Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "d1d934b0-f2ee-11e6-a072-0680a328ea36",
+    "name": "Cypress Knoll Golf & Country Club",
+    "address": "53 Easthampton Blvd, Palm Coast, FL",
+    "courses": [
+      {
+        "name": "Cypress Knoll Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6532,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6532,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6064,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6064,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 139
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5508,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5508,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4786,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4786,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/d1d934b0-f2ee-11e6-a072-0680a328ea36/cypress-knoll-golf-country-club"
+  }
+}

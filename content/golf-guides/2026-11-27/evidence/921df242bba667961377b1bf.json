@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afd33970-86ac-11e4-8c28-020000005b00/botetourt-golf-swim-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afd33970-86ac-11e4-8c28-020000005b00/botetourt-golf-swim-club",
+  "checked_at": 1795664693.244507,
+  "sha256": "17a109a45622b7e4c4bd93345eafafd0ba97494c382b33048356fe9eea0c8a7a",
+  "title": "Botetourt Golf & Swim Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "afd33970-86ac-11e4-8c28-020000005b00",
+    "name": "Botetourt Golf & Swim Club",
+    "address": "2414 Country Club Road, Troutville, VA",
+    "courses": [
+      {
+        "name": "Botetourt",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6111,
+            "par": 71,
+            "rating": 70.4,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5741,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5175,
+            "par": 71,
+            "rating": 65.7,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4900,
+            "par": 71,
+            "rating": 63.9,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afd33970-86ac-11e4-8c28-020000005b00/botetourt-golf-swim-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1922780-86ac-11e4-8c28-020000005b00/links-at-sierra-blanca",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1922780-86ac-11e4-8c28-020000005b00/links-at-sierra-blanca",
+  "checked_at": 1795664707.4681025,
+  "sha256": "99e506bed92318cb0d5196d3c0d84cd3b1790af30411c82806b763afdde91f95",
+  "title": "Links at Sierra Blanca - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1922780-86ac-11e4-8c28-020000005b00",
+    "name": "Links at Sierra Blanca",
+    "address": "105 Sierra Blanca Drive Ruidoso, NM",
+    "courses": [
+      {
+        "name": "Sierra Blanca(Links )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6757,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6308,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5861,
+            "par": 72,
+            "rating": 66.9,
+            "slope": 111
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4980,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1922780-86ac-11e4-8c28-020000005b00/links-at-sierra-blanca"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ef03000-86ac-11e4-8c28-020000005b00/cooper-colony-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ef03000-86ac-11e4-8c28-020000005b00/cooper-colony-country-club",
+  "checked_at": 1795663885.3170376,
+  "sha256": "c8ae2176e54458e935fd4f6b0ed4463aac06a864307881fbac5a3404425154bc",
+  "title": "Cooper Colony Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8ef03000-86ac-11e4-8c28-020000005b00",
+    "name": "Cooper Colony Country Club",
+    "address": "5050 SW 90th Ave, Broward County",
+    "courses": [
+      {
+        "name": "Cooper Colony",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3753,
+            "par": 60,
+            "rating": 65.1,
+            "slope": 111
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3753,
+            "par": 64,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3285,
+            "par": 60,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3285,
+            "par": 64,
+            "rating": 64,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ef03000-86ac-11e4-8c28-020000005b00/cooper-colony-country-club"
+  }
+}

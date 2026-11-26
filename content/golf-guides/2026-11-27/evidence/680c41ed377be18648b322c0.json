@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92b2dd50-86ac-11e4-8c28-020000005b00/westwoods-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92b2dd50-86ac-11e4-8c28-020000005b00/westwoods-golf-course",
+  "checked_at": 1795669244.020322,
+  "sha256": "a2bc5deb66171caeb46d1771ffdcadd940d3ee2e7867597947b6918c6e48a532",
+  "title": "Westwoods Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92b2dd50-86ac-11e4-8c28-020000005b00",
+    "name": "Westwoods Golf Course",
+    "address": "14 Westwoods Dr, Farmington, CT",
+    "courses": [
+      {
+        "name": "Westwoods",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4407,
+            "par": 61,
+            "rating": 60.8,
+            "slope": 93
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4407,
+            "par": 61,
+            "rating": 65.3,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3597,
+            "par": 61,
+            "rating": 61.3,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3597,
+            "par": 61,
+            "rating": 59.5,
+            "slope": 85
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92b2dd50-86ac-11e4-8c28-020000005b00/westwoods-golf-course"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b41ec5d0-86ac-11e4-8c28-020000005b00/patrick-farms-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b41ec5d0-86ac-11e4-8c28-020000005b00/patrick-farms-golf-club",
+  "checked_at": 1795663884.0982814,
+  "sha256": "560802ba7c8ad82ce736258cb0e139f5b85b9aa06017862e6d2137c98f183581",
+  "title": "PATRICK FARMS GOLF CLUB - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b41ec5d0-86ac-11e4-8c28-020000005b00",
+    "name": "PATRICK FARMS GOLF CLUB",
+    "address": "300 Clubhouse Dr, Jackson, MS",
+    "courses": [
+      {
+        "name": "Patrick Farms",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6900,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 131
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6318,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5656,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5374,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b41ec5d0-86ac-11e4-8c28-020000005b00/patrick-farms-golf-club"
+  }
+}

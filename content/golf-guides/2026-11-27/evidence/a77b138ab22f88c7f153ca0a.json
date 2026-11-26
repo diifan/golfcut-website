@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/94c62cf0-86ac-11e4-8c28-020000005b00/walden-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/94c62cf0-86ac-11e4-8c28-020000005b00/walden-country-club",
+  "checked_at": 1795669308.2744002,
+  "sha256": "cab35aafd24642d38a70f13713f3bada56bd7bc8d2b78def1eed1aacedab996e",
+  "title": "Walden Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "94c62cf0-86ac-11e4-8c28-020000005b00",
+    "name": "Walden Country Club",
+    "address": "1500 Riedel Rd, Crofton, MD",
+    "courses": [
+      {
+        "name": "Walden",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6319,
+            "par": 71,
+            "rating": 70.9,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6319,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5833,
+            "par": 71,
+            "rating": 68.6,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5833,
+            "par": 71,
+            "rating": 74.6,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5176,
+            "par": 71,
+            "rating": 65.2,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5176,
+            "par": 71,
+            "rating": 71,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4364,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4364,
+            "par": 71,
+            "rating": 66.7,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/94c62cf0-86ac-11e4-8c28-020000005b00/walden-country-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/d68c8c10-aae4-11e7-9f6b-0680a328ea36/hickory-swing-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/d68c8c10-aae4-11e7-9f6b-0680a328ea36/hickory-swing-golf-course",
+  "checked_at": 1795663920.3111484,
+  "sha256": "fa1eeb7cde0163a035a1fd60d53c96e9099427304ff368ed28dcdfdd2c041f84",
+  "title": "Hickory Swing Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "d68c8c10-aae4-11e7-9f6b-0680a328ea36",
+    "name": "Hickory Swing Golf Course",
+    "address": "1100 American Ave, Great Falls, MT 59404",
+    "courses": [
+      {
+        "name": "Hickory Swing",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3581,
+            "par": 60,
+            "rating": 58.4,
+            "slope": 88
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3581,
+            "par": 60,
+            "rating": 59.6,
+            "slope": 94
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3294,
+            "par": 60,
+            "rating": 57.5,
+            "slope": 83
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3294,
+            "par": 60,
+            "rating": 58.3,
+            "slope": 89
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/d68c8c10-aae4-11e7-9f6b-0680a328ea36/hickory-swing-golf-course"
+  }
+}

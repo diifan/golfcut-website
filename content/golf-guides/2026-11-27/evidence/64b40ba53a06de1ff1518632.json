@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b46f7de0-86ac-11e4-8c28-020000005b00/lochland-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b46f7de0-86ac-11e4-8c28-020000005b00/lochland-country-club",
+  "checked_at": 1795664709.7250829,
+  "sha256": "1a47ac7475727400d79e85e6c64bae54f29acef557d51fb2ec880bd2365606bd",
+  "title": "Lochland Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b46f7de0-86ac-11e4-8c28-020000005b00",
+    "name": "Lochland Country Club",
+    "address": "601 Lochland Rd, Hastings, NE 68901",
+    "courses": [
+      {
+        "name": "Lochland",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 7043,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 128
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 7043,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6579,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 124
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6579,
+            "par": 72,
+            "rating": 77.7,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5927,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5927,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5097,
+            "par": 72,
+            "rating": 64.6,
+            "slope": 107
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5097,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b46f7de0-86ac-11e4-8c28-020000005b00/lochland-country-club"
+  }
+}

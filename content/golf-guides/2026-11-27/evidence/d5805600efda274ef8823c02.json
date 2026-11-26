@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c0ef3c0-86ac-11e4-8c28-020000005b00/bronzwood-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c0ef3c0-86ac-11e4-8c28-020000005b00/bronzwood-golf-club",
+  "checked_at": 1795661416.388318,
+  "sha256": "ad640a198d8a702d369d41302cb2228f37306674c11360779436e178330d89f5",
+  "title": "Bronzwood Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9c0ef3c0-86ac-11e4-8c28-020000005b00",
+    "name": "Bronzwood Golf Club",
+    "address": "9645 Kinsman Pymatuning Rd",
+    "courses": [
+      {
+        "name": "Bronzwood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6259,
+            "par": 70,
+            "rating": 70.4,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5881,
+            "par": 70,
+            "rating": 68,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5084,
+            "par": 70,
+            "rating": 68.1,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4979,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c0ef3c0-86ac-11e4-8c28-020000005b00/bronzwood-golf-club"
+  }
+}

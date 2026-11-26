@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad888620-86ac-11e4-8c28-020000005b00/springfield-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad888620-86ac-11e4-8c28-020000005b00/springfield-country-club",
+  "checked_at": 1795666553.9054613,
+  "sha256": "dea581e016aae933ce78281d656ce89bfdd912b95eb3387224766ed0e0d4415f",
+  "title": "Springfield Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ad888620-86ac-11e4-8c28-020000005b00",
+    "name": "Springfield Country Club",
+    "address": "400 W Sproul Rd, Springfield, PA",
+    "courses": [
+      {
+        "name": "Springfield",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5871,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5871,
+            "par": 70,
+            "rating": 72.6,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5541,
+            "par": 70,
+            "rating": 63.8,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5541,
+            "par": 70,
+            "rating": 67.3,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4583,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4583,
+            "par": 70,
+            "rating": 74.4,
+            "slope": 134
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad888620-86ac-11e4-8c28-020000005b00/springfield-country-club"
+  }
+}

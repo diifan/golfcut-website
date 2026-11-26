@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b226c660-86ac-11e4-8c28-020000005b00/point-o-woods",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b226c660-86ac-11e4-8c28-020000005b00/point-o-woods",
+  "checked_at": 1795669241.44084,
+  "sha256": "22f48c7ef597b170dd459cb70538360e26927f5f527358b8b13f421a1e349ab6",
+  "title": "Point O' Woods - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b226c660-86ac-11e4-8c28-020000005b00",
+    "name": "Point O' Woods",
+    "address": "1516 Roslin Rd",
+    "courses": [
+      {
+        "name": "Point O' Woods",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7075,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 140
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 7075,
+            "par": 74,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6571,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 136
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6571,
+            "par": 74,
+            "rating": 76.9,
+            "slope": 136
+          },
+          {
+            "name": "Members",
+            "category": "MALE",
+            "yards": 6308,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 134
+          },
+          {
+            "name": "Members",
+            "category": "FEMALE",
+            "yards": 6308,
+            "par": 74,
+            "rating": 75.5,
+            "slope": 133
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5478,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 120
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5478,
+            "par": 74,
+            "rating": 72.8,
+            "slope": 135
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 5268,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 118
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 5268,
+            "par": 74,
+            "rating": 71.2,
+            "slope": 131
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b226c660-86ac-11e4-8c28-020000005b00/point-o-woods"
+  }
+}

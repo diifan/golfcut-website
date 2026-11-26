@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3a10a50-86ac-11e4-8c28-020000005b00/brookside-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3a10a50-86ac-11e4-8c28-020000005b00/brookside-golf-course",
+  "checked_at": 1795663489.9495811,
+  "sha256": "40cfd00673ee7e8c6eb4c08c823ecc895c1c571371b92affb259c29eb99ca4ef",
+  "title": "Brookside Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b3a10a50-86ac-11e4-8c28-020000005b00",
+    "name": "Brookside Golf Course",
+    "address": "6451 Saline Ann Arbor Rd, Saline, MI",
+    "courses": [
+      {
+        "name": "Brookside GC",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6066,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5854,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5535,
+            "par": 72,
+            "rating": 64.1,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3a10a50-86ac-11e4-8c28-020000005b00/brookside-golf-course"
+  }
+}

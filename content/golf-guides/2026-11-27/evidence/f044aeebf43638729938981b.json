@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3c9c800-86ac-11e4-8c28-020000005b00/the-crown-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3c9c800-86ac-11e4-8c28-020000005b00/the-crown-golf-club",
+  "checked_at": 1795663490.771606,
+  "sha256": "249dbb56b19cd2935df8b5707980f1f9ed95169f2b44066b474129ebd0de0ba0",
+  "title": "The Crown Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b3c9c800-86ac-11e4-8c28-020000005b00",
+    "name": "The Crown Golf Club",
+    "address": "2430 W Crown Dr, Traverse City, MI ",
+    "courses": [
+      {
+        "name": "The Crown",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6661,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6180,
+            "par": 72,
+            "rating": 70,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5395,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4837,
+            "par": 72,
+            "rating": 63.6,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3c9c800-86ac-11e4-8c28-020000005b00/the-crown-golf-club"
+  }
+}

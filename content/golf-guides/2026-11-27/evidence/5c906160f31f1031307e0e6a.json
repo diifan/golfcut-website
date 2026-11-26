@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/976dcd50-86ac-11e4-8c28-020000005b00/wildcreek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/976dcd50-86ac-11e4-8c28-020000005b00/wildcreek-golf-course",
+  "checked_at": 1795666541.9424808,
+  "sha256": "220ade5093c4259a7a32e68cb5e3096375090f8414ed0309f6e7abdc6ccec001",
+  "title": "Wildcreek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "976dcd50-86ac-11e4-8c28-020000005b00",
+    "name": "Wildcreek Golf Course",
+    "address": "3500 Sullivan Lane, Sparks, NV",
+    "courses": [
+      {
+        "name": "Executive",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 1440,
+            "par": 27,
+            "rating": 28.3626,
+            "slope": 86.4268
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 1440,
+            "par": 27,
+            "rating": 28.3626,
+            "slope": 86.4268
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 1305,
+            "par": 27,
+            "rating": 27.7497,
+            "slope": 83.9536
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 1305,
+            "par": 27,
+            "rating": 27.7497,
+            "slope": 83.9536
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 1170,
+            "par": 27,
+            "rating": 27.1368,
+            "slope": 81.4804
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 1170,
+            "par": 27,
+            "rating": 27.1368,
+            "slope": 81.4804
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/976dcd50-86ac-11e4-8c28-020000005b00/wildcreek-golf-course"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae9c1900-86ac-11e4-8c28-020000005b00/the-wizard-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae9c1900-86ac-11e4-8c28-020000005b00/the-wizard-golf-course",
+  "checked_at": 1795661656.062184,
+  "sha256": "ac8a0e875214f1fd89405e6b8fe640e4fd3eaaaa7e66a5a0900b47e02a4f4874",
+  "title": "The Wizard Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae9c1900-86ac-11e4-8c28-020000005b00",
+    "name": "The Wizard Golf Course",
+    "address": "4601 Leeshire Blvd, Myrtle Beach, SC",
+    "courses": [
+      {
+        "name": "Wizard",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6721,
+            "par": 71,
+            "rating": 71.7,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6138,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 121
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5547,
+            "par": 71,
+            "rating": 66.3,
+            "slope": 115
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 4972,
+            "par": 71,
+            "rating": 67.6,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae9c1900-86ac-11e4-8c28-020000005b00/the-wizard-golf-course"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad3b5080-86ac-11e4-8c28-020000005b00/nittany-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad3b5080-86ac-11e4-8c28-020000005b00/nittany-country-club",
+  "checked_at": 1795669247.5201342,
+  "sha256": "4fb7e575dfaf321076d685e67169374a2b3580e56923336232cbec329f05b2ab",
+  "title": "Nittany Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ad3b5080-86ac-11e4-8c28-020000005b00",
+    "name": "Nittany Country Club",
+    "address": "110 Country Club Drive",
+    "courses": [
+      {
+        "name": "Nittany(9 holes )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Men",
+            "category": "MALE",
+            "yards": 6082,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 113
+          },
+          {
+            "name": "Men",
+            "category": "FEMALE",
+            "yards": 6082,
+            "par": 75,
+            "rating": 74.2,
+            "slope": 131
+          },
+          {
+            "name": "Women",
+            "category": "MALE",
+            "yards": 5094,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 117
+          },
+          {
+            "name": "Women",
+            "category": "FEMALE",
+            "yards": 5094,
+            "par": 75,
+            "rating": 69.2,
+            "slope": 110
+          },
+          {
+            "name": "Senior",
+            "category": "MALE",
+            "yards": 5094,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 102
+          },
+          {
+            "name": "Senior",
+            "category": "FEMALE",
+            "yards": 5094,
+            "par": 75,
+            "rating": 69,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad3b5080-86ac-11e4-8c28-020000005b00/nittany-country-club"
+  }
+}

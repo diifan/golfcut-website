@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c9820f0-86ac-11e4-8c28-020000005b00/big-walnut-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c9820f0-86ac-11e4-8c28-020000005b00/big-walnut-golf-course",
+  "checked_at": 1795663903.4278576,
+  "sha256": "5b3e6e29a38d94d601165d02fa8c0b949236b7c2dc9876b2ba218a6853400c5a",
+  "title": "Big Walnut Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9c9820f0-86ac-11e4-8c28-020000005b00",
+    "name": "Big Walnut Golf Course",
+    "address": "6683 State Rt. 61 ",
+    "courses": [
+      {
+        "name": "Big Walnut (9 holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2126,
+            "par": 32,
+            "rating": 32.6,
+            "slope": 104
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2126,
+            "par": 32,
+            "rating": 32.7,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1854,
+            "par": 32,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1854,
+            "par": 32,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c9820f0-86ac-11e4-8c28-020000005b00/big-walnut-golf-course"
+  }
+}

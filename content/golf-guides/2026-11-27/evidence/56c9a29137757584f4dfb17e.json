@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba4e7b80-86ac-11e4-8c28-020000005b00/kendrick-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba4e7b80-86ac-11e4-8c28-020000005b00/kendrick-golf-course",
+  "checked_at": 1795661462.1187348,
+  "sha256": "af65d015e7de3c0b336e2843b907b3f222a12f4c269b7928a16f05944bc987a2",
+  "title": "Kendrick Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ba4e7b80-86ac-11e4-8c28-020000005b00",
+    "name": "Kendrick Golf Course",
+    "address": "65 Golf Course Rd Sheridan, WY 82801",
+    "courses": [
+      {
+        "name": "Kendrick",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6677,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6404,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 122
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5180,
+            "par": 72,
+            "rating": 64,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba4e7b80-86ac-11e4-8c28-020000005b00/kendrick-golf-course"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae7445b0-86ac-11e4-8c28-020000005b00/ware-shoals-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae7445b0-86ac-11e4-8c28-020000005b00/ware-shoals-golf-club",
+  "checked_at": 1795583818.9697392,
+  "sha256": "529838ea59a61dc7d32918365a9d6589d93d7a585a51e8eb95ab1cca41279dcc",
+  "title": "Ware Shoals Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "ae7445b0-86ac-11e4-8c28-020000005b00",
+    "name": "Ware Shoals Golf Club",
+    "address": "98 S Greenwood Avenue, Ware Shoals, SC",
+    "courses": [
+      {
+        "name": "Ware Shoals",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6240,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6240,
+            "par": 70,
+            "rating": 75.1,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4508,
+            "par": 70,
+            "rating": 65.4,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4508,
+            "par": 70,
+            "rating": 66,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae7445b0-86ac-11e4-8c28-020000005b00/ware-shoals-golf-club"
+  }
+}

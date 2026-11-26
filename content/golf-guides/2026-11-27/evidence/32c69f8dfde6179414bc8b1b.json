@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/986c5190-86ac-11e4-8c28-020000005b00/casperkill-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/986c5190-86ac-11e4-8c28-020000005b00/casperkill-golf-club",
+  "checked_at": 1795664695.48251,
+  "sha256": "ac31def263b27f971936fecb70da4add507cce27bc39d3c6df00a60b307aa303",
+  "title": "Casperkill Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "986c5190-86ac-11e4-8c28-020000005b00",
+    "name": "Casperkill Golf Club",
+    "address": "110 Golf Club Ln, Poughkeepsie, NY",
+    "courses": [
+      {
+        "name": "Casperkill",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6478,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6478,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5954,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5954,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5106,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5106,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4739,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4739,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/986c5190-86ac-11e4-8c28-020000005b00/casperkill-golf-club"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b2bbfb0-86ac-11e4-8c28-020000005b00/laurel-ridge-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b2bbfb0-86ac-11e4-8c28-020000005b00/laurel-ridge-country-club",
+  "checked_at": 1795669246.8726459,
+  "sha256": "38324c2802eba9511fc34ce8675f02dd21b5c9502518367eb2ef6a6d2e14e0f2",
+  "title": "Laurel Ridge Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9b2bbfb0-86ac-11e4-8c28-020000005b00",
+    "name": "Laurel Ridge Country Club",
+    "address": "49 Cupp Ln. Waynesville, NC 28786",
+    "courses": [
+      {
+        "name": "Laurel Ridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6904,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 142
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6551,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6093,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 127
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5174,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4408,
+            "par": 72,
+            "rating": 65,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b2bbfb0-86ac-11e4-8c28-020000005b00/laurel-ridge-country-club"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/749b9e10-86ac-11e4-8c28-020000005b00/tuckers-point",
+  "resolved_url": "https://18birdies.com/golf-courses/club/749b9e10-86ac-11e4-8c28-020000005b00/tuckers-point",
+  "checked_at": 1795661414.424742,
+  "sha256": "dbf0220ddd73a494895e9e5e1cbdf81ba55d859bcdacb3b86cd71bff155a62e7",
+  "title": "Tuckers Point - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "749b9e10-86ac-11e4-8c28-020000005b00",
+    "name": "Tuckers Point",
+    "address": "60 Tucker's Point DR, Harrington Sound, Bermuda",
+    "courses": [
+      {
+        "name": "Tucker's Point",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6203,
+            "par": 70,
+            "rating": 71.4,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6203,
+            "par": 70,
+            "rating": 77.3,
+            "slope": 136
+          },
+          {
+            "name": "White M",
+            "category": "MALE",
+            "yards": 5825,
+            "par": 70,
+            "rating": 68.9,
+            "slope": 125
+          },
+          {
+            "name": "White M",
+            "category": "FEMALE",
+            "yards": 5825,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White L",
+            "category": "MALE",
+            "yards": 5803,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White L",
+            "category": "FEMALE",
+            "yards": 5803,
+            "par": 70,
+            "rating": 74.7,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4840,
+            "par": 70,
+            "rating": 64.4,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4840,
+            "par": 70,
+            "rating": 69.3,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/749b9e10-86ac-11e4-8c28-020000005b00/tuckers-point"
+  }
+}

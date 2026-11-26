@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/44a15b90-77b9-11e7-9a65-0680a328ea36/lawrenceburg-golf-and-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/44a15b90-77b9-11e7-9a65-0680a328ea36/lawrenceburg-golf-and-country-club",
+  "checked_at": 1795583834.7121537,
+  "sha256": "a0e8aa12f61b7a632cd30c03d88e91d1a12f27ca4f83b441321345a243db6c0e",
+  "title": "Lawrenceburg Golf and Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "44a15b90-77b9-11e7-9a65-0680a328ea36",
+    "name": "Lawrenceburg Golf and Country Club",
+    "address": "1901 W Gaines St, Lawrenceburg, TN 38464",
+    "courses": [
+      {
+        "name": "Lawrenceburg",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5800,
+            "par": 71,
+            "rating": 67.4,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5800,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5653,
+            "par": 71,
+            "rating": 66.8,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5653,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4574,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4574,
+            "par": 71,
+            "rating": 65.8,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/44a15b90-77b9-11e7-9a65-0680a328ea36/lawrenceburg-golf-and-country-club"
+  }
+}

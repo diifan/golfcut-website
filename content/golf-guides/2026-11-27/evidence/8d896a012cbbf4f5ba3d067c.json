@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c066840-86ac-11e4-8c28-020000005b00/sawmill-creek-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c066840-86ac-11e4-8c28-020000005b00/sawmill-creek-golf",
+  "checked_at": 1795669228.8263242,
+  "sha256": "462f24cdc72b110595432db3cfa6cf5e301d5adfc36b1164fcc442ca91e741cb",
+  "title": "Sawmill Creek Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9c066840-86ac-11e4-8c28-020000005b00",
+    "name": "Sawmill Creek Golf",
+    "address": "600 Sawmill Creek Huron, OH",
+    "courses": [
+      {
+        "name": "Sawmill Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6782,
+            "par": 71,
+            "rating": 73,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6368,
+            "par": 71,
+            "rating": 70.9,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5605,
+            "par": 71,
+            "rating": 67.2,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5074,
+            "par": 71,
+            "rating": 64.3,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c066840-86ac-11e4-8c28-020000005b00/sawmill-creek-golf"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9f0f230-86ac-11e4-8c28-020000005b00/den-brae-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9f0f230-86ac-11e4-8c28-020000005b00/den-brae-golf-course",
+  "checked_at": 1795661448.971307,
+  "sha256": "0f64ea04438cd0005e035793b574854155b3af197e13cf024d44e23ca3d87e25",
+  "title": "Den Brae Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b9f0f230-86ac-11e4-8c28-020000005b00",
+    "name": "Den Brae Golf Course",
+    "address": "80 Prescott Rd",
+    "courses": [
+      {
+        "name": "Den Brae",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2959,
+            "par": 36,
+            "rating": 35.9,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2959,
+            "par": 36,
+            "rating": 36.7,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2248,
+            "par": 36,
+            "rating": 32.7,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2248,
+            "par": 36,
+            "rating": 32,
+            "slope": 106
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3109,
+            "par": 36,
+            "rating": 36.6,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3109,
+            "par": 36,
+            "rating": 37.5,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9f0f230-86ac-11e4-8c28-020000005b00/den-brae-golf-course"
+  }
+}

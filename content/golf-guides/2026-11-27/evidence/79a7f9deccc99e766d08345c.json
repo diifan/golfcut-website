@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/97dda620-86ac-11e4-8c28-020000005b00/fountain-green-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/97dda620-86ac-11e4-8c28-020000005b00/fountain-green-golf-course",
+  "checked_at": 1795664744.176153,
+  "sha256": "566f693768226709d4fa5af4766ed4267749cac00767f7547d8b18fa2a5ca3ee",
+  "title": "Fountain Green Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "97dda620-86ac-11e4-8c28-020000005b00",
+    "name": "Fountain Green Golf Course",
+    "address": "Building 3152, Fort Dix, NJ",
+    "courses": [
+      {
+        "name": "Fountain Green",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6389,
+            "par": 70,
+            "rating": 70.7,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5989,
+            "par": 70,
+            "rating": 68.8,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5466,
+            "par": 70,
+            "rating": 69.8,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/97dda620-86ac-11e4-8c28-020000005b00/fountain-green-golf-course"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/adb86fc0-86ac-11e4-8c28-020000005b00/yardley-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/adb86fc0-86ac-11e4-8c28-020000005b00/yardley-country-club",
+  "checked_at": 1795663881.776953,
+  "sha256": "731cabd51b0cc85e66b3f11bad3786261e0910bbc32e53a75f10d0705dacd581",
+  "title": "Yardley Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "adb86fc0-86ac-11e4-8c28-020000005b00",
+    "name": "Yardley Country Club",
+    "address": "1010 Reading Ave",
+    "courses": [
+      {
+        "name": "Yardley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6422,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6422,
+            "par": 73,
+            "rating": 76.1,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6117,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6117,
+            "par": 73,
+            "rating": 75.6,
+            "slope": 129
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5720,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 123
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5720,
+            "par": 73,
+            "rating": 72.3,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5339,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5339,
+            "par": 73,
+            "rating": 71.2,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5339,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5339,
+            "par": 73,
+            "rating": 70.3,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/adb86fc0-86ac-11e4-8c28-020000005b00/yardley-country-club"
+  }
+}

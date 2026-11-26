@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b99f4fc0-86ac-11e4-8c28-020000005b00/the-golf-club-of-wentzville",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b99f4fc0-86ac-11e4-8c28-020000005b00/the-golf-club-of-wentzville",
+  "checked_at": 1795663492.1975117,
+  "sha256": "b63f413150ed4416d92d6153334e3c777bfceeb55b6d57f62b5bd7f858223ccf",
+  "title": "The Golf Club of Wentzville - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b99f4fc0-86ac-11e4-8c28-020000005b00",
+    "name": "The Golf Club of Wentzville",
+    "address": "9 Pro Shop Drive, Wentzville, MO",
+    "courses": [
+      {
+        "name": "Wentzville",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6344,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6344,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6067,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6067,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5374,
+            "par": 71,
+            "rating": 65.1,
+            "slope": 106
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5374,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4929,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4929,
+            "par": 71,
+            "rating": 68.4,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b99f4fc0-86ac-11e4-8c28-020000005b00/the-golf-club-of-wentzville"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1390b00-86ac-11e4-8c28-020000005b00/crooked-hollow",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1390b00-86ac-11e4-8c28-020000005b00/crooked-hollow",
+  "checked_at": 1795664693.1227283,
+  "sha256": "d744aba64e18c41bba8aea3877763e6fc59cf2d6de195dd96c6114c5416e73e1",
+  "title": "Crooked Hollow - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1390b00-86ac-11e4-8c28-020000005b00",
+    "name": "Crooked Hollow",
+    "address": "667 Elysian Fields Rd, Greenwood, LA",
+    "courses": [
+      {
+        "name": "Crooked Hollow",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6703,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6255,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5770,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5200,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1390b00-86ac-11e4-8c28-020000005b00/crooked-hollow"
+  }
+}

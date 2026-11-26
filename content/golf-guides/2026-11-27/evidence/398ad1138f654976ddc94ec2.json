@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9434c260-86ac-11e4-8c28-020000005b00/harlan-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9434c260-86ac-11e4-8c28-020000005b00/harlan-country-club",
+  "checked_at": 1795668312.1045172,
+  "sha256": "5512216c4f7f8a4b65396e4890be86eccc281cecf1bcbae02688facbf3f21481",
+  "title": "Harlan Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9434c260-86ac-11e4-8c28-020000005b00",
+    "name": "Harlan Country Club",
+    "address": "Hwy 421 S, Harlan, KY",
+    "courses": [
+      {
+        "name": "Harlan",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2551,
+            "par": 34,
+            "rating": 34.1,
+            "slope": 110
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2244,
+            "par": 34,
+            "rating": 32.7,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2143,
+            "par": 34,
+            "rating": 32.2,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9434c260-86ac-11e4-8c28-020000005b00/harlan-country-club"
+  }
+}

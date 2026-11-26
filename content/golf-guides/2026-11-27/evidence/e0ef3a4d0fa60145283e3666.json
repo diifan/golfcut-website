@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/88667370-86ac-11e4-8c28-020000005b00/bonnie-brook-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/88667370-86ac-11e4-8c28-020000005b00/bonnie-brook-golf-course",
+  "checked_at": 1795668339.335674,
+  "sha256": "2ca48871d72c715dac47d4c62fd737c1d6667a00c2aed857b8ed40b952ef14cf",
+  "title": "Bonnie Brook Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "88667370-86ac-11e4-8c28-020000005b00",
+    "name": "Bonnie Brook Golf Course",
+    "address": "2800 N Lewis Ave, Waukegan, IL",
+    "courses": [
+      {
+        "name": "Bonnie Brook",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6640,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6304,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5918,
+            "par": 72,
+            "rating": 69,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5385,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/88667370-86ac-11e4-8c28-020000005b00/bonnie-brook-golf-course"
+  }
+}

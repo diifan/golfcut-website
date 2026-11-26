@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b24fab20-86ac-11e4-8c28-020000005b00/diamond-lake-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b24fab20-86ac-11e4-8c28-020000005b00/diamond-lake-golf-club",
+  "checked_at": 1795663884.7100348,
+  "sha256": "81c6d7dcd5820ec7177cc18ae9f48cc2c1158b140ebdb5bfcc3ee611f5a35c30",
+  "title": "Diamond Lake Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b24fab20-86ac-11e4-8c28-020000005b00",
+    "name": "Diamond Lake Golf Club",
+    "address": "22041 M 60 East, Cassopolis, MI",
+    "courses": [
+      {
+        "name": "Diamond Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5462,
+            "par": 70,
+            "rating": 69.8,
+            "slope": 120
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5462,
+            "par": 70,
+            "rating": 70.9,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4896,
+            "par": 70,
+            "rating": 67.2,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4896,
+            "par": 70,
+            "rating": 67.9,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b24fab20-86ac-11e4-8c28-020000005b00/diamond-lake-golf-club"
+  }
+}

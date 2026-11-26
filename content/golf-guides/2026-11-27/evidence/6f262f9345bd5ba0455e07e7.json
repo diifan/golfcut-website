@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/04fd47a0-16ba-11ee-ac93-06780482e2ce/the-club-at-steyn-city",
+  "resolved_url": "https://18birdies.com/golf-courses/club/04fd47a0-16ba-11ee-ac93-06780482e2ce/the-club-at-steyn-city",
+  "checked_at": 1795664720.600137,
+  "sha256": "7acfa4a367aea9af6e306c2da1541d49447528c5a9c405f4e14eb49313e82122",
+  "title": "The Club at Steyn City - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "04fd47a0-16ba-11ee-ac93-06780482e2ce",
+    "name": "The Club at Steyn City",
+    "address": "Cedar Road, Diepsloot, Johannesburg, Gauteng, South Africa",
+    "courses": [
+      {
+        "name": "The Club at Steyn City",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7053.784500000001,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 131
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7053.784500000001,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6633.83826,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6633.83826,
+            "par": 72,
+            "rating": 77.2,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5973.29782,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5973.29782,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5269.0129799999995,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5269.0129799999995,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/04fd47a0-16ba-11ee-ac93-06780482e2ce/the-club-at-steyn-city"
+  }
+}

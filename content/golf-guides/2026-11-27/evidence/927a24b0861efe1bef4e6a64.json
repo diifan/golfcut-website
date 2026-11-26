@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b7cb2c00-86ac-11e4-8c28-020000005b00/ellsworth-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b7cb2c00-86ac-11e4-8c28-020000005b00/ellsworth-golf-course",
+  "checked_at": 1795664687.61956,
+  "sha256": "ffbc92a212e64d490b7e8758a8817818c17a5c7882fb48c84f5fe2c231e691c7",
+  "title": "Ellsworth Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b7cb2c00-86ac-11e4-8c28-020000005b00",
+    "name": "Ellsworth Golf Course",
+    "address": "900 E. Second Street, Ellsworth, Kansas 67439",
+    "courses": [
+      {
+        "name": "Ellsworth",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5806,
+            "par": 70,
+            "rating": 72,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5806,
+            "par": 70,
+            "rating": 72.8,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5514,
+            "par": 70,
+            "rating": 70,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5514,
+            "par": 70,
+            "rating": 71.2,
+            "slope": 124
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4996,
+            "par": 70,
+            "rating": 68,
+            "slope": 119
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 4996,
+            "par": 70,
+            "rating": 71,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4568,
+            "par": 70,
+            "rating": 69,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4568,
+            "par": 70,
+            "rating": 75,
+            "slope": 130
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b7cb2c00-86ac-11e4-8c28-020000005b00/ellsworth-golf-course"
+  }
+}

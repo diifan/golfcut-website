@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4dd81f0-86ac-11e4-8c28-020000005b00/neskowin-beach-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4dd81f0-86ac-11e4-8c28-020000005b00/neskowin-beach-golf-course",
+  "checked_at": 1795663484.0170717,
+  "sha256": "6e1734080874242ec3c4abe9553404a2e51693cdc31e2722e465e9ed2a725d36",
+  "title": "Neskowin Beach Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b4dd81f0-86ac-11e4-8c28-020000005b00",
+    "name": "Neskowin Beach Golf Course",
+    "address": "48405 Hawk St",
+    "courses": [
+      {
+        "name": "Neskowin Beach",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4472,
+            "par": 68,
+            "rating": 65.2,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4194,
+            "par": 68,
+            "rating": 64,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4dd81f0-86ac-11e4-8c28-020000005b00/neskowin-beach-golf-course"
+  }
+}

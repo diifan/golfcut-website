@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1cdd0f0-86ac-11e4-8c28-020000005b00/lakewood-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1cdd0f0-86ac-11e4-8c28-020000005b00/lakewood-golf-course",
+  "checked_at": 1795582870.2119553,
+  "sha256": "55026f6f7dd178e2b9006450c48d99dbcb20d8775fc5c47174a3bb762d8c2d14",
+  "title": "Lakewood Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1cdd0f0-86ac-11e4-8c28-020000005b00",
+    "name": "Lakewood Golf Course",
+    "address": "289 Golf Course Rd",
+    "courses": [
+      {
+        "name": "Lakewood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6280,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 132
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6280,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6106,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6106,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5714,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5714,
+            "par": 72,
+            "rating": 73,
+            "slope": 130
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4728,
+            "par": 72,
+            "rating": 63.4,
+            "slope": 111
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4728,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1cdd0f0-86ac-11e4-8c28-020000005b00/lakewood-golf-course"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1afe8b0-86ac-11e4-8c28-020000005b00/mere-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1afe8b0-86ac-11e4-8c28-020000005b00/mere-creek-golf-course",
+  "checked_at": 1795661639.751942,
+  "sha256": "285a830bf0b21916f75cba97db85f00a3f44c32b8c6331115d9a7698098823a9",
+  "title": "Mere Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b1afe8b0-86ac-11e4-8c28-020000005b00",
+    "name": "Mere Creek Golf Course",
+    "address": "Middle Bay Rd, Brunswick",
+    "courses": [
+      {
+        "name": "Mere Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 6026,
+            "par": 70,
+            "rating": 69.8,
+            "slope": 126
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 6026,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5022,
+            "par": 70,
+            "rating": 63.4,
+            "slope": 108
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5022,
+            "par": 70,
+            "rating": 68.2,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1afe8b0-86ac-11e4-8c28-020000005b00/mere-creek-golf-course"
+  }
+}

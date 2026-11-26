@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad2f69a0-86ac-11e4-8c28-020000005b00/youghiogheny-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad2f69a0-86ac-11e4-8c28-020000005b00/youghiogheny-country-club",
+  "checked_at": 1795663891.8019986,
+  "sha256": "534ad38f31decc05188f860d56b2006018e5dd807c56dbf0335903cf0fc8cc59",
+  "title": "Youghiogheny Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ad2f69a0-86ac-11e4-8c28-020000005b00",
+    "name": "Youghiogheny Country Club",
+    "address": "1901 Greenock Buena Vista Road",
+    "courses": [
+      {
+        "name": "Youghiogheny",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6375,
+            "par": 72,
+            "rating": 71,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6113,
+            "par": 72,
+            "rating": 70,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5540,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad2f69a0-86ac-11e4-8c28-020000005b00/youghiogheny-country-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ca69fe0-86ac-11e4-8c28-020000005b00/union-city-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ca69fe0-86ac-11e4-8c28-020000005b00/union-city-golf-course",
+  "checked_at": 1795664705.9685123,
+  "sha256": "7ac86adad4420a303823aef45b5a944660c8a62d180c8177347843820c0e8a2d",
+  "title": "Union City Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9ca69fe0-86ac-11e4-8c28-020000005b00",
+    "name": "Union City Golf Course",
+    "address": "868 Wasson Rd, Union City, OH",
+    "courses": [
+      {
+        "name": "Union City",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5500,
+            "par": 72,
+            "rating": 70,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5500,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4890,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4890,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ca69fe0-86ac-11e4-8c28-020000005b00/union-city-golf-course"
+  }
+}

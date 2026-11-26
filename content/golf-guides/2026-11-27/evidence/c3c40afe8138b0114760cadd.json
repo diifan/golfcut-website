@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d4f5140-86ac-11e4-8c28-020000005b00/royal-hylands-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d4f5140-86ac-11e4-8c28-020000005b00/royal-hylands-golf-club",
+  "checked_at": 1795664727.375449,
+  "sha256": "7d84613d518aef390a2dc82620288c43a4775c5597c6387af3be83e080340b0a",
+  "title": "Royal Hylands Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d4f5140-86ac-11e4-8c28-020000005b00",
+    "name": "Royal Hylands Golf Club",
+    "address": "7629 S Greensboro Pike, Knightstown, IN",
+    "courses": [
+      {
+        "name": "Royal Hylands",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6519,
+            "par": 71,
+            "rating": 72.8,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6519,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5922,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5922,
+            "par": 71,
+            "rating": 74.7,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4813,
+            "par": 71,
+            "rating": 64.8,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4813,
+            "par": 71,
+            "rating": 68.5,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4613,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4613,
+            "par": 71,
+            "rating": 67.6,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d4f5140-86ac-11e4-8c28-020000005b00/royal-hylands-golf-club"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8875dcc0-86ac-11e4-8c28-020000005b00/crystal-woods-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8875dcc0-86ac-11e4-8c28-020000005b00/crystal-woods-golf-club",
+  "checked_at": 1795668295.4587312,
+  "sha256": "1cd51cc890e440a26e04e434bdcfcfc37329d56069e414016132b2275e43b5d6",
+  "title": "Crystal Woods Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8875dcc0-86ac-11e4-8c28-020000005b00",
+    "name": "Crystal Woods Golf Club",
+    "address": "5915 IL-47, Woodstock, IL",
+    "courses": [
+      {
+        "name": "Crystal Woods",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6403,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6403,
+            "par": 73,
+            "rating": 76,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6150,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6150,
+            "par": 73,
+            "rating": 74.6,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5488,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5488,
+            "par": 73,
+            "rating": 69.7,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8875dcc0-86ac-11e4-8c28-020000005b00/crystal-woods-golf-club"
+  }
+}

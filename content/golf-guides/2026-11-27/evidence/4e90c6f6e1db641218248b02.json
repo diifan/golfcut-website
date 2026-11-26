@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b232ad40-86ac-11e4-8c28-020000005b00/green-acres-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b232ad40-86ac-11e4-8c28-020000005b00/green-acres-golf-course",
+  "checked_at": 1795668307.2202203,
+  "sha256": "d359bb4f8d11e81a810eac44b626f51f27ebc000aa979b412c16a4b94d412992",
+  "title": "Green Acres Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b232ad40-86ac-11e4-8c28-020000005b00",
+    "name": "Green Acres Golf Course",
+    "address": "7323 Dixie Highway, Bridge Port, MI",
+    "courses": [
+      {
+        "name": "Green Acres",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6193,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6193,
+            "par": 72,
+            "rating": 75.7,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5892,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5892,
+            "par": 72,
+            "rating": 74,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5251,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 103
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5251,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4737,
+            "par": 72,
+            "rating": 63.7,
+            "slope": 97
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4737,
+            "par": 72,
+            "rating": 68,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b232ad40-86ac-11e4-8c28-020000005b00/green-acres-golf-course"
+  }
+}

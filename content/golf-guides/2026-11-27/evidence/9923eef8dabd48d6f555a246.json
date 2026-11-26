@@ -1,0 +1,59 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e1adea0-86ac-11e4-8c28-020000005b00/palo-verde-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e1adea0-86ac-11e4-8c28-020000005b00/palo-verde-golf-course",
+  "checked_at": 1795668324.145333,
+  "sha256": "564bbce1d9d364c342722f74adffa119557ed57fa3e11f409848beaa977ea5d8",
+  "title": "Palo Verde Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8e1adea0-86ac-11e4-8c28-020000005b00",
+    "name": "Palo Verde Golf Course",
+    "address": "6215 N 15th Ave, Phoenix, AZ",
+    "courses": [
+      {
+        "name": "9 hole Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Regular",
+            "category": "MALE",
+            "yards": 1739,
+            "par": 30,
+            "rating": 28.8,
+            "slope": 80
+          },
+          {
+            "name": "Regular",
+            "category": "FEMALE",
+            "yards": 1739,
+            "par": 30,
+            "rating": 28.8,
+            "slope": 83
+          }
+        ]
+      },
+      {
+        "name": "18 Hole Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Regular",
+            "category": "MALE",
+            "yards": 3478,
+            "par": 60,
+            "rating": 57.6,
+            "slope": 80
+          },
+          {
+            "name": "Regular",
+            "category": "FEMALE",
+            "yards": 3478,
+            "par": 60,
+            "rating": 57.7,
+            "slope": 83
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e1adea0-86ac-11e4-8c28-020000005b00/palo-verde-golf-course"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8ddad70-86ac-11e4-8c28-020000005b00/new-haven-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8ddad70-86ac-11e4-8c28-020000005b00/new-haven-golf-club",
+  "checked_at": 1795583819.9053512,
+  "sha256": "bf0928c39b4cb0e087fa3e4dcb0a2a420c0dd53ca5e82ff992e98e0d690065ea",
+  "title": "New Haven Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "b8ddad70-86ac-11e4-8c28-020000005b00",
+    "name": "New Haven Golf Club",
+    "address": "2321 Line Ferry Rd, Texarkana, AR",
+    "courses": [
+      {
+        "name": "New Haven Golf Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6227,
+            "par": 71,
+            "rating": 72.2,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5872,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 122
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4951,
+            "par": 71,
+            "rating": 66.1,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8ddad70-86ac-11e4-8c28-020000005b00/new-haven-golf-club"
+  }
+}

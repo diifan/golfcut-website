@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8fe73a30-86ac-11e4-8c28-020000005b00/lake-fairways-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8fe73a30-86ac-11e4-8c28-020000005b00/lake-fairways-country-club",
+  "checked_at": 1795583800.4533112,
+  "sha256": "e0578c7e924ba81ec562d9309d83a1c980982528e54fc3604cf71c863a55f556",
+  "title": "Lake Fairways Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8fe73a30-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Fairways Country Club",
+    "address": "19371 N Tamiami Trl, North Fort Myers, FL",
+    "courses": [
+      {
+        "name": "Lake Fairways",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2733,
+            "par": 60,
+            "rating": 53.7,
+            "slope": 86
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2733,
+            "par": 62,
+            "rating": 54.89762,
+            "slope": 82.20137
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2377,
+            "par": 60,
+            "rating": 53.42378,
+            "slope": 80.46053
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2377,
+            "par": 62,
+            "rating": 54.2,
+            "slope": 82
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8fe73a30-86ac-11e4-8c28-020000005b00/lake-fairways-country-club"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98a64d50-86ac-11e4-8c28-020000005b00/center-pointe-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98a64d50-86ac-11e4-8c28-020000005b00/center-pointe-golf-club",
+  "checked_at": 1795663905.93197,
+  "sha256": "b0435dab977f87adc1cf9de909d48722205e179e00274db8505cf7fd87fae85a",
+  "title": "CenterPointe Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "98a64d50-86ac-11e4-8c28-020000005b00",
+    "name": "CenterPointe Golf Club",
+    "address": "2231 Brickyard Rd",
+    "courses": [
+      {
+        "name": "Center Pointe",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6785,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6785,
+            "par": 72,
+            "rating": 78,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6438,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6438,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 135
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5646,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 112
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5646,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5231,
+            "par": 72,
+            "rating": 64.8,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5231,
+            "par": 72,
+            "rating": 70,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98a64d50-86ac-11e4-8c28-020000005b00/center-pointe-golf-club"
+  }
+}

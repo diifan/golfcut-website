@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9aaf3cb0-86ac-11e4-8c28-020000005b00/crooked-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9aaf3cb0-86ac-11e4-8c28-020000005b00/crooked-creek-golf-course",
+  "checked_at": 1795668299.5951085,
+  "sha256": "b4ff3ea792b6777b6acadcf9858999cc1e42693ae0bd7b342e60beecb19854bc",
+  "title": "Crooked Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9aaf3cb0-86ac-11e4-8c28-020000005b00",
+    "name": "Crooked Creek Golf Course",
+    "address": "764 Crooked Creek Rd, Hendersonville, NC",
+    "courses": [
+      {
+        "name": "Crooked Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6636,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6251,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5820,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5530,
+            "par": 72,
+            "rating": 64.5,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9aaf3cb0-86ac-11e4-8c28-020000005b00/crooked-creek-golf-course"
+  }
+}

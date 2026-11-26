@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98fa87d0-86ac-11e4-8c28-020000005b00/emerald-crest-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98fa87d0-86ac-11e4-8c28-020000005b00/emerald-crest-golf-course",
+  "checked_at": 1795666512.6645792,
+  "sha256": "05ebd9ac967c51cfe632759226dbd37c7c31f0840f8b5e947ceeaeb930c9bbce",
+  "title": "Emerald Crest Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "98fa87d0-86ac-11e4-8c28-020000005b00",
+    "name": "Emerald Crest Golf Course",
+    "address": "3989 State Route 3, Fulton",
+    "courses": [
+      {
+        "name": "Emerald Crest",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4802,
+            "par": 68,
+            "rating": 65.9,
+            "slope": 109
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4802,
+            "par": 68,
+            "rating": 67.4,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4601,
+            "par": 68,
+            "rating": 64.5,
+            "slope": 106
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4601,
+            "par": 68,
+            "rating": 66.4,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4084,
+            "par": 68,
+            "rating": 63.5,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4084,
+            "par": 68,
+            "rating": 64.1,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98fa87d0-86ac-11e4-8c28-020000005b00/emerald-crest-golf-course"
+  }
+}

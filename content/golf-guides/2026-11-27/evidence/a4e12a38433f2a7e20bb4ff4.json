@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b85b3700-86ac-11e4-8c28-020000005b00/prairiewood",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b85b3700-86ac-11e4-8c28-020000005b00/prairiewood",
+  "checked_at": 1795663893.1931233,
+  "sha256": "fe953408a9b14219b6c9ce2f5bea7e2562bb576c66254f2b472b345b8c24e31e",
+  "title": "Prairiewood - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b85b3700-86ac-11e4-8c28-020000005b00",
+    "name": "Prairiewood",
+    "address": "22 Prairiewood Drive South, Fargo ND",
+    "courses": [
+      {
+        "name": "Prairiewood ",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5094,
+            "par": 64,
+            "rating": 63.8,
+            "slope": 110
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5094,
+            "par": 64,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4790,
+            "par": 64,
+            "rating": 62.6,
+            "slope": 105
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4790,
+            "par": 64,
+            "rating": 67,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4490,
+            "par": 64,
+            "rating": 61.2,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4490,
+            "par": 64,
+            "rating": 64.6,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b85b3700-86ac-11e4-8c28-020000005b00/prairiewood"
+  }
+}

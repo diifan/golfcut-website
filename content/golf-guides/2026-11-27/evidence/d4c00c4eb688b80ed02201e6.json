@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5db9100-86ac-11e4-8c28-020000005b00/creekview-par-3-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5db9100-86ac-11e4-8c28-020000005b00/creekview-par-3-golf",
+  "checked_at": 1795663867.637079,
+  "sha256": "ff0ab61af5d0aa8ef47d4ccd92aaf9a7579fe75b3e94efc5381d844d10971222",
+  "title": "Creekview Par-3 Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b5db9100-86ac-11e4-8c28-020000005b00",
+    "name": "Creekview Par-3 Golf",
+    "address": "770 Albion Rd Edgerton, WI 53534",
+    "courses": [
+      {
+        "name": "Creekview(Par Three )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1370,
+            "par": 27,
+            "rating": 28.0448,
+            "slope": 85.1444
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1034,
+            "par": 27,
+            "rating": 26.51936,
+            "slope": 78.98888
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5db9100-86ac-11e4-8c28-020000005b00/creekview-par-3-golf"
+  }
+}

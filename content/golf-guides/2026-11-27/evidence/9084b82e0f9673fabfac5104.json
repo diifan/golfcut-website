@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b386f2a0-86ac-11e4-8c28-020000005b00/willow-wood-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b386f2a0-86ac-11e4-8c28-020000005b00/willow-wood-golf-club",
+  "checked_at": 1795666506.0298564,
+  "sha256": "5947e779ce029624677ea63bf02ed9fdcbca4b639d99a9ea739ceeb85ce9e8e2",
+  "title": "Willow Wood Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b386f2a0-86ac-11e4-8c28-020000005b00",
+    "name": "Willow Wood Golf Club",
+    "address": "12227 Sandborn Road Portland, MI 48875",
+    "courses": [
+      {
+        "name": "Willow Wood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6138,
+            "par": 71,
+            "rating": 70.4,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6138,
+            "par": 71,
+            "rating": 74.5,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5547,
+            "par": 71,
+            "rating": 67,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5547,
+            "par": 71,
+            "rating": 71.4,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4737,
+            "par": 71,
+            "rating": 63.4,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4737,
+            "par": 71,
+            "rating": 68,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b386f2a0-86ac-11e4-8c28-020000005b00/willow-wood-golf-club"
+  }
+}

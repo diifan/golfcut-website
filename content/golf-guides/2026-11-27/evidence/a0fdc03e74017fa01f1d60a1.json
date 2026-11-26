@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/963e9c20-86ac-11e4-8c28-020000005b00/wildflower-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/963e9c20-86ac-11e4-8c28-020000005b00/wildflower-golf-course",
+  "checked_at": 1795666532.8071125,
+  "sha256": "7c26016cc6f85fa5342ace3f25147de090244b5c1e406e3e03954f5f97e93481",
+  "title": "Wildflower Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "963e9c20-86ac-11e4-8c28-020000005b00",
+    "name": "Wildflower Golf Course",
+    "address": "19790 County Highway 20, Detroit Lakes, MN 56501",
+    "courses": [
+      {
+        "name": "Wildflower(Guest )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7000,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6551,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6191,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 125
+          },
+          {
+            "name": "Maroon",
+            "category": "MALE",
+            "yards": 5824,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 122
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5301,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/963e9c20-86ac-11e4-8c28-020000005b00/wildflower-golf-course"
+  }
+}

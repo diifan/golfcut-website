@@ -1,0 +1,295 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba4cf4e0-86ac-11e4-8c28-020000005b00/white-mountain-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba4cf4e0-86ac-11e4-8c28-020000005b00/white-mountain-golf-course",
+  "checked_at": 1795666541.226341,
+  "sha256": "721d05b98d539a529475d4c80112c645e10748af2d13ac0cb944d33ea50f5a7e",
+  "title": "White Mountain Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ba4cf4e0-86ac-11e4-8c28-020000005b00",
+    "name": "White Mountain Golf Course",
+    "address": "1501 Clubhouse Dr, Rock Springs",
+    "courses": [
+      {
+        "name": "Sands / Lakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6938,
+            "par": 71,
+            "rating": 71.7,
+            "slope": 126
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6938,
+            "par": 73,
+            "rating": 78.8,
+            "slope": 141
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6418,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 115
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6418,
+            "par": 73,
+            "rating": 76,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6023,
+            "par": 71,
+            "rating": 67.2,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6023,
+            "par": 73,
+            "rating": 73.6,
+            "slope": 129
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4858,
+            "par": 71,
+            "rating": 63,
+            "slope": 97
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 4858,
+            "par": 73,
+            "rating": 66.2,
+            "slope": 112
+          }
+        ]
+      },
+      {
+        "name": "Desert / Sands",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7130,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 126
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7130,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6748,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6748,
+            "par": 73,
+            "rating": 77.8,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6448,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6448,
+            "par": 73,
+            "rating": 75.6,
+            "slope": 135
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5676,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 121
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5676,
+            "par": 73,
+            "rating": 60.6,
+            "slope": 102
+          }
+        ]
+      },
+      {
+        "name": "Desert / Lakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6856,
+            "par": 71,
+            "rating": 71.4,
+            "slope": 126
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6856,
+            "par": 72,
+            "rating": 78.4,
+            "slope": 140
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6272,
+            "par": 71,
+            "rating": 68.8,
+            "slope": 114
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6272,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5829,
+            "par": 71,
+            "rating": 66.6,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5829,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 127
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4759,
+            "par": 71,
+            "rating": 62.4,
+            "slope": 96
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 4759,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 112
+          }
+        ]
+      },
+      {
+        "name": "Lakes Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 3332,
+            "par": 35,
+            "rating": 35.3,
+            "slope": 126
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 3332,
+            "par": 36,
+            "rating": 38.7,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2971,
+            "par": 35,
+            "rating": 33.6,
+            "slope": 110
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2971,
+            "par": 36,
+            "rating": 36.8,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2702,
+            "par": 35,
+            "rating": 32.2,
+            "slope": 105
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2702,
+            "par": 36,
+            "rating": 35.1,
+            "slope": 120
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 2020,
+            "par": 35,
+            "rating": 30,
+            "slope": 86
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 2020,
+            "par": 36,
+            "rating": 30.7,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba4cf4e0-86ac-11e4-8c28-020000005b00/white-mountain-golf-course"
+  }
+}

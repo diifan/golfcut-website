@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83de0520-86ac-11e4-8c28-020000005b00/dayton-ridge-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83de0520-86ac-11e4-8c28-020000005b00/dayton-ridge-golf-club",
+  "checked_at": 1795583811.315032,
+  "sha256": "766f07005a2d1ed99885e4689a2d32f03988f98f95321be0bd4b5485ad716aa6",
+  "title": "Dayton Ridge Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star-o star star-o star-o star star star-o star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "83de0520-86ac-11e4-8c28-020000005b00",
+    "name": "Dayton Ridge Golf Club",
+    "address": "3076 E 18th Rd, Ottawa, IL",
+    "courses": [
+      {
+        "name": "Dayton Ridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6100,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5288,
+            "par": 72,
+            "rating": 69,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83de0520-86ac-11e4-8c28-020000005b00/dayton-ridge-golf-club"
+  }
+}

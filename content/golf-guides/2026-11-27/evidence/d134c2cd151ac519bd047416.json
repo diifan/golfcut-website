@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ddec000-86ac-11e4-8c28-020000005b00/springfield-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ddec000-86ac-11e4-8c28-020000005b00/springfield-golf-club",
+  "checked_at": 1795669221.9523542,
+  "sha256": "b160487d6f74b3d7f44152bde7423abd6e256ed3d7f8d26c220639c371a88670",
+  "title": "Springfield Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8ddec000-86ac-11e4-8c28-020000005b00",
+    "name": "Springfield Golf Club",
+    "address": "1200 East Street Andrews Boulevard, Chandler, AZ",
+    "courses": [
+      {
+        "name": "Springfield",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Purple",
+            "category": "MALE",
+            "yards": 4174,
+            "par": 61,
+            "rating": 60.3,
+            "slope": 96
+          },
+          {
+            "name": "Purple",
+            "category": "FEMALE",
+            "yards": 4174,
+            "par": 61,
+            "rating": 63.2,
+            "slope": 99
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3853,
+            "par": 61,
+            "rating": 59.2,
+            "slope": 90
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3853,
+            "par": 61,
+            "rating": 61.5,
+            "slope": 96
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 3467,
+            "par": 61,
+            "rating": 57.4,
+            "slope": 87
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 3467,
+            "par": 61,
+            "rating": 59.4,
+            "slope": 94
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ddec000-86ac-11e4-8c28-020000005b00/springfield-golf-club"
+  }
+}

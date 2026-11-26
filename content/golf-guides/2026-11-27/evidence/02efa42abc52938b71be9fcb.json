@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/caf8d700-86ac-11e4-8c28-020000005b00/hirono-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/caf8d700-86ac-11e4-8c28-020000005b00/hirono-golf-club",
+  "checked_at": 1795666536.8186924,
+  "sha256": "2321fd52cfa990ce93b259e341352411a941a1f336a12dfafe9e5e3dd72c0588",
+  "title": "Hirono Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "caf8d700-86ac-11e4-8c28-020000005b00",
+    "name": "Hirono Golf Club",
+    "address": "Hyogo Prefecture Miki-shi Shidenmachi Hiroano 7-3",
+    "courses": [
+      {
+        "name": "Hirono GC",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "CHAMPION",
+            "category": "MALE",
+            "yards": 7169,
+            "par": 72,
+            "rating": 77.6,
+            "slope": 134
+          },
+          {
+            "name": "REGULAR",
+            "category": "MALE",
+            "yards": 6454,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 128
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 5975,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/caf8d700-86ac-11e4-8c28-020000005b00/hirono-golf-club"
+  }
+}

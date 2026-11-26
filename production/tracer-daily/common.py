@@ -20,6 +20,11 @@ def config():
 def progress(day,**updates):
  p=HOME/(day+'-receipt.json');r=read(p,{})
  r={'app':'golfcut','state':'collecting','day':day,'target':config()['target'],'generated_count':0,'validated_count':0,'published_count':0,'keyword_pool':str(HOME/'keywords.json'),'keyword_sources':[],'pages_path':None,'commit':None,'deployment_url':None,'schedule':{'config':str(HOME/'config.json')},'blockers':[],**r,**updates,'last_progress_at':now()}
+ if r.get('input_kind')=='semrush_keywords_v1' and r.get('state') in ('validated','ready','published'):
+  r['candidate_shortfall']=0;r['source_state']='batch_verified'
+  r['note']='Real Semrush batch validated; publication requires full live verification.' if r['state']!='published' else 'Real Semrush batch published; all page bodies and sitemap entries verified online.'
+  if r.get('implementation'):
+   r['implementation']={**r['implementation'],'real_semrush_generated_count':r['generated_count'],'real_semrush_published_count':r['published_count'],'remaining_acceptance':None if r['state']=='published' else 'Production publication and live verification pending.'}
  save(p,r)
  report=r if day=='2026-11-24' else {**r,'legacy_release':{k:read(HOME/'2026-11-24-receipt.json',{}).get(k) for k in ['day','input_kind','state','generated_count','published_count','commit','deployment_url']}}
  save(REPORT/'golfcut-receipt.json',report)

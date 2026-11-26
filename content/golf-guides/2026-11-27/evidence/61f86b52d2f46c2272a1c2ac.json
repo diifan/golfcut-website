@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b7446fd0-86ac-11e4-8c28-020000005b00/meadow-acres-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b7446fd0-86ac-11e4-8c28-020000005b00/meadow-acres-golf-course",
+  "checked_at": 1795583835.211353,
+  "sha256": "ad8a37c9582237b38d4b7afef354899bcea28d4fd21a08aa8703ab3f1ccb89ff",
+  "title": "Meadow Acres Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b7446fd0-86ac-11e4-8c28-020000005b00",
+    "name": "Meadow Acres Golf Course",
+    "address": "Fell St",
+    "courses": [
+      {
+        "name": "Meadow Acres 9 holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 2979,
+            "par": 36,
+            "rating": 34.2,
+            "slope": 117
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 2979,
+            "par": 36,
+            "rating": 34.2,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2671,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2671,
+            "par": 36,
+            "rating": 34.2,
+            "slope": 113
+          }
+        ]
+      },
+      {
+        "name": "Meadow 18 holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5958,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 117
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5958,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5342,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5342,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b7446fd0-86ac-11e4-8c28-020000005b00/meadow-acres-golf-course"
+  }
+}

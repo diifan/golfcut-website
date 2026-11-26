@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/935c3cb0-86ac-11e4-8c28-020000005b00/dublin",
+  "resolved_url": "https://18birdies.com/golf-courses/club/935c3cb0-86ac-11e4-8c28-020000005b00/dublin",
+  "checked_at": 1795663864.937539,
+  "sha256": "209eb674d1b33e23bdf4acadf361736f8248eadb9d64af2a7646962ee37e14a9",
+  "title": "Dublin - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "935c3cb0-86ac-11e4-8c28-020000005b00",
+    "name": "Dublin",
+    "address": "689 Country Club Rd, Dublin, GA",
+    "courses": [
+      {
+        "name": "Dublin",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6340,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6340,
+            "par": 72,
+            "rating": 75.6,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6094,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6094,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5864,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5864,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 126
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5184,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 115
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5184,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5030,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5030,
+            "par": 72,
+            "rating": 69,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/935c3cb0-86ac-11e4-8c28-020000005b00/dublin"
+  }
+}

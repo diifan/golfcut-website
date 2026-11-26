@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba29b570-86ac-11e4-8c28-020000005b00/montague-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba29b570-86ac-11e4-8c28-020000005b00/montague-golf-club",
+  "checked_at": 1795664710.6013174,
+  "sha256": "a3884e9e3ee1aa4f1e79ef9bb2b9eea9cd2ddfaf428235b38c057f19d6160559",
+  "title": "Montague Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ba29b570-86ac-11e4-8c28-020000005b00",
+    "name": "Montague Golf Club",
+    "address": "48 Randolph Ave",
+    "courses": [
+      {
+        "name": "Montague",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5689,
+            "par": 69,
+            "rating": 67.1,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5689,
+            "par": 69,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5360,
+            "par": 69,
+            "rating": 65.6,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5360,
+            "par": 69,
+            "rating": 71.4,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4678,
+            "par": 69,
+            "rating": 62.5,
+            "slope": 108
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4678,
+            "par": 69,
+            "rating": 67,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4507,
+            "par": 69,
+            "rating": 61.8,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4507,
+            "par": 69,
+            "rating": 66,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba29b570-86ac-11e4-8c28-020000005b00/montague-golf-club"
+  }
+}

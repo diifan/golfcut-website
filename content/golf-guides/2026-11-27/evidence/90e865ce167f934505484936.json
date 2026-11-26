@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad495a40-86ac-11e4-8c28-020000005b00/murrysville-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad495a40-86ac-11e4-8c28-020000005b00/murrysville-golf-club",
+  "checked_at": 1795664702.7095177,
+  "sha256": "49c6a1311b36757eb0d6d5cd624cf6860987939168a3e0147a4939d548bb4a61",
+  "title": "Murrysville Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "ad495a40-86ac-11e4-8c28-020000005b00",
+    "name": "Murrysville Golf Club",
+    "address": "3804 Sardis Rd",
+    "courses": [
+      {
+        "name": "Murrysville",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5955,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 120
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5955,
+            "par": 74,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5561,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5561,
+            "par": 74,
+            "rating": 68.8,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4827,
+            "par": 72,
+            "rating": 64.2,
+            "slope": 109
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4827,
+            "par": 74,
+            "rating": 66.8,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad495a40-86ac-11e4-8c28-020000005b00/murrysville-golf-club"
+  }
+}

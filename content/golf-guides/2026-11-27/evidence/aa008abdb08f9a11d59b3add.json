@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9079dd40-86ac-11e4-8c28-020000005b00/jake-gaither-municipal",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9079dd40-86ac-11e4-8c28-020000005b00/jake-gaither-municipal",
+  "checked_at": 1795668298.8641033,
+  "sha256": "8744dc9484a43046db6ef1931d5485784d1a89306ae812f50ff8f544878c9175",
+  "title": "Jake Gaither Municipal - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9079dd40-86ac-11e4-8c28-020000005b00",
+    "name": "Jake Gaither Municipal",
+    "address": "801 Tanner Dr",
+    "courses": [
+      {
+        "name": "9 Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3109,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3109,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2849,
+            "par": 36,
+            "rating": 33.4,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2849,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2475,
+            "par": 36,
+            "rating": 31.6,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2475,
+            "par": 36,
+            "rating": 34,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9079dd40-86ac-11e4-8c28-020000005b00/jake-gaither-municipal"
+  }
+}

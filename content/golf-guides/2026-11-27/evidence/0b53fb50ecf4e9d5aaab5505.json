@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9be80ad0-86ac-11e4-8c28-020000005b00/sugar-bush-golf-club-inc",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9be80ad0-86ac-11e4-8c28-020000005b00/sugar-bush-golf-club-inc",
+  "checked_at": 1795664714.4528608,
+  "sha256": "4bda94e1f6a0d589d7834ade63f0983034b465111a427d382a6bba8fabbcd2f2",
+  "title": "Sugar Bush Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9be80ad0-86ac-11e4-8c28-020000005b00",
+    "name": "Sugar Bush Golf Club",
+    "address": "11186 OH-88, Garrettsville, OH ",
+    "courses": [
+      {
+        "name": "Sugar Bush",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6571,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6182,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5526,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4627,
+            "par": 72,
+            "rating": 66,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9be80ad0-86ac-11e4-8c28-020000005b00/sugar-bush-golf-club-inc"
+  }
+}

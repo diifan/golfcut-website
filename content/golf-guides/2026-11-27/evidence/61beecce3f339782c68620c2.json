@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99978b20-86ac-11e4-8c28-020000005b00/port-jefferson-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99978b20-86ac-11e4-8c28-020000005b00/port-jefferson-country-club",
+  "checked_at": 1795664734.8895261,
+  "sha256": "2b2e581b2fe7525ab170ebcf0b777b92f9b037628831fb6ad0e326178adf5bd2",
+  "title": "Port Jefferson Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99978b20-86ac-11e4-8c28-020000005b00",
+    "name": "Port Jefferson Country Club",
+    "address": "44 Fairway Dr, Port Jefferson, NY",
+    "courses": [
+      {
+        "name": "Port Jefferson",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6763,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6763,
+            "par": 72,
+            "rating": 77.9,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6349,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6349,
+            "par": 72,
+            "rating": 76.5,
+            "slope": 135
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5612,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5612,
+            "par": 72,
+            "rating": 72,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5612,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5612,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99978b20-86ac-11e4-8c28-020000005b00/port-jefferson-country-club"
+  }
+}

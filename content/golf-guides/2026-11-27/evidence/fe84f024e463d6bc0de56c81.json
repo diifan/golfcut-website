@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b79aa620-86ac-11e4-8c28-020000005b00/urbandale-golf-and-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b79aa620-86ac-11e4-8c28-020000005b00/urbandale-golf-and-country-club",
+  "checked_at": 1795664711.116156,
+  "sha256": "72a2011be94d56f6aecabcd515274893f1901774302bf5b972b189ee1439bc35",
+  "title": "Urbandale Golf and Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b79aa620-86ac-11e4-8c28-020000005b00",
+    "name": "Urbandale Golf and Country Club",
+    "address": "4000 Clive St, Urbandale, IA",
+    "courses": [
+      {
+        "name": "9 Hole Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 3119,
+            "par": 36,
+            "rating": 34.8,
+            "slope": 121
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 3119,
+            "par": 36,
+            "rating": 38.1,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2565,
+            "par": 36,
+            "rating": 32.1,
+            "slope": 109
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2565,
+            "par": 36,
+            "rating": 34.9,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2523,
+            "par": 36,
+            "rating": 31.8,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2523,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 113
+          }
+        ]
+      },
+      {
+        "name": "18 Hole Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 6305,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 120
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 6305,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5121,
+            "par": 72,
+            "rating": 64.2,
+            "slope": 109
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5121,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5046,
+            "par": 72,
+            "rating": 63.6,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5046,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b79aa620-86ac-11e4-8c28-020000005b00/urbandale-golf-and-country-club"
+  }
+}

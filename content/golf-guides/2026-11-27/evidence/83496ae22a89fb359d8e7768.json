@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c806880-86ac-11e4-8c28-020000005b00/austin-bayou",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c806880-86ac-11e4-8c28-020000005b00/austin-bayou",
+  "checked_at": 1795666502.1682394,
+  "sha256": "e289968801c4298416c09c38967276da1ddc7cb063a3c8f629d9675c0e1689e1",
+  "title": "Austin Bayou - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8c806880-86ac-11e4-8c28-020000005b00",
+    "name": "Austin Bayou",
+    "address": "2111 County Road 33, Danbury, TX",
+    "courses": [
+      {
+        "name": "Austin Bayou",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6332,
+            "par": 72,
+            "rating": 70,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5772,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 112
+          },
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 5388,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5218,
+            "par": 72,
+            "rating": 64.8,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c806880-86ac-11e4-8c28-020000005b00/austin-bayou"
+  }
+}

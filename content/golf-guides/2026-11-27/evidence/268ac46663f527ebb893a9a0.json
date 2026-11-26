@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/934c3720-86ac-11e4-8c28-020000005b00/godwin-creek",
+  "resolved_url": "https://18birdies.com/golf-courses/club/934c3720-86ac-11e4-8c28-020000005b00/godwin-creek",
+  "checked_at": 1795583809.2340143,
+  "sha256": "6ea73076886d29caf15284831107756d27c7d36e310e4a260b346398bdb902c4",
+  "title": "Godwin Creek - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "934c3720-86ac-11e4-8c28-020000005b00",
+    "name": "Godwin Creek",
+    "address": "403 42nd St, Columbus, GA",
+    "courses": [
+      {
+        "name": "Godwin Creek",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 867,
+            "par": 30,
+            "rating": 25.76118,
+            "slope": 75.92944
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 867,
+            "par": 30,
+            "rating": 25.76118,
+            "slope": 75.92944
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/934c3720-86ac-11e4-8c28-020000005b00/godwin-creek"
+  }
+}

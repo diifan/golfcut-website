@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b7042c0-86ac-11e4-8c28-020000005b00/j-e-good-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b7042c0-86ac-11e4-8c28-020000005b00/j-e-good-park-golf-course",
+  "checked_at": 1795661684.3533795,
+  "sha256": "a8364b227f2b9ff4b1084f9f1abe78d7e203c897215e64ca53c1d5fa38beec02",
+  "title": "J. E Good Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9b7042c0-86ac-11e4-8c28-020000005b00",
+    "name": "J. E Good Park Golf Course",
+    "address": "530 Nome Avenu, Akron, OH",
+    "courses": [
+      {
+        "name": "J Edward Good",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6683,
+            "par": 71,
+            "rating": 72,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6288,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5704,
+            "par": 71,
+            "rating": 67.7,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4926,
+            "par": 71,
+            "rating": 63.6,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b7042c0-86ac-11e4-8c28-020000005b00/j-e-good-park-golf-course"
+  }
+}

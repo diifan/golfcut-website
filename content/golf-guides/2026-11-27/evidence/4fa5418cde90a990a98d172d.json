@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b53bf5a0-86ac-11e4-8c28-020000005b00/krooked-kreek",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b53bf5a0-86ac-11e4-8c28-020000005b00/krooked-kreek",
+  "checked_at": 1795666547.3584552,
+  "sha256": "01dc9eaec83d0362679cbecd0c7c1b87f7bd4bdbacede3a508622c895bdb9233",
+  "title": "Krooked Kreek - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b53bf5a0-86ac-11e4-8c28-020000005b00",
+    "name": "Krooked Kreek",
+    "address": "2448 75th Ave, Osceola, WI",
+    "courses": [
+      {
+        "name": "Krooked Kreek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6401,
+            "par": 72,
+            "rating": 71,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6401,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6109,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6109,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4886,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4886,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b53bf5a0-86ac-11e4-8c28-020000005b00/krooked-kreek"
+  }
+}

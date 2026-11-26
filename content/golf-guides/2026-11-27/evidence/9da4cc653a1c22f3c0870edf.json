@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e87f850-86ac-11e4-8c28-020000005b00/las-barrancas-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e87f850-86ac-11e4-8c28-020000005b00/las-barrancas-golf-course",
+  "checked_at": 1795663876.8211398,
+  "sha256": "bf9498835ccd813f5822164f39f436aa2114a2b1f93d6a86fba270978d60608b",
+  "title": "Las Barrancas Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8e87f850-86ac-11e4-8c28-020000005b00",
+    "name": "Las Barrancas Golf Course",
+    "address": "14076 E 48th Drive, Yuma, AZ",
+    "courses": [
+      {
+        "name": "Las Barrancas",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6888,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 127
+          },
+          {
+            "name": "Quartz",
+            "category": "MALE",
+            "yards": 6295,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 120
+          },
+          {
+            "name": "Copper",
+            "category": "MALE",
+            "yards": 5578,
+            "par": 72,
+            "rating": 67,
+            "slope": 113
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 4932,
+            "par": 72,
+            "rating": 63.9,
+            "slope": 105
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4420,
+            "par": 72,
+            "rating": 65,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e87f850-86ac-11e4-8c28-020000005b00/las-barrancas-golf-course"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9cfb76a0-86ac-11e4-8c28-020000005b00/bedford-elks",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9cfb76a0-86ac-11e4-8c28-020000005b00/bedford-elks",
+  "checked_at": 1795668342.5754406,
+  "sha256": "4c36821026feba3c20de0fe93ce34d97cd18e15ae543d23f0df898a2e3d328d4",
+  "title": "Bedford Elks - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9cfb76a0-86ac-11e4-8c28-020000005b00",
+    "name": "Bedford Elks",
+    "address": "937 S Richard St, Bedford, PA",
+    "courses": [
+      {
+        "name": "9 Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3357,
+            "par": 36,
+            "rating": 35.8,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3357,
+            "par": 35,
+            "rating": 38.8,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3113,
+            "par": 36,
+            "rating": 34.9,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3113,
+            "par": 35,
+            "rating": 37.6,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2742,
+            "par": 36,
+            "rating": 32.8,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2742,
+            "par": 35,
+            "rating": 35.5,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2308,
+            "par": 36,
+            "rating": 31.1,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2308,
+            "par": 35,
+            "rating": 33.2,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9cfb76a0-86ac-11e4-8c28-020000005b00/bedford-elks"
+  }
+}

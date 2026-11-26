@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b118b1c0-86ac-11e4-8c28-020000005b00/oakwing",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b118b1c0-86ac-11e4-8c28-020000005b00/oakwing",
+  "checked_at": 1795666528.3345277,
+  "sha256": "fded02f1ef400289d461d5b71ae3ed5b35f902f1a9ac75097e4d7d9996f622d0",
+  "title": "Oakwing - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b118b1c0-86ac-11e4-8c28-020000005b00",
+    "name": "Oakwing",
+    "address": "2345 Vandenburg Dr, Alexandria, LA",
+    "courses": [
+      {
+        "name": "Oakwing",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7043,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6552,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6257,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5819,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5007,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b118b1c0-86ac-11e4-8c28-020000005b00/oakwing"
+  }
+}

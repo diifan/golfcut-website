@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d38f4d0-86ac-11e4-8c28-020000005b00/terra-greens-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d38f4d0-86ac-11e4-8c28-020000005b00/terra-greens-golf-course",
+  "checked_at": 1795668360.2805655,
+  "sha256": "508e580bdc60ac57e5cb77202ea8ef769b556d262589816dbc115c63f6dec6d5",
+  "title": "Terra Greens Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d38f4d0-86ac-11e4-8c28-020000005b00",
+    "name": "Terra Greens Golf Course",
+    "address": "5006 Poole Rd, East Stroudsburg, PA",
+    "courses": [
+      {
+        "name": "Terra Greens F + B",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6260,
+            "par": 72,
+            "rating": 70,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5316,
+            "par": 72,
+            "rating": 64.8,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5060,
+            "par": 72,
+            "rating": 68,
+            "slope": 116
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 3252,
+            "par": 72,
+            "rating": 59.7,
+            "slope": 101
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d38f4d0-86ac-11e4-8c28-020000005b00/terra-greens-golf-course"
+  }
+}

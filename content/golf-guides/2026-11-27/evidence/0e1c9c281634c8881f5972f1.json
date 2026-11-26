@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1f41da0-86ac-11e4-8c28-020000005b00/poland-spring-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1f41da0-86ac-11e4-8c28-020000005b00/poland-spring-golf-course",
+  "checked_at": 1795663907.3695745,
+  "sha256": "744c9d7b298e20f14e51a67c7cb6b6b707a52c19daed03aa4ce8c4777573944b",
+  "title": "Poland Spring Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1f41da0-86ac-11e4-8c28-020000005b00",
+    "name": "Poland Spring Golf Course",
+    "address": "640 Maine Street",
+    "courses": [
+      {
+        "name": "Poland Spring Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6178,
+            "par": 71,
+            "rating": 69.3,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5931,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 123
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5229,
+            "par": 71,
+            "rating": 64.2,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5119,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1f41da0-86ac-11e4-8c28-020000005b00/poland-spring-golf-course"
+  }
+}

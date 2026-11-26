@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ff08ac70-ee10-11ee-bc63-06780482e2ce/tecumseh-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ff08ac70-ee10-11ee-bc63-06780482e2ce/tecumseh-country-club",
+  "checked_at": 1795661421.2880812,
+  "sha256": "ac5b76a568aa1be61075ed8ecf290824e43dc63331074fa40fac7abcc54ed8de",
+  "title": " Tecumseh Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ff08ac70-ee10-11ee-bc63-06780482e2ce",
+    "name": " Tecumseh Country Club",
+    "address": "61847 US Hwy 136, Tecumseh, NE",
+    "courses": [
+      {
+        "name": "Tecumseh (18 Holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5646,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5646,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4612,
+            "par": 72,
+            "rating": 64,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4612,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 112
+          }
+        ]
+      },
+      {
+        "name": "Tecumseh (9 Holes Only)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2823,
+            "par": 36,
+            "rating": 34.2,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2823,
+            "par": 36,
+            "rating": 36.9,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2306,
+            "par": 36,
+            "rating": 32,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2306,
+            "par": 36,
+            "rating": 34.1,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ff08ac70-ee10-11ee-bc63-06780482e2ce/tecumseh-country-club"
+  }
+}

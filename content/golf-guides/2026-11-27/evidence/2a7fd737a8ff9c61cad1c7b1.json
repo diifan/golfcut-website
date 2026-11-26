@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b24b3e50-86ac-11e4-8c28-020000005b00/caro-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b24b3e50-86ac-11e4-8c28-020000005b00/caro-golf-club",
+  "checked_at": 1795583809.1782477,
+  "sha256": "f967b3b4ae2bba18ac842d8bf7e247eff4341813a2fa82cb1c16b9a409febc8f",
+  "title": "Caro Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b24b3e50-86ac-11e4-8c28-020000005b00",
+    "name": "Caro Golf Club",
+    "address": "1080 E Caro Rd",
+    "courses": [
+      {
+        "name": "18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5822,
+            "par": 70,
+            "rating": 67.8,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5822,
+            "par": 70,
+            "rating": 72.9,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5076,
+            "par": 70,
+            "rating": 68,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5076,
+            "par": 70,
+            "rating": 69.8,
+            "slope": 114
+          }
+        ]
+      },
+      {
+        "name": "9 Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2911,
+            "par": 35,
+            "rating": 35.7,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2911,
+            "par": 35,
+            "rating": 36.4,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2538,
+            "par": 35,
+            "rating": 34,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2538,
+            "par": 35,
+            "rating": 34.4,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b24b3e50-86ac-11e4-8c28-020000005b00/caro-golf-club"
+  }
+}

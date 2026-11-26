@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae648e40-86ac-11e4-8c28-020000005b00/cross-creek-plantation",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae648e40-86ac-11e4-8c28-020000005b00/cross-creek-plantation",
+  "checked_at": 1795666527.5984771,
+  "sha256": "aaa02ebb033e514697a9f3c406958fab914dec2f344e5f90a535507533afac8b",
+  "title": "Cross Creek Plantation - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae648e40-86ac-11e4-8c28-020000005b00",
+    "name": "Cross Creek Plantation",
+    "address": "130 Club Drive",
+    "courses": [
+      {
+        "name": "Cross Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6846,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 148
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6424,
+            "par": 72,
+            "rating": 72,
+            "slope": 141
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5962,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 130
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5528,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5164,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae648e40-86ac-11e4-8c28-020000005b00/cross-creek-plantation"
+  }
+}

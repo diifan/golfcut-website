@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b7bcfb30-86ac-11e4-8c28-020000005b00/cherry-oaks-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b7bcfb30-86ac-11e4-8c28-020000005b00/cherry-oaks-golf-course",
+  "checked_at": 1795661424.2595737,
+  "sha256": "21b83e388d2b6e649a6dc7b45e2e13a0b53b8678d5ca1b73fbf4d15f7fd3cf68",
+  "title": "Cherry Oaks Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b7bcfb30-86ac-11e4-8c28-020000005b00",
+    "name": "Cherry Oaks Golf Course",
+    "address": "1119 N Main St, Cheney, KS",
+    "courses": [
+      {
+        "name": "Cherry Oaks",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6791,
+            "par": 72,
+            "rating": 73,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6268,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5491,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5385,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b7bcfb30-86ac-11e4-8c28-020000005b00/cherry-oaks-golf-course"
+  }
+}

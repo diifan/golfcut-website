@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9c30460-86ac-11e4-8c28-020000005b00/indian-mound-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9c30460-86ac-11e4-8c28-020000005b00/indian-mound-golf-course",
+  "checked_at": 1795664731.3740003,
+  "sha256": "e8f02f06449aa0d52ccaf05641957a53f7324ac80d42cdf78ff41b8f28f51d6d",
+  "title": "Indian Mound Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b9c30460-86ac-11e4-8c28-020000005b00",
+    "name": "Indian Mound Golf Course",
+    "address": "Route 16 B, Center Ossipee, NH",
+    "courses": [
+      {
+        "name": "Indian Mound",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5675,
+            "par": 70,
+            "rating": 67.7,
+            "slope": 113
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5675,
+            "par": 70,
+            "rating": 71.7,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5360,
+            "par": 70,
+            "rating": 66.1,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5360,
+            "par": 70,
+            "rating": 69.7,
+            "slope": 112
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4713,
+            "par": 70,
+            "rating": 63,
+            "slope": 106
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4713,
+            "par": 70,
+            "rating": 66.6,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9c30460-86ac-11e4-8c28-020000005b00/indian-mound-golf-course"
+  }
+}

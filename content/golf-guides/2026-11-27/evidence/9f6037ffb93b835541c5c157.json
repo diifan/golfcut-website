@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98844660-86ac-11e4-8c28-020000005b00/sundown-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98844660-86ac-11e4-8c28-020000005b00/sundown-golf-country-club",
+  "checked_at": 1795668337.0453305,
+  "sha256": "ec4a21dcd7a879b3f836020430af508f894bd41c9f25fb5652623fe25bf872b4",
+  "title": "Sundown Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "98844660-86ac-11e4-8c28-020000005b00",
+    "name": "Sundown Golf & Country Club",
+    "address": "129 Hay Path Ln",
+    "courses": [
+      {
+        "name": "Sundown",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2715,
+            "par": 36,
+            "rating": 34.8,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2715,
+            "par": 36,
+            "rating": 35.4,
+            "slope": 120
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 2285,
+            "par": 36,
+            "rating": 32.9,
+            "slope": 105
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 2285,
+            "par": 36,
+            "rating": 33.1,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98844660-86ac-11e4-8c28-020000005b00/sundown-golf-country-club"
+  }
+}

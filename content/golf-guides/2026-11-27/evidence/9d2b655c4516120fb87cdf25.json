@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9248d0e0-86ac-11e4-8c28-020000005b00/mt-massive-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9248d0e0-86ac-11e4-8c28-020000005b00/mt-massive-golf-club",
+  "checked_at": 1795668288.4365346,
+  "sha256": "f872b5506a054ba43d2b9d825a765432013027a3f6071af52909bbc89ed9c73c",
+  "title": "Mt. Massive Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9248d0e0-86ac-11e4-8c28-020000005b00",
+    "name": "Mt. Massive Golf Club",
+    "address": "259 County Rd 5",
+    "courses": [
+      {
+        "name": "Mount Massive",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue/Black",
+            "category": "MALE",
+            "yards": 6117,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 112
+          },
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 5556,
+            "par": 72,
+            "rating": 64.2,
+            "slope": 104
+          },
+          {
+            "name": "Red/White",
+            "category": "MALE",
+            "yards": 4679,
+            "par": 72,
+            "rating": 61,
+            "slope": 94
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9248d0e0-86ac-11e4-8c28-020000005b00/mt-massive-golf-club"
+  }
+}

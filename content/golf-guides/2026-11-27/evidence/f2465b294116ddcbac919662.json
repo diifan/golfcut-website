@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8663380-86ac-11e4-8c28-020000005b00/mandan-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8663380-86ac-11e4-8c28-020000005b00/mandan-municipal-golf-course",
+  "checked_at": 1795666524.8404398,
+  "sha256": "a38075e9820ec11cc031f82ef80c9433c8d900f244d3de8a9f63a566925c6028",
+  "title": "Mandan Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b8663380-86ac-11e4-8c28-020000005b00",
+    "name": "Mandan Municipal Golf Course",
+    "address": "1002 7th St SW, Mandan, ND",
+    "courses": [
+      {
+        "name": "Mandan (9 holes )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2824,
+            "par": 35,
+            "rating": 35.3,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2824,
+            "par": 35,
+            "rating": 36,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2321,
+            "par": 35,
+            "rating": 33,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2321,
+            "par": 35,
+            "rating": 33.3,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8663380-86ac-11e4-8c28-020000005b00/mandan-municipal-golf-course"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b08c7750-86ac-11e4-8c28-020000005b00/red-wolf-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b08c7750-86ac-11e4-8c28-020000005b00/red-wolf-golf-club",
+  "checked_at": 1795666506.448768,
+  "sha256": "7a47f4a7a17ed9fca37987a706196cc0f04de536b40e0ac8e54b1063b34f166c",
+  "title": "Red Wolf Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b08c7750-86ac-11e4-8c28-020000005b00",
+    "name": "Red Wolf Golf Club",
+    "address": "1676 Elm Street, Clarkston, WA",
+    "courses": [
+      {
+        "name": "Red Wolf Golf Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6683,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6449,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6047,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5345,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b08c7750-86ac-11e4-8c28-020000005b00/red-wolf-golf-club"
+  }
+}

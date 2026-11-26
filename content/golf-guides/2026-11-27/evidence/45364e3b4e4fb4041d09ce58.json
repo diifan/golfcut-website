@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/aeb8c8c0-86ac-11e4-8c28-020000005b00/two-rivers-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/aeb8c8c0-86ac-11e4-8c28-020000005b00/two-rivers-golf-club",
+  "checked_at": 1795663445.2067792,
+  "sha256": "271f6b027e4e349a0a3a37a7cabbc9ec651d94868a6185b76a7dcaf24b9e52d3",
+  "title": "Two Rivers Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "aeb8c8c0-86ac-11e4-8c28-020000005b00",
+    "name": "Two Rivers Golf Club",
+    "address": "150 S Oak Tree Lane, Dakota Dunes SD",
+    "courses": [
+      {
+        "name": "Two Rivers",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6195,
+            "par": 70,
+            "rating": 69.6,
+            "slope": 122
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6195,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5722,
+            "par": 70,
+            "rating": 67.9,
+            "slope": 116
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5722,
+            "par": 70,
+            "rating": 73.4,
+            "slope": 126
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 4746,
+            "par": 70,
+            "rating": 63.5,
+            "slope": 108
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 4746,
+            "par": 70,
+            "rating": 67.8,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/aeb8c8c0-86ac-11e4-8c28-020000005b00/two-rivers-golf-club"
+  }
+}

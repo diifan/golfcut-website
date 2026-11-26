@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1e1ce20-86ac-11e4-8c28-020000005b00/goose-river-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1e1ce20-86ac-11e4-8c28-020000005b00/goose-river-golf-course",
+  "checked_at": 1795666558.2795537,
+  "sha256": "6d669545b4e0f4c1ccf7e563879e77696c7129777ead0451b851fc00cae316e6",
+  "title": "Goose River Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "b1e1ce20-86ac-11e4-8c28-020000005b00",
+    "name": "Goose River Golf Course",
+    "address": "50 Park St, Rockport, ME",
+    "courses": [
+      {
+        "name": "9 Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3146,
+            "par": 36,
+            "rating": 34.7,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3146,
+            "par": 36,
+            "rating": 37.7,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2581,
+            "par": 36,
+            "rating": 33,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2581,
+            "par": 36,
+            "rating": 36,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2567,
+            "par": 36,
+            "rating": 32.5,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2567,
+            "par": 36,
+            "rating": 35.2,
+            "slope": 116
+          }
+        ]
+      },
+      {
+        "name": "18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6250,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6250,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 133
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5278,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5278,
+            "par": 72,
+            "rating": 72,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5264,
+            "par": 72,
+            "rating": 65.2,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5264,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1e1ce20-86ac-11e4-8c28-020000005b00/goose-river-golf-course"
+  }
+}

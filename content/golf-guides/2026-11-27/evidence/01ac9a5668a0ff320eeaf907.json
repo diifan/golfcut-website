@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9978b880-86ac-11e4-8c28-020000005b00/canasawacta",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9978b880-86ac-11e4-8c28-020000005b00/canasawacta",
+  "checked_at": 1795666505.5638158,
+  "sha256": "3a6088b831de53e873d421a633fa7d24b92277642d37c2e1e8d99f9eef136000",
+  "title": "Canasawacta - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9978b880-86ac-11e4-8c28-020000005b00",
+    "name": "Canasawacta",
+    "address": "79 S Broad St, Norwich, NY",
+    "courses": [
+      {
+        "name": "Canasawacta",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6044,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6044,
+            "par": 71,
+            "rating": 74,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6271,
+            "par": 71,
+            "rating": 70,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6271,
+            "par": 71,
+            "rating": 75.3,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5166,
+            "par": 71,
+            "rating": 68.5,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5166,
+            "par": 71,
+            "rating": 68.3,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9978b880-86ac-11e4-8c28-020000005b00/canasawacta"
+  }
+}

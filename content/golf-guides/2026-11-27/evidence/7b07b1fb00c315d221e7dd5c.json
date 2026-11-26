@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95c155d0-86ac-11e4-8c28-020000005b00/rockland-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95c155d0-86ac-11e4-8c28-020000005b00/rockland-golf-course",
+  "checked_at": 1795668303.487653,
+  "sha256": "9adf63bcfbcaeb9b1a5f36eb3234d438afd20a320fc5e00c914059f5f46363ef",
+  "title": "Rockland Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "95c155d0-86ac-11e4-8c28-020000005b00",
+    "name": "Rockland Golf Course",
+    "address": "276 Plain St, Rockland, MA",
+    "courses": [
+      {
+        "name": "Rockland",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3226,
+            "par": 54,
+            "rating": 56.5,
+            "slope": 83
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3226,
+            "par": 59,
+            "rating": 58.5,
+            "slope": 90
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 2887,
+            "par": 54,
+            "rating": 55.1,
+            "slope": 81
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 2887,
+            "par": 59,
+            "rating": 57.3,
+            "slope": 83
+          },
+          {
+            "name": " White",
+            "category": "MALE",
+            "yards": 2671,
+            "par": 54,
+            "rating": 54.1,
+            "slope": 82
+          },
+          {
+            "name": " White",
+            "category": "FEMALE",
+            "yards": 2671,
+            "par": 59,
+            "rating": 56.4,
+            "slope": 84
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1885,
+            "par": 54,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1885,
+            "par": 59,
+            "rating": 53.5,
+            "slope": 82
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95c155d0-86ac-11e4-8c28-020000005b00/rockland-golf-course"
+  }
+}

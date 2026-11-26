@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8bfda3f0-86ac-11e4-8c28-020000005b00/pampa-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8bfda3f0-86ac-11e4-8c28-020000005b00/pampa-country-club",
+  "checked_at": 1795583814.5899048,
+  "sha256": "43a9d89c664efa1c2e6f87cb3776bc11327f1bcb6687ce4996d70b12201bb004",
+  "title": "Pampa Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8bfda3f0-86ac-11e4-8c28-020000005b00",
+    "name": "Pampa Country Club",
+    "address": "1765 E Harvester Ave, Pampa, TX 79065",
+    "courses": [
+      {
+        "name": "Pampa",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6273,
+            "par": 71,
+            "rating": 70.7,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6030,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5225,
+            "par": 71,
+            "rating": 65.4,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8bfda3f0-86ac-11e4-8c28-020000005b00/pampa-country-club"
+  }
+}

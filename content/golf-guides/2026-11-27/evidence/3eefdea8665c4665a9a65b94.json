@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7c21e310-86ac-11e4-8c28-020000005b00/riyadh",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7c21e310-86ac-11e4-8c28-020000005b00/riyadh",
+  "checked_at": 1795668303.4445238,
+  "sha256": "359a993d6307b15b6075700a6cbe57d5b1d9c16fe127a3061dc121b30116d2f1",
+  "title": "Riyadh - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "7c21e310-86ac-11e4-8c28-020000005b00",
+    "name": "Riyadh",
+    "address": "Powerscourt",
+    "courses": [
+      {
+        "name": "Riyadh (Green)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7434,
+            "par": 72,
+            "rating": 74,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7434,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6850,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6850,
+            "par": 72,
+            "rating": 78.3,
+            "slope": 140
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6324,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6324,
+            "par": 72,
+            "rating": 73,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5636,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5636,
+            "par": 72,
+            "rating": 70,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7c21e310-86ac-11e4-8c28-020000005b00/riyadh"
+  }
+}

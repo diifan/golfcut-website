@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afc4ba80-86ac-11e4-8c28-020000005b00/winton-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afc4ba80-86ac-11e4-8c28-020000005b00/winton-country-club",
+  "checked_at": 1795583783.761072,
+  "sha256": "2bea09217b9148282e38389e064e58a7a58f4f2a71c85e46d6300053fe323605",
+  "title": "Winton Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "afc4ba80-86ac-11e4-8c28-020000005b00",
+    "name": "Winton Country Club",
+    "address": "599 Patrick Henry Highway, Clifford, VA",
+    "courses": [
+      {
+        "name": "Winton",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6833,
+            "par": 71,
+            "rating": 72.7,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6833,
+            "par": 71,
+            "rating": 78.2,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6485,
+            "par": 71,
+            "rating": 71.3,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6485,
+            "par": 71,
+            "rating": 77.4,
+            "slope": 137
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6172,
+            "par": 71,
+            "rating": 70,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6172,
+            "par": 71,
+            "rating": 75.8,
+            "slope": 134
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afc4ba80-86ac-11e4-8c28-020000005b00/winton-country-club"
+  }
+}

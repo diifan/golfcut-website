@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ae84e10-86ac-11e4-8c28-020000005b00/taberna-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ae84e10-86ac-11e4-8c28-020000005b00/taberna-country-club",
+  "checked_at": 1795666558.196999,
+  "sha256": "569f4dd22855db179f426dbb4496027627f197ecc84699568a88b39ee90d9d1c",
+  "title": "Taberna Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9ae84e10-86ac-11e4-8c28-020000005b00",
+    "name": "Taberna Country Club",
+    "address": "401 Taberna Way, New Bern, NC",
+    "courses": [
+      {
+        "name": "Taberna",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6917,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6443,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 124
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6097,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5113,
+            "par": 72,
+            "rating": 63.7,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ae84e10-86ac-11e4-8c28-020000005b00/taberna-country-club"
+  }
+}

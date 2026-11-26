@@ -1,0 +1,815 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e27afe0-86ac-11e4-8c28-020000005b00/desert-mountain-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e27afe0-86ac-11e4-8c28-020000005b00/desert-mountain-club",
+  "checked_at": 1795668351.6504657,
+  "sha256": "0775953988a4f90b32c040ad96054472dfee03596a7814978ed3ba5069406df1",
+  "title": "Desert Mountain Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8e27afe0-86ac-11e4-8c28-020000005b00",
+    "name": "Desert Mountain Club",
+    "address": "11124 E Prospect Point Dr, Scottsdale, AZ",
+    "courses": [
+      {
+        "name": "Apache",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Golden Bear",
+            "category": "MALE",
+            "yards": 7211,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 136
+          },
+          {
+            "name": "Golden Bear",
+            "category": "FEMALE",
+            "yards": 7211,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "3",
+            "category": "MALE",
+            "yards": 6836,
+            "par": 72,
+            "rating": 72,
+            "slope": 130
+          },
+          {
+            "name": "3",
+            "category": "FEMALE",
+            "yards": 6836,
+            "par": 72,
+            "rating": 78.3,
+            "slope": 139
+          },
+          {
+            "name": "4",
+            "category": "MALE",
+            "yards": 6489,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 128
+          },
+          {
+            "name": "4",
+            "category": "FEMALE",
+            "yards": 6489,
+            "par": 72,
+            "rating": 76.5,
+            "slope": 135
+          },
+          {
+            "name": "5",
+            "category": "MALE",
+            "yards": 6220,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 124
+          },
+          {
+            "name": "5",
+            "category": "FEMALE",
+            "yards": 6220,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 130
+          },
+          {
+            "name": "1",
+            "category": "MALE",
+            "yards": 4657,
+            "par": 72,
+            "rating": 62,
+            "slope": 107
+          },
+          {
+            "name": "1",
+            "category": "FEMALE",
+            "yards": 4657,
+            "par": 72,
+            "rating": 65.6,
+            "slope": 113
+          },
+          {
+            "name": "6",
+            "category": "MALE",
+            "yards": 5599,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 116
+          },
+          {
+            "name": "6",
+            "category": "FEMALE",
+            "yards": 5599,
+            "par": 72,
+            "rating": 71,
+            "slope": 122
+          }
+        ]
+      },
+      {
+        "name": "Chiricahua",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Golden Bear",
+            "category": "MALE",
+            "yards": 7347,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 147
+          },
+          {
+            "name": "Golden Bear",
+            "category": "FEMALE",
+            "yards": 7347,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6796,
+            "par": 72,
+            "rating": 72,
+            "slope": 140
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6796,
+            "par": 72,
+            "rating": 78.1,
+            "slope": 139
+          },
+          {
+            "name": "Copper",
+            "category": "MALE",
+            "yards": 6406,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 138
+          },
+          {
+            "name": "Copper",
+            "category": "FEMALE",
+            "yards": 6406,
+            "par": 72,
+            "rating": 76,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6289,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6289,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 146
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5614,
+            "par": 72,
+            "rating": 66,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5614,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 138
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4992,
+            "par": 72,
+            "rating": 63.4,
+            "slope": 119
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4992,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 127
+          }
+        ]
+      },
+      {
+        "name": "Cochise",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Golden Bear",
+            "category": "MALE",
+            "yards": 7042,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 143
+          },
+          {
+            "name": "Golden Bear",
+            "category": "FEMALE",
+            "yards": 7042,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6563,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6563,
+            "par": 72,
+            "rating": 76.8,
+            "slope": 136
+          },
+          {
+            "name": "Copper",
+            "category": "MALE",
+            "yards": 6307,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 132
+          },
+          {
+            "name": "Copper",
+            "category": "FEMALE",
+            "yards": 6307,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5951,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5951,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 142
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5293,
+            "par": 72,
+            "rating": 64.7,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5293,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 127
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5293,
+            "par": 72,
+            "rating": 61.3,
+            "slope": 105
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5293,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 113
+          }
+        ]
+      },
+      {
+        "name": "Geronimo",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Golden Bear",
+            "category": "MALE",
+            "yards": 7293,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 147
+          },
+          {
+            "name": "Golden Bear",
+            "category": "FEMALE",
+            "yards": 7293,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "3",
+            "category": "MALE",
+            "yards": 6858,
+            "par": 72,
+            "rating": 72,
+            "slope": 142
+          },
+          {
+            "name": "3",
+            "category": "FEMALE",
+            "yards": 6858,
+            "par": 72,
+            "rating": 78.4,
+            "slope": 140
+          },
+          {
+            "name": "4",
+            "category": "MALE",
+            "yards": 6441,
+            "par": 72,
+            "rating": 70,
+            "slope": 135
+          },
+          {
+            "name": "4",
+            "category": "FEMALE",
+            "yards": 6441,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 135
+          },
+          {
+            "name": "5",
+            "category": "MALE",
+            "yards": 6071,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 131
+          },
+          {
+            "name": "5",
+            "category": "FEMALE",
+            "yards": 6071,
+            "par": 72,
+            "rating": 76.5,
+            "slope": 150
+          },
+          {
+            "name": "1",
+            "category": "MALE",
+            "yards": 5061,
+            "par": 72,
+            "rating": 68,
+            "slope": 116
+          },
+          {
+            "name": "1",
+            "category": "FEMALE",
+            "yards": 5061,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 124
+          },
+          {
+            "name": "6",
+            "category": "MALE",
+            "yards": 5401,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 125
+          },
+          {
+            "name": "6",
+            "category": "FEMALE",
+            "yards": 5401,
+            "par": 72,
+            "rating": 71,
+            "slope": 135
+          }
+        ]
+      },
+      {
+        "name": "Outlaw",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Golden Bear",
+            "category": "MALE",
+            "yards": 7107,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 147
+          },
+          {
+            "name": "Golden Bear",
+            "category": "FEMALE",
+            "yards": 7107,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "3",
+            "category": "MALE",
+            "yards": 6509,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 140
+          },
+          {
+            "name": "3",
+            "category": "FEMALE",
+            "yards": 6509,
+            "par": 72,
+            "rating": 76.5,
+            "slope": 136
+          },
+          {
+            "name": "4",
+            "category": "MALE",
+            "yards": 6312,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 138
+          },
+          {
+            "name": "4",
+            "category": "FEMALE",
+            "yards": 6312,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 133
+          },
+          {
+            "name": "5",
+            "category": "MALE",
+            "yards": 6069,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 132
+          },
+          {
+            "name": "5",
+            "category": "FEMALE",
+            "yards": 6069,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 146
+          },
+          {
+            "name": "6",
+            "category": "MALE",
+            "yards": 5131,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 122
+          },
+          {
+            "name": "6",
+            "category": "FEMALE",
+            "yards": 5131,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 127
+          }
+        ]
+      },
+      {
+        "name": "Renegade White",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Golden Bear",
+            "category": "MALE",
+            "yards": 7222,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 141
+          },
+          {
+            "name": "Golden Bear",
+            "category": "FEMALE",
+            "yards": 7222,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "3",
+            "category": "MALE",
+            "yards": 5836,
+            "par": 72,
+            "rating": 66.9,
+            "slope": 117
+          },
+          {
+            "name": "3",
+            "category": "FEMALE",
+            "yards": 5836,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 136
+          },
+          {
+            "name": "4",
+            "category": "MALE",
+            "yards": 5344,
+            "par": 72,
+            "rating": 64.6,
+            "slope": 109
+          },
+          {
+            "name": "4",
+            "category": "FEMALE",
+            "yards": 5344,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 130
+          },
+          {
+            "name": "5",
+            "category": "MALE",
+            "yards": 4930,
+            "par": 72,
+            "rating": 62.5,
+            "slope": 103
+          },
+          {
+            "name": "5",
+            "category": "FEMALE",
+            "yards": 4930,
+            "par": 72,
+            "rating": 68,
+            "slope": 123
+          },
+          {
+            "name": "1",
+            "category": "MALE",
+            "yards": 6689,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 131
+          },
+          {
+            "name": "1",
+            "category": "FEMALE",
+            "yards": 6689,
+            "par": 72,
+            "rating": 77.5,
+            "slope": 138
+          },
+          {
+            "name": "6",
+            "category": "MALE",
+            "yards": 4415,
+            "par": 72,
+            "rating": 61,
+            "slope": 99
+          },
+          {
+            "name": "6",
+            "category": "FEMALE",
+            "yards": 4415,
+            "par": 72,
+            "rating": 65.6,
+            "slope": 115
+          },
+          {
+            "name": "2",
+            "category": "MALE",
+            "yards": 6267,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 122
+          },
+          {
+            "name": "2",
+            "category": "FEMALE",
+            "yards": 6267,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 133
+          }
+        ]
+      },
+      {
+        "name": "Renegade Gold",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Golden Bear",
+            "category": "MALE",
+            "yards": 7933,
+            "par": 72,
+            "rating": 77.1,
+            "slope": 145
+          },
+          {
+            "name": "Golden Bear",
+            "category": "FEMALE",
+            "yards": 7933,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "3",
+            "category": "MALE",
+            "yards": 6586,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 128
+          },
+          {
+            "name": "3",
+            "category": "FEMALE",
+            "yards": 6586,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 136
+          },
+          {
+            "name": "4",
+            "category": "MALE",
+            "yards": 6063,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 122
+          },
+          {
+            "name": "4",
+            "category": "FEMALE",
+            "yards": 6063,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 138
+          },
+          {
+            "name": "5",
+            "category": "MALE",
+            "yards": 5641,
+            "par": 72,
+            "rating": 65.6,
+            "slope": 115
+          },
+          {
+            "name": "5",
+            "category": "FEMALE",
+            "yards": 5641,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 136
+          },
+          {
+            "name": "1",
+            "category": "MALE",
+            "yards": 7394,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 140
+          },
+          {
+            "name": "1",
+            "category": "FEMALE",
+            "yards": 7394,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "6",
+            "category": "MALE",
+            "yards": 5141,
+            "par": 72,
+            "rating": 64.3,
+            "slope": 106
+          },
+          {
+            "name": "6",
+            "category": "FEMALE",
+            "yards": 5141,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 126
+          },
+          {
+            "name": "2",
+            "category": "MALE",
+            "yards": 6977,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 132
+          },
+          {
+            "name": "2",
+            "category": "FEMALE",
+            "yards": 6977,
+            "par": 72,
+            "rating": 79,
+            "slope": 141
+          }
+        ]
+      },
+      {
+        "name": "No. 7",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "3",
+            "category": "MALE",
+            "yards": 2210,
+            "par": 54,
+            "rating": 55.2,
+            "slope": 89
+          },
+          {
+            "name": "3",
+            "category": "FEMALE",
+            "yards": 2210,
+            "par": 54,
+            "rating": 57.1,
+            "slope": 92
+          },
+          {
+            "name": "4",
+            "category": "MALE",
+            "yards": 1576,
+            "par": 54,
+            "rating": 55.2,
+            "slope": 89
+          },
+          {
+            "name": "4",
+            "category": "FEMALE",
+            "yards": 1576,
+            "par": 54,
+            "rating": 57.1,
+            "slope": 92
+          },
+          {
+            "name": "1",
+            "category": "MALE",
+            "yards": 3004,
+            "par": 54,
+            "rating": 55.2,
+            "slope": 89
+          },
+          {
+            "name": "1",
+            "category": "FEMALE",
+            "yards": 3004,
+            "par": 54,
+            "rating": 57.1,
+            "slope": 92
+          },
+          {
+            "name": "2",
+            "category": "MALE",
+            "yards": 2396,
+            "par": 54,
+            "rating": 55.2,
+            "slope": 89
+          },
+          {
+            "name": "2",
+            "category": "FEMALE",
+            "yards": 2396,
+            "par": 54,
+            "rating": 57.1,
+            "slope": 92
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e27afe0-86ac-11e4-8c28-020000005b00/desert-mountain-club"
+  }
+}

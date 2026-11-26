@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a713790-86ac-11e4-8c28-020000005b00/wawona-hotel-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a713790-86ac-11e4-8c28-020000005b00/wawona-hotel-golf-course",
+  "checked_at": 1795666534.3100252,
+  "sha256": "e4efda64725dba1f4712912980c833a985b355678f45f19fa4d1eb7899546748",
+  "title": "Wawona Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a713790-86ac-11e4-8c28-020000005b00",
+    "name": "Wawona Golf Course",
+    "address": "2005 Wawona Road, Yosemite National Park",
+    "courses": [
+      {
+        "name": "Wawona",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6048,
+            "par": 70,
+            "rating": 68.6,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6048,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5448,
+            "par": 70,
+            "rating": 66.4,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5448,
+            "par": 70,
+            "rating": 71.4,
+            "slope": 130
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a713790-86ac-11e4-8c28-020000005b00/wawona-hotel-golf-course"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b76c9140-86ac-11e4-8c28-020000005b00/onawa-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b76c9140-86ac-11e4-8c28-020000005b00/onawa-country-club",
+  "checked_at": 1795661409.1727753,
+  "sha256": "86fae1cc9434b81c169227cdaac3db368b77b2684769d689cfe64895f80ddcf2",
+  "title": "Onawa Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b76c9140-86ac-11e4-8c28-020000005b00",
+    "name": "Onawa Country Club",
+    "address": "Off Highway 75, Onawa, IA",
+    "courses": [
+      {
+        "name": "Onawa",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3060,
+            "par": 36,
+            "rating": 34.2,
+            "slope": 112
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3060,
+            "par": 38,
+            "rating": 37.2,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2804,
+            "par": 36,
+            "rating": 33.2,
+            "slope": 101
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2804,
+            "par": 38,
+            "rating": 35.9,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2724,
+            "par": 36,
+            "rating": 34.9,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2724,
+            "par": 38,
+            "rating": 35.5,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b76c9140-86ac-11e4-8c28-020000005b00/onawa-country-club"
+  }
+}

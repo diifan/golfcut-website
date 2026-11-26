@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b30e1920-86ac-11e4-8c28-020000005b00/cracklewood-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b30e1920-86ac-11e4-8c28-020000005b00/cracklewood-golf-club",
+  "checked_at": 1795663882.323294,
+  "sha256": "ea03832752b21bfbd87e48d4e7c524b569886006d83e85a554fbb369ad830ace",
+  "title": "Cracklewood Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b30e1920-86ac-11e4-8c28-020000005b00",
+    "name": "Cracklewood Golf Club",
+    "address": "18215 24 Mile Rd, Macomb, MI",
+    "courses": [
+      {
+        "name": "Cracklewood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6556,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6126,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 119
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5509,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4764,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b30e1920-86ac-11e4-8c28-020000005b00/cracklewood-golf-club"
+  }
+}

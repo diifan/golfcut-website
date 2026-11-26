@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/773b0110-86ac-11e4-8c28-020000005b00/crestwood-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/773b0110-86ac-11e4-8c28-020000005b00/crestwood-golf-club",
+  "checked_at": 1795664729.2378595,
+  "sha256": "649e1ca9dafe1c3476a94d8a8416eccf4ce6e39e8b33c0de75063d13a425b7d5",
+  "title": "Crestwood Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "773b0110-86ac-11e4-8c28-020000005b00",
+    "name": "Crestwood Golf Club",
+    "address": "27 Little Britain Road Rural Route#1, Manilla",
+    "courses": [
+      {
+        "name": "Crestwood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 5608,
+            "par": 70,
+            "rating": 67.1,
+            "slope": 104
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 5608,
+            "par": 74,
+            "rating": 72.4,
+            "slope": 119
+          },
+          {
+            "name": "Gold/Green",
+            "category": "MALE",
+            "yards": 5163,
+            "par": 70,
+            "rating": 68.4,
+            "slope": 117
+          },
+          {
+            "name": "Gold/Green",
+            "category": "FEMALE",
+            "yards": 5163,
+            "par": 74,
+            "rating": 70.2,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/773b0110-86ac-11e4-8c28-020000005b00/crestwood-golf-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ac07ac0-86ac-11e4-8c28-020000005b00/duplin-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ac07ac0-86ac-11e4-8c28-020000005b00/duplin-country-club",
+  "checked_at": 1795664732.6034162,
+  "sha256": "b7463c7a24f17606f9e653d25f14799750fc8f058cce10d8d00b996874b96fa0",
+  "title": "Duplin Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9ac07ac0-86ac-11e4-8c28-020000005b00",
+    "name": "Duplin Country Club",
+    "address": "148 Country Club Rd., Kenansville, NC",
+    "courses": [
+      {
+        "name": "Majestic Pines",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6319,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5979,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5394,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5022,
+            "par": 72,
+            "rating": 64.1,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ac07ac0-86ac-11e4-8c28-020000005b00/duplin-country-club"
+  }
+}

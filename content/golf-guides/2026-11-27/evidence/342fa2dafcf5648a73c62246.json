@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98822380-86ac-11e4-8c28-020000005b00/farview-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98822380-86ac-11e4-8c28-020000005b00/farview-golf-course",
+  "checked_at": 1795663874.3947692,
+  "sha256": "4f73b0f7008975c252e159d3fc994959779df2008c03c75a4cdb3734453085a2",
+  "title": "Farview Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "98822380-86ac-11e4-8c28-020000005b00",
+    "name": "Farview Golf Course",
+    "address": "2419 Avon Geneseo Rd, Avon, NY",
+    "courses": [
+      {
+        "name": "Farview",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6371,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6371,
+            "par": 73,
+            "rating": 75.8,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5771,
+            "par": 72,
+            "rating": 69,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5771,
+            "par": 73,
+            "rating": 75.2,
+            "slope": 137
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5211,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 113
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5211,
+            "par": 73,
+            "rating": 71.2,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4645,
+            "par": 72,
+            "rating": 64.6,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4645,
+            "par": 73,
+            "rating": 68.2,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98822380-86ac-11e4-8c28-020000005b00/farview-golf-course"
+  }
+}

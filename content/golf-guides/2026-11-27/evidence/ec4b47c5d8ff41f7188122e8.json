@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9740f0f0-86ac-11e4-8c28-020000005b00/bill-roberts-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9740f0f0-86ac-11e4-8c28-020000005b00/bill-roberts-golf-course",
+  "checked_at": 1795663886.3477948,
+  "sha256": "51f5c9e2ee2d292db2c0f22b388dd0bd4d86bf608efc55081d06cdd13cdde0cc",
+  "title": "Bill Roberts Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9740f0f0-86ac-11e4-8c28-020000005b00",
+    "name": "Bill Roberts Golf Course",
+    "address": "205 Cole Ave, Helena, MT",
+    "courses": [
+      {
+        "name": "Bip Roberts",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6782,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6391,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5612,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4500,
+            "par": 72,
+            "rating": 61.6,
+            "slope": 97
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9740f0f0-86ac-11e4-8c28-020000005b00/bill-roberts-golf-course"
+  }
+}

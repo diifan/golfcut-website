@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9620b3e0-86ac-11e4-8c28-020000005b00/brookland-golf-park",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9620b3e0-86ac-11e4-8c28-020000005b00/brookland-golf-park",
+  "checked_at": 1795524365.936108,
+  "sha256": "32f8423ba612214bb9a6dcf7ad73803639a06b4358d5e4b8ea2875dd66b8d964",
+  "title": "Brooklyn Golf Park - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9620b3e0-86ac-11e4-8c28-020000005b00",
+    "name": "Brooklyn Golf Park",
+    "address": "8232 Regent Ave N, Brooklyn Park, MN",
+    "courses": [
+      {
+        "name": "Brookland Executive Nine",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1795,
+            "par": 30,
+            "rating": 29.7,
+            "slope": 93
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1795,
+            "par": 30,
+            "rating": 29.9,
+            "slope": 92
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1603,
+            "par": 30,
+            "rating": 29.2,
+            "slope": 90
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1603,
+            "par": 30,
+            "rating": 29.2,
+            "slope": 88
+          },
+          {
+            "name": "TaylorMade",
+            "category": "MALE",
+            "yards": 570,
+            "par": 30,
+            "rating": 29.2,
+            "slope": 90
+          },
+          {
+            "name": "TaylorMade",
+            "category": "FEMALE",
+            "yards": 570,
+            "par": 30,
+            "rating": 29.2,
+            "slope": 89
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9620b3e0-86ac-11e4-8c28-020000005b00/brookland-golf-park"
+  }
+}

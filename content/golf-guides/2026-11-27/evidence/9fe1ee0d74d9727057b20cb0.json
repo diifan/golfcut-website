@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/952b7e70-86ac-11e4-8c28-020000005b00/newton-commonwealth-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/952b7e70-86ac-11e4-8c28-020000005b00/newton-commonwealth-golf-course",
+  "checked_at": 1795663471.9941027,
+  "sha256": "5e2f3c7522ff58957a6a6cc283ea07e56f7aeb35fdc142fa7239ea1cfc4bc3f1",
+  "title": "Newton Commonwealth Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "952b7e70-86ac-11e4-8c28-020000005b00",
+    "name": "Newton Commonwealth Golf Course",
+    "address": "212 Kenrick Street, Newton, MA",
+    "courses": [
+      {
+        "name": "Newton Commonwealth",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5354,
+            "par": 70,
+            "rating": 67,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5354,
+            "par": 70,
+            "rating": 71.5,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4992,
+            "par": 70,
+            "rating": 65.3,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4992,
+            "par": 70,
+            "rating": 69.9,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4329,
+            "par": 70,
+            "rating": 62.2,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4329,
+            "par": 70,
+            "rating": 65.7,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/952b7e70-86ac-11e4-8c28-020000005b00/newton-commonwealth-golf-course"
+  }
+}

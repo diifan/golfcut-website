@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/89d349e0-86ac-11e4-8c28-020000005b00/petaluma-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/89d349e0-86ac-11e4-8c28-020000005b00/petaluma-golf-country-club",
+  "checked_at": 1795663464.0639637,
+  "sha256": "24e5e1d06e62a44fa69cb53e3b9b68c97bc1ed8578b2e9040854dcf59dabfe2d",
+  "title": "Petaluma Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "89d349e0-86ac-11e4-8c28-020000005b00",
+    "name": "Petaluma Golf & Country Club",
+    "address": "1500 Country Club Drive, Petaluma, CA",
+    "courses": [
+      {
+        "name": "9 Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2823,
+            "par": 35,
+            "rating": 67.4,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2823,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2806,
+            "par": 35,
+            "rating": 67.2,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2806,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2650,
+            "par": 35,
+            "rating": 67.3,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2650,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      },
+      {
+        "name": "18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5646,
+            "par": 70,
+            "rating": 67,
+            "slope": 115
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5646,
+            "par": 70,
+            "rating": 71.9,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5612,
+            "par": 70,
+            "rating": 70.5,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5612,
+            "par": 70,
+            "rating": 70.4,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5300,
+            "par": 70,
+            "rating": 69.1,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5300,
+            "par": 70,
+            "rating": 70.1,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/89d349e0-86ac-11e4-8c28-020000005b00/petaluma-golf-country-club"
+  }
+}

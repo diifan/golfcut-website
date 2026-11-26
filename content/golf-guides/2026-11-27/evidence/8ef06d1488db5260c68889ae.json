@@ -1,0 +1,155 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8f8480c0-86ac-11e4-8c28-020000005b00/big-cypress-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8f8480c0-86ac-11e4-8c28-020000005b00/big-cypress-golf-country-club",
+  "checked_at": 1795663888.5435205,
+  "sha256": "9cd5121f6ba856ceb6da1188d1f8d17c38c82195f7c8b8bbd145417c39be235d",
+  "title": "Big Cypress Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8f8480c0-86ac-11e4-8c28-020000005b00",
+    "name": "Big Cypress Golf & Country Club",
+    "address": "10000 US Highway 98 N, Lakeland, FL",
+    "courses": [
+      {
+        "name": "Big Cypress (North)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Cypress",
+            "category": "MALE",
+            "yards": 3494,
+            "par": 60,
+            "rating": 59,
+            "slope": 96
+          },
+          {
+            "name": "Cypress",
+            "category": "FEMALE",
+            "yards": 3494,
+            "par": 60,
+            "rating": 60.4,
+            "slope": 97
+          },
+          {
+            "name": "Teal",
+            "category": "MALE",
+            "yards": 3023,
+            "par": 60,
+            "rating": 56,
+            "slope": 85
+          },
+          {
+            "name": "Teal",
+            "category": "FEMALE",
+            "yards": 3023,
+            "par": 60,
+            "rating": 57.6,
+            "slope": 96
+          }
+        ]
+      },
+      {
+        "name": "Big Cypress (South)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6588,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 134
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6588,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5998,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 125
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5998,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5461,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5461,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4689,
+            "par": 72,
+            "rating": 63.4,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4689,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 114
+          },
+          {
+            "name": "White/Red",
+            "category": "MALE",
+            "yards": 5040,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 112
+          },
+          {
+            "name": "White/Red",
+            "category": "FEMALE",
+            "yards": 5040,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 119
+          },
+          {
+            "name": "Red Short",
+            "category": "MALE",
+            "yards": 4359,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red Short",
+            "category": "FEMALE",
+            "yards": 4359,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8f8480c0-86ac-11e4-8c28-020000005b00/big-cypress-golf-country-club"
+  }
+}

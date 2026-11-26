@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b83ab6b0-86ac-11e4-8c28-020000005b00/east-greenwich-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b83ab6b0-86ac-11e4-8c28-020000005b00/east-greenwich-golf-club",
+  "checked_at": 1795664689.5080495,
+  "sha256": "573044e8d3a1e045802356445ed87c2b7c3d066d16e0375debd2c21e1fa9a5e9",
+  "title": "East Greenwich Golf club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b83ab6b0-86ac-11e4-8c28-020000005b00",
+    "name": "East Greenwich Golf club",
+    "address": "1646 Division Road, East Greenwich, RI",
+    "courses": [
+      {
+        "name": "East Greenwich",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3315,
+            "par": 36,
+            "rating": 35.6,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3315,
+            "par": 36,
+            "rating": 38.6,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3142,
+            "par": 36,
+            "rating": 34.7,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3142,
+            "par": 36,
+            "rating": 37.2,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2875,
+            "par": 36,
+            "rating": 35.6,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2875,
+            "par": 36,
+            "rating": 35.7,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b83ab6b0-86ac-11e4-8c28-020000005b00/east-greenwich-golf-club"
+  }
+}

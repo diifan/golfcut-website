@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92232070-86ac-11e4-8c28-020000005b00/yampa-valley-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92232070-86ac-11e4-8c28-020000005b00/yampa-valley-golf-club",
+  "checked_at": 1795669250.7627943,
+  "sha256": "69cef0ab5ed1da2a495f7936a48b6961478590eefcb53b9041b1851af0594050",
+  "title": "Yampa Valley Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92232070-86ac-11e4-8c28-020000005b00",
+    "name": "Yampa Valley Golf Club",
+    "address": "2179 Hwy 394",
+    "courses": [
+      {
+        "name": "Yampa Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6553,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6106,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5436,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5131,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92232070-86ac-11e4-8c28-020000005b00/yampa-valley-golf-club"
+  }
+}

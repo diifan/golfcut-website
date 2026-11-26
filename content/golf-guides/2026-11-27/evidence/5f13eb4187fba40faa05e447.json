@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b89e0c60-86ac-11e4-8c28-020000005b00/the-links-at-fayetteville-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b89e0c60-86ac-11e4-8c28-020000005b00/the-links-at-fayetteville-golf-country-club",
+  "checked_at": 1795661446.2588403,
+  "sha256": "e3680ec1bcabafc641422ecf98c6b1168434075683e086e98995ce32ca10e8bc",
+  "title": "The Links at Fayetteville Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b89e0c60-86ac-11e4-8c28-020000005b00",
+    "name": "The Links at Fayetteville Golf & Country Club",
+    "address": "3600 W, Player Lane",
+    "courses": [
+      {
+        "name": "The Links at Fayetteville",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 2900,
+            "par": 35,
+            "rating": 35.7,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2785,
+            "par": 35,
+            "rating": 33.6,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2598,
+            "par": 35,
+            "rating": 35.3,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2366,
+            "par": 35,
+            "rating": 33.2,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b89e0c60-86ac-11e4-8c28-020000005b00/the-links-at-fayetteville-golf-country-club"
+  }
+}

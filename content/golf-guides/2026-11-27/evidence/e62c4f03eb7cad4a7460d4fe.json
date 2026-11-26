@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d03b400-86ac-11e4-8c28-020000005b00/piney-apple-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d03b400-86ac-11e4-8c28-020000005b00/piney-apple-golf-course",
+  "checked_at": 1795664711.2670262,
+  "sha256": "213bae4f764d4e1c1cddd168617bdeadd4c47267e0fb483937fd460b8955b75f",
+  "title": "Piney Apple Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d03b400-86ac-11e4-8c28-020000005b00",
+    "name": "Piney Apple Golf Course",
+    "address": "165 Slatersville Road",
+    "courses": [
+      {
+        "name": "Piney Apple",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5635,
+            "par": 70,
+            "rating": 66.6,
+            "slope": 111
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5635,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5192,
+            "par": 70,
+            "rating": 64.6,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5192,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 4518,
+            "par": 70,
+            "rating": 61.4,
+            "slope": 101
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 4518,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4304,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4304,
+            "par": 71,
+            "rating": 64.3,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d03b400-86ac-11e4-8c28-020000005b00/piney-apple-golf-course"
+  }
+}

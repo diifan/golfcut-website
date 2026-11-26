@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6c3a710-86ac-11e4-8c28-020000005b00/jefferson-hills-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6c3a710-86ac-11e4-8c28-020000005b00/jefferson-hills-golf-course",
+  "checked_at": 1795668320.092942,
+  "sha256": "e99e11269740a73b251b5fc9d13eef971fbc55855bf4894bd572ccc2ec9ce120",
+  "title": "Jefferson Hills Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6c3a710-86ac-11e4-8c28-020000005b00",
+    "name": "Jefferson Hills Golf Course",
+    "address": "4074 E 500 No, Rigby, ID",
+    "courses": [
+      {
+        "name": "Jefferson Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6256,
+            "par": 70,
+            "rating": 68.7,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6001,
+            "par": 70,
+            "rating": 67.4,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4927,
+            "par": 70,
+            "rating": 62.7,
+            "slope": 98
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6c3a710-86ac-11e4-8c28-020000005b00/jefferson-hills-golf-course"
+  }
+}

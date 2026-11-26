@@ -1,0 +1,321 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b944580-86ac-11e4-8c28-020000005b00/seneca-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b944580-86ac-11e4-8c28-020000005b00/seneca-golf-course",
+  "checked_at": 1795663507.4314137,
+  "sha256": "c46bd5767fd19afbfc202455c1d530102bda266ce5ad76d2d98c397281edd989",
+  "title": "Seneca Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9b944580-86ac-11e4-8c28-020000005b00",
+    "name": "Seneca Golf Course",
+    "address": "975 Metro Valley Pkwy, Broadview Heights, OH",
+    "courses": [
+      {
+        "name": "Furnace Run/Chippewa",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6974,
+            "par": 72,
+            "rating": 74,
+            "slope": 129
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6974,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6551,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6551,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6138,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 120
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 6138,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5615,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5615,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 121
+          },
+          {
+            "name": "Green/Red",
+            "category": "MALE",
+            "yards": 6138,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 119
+          },
+          {
+            "name": "Green/Red",
+            "category": "FEMALE",
+            "yards": 6138,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 124
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 2317,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 2317,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      },
+      {
+        "name": "Chippewa/Baldwin",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7061,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 133
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7061,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6682,
+            "par": 72,
+            "rating": 73,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6682,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6289,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 121
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 6289,
+            "par": 72,
+            "rating": 76.4,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5541,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5541,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 121
+          },
+          {
+            "name": "Green/Red",
+            "category": "MALE",
+            "yards": 6289,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 118
+          },
+          {
+            "name": "Green/Red",
+            "category": "FEMALE",
+            "yards": 6289,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 125
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 2383,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 2383,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      },
+      {
+        "name": "Furnace Run/Baldwin",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7159,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 134
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7159,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6833,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6833,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6377,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 124
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 6377,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 135
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5690,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5690,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 122
+          },
+          {
+            "name": "Green/Red",
+            "category": "MALE",
+            "yards": 6377,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 122
+          },
+          {
+            "name": "Green/Red",
+            "category": "FEMALE",
+            "yards": 6377,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 127
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 2334,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 2334,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b944580-86ac-11e4-8c28-020000005b00/seneca-golf-course"
+  }
+}

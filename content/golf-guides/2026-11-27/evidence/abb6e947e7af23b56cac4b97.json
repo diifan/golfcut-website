@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95144cf0-86ac-11e4-8c28-020000005b00/glade-valley-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95144cf0-86ac-11e4-8c28-020000005b00/glade-valley-golf-club",
+  "checked_at": 1795663888.0625086,
+  "sha256": "c1db1117d310999ae05a2fde2219f2193d45f5b7aa1bc041ddb506e344146e5c",
+  "title": "Glade Valley Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95144cf0-86ac-11e4-8c28-020000005b00",
+    "name": "Glade Valley Golf Club",
+    "address": "10502 Glade Rd",
+    "courses": [
+      {
+        "name": "Glade Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6866,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6403,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6005,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4953,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95144cf0-86ac-11e4-8c28-020000005b00/glade-valley-golf-club"
+  }
+}

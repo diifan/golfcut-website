@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9cac6c40-86ac-11e4-8c28-020000005b00/stillwater-valley-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9cac6c40-86ac-11e4-8c28-020000005b00/stillwater-valley-golf-course",
+  "checked_at": 1795664700.81106,
+  "sha256": "4f8cf9a9895cc9ae6d306f9569891d299a5ced9a54cc36e3bb3775056818d7fa",
+  "title": "Stillwater Valley Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9cac6c40-86ac-11e4-8c28-020000005b00",
+    "name": "Stillwater Valley Golf Course",
+    "address": "9235 Seibt Rd",
+    "courses": [
+      {
+        "name": "Stillwater Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6095,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 123
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 6095,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5456,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5456,
+            "par": 72,
+            "rating": 71,
+            "slope": 119
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 4695,
+            "par": 72,
+            "rating": 63,
+            "slope": 106
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 4695,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9cac6c40-86ac-11e4-8c28-020000005b00/stillwater-valley-golf-course"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/981be7a0-86ac-11e4-8c28-020000005b00/pine-valley-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/981be7a0-86ac-11e4-8c28-020000005b00/pine-valley-golf-club",
+  "checked_at": 1795661419.7898586,
+  "sha256": "3ec1548397d86811254c02068feb00ab935b519854be590895cb416943a79d96",
+  "title": "Pine Valley Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "981be7a0-86ac-11e4-8c28-020000005b00",
+    "name": "Pine Valley Golf Club",
+    "address": "1 E Atlantic Ave, Pine Valley, NJ 08021",
+    "courses": [
+      {
+        "name": "Pine Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 7057,
+            "par": 70,
+            "rating": 76.2,
+            "slope": 155
+          },
+          {
+            "name": "Reg",
+            "category": "MALE",
+            "yards": 6532,
+            "par": 70,
+            "rating": 73.5,
+            "slope": 153
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/981be7a0-86ac-11e4-8c28-020000005b00/pine-valley-golf-club"
+  }
+}

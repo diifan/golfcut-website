@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9232fef0-86ac-11e4-8c28-020000005b00/lake-estes-9-hole-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9232fef0-86ac-11e4-8c28-020000005b00/lake-estes-9-hole-golf-course",
+  "checked_at": 1795583789.9862735,
+  "sha256": "0b983b989bb1350d749dd08827de882454141a43a11d3fe13694735b4ba7dc03",
+  "title": "Lake Estes 9 Hole Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9232fef0-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Estes 9 Hole Golf Course",
+    "address": "690 Big Thompson Ave, Estes Park, CO",
+    "courses": [
+      {
+        "name": "Lake Estes 9 Hole Golf Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2209,
+            "par": 31,
+            "rating": 32.5,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1840,
+            "par": 31,
+            "rating": 30.8,
+            "slope": 97
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9232fef0-86ac-11e4-8c28-020000005b00/lake-estes-9-hole-golf-course"
+  }
+}

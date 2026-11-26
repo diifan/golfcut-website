@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e86bfd0-86ac-11e4-8c28-020000005b00/desert-hills-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e86bfd0-86ac-11e4-8c28-020000005b00/desert-hills-golf-course",
+  "checked_at": 1795666546.8172832,
+  "sha256": "5fbb9be79c7ce4381ba23ca9c37cc8adda6a5730266e3b3d809715459a47559e",
+  "title": "Desert Hills Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8e86bfd0-86ac-11e4-8c28-020000005b00",
+    "name": "Desert Hills Golf Course",
+    "address": "1245 W Desert Hills Dr, Yuma, AZ",
+    "courses": [
+      {
+        "name": "Desert Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6800,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6300,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5694,
+            "par": 72,
+            "rating": 67,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e86bfd0-86ac-11e4-8c28-020000005b00/desert-hills-golf-course"
+  }
+}

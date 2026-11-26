@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92a34cf0-86ac-11e4-8c28-020000005b00/chippanee-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92a34cf0-86ac-11e4-8c28-020000005b00/chippanee-country-club",
+  "checked_at": 1795663506.9127178,
+  "sha256": "0785f420bba307f75056f857142062c57f4aa2c61bf568e249d1f9daf17d400f",
+  "title": "Chippanee Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92a34cf0-86ac-11e4-8c28-020000005b00",
+    "name": "Chippanee Country Club",
+    "address": "6 Marsh Rd, Bristol, CT",
+    "courses": [
+      {
+        "name": "Chippanee",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6290,
+            "par": 70,
+            "rating": 70.5,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6290,
+            "par": 73,
+            "rating": 75.4,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6094,
+            "par": 70,
+            "rating": 69.6,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6094,
+            "par": 73,
+            "rating": 74.3,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5588,
+            "par": 70,
+            "rating": 70.4,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5588,
+            "par": 73,
+            "rating": 71.5,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92a34cf0-86ac-11e4-8c28-020000005b00/chippanee-country-club"
+  }
+}

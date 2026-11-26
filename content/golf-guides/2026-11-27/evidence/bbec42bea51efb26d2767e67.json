@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96887660-86ac-11e4-8c28-020000005b00/lake-pepin-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96887660-86ac-11e4-8c28-020000005b00/lake-pepin-golf-course",
+  "checked_at": 1795663919.8849251,
+  "sha256": "e2acba41c1c770be64670bce29f58345bf1c93ba8b27ff7b991c04121a1740a7",
+  "title": "Lake Pepin Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96887660-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Pepin Golf Course",
+    "address": "70895 260th Ave.",
+    "courses": [
+      {
+        "name": "Lake Pepin",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6752,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6231,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5281,
+            "par": 72,
+            "rating": 69,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96887660-86ac-11e4-8c28-020000005b00/lake-pepin-golf-course"
+  }
+}

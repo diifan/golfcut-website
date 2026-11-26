@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9bd71ae0-86ac-11e4-8c28-020000005b00/cherry-ridge-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9bd71ae0-86ac-11e4-8c28-020000005b00/cherry-ridge-golf-club",
+  "checked_at": 1795666495.2804856,
+  "sha256": "41d59627f678721a2f7b82e57a4cd906765f3b74841b094a2b9be7de2c1cac54",
+  "title": "Cherry Ridge Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9bd71ae0-86ac-11e4-8c28-020000005b00",
+    "name": "Cherry Ridge Golf Club",
+    "address": "1211 W River Rd",
+    "courses": [
+      {
+        "name": "Cherry Ridge(9 holes )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2803,
+            "par": 35,
+            "rating": 32.8,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2606,
+            "par": 35,
+            "rating": 31.5,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2286,
+            "par": 35,
+            "rating": 32.9,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9bd71ae0-86ac-11e4-8c28-020000005b00/cherry-ridge-golf-club"
+  }
+}

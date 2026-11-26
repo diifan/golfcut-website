@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/93e4cda0-86ac-11e4-8c28-020000005b00/trenton-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/93e4cda0-86ac-11e4-8c28-020000005b00/trenton-golf-club",
+  "checked_at": 1795663917.2968743,
+  "sha256": "ac6c0c0f3967c941c8a3d3c8e2c5da7b99c9b29c04e2b222f9eaa0c676cc6085",
+  "title": "Trenton Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "93e4cda0-86ac-11e4-8c28-020000005b00",
+    "name": "Trenton Golf Club",
+    "address": "2060 Back Valley Rd, Trenton, GA",
+    "courses": [
+      {
+        "name": "Trenton",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6545,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6545,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6325,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6325,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5812,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5812,
+            "par": 72,
+            "rating": 66.9,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4958,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4958,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/93e4cda0-86ac-11e4-8c28-020000005b00/trenton-golf-club"
+  }
+}

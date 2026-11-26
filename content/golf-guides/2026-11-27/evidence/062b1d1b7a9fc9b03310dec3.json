@@ -1,0 +1,311 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/915967d0-86ac-11e4-8c28-020000005b00/highland-oaks",
+  "resolved_url": "https://18birdies.com/golf-courses/club/915967d0-86ac-11e4-8c28-020000005b00/highland-oaks",
+  "checked_at": 1795666521.684316,
+  "sha256": "edb3d308e4bc2d9765116817a0372fd2f2e4c098f4bcd717a57f815b17eea26e",
+  "title": "Highland Oaks - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "915967d0-86ac-11e4-8c28-020000005b00",
+    "name": "Highland Oaks",
+    "address": "904 Royal Pkwy, Dothan, AL",
+    "courses": [
+      {
+        "name": "Marshwood / Magnolia",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7513,
+            "par": 72,
+            "rating": 76.8,
+            "slope": 138
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7513,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 6896,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 133
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 6896,
+            "par": 72,
+            "rating": 78.6,
+            "slope": 140
+          },
+          {
+            "name": "Purple",
+            "category": "MALE",
+            "yards": 7511,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 139
+          },
+          {
+            "name": "Purple",
+            "category": "FEMALE",
+            "yards": 7511,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6248,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6248,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 133
+          },
+          {
+            "name": "Teal",
+            "category": "MALE",
+            "yards": 5002,
+            "par": 72,
+            "rating": 64.1,
+            "slope": 111
+          },
+          {
+            "name": "Teal",
+            "category": "FEMALE",
+            "yards": 5002,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 117
+          }
+        ]
+      },
+      {
+        "name": "Highlands / Marshwood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7704,
+            "par": 72,
+            "rating": 77.4,
+            "slope": 142
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7704,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 6777,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 142
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 6777,
+            "par": 72,
+            "rating": 78,
+            "slope": 139
+          },
+          {
+            "name": "Purple",
+            "category": "MALE",
+            "yards": 7389,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 141
+          },
+          {
+            "name": "Purple",
+            "category": "FEMALE",
+            "yards": 7389,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6124,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6124,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 131
+          },
+          {
+            "name": "Teal",
+            "category": "MALE",
+            "yards": 5085,
+            "par": 72,
+            "rating": 64.7,
+            "slope": 118
+          },
+          {
+            "name": "Teal",
+            "category": "FEMALE",
+            "yards": 5085,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 120
+          }
+        ]
+      },
+      {
+        "name": "Magnolia / Highlands",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7593,
+            "par": 72,
+            "rating": 76.8,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7593,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 6689,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 134
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 6689,
+            "par": 72,
+            "rating": 77.5,
+            "slope": 138
+          },
+          {
+            "name": "Purple",
+            "category": "MALE",
+            "yards": 7276,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 135
+          },
+          {
+            "name": "Purple",
+            "category": "FEMALE",
+            "yards": 7276,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6056,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6056,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 130
+          },
+          {
+            "name": "Teal",
+            "category": "MALE",
+            "yards": 5025,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 111
+          },
+          {
+            "name": "Teal",
+            "category": "FEMALE",
+            "yards": 5025,
+            "par": 72,
+            "rating": 69,
+            "slope": 117
+          }
+        ]
+      },
+      {
+        "name": "Short Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 1539,
+            "par": 27,
+            "rating": 29.5,
+            "slope": 91
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 1539,
+            "par": 27,
+            "rating": 29.1,
+            "slope": 98
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1229,
+            "par": 27,
+            "rating": 27.40466,
+            "slope": 82.56128
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1229,
+            "par": 27,
+            "rating": 27.40466,
+            "slope": 82.56128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/915967d0-86ac-11e4-8c28-020000005b00/highland-oaks"
+  }
+}

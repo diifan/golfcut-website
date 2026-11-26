@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/70a313b0-86ac-11e4-8c28-020000005b00/dunbar-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/70a313b0-86ac-11e4-8c28-020000005b00/dunbar-golf-course",
+  "checked_at": 1795668312.5116782,
+  "sha256": "476f7a6bee49b13d39ed1b076af22df98b6cf6b9af1a0d8c18cf111fbdd7cc28",
+  "title": "Dunbar Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "70a313b0-86ac-11e4-8c28-020000005b00",
+    "name": "Dunbar Golf Course",
+    "address": "East Links, East Lothian",
+    "courses": [
+      {
+        "name": "Dunbar",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6547,
+            "par": 71,
+            "rating": 72.3,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6547,
+            "par": 71,
+            "rating": 77.7,
+            "slope": 135
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6182,
+            "par": 71,
+            "rating": 70.4,
+            "slope": 124
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 6182,
+            "par": 71,
+            "rating": 75.5,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5696,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5696,
+            "par": 71,
+            "rating": 72.7,
+            "slope": 126
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5696,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 120
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5696,
+            "par": 71,
+            "rating": 72.7,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/70a313b0-86ac-11e4-8c28-020000005b00/dunbar-golf-course"
+  }
+}

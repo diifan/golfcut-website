@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5763f80-86ac-11e4-8c28-020000005b00/two-oaks-north-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5763f80-86ac-11e4-8c28-020000005b00/two-oaks-north-golf-club",
+  "checked_at": 1795664739.5552478,
+  "sha256": "4cc8e2cc85905265c778d0e1c396b3fb64f93dfbae871c154bebb8432972f4f2",
+  "title": "Two Oaks North Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b5763f80-86ac-11e4-8c28-020000005b00",
+    "name": "Two Oaks North Golf Club",
+    "address": "W 6650 Meadow Lane Ct",
+    "courses": [
+      {
+        "name": "Two Oaks North",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6566,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6046,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5369,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4962,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5763f80-86ac-11e4-8c28-020000005b00/two-oaks-north-golf-club"
+  }
+}

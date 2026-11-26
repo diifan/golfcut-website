@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7fc7e0a0-86ac-11e4-8c28-020000005b00/monte-rei-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7fc7e0a0-86ac-11e4-8c28-020000005b00/monte-rei-golf-country-club",
+  "checked_at": 1795669250.923236,
+  "sha256": "25364356d7cf96a54419b145ad50bdf7bac4743b9407e5a3537f003de2df68af",
+  "title": "Monte Rei Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "7fc7e0a0-86ac-11e4-8c28-020000005b00",
+    "name": "Monte Rei Golf & Country Club",
+    "address": "Sitio Do Pocinho - Sesmarias, 8901-907 Vila Nova de Cacela, Portugal",
+    "courses": [
+      {
+        "name": "Monte Rei Golf & Country Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 7181.73687,
+            "par": 72,
+            "rating": 75.6,
+            "slope": 147
+          },
+          {
+            "name": "Tournament",
+            "category": "FEMALE",
+            "yards": 7181.73687,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6594.4682999999995,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 142
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 6594.4682999999995,
+            "par": 72,
+            "rating": 78.3,
+            "slope": 140
+          },
+          {
+            "name": "Signature",
+            "category": "MALE",
+            "yards": 6247.793929999999,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 138
+          },
+          {
+            "name": "Signature",
+            "category": "FEMALE",
+            "yards": 6247.793929999999,
+            "par": 72,
+            "rating": 77.6,
+            "slope": 144
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5298.5404499999995,
+            "par": 72,
+            "rating": 67,
+            "slope": 130
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5298.5404499999995,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 132
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7fc7e0a0-86ac-11e4-8c28-020000005b00/monte-rei-golf-country-club"
+  }
+}

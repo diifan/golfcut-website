@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8968c840-86ac-11e4-8c28-020000005b00/westchester-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8968c840-86ac-11e4-8c28-020000005b00/westchester-golf-course",
+  "checked_at": 1795661447.6589382,
+  "sha256": "7e8a676116fb0da2121122a087a6f5b9abc8deedf4c830f280a2763dfa5cbc74",
+  "title": "Westchester Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8968c840-86ac-11e4-8c28-020000005b00",
+    "name": "Westchester Golf Course",
+    "address": "6900 W Manchester Ave, Los Angeles, CA",
+    "courses": [
+      {
+        "name": "Westchester",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4339,
+            "par": 64,
+            "rating": 60.6,
+            "slope": 95
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4339,
+            "par": 64,
+            "rating": 64.2,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4075,
+            "par": 64,
+            "rating": 59.1,
+            "slope": 91
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4075,
+            "par": 64,
+            "rating": 62.2,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8968c840-86ac-11e4-8c28-020000005b00/westchester-golf-course"
+  }
+}

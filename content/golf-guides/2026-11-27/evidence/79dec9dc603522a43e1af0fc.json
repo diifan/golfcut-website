@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/974e8580-86ac-11e4-8c28-020000005b00/red-lodge-mountain",
+  "resolved_url": "https://18birdies.com/golf-courses/club/974e8580-86ac-11e4-8c28-020000005b00/red-lodge-mountain",
+  "checked_at": 1795661416.275374,
+  "sha256": "f6c083ddba13eb3c87aa09bab6cbffc56d1ca9f70dc6a15895f7ccdf9cdf7a25",
+  "title": "Red Lodge Mountain - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "974e8580-86ac-11e4-8c28-020000005b00",
+    "name": "Red Lodge Mountain",
+    "address": "828 Upper Continental Dr.",
+    "courses": [
+      {
+        "name": "Red Lodge Mountain",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6780,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6455,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5667,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/974e8580-86ac-11e4-8c28-020000005b00/red-lodge-mountain"
+  }
+}

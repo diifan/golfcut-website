@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad752530-86ac-11e4-8c28-020000005b00/middlecreek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad752530-86ac-11e4-8c28-020000005b00/middlecreek-golf-course",
+  "checked_at": 1795666528.948371,
+  "sha256": "21aa24cff66f806f7643f6c499182e2efc93498e60211771fd153ef72e4a10e9",
+  "title": "Middlecreek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ad752530-86ac-11e4-8c28-020000005b00",
+    "name": "Middlecreek Golf Course",
+    "address": "227 Golfer's Ln",
+    "courses": [
+      {
+        "name": "Middlecreek (18 Holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6470,
+            "par": 70,
+            "rating": 72.1,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6470,
+            "par": 70,
+            "rating": 76.3,
+            "slope": 135
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5430,
+            "par": 70,
+            "rating": 69.7,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5430,
+            "par": 70,
+            "rating": 70.2,
+            "slope": 119
+          }
+        ]
+      },
+      {
+        "name": "Middlecreek (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3235,
+            "par": 35,
+            "rating": 36,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3235,
+            "par": 35,
+            "rating": 38.2,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2715,
+            "par": 35,
+            "rating": 34.8,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2715,
+            "par": 35,
+            "rating": 35.1,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad752530-86ac-11e4-8c28-020000005b00/middlecreek-golf-course"
+  }
+}

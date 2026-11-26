@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8bec65e0-86ac-11e4-8c28-020000005b00/howling-trails-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8bec65e0-86ac-11e4-8c28-020000005b00/howling-trails-golf-course",
+  "checked_at": 1795583812.6020656,
+  "sha256": "6d1d4fc1a31d3bc1d40702aef68fbd21ea75aca2500b53eeedcae12836a34098",
+  "title": "Howling Trails Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8bec65e0-86ac-11e4-8c28-020000005b00",
+    "name": "Howling Trails Golf Course",
+    "address": "7400 W Expressway 83",
+    "courses": [
+      {
+        "name": "Howling Trails",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6626,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6626,
+            "par": 72,
+            "rating": 77.1,
+            "slope": 137
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 6081,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 6081,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 120
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5394,
+            "par": 72,
+            "rating": 65.2,
+            "slope": 103
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5394,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8bec65e0-86ac-11e4-8c28-020000005b00/howling-trails-golf-course"
+  }
+}

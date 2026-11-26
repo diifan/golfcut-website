@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/c84bf110-70ae-11e7-bda1-0680a328ea36/the-loop-at-chaska",
+  "resolved_url": "https://18birdies.com/golf-courses/club/c84bf110-70ae-11e7-bda1-0680a328ea36/the-loop-at-chaska",
+  "checked_at": 1795664686.01656,
+  "sha256": "ff2bd049bc6e0d960e9518efdbef365b976b9c962326c4b01cb7552eab2d357a",
+  "title": "The Loop at Chaska - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "c84bf110-70ae-11e7-bda1-0680a328ea36",
+    "name": "The Loop at Chaska",
+    "address": "1207 Hazeltine, Chaska",
+    "courses": [
+      {
+        "name": "The Loop at Chaska",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Long",
+            "category": "MALE",
+            "yards": 1216,
+            "par": 28,
+            "rating": 26.4,
+            "slope": 72
+          },
+          {
+            "name": "Long",
+            "category": "FEMALE",
+            "yards": 1216,
+            "par": 28,
+            "rating": 27.6,
+            "slope": 78
+          },
+          {
+            "name": "Short",
+            "category": "MALE",
+            "yards": 941,
+            "par": 28,
+            "rating": 25.5,
+            "slope": 68
+          },
+          {
+            "name": "Short",
+            "category": "FEMALE",
+            "yards": 941,
+            "par": 28,
+            "rating": 26.6,
+            "slope": 72
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/c84bf110-70ae-11e7-bda1-0680a328ea36/the-loop-at-chaska"
+  }
+}

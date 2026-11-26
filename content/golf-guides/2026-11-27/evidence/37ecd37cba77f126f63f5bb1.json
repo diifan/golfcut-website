@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8aa566f0-86ac-11e4-8c28-020000005b00/south-gate",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8aa566f0-86ac-11e4-8c28-020000005b00/south-gate",
+  "checked_at": 1795664712.8575647,
+  "sha256": "99c04fee2974e583aebad00c52ca3fce51b1ef3cce2580ff6abc19a75c653e51",
+  "title": "South Gate  - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8aa566f0-86ac-11e4-8c28-020000005b00",
+    "name": "South Gate ",
+    "address": "9650 Pinehurst Avenue, South Gate, CA",
+    "courses": [
+      {
+        "name": "South Gate (Par 3)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Default",
+            "category": "MALE",
+            "yards": 2020,
+            "par": 54,
+            "rating": 50.4,
+            "slope": 71
+          },
+          {
+            "name": "Default",
+            "category": "FEMALE",
+            "yards": 2020,
+            "par": 54,
+            "rating": 52.4,
+            "slope": 78
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8aa566f0-86ac-11e4-8c28-020000005b00/south-gate"
+  }
+}

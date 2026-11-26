@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9bdf5840-86ac-11e4-8c28-020000005b00/loudon-meadows-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9bdf5840-86ac-11e4-8c28-020000005b00/loudon-meadows-golf-club",
+  "checked_at": 1795661678.5452983,
+  "sha256": "009e33ff9088304e1fa6fadf72c126cbacf787a5da49b2e6e98c59ebeec789de",
+  "title": "Loudon Meadows Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9bdf5840-86ac-11e4-8c28-020000005b00",
+    "name": "Loudon Meadows Golf Club",
+    "address": "11072 Columbus Ave W, Fostoria, OH",
+    "courses": [
+      {
+        "name": "Loudon Meadows",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6181,
+            "par": 71,
+            "rating": 71.5,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5945,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 112
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5387,
+            "par": 71,
+            "rating": 66.2,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4807,
+            "par": 71,
+            "rating": 66.8,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9bdf5840-86ac-11e4-8c28-020000005b00/loudon-meadows-golf-club"
+  }
+}

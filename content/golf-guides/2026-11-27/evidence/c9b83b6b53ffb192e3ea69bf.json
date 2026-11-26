@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b45abd60-86ac-11e4-8c28-020000005b00/crooked-creek-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b45abd60-86ac-11e4-8c28-020000005b00/crooked-creek-golf-club",
+  "checked_at": 1795664737.1547935,
+  "sha256": "c88af44b57681a1024b32089c59a70f7c55cb82ad21d652b17d35b05bb1ee766",
+  "title": "Crooked Creek Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b45abd60-86ac-11e4-8c28-020000005b00",
+    "name": "Crooked Creek Golf Club",
+    "address": "333 S 134th St, Lincoln, NE 68520",
+    "courses": [
+      {
+        "name": "Crooked Creek Golf Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6697,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6092,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5530,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4985,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b45abd60-86ac-11e4-8c28-020000005b00/crooked-creek-golf-club"
+  }
+}

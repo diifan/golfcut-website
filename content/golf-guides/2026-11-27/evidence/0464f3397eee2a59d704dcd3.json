@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2853a10-86ac-11e4-8c28-020000005b00/flushing-valley-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2853a10-86ac-11e4-8c28-020000005b00/flushing-valley-golf-club",
+  "checked_at": 1795664709.8588698,
+  "sha256": "e42f16310b3c98c22121139ce55178fa98275ea5053cc102d0d5c9c6100a6e29",
+  "title": "Flushing Valley Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b2853a10-86ac-11e4-8c28-020000005b00",
+    "name": "Flushing Valley Golf Club",
+    "address": "1124 E Main Street, Flushing, MI",
+    "courses": [
+      {
+        "name": "Flushing Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6347,
+            "par": 71,
+            "rating": 71.4,
+            "slope": 128
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6347,
+            "par": 74,
+            "rating": 75.7,
+            "slope": 134
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6040,
+            "par": 71,
+            "rating": 69.5,
+            "slope": 125
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6040,
+            "par": 74,
+            "rating": 74.8,
+            "slope": 129
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5436,
+            "par": 71,
+            "rating": 66.8,
+            "slope": 110
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5436,
+            "par": 74,
+            "rating": 71.9,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2853a10-86ac-11e4-8c28-020000005b00/flushing-valley-golf-club"
+  }
+}

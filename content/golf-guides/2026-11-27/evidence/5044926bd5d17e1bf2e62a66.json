@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8966b40-86ac-11e4-8c28-020000005b00/chamberlyne",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8966b40-86ac-11e4-8c28-020000005b00/chamberlyne",
+  "checked_at": 1795666531.275359,
+  "sha256": "076d6cfab0f94cfcf8057d2427ae9be8cace26336d2c9fc34267ad1e585acec9",
+  "title": "Chamberlyne - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b8966b40-86ac-11e4-8c28-020000005b00",
+    "name": "Chamberlyne",
+    "address": "Hwy 27 Intersection 154, Danville, AR",
+    "courses": [
+      {
+        "name": "Chamberlyne",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7047,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7047,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 106
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6638,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6229,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5056,
+            "par": 72,
+            "rating": 68,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8966b40-86ac-11e4-8c28-020000005b00/chamberlyne"
+  }
+}

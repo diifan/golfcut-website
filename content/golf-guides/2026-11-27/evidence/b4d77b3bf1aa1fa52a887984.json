@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b210f470-86ac-11e4-8c28-020000005b00/huron-breeze-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b210f470-86ac-11e4-8c28-020000005b00/huron-breeze-golf-club",
+  "checked_at": 1795668305.63957,
+  "sha256": "7e6c9e1aa4d341b75bb155eadcd7620c09ec497304120d76b5b7077c288356a9",
+  "title": "Huron Breeze Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b210f470-86ac-11e4-8c28-020000005b00",
+    "name": "Huron Breeze Golf Club",
+    "address": "5200 Huron Breeze Dr.",
+    "courses": [
+      {
+        "name": "Huron Breeze",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6806,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 135
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6037,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 125
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5482,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 119
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 5090,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b210f470-86ac-11e4-8c28-020000005b00/huron-breeze-golf-club"
+  }
+}

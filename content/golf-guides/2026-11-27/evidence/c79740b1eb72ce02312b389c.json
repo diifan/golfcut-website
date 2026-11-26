@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b02b3e0-86ac-11e4-8c28-020000005b00/corbin-hills-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b02b3e0-86ac-11e4-8c28-020000005b00/corbin-hills-golf-course",
+  "checked_at": 1795661426.9997091,
+  "sha256": "58184f5eeeecfb7268ea7f58dfa3f19121b9881ff4933f0a676c55da9b30bc7b",
+  "title": "Corbin Hills Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9b02b3e0-86ac-11e4-8c28-020000005b00",
+    "name": "Corbin Hills Golf Course",
+    "address": "431 Wildwood Dr, Salisbury",
+    "courses": [
+      {
+        "name": "Corbin Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6479,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6029,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5176,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4826,
+            "par": 72,
+            "rating": 64.2,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b02b3e0-86ac-11e4-8c28-020000005b00/corbin-hills-golf-course"
+  }
+}

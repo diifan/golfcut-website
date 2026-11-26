@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b79fd640-86ac-11e4-8c28-020000005b00/red-carpet",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b79fd640-86ac-11e4-8c28-020000005b00/red-carpet",
+  "checked_at": 1795664731.9415097,
+  "sha256": "7fbb00cf03ee807ebc5e715bcb5d7e8c2a7e91111ffc60964a930c1e676c2f79",
+  "title": "Red Carpet - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b79fd640-86ac-11e4-8c28-020000005b00",
+    "name": "Red Carpet",
+    "address": "1409 Newell St, Waterloo, IA",
+    "courses": [
+      {
+        "name": "Red Carpet",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6572,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6266,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b79fd640-86ac-11e4-8c28-020000005b00/red-carpet"
+  }
+}

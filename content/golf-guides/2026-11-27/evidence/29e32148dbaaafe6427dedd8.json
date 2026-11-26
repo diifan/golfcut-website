@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83c32a20-86ac-11e4-8c28-020000005b00/moweaqua-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83c32a20-86ac-11e4-8c28-020000005b00/moweaqua-golf-course",
+  "checked_at": 1795663900.9062467,
+  "sha256": "2670ed0ada7283b28b3eeffe0d720cb7f82e38e3e23fe0ef8684dd42adf32449",
+  "title": "Moweaqua Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "83c32a20-86ac-11e4-8c28-020000005b00",
+    "name": "Moweaqua Golf Course",
+    "address": "2598 E. 1900 North Road, Moweaqua, IL",
+    "courses": [
+      {
+        "name": "Moweaqua",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6355,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6355,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6049,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6049,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5255,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 111
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5255,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5184,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5184,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83c32a20-86ac-11e4-8c28-020000005b00/moweaqua-golf-course"
+  }
+}

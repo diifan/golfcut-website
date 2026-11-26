@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96f2d0f0-86ac-11e4-8c28-020000005b00/whitetail-run-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96f2d0f0-86ac-11e4-8c28-020000005b00/whitetail-run-golf-course",
+  "checked_at": 1795666535.6510522,
+  "sha256": "6a8c3afc7e191ec2d5a04cea2b3236a958efb6ddf0ac4258c5681bdf8c745a18",
+  "title": "Whitetail Run Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96f2d0f0-86ac-11e4-8c28-020000005b00",
+    "name": "Whitetail Run Golf Course",
+    "address": "Hwy 71",
+    "courses": [
+      {
+        "name": "Wadena (Whitetail Run)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6540,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6250,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4975,
+            "par": 72,
+            "rating": 64.1,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96f2d0f0-86ac-11e4-8c28-020000005b00/whitetail-run-golf-course"
+  }
+}

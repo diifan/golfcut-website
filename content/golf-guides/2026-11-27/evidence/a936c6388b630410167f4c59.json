@@ -1,0 +1,243 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9af1eb00-86ac-11e4-8c28-020000005b00/forest-creek-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9af1eb00-86ac-11e4-8c28-020000005b00/forest-creek-golf-club",
+  "checked_at": 1795583835.417521,
+  "sha256": "be5eb06a483067b82f065e9126931336ca8c8fde0d5551fcb3c300ac99733c8f",
+  "title": "Forest Creek Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9af1eb00-86ac-11e4-8c28-020000005b00",
+    "name": "Forest Creek Golf Club",
+    "address": "200 Meyer Farm Dr, Pinehurst, NC",
+    "courses": [
+      {
+        "name": "Forest Creek - North",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7197,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 145
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 7197,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 145
+          },
+          {
+            "name": "Cone/L Hybrid",
+            "category": "MALE",
+            "yards": 6952,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 143
+          },
+          {
+            "name": "Cone/L Hybrid",
+            "category": "FEMALE",
+            "yards": 6952,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 143
+          },
+          {
+            "name": "Long",
+            "category": "MALE",
+            "yards": 6709,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 141
+          },
+          {
+            "name": "Long",
+            "category": "FEMALE",
+            "yards": 6709,
+            "par": 72,
+            "rating": 79.3,
+            "slope": 151
+          },
+          {
+            "name": "Creek",
+            "category": "MALE",
+            "yards": 6472,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 139
+          },
+          {
+            "name": "Creek",
+            "category": "FEMALE",
+            "yards": 6472,
+            "par": 72,
+            "rating": 78,
+            "slope": 147
+          },
+          {
+            "name": "Intermediate",
+            "category": "MALE",
+            "yards": 6256,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 135
+          },
+          {
+            "name": "Intermediate",
+            "category": "FEMALE",
+            "yards": 6256,
+            "par": 72,
+            "rating": 76.7,
+            "slope": 145
+          },
+          {
+            "name": "I/M Hybrid",
+            "category": "MALE",
+            "yards": 6049,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 132
+          },
+          {
+            "name": "I/M Hybrid",
+            "category": "FEMALE",
+            "yards": 6049,
+            "par": 72,
+            "rating": 75.6,
+            "slope": 142
+          },
+          {
+            "name": "Medium",
+            "category": "MALE",
+            "yards": 5870,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 128
+          },
+          {
+            "name": "Medium",
+            "category": "FEMALE",
+            "yards": 5870,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 140
+          },
+          {
+            "name": "Forest",
+            "category": "MALE",
+            "yards": 5479,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 124
+          },
+          {
+            "name": "Forest",
+            "category": "FEMALE",
+            "yards": 5479,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 134
+          },
+          {
+            "name": "Short",
+            "category": "MALE",
+            "yards": 4955,
+            "par": 72,
+            "rating": 64.5,
+            "slope": 112
+          },
+          {
+            "name": "Short",
+            "category": "FEMALE",
+            "yards": 4955,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 124
+          },
+          {
+            "name": "Short/X ",
+            "category": "MALE",
+            "yards": 4302,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 116
+          },
+          {
+            "name": "Short/X ",
+            "category": "FEMALE",
+            "yards": 4302,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 116
+          },
+          {
+            "name": "X",
+            "category": "MALE",
+            "yards": 3752,
+            "par": 72,
+            "rating": 60.5,
+            "slope": 103
+          },
+          {
+            "name": "X",
+            "category": "FEMALE",
+            "yards": 3752,
+            "par": 72,
+            "rating": 62.4,
+            "slope": 109
+          }
+        ]
+      },
+      {
+        "name": "Forest Creek - South",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7067,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 138
+          },
+          {
+            "name": "Cone/L Hybrid",
+            "category": "MALE",
+            "yards": 6603,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 133
+          },
+          {
+            "name": "Long",
+            "category": "MALE",
+            "yards": 6292,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 127
+          },
+          {
+            "name": "Creek",
+            "category": "MALE",
+            "yards": 5943,
+            "par": 72,
+            "rating": 68,
+            "slope": 124
+          },
+          {
+            "name": "Intermediate",
+            "category": "MALE",
+            "yards": 5047,
+            "par": 72,
+            "rating": 64.5,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9af1eb00-86ac-11e4-8c28-020000005b00/forest-creek-golf-club"
+  }
+}

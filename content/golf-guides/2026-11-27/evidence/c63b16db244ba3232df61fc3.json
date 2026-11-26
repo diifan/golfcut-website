@@ -1,0 +1,107 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/352b2bc0-3da5-11e8-b8b7-0680a328ea36/shadow-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/352b2bc0-3da5-11e8-b8b7-0680a328ea36/shadow-creek-golf-course",
+  "checked_at": 1795583797.7790027,
+  "sha256": "f760cf31944b6bafa49575e6edc33e24214631dbd402ff3f1c0a6d914c06eda5",
+  "title": "Shadow Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "352b2bc0-3da5-11e8-b8b7-0680a328ea36",
+    "name": "Shadow Creek Golf Course",
+    "address": "3 Shadow Creek Dr, North Las Vegas, NV",
+    "courses": [
+      {
+        "name": "Shadow Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7560,
+            "par": 72,
+            "rating": 79.4,
+            "slope": 137
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 7560,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 7102,
+            "par": 72,
+            "rating": 77.3,
+            "slope": 133
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 7102,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Regular",
+            "category": "MALE",
+            "yards": 6626,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 129
+          },
+          {
+            "name": "Regular",
+            "category": "FEMALE",
+            "yards": 6626,
+            "par": 72,
+            "rating": 77.1,
+            "slope": 137
+          }
+        ]
+      },
+      {
+        "name": "Tiger Jam",
+        "holes": 18,
+        "tees": [
+          {
+            "name": " Regular",
+            "category": "MALE",
+            "yards": 6626,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 132
+          },
+          {
+            "name": " Regular",
+            "category": "FEMALE",
+            "yards": 6626,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 132
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 6335,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 147
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 6335,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 147
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/352b2bc0-3da5-11e8-b8b7-0680a328ea36/shadow-creek-golf-course"
+  }
+}

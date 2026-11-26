@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e374040-86ac-11e4-8c28-020000005b00/sedona-golf-resort",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e374040-86ac-11e4-8c28-020000005b00/sedona-golf-resort",
+  "checked_at": 1795668326.1364295,
+  "sha256": "2286fcf2125b9ea29aa2d7a1988b29a37135dc8bfed8fb7d600b235d9e56b572",
+  "title": "Sedona Golf Resort - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8e374040-86ac-11e4-8c28-020000005b00",
+    "name": "Sedona Golf Resort",
+    "address": "35 Ridge Trail Drive, Sedona, AZ",
+    "courses": [
+      {
+        "name": "Sedona",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6646,
+            "par": 71,
+            "rating": 70.8,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6127,
+            "par": 71,
+            "rating": 68.3,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5652,
+            "par": 71,
+            "rating": 66.3,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5075,
+            "par": 71,
+            "rating": 64,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e374040-86ac-11e4-8c28-020000005b00/sedona-golf-resort"
+  }
+}

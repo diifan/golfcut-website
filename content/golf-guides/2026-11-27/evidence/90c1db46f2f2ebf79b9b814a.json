@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/94df5a40-86ac-11e4-8c28-020000005b00/breton-bay-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/94df5a40-86ac-11e4-8c28-020000005b00/breton-bay-golf-country-club",
+  "checked_at": 1795663892.7417355,
+  "sha256": "85d9d76833ebced34f5aa21ce477b87b79eb39e46f7ef84abf28a47558833ff6",
+  "title": "Breton Bay Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "94df5a40-86ac-11e4-8c28-020000005b00",
+    "name": "Breton Bay Golf & Country Club",
+    "address": "21935 Society Hill Road",
+    "courses": [
+      {
+        "name": "Breton Bay",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7010,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6597,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6055,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5232,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/94df5a40-86ac-11e4-8c28-020000005b00/breton-bay-golf-country-club"
+  }
+}

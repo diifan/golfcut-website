@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/07ca2a90-23b2-11e7-a4f3-0680a328ea36/eureka-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/07ca2a90-23b2-11e7-a4f3-0680a328ea36/eureka-golf-course",
+  "checked_at": 1795668307.8534117,
+  "sha256": "11d0da9d8457276e974d57603c0a78906c84ddcd09305d21124d66d00cec5cba",
+  "title": "Eureka Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "07ca2a90-23b2-11e7-a4f3-0680a328ea36",
+    "name": "Eureka Golf Course",
+    "address": "4750 Fairway Drive, Eureka, CA 95503",
+    "courses": [
+      {
+        "name": "Eureka Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5674,
+            "par": 70,
+            "rating": 68,
+            "slope": 112
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5674,
+            "par": 73,
+            "rating": 72.1,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5481,
+            "par": 70,
+            "rating": 66.9,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5481,
+            "par": 73,
+            "rating": 71.5,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5239,
+            "par": 70,
+            "rating": 65.9,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5239,
+            "par": 73,
+            "rating": 70.3,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/07ca2a90-23b2-11e7-a4f3-0680a328ea36/eureka-golf-course"
+  }
+}

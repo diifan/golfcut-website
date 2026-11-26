@@ -1,0 +1,77 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9519a420-86ac-11e4-8c28-020000005b00/greystone-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9519a420-86ac-11e4-8c28-020000005b00/greystone-golf-course",
+  "checked_at": 1795583787.017164,
+  "sha256": "927c9b0f37a5bc68acee1102dbef3ec0992b17d94579e2e28f46ccf468c7e53b",
+  "title": "Greystone Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9519a420-86ac-11e4-8c28-020000005b00",
+    "name": "Greystone Golf Course",
+    "address": "2115 White Hall Road, White Hall, MD",
+    "courses": [
+      {
+        "name": "Greystone",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Grey",
+            "category": "MALE",
+            "yards": 6968,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6403,
+            "par": 72,
+            "rating": 70,
+            "slope": 129
+          },
+          {
+            "name": "White/Green",
+            "category": "MALE",
+            "yards": 5616,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 123
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5530,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4800,
+            "par": 72,
+            "rating": 63.5,
+            "slope": 111
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6600,
+            "par": 72,
+            "rating": 72,
+            "slope": 134
+          },
+          {
+            "name": "Black/White",
+            "category": "MALE",
+            "yards": 6364,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 132
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9519a420-86ac-11e4-8c28-020000005b00/greystone-golf-course"
+  }
+}

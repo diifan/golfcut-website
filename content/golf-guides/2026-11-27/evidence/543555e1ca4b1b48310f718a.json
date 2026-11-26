@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae03f7b0-86ac-11e4-8c28-020000005b00/valhalla-woods-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae03f7b0-86ac-11e4-8c28-020000005b00/valhalla-woods-golf-club",
+  "checked_at": 1795668324.6582239,
+  "sha256": "4967dfe0d4caafbdead4a7967adf93b6d74acc221150a748b8d240a43c7d8a75",
+  "title": "Valhalla Woods Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "ae03f7b0-86ac-11e4-8c28-020000005b00",
+    "name": "Valhalla Woods Golf Club",
+    "address": "100 Norse Way, Columbia, SC",
+    "courses": [
+      {
+        "name": "Woodlands",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6685,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6298,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5627,
+            "par": 72,
+            "rating": 67,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5074,
+            "par": 72,
+            "rating": 64.5,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae03f7b0-86ac-11e4-8c28-020000005b00/valhalla-woods-golf-club"
+  }
+}

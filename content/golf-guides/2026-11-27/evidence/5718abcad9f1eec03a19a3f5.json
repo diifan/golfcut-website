@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/97da4ac0-86ac-11e4-8c28-020000005b00/eagle-oaks-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/97da4ac0-86ac-11e4-8c28-020000005b00/eagle-oaks-golf-country-club",
+  "checked_at": 1795661684.7260299,
+  "sha256": "544abd6cff70715ad4b49cd57c5db0686f00b1fa3bb161a705f90f800b5a58d9",
+  "title": "Eagle Oaks Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "97da4ac0-86ac-11e4-8c28-020000005b00",
+    "name": "Eagle Oaks Golf & Country Club",
+    "address": "20 Shore Oakes Dr",
+    "courses": [
+      {
+        "name": "Eagle Oaks ",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7091,
+            "par": 71,
+            "rating": 74.7,
+            "slope": 140
+          },
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 6632,
+            "par": 71,
+            "rating": 72.3,
+            "slope": 132
+          },
+          {
+            "name": "Members",
+            "category": "MALE",
+            "yards": 6082,
+            "par": 71,
+            "rating": 68.4,
+            "slope": 127
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5449,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 120
+          },
+          {
+            "name": "Combo",
+            "category": "MALE",
+            "yards": 5035,
+            "par": 71,
+            "rating": 70.5,
+            "slope": 130
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/97da4ac0-86ac-11e4-8c28-020000005b00/eagle-oaks-golf-country-club"
+  }
+}

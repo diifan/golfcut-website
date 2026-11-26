@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/394fbfc0-82c7-11e7-944b-0680a328ea36/boot-ranch-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/394fbfc0-82c7-11e7-944b-0680a328ea36/boot-ranch-golf-course",
+  "checked_at": 1795668351.1837473,
+  "sha256": "73469afcfc082e57c5fec5cac5e118e7a96b8b78904241feb1b8b522fd4ec6a6",
+  "title": "Boot Ranch Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "394fbfc0-82c7-11e7-944b-0680a328ea36",
+    "name": "Boot Ranch Golf Course",
+    "address": "77 Boot Ranch Cir, Fredericksburg, TX",
+    "courses": [
+      {
+        "name": "Boot Ranch",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 7135,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 145
+          },
+          {
+            "name": "Tournament",
+            "category": "FEMALE",
+            "yards": 7135,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Medal",
+            "category": "MALE",
+            "yards": 6584,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 141
+          },
+          {
+            "name": "Medal",
+            "category": "FEMALE",
+            "yards": 6584,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 136
+          },
+          {
+            "name": "Executive",
+            "category": "MALE",
+            "yards": 6004,
+            "par": 72,
+            "rating": 71,
+            "slope": 131
+          },
+          {
+            "name": "Executive",
+            "category": "FEMALE",
+            "yards": 6004,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 145
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5049,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 121
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5049,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 129
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/394fbfc0-82c7-11e7-944b-0680a328ea36/boot-ranch-golf-course"
+  }
+}

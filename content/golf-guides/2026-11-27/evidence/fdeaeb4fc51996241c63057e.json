@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b932f960-86ac-11e4-8c28-020000005b00/eldon-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b932f960-86ac-11e4-8c28-020000005b00/eldon-country-club",
+  "checked_at": 1795661435.8081534,
+  "sha256": "e07688d75767f16e6dbba65c3cefaa157fb049446edc1d7e1138740fc5bf7b21",
+  "title": "Eldon Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b932f960-86ac-11e4-8c28-020000005b00",
+    "name": "Eldon Country Club",
+    "address": "35 Golf Course Rd, Eldon, MO",
+    "courses": [
+      {
+        "name": "Eldon",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6373,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6373,
+            "par": 73,
+            "rating": 75.8,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6037,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6037,
+            "par": 73,
+            "rating": 74,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5587,
+            "par": 72,
+            "rating": 67,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5587,
+            "par": 73,
+            "rating": 71.9,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4758,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4758,
+            "par": 73,
+            "rating": 66.9,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b932f960-86ac-11e4-8c28-020000005b00/eldon-country-club"
+  }
+}

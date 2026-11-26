@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/966f4910-86ac-11e4-8c28-020000005b00/minnewaska-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/966f4910-86ac-11e4-8c28-020000005b00/minnewaska-golf-club",
+  "checked_at": 1795666503.5182433,
+  "sha256": "85ad3cedd1fa899b9113898d000433136af54798f20e718c0cb15961a01b7f96",
+  "title": "Minnewaska Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "966f4910-86ac-11e4-8c28-020000005b00",
+    "name": "Minnewaska Golf Club",
+    "address": "2829 Golf Course Rd.",
+    "courses": [
+      {
+        "name": "Minnewaska",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6483,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6212,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5221,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/966f4910-86ac-11e4-8c28-020000005b00/minnewaska-golf-club"
+  }
+}

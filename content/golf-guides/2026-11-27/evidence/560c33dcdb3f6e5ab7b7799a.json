@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad977a40-86ac-11e4-8c28-020000005b00/pocono-farms-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad977a40-86ac-11e4-8c28-020000005b00/pocono-farms-country-club",
+  "checked_at": 1795663924.849876,
+  "sha256": "515b51c8ea280950aed6ec6fc10c40d3d5151ea362dd36b2e7eb92c127bdbfa3",
+  "title": "Pocono Farms Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ad977a40-86ac-11e4-8c28-020000005b00",
+    "name": "Pocono Farms Country Club",
+    "address": "182 Lake Road",
+    "courses": [
+      {
+        "name": "Pocono Farms",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6723,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6388,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5777,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5398,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad977a40-86ac-11e4-8c28-020000005b00/pocono-farms-country-club"
+  }
+}

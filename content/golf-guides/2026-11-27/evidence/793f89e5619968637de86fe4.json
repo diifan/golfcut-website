@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b81c0b20-86ac-11e4-8c28-020000005b00/big-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b81c0b20-86ac-11e4-8c28-020000005b00/big-creek-golf-course",
+  "checked_at": 1795666536.2813823,
+  "sha256": "780abd6d299d57321561d1dc7cd6aa17d25647b430d46d866965cd78e3678477",
+  "title": "Big Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "b81c0b20-86ac-11e4-8c28-020000005b00",
+    "name": "Big Creek Golf Course",
+    "address": "24073 J Rd.",
+    "courses": [
+      {
+        "name": "Big Creek",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3278,
+            "par": 35,
+            "rating": 35.4,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3097,
+            "par": 35,
+            "rating": 34.3,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b81c0b20-86ac-11e4-8c28-020000005b00/big-creek-golf-course"
+  }
+}

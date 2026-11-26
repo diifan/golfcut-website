@@ -1,0 +1,241 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92dfb9b0-86ac-11e4-8c28-020000005b00/the-hartford-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92dfb9b0-86ac-11e4-8c28-020000005b00/the-hartford-golf-club",
+  "checked_at": 1795583775.7491436,
+  "sha256": "67a63eca96f1a174e74b4ede54016a3376b1a9a28bbc1f8c1090455492683af5",
+  "title": "The Hartford Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "92dfb9b0-86ac-11e4-8c28-020000005b00",
+    "name": "The Hartford Golf Club",
+    "address": "134 Norwood Rd, West Hartford, CT",
+    "courses": [
+      {
+        "name": "Red Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6589,
+            "par": 71,
+            "rating": 72,
+            "slope": 135
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6589,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6267,
+            "par": 71,
+            "rating": 70.7,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6267,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 133
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5637,
+            "par": 71,
+            "rating": 67.4,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5637,
+            "par": 72,
+            "rating": 73,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5058,
+            "par": 71,
+            "rating": 68,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5058,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5786,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5786,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 127
+          }
+        ]
+      },
+      {
+        "name": "Blue Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6610,
+            "par": 71,
+            "rating": 70.4,
+            "slope": 134
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6610,
+            "par": 72,
+            "rating": 77.1,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6241,
+            "par": 71,
+            "rating": 68.6,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6241,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5811,
+            "par": 71,
+            "rating": 68.3,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5811,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5090,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5090,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 123
+          }
+        ]
+      },
+      {
+        "name": "Green Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6451,
+            "par": 70,
+            "rating": 69.7,
+            "slope": 132
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6451,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6152,
+            "par": 70,
+            "rating": 67.7,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6152,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5612,
+            "par": 70,
+            "rating": 67,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5612,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5036,
+            "par": 70,
+            "rating": 67.9,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5036,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92dfb9b0-86ac-11e4-8c28-020000005b00/the-hartford-golf-club"
+  }
+}

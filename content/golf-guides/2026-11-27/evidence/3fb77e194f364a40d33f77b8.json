@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8b967db0-86ac-11e4-8c28-020000005b00/clear-creek-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8b967db0-86ac-11e4-8c28-020000005b00/clear-creek-golf-club",
+  "checked_at": 1795661638.7279117,
+  "sha256": "2faf688cb718c33e104efa69150e41d3bdf8ef2dcd06b47d565e34328463ff96",
+  "title": "Clear Creek Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8b967db0-86ac-11e4-8c28-020000005b00",
+    "name": "Clear Creek Golf Club",
+    "address": "3902 Fellows Road, Houston, TX",
+    "courses": [
+      {
+        "name": "Clear Creek GC",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6917,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6340,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5595,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5254,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8b967db0-86ac-11e4-8c28-020000005b00/clear-creek-golf-club"
+  }
+}

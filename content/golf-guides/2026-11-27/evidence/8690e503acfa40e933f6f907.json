@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ade96ad0-86ac-11e4-8c28-020000005b00/cobbs-glen-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ade96ad0-86ac-11e4-8c28-020000005b00/cobbs-glen-country-club",
+  "checked_at": 1795663878.0966856,
+  "sha256": "66bfecb6a462af2ee62a988de7a31219c7a31f3ace9edabb4a600a7b7be5516b",
+  "title": "Cobb's Glen Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ade96ad0-86ac-11e4-8c28-020000005b00",
+    "name": "Cobb's Glen Country Club",
+    "address": "2201 Cobbs Way, Anderson, SC",
+    "courses": [
+      {
+        "name": "Cobbs Glen",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 7002,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6470,
+            "par": 72,
+            "rating": 71,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5952,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5519,
+            "par": 72,
+            "rating": 67,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5312,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ade96ad0-86ac-11e4-8c28-020000005b00/cobbs-glen-country-club"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99ffc2d0-86ac-11e4-8c28-020000005b00/webster-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99ffc2d0-86ac-11e4-8c28-020000005b00/webster-golf-club",
+  "checked_at": 1795664720.2898412,
+  "sha256": "302100b985c56b4d23f6b191a92d0b6332ce72257498434a6d1c14217dc035e3",
+  "title": "Webster Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99ffc2d0-86ac-11e4-8c28-020000005b00",
+    "name": "Webster Golf Club",
+    "address": "440 Salt Rd, Webster, NY",
+    "courses": [
+      {
+        "name": "East Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7024,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 136
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7024,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Grey",
+            "category": "MALE",
+            "yards": 6506,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 132
+          },
+          {
+            "name": "Grey",
+            "category": "FEMALE",
+            "yards": 6506,
+            "par": 73,
+            "rating": 76.5,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6164,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6164,
+            "par": 73,
+            "rating": 76.2,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5691,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5691,
+            "par": 73,
+            "rating": 73.7,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5488,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5488,
+            "par": 73,
+            "rating": 71.9,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99ffc2d0-86ac-11e4-8c28-020000005b00/webster-golf-club"
+  }
+}

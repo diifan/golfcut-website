@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/74a7ac00-86ac-11e4-8c28-020000005b00/mullet-bay",
+  "resolved_url": "https://18birdies.com/golf-courses/club/74a7ac00-86ac-11e4-8c28-020000005b00/mullet-bay",
+  "checked_at": 1795583794.0077758,
+  "sha256": "3c08a8e08969d42cc695b7837a6953468feae972f7a1aabf6e31d5805a30d339",
+  "title": "Mullet Bay Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star-o star star-o star-o star-o star star-o star star-o star-o star-o star star google-play",
+  "course_profile": {
+    "id": "74a7ac00-86ac-11e4-8c28-020000005b00",
+    "name": "Mullet Bay Golf Course",
+    "address": "PO Box 909, St Maarten Netherlands Antilles",
+    "courses": [
+      {
+        "name": "Mullet Bay Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6200,
+            "par": 70,
+            "rating": 68.3,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6200,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5514,
+            "par": 70,
+            "rating": 66.7,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5514,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5050,
+            "par": 70,
+            "rating": 68,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5050,
+            "par": 70,
+            "rating": 68,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/74a7ac00-86ac-11e4-8c28-020000005b00/mullet-bay"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98783870-86ac-11e4-8c28-020000005b00/alder-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98783870-86ac-11e4-8c28-020000005b00/alder-creek-golf-course",
+  "checked_at": 1795583833.2847779,
+  "sha256": "fef6d61a4a1951979a7aa29d7d27d00cdad7d6f3b2680da050fcefec5d373428",
+  "title": "Alder Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "98783870-86ac-11e4-8c28-020000005b00",
+    "name": "Alder Creek Golf Course",
+    "address": "11333 Route 12, Alder Creek, NY",
+    "courses": [
+      {
+        "name": "Alder Creek(9 holes )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3178,
+            "par": 36,
+            "rating": 35.4,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3178,
+            "par": 36,
+            "rating": 35.9,
+            "slope": 123
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 2975,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 117
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 2975,
+            "par": 36,
+            "rating": 35.1,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98783870-86ac-11e4-8c28-020000005b00/alder-creek-golf-course"
+  }
+}

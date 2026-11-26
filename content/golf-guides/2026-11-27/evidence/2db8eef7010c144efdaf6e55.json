@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/960abae0-86ac-11e4-8c28-020000005b00/lake-miltona-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/960abae0-86ac-11e4-8c28-020000005b00/lake-miltona-golf-club",
+  "checked_at": 1795664721.7594342,
+  "sha256": "456b0c7602059d796d2f3ac8f0747a8435d76dbeee48dc558076c99fa4a60314",
+  "title": "Lake Miltona Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "960abae0-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Miltona Golf Club",
+    "address": "3868 County Road 5 NE",
+    "courses": [
+      {
+        "name": "Lake Miltona",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6470,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6096,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5339,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5127,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/960abae0-86ac-11e4-8c28-020000005b00/lake-miltona-golf-club"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d7e2970-86ac-11e4-8c28-020000005b00/curtis-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d7e2970-86ac-11e4-8c28-020000005b00/curtis-creek-golf-course",
+  "checked_at": 1795664720.450413,
+  "sha256": "340eaab1909b291d39db245cd2ab931c2e4755d546165f3867b1ecce6e17db78",
+  "title": "Curtis Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d7e2970-86ac-11e4-8c28-020000005b00",
+    "name": "Curtis Creek Golf Course",
+    "address": "5385 S 1080 W, Rensselaer, IN",
+    "courses": [
+      {
+        "name": "Curtis Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6526,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 128
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6526,
+            "par": 72,
+            "rating": 76.6,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6133,
+            "par": 72,
+            "rating": 70,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6133,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5475,
+            "par": 72,
+            "rating": 65.6,
+            "slope": 108
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5475,
+            "par": 72,
+            "rating": 71,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5040,
+            "par": 72,
+            "rating": 63,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5040,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d7e2970-86ac-11e4-8c28-020000005b00/curtis-creek-golf-course"
+  }
+}

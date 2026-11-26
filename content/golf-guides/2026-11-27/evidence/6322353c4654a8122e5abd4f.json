@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/44577910-74d7-11f1-8df3-069933b83eb1/rum-creek-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/44577910-74d7-11f1-8df3-069933b83eb1/rum-creek-golf",
+  "checked_at": 1795669242.1766708,
+  "sha256": "3c7e6732707825b236e16626e61b9370e1519080828e22c523b86e4255b1fd11",
+  "title": "Rum Creek Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "44577910-74d7-11f1-8df3-069933b83eb1",
+    "name": "Rum Creek Golf",
+    "address": "107 Saint Ives Crossing, Stockbridge, Georgia 30281, Henry County,",
+    "courses": [
+      {
+        "name": "Rum Creek",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 1265,
+            "par": 27,
+            "rating": 27.3,
+            "slope": 87
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 1265,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1085,
+            "par": 27,
+            "rating": 27,
+            "slope": 86
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1085,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 850,
+            "par": 27,
+            "rating": 28.5,
+            "slope": 89
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 850,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/44577910-74d7-11f1-8df3-069933b83eb1/rum-creek-golf"
+  }
+}

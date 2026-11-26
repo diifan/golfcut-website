@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/94f26d10-86ac-11e4-8c28-020000005b00/mitchells-golf-complex",
+  "resolved_url": "https://18birdies.com/golf-courses/club/94f26d10-86ac-11e4-8c28-020000005b00/mitchells-golf-complex",
+  "checked_at": 1795661433.6350894,
+  "sha256": "ade3b3abee0e41e55f0278e53ea9cc591a97e2c6b7d7a87e6ebbc98075560dd6",
+  "title": "Mitchell's Golf Complex - Scorecards, Reviews | 18Birdies star star star star star star star star-o star star-o star-o star star star-o star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "94f26d10-86ac-11e4-8c28-020000005b00",
+    "name": "Mitchell's Golf Complex",
+    "address": "301 Mitchell Drive",
+    "courses": [
+      {
+        "name": "Tom Mitchells",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1592,
+            "par": 29,
+            "rating": 27.6,
+            "slope": 80
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1592,
+            "par": 29,
+            "rating": 29.1,
+            "slope": 84
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/94f26d10-86ac-11e4-8c28-020000005b00/mitchells-golf-complex"
+  }
+}

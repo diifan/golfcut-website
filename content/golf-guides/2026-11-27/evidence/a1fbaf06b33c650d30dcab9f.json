@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2bfab00-86ac-11e4-8c28-020000005b00/selfridge-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2bfab00-86ac-11e4-8c28-020000005b00/selfridge-golf-course",
+  "checked_at": 1795664700.8562691,
+  "sha256": "c2ca2ea37138d3c3fa17a9aeb3533b1ec661ef5ff44d9ff44ac932a5427f00b5",
+  "title": "Selfridge Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b2bfab00-86ac-11e4-8c28-020000005b00",
+    "name": "Selfridge Golf Course",
+    "address": "Bldg 599 Selfridge ANG Base, Harrison Township, MI",
+    "courses": [
+      {
+        "name": "Selfridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6382,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6382,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5786,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5786,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4935,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4935,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2bfab00-86ac-11e4-8c28-020000005b00/selfridge-golf-course"
+  }
+}

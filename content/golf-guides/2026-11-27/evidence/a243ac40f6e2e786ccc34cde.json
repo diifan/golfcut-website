@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8b7e61d0-86ac-11e4-8c28-020000005b00/escondido-golf-and-lake-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8b7e61d0-86ac-11e4-8c28-020000005b00/escondido-golf-and-lake-club",
+  "checked_at": 1795661410.5553703,
+  "sha256": "df4d1450ff56e9972de1dc4586ecef6fb23b78861b37d7864f97cf05fb7433aa",
+  "title": "Escondido Golf and Lake Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8b7e61d0-86ac-11e4-8c28-020000005b00",
+    "name": "Escondido Golf and Lake Club",
+    "address": "9090 Highway 2147, Horseshoe Bay, TX",
+    "courses": [
+      {
+        "name": "Escondido",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Tee l",
+            "category": "MALE",
+            "yards": 7168,
+            "par": 71,
+            "rating": 75.9,
+            "slope": 143
+          },
+          {
+            "name": "Tee l",
+            "category": "FEMALE",
+            "yards": 7168,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Tee ll",
+            "category": "MALE",
+            "yards": 6633,
+            "par": 71,
+            "rating": 73.6,
+            "slope": 138
+          },
+          {
+            "name": "Tee ll",
+            "category": "FEMALE",
+            "yards": 6633,
+            "par": 71,
+            "rating": 77.2,
+            "slope": 137
+          },
+          {
+            "name": "Tee lll",
+            "category": "MALE",
+            "yards": 6094,
+            "par": 71,
+            "rating": 71,
+            "slope": 134
+          },
+          {
+            "name": "Tee lll",
+            "category": "FEMALE",
+            "yards": 6094,
+            "par": 71,
+            "rating": 76.6,
+            "slope": 142
+          },
+          {
+            "name": "Tee IV",
+            "category": "MALE",
+            "yards": 5224,
+            "par": 71,
+            "rating": 67.1,
+            "slope": 128
+          },
+          {
+            "name": "Tee IV",
+            "category": "FEMALE",
+            "yards": 5224,
+            "par": 71,
+            "rating": 71.9,
+            "slope": 130
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8b7e61d0-86ac-11e4-8c28-020000005b00/escondido-golf-and-lake-club"
+  }
+}

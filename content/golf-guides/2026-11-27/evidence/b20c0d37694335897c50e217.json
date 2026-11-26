@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5c1ee80-86ac-11e4-8c28-020000005b00/the-golf-course-at-branch-river",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5c1ee80-86ac-11e4-8c28-020000005b00/the-golf-course-at-branch-river",
+  "checked_at": 1795664738.6370652,
+  "sha256": "d95abb0342294fe30167280f7e8c7c74d86c60e955a58a89bb00c3fab8ec944d",
+  "title": "(CLOSED) The Golf Course at Branch River - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b5c1ee80-86ac-11e4-8c28-020000005b00",
+    "name": "(CLOSED) The Golf Course at Branch River",
+    "address": "3212 N Union Rd",
+    "courses": [
+      {
+        "name": "Branch River",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6696,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6450,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5932,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5501,
+            "par": 72,
+            "rating": 70,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5c1ee80-86ac-11e4-8c28-020000005b00/the-golf-course-at-branch-river"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9a8ecb0-86ac-11e4-8c28-020000005b00/dream-valley-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9a8ecb0-86ac-11e4-8c28-020000005b00/dream-valley-golf-course",
+  "checked_at": 1795664706.9709606,
+  "sha256": "0f7d4931772c4d73a172d73594322f3cd7abd81eff265f597c6fb1bed146787e",
+  "title": "Dream Valley Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b9a8ecb0-86ac-11e4-8c28-020000005b00",
+    "name": "Dream Valley Golf Course",
+    "address": "90 Golf Course Road, Buffalo, Missouri 65622, United States",
+    "courses": [
+      {
+        "name": "Dream Valley Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6255,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6255,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5945,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5945,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5103,
+            "par": 72,
+            "rating": 64.7,
+            "slope": 104
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5103,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4974,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4974,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9a8ecb0-86ac-11e4-8c28-020000005b00/dream-valley-golf-course"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b37ce080-86ac-11e4-8c28-020000005b00/rush-lake-hills-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b37ce080-86ac-11e4-8c28-020000005b00/rush-lake-hills-golf-club",
+  "checked_at": 1795664730.0341263,
+  "sha256": "28da062c7b726116cc1183d7ba84c4c4748ceec29ecd802e0c456ddb32291677",
+  "title": "Rush Lake Hills Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b37ce080-86ac-11e4-8c28-020000005b00",
+    "name": "Rush Lake Hills Golf Club",
+    "address": "3199 Rush Lake Rd, Pinckney, MI",
+    "courses": [
+      {
+        "name": "Rush Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6195,
+            "par": 73,
+            "rating": 69.8,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6195,
+            "par": 73,
+            "rating": 74.8,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5314,
+            "par": 73,
+            "rating": 66,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5314,
+            "par": 73,
+            "rating": 71.2,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4964,
+            "par": 73,
+            "rating": 62.9,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4964,
+            "par": 73,
+            "rating": 67.5,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b37ce080-86ac-11e4-8c28-020000005b00/rush-lake-hills-golf-club"
+  }
+}

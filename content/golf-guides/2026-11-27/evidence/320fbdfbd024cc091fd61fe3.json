@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/952a6d00-86ac-11e4-8c28-020000005b00/templewood-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/952a6d00-86ac-11e4-8c28-020000005b00/templewood-golf-course",
+  "checked_at": 1795664734.2208648,
+  "sha256": "241f196199be9a34d0084c116bd93ee65705275122a43dbe7ba5678d72342987",
+  "title": "Templewood Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "952a6d00-86ac-11e4-8c28-020000005b00",
+    "name": "Templewood Golf Course",
+    "address": "160 brooks road",
+    "courses": [
+      {
+        "name": "Templewood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6086,
+            "par": 70,
+            "rating": 69.8,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6086,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5702,
+            "par": 70,
+            "rating": 68.3,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5702,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5116,
+            "par": 70,
+            "rating": 64.5,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5116,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4877,
+            "par": 70,
+            "rating": 63.6,
+            "slope": 116
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 4877,
+            "par": 70,
+            "rating": 68.5,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/952a6d00-86ac-11e4-8c28-020000005b00/templewood-golf-course"
+  }
+}

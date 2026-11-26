@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad846770-86ac-11e4-8c28-020000005b00/red-maples-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad846770-86ac-11e4-8c28-020000005b00/red-maples-golf-course",
+  "checked_at": 1795661439.2881043,
+  "sha256": "8dd44eee44c1ac526152263ce990d69149fc60d0e0596065ddc12f6bc0ba6505",
+  "title": "Red Maples Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ad846770-86ac-11e4-8c28-020000005b00",
+    "name": "Red Maples Golf Course",
+    "address": "2322 Easton Turnpike, Waymart, PA ",
+    "courses": [
+      {
+        "name": "Red Maples",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2210,
+            "par": 33,
+            "rating": 32.5,
+            "slope": 103
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2210,
+            "par": 33,
+            "rating": 32.7,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad846770-86ac-11e4-8c28-020000005b00/red-maples-golf-course"
+  }
+}

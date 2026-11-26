@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9aff7f90-86ac-11e4-8c28-020000005b00/benvenue-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9aff7f90-86ac-11e4-8c28-020000005b00/benvenue-country-club",
+  "checked_at": 1795668325.5005429,
+  "sha256": "0cc64c54ff38ff6a79148bc4da7463df13e91285b8bed942299b2d624ac78377",
+  "title": "Benvenue Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9aff7f90-86ac-11e4-8c28-020000005b00",
+    "name": "Benvenue Country Club",
+    "address": "100 Southern Blvd, Rocky Mount, NC",
+    "courses": [
+      {
+        "name": "Benvenue",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6547,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6209,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5787,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4741,
+            "par": 72,
+            "rating": 62.5,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9aff7f90-86ac-11e4-8c28-020000005b00/benvenue-country-club"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/eb0f91c0-94df-11f1-a393-069933b83eb1/roebuck-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/eb0f91c0-94df-11f1-a393-069933b83eb1/roebuck-golf-course",
+  "checked_at": 1795663884.1170104,
+  "sha256": "f090d3ed85e79798c2672ca9f5191c842380e4219e8995a40e9757803e59a924",
+  "title": "Roebuck Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star-o star star star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "eb0f91c0-94df-11f1-a393-069933b83eb1",
+    "name": "Roebuck Golf Course",
+    "address": "8920 Roebuck Blvd, Birmingham, Alabama 35206, United States",
+    "courses": [
+      {
+        "name": "Roebuck Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6324,
+            "par": 71,
+            "rating": 69.9,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6324,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5974,
+            "par": 71,
+            "rating": 68.4,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5974,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5348,
+            "par": 71,
+            "rating": 65.5,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5348,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5175,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5175,
+            "par": 71,
+            "rating": 69.3,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/eb0f91c0-94df-11f1-a393-069933b83eb1/roebuck-golf-course"
+  }
+}

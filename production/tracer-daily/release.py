@@ -61,13 +61,18 @@ def publish(day,immediate=False):
  d=api('/v13/deployments/'+r['deployment_id'],work)
  if d.get('readyState')!='READY' or d.get('projectId')!=PID or d.get('meta',{}).get('swieCommit')!=r['commit']:raise RuntimeError('Prepared deployment identity mismatch')
  progress(day,state='publishing',blockers=[])
- cli(['promote',r['deployment_id'],'--yes','--timeout','3m'],work)
+ if api('/v4/aliases/golfcut.goswie.com',work).get('deploymentId')!=r['deployment_id']:
+  cli(['promote',r['deployment_id'],'--yes','--timeout','3m'],work)
  alias=api('/v4/aliases/golfcut.goswie.com',work)
  if alias.get('deploymentId')!=r['deployment_id']:raise RuntimeError('Production alias does not point to prepared deployment')
  progress(day,state='verifying')
  session=requests.Session();session.proxies={'https':'http://127.0.0.1:7890'}
- sm=session.get(ORIGIN+'/sitemap.xml',timeout=40);sm.raise_for_status();urls=set(re.findall(r'<loc>(.*?)</loc>',sm.text));expected={ORIGIN+'/golf-guides/'+x['slug'] for x in rows}
- if not expected.issubset(urls):raise RuntimeError('Live sitemap missing batch URLs')
+ expected={ORIGIN+'/golf-guides/'+x['slug'] for x in rows}
+ for attempt in range(6):
+  sm=session.get(ORIGIN+'/sitemap.xml',timeout=40);sm.raise_for_status();urls=set(re.findall(r'<loc>(.*?)</loc>',sm.text))
+  if expected.issubset(urls):break
+  if attempt==5:raise RuntimeError('Live sitemap missing batch URLs after propagation retries')
+  time.sleep(2*(attempt+1))
  def verify(row):
   url=ORIGIN+'/golf-guides/'+row['slug']
   for attempt in range(3):

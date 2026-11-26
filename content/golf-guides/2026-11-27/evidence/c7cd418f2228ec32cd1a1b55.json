@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d176310-86ac-11e4-8c28-020000005b00/cumberland-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d176310-86ac-11e4-8c28-020000005b00/cumberland-golf-club",
+  "checked_at": 1795663425.5270135,
+  "sha256": "35100d09236436a75e3405005bf557805e24d9c73f0e4a322c0537f93d73ad58",
+  "title": "Cumberland Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9d176310-86ac-11e4-8c28-020000005b00",
+    "name": "Cumberland Golf Club",
+    "address": "2395 Ritner Hwy, Carlisle, PA",
+    "courses": [
+      {
+        "name": "Cumberland",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6777,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6501,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 121
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5372,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5192,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d176310-86ac-11e4-8c28-020000005b00/cumberland-golf-club"
+  }
+}

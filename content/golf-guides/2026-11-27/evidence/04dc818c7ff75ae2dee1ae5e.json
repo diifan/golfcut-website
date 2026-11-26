@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ba13dd0-86ac-11e4-8c28-020000005b00/wyandot-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ba13dd0-86ac-11e4-8c28-020000005b00/wyandot-golf-course",
+  "checked_at": 1795663883.7197444,
+  "sha256": "5e2e53f007ef49a6569b38872619237b251ce71212d5755b07118db226d3ebb1",
+  "title": "Wyandot Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9ba13dd0-86ac-11e4-8c28-020000005b00",
+    "name": "Wyandot Golf Course",
+    "address": "3032 Columbus Road, Centerburg, OH",
+    "courses": [
+      {
+        "name": "Wyandot",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Hawk",
+            "category": "MALE",
+            "yards": 5962,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 116
+          },
+          {
+            "name": "Hawk",
+            "category": "FEMALE",
+            "yards": 5962,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 132
+          },
+          {
+            "name": "Deer",
+            "category": "MALE",
+            "yards": 5707,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 113
+          },
+          {
+            "name": "Deer",
+            "category": "FEMALE",
+            "yards": 5707,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 128
+          },
+          {
+            "name": "Snake",
+            "category": "MALE",
+            "yards": 4967,
+            "par": 72,
+            "rating": 63.8,
+            "slope": 109
+          },
+          {
+            "name": "Snake",
+            "category": "FEMALE",
+            "yards": 4967,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 117
+          },
+          {
+            "name": "Rabbit",
+            "category": "MALE",
+            "yards": 4332,
+            "par": 72,
+            "rating": 61.2,
+            "slope": 99
+          },
+          {
+            "name": "Rabbit",
+            "category": "FEMALE",
+            "yards": 4332,
+            "par": 72,
+            "rating": 65,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ba13dd0-86ac-11e4-8c28-020000005b00/wyandot-golf-course"
+  }
+}

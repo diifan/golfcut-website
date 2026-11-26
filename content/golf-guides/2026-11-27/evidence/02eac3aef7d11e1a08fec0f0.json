@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98aba480-86ac-11e4-8c28-020000005b00/cassadaga-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98aba480-86ac-11e4-8c28-020000005b00/cassadaga-country-club",
+  "checked_at": 1795669220.0487583,
+  "sha256": "d1ec22cbdf83f8332e8272776cf69030c255ac4dd52ffe6cb4a32f1fbda3c35b",
+  "title": "Cassadaga Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "98aba480-86ac-11e4-8c28-020000005b00",
+    "name": "Cassadaga Country Club",
+    "address": "55 Frisbee Rd",
+    "courses": [
+      {
+        "name": "Cassadaga(9 holes )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 2541,
+            "par": 35,
+            "rating": 32.8,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2541,
+            "par": 35,
+            "rating": 34,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98aba480-86ac-11e4-8c28-020000005b00/cassadaga-country-club"
+  }
+}

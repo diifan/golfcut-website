@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4843e60-86ac-11e4-8c28-020000005b00/kellys-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4843e60-86ac-11e4-8c28-020000005b00/kellys-country-club",
+  "checked_at": 1795661415.1538708,
+  "sha256": "e6ba34209ebe77fe3cd5fd6175d1093e4133d2db43479dbd0cdcb917fa665a48",
+  "title": "Kelly's Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b4843e60-86ac-11e4-8c28-020000005b00",
+    "name": "Kelly's Country Club",
+    "address": "Rural Route 3, Norfolk, NE",
+    "courses": [
+      {
+        "name": "Kelly's",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2781,
+            "par": 36,
+            "rating": 35.1,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2781,
+            "par": 36,
+            "rating": 35.7,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2342,
+            "par": 36,
+            "rating": 33.1,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2342,
+            "par": 36,
+            "rating": 33.4,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4843e60-86ac-11e4-8c28-020000005b00/kellys-country-club"
+  }
+}

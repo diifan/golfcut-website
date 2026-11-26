@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/97fa7cf0-86ac-11e4-8c28-020000005b00/pine-brook",
+  "resolved_url": "https://18birdies.com/golf-courses/club/97fa7cf0-86ac-11e4-8c28-020000005b00/pine-brook",
+  "checked_at": 1795668356.6035404,
+  "sha256": "9683f03e89b5eb0796b1d270cefb05269ee458da57508e23032c3977a2c1e635",
+  "title": "Pine Brook - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "97fa7cf0-86ac-11e4-8c28-020000005b00",
+    "name": "Pine Brook",
+    "address": "1 Covered Bridge Blvd, Manalapan, NJ",
+    "courses": [
+      {
+        "name": "Pine Brook",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4168,
+            "par": 61,
+            "rating": 61,
+            "slope": 103
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4168,
+            "par": 61,
+            "rating": 64.3,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3441,
+            "par": 61,
+            "rating": 58.8,
+            "slope": 96
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3441,
+            "par": 61,
+            "rating": 60.3,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/97fa7cf0-86ac-11e4-8c28-020000005b00/pine-brook"
+  }
+}

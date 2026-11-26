@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9bbcb510-86ac-11e4-8c28-020000005b00/royal-crest-golf-club-inc",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9bbcb510-86ac-11e4-8c28-020000005b00/royal-crest-golf-club-inc",
+  "checked_at": 1795663889.2944126,
+  "sha256": "0dda69740f1a957e6cd3571cda6da814506d50a670e3d0bf06598b00ab148dd0",
+  "title": "Royal Crest Golf Club, Inc. - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9bbcb510-86ac-11e4-8c28-020000005b00",
+    "name": "Royal Crest Golf Club, Inc.",
+    "address": "23310 Royalton Rd",
+    "courses": [
+      {
+        "name": "Royal Crest",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6763,
+            "par": 71,
+            "rating": 70.9,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6205,
+            "par": 71,
+            "rating": 68.5,
+            "slope": 111
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5509,
+            "par": 71,
+            "rating": 65.1,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5071,
+            "par": 71,
+            "rating": 68,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9bbcb510-86ac-11e4-8c28-020000005b00/royal-crest-golf-club-inc"
+  }
+}

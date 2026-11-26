@@ -1,0 +1,77 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/93c89310-86ac-11e4-8c28-020000005b00/osprey-cove",
+  "resolved_url": "https://18birdies.com/golf-courses/club/93c89310-86ac-11e4-8c28-020000005b00/osprey-cove",
+  "checked_at": 1795661443.2750223,
+  "sha256": "0b9a8b2ec4d0c765f32aa503f7cf01fefe16b10db937d04029c556e9311acede",
+  "title": "Osprey Cove - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "93c89310-86ac-11e4-8c28-020000005b00",
+    "name": "Osprey Cove",
+    "address": "123 Osprey Dr, Saint Marys, GA",
+    "courses": [
+      {
+        "name": "Osprey Cove",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6778,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6236,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 131
+          },
+          {
+            "name": "Blue/Gray",
+            "category": "MALE",
+            "yards": 5975,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 128
+          },
+          {
+            "name": "Gray",
+            "category": "MALE",
+            "yards": 5792,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 126
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5386,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5062,
+            "par": 72,
+            "rating": 68,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4891,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/93c89310-86ac-11e4-8c28-020000005b00/osprey-cove"
+  }
+}

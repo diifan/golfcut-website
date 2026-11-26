@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92c3cd40-86ac-11e4-8c28-020000005b00/candlewood-valley",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92c3cd40-86ac-11e4-8c28-020000005b00/candlewood-valley",
+  "checked_at": 1795661643.9024577,
+  "sha256": "99842b91f435d20aa73664b7520ea12ed3ed6a6cf9bc5ecdae901a802e6352e9",
+  "title": "Candlewood Valley - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92c3cd40-86ac-11e4-8c28-020000005b00",
+    "name": "Candlewood Valley",
+    "address": "401 Danbury Rd, New Milford, CT",
+    "courses": [
+      {
+        "name": "Candlewood Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6388,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6388,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6032,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6032,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4998,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 107
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4998,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4758,
+            "par": 72,
+            "rating": 63.7,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4758,
+            "par": 72,
+            "rating": 68,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92c3cd40-86ac-11e4-8c28-020000005b00/candlewood-valley"
+  }
+}

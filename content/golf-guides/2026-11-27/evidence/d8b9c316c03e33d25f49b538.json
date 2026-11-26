@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1d5c030-86ac-11e4-8c28-020000005b00/northport-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1d5c030-86ac-11e4-8c28-020000005b00/northport-golf-club",
+  "checked_at": 1795666499.6038878,
+  "sha256": "73983e33c088cd833f7477e6443cb6d8bf9474266f693fead9039819ca28b1c2",
+  "title": "Northport Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1d5c030-86ac-11e4-8c28-020000005b00",
+    "name": "Northport Golf Club",
+    "address": "581 Bluff Road",
+    "courses": [
+      {
+        "name": "Northport",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White Blue",
+            "category": "MALE",
+            "yards": 6102,
+            "par": 72,
+            "rating": 69,
+            "slope": 119
+          },
+          {
+            "name": "White Blue",
+            "category": "FEMALE",
+            "yards": 6102,
+            "par": 74,
+            "rating": 74.4,
+            "slope": 131
+          },
+          {
+            "name": "Gray Green",
+            "category": "MALE",
+            "yards": 5346,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 119
+          },
+          {
+            "name": "Gray Green",
+            "category": "FEMALE",
+            "yards": 5346,
+            "par": 74,
+            "rating": 71.4,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1d5c030-86ac-11e4-8c28-020000005b00/northport-golf-club"
+  }
+}

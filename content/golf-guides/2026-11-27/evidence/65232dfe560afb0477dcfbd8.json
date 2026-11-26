@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b86e97f0-86ac-11e4-8c28-020000005b00/pheasant-country-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b86e97f0-86ac-11e4-8c28-020000005b00/pheasant-country-golf-course",
+  "checked_at": 1795668334.1306279,
+  "sha256": "33f09c09fa0b960631f072c3512766d95ba32de739e808d434aabf9ff3ce3ae8",
+  "title": "Pheasant Country Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b86e97f0-86ac-11e4-8c28-020000005b00",
+    "name": "Pheasant Country Golf Course",
+    "address": "466 Pheasant Country Rd South Heart, ND",
+    "courses": [
+      {
+        "name": "Pheasant",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6347,
+            "par": 71,
+            "rating": 70.7,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6347,
+            "par": 71,
+            "rating": 77,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6060,
+            "par": 71,
+            "rating": 69.3,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6060,
+            "par": 71,
+            "rating": 75.5,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4925,
+            "par": 71,
+            "rating": 64.2,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4925,
+            "par": 71,
+            "rating": 69,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b86e97f0-86ac-11e4-8c28-020000005b00/pheasant-country-golf-course"
+  }
+}

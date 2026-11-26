@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/93215690-86ac-11e4-8c28-020000005b00/doublegate",
+  "resolved_url": "https://18birdies.com/golf-courses/club/93215690-86ac-11e4-8c28-020000005b00/doublegate",
+  "checked_at": 1795663911.441658,
+  "sha256": "c1e4f662018f6ee0f185ab6143f081ce8d05649dabedab266ef0fc793a070d27",
+  "title": "Doublegate - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "93215690-86ac-11e4-8c28-020000005b00",
+    "name": "Doublegate",
+    "address": "3800 Old Dawson Rd, Albany, GA",
+    "courses": [
+      {
+        "name": "Doublegate",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7024,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6679,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6373,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 119
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6063,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5807,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5277,
+            "par": 72,
+            "rating": 69,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/93215690-86ac-11e4-8c28-020000005b00/doublegate"
+  }
+}

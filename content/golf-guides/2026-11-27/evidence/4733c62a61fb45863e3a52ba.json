@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/932c5310-86ac-11e4-8c28-020000005b00/browns-mill-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/932c5310-86ac-11e4-8c28-020000005b00/browns-mill-golf-course",
+  "checked_at": 1795666560.9616776,
+  "sha256": "bb1092414d5dbe0f11ea9584b3c6fbc63cf2c9c1f834d9e17b49f5eb8336c667",
+  "title": "Browns Mill Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "932c5310-86ac-11e4-8c28-020000005b00",
+    "name": "Browns Mill Golf Course",
+    "address": "480 Cleveland Ave SE, Atlanta, GA",
+    "courses": [
+      {
+        "name": "Browns Mill",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6539,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6539,
+            "par": 72,
+            "rating": 76.7,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6260,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6260,
+            "par": 72,
+            "rating": 75,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5545,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5545,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/932c5310-86ac-11e4-8c28-020000005b00/browns-mill-golf-course"
+  }
+}

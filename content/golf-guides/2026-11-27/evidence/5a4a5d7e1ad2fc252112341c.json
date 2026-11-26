@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af022dd0-86ac-11e4-8c28-020000005b00/little-course-at-conner-lane",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af022dd0-86ac-11e4-8c28-020000005b00/little-course-at-conner-lane",
+  "checked_at": 1795663899.121194,
+  "sha256": "1dabc377341d4754ac3d06fb62ac11a9218c0630ef311c060647e39615b65b9d",
+  "title": "Little Course at Conner Lane - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af022dd0-86ac-11e4-8c28-020000005b00",
+    "name": "Little Course at Conner Lane",
+    "address": "400 Franklin Rd, Franklin, TN",
+    "courses": [
+      {
+        "name": "Little Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1132,
+            "par": 27,
+            "rating": 26.7,
+            "slope": 83
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1132,
+            "par": 27,
+            "rating": 27.7,
+            "slope": 83
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 978,
+            "par": 27,
+            "rating": 26.1,
+            "slope": 82
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 978,
+            "par": 27,
+            "rating": 27.3,
+            "slope": 81
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 835,
+            "par": 27,
+            "rating": 25.6,
+            "slope": 79
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 835,
+            "par": 27,
+            "rating": 26.8,
+            "slope": 79
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af022dd0-86ac-11e4-8c28-020000005b00/little-course-at-conner-lane"
+  }
+}

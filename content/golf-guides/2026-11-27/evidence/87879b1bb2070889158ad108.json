@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8b516d0-86ac-11e4-8c28-020000005b00/ridge-pointe-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8b516d0-86ac-11e4-8c28-020000005b00/ridge-pointe-country-club",
+  "checked_at": 1795664708.8293257,
+  "sha256": "47e6a1b761827e0fd8fe51db3ba7ce76280a8a5cfe1e4adcc4499bcbe4f503cc",
+  "title": "RidgePointe Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b8b516d0-86ac-11e4-8c28-020000005b00",
+    "name": "RidgePointe Country Club",
+    "address": "2510 Ridgepointe Drive",
+    "courses": [
+      {
+        "name": "RidgePointe",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6565,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6137,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5648,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 123
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5083,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8b516d0-86ac-11e4-8c28-020000005b00/ridge-pointe-country-club"
+  }
+}

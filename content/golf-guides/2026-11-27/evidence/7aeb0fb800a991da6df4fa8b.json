@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2ee0e00-86ac-11e4-8c28-020000005b00/grandview-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2ee0e00-86ac-11e4-8c28-020000005b00/grandview-golf-club",
+  "checked_at": 1795661429.2895753,
+  "sha256": "9abd4bc806cbf6bb7cfa56db231f19c2fb4d819cca6edc6383673aa03e8def6f",
+  "title": "Grandview Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b2ee0e00-86ac-11e4-8c28-020000005b00",
+    "name": "Grandview Golf Club",
+    "address": "3003 Hagni Road NE, Kalkaska, MI",
+    "courses": [
+      {
+        "name": "Grandview",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6598,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6598,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6598,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6598,
+            "par": 72,
+            "rating": 78.2,
+            "slope": 143
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6181,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6181,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 138
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5322,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5322,
+            "par": 72,
+            "rating": 71,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4932,
+            "par": 72,
+            "rating": 65,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4932,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2ee0e00-86ac-11e4-8c28-020000005b00/grandview-golf-club"
+  }
+}

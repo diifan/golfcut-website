@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/f825fff0-6da9-11e7-932b-0680a328ea36/holmes-harbor-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/f825fff0-6da9-11e7-932b-0680a328ea36/holmes-harbor-golf-club",
+  "checked_at": 1795583782.3191159,
+  "sha256": "432f657cb4cbd0ee21e748ab6794db3d690f7ba004ef379af996f0f9013efd62",
+  "title": "Holmes Harbor Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "f825fff0-6da9-11e7-932b-0680a328ea36",
+    "name": "Holmes Harbor Golf Club",
+    "address": "5023 Harbor Hills Dr, Freeland, WA 98249",
+    "courses": [
+      {
+        "name": "Holmes Harbor",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4279,
+            "par": 64,
+            "rating": 62.1,
+            "slope": 110
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3946,
+            "par": 64,
+            "rating": 61.2,
+            "slope": 106
+          },
+          {
+            "name": "Red (par 65)",
+            "category": "MALE",
+            "yards": 3612,
+            "par": 64,
+            "rating": 61.4,
+            "slope": 104
+          },
+          {
+            "name": "Red (par 64)",
+            "category": "MALE",
+            "yards": 3559,
+            "par": 64,
+            "rating": 61.1,
+            "slope": 104
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/f825fff0-6da9-11e7-932b-0680a328ea36/holmes-harbor-golf-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96cf9180-86ac-11e4-8c28-020000005b00/eastwood-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96cf9180-86ac-11e4-8c28-020000005b00/eastwood-golf-club",
+  "checked_at": 1795583775.084595,
+  "sha256": "91d20cbf7ae90694194eaee5ee6d2c46ad07b30a351801e4c84cdd4e126e878a",
+  "title": "Eastwood Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96cf9180-86ac-11e4-8c28-020000005b00",
+    "name": "Eastwood Golf Club",
+    "address": "3505 Eastwood Rd SE, Rochester, Minnesota",
+    "courses": [
+      {
+        "name": "Eastwood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6631,
+            "par": 71,
+            "rating": 72.7,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6192,
+            "par": 71,
+            "rating": 70.7,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5447,
+            "par": 71,
+            "rating": 67.3,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4779,
+            "par": 71,
+            "rating": 66.7,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96cf9180-86ac-11e4-8c28-020000005b00/eastwood-golf-club"
+  }
+}

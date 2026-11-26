@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b802ddd0-86ac-11e4-8c28-020000005b00/ottawa-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b802ddd0-86ac-11e4-8c28-020000005b00/ottawa-golf-course",
+  "checked_at": 1795669232.274885,
+  "sha256": "8ffb0a13f7a6fd030dc6fc801357903dda3b1562dd86fdda9d64a4f6bf2c703f",
+  "title": "Ottawa Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b802ddd0-86ac-11e4-8c28-020000005b00",
+    "name": "Ottawa Golf Course",
+    "address": "1001 E Logan",
+    "courses": [
+      {
+        "name": "9 Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 2919,
+            "par": 35,
+            "rating": 34,
+            "slope": 118
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 2919,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow/Red",
+            "category": "MALE",
+            "yards": 2379,
+            "par": 35,
+            "rating": 31.5,
+            "slope": 109
+          },
+          {
+            "name": "Yellow/Red",
+            "category": "FEMALE",
+            "yards": 2379,
+            "par": 35,
+            "rating": 33.6,
+            "slope": 114
+          }
+        ]
+      },
+      {
+        "name": "18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 5838,
+            "par": 70,
+            "rating": 68.4,
+            "slope": 120
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 5838,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow/Red",
+            "category": "MALE",
+            "yards": 4758,
+            "par": 70,
+            "rating": 62.1,
+            "slope": 109
+          },
+          {
+            "name": "Yellow/Red",
+            "category": "FEMALE",
+            "yards": 4758,
+            "par": 70,
+            "rating": 65.6,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b802ddd0-86ac-11e4-8c28-020000005b00/ottawa-golf-course"
+  }
+}

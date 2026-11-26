@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92c5a200-86ac-11e4-8c28-020000005b00/newtown-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92c5a200-86ac-11e4-8c28-020000005b00/newtown-country-club",
+  "checked_at": 1795666535.8086705,
+  "sha256": "25ba64ca110824635a84cd202c235056d96707ec2bb5de8a464ab0496d32f1f7",
+  "title": "Newtown Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92c5a200-86ac-11e4-8c28-020000005b00",
+    "name": "Newtown Country Club",
+    "address": "2 Country Club Rd Newtown, CT 06470",
+    "courses": [
+      {
+        "name": "Newtown",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 4778,
+            "par": 67,
+            "rating": 63.5,
+            "slope": 112
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 4778,
+            "par": 68,
+            "rating": 67.1,
+            "slope": 120
+          },
+          {
+            "name": "Red/Gold",
+            "category": "MALE",
+            "yards": 4778,
+            "par": 67,
+            "rating": 62.1,
+            "slope": 108
+          },
+          {
+            "name": "Red/Gold",
+            "category": "FEMALE",
+            "yards": 4778,
+            "par": 68,
+            "rating": 65.1,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92c5a200-86ac-11e4-8c28-020000005b00/newtown-country-club"
+  }
+}

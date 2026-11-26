@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/5eb3cc10-c68d-11e8-80bd-0680a328ea36/webster-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/5eb3cc10-c68d-11e8-80bd-0680a328ea36/webster-golf-club",
+  "checked_at": 1795664720.2736232,
+  "sha256": "0ee415647ba89ebb2501c100dc6275abee776765cacbdd9544352dbaa018c611",
+  "title": "Webster Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "5eb3cc10-c68d-11e8-80bd-0680a328ea36",
+    "name": "Webster Golf Club",
+    "address": "1030 W 3rd St, Webster, SD",
+    "courses": [
+      {
+        "name": "default course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 2870,
+            "par": 36,
+            "rating": 34.4,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2674,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/5eb3cc10-c68d-11e8-80bd-0680a328ea36/webster-golf-club"
+  }
+}

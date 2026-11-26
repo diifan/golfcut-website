@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b007de00-86ac-11e4-8c28-020000005b00/windy-hill-golf-and-sports-complex",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b007de00-86ac-11e4-8c28-020000005b00/windy-hill-golf-and-sports-complex",
+  "checked_at": 1795666543.4503968,
+  "sha256": "73080409148e294252839ed824748df140314ea48a227522e3b0f9a9ef4b6201",
+  "title": "Windy Hill Golf and Sports Complex - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b007de00-86ac-11e4-8c28-020000005b00",
+    "name": "Windy Hill Golf and Sports Complex",
+    "address": "16500 Midlothian, Midlothian, VA",
+    "courses": [
+      {
+        "name": "Lakes Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2231,
+            "par": 35,
+            "rating": 30.3,
+            "slope": 93
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2231,
+            "par": 35,
+            "rating": 31,
+            "slope": 103
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2670,
+            "par": 35,
+            "rating": 32.4,
+            "slope": 106
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2670,
+            "par": 35,
+            "rating": 35.1,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2353,
+            "par": 35,
+            "rating": 31.3,
+            "slope": 98
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2353,
+            "par": 35,
+            "rating": 32.7,
+            "slope": 111
+          }
+        ]
+      },
+      {
+        "name": "Par 3 Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 1000,
+            "par": 27,
+            "rating": 26.365,
+            "slope": 78.366
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 1000,
+            "par": 27,
+            "rating": 26.365,
+            "slope": 78.366
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b007de00-86ac-11e4-8c28-020000005b00/windy-hill-golf-and-sports-complex"
+  }
+}

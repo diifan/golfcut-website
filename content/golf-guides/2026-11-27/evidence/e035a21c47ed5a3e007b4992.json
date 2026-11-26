@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/972ec880-86ac-11e4-8c28-020000005b00/yegen-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/972ec880-86ac-11e4-8c28-020000005b00/yegen-golf-club",
+  "checked_at": 1795664709.4679914,
+  "sha256": "d56b004589665005cbb618b526a338c6e97fe66ca6480d61230e2d35ec87ad5f",
+  "title": "Yegen Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "972ec880-86ac-11e4-8c28-020000005b00",
+    "name": "Yegen Golf Club",
+    "address": "3400 Grand Ave",
+    "courses": [
+      {
+        "name": "Peter Yegen Jr.",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship ",
+            "category": "MALE",
+            "yards": 6617,
+            "par": 71,
+            "rating": 71.4,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6218,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 122
+          },
+          {
+            "name": "White ",
+            "category": "MALE",
+            "yards": 5689,
+            "par": 71,
+            "rating": 67.2,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4994,
+            "par": 71,
+            "rating": 63.5,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/972ec880-86ac-11e4-8c28-020000005b00/yegen-golf-club"
+  }
+}

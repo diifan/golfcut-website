@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b283b370-86ac-11e4-8c28-020000005b00/kearsley-lake-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b283b370-86ac-11e4-8c28-020000005b00/kearsley-lake-golf-course",
+  "checked_at": 1795664704.3303983,
+  "sha256": "566460c229e0c85459cedecf8f6f267a2bcaee783ddb57a29a8311eb6d89da14",
+  "title": "Kearsley Lake Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b283b370-86ac-11e4-8c28-020000005b00",
+    "name": "Kearsley Lake Golf Course",
+    "address": "4266 E Pierson Rd",
+    "courses": [
+      {
+        "name": "Kearsley Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6653,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6653,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6284,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6284,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4989,
+            "par": 72,
+            "rating": 63.5,
+            "slope": 98
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4989,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b283b370-86ac-11e4-8c28-020000005b00/kearsley-lake-golf-course"
+  }
+}

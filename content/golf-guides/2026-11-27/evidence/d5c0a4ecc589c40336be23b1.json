@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a72cff0-86ac-11e4-8c28-020000005b00/knobbs-creek",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a72cff0-86ac-11e4-8c28-020000005b00/knobbs-creek",
+  "checked_at": 1795666525.848572,
+  "sha256": "c9f90a782b809dad38abd47629e41ca4e4d15755ac73878884e4a89c91efed1e",
+  "title": "Knobbs Creek - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9a72cff0-86ac-11e4-8c28-020000005b00",
+    "name": "Knobbs Creek",
+    "address": "200 E Ward St, Elizabeth City, NC",
+    "courses": [
+      {
+        "name": "Knobbs Creek(Par 3 )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 931,
+            "par": 27,
+            "rating": 26.05174,
+            "slope": 77.10192
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 931,
+            "par": 27,
+            "rating": 26.05174,
+            "slope": 77.10192
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a72cff0-86ac-11e4-8c28-020000005b00/knobbs-creek"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ac27690-86ac-11e4-8c28-020000005b00/woodbridge-golf-links",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ac27690-86ac-11e4-8c28-020000005b00/woodbridge-golf-links",
+  "checked_at": 1795663460.522101,
+  "sha256": "b62df0a6c5825c4cebf68ca0820cd8befd386e58ad457630ed53054fdfc1c011",
+  "title": "Woodbridge Golf Links - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9ac27690-86ac-11e4-8c28-020000005b00",
+    "name": "Woodbridge Golf Links",
+    "address": "1007 New Camp Creek Church Rd, King's Mountain, NC",
+    "courses": [
+      {
+        "name": "Woodbridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6743,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6743,
+            "par": 72,
+            "rating": 77.8,
+            "slope": 138
+          },
+          {
+            "name": "White Long",
+            "category": "MALE",
+            "yards": 6156,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 125
+          },
+          {
+            "name": "White Long",
+            "category": "FEMALE",
+            "yards": 6156,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 131
+          },
+          {
+            "name": "White Short",
+            "category": "MALE",
+            "yards": 6008,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 140
+          },
+          {
+            "name": "White Short",
+            "category": "FEMALE",
+            "yards": 6008,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 130
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5363,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 119
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5363,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5054,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5054,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ac27690-86ac-11e4-8c28-020000005b00/woodbridge-golf-links"
+  }
+}

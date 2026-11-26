@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1175230-86ac-11e4-8c28-020000005b00/abita-springs-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1175230-86ac-11e4-8c28-020000005b00/abita-springs-golf-club",
+  "checked_at": 1795661418.1308517,
+  "sha256": "67f323b7fc57ad6535ebce934f337070d4c3fbebff20f13b5eb27dba7df4f74c",
+  "title": "Abita Springs Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b1175230-86ac-11e4-8c28-020000005b00",
+    "name": "Abita Springs Golf Club",
+    "address": "73433 Oliver Street • Abita Springs, LA 70420",
+    "courses": [
+      {
+        "name": "Abita Springs",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6427,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6065,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4845,
+            "par": 72,
+            "rating": 63.5,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4645,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1175230-86ac-11e4-8c28-020000005b00/abita-springs-golf-club"
+  }
+}

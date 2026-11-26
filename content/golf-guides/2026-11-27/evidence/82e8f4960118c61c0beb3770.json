@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7669ce60-86ac-11e4-8c28-020000005b00/indian-lake-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7669ce60-86ac-11e4-8c28-020000005b00/indian-lake-golf-course",
+  "checked_at": 1795582845.7428565,
+  "sha256": "e20723670dac0d77950df4396d1956f87460b446707e0c62cd77aadefffb8b33",
+  "title": "Indian Lake Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "7669ce60-86ac-11e4-8c28-020000005b00",
+    "name": "Indian Lake Golf Course",
+    "address": "199 Old Coach Rd",
+    "courses": [
+      {
+        "name": "Indian Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3418,
+            "par": 60,
+            "rating": 57.9,
+            "slope": 94
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2828,
+            "par": 60,
+            "rating": 57.2,
+            "slope": 92
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7669ce60-86ac-11e4-8c28-020000005b00/indian-lake-golf-course"
+  }
+}

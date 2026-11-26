@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/adb27c50-86ac-11e4-8c28-020000005b00/west-chester-golf%EF%BC%86-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/adb27c50-86ac-11e4-8c28-020000005b00/west-chester-golf%EF%BC%86-country-club",
+  "checked_at": 1795583836.459106,
+  "sha256": "c15016ec3f7b90e3caa9bf8254bab235d7f9c68003910d9e0fac93b17ac3e303",
+  "title": "West Chester Golf＆Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "adb27c50-86ac-11e4-8c28-020000005b00",
+    "name": "West Chester Golf＆Country Club",
+    "address": "111 W Ashbridge St, West Chester, PA",
+    "courses": [
+      {
+        "name": "West Chester Golf＆Country Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5606,
+            "par": 70,
+            "rating": 67.9,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5606,
+            "par": 70,
+            "rating": 72.7,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5115,
+            "par": 70,
+            "rating": 65.2,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5115,
+            "par": 70,
+            "rating": 71,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/adb27c50-86ac-11e4-8c28-020000005b00/west-chester-golf%EF%BC%86-country-club"
+  }
+}

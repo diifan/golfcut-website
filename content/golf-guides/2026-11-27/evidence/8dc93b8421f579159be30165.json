@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/adc9add0-86ac-11e4-8c28-020000005b00/grandview-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/adc9add0-86ac-11e4-8c28-020000005b00/grandview-golf-course",
+  "checked_at": 1795661406.9579132,
+  "sha256": "0d8210866f6f1158c6a517c8148b4aec6b721f63d5f25b50ab93936a8566434e",
+  "title": "Grandview Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "adc9add0-86ac-11e4-8c28-020000005b00",
+    "name": "Grandview Golf Course",
+    "address": "2779 Carlisle Road, York, PA",
+    "courses": [
+      {
+        "name": "Grandview",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6643,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6278,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 118
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5613,
+            "par": 72,
+            "rating": 66,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/adc9add0-86ac-11e4-8c28-020000005b00/grandview-golf-course"
+  }
+}

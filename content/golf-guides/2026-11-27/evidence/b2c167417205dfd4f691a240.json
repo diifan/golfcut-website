@@ -1,0 +1,99 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8f1ae980-86ac-11e4-8c28-020000005b00/kings-point-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8f1ae980-86ac-11e4-8c28-020000005b00/kings-point-golf",
+  "checked_at": 1795661472.274127,
+  "sha256": "3dd6bc2f04ed29d2177c3d7b12adcd6426443e985492edd9cc25969915151ae6",
+  "title": "Kings Point Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8f1ae980-86ac-11e4-8c28-020000005b00",
+    "name": "Kings Point Golf",
+    "address": "7000 W Atlantic Ave",
+    "courses": [
+      {
+        "name": "Kings Point Executive",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3229,
+            "par": 60,
+            "rating": 58.2,
+            "slope": 89
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3229,
+            "par": 60,
+            "rating": 59,
+            "slope": 97
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 3794,
+            "par": 60,
+            "rating": 59.2,
+            "slope": 103
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 3794,
+            "par": 60,
+            "rating": 62.1,
+            "slope": 104
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3578,
+            "par": 60,
+            "rating": 58.8,
+            "slope": 98
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3578,
+            "par": 60,
+            "rating": 60.9,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2784,
+            "par": 60,
+            "rating": 55.10876,
+            "slope": 82.45076
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2784,
+            "par": 60,
+            "rating": 56.2,
+            "slope": 91
+          }
+        ]
+      },
+      {
+        "name": "Kings Point (Par 3)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2094,
+            "par": 54,
+            "rating": 52.1,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8f1ae980-86ac-11e4-8c28-020000005b00/kings-point-golf"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/adac88e0-86ac-11e4-8c28-020000005b00/glenhardie",
+  "resolved_url": "https://18birdies.com/golf-courses/club/adac88e0-86ac-11e4-8c28-020000005b00/glenhardie",
+  "checked_at": 1795668352.182726,
+  "sha256": "32479bf4d01982c62d44f06959ef16a5c1ebeac7371e96ac33be2fddd0e95c17",
+  "title": "Glenhardie Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "adac88e0-86ac-11e4-8c28-020000005b00",
+    "name": "Glenhardie Country Club",
+    "address": "1399 Old Eagle School Rd",
+    "courses": [
+      {
+        "name": "Glenhardie (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 1454,
+            "par": 27,
+            "rating": 56.4,
+            "slope": 100
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 1454,
+            "par": 27,
+            "rating": 59.3,
+            "slope": 92
+          },
+          {
+            "name": "Red/Gold",
+            "category": "MALE",
+            "yards": 1237,
+            "par": 27,
+            "rating": 54.7,
+            "slope": 96
+          },
+          {
+            "name": "Red/Gold",
+            "category": "FEMALE",
+            "yards": 1237,
+            "par": 27,
+            "rating": 56.8,
+            "slope": 90
+          }
+        ]
+      },
+      {
+        "name": "Glenhardie (18 Holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 3018,
+            "par": 54,
+            "rating": 56.4,
+            "slope": 100
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 3018,
+            "par": 54,
+            "rating": 59.3,
+            "slope": 92
+          },
+          {
+            "name": "Red/Gold",
+            "category": "MALE",
+            "yards": 2474,
+            "par": 54,
+            "rating": 54.7,
+            "slope": 96
+          },
+          {
+            "name": "Red/Gold",
+            "category": "FEMALE",
+            "yards": 2474,
+            "par": 54,
+            "rating": 56.8,
+            "slope": 90
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/adac88e0-86ac-11e4-8c28-020000005b00/glenhardie"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/999f7a60-86ac-11e4-8c28-020000005b00/sunnyside-par-3-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/999f7a60-86ac-11e4-8c28-020000005b00/sunnyside-par-3-golf-course",
+  "checked_at": 1795664688.176512,
+  "sha256": "e2bbaed2fdcb5d437a56da9991f96049880613d759eb42183f464d8b0f19bab8",
+  "title": "Sunnyside Par 3 Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "999f7a60-86ac-11e4-8c28-020000005b00",
+    "name": "Sunnyside Par 3 Golf Course",
+    "address": "168 Sunnyside Road, Queensbury, NY",
+    "courses": [
+      {
+        "name": "Sunnyside Par 3",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 1740,
+            "par": 54,
+            "rating": 70,
+            "slope": 113
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 1740,
+            "par": 54,
+            "rating": 50.7866,
+            "slope": 77.3456
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/999f7a60-86ac-11e4-8c28-020000005b00/sunnyside-par-3-golf-course"
+  }
+}

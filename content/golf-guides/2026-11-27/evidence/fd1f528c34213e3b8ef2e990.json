@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b42afad0-86ac-11e4-8c28-020000005b00/olive-branch-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b42afad0-86ac-11e4-8c28-020000005b00/olive-branch-country-club",
+  "checked_at": 1795668308.9250588,
+  "sha256": "3d438a827228599cfb0e5d9845dafd64aca5b232a723de574253a3a4b2264c6b",
+  "title": "Olive Branch Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b42afad0-86ac-11e4-8c28-020000005b00",
+    "name": "Olive Branch Country Club",
+    "address": "7558 Germantown Rd",
+    "courses": [
+      {
+        "name": "Olive Branch",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6496,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6112,
+            "par": 71,
+            "rating": 69.3,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5606,
+            "par": 71,
+            "rating": 66.8,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4967,
+            "par": 71,
+            "rating": 67.5,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b42afad0-86ac-11e4-8c28-020000005b00/olive-branch-country-club"
+  }
+}

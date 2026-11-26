@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c013820-86ac-11e4-8c28-020000005b00/apple-valley-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c013820-86ac-11e4-8c28-020000005b00/apple-valley-golf-course",
+  "checked_at": 1795663469.4434817,
+  "sha256": "ecfbc05fde31c9e06efaf6eeaf8e27b5ec9fbe544819af33f529a6a50bc16d3c",
+  "title": "Apple Valley Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9c013820-86ac-11e4-8c28-020000005b00",
+    "name": "Apple Valley Golf Course",
+    "address": "433 Clubhouse Drive     Howard, Ohio 43028",
+    "courses": [
+      {
+        "name": "Apple Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6946,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 128
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6946,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6544,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6544,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6070,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6070,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 127
+          },
+          {
+            "name": "White/Gold",
+            "category": "MALE",
+            "yards": 5560,
+            "par": 72,
+            "rating": 67,
+            "slope": 114
+          },
+          {
+            "name": "White/Gold",
+            "category": "FEMALE",
+            "yards": 5560,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5109,
+            "par": 72,
+            "rating": 64.7,
+            "slope": 110
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5109,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c013820-86ac-11e4-8c28-020000005b00/apple-valley-golf-course"
+  }
+}

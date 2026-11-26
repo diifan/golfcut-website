@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8f6279d0-86ac-11e4-8c28-020000005b00/point-o-woods-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8f6279d0-86ac-11e4-8c28-020000005b00/point-o-woods-golf-club",
+  "checked_at": 1795668327.42409,
+  "sha256": "f7e06b89cf4d3b2f39b7f4b028b94656bf5560eefc34ae255f6e8d56b1ce021c",
+  "title": "ZenWoods Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star-o star star-o star-o star star star-o star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "8f6279d0-86ac-11e4-8c28-020000005b00",
+    "name": "ZenWoods Golf Club",
+    "address": "174 S Golf Harbor Path, Inverness, FL",
+    "courses": [
+      {
+        "name": "Zen Woods",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 1105,
+            "par": 27,
+            "rating": 27.3,
+            "slope": 87
+          },
+          {
+            "name": "Tournament",
+            "category": "FEMALE",
+            "yards": 1105,
+            "par": 27,
+            "rating": 27.3,
+            "slope": 87
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 827,
+            "par": 27,
+            "rating": 28.5,
+            "slope": 89
+          },
+          {
+            "name": "Ladies",
+            "category": "FEMALE",
+            "yards": 827,
+            "par": 27,
+            "rating": 28.5,
+            "slope": 89
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8f6279d0-86ac-11e4-8c28-020000005b00/point-o-woods-golf-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/949d6f40-86ac-11e4-8c28-020000005b00/drake-creek-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/949d6f40-86ac-11e4-8c28-020000005b00/drake-creek-golf-club",
+  "checked_at": 1795668334.827646,
+  "sha256": "3768238f9562f3bf2b8154995d3bfb07aa08e36aa853c2a68d4289f58d74cba2",
+  "title": "Drake Creek Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "949d6f40-86ac-11e4-8c28-020000005b00",
+    "name": "Drake Creek Golf Club",
+    "address": "1 Torrey Pines",
+    "courses": [
+      {
+        "name": "Drake Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6714,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6215,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 127
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5779,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5146,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/949d6f40-86ac-11e4-8c28-020000005b00/drake-creek-golf-club"
+  }
+}

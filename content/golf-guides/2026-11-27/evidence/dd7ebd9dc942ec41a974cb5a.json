@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e133d80-86ac-11e4-8c28-020000005b00/payson-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e133d80-86ac-11e4-8c28-020000005b00/payson-golf-course",
+  "checked_at": 1795668300.75559,
+  "sha256": "db642cc1478f0f57918a87a1de1e70354bf202aea26bd7a9cb00da6fd7542f4f",
+  "title": "Payson Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8e133d80-86ac-11e4-8c28-020000005b00",
+    "name": "Payson Golf Course",
+    "address": "1504 W Country Club Dr, Payson, AZ",
+    "courses": [
+      {
+        "name": "Payson",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5894,
+            "par": 71,
+            "rating": 66.5,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5894,
+            "par": 71,
+            "rating": 73.2,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5102,
+            "par": 71,
+            "rating": 63.5,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5102,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e133d80-86ac-11e4-8c28-020000005b00/payson-golf-course"
+  }
+}

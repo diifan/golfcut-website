@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/adea0710-86ac-11e4-8c28-020000005b00/stone-creek-cove-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/adea0710-86ac-11e4-8c28-020000005b00/stone-creek-cove-golf-course",
+  "checked_at": 1795666522.5055969,
+  "sha256": "e3e3a29e2ea4cf24ac2d6746f4444d4e6d94f0b35b3678781efb2a51d5a56eb3",
+  "title": "Stone Creek Cove Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "adea0710-86ac-11e4-8c28-020000005b00",
+    "name": "Stone Creek Cove Golf Course",
+    "address": "1600 Providence Church Rd., Anderson, SC",
+    "courses": [
+      {
+        "name": "Stone Creek Cove",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold/Green",
+            "category": "MALE",
+            "yards": 5456,
+            "par": 70,
+            "rating": 66.9,
+            "slope": 113
+          },
+          {
+            "name": "Gold/Green",
+            "category": "FEMALE",
+            "yards": 5456,
+            "par": 70,
+            "rating": 70.9,
+            "slope": 123
+          },
+          {
+            "name": "Blue/Red",
+            "category": "MALE",
+            "yards": 4569,
+            "par": 70,
+            "rating": 64.1,
+            "slope": 103
+          },
+          {
+            "name": "Blue/Red",
+            "category": "FEMALE",
+            "yards": 4569,
+            "par": 70,
+            "rating": 66.9,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/adea0710-86ac-11e4-8c28-020000005b00/stone-creek-cove-golf-course"
+  }
+}

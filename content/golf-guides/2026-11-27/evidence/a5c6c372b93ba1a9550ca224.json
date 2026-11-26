@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9abafc80-86ac-11e4-8c28-020000005b00/foxfire-resort-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9abafc80-86ac-11e4-8c28-020000005b00/foxfire-resort-golf",
+  "checked_at": 1795669252.691258,
+  "sha256": "4ec356faeaf915e54fbc45bfe3ca51ba06d0af717b85e572963ffe0e32c14f7a",
+  "title": "Foxfire Resort & Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9abafc80-86ac-11e4-8c28-020000005b00",
+    "name": "Foxfire Resort & Golf",
+    "address": "9 Foxfire Blvd, Jackson Springs, NC",
+    "courses": [
+      {
+        "name": "Foxfire(Grey)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6851,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6286,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 128
+          },
+          {
+            "name": "Gold ",
+            "category": "MALE",
+            "yards": 5864,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5256,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 111
+          }
+        ]
+      },
+      {
+        "name": "Foxfire(Red)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6743,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6339,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 128
+          },
+          {
+            "name": "Gold ",
+            "category": "MALE",
+            "yards": 5474,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5275,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9abafc80-86ac-11e4-8c28-020000005b00/foxfire-resort-golf"
+  }
+}

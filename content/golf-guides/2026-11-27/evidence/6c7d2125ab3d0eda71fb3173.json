@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d841ce0-86ac-11e4-8c28-020000005b00/angel-hill-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d841ce0-86ac-11e4-8c28-020000005b00/angel-hill-golf-course",
+  "checked_at": 1795664697.007193,
+  "sha256": "5a1165675732b177e799a83f8e419a3789ca5653695ef42e1c8f27434294fab3",
+  "title": "Angel Hill Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d841ce0-86ac-11e4-8c28-020000005b00",
+    "name": "Angel Hill Golf Course",
+    "address": "351N Plank St, Rossville, IN",
+    "courses": [
+      {
+        "name": "Angel Hill",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6138,
+            "par": 71,
+            "rating": 68.5,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6138,
+            "par": 71,
+            "rating": 74.5,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5332,
+            "par": 71,
+            "rating": 66.7,
+            "slope": 108
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5332,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4885,
+            "par": 71,
+            "rating": 67.2,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4885,
+            "par": 71,
+            "rating": 62.5,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d841ce0-86ac-11e4-8c28-020000005b00/angel-hill-golf-course"
+  }
+}

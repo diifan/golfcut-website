@@ -1,0 +1,51 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2827af0-86ac-11e4-8c28-020000005b00/swartz-creek-municipal-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2827af0-86ac-11e4-8c28-020000005b00/swartz-creek-municipal-golf",
+  "checked_at": 1795663886.0342438,
+  "sha256": "6479f85316abc183967ca1418da8628b29e4fa9dd3bb1a5ba87811cd63609744",
+  "title": "Swartz Creek Municipal Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b2827af0-86ac-11e4-8c28-020000005b00",
+    "name": "Swartz Creek Municipal Golf",
+    "address": "1902 Hammerberg Rd",
+    "courses": [
+      {
+        "name": "Swartz Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6662,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6543,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 116
+          }
+        ]
+      },
+      {
+        "name": "Swartz Creek (Executive)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2576,
+            "par": 33,
+            "rating": 34.2,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2827af0-86ac-11e4-8c28-020000005b00/swartz-creek-municipal-golf"
+  }
+}

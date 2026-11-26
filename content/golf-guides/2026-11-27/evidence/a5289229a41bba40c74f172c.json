@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/840192b0-86ac-11e4-8c28-020000005b00/oak-springs-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/840192b0-86ac-11e4-8c28-020000005b00/oak-springs-golf-club",
+  "checked_at": 1795663913.7883708,
+  "sha256": "117b6dab3740413e17bcecba60e9ea034b9c25aa1d8fe2cc202728112e48dfc9",
+  "title": "Oak Springs Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "840192b0-86ac-11e4-8c28-020000005b00",
+    "name": "Oak Springs Golf Club",
+    "address": "6740 S 3500 E Rd., Saint Anne, IL",
+    "courses": [
+      {
+        "name": "Oak Springs",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6260,
+            "par": 72,
+            "rating": 70,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6030,
+            "par": 72,
+            "rating": 69,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5038,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/840192b0-86ac-11e4-8c28-020000005b00/oak-springs-golf-club"
+  }
+}

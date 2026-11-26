@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98b875c0-86ac-11e4-8c28-020000005b00/woodcrest-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98b875c0-86ac-11e4-8c28-020000005b00/woodcrest-golf-club",
+  "checked_at": 1795668287.1726341,
+  "sha256": "5dcaa12aee5689c285ca4973158e6477f4cb40fb20e664d96ef48f8cec55542f",
+  "title": "Woodcrest Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "98b875c0-86ac-11e4-8c28-020000005b00",
+    "name": "Woodcrest Golf Club",
+    "address": "6200 Old Cheese Factory Rd, Manlius, NY",
+    "courses": [
+      {
+        "name": "Woodcrest",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5875,
+            "par": 70,
+            "rating": 69.6,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5875,
+            "par": 70,
+            "rating": 73.1,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5591,
+            "par": 70,
+            "rating": 68.1,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5591,
+            "par": 70,
+            "rating": 73.2,
+            "slope": 133
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4899,
+            "par": 70,
+            "rating": 64.4,
+            "slope": 112
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4899,
+            "par": 70,
+            "rating": 69,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98b875c0-86ac-11e4-8c28-020000005b00/woodcrest-golf-club"
+  }
+}

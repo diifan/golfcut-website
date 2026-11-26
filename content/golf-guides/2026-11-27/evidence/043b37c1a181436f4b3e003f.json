@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b529a620-86ac-11e4-8c28-020000005b00/lake-beulah-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b529a620-86ac-11e4-8c28-020000005b00/lake-beulah-country-club",
+  "checked_at": 1795661651.0840406,
+  "sha256": "e5599de33a24018d875470254937a5e749e8ac3d0c255aef0d91ccecf39fc784",
+  "title": "Lake Beulah Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b529a620-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Beulah Country Club",
+    "address": "N9430 E Shore Drive, Mukwonago, WI",
+    "courses": [
+      {
+        "name": "Lake Beulah",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2811,
+            "par": 34,
+            "rating": 36.1,
+            "slope": 113
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2811,
+            "par": 34,
+            "rating": 35.9,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2632,
+            "par": 34,
+            "rating": 34.5,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2632,
+            "par": 34,
+            "rating": 36.1,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b529a620-86ac-11e4-8c28-020000005b00/lake-beulah-country-club"
+  }
+}

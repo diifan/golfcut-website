@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3974650-86ac-11e4-8c28-020000005b00/ye-olde-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3974650-86ac-11e4-8c28-020000005b00/ye-olde-country-club",
+  "checked_at": 1795583820.7337093,
+  "sha256": "a7300acba487494a2809eead4e3246ef963142a2ab3a55c9808825127c052ea3",
+  "title": "Ye Olde Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b3974650-86ac-11e4-8c28-020000005b00",
+    "name": "Ye Olde Country Club",
+    "address": "904 W Sunset Dr",
+    "courses": [
+      {
+        "name": "Ye Olde",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2813,
+            "par": 35,
+            "rating": 35.3,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2718,
+            "par": 35,
+            "rating": 34.8,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2339,
+            "par": 35,
+            "rating": 33.1,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3974650-86ac-11e4-8c28-020000005b00/ye-olde-country-club"
+  }
+}

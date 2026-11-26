@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b281deb0-86ac-11e4-8c28-020000005b00/tyrone-hills-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b281deb0-86ac-11e4-8c28-020000005b00/tyrone-hills-golf-club",
+  "checked_at": 1795664714.62564,
+  "sha256": "340de431abeee172deaebb07ff0435fbb0e3eccadfbfe7e776e3264c9e79257e",
+  "title": "Tyrone Hills Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b281deb0-86ac-11e4-8c28-020000005b00",
+    "name": "Tyrone Hills Golf Club",
+    "address": "8449 Old US 23",
+    "courses": [
+      {
+        "name": "Tyrone Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6440,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6440,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6064,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6064,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5251,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5251,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b281deb0-86ac-11e4-8c28-020000005b00/tyrone-hills-golf-club"
+  }
+}

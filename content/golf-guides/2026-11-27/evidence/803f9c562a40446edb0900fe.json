@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af9e94e0-86ac-11e4-8c28-020000005b00/dinaland-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af9e94e0-86ac-11e4-8c28-020000005b00/dinaland-golf-course",
+  "checked_at": 1795663910.401437,
+  "sha256": "ffc3a8271f126e75ff13d6e8ddc4e1365244f39537d8f2b94ce5c0f96ffc2f98",
+  "title": "Dinaland Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af9e94e0-86ac-11e4-8c28-020000005b00",
+    "name": "Dinaland Golf Course",
+    "address": "675 South 200 East",
+    "courses": [
+      {
+        "name": "Dinaland",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6814,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6299,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5825,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5071,
+            "par": 72,
+            "rating": 63.3,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af9e94e0-86ac-11e4-8c28-020000005b00/dinaland-golf-course"
+  }
+}

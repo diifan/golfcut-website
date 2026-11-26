@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1487450-86ac-11e4-8c28-020000005b00/lake-charles",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1487450-86ac-11e4-8c28-020000005b00/lake-charles",
+  "checked_at": 1795663912.7184963,
+  "sha256": "75d746a767fe2bb146170c7e481dd590d3620fab71ae6b1d5465486e65be4ee2",
+  "title": "Lake Charles - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1487450-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Charles",
+    "address": "3350 Country Club Dr Lake Charles, LA 70605",
+    "courses": [
+      {
+        "name": "Lake Charles",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6764,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6415,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5956,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5444,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1487450-86ac-11e4-8c28-020000005b00/lake-charles"
+  }
+}

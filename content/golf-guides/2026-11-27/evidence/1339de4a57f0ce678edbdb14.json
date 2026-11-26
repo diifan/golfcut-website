@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8abfa5b0-86ac-11e4-8c28-020000005b00/sunken-gardens-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8abfa5b0-86ac-11e4-8c28-020000005b00/sunken-gardens-municipal-golf-course",
+  "checked_at": 1795666557.789932,
+  "sha256": "f7a8cbaa205b14d43be4e00efdfdc5b7cc121c74b9de562d87e10ca7ee579807",
+  "title": "Sunken Gardens Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8abfa5b0-86ac-11e4-8c28-020000005b00",
+    "name": "Sunken Gardens Municipal Golf Course",
+    "address": "1010 S Wolfe Rd",
+    "courses": [
+      {
+        "name": "Sunken Gardens (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 1502,
+            "par": 29,
+            "rating": 28.2,
+            "slope": 87
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 1502,
+            "par": 29,
+            "rating": 28.6,
+            "slope": 92
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8abfa5b0-86ac-11e4-8c28-020000005b00/sunken-gardens-municipal-golf-course"
+  }
+}

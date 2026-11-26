@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/0f2399e0-5b87-11f1-8823-069933b83eb1/lake-milton-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/0f2399e0-5b87-11f1-8823-069933b83eb1/lake-milton-golf-club",
+  "checked_at": 1795661637.4213018,
+  "sha256": "594d86a92e73a6c17b5660a7c2307815b9a6f37b1a7eeb890979bc64ac076e28",
+  "title": "Lake Milton Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "0f2399e0-5b87-11f1-8823-069933b83eb1",
+    "name": "Lake Milton Golf Club",
+    "address": "2404 Southeast River Rd",
+    "courses": [
+      {
+        "name": "Lake Milton Golf Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6025,
+            "par": 71,
+            "rating": 67.9,
+            "slope": 113
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6025,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5502,
+            "par": 71,
+            "rating": 65.2,
+            "slope": 106
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5502,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4944,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4944,
+            "par": 71,
+            "rating": 67.6,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/0f2399e0-5b87-11f1-8823-069933b83eb1/lake-milton-golf-club"
+  }
+}

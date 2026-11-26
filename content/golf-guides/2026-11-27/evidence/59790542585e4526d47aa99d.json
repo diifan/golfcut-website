@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/90e1ede0-86ac-11e4-8c28-020000005b00/the-landings-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/90e1ede0-86ac-11e4-8c28-020000005b00/the-landings-golf-club",
+  "checked_at": 1795664696.2555704,
+  "sha256": "b9902c5b8db54bba4174b4f6143b74af6760e018f6622d4e13f19ef90712cc55",
+  "title": "The Landings Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "90e1ede0-86ac-11e4-8c28-020000005b00",
+    "name": "The Landings Golf Club",
+    "address": "1875 Airport Dr, Clearwater, FL 33765",
+    "courses": [
+      {
+        "name": "The Landings",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Green (Back)",
+            "category": "MALE",
+            "yards": 4472,
+            "par": 63,
+            "rating": 61.2,
+            "slope": 105
+          },
+          {
+            "name": "Green (Back)",
+            "category": "FEMALE",
+            "yards": 4472,
+            "par": 63,
+            "rating": 64.9,
+            "slope": 104
+          },
+          {
+            "name": "White (Middle)",
+            "category": "MALE",
+            "yards": 4086,
+            "par": 63,
+            "rating": 60.4,
+            "slope": 103
+          },
+          {
+            "name": "White (Middle)",
+            "category": "FEMALE",
+            "yards": 4086,
+            "par": 63,
+            "rating": 63.5,
+            "slope": 102
+          },
+          {
+            "name": "Yellow (Forward)",
+            "category": "MALE",
+            "yards": 3134,
+            "par": 63,
+            "rating": 59.2,
+            "slope": 100
+          },
+          {
+            "name": "Yellow (Forward)",
+            "category": "FEMALE",
+            "yards": 3134,
+            "par": 63,
+            "rating": 58.5,
+            "slope": 96
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/90e1ede0-86ac-11e4-8c28-020000005b00/the-landings-golf-club"
+  }
+}

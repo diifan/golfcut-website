@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/971db180-86ac-11e4-8c28-020000005b00/hardwood-hills-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/971db180-86ac-11e4-8c28-020000005b00/hardwood-hills-golf-course",
+  "checked_at": 1795664705.3904917,
+  "sha256": "eab3d78ca8a5cc9c135e4f27c357ae581d421f59f35bfb390dcd7de24fd10adc",
+  "title": "Hardwood Hills Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "971db180-86ac-11e4-8c28-020000005b00",
+    "name": "Hardwood Hills Golf Course",
+    "address": "8446 County Road 27 SW, Alexandria, MN",
+    "courses": [
+      {
+        "name": "Hardwood Hills",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2431,
+            "par": 35,
+            "rating": 31.9,
+            "slope": 103
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2431,
+            "par": 35,
+            "rating": 33.9,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2111,
+            "par": 35,
+            "rating": 32.1,
+            "slope": 102
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2111,
+            "par": 35,
+            "rating": 32.5,
+            "slope": 99
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/971db180-86ac-11e4-8c28-020000005b00/hardwood-hills-golf-course"
+  }
+}

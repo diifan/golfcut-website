@@ -1,0 +1,107 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d1b21e0-86ac-11e4-8c28-020000005b00/mc-donald-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d1b21e0-86ac-11e4-8c28-020000005b00/mc-donald-golf-course",
+  "checked_at": 1795666542.5690372,
+  "sha256": "df7d8aef803c277aab0ddb2a22a94d191a7f1b844ddce4cc3487046074db0e3d",
+  "title": "McDonald Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d1b21e0-86ac-11e4-8c28-020000005b00",
+    "name": "McDonald Golf Course",
+    "address": "2905 E Morgan Ave, Evansville, IN",
+    "courses": [
+      {
+        "name": "18 Hole",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5150,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5150,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 111
+          },
+          {
+            "name": "Yellow/Blue",
+            "category": "MALE",
+            "yards": 6250,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 124
+          },
+          {
+            "name": "Yellow/Blue",
+            "category": "FEMALE",
+            "yards": 6250,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 133
+          }
+        ]
+      },
+      {
+        "name": "9 Hole",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2575,
+            "par": 36,
+            "rating": 34.2,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2575,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3243,
+            "par": 36,
+            "rating": 37.2,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3243,
+            "par": 36,
+            "rating": 38.2,
+            "slope": 129
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 3007,
+            "par": 36,
+            "rating": 36.2,
+            "slope": 118
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 3007,
+            "par": 36,
+            "rating": 36.9,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d1b21e0-86ac-11e4-8c28-020000005b00/mc-donald-golf-course"
+  }
+}

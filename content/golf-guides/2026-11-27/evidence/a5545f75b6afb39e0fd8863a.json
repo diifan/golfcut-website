@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/88670fb0-86ac-11e4-8c28-020000005b00/glen-flora",
+  "resolved_url": "https://18birdies.com/golf-courses/club/88670fb0-86ac-11e4-8c28-020000005b00/glen-flora",
+  "checked_at": 1795668289.9088566,
+  "sha256": "cbefd9cd569e19c57ade007721a8da1d64391c5209121e332f4adcc1c1fac41a",
+  "title": "Glen Flora - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "88670fb0-86ac-11e4-8c28-020000005b00",
+    "name": "Glen Flora",
+    "address": "2200 N Sheridan Rd, Waukega, IL",
+    "courses": [
+      {
+        "name": "Glen Flora",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6420,
+            "par": 70,
+            "rating": 72,
+            "slope": 136
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6420,
+            "par": 70,
+            "rating": 76,
+            "slope": 135
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6131,
+            "par": 70,
+            "rating": 70.6,
+            "slope": 133
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6131,
+            "par": 70,
+            "rating": 74.5,
+            "slope": 131
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5342,
+            "par": 70,
+            "rating": 69.3,
+            "slope": 119
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5342,
+            "par": 70,
+            "rating": 71.7,
+            "slope": 129
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/88670fb0-86ac-11e4-8c28-020000005b00/glen-flora"
+  }
+}

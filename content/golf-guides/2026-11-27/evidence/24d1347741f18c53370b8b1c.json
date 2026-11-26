@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8b677e70-86ac-11e4-8c28-020000005b00/the-cliffs-resort",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8b677e70-86ac-11e4-8c28-020000005b00/the-cliffs-resort",
+  "checked_at": 1795664726.2585094,
+  "sha256": "3c93689eaeacfc532f2d83fe0e05d5a3606c35d90cdebbd292ff9cfb5259e20c",
+  "title": "The Cliffs Resort - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8b677e70-86ac-11e4-8c28-020000005b00",
+    "name": "The Cliffs Resort",
+    "address": "160 Cliffs Dr, Graford, TX",
+    "courses": [
+      {
+        "name": "Cliffs",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6796,
+            "par": 71,
+            "rating": 73.8,
+            "slope": 141
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6796,
+            "par": 71,
+            "rating": 78.1,
+            "slope": 139
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6458,
+            "par": 71,
+            "rating": 72.3,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6458,
+            "par": 71,
+            "rating": 78.2,
+            "slope": 144
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5921,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5921,
+            "par": 71,
+            "rating": 75.2,
+            "slope": 140
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4878,
+            "par": 71,
+            "rating": 65.1,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4878,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8b677e70-86ac-11e4-8c28-020000005b00/the-cliffs-resort"
+  }
+}

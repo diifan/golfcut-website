@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1c43400-86ac-11e4-8c28-020000005b00/salmon-falls-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1c43400-86ac-11e4-8c28-020000005b00/salmon-falls-country-club",
+  "checked_at": 1795664728.0175698,
+  "sha256": "756f37e86360ddaad6ae287e51c2d523b463fc8429abd38687b92c2bff4b3842",
+  "title": "Salmon Falls Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b1c43400-86ac-11e4-8c28-020000005b00",
+    "name": "Salmon Falls Country Club",
+    "address": "52 Golf Course Ln, Hollis, Maine",
+    "courses": [
+      {
+        "name": "Salmon Falls (18 Holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Gold",
+            "category": "MALE",
+            "yards": 5535,
+            "par": 70,
+            "rating": 65.8,
+            "slope": 119
+          },
+          {
+            "name": "White/Gold",
+            "category": "FEMALE",
+            "yards": 5535,
+            "par": 70,
+            "rating": 70.8,
+            "slope": 117
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 5143,
+            "par": 70,
+            "rating": 64,
+            "slope": 110
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 5143,
+            "par": 70,
+            "rating": 68.5,
+            "slope": 112
+          },
+          {
+            "name": "Red/Blue",
+            "category": "MALE",
+            "yards": 4713,
+            "par": 70,
+            "rating": 62.2,
+            "slope": 102
+          },
+          {
+            "name": "Red/Blue",
+            "category": "FEMALE",
+            "yards": 4713,
+            "par": 70,
+            "rating": 66,
+            "slope": 106
+          }
+        ]
+      },
+      {
+        "name": "Salmon Falls (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White/Gold",
+            "category": "MALE",
+            "yards": 2696,
+            "par": 35,
+            "rating": 34.2,
+            "slope": 119
+          },
+          {
+            "name": "White/Gold",
+            "category": "FEMALE",
+            "yards": 2696,
+            "par": 35,
+            "rating": 36.3,
+            "slope": 123
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 2447,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 2447,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red/Blue",
+            "category": "MALE",
+            "yards": 2266,
+            "par": 35,
+            "rating": 34.1,
+            "slope": 110
+          },
+          {
+            "name": "Red/Blue",
+            "category": "FEMALE",
+            "yards": 2266,
+            "par": 35,
+            "rating": 34.8,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1c43400-86ac-11e4-8c28-020000005b00/salmon-falls-country-club"
+  }
+}

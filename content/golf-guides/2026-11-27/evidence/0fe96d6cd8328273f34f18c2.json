@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b7b55a10-86ac-11e4-8c28-020000005b00/andover-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b7b55a10-86ac-11e4-8c28-020000005b00/andover-municipal-golf-course",
+  "checked_at": 1795661438.8614762,
+  "sha256": "0a44212282139ac20e33dec3199af92e09d22c3dd6b487769d2a526733a22c94",
+  "title": "Andover Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b7b55a10-86ac-11e4-8c28-020000005b00",
+    "name": "Andover Municipal Golf Course",
+    "address": "1208 W Hwy 54, Andover, KS",
+    "courses": [
+      {
+        "name": "Andover Municipal ",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2348,
+            "par": 33,
+            "rating": 32.2,
+            "slope": 110
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2348,
+            "par": 32,
+            "rating": 33.4,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2136,
+            "par": 33,
+            "rating": 33.9,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2136,
+            "par": 32,
+            "rating": 33.3,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1850,
+            "par": 33,
+            "rating": 30.9,
+            "slope": 97
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1850,
+            "par": 32,
+            "rating": 31.6,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b7b55a10-86ac-11e4-8c28-020000005b00/andover-municipal-golf-course"
+  }
+}

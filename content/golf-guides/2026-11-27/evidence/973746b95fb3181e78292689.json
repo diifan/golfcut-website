@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9532b90-86ac-11e4-8c28-020000005b00/oak-ridge-social-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9532b90-86ac-11e4-8c28-020000005b00/oak-ridge-social-club",
+  "checked_at": 1795663453.2041473,
+  "sha256": "022cc4ce5893b5ae20002223442e8d476ad44379051fd340bd0ee6284892e371",
+  "title": "Oak Ridge Social Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b9532b90-86ac-11e4-8c28-020000005b00",
+    "name": "Oak Ridge Social Club",
+    "address": "5330 NE Oak Ridge Rd",
+    "courses": [
+      {
+        "name": "Oak Ridge Social Club",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 1175,
+            "par": 27,
+            "rating": 27.1595,
+            "slope": 81.572
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 1175,
+            "par": 27,
+            "rating": 27.1595,
+            "slope": 81.572
+          },
+          {
+            "name": "Grey",
+            "category": "MALE",
+            "yards": 904,
+            "par": 27,
+            "rating": 25.92916,
+            "slope": 76.60728
+          },
+          {
+            "name": "Grey",
+            "category": "FEMALE",
+            "yards": 904,
+            "par": 27,
+            "rating": 25.92916,
+            "slope": 76.60728
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9532b90-86ac-11e4-8c28-020000005b00/oak-ridge-social-club"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af801060-86ac-11e4-8c28-020000005b00/carbon-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af801060-86ac-11e4-8c28-020000005b00/carbon-country-club",
+  "checked_at": 1795668324.1734488,
+  "sha256": "223fba329f4206847f03c6ce5b4cdaca8347287f2d566ff4e2f9394434e1c3c6",
+  "title": "Carbon Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af801060-86ac-11e4-8c28-020000005b00",
+    "name": "Carbon Country Club",
+    "address": "3055 N Hwy 6",
+    "courses": [
+      {
+        "name": "Carbon",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6269,
+            "par": 70,
+            "rating": 69.4,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5739,
+            "par": 70,
+            "rating": 67.2,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4975,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af801060-86ac-11e4-8c28-020000005b00/carbon-country-club"
+  }
+}

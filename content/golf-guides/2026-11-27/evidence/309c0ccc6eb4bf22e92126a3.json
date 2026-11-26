@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba8012d0-86ac-11e4-8c28-020000005b00/golf-club-of-west-virginia",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba8012d0-86ac-11e4-8c28-020000005b00/golf-club-of-west-virginia",
+  "checked_at": 1795666533.2234094,
+  "sha256": "b22232935d92afe03440c5b081807307c9827adef5f3a777976a1681a243d575",
+  "title": "Golf Club of West Virginia - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "ba8012d0-86ac-11e4-8c28-020000005b00",
+    "name": "Golf Club of West Virginia",
+    "address": "482 Deerwalk Hwy",
+    "courses": [
+      {
+        "name": "West Virginia",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6018,
+            "par": 70,
+            "rating": 68.2,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6018,
+            "par": 71,
+            "rating": 73.9,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5568,
+            "par": 70,
+            "rating": 66.2,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5568,
+            "par": 71,
+            "rating": 71.5,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4946,
+            "par": 70,
+            "rating": 67.4,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4946,
+            "par": 71,
+            "rating": 66.9,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba8012d0-86ac-11e4-8c28-020000005b00/golf-club-of-west-virginia"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b2927a0-86ac-11e4-8c28-020000005b00/warrenton-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b2927a0-86ac-11e4-8c28-020000005b00/warrenton-golf-course",
+  "checked_at": 1795583795.0870252,
+  "sha256": "0f237cecdcbf5b71c7a7ade891a6e153119c77fcdc17dd77f0b8c9c93a6f294b",
+  "title": "Warrenton Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "9b2927a0-86ac-11e4-8c28-020000005b00",
+    "name": "Warrenton Golf Course",
+    "address": "129 19th Hole Dr, Warrenton, NC",
+    "courses": [
+      {
+        "name": "Warrenton (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White to Blue",
+            "category": "MALE",
+            "yards": 2930,
+            "par": 36,
+            "rating": 68.3,
+            "slope": 129
+          },
+          {
+            "name": "White to Blue",
+            "category": "FEMALE",
+            "yards": 2930,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2712,
+            "par": 36,
+            "rating": 66.8,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2712,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2355,
+            "par": 36,
+            "rating": 63.1,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2355,
+            "par": 36,
+            "rating": 67.1,
+            "slope": 115
+          }
+        ]
+      },
+      {
+        "name": "Warrenton (18 Holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White to Blue",
+            "category": "MALE",
+            "yards": 5843,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 129
+          },
+          {
+            "name": "White to Blue",
+            "category": "FEMALE",
+            "yards": 5843,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5397,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5397,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4621,
+            "par": 72,
+            "rating": 63.1,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4621,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b2927a0-86ac-11e4-8c28-020000005b00/warrenton-golf-course"
+  }
+}

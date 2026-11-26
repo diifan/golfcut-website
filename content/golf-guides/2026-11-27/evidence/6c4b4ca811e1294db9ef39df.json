@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/997adb60-86ac-11e4-8c28-020000005b00/st-lawrence-state-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/997adb60-86ac-11e4-8c28-020000005b00/st-lawrence-state-park-golf-course",
+  "checked_at": 1795661415.87507,
+  "sha256": "462f543393b145d39efeb3e89a74b16f134a9fff44088cc02bbaf0824653ee5e",
+  "title": "St. Lawrence State Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "997adb60-86ac-11e4-8c28-020000005b00",
+    "name": "St. Lawrence State Park Golf Course",
+    "address": " 4955 New York 37",
+    "courses": [
+      {
+        "name": "St. Lawrence State Park(9 holes )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White/Regulation",
+            "category": "MALE",
+            "yards": 2914,
+            "par": 35,
+            "rating": 34,
+            "slope": 107
+          },
+          {
+            "name": "White/Regulation",
+            "category": "FEMALE",
+            "yards": 2914,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red/Forward",
+            "category": "MALE",
+            "yards": 2811,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red/Forward",
+            "category": "FEMALE",
+            "yards": 2811,
+            "par": 35,
+            "rating": 34,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/997adb60-86ac-11e4-8c28-020000005b00/st-lawrence-state-park-golf-course"
+  }
+}

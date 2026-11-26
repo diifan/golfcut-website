@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/bf103bc0-5221-11e7-aa7a-0680a328ea36/settlers-crossing-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/bf103bc0-5221-11e7-aa7a-0680a328ea36/settlers-crossing-golf-course",
+  "checked_at": 1795666518.1816885,
+  "sha256": "fe667a98ec7aa4381dbfd83c392ee2903dc25cc7d4d30cdaa8f6410a10f42dd4",
+  "title": "Settlers Crossing Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "bf103bc0-5221-11e7-aa7a-0680a328ea36",
+    "name": "Settlers Crossing Golf Course",
+    "address": "994 Northfield Rd, Lunenburg, MA",
+    "courses": [
+      {
+        "name": "Settlers Crossing (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Middle (White/Blue)",
+            "category": "MALE",
+            "yards": 2565,
+            "par": 34,
+            "rating": 31.5,
+            "slope": 102
+          },
+          {
+            "name": "Middle (White/Blue)",
+            "category": "FEMALE",
+            "yards": 2565,
+            "par": 35,
+            "rating": 34.6,
+            "slope": 117
+          },
+          {
+            "name": "Forward (Red)",
+            "category": "MALE",
+            "yards": 2530,
+            "par": 34,
+            "rating": 34,
+            "slope": 109
+          },
+          {
+            "name": "Forward (Red)",
+            "category": "FEMALE",
+            "yards": 2530,
+            "par": 35,
+            "rating": 33.2,
+            "slope": 101
+          }
+        ]
+      },
+      {
+        "name": "Settlers Crossing (18 Holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Middle (White/Blue)",
+            "category": "MALE",
+            "yards": 5260,
+            "par": 69,
+            "rating": 63.8,
+            "slope": 104
+          },
+          {
+            "name": "Middle (White/Blue)",
+            "category": "FEMALE",
+            "yards": 5260,
+            "par": 70,
+            "rating": 69.9,
+            "slope": 121
+          },
+          {
+            "name": "Forward (Red)",
+            "category": "MALE",
+            "yards": 5060,
+            "par": 69,
+            "rating": 68,
+            "slope": 116
+          },
+          {
+            "name": "Forward (Red)",
+            "category": "FEMALE",
+            "yards": 5060,
+            "par": 70,
+            "rating": 66.4,
+            "slope": 101
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/bf103bc0-5221-11e7-aa7a-0680a328ea36/settlers-crossing-golf-course"
+  }
+}

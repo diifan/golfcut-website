@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afeae020-86ac-11e4-8c28-020000005b00/piankatank-river-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afeae020-86ac-11e4-8c28-020000005b00/piankatank-river-golf-course",
+  "checked_at": 1795666495.0130863,
+  "sha256": "9ec1c772d9a3e0a8a6f1f6c1a9336435729bac309f5e824f4e21a1ec7e039fe8",
+  "title": "Piankatank River Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "afeae020-86ac-11e4-8c28-020000005b00",
+    "name": "Piankatank River Golf Course",
+    "address": "6198 Stormont Road, Hartfield, VA 23071",
+    "courses": [
+      {
+        "name": "Piankatank River",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6631,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 135
+          },
+          {
+            "name": "Brown",
+            "category": "MALE",
+            "yards": 6266,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5649,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 123
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5093,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4664,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afeae020-86ac-11e4-8c28-020000005b00/piankatank-river-golf-course"
+  }
+}

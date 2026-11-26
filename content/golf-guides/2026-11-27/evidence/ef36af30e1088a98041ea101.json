@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/adaf9620-86ac-11e4-8c28-020000005b00/galen-hall-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/adaf9620-86ac-11e4-8c28-020000005b00/galen-hall-golf-club",
+  "checked_at": 1795668357.0114272,
+  "sha256": "7892281b87d64fa62bb01842369bcb5aab879e9737f73758c217c3635abe40df",
+  "title": "Galen Hall Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "adaf9620-86ac-11e4-8c28-020000005b00",
+    "name": "Galen Hall Golf Club",
+    "address": "645 North Galen Hall Road",
+    "courses": [
+      {
+        "name": "Galen Hall F + B",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6271,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5869,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5464,
+            "par": 72,
+            "rating": 64.6,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5105,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/adaf9620-86ac-11e4-8c28-020000005b00/galen-hall-golf-club"
+  }
+}

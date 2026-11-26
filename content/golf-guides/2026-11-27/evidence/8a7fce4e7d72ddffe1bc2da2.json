@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9993ba90-86ac-11e4-8c28-020000005b00/the-barracks-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9993ba90-86ac-11e4-8c28-020000005b00/the-barracks-golf-course",
+  "checked_at": 1795668308.3023767,
+  "sha256": "93c175b15ed87273f704e507df9892e475c6cf50dcbb21776e067034789216a9",
+  "title": "The Barracks Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "9993ba90-86ac-11e4-8c28-020000005b00",
+    "name": "The Barracks Golf Course",
+    "address": "Plattsburg AFB Bldg 1700 Route 9",
+    "courses": [
+      {
+        "name": "Barracks",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6857,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6152,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5008,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9993ba90-86ac-11e4-8c28-020000005b00/the-barracks-golf-course"
+  }
+}

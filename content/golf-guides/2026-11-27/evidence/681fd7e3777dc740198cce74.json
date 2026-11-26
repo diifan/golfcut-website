@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d3e9a20-86ac-11e4-8c28-020000005b00/rolling-green-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d3e9a20-86ac-11e4-8c28-020000005b00/rolling-green-golf-course",
+  "checked_at": 1795668322.3407183,
+  "sha256": "2fbbf23114bfbcbdb7559513193e9e1e8660d6da3cc40c9d80543f23bad4b746",
+  "title": "Rolling Green Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d3e9a20-86ac-11e4-8c28-020000005b00",
+    "name": "Rolling Green Golf Course",
+    "address": "2426 Route 136 Eighty Four, PA",
+    "courses": [
+      {
+        "name": "Rolling Green",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5630,
+            "par": 72,
+            "rating": 68,
+            "slope": 111
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5630,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5175,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 107
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5175,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4640,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4640,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d3e9a20-86ac-11e4-8c28-020000005b00/rolling-green-golf-course"
+  }
+}

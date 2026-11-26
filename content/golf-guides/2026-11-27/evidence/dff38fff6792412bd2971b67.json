@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98f75380-86ac-11e4-8c28-020000005b00/maple-crest-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98f75380-86ac-11e4-8c28-020000005b00/maple-crest-golf-course",
+  "checked_at": 1795583772.7711365,
+  "sha256": "aa9ef67f827cdfeeb057ae979efb654579ea792610093c64582a0f57d9b21e05",
+  "title": "Maple Crest Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "98f75380-86ac-11e4-8c28-020000005b00",
+    "name": "Maple Crest Golf Course",
+    "address": "Upper Barringer Rd, Frankfort, NY",
+    "courses": [
+      {
+        "name": "9 Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2890,
+            "par": 35,
+            "rating": 36.1,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2890,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2587,
+            "par": 35,
+            "rating": 36.1,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2587,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      },
+      {
+        "name": "18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5780,
+            "par": 70,
+            "rating": 72.2,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5780,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5174,
+            "par": 70,
+            "rating": 72.2,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5174,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98f75380-86ac-11e4-8c28-020000005b00/maple-crest-golf-course"
+  }
+}

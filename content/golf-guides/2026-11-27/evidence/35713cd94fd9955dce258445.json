@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad5ba9c0-86ac-11e4-8c28-020000005b00/sweet-water-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad5ba9c0-86ac-11e4-8c28-020000005b00/sweet-water-country-club",
+  "checked_at": 1795661640.4629495,
+  "sha256": "82f859748a9448b9d064ffcb3136b36723ba90d6427755ee0e339834547abcbc",
+  "title": "Sweet Water Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ad5ba9c0-86ac-11e4-8c28-020000005b00",
+    "name": "Sweet Water Country Club",
+    "address": "2554 Geryville Pike, Pennsburg, PA",
+    "courses": [
+      {
+        "name": "Sweet Water (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2777,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2777,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2603,
+            "par": 36,
+            "rating": 33,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2603,
+            "par": 36,
+            "rating": 33.5,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2089,
+            "par": 36,
+            "rating": 32.5,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2089,
+            "par": 36,
+            "rating": 33,
+            "slope": 109
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 1198,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 1198,
+            "par": 36,
+            "rating": 30.1,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad5ba9c0-86ac-11e4-8c28-020000005b00/sweet-water-country-club"
+  }
+}

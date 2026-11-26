@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98ab0840-86ac-11e4-8c28-020000005b00/carlowden-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98ab0840-86ac-11e4-8c28-020000005b00/carlowden-country-club",
+  "checked_at": 1795664724.469748,
+  "sha256": "5ea94853116f100d0133c9b11265ecb74ee0115e942a64a2d6d46fe81d81ef3f",
+  "title": "Carlowden Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "98ab0840-86ac-11e4-8c28-020000005b00",
+    "name": "Carlowden Country Club",
+    "address": "4105 Carlowden Rd, Carthage, NY",
+    "courses": [
+      {
+        "name": "Carlowden",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6067,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6067,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5595,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5595,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4772,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4772,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98ab0840-86ac-11e4-8c28-020000005b00/carlowden-country-club"
+  }
+}

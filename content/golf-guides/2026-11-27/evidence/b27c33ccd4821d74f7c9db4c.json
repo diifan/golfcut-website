@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c4a2800-86ac-11e4-8c28-020000005b00/vista-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c4a2800-86ac-11e4-8c28-020000005b00/vista-golf-course",
+  "checked_at": 1795663917.4457178,
+  "sha256": "6bd92f3fd8d5acd54ab135435349dcefcaeced7f820d3b5d9f6f8248eb037b59",
+  "title": "Vista Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9c4a2800-86ac-11e4-8c28-020000005b00",
+    "name": "Vista Golf Course",
+    "address": "2600 Hennessey Drive Nashport, OH",
+    "courses": [
+      {
+        "name": "Vista View",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6901,
+            "par": 71,
+            "rating": 72.4,
+            "slope": 113
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6901,
+            "par": 71,
+            "rating": 78.6,
+            "slope": 140
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6464,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6464,
+            "par": 71,
+            "rating": 76.3,
+            "slope": 135
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5151,
+            "par": 71,
+            "rating": 70.8,
+            "slope": 109
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5151,
+            "par": 71,
+            "rating": 69.3,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4951,
+            "par": 71,
+            "rating": 67.5,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4951,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c4a2800-86ac-11e4-8c28-020000005b00/vista-golf-course"
+  }
+}

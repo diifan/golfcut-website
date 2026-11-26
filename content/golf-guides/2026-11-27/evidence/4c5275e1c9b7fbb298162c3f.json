@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95cb67f0-86ac-11e4-8c28-020000005b00/southampton-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95cb67f0-86ac-11e4-8c28-020000005b00/southampton-country-club",
+  "checked_at": 1795668330.0927877,
+  "sha256": "cf6cb6951780fcf86f674fc61d82561de08a329d8cefc1bcfb3126675e2f185a",
+  "title": "Southampton Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95cb67f0-86ac-11e4-8c28-020000005b00",
+    "name": "Southampton Country Club",
+    "address": "329 College Highway, Southampton. MA",
+    "courses": [
+      {
+        "name": "Southampton",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6585,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6585,
+            "par": 71,
+            "rating": 76.9,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6125,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6125,
+            "par": 71,
+            "rating": 74.5,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5422,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5422,
+            "par": 71,
+            "rating": 71.6,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5125,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5125,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95cb67f0-86ac-11e4-8c28-020000005b00/southampton-country-club"
+  }
+}

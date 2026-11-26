@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d9cfc10-86ac-11e4-8c28-020000005b00/honeywell-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d9cfc10-86ac-11e4-8c28-020000005b00/honeywell-golf-course",
+  "checked_at": 1795664709.1696482,
+  "sha256": "b269a6f0ba1ec4ff1bbf39f5a8f8ed9a8958fbb93f7c692660e1ae4cfb0cbd78",
+  "title": "Honeywell Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d9cfc10-86ac-11e4-8c28-020000005b00",
+    "name": "Honeywell Golf Course",
+    "address": "3360 W Division Rd",
+    "courses": [
+      {
+        "name": "Honeywell",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6444,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6037,
+            "par": 71,
+            "rating": 69.3,
+            "slope": 121
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5549,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5021,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d9cfc10-86ac-11e4-8c28-020000005b00/honeywell-golf-course"
+  }
+}

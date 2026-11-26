@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/959b7e50-86ac-11e4-8c28-020000005b00/norwood-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/959b7e50-86ac-11e4-8c28-020000005b00/norwood-country-club",
+  "checked_at": 1795668305.1205115,
+  "sha256": "8bf36821837ca78f5e5934502d66f3188e5e6d9270e2582e060bc9772b284b2f",
+  "title": "Norwood Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "959b7e50-86ac-11e4-8c28-020000005b00",
+    "name": "Norwood Country Club",
+    "address": "400 Providence Hwy",
+    "courses": [
+      {
+        "name": "Norwood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5698,
+            "par": 71,
+            "rating": 66.7,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5698,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5382,
+            "par": 71,
+            "rating": 65.2,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5382,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4841,
+            "par": 71,
+            "rating": 62.8,
+            "slope": 104
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4841,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4672,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4672,
+            "par": 71,
+            "rating": 66.1,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/959b7e50-86ac-11e4-8c28-020000005b00/norwood-country-club"
+  }
+}

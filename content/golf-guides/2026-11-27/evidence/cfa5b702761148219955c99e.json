@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a4f6970-86ac-11e4-8c28-020000005b00/mt-mitchell-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a4f6970-86ac-11e4-8c28-020000005b00/mt-mitchell-golf-club",
+  "checked_at": 1795668327.3721075,
+  "sha256": "7882e5efa3c73b1d086865c0fae3495e62d6c86f1dfce4a5b521e0064af6bbda",
+  "title": "Mt Mitchell Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9a4f6970-86ac-11e4-8c28-020000005b00",
+    "name": "Mt Mitchell Golf Club",
+    "address": "11484 State Hwy. 80 South, Burnsville, NC",
+    "courses": [
+      {
+        "name": "Mount Mitchell",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6495,
+            "par": 72,
+            "rating": 70,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6125,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4965,
+            "par": 72,
+            "rating": 63.9,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a4f6970-86ac-11e4-8c28-020000005b00/mt-mitchell-golf-club"
+  }
+}

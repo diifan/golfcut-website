@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2e35fa0-86ac-11e4-8c28-020000005b00/grande-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2e35fa0-86ac-11e4-8c28-020000005b00/grande-golf-club",
+  "checked_at": 1795664696.6147904,
+  "sha256": "6970a47282a9dc6f7ad6d637ef203b244874da7f80b252e8cff9a33bbd00e476",
+  "title": "Grande Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b2e35fa0-86ac-11e4-8c28-020000005b00",
+    "name": "Grande Golf Club",
+    "address": "1579 Floyd Avenue",
+    "courses": [
+      {
+        "name": "Grande",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7157,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 137
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6838,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 136
+          },
+          {
+            "name": "Hybrid",
+            "category": "MALE",
+            "yards": 6443,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 132
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5911,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 121
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5815,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 123
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 4785,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2e35fa0-86ac-11e4-8c28-020000005b00/grande-golf-club"
+  }
+}

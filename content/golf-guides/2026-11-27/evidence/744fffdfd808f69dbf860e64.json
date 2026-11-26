@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8079aec0-d675-11ee-bc4b-06780482e2ce/cypress-greens",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8079aec0-d675-11ee-bc4b-06780482e2ce/cypress-greens",
+  "checked_at": 1795668336.3082001,
+  "sha256": "b9948a3f7ffecaf39cb9277450d4f68ca4d0d33b2cda53d0fa8c419d6871c31b",
+  "title": "Cypress Greens - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "8079aec0-d675-11ee-bc4b-06780482e2ce",
+    "name": "Cypress Greens",
+    "address": "361 Azalea Dr Donner, LA",
+    "courses": [
+      {
+        "name": "Par 3 Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1100,
+            "par": 27,
+            "rating": 26.819,
+            "slope": 80.198
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1100,
+            "par": 27,
+            "rating": 26.819,
+            "slope": 80.198
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8079aec0-d675-11ee-bc4b-06780482e2ce/cypress-greens"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/972811c0-86ac-11e4-8c28-020000005b00/butte-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/972811c0-86ac-11e4-8c28-020000005b00/butte-country-club",
+  "checked_at": 1795661442.670516,
+  "sha256": "48aed9de38a09744c87d9bb377e8704f94dfd45f4608c130e6343938792ee81f",
+  "title": "Butte Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "972811c0-86ac-11e4-8c28-020000005b00",
+    "name": "Butte Country Club",
+    "address": "3400 Elizabeth Warren Ave, Butte, MT",
+    "courses": [
+      {
+        "name": "Butte",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6343,
+            "par": 70,
+            "rating": 69.3,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6343,
+            "par": 70,
+            "rating": 75.6,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6055,
+            "par": 70,
+            "rating": 68.3,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6055,
+            "par": 70,
+            "rating": 74.1,
+            "slope": 143
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5424,
+            "par": 70,
+            "rating": 64.9,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5424,
+            "par": 70,
+            "rating": 70.6,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/972811c0-86ac-11e4-8c28-020000005b00/butte-country-club"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af472610-86ac-11e4-8c28-020000005b00/doe-valley",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af472610-86ac-11e4-8c28-020000005b00/doe-valley",
+  "checked_at": 1795666496.8935504,
+  "sha256": "76fae7345d5e0c18d9073180f41f8f2d3e9f28efab8d0cdda8983837af05ac3f",
+  "title": "Doe Valley - Scorecards, Reviews | 18Birdies star star star star star google-play",
+  "course_profile": {
+    "id": "af472610-86ac-11e4-8c28-020000005b00",
+    "name": "Doe Valley",
+    "address": "9786 Reams Rd, South Fulton, Tennessee",
+    "courses": [
+      {
+        "name": "Doe Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3204,
+            "par": 62,
+            "rating": 59.5,
+            "slope": 101
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2962,
+            "par": 62,
+            "rating": 55.84568,
+            "slope": 83.32118
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2684,
+            "par": 62,
+            "rating": 54.69476,
+            "slope": 81.96176
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af472610-86ac-11e4-8c28-020000005b00/doe-valley"
+  }
+}

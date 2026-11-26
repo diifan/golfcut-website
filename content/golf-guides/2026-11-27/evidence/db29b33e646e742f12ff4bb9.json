@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/97740ee0-86ac-11e4-8c28-020000005b00/eagle-crest-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/97740ee0-86ac-11e4-8c28-020000005b00/eagle-crest-golf-course",
+  "checked_at": 1795669239.776873,
+  "sha256": "5c9b08ed7613ff4c905b65f09226dae78180b57c0282b6271873ca91770f3d88",
+  "title": "Eagle Crest Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "97740ee0-86ac-11e4-8c28-020000005b00",
+    "name": "Eagle Crest Golf Course",
+    "address": "2203 Thomas Ryan Blvd Las Vegas, NV",
+    "courses": [
+      {
+        "name": "Eagle Crest",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4067,
+            "par": 60,
+            "rating": 60.5,
+            "slope": 97
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3668,
+            "par": 60,
+            "rating": 58.7,
+            "slope": 95
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3259,
+            "par": 60,
+            "rating": 55.5,
+            "slope": 86
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/97740ee0-86ac-11e4-8c28-020000005b00/eagle-crest-golf-course"
+  }
+}

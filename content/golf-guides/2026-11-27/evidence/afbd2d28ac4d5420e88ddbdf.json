@@ -1,0 +1,723 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8b9963e0-86ac-11e4-8c28-020000005b00/pine-forest-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8b9963e0-86ac-11e4-8c28-020000005b00/pine-forest-country-club",
+  "checked_at": 1795663885.1485105,
+  "sha256": "a9cbd384cca5ed5ca8a1c8682e2cf95633ff72faf1e5780927dd445d2df15456",
+  "title": "Pine Forest Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8b9963e0-86ac-11e4-8c28-020000005b00",
+    "name": "Pine Forest Country Club",
+    "address": "18003 Clay Road",
+    "courses": [
+      {
+        "name": "Green/Gold",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "1945",
+            "category": "MALE",
+            "yards": 7005,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 140
+          },
+          {
+            "name": "1945",
+            "category": "FEMALE",
+            "yards": 7005,
+            "par": 72,
+            "rating": 81,
+            "slope": 151
+          },
+          {
+            "name": "1945/White",
+            "category": "MALE",
+            "yards": 6700,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 138
+          },
+          {
+            "name": "1945/White",
+            "category": "FEMALE",
+            "yards": 6700,
+            "par": 72,
+            "rating": 79.5,
+            "slope": 149
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6483,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6483,
+            "par": 72,
+            "rating": 78,
+            "slope": 146
+          },
+          {
+            "name": "White/Gold",
+            "category": "MALE",
+            "yards": 6293,
+            "par": 72,
+            "rating": 71,
+            "slope": 134
+          },
+          {
+            "name": "White/Gold",
+            "category": "FEMALE",
+            "yards": 6293,
+            "par": 72,
+            "rating": 77,
+            "slope": 144
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6167,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6167,
+            "par": 72,
+            "rating": 76.3,
+            "slope": 142
+          },
+          {
+            "name": "Gold/Green",
+            "category": "MALE",
+            "yards": 5643,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 121
+          },
+          {
+            "name": "Gold/Green",
+            "category": "FEMALE",
+            "yards": 5643,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 134
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5159,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 117
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5159,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 127
+          }
+        ]
+      },
+      {
+        "name": "White/Green",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "1945",
+            "category": "MALE",
+            "yards": 7045,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 141
+          },
+          {
+            "name": "1945",
+            "category": "FEMALE",
+            "yards": 7045,
+            "par": 72,
+            "rating": 82.4,
+            "slope": 150
+          },
+          {
+            "name": "1945/White",
+            "category": "MALE",
+            "yards": 6683,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 140
+          },
+          {
+            "name": "1945/White",
+            "category": "FEMALE",
+            "yards": 6683,
+            "par": 72,
+            "rating": 80.2,
+            "slope": 147
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6487,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6487,
+            "par": 72,
+            "rating": 78.8,
+            "slope": 146
+          },
+          {
+            "name": "White/Gold",
+            "category": "MALE",
+            "yards": 6158,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 135
+          },
+          {
+            "name": "White/Gold",
+            "category": "FEMALE",
+            "yards": 6158,
+            "par": 72,
+            "rating": 76.8,
+            "slope": 143
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6013,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6013,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 140
+          },
+          {
+            "name": "Gold/Green",
+            "category": "MALE",
+            "yards": 5405,
+            "par": 72,
+            "rating": 67,
+            "slope": 119
+          },
+          {
+            "name": "Gold/Green",
+            "category": "FEMALE",
+            "yards": 5405,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 131
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5105,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 117
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5105,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 127
+          }
+        ]
+      },
+      {
+        "name": "Gold/White",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "1945",
+            "category": "MALE",
+            "yards": 7078,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 149
+          },
+          {
+            "name": "1945",
+            "category": "FEMALE",
+            "yards": 7078,
+            "par": 72,
+            "rating": 82.8,
+            "slope": 154
+          },
+          {
+            "name": "1945/White",
+            "category": "MALE",
+            "yards": 6695,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 141
+          },
+          {
+            "name": "1945/White",
+            "category": "FEMALE",
+            "yards": 6695,
+            "par": 72,
+            "rating": 80.2,
+            "slope": 152
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6494,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6494,
+            "par": 72,
+            "rating": 79,
+            "slope": 151
+          },
+          {
+            "name": "White/Gold",
+            "category": "MALE",
+            "yards": 6191,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 131
+          },
+          {
+            "name": "White/Gold",
+            "category": "FEMALE",
+            "yards": 6191,
+            "par": 72,
+            "rating": 77.2,
+            "slope": 147
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6062,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6062,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 139
+          },
+          {
+            "name": "Gold/Green",
+            "category": "MALE",
+            "yards": 5412,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 124
+          },
+          {
+            "name": "Gold/Green",
+            "category": "FEMALE",
+            "yards": 5412,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 133
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5080,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 120
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5080,
+            "par": 72,
+            "rating": 70,
+            "slope": 124
+          }
+        ]
+      },
+      {
+        "name": "Reverse rotation (White/Gold)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "1945",
+            "category": "MALE",
+            "yards": 7078,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 138
+          },
+          {
+            "name": "1945",
+            "category": "FEMALE",
+            "yards": 7078,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "1945/White",
+            "category": "MALE",
+            "yards": 6695,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 135
+          },
+          {
+            "name": "1945/White",
+            "category": "FEMALE",
+            "yards": 6695,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6494,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6494,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White/Gold",
+            "category": "MALE",
+            "yards": 6191,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 126
+          },
+          {
+            "name": "White/Gold",
+            "category": "FEMALE",
+            "yards": 6191,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6062,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6062,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 123
+          },
+          {
+            "name": "Gold/Green",
+            "category": "MALE",
+            "yards": 5412,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 113
+          },
+          {
+            "name": "Gold/Green",
+            "category": "FEMALE",
+            "yards": 5412,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 123
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5080,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 117
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5080,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 117
+          }
+        ]
+      },
+      {
+        "name": "Reverse rotation (Gold/Green)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "1945",
+            "category": "MALE",
+            "yards": 7005,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 140
+          },
+          {
+            "name": "1945",
+            "category": "FEMALE",
+            "yards": 7005,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "1945/White",
+            "category": "MALE",
+            "yards": 6700,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 138
+          },
+          {
+            "name": "1945/White",
+            "category": "FEMALE",
+            "yards": 6700,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6483,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6483,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White/Gold",
+            "category": "MALE",
+            "yards": 6293,
+            "par": 72,
+            "rating": 71,
+            "slope": 134
+          },
+          {
+            "name": "White/Gold",
+            "category": "FEMALE",
+            "yards": 6293,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6167,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6167,
+            "par": 72,
+            "rating": 76.3,
+            "slope": 142
+          },
+          {
+            "name": "Gold/Green",
+            "category": "MALE",
+            "yards": 5643,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 123
+          },
+          {
+            "name": "Gold/Green",
+            "category": "FEMALE",
+            "yards": 5643,
+            "par": 72,
+            "rating": 74,
+            "slope": 134
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5159,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 117
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5159,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 127
+          }
+        ]
+      },
+      {
+        "name": "Reverse rotation (Green/White)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "1945",
+            "category": "MALE",
+            "yards": 7045,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 137
+          },
+          {
+            "name": "1945",
+            "category": "FEMALE",
+            "yards": 7045,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "1945/White",
+            "category": "MALE",
+            "yards": 6683,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 134
+          },
+          {
+            "name": "1945/White",
+            "category": "FEMALE",
+            "yards": 6683,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6487,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6487,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White/Gold",
+            "category": "MALE",
+            "yards": 6158,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 129
+          },
+          {
+            "name": "White/Gold",
+            "category": "FEMALE",
+            "yards": 6158,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6013,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6013,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 125
+          },
+          {
+            "name": "Gold/Green",
+            "category": "MALE",
+            "yards": 5405,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 120
+          },
+          {
+            "name": "Gold/Green",
+            "category": "FEMALE",
+            "yards": 5405,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 123
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5105,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 117
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5105,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8b9963e0-86ac-11e4-8c28-020000005b00/pine-forest-country-club"
+  }
+}

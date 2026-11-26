@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9765b700-86ac-11e4-8c28-020000005b00/jackpot-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9765b700-86ac-11e4-8c28-020000005b00/jackpot-golf-club",
+  "checked_at": 1795664711.6855462,
+  "sha256": "e91cb713143e190191d0e060d80660bcf540ac02f12fc703ee2e122ff370b672",
+  "title": "Jackpot Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9765b700-86ac-11e4-8c28-020000005b00",
+    "name": "Jackpot Golf Club",
+    "address": "415 Ace Drive, Jackpot, NV",
+    "courses": [
+      {
+        "name": "Jackpot",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6974,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6974,
+            "par": 72,
+            "rating": 79,
+            "slope": 141
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6461,
+            "par": 72,
+            "rating": 70,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6461,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 137
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5590,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5590,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9765b700-86ac-11e4-8c28-020000005b00/jackpot-golf-club"
+  }
+}

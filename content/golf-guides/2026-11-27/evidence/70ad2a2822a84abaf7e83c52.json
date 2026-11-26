@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8ce1d10-86ac-11e4-8c28-020000005b00/big-sugar",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8ce1d10-86ac-11e4-8c28-020000005b00/big-sugar",
+  "checked_at": 1795664696.7144227,
+  "sha256": "18c4c2b536218f913f1eeede0b00a912eb89382e6c63c318ce6d035771f9e857",
+  "title": "Big Sugar - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b8ce1d10-86ac-11e4-8c28-020000005b00",
+    "name": "Big Sugar",
+    "address": "12122 E Sugar Creek Rd 4, Pea Ridge, AR",
+    "courses": [
+      {
+        "name": "Big Sugar",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7201,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 150
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6629,
+            "par": 72,
+            "rating": 74,
+            "slope": 144
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6140,
+            "par": 72,
+            "rating": 71,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5652,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5191,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8ce1d10-86ac-11e4-8c28-020000005b00/big-sugar"
+  }
+}

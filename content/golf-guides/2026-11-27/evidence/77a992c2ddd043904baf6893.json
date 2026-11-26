@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/cda3f9d0-ce2b-11e6-8db6-0680a328ea36/sun-city-west-echo-mesa",
+  "resolved_url": "https://18birdies.com/golf-courses/club/cda3f9d0-ce2b-11e6-8db6-0680a328ea36/sun-city-west-echo-mesa",
+  "checked_at": 1795669252.6820536,
+  "sha256": "909dcbf17f71551325ec6a859e63b30fd26c943b900f6ef2f609699acc27bef9",
+  "title": "Sun City West - Echo Mesa - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "cda3f9d0-ce2b-11e6-8db6-0680a328ea36",
+    "name": "Sun City West - Echo Mesa",
+    "address": "20349 Echo Mesa Drive, Sun City, AZ",
+    "courses": [
+      {
+        "name": "Sun City West - Echo Mesa",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4157,
+            "par": 60,
+            "rating": 60.6,
+            "slope": 96
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4157,
+            "par": 60,
+            "rating": 62.8,
+            "slope": 97
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3512,
+            "par": 60,
+            "rating": 58.5,
+            "slope": 90
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3512,
+            "par": 60,
+            "rating": 59.2,
+            "slope": 90
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3005,
+            "par": 60,
+            "rating": 55,
+            "slope": 83
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3005,
+            "par": 60,
+            "rating": 56.4,
+            "slope": 84
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/cda3f9d0-ce2b-11e6-8db6-0680a328ea36/sun-city-west-echo-mesa"
+  }
+}

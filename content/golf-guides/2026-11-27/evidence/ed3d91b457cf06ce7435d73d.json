@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9b45e60-86ac-11e4-8c28-020000005b00/st-louis-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9b45e60-86ac-11e4-8c28-020000005b00/st-louis-country-club",
+  "checked_at": 1795668352.5844371,
+  "sha256": "dc19169e25ad83f4d67f05e976001c51c0cc952cc0f34c5eb53de77fb9f6807e",
+  "title": "St. Louis Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "b9b45e60-86ac-11e4-8c28-020000005b00",
+    "name": "St. Louis Country Club",
+    "address": "400 Barnes Rd, Saint Louis, MO",
+    "courses": [
+      {
+        "name": "Saint Louis",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6534,
+            "par": 71,
+            "rating": 71.6,
+            "slope": 138
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 6119,
+            "par": 71,
+            "rating": 70,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5676,
+            "par": 71,
+            "rating": 67.7,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5457,
+            "par": 71,
+            "rating": 66.4,
+            "slope": 128
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4659,
+            "par": 71,
+            "rating": 62.9,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9b45e60-86ac-11e4-8c28-020000005b00/st-louis-country-club"
+  }
+}

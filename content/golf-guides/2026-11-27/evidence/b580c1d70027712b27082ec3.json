@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b546f220-86ac-11e4-8c28-020000005b00/washington-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b546f220-86ac-11e4-8c28-020000005b00/washington-park-golf-course",
+  "checked_at": 1795668347.4282389,
+  "sha256": "598ad229430481b3d0721dd8a175d5dfc089ce023662e3faad298ed97ff52a03",
+  "title": "Washington Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b546f220-86ac-11e4-8c28-020000005b00",
+    "name": "Washington Park Golf Course",
+    "address": "2801 12th St. Racine, WI 53403",
+    "courses": [
+      {
+        "name": "Washington Park",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2690,
+            "par": 35,
+            "rating": 34.7,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2690,
+            "par": 35,
+            "rating": 35.3,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2683,
+            "par": 35,
+            "rating": 34.7,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2683,
+            "par": 35,
+            "rating": 35.2,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b546f220-86ac-11e4-8c28-020000005b00/washington-park-golf-course"
+  }
+}

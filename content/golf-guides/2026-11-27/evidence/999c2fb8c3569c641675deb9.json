@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83cf1100-86ac-11e4-8c28-020000005b00/wynstone-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83cf1100-86ac-11e4-8c28-020000005b00/wynstone-golf-club",
+  "checked_at": 1795663479.3922846,
+  "sha256": "b16c18c42bb1e7a3bc6c3f58abc1453b8558acf670f3ba6e306064636dd51e23",
+  "title": "Wynstone Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "83cf1100-86ac-11e4-8c28-020000005b00",
+    "name": "Wynstone Golf Club",
+    "address": "One Wynstone Dr, North Barrington, IL",
+    "courses": [
+      {
+        "name": "Wynstone",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7162,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 147
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7162,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6864,
+            "par": 72,
+            "rating": 74,
+            "slope": 143
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6864,
+            "par": 72,
+            "rating": 78.4,
+            "slope": 140
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 6384,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 138
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 6384,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5946,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5946,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 143
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5201,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5201,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 134
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83cf1100-86ac-11e4-8c28-020000005b00/wynstone-golf-club"
+  }
+}

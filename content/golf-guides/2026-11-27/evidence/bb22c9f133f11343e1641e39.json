@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5512b50-86ac-11e4-8c28-020000005b00/butternut-hills-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5512b50-86ac-11e4-8c28-020000005b00/butternut-hills-golf-course",
+  "checked_at": 1795663891.608232,
+  "sha256": "2b2ed7e3306916cfa1c610fbeb903b12e27e200e695201b5299883adbee42354",
+  "title": "Butternut Hills Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b5512b50-86ac-11e4-8c28-020000005b00",
+    "name": "Butternut Hills Golf Course",
+    "address": "2981 Golf Road, Sarona",
+    "courses": [
+      {
+        "name": "Butternut Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5683,
+            "par": 70,
+            "rating": 66.9,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5683,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5443,
+            "par": 70,
+            "rating": 66.1,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5443,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4945,
+            "par": 70,
+            "rating": 67.4,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4945,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5512b50-86ac-11e4-8c28-020000005b00/butternut-hills-golf-course"
+  }
+}

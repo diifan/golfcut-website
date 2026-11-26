@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92d53260-86ac-11e4-8c28-020000005b00/gainfield-farms-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92d53260-86ac-11e4-8c28-020000005b00/gainfield-farms-golf-course",
+  "checked_at": 1795664697.7563965,
+  "sha256": "49b787651c8f6291b3d86c3a88e5ba5d384da6171f8a9d05f7f1e32cfde4b715",
+  "title": "Gainfield Farms Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92d53260-86ac-11e4-8c28-020000005b00",
+    "name": "Gainfield Farms Golf Course",
+    "address": "225 Old Field Rd, Southbury, CT",
+    "courses": [
+      {
+        "name": "Gainfield Farms",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1384,
+            "par": 28,
+            "rating": 26.8,
+            "slope": 87
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1384,
+            "par": 27,
+            "rating": 28.10836,
+            "slope": 85.40088
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1203,
+            "par": 28,
+            "rating": 27.28662,
+            "slope": 82.08496
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1203,
+            "par": 27,
+            "rating": 27.2,
+            "slope": 90
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92d53260-86ac-11e4-8c28-020000005b00/gainfield-farms-golf-course"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95973890-86ac-11e4-8c28-020000005b00/highland-links-cape-cod",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95973890-86ac-11e4-8c28-020000005b00/highland-links-cape-cod",
+  "checked_at": 1795664689.3807778,
+  "sha256": "ba2cc6070312fcdb99300003270085ab2c97f1f4e403697e922b9ac1700db20f",
+  "title": "Highland Links Cape Cod - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95973890-86ac-11e4-8c28-020000005b00",
+    "name": "Highland Links Cape Cod",
+    "address": "10 Highland Light Rd, North Truro, MA 02652",
+    "courses": [
+      {
+        "name": "Highland Links",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 5332,
+            "par": 70,
+            "rating": 67,
+            "slope": 114
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 5332,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 125
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "MALE",
+            "yards": 4587,
+            "par": 70,
+            "rating": 63.9,
+            "slope": 105
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "FEMALE",
+            "yards": 4587,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95973890-86ac-11e4-8c28-020000005b00/highland-links-cape-cod"
+  }
+}

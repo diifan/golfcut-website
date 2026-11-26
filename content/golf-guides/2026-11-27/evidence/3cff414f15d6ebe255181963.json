@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad3a8d30-86ac-11e4-8c28-020000005b00/wynding-brook-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad3a8d30-86ac-11e4-8c28-020000005b00/wynding-brook-golf-course",
+  "checked_at": 1795663894.1292882,
+  "sha256": "26650034a7d0bbe625000a35d3bcaa7274612f31e63f0b568ad7467519a5ee06",
+  "title": "Wynding Brook Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ad3a8d30-86ac-11e4-8c28-020000005b00",
+    "name": "Wynding Brook Golf Course",
+    "address": "201 Harveys Lane, Milton, PA",
+    "courses": [
+      {
+        "name": "Wynding Brook",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6367,
+            "par": 71,
+            "rating": 70.7,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6191,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5291,
+            "par": 71,
+            "rating": 65,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4880,
+            "par": 71,
+            "rating": 67.1,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad3a8d30-86ac-11e4-8c28-020000005b00/wynding-brook-golf-course"
+  }
+}

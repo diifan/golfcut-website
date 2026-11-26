@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95c1a3f0-86ac-11e4-8c28-020000005b00/rockport-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95c1a3f0-86ac-11e4-8c28-020000005b00/rockport-golf-club",
+  "checked_at": 1795663900.2861855,
+  "sha256": "821df357c63117ac01baa4fe82d6117bed1f617c6bcbf5cfc9cb5fd69ebcf762",
+  "title": "Rockport Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95c1a3f0-86ac-11e4-8c28-020000005b00",
+    "name": "Rockport Golf Club",
+    "address": "36 Country Club Rd, Rockport, MA",
+    "courses": [
+      {
+        "name": "Rockport",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/blue",
+            "category": "MALE",
+            "yards": 6076,
+            "par": 70,
+            "rating": 69.8,
+            "slope": 125
+          },
+          {
+            "name": "White/blue",
+            "category": "FEMALE",
+            "yards": 6076,
+            "par": 74,
+            "rating": 75.9,
+            "slope": 133
+          },
+          {
+            "name": "Red/gold",
+            "category": "MALE",
+            "yards": 5513,
+            "par": 70,
+            "rating": 70,
+            "slope": 120
+          },
+          {
+            "name": "Red/gold",
+            "category": "FEMALE",
+            "yards": 5513,
+            "par": 74,
+            "rating": 72.5,
+            "slope": 125
+          },
+          {
+            "name": "Gold/gold",
+            "category": "MALE",
+            "yards": 5436,
+            "par": 70,
+            "rating": 66.8,
+            "slope": 117
+          },
+          {
+            "name": "Gold/gold",
+            "category": "FEMALE",
+            "yards": 5436,
+            "par": 74,
+            "rating": 70.8,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95c1a3f0-86ac-11e4-8c28-020000005b00/rockport-golf-club"
+  }
+}

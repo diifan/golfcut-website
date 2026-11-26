@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d7c6670-86ac-11e4-8c28-020000005b00/kittanning-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d7c6670-86ac-11e4-8c28-020000005b00/kittanning-country-club",
+  "checked_at": 1795666537.1093004,
+  "sha256": "27ec51659615e287738303c217f2bd855479a72e73238901d682955a22dadd82",
+  "title": "Kittanning Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9d7c6670-86ac-11e4-8c28-020000005b00",
+    "name": "Kittanning Country Club",
+    "address": "Belltop Dr",
+    "courses": [
+      {
+        "name": "9 holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 3092,
+            "par": 36,
+            "rating": 35.4,
+            "slope": 129
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 3092,
+            "par": 37,
+            "rating": 38.6,
+            "slope": 132
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 2749,
+            "par": 36,
+            "rating": 34,
+            "slope": 126
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 2749,
+            "par": 37,
+            "rating": 37,
+            "slope": 126
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 2682,
+            "par": 36,
+            "rating": 33.6,
+            "slope": 116
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 2682,
+            "par": 37,
+            "rating": 36.6,
+            "slope": 126
+          }
+        ]
+      },
+      {
+        "name": "18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 5998,
+            "par": 71,
+            "rating": 70,
+            "slope": 128
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 5998,
+            "par": 73,
+            "rating": 76.2,
+            "slope": 135
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5267,
+            "par": 71,
+            "rating": 66.7,
+            "slope": 119
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5267,
+            "par": 73,
+            "rating": 72,
+            "slope": 127
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5115,
+            "par": 71,
+            "rating": 66,
+            "slope": 114
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5115,
+            "par": 73,
+            "rating": 71.6,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d7c6670-86ac-11e4-8c28-020000005b00/kittanning-country-club"
+  }
+}

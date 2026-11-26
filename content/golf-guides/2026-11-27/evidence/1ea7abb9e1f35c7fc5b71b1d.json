@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8fea6e80-86ac-11e4-8c28-020000005b00/seminole-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8fea6e80-86ac-11e4-8c28-020000005b00/seminole-golf-club",
+  "checked_at": 1795582899.926285,
+  "sha256": "0f6d5478b4d8bc5099c458d09175ac06f80293b6224f24bf0bffaab95b104adb",
+  "title": "Seminole Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "8fea6e80-86ac-11e4-8c28-020000005b00",
+    "name": "Seminole Golf Club",
+    "address": "901 Seminole Blvd, Juno Beach, FL",
+    "courses": [
+      {
+        "name": "Seminole",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6836,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 145
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6836,
+            "par": 72,
+            "rating": 78.3,
+            "slope": 139
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6593,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 141
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6593,
+            "par": 72,
+            "rating": 77,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6009,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6009,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 139
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5583,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5583,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 132
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8fea6e80-86ac-11e4-8c28-020000005b00/seminole-golf-club"
+  }
+}

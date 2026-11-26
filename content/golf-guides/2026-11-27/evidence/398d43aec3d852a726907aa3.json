@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d66d0e0-86ac-11e4-8c28-020000005b00/martinsville-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d66d0e0-86ac-11e4-8c28-020000005b00/martinsville-golf-club",
+  "checked_at": 1795583773.81631,
+  "sha256": "a2511f4709f0a2b38f49d95c16481e0d50b453670b3bf7ecbb6791654f3e01ec",
+  "title": "Martinsville Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d66d0e0-86ac-11e4-8c28-020000005b00",
+    "name": "Martinsville Golf Club",
+    "address": "1510 State Road 37 N, Martinsville, IN",
+    "courses": [
+      {
+        "name": "Martinsville",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6245,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6245,
+            "par": 71,
+            "rating": 75.6,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6147,
+            "par": 71,
+            "rating": 65.7,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6147,
+            "par": 71,
+            "rating": 70.8,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4992,
+            "par": 71,
+            "rating": 63.9,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4992,
+            "par": 71,
+            "rating": 68.7,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d66d0e0-86ac-11e4-8c28-020000005b00/martinsville-golf-club"
+  }
+}

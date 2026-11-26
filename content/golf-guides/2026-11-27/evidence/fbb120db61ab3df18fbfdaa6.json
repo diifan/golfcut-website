@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/91eb6ea0-86ac-11e4-8c28-020000005b00/canebrake-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/91eb6ea0-86ac-11e4-8c28-020000005b00/canebrake-club",
+  "checked_at": 1795666494.8507025,
+  "sha256": "23ac6ce45967edaa899942e128a8fc6a8eb037b1c9353185f8097dec1a5c0d41",
+  "title": "Canebrake Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "91eb6ea0-86ac-11e4-8c28-020000005b00",
+    "name": "Canebrake Club",
+    "address": "23015 Founders Cir, Athens, AL",
+    "courses": [
+      {
+        "name": "Canebrake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 7237,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 142
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6774,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6260,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 134
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5758,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4858,
+            "par": 72,
+            "rating": 64.3,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/91eb6ea0-86ac-11e4-8c28-020000005b00/canebrake-club"
+  }
+}

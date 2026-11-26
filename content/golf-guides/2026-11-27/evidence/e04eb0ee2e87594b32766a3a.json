@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b26fdd50-86ac-11e4-8c28-020000005b00/lake-monterey-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b26fdd50-86ac-11e4-8c28-020000005b00/lake-monterey-golf-course",
+  "checked_at": 1795666546.5644631,
+  "sha256": "616bfe8b1fb041ceefa80f1563732f1735072e4417071bd86a00aece8e441647",
+  "title": "Lake Monterey Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b26fdd50-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Monterey Golf Course",
+    "address": "3765 28th S, Dorr, MI",
+    "courses": [
+      {
+        "name": "Lake Monterey",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4663,
+            "par": 65,
+            "rating": 66.2,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4481,
+            "par": 65,
+            "rating": 65.3,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3570,
+            "par": 65,
+            "rating": 61.2,
+            "slope": 104
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b26fdd50-86ac-11e4-8c28-020000005b00/lake-monterey-golf-course"
+  }
+}

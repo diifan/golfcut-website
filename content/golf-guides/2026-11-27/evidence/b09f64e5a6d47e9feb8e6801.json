@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/994f85a0-86ac-11e4-8c28-020000005b00/the-golf-club-at-blue-heron-hills",
+  "resolved_url": "https://18birdies.com/golf-courses/club/994f85a0-86ac-11e4-8c28-020000005b00/the-golf-club-at-blue-heron-hills",
+  "checked_at": 1795661406.0393634,
+  "sha256": "c3fafbb9ef8f8e87db9468171eee726d22dc70427e1a5bee249fbecf66aec8e7",
+  "title": "Blue Heron Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "994f85a0-86ac-11e4-8c28-020000005b00",
+    "name": "Blue Heron Golf Club",
+    "address": "1 Country Club Dr, Macedon, NY 14502",
+    "courses": [
+      {
+        "name": "Blue Heron Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5744,
+            "par": 71,
+            "rating": 69,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5744,
+            "par": 71,
+            "rating": 74,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6498,
+            "par": 71,
+            "rating": 72.3,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6498,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6102,
+            "par": 71,
+            "rating": 70.4,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6102,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5220,
+            "par": 71,
+            "rating": 65.6,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5220,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/994f85a0-86ac-11e4-8c28-020000005b00/the-golf-club-at-blue-heron-hills"
+  }
+}

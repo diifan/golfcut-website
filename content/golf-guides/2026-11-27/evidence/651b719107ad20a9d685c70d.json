@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ec3efe0-86ac-11e4-8c28-020000005b00/bonita-fairways-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ec3efe0-86ac-11e4-8c28-020000005b00/bonita-fairways-country-club",
+  "checked_at": 1795663889.4713886,
+  "sha256": "5c36eafd3ce93bcc7ec1832521d0d395309e5591bf7e0da2131756c13cb0d127",
+  "title": "Bonita Fairways Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8ec3efe0-86ac-11e4-8c28-020000005b00",
+    "name": "Bonita Fairways Country Club",
+    "address": "9751 W Terry St, Bonita Springs, FL",
+    "courses": [
+      {
+        "name": "Bonita Fairways",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3388,
+            "par": 61,
+            "rating": 60.1,
+            "slope": 101
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3388,
+            "par": 61,
+            "rating": 59.9,
+            "slope": 99
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2785,
+            "par": 61,
+            "rating": 60.1,
+            "slope": 101
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2785,
+            "par": 61,
+            "rating": 55.1129,
+            "slope": 82.45565
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2314,
+            "par": 61,
+            "rating": 53.16296,
+            "slope": 80.15246
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2314,
+            "par": 61,
+            "rating": 53.16296,
+            "slope": 80.15246
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ec3efe0-86ac-11e4-8c28-020000005b00/bonita-fairways-country-club"
+  }
+}

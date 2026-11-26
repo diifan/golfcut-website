@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d703170-86ac-11e4-8c28-020000005b00/northwinds-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d703170-86ac-11e4-8c28-020000005b00/northwinds-golf-course",
+  "checked_at": 1795664687.5250401,
+  "sha256": "f25f78343efb2c2e62cc7ed94841adfb407f87d01ceec89f04f7dffefcc9d342",
+  "title": "Northwinds Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d703170-86ac-11e4-8c28-020000005b00",
+    "name": "Northwinds Golf Course",
+    "address": "700 South Shore Trl",
+    "courses": [
+      {
+        "name": "Northwinds",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6199,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5962,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5358,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d703170-86ac-11e4-8c28-020000005b00/northwinds-golf-course"
+  }
+}

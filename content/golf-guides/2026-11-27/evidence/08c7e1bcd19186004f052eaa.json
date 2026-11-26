@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b19c60b0-86ac-11e4-8c28-020000005b00/new-mexico-tech-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b19c60b0-86ac-11e4-8c28-020000005b00/new-mexico-tech-golf-course",
+  "checked_at": 1795669236.357304,
+  "sha256": "806094ab91783c3bf47330830a7166f69948fa71c8119a685f0245445862f9f8",
+  "title": "New Mexico Tech Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b19c60b0-86ac-11e4-8c28-020000005b00",
+    "name": "New Mexico Tech Golf Course",
+    "address": "801 Leroy Pl Socorro, NM 87801",
+    "courses": [
+      {
+        "name": "New Mexico Tech",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6596,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6131,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5340,
+            "par": 72,
+            "rating": 64.2,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b19c60b0-86ac-11e4-8c28-020000005b00/new-mexico-tech-golf-course"
+  }
+}

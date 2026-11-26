@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/996c0e50-86ac-11e4-8c28-020000005b00/mohonk-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/996c0e50-86ac-11e4-8c28-020000005b00/mohonk-golf-course",
+  "checked_at": 1795664729.1055698,
+  "sha256": "99c9e102f3088d2e992a91255d8c6f9089804ff8d3dbf18dc76985f0f759475c",
+  "title": "Mohonk Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "996c0e50-86ac-11e4-8c28-020000005b00",
+    "name": "Mohonk Golf Course",
+    "address": "Mohonk Mountain House, New Paltz, New York 12561, Ulster County",
+    "courses": [
+      {
+        "name": "Mohonk",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5414,
+            "par": 70,
+            "rating": 66.8,
+            "slope": 115
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5414,
+            "par": 70,
+            "rating": 70.7,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4674,
+            "par": 70,
+            "rating": 63.4,
+            "slope": 106
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4674,
+            "par": 70,
+            "rating": 66.8,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4532,
+            "par": 70,
+            "rating": 65.6,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4532,
+            "par": 70,
+            "rating": 65.6,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/996c0e50-86ac-11e4-8c28-020000005b00/mohonk-golf-course"
+  }
+}

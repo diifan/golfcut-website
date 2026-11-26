@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/972a5bb0-86ac-11e4-8c28-020000005b00/big-sky",
+  "resolved_url": "https://18birdies.com/golf-courses/club/972a5bb0-86ac-11e4-8c28-020000005b00/big-sky",
+  "checked_at": 1795664701.588604,
+  "sha256": "834eab735a121d84cb7beffea904edbffe769decfbde516c100ea21f88f763c7",
+  "title": "Big Sky - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "972a5bb0-86ac-11e4-8c28-020000005b00",
+    "name": "Big Sky",
+    "address": "2100 Black Otter Rd",
+    "courses": [
+      {
+        "name": "Big Sky",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6800,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 140
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6800,
+            "par": 72,
+            "rating": 78.9,
+            "slope": 154
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6334,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 137
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6334,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 146
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6044,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6044,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 144
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5297,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5297,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 132
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/972a5bb0-86ac-11e4-8c28-020000005b00/big-sky"
+  }
+}

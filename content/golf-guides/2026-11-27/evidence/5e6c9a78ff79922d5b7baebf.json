@@ -1,0 +1,321 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/90d43240-86ac-11e4-8c28-020000005b00/palmer-legends-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/90d43240-86ac-11e4-8c28-020000005b00/palmer-legends-country-club",
+  "checked_at": 1795666540.323034,
+  "sha256": "b90a1bf92a14c7d21ac53dad6907b96727982182c836fa1dbbc3890dbfef81d1",
+  "title": "Palmer Legends Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "90d43240-86ac-11e4-8c28-020000005b00",
+    "name": "Palmer Legends Country Club",
+    "address": "1645 Palmer Way, The Villages, FL",
+    "courses": [
+      {
+        "name": "Palmer Legends (Cherry Hill/Laurel Valley)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7180,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7180,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6625,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6625,
+            "par": 72,
+            "rating": 77.1,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6099,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6099,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5378,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5378,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 130
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4969,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 115
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4969,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 122
+          },
+          {
+            "name": "Friendly",
+            "category": "MALE",
+            "yards": 3788,
+            "par": 72,
+            "rating": 60.7,
+            "slope": 107
+          },
+          {
+            "name": "Friendly",
+            "category": "FEMALE",
+            "yards": 3788,
+            "par": 72,
+            "rating": 62.9,
+            "slope": 108
+          }
+        ]
+      },
+      {
+        "name": "Palmer Legends (Laurel Valley/Riley Grove)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7063,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 133
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7063,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6668,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6668,
+            "par": 72,
+            "rating": 77.4,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6160,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6160,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5387,
+            "par": 72,
+            "rating": 66,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5387,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 129
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4824,
+            "par": 72,
+            "rating": 63.7,
+            "slope": 109
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4824,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 119
+          },
+          {
+            "name": "Friendly",
+            "category": "MALE",
+            "yards": 3670,
+            "par": 72,
+            "rating": 60.2,
+            "slope": 103
+          },
+          {
+            "name": "Friendly",
+            "category": "FEMALE",
+            "yards": 3670,
+            "par": 72,
+            "rating": 62.2,
+            "slope": 105
+          }
+        ]
+      },
+      {
+        "name": "Palmer Legends (Riley Grove/Cherry Hill)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6965,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 134
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6965,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6517,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6517,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6033,
+            "par": 72,
+            "rating": 69,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6033,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5335,
+            "par": 72,
+            "rating": 66,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5335,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 124
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4817,
+            "par": 72,
+            "rating": 63.2,
+            "slope": 101
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4817,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 118
+          },
+          {
+            "name": "Friendly",
+            "category": "MALE",
+            "yards": 3734,
+            "par": 72,
+            "rating": 59.2,
+            "slope": 93
+          },
+          {
+            "name": "Friendly",
+            "category": "FEMALE",
+            "yards": 3734,
+            "par": 72,
+            "rating": 61.5,
+            "slope": 97
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/90d43240-86ac-11e4-8c28-020000005b00/palmer-legends-country-club"
+  }
+}

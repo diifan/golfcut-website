@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/753c4ae0-86ac-11e4-8c28-020000005b00/fairmont",
+  "resolved_url": "https://18birdies.com/golf-courses/club/753c4ae0-86ac-11e4-8c28-020000005b00/fairmont",
+  "checked_at": 1795583799.553515,
+  "sha256": "a92f911640ce7892a52a4f309ad9ef35302492acc112c416b580bd3252c37968",
+  "title": "Fairmont Chateau Whistler Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "753c4ae0-86ac-11e4-8c28-020000005b00",
+    "name": "Fairmont Chateau Whistler Golf Club",
+    "address": "4612 Blackcomb Way, Whistler, BC",
+    "courses": [
+      {
+        "name": "Fairmont Chateau Whistler Golf Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6635,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 145
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6635,
+            "par": 72,
+            "rating": 77.2,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6243,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6243,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5692,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5692,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5157,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5157,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/753c4ae0-86ac-11e4-8c28-020000005b00/fairmont"
+  }
+}

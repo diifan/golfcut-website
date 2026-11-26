@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9e3abc0-86ac-11e4-8c28-020000005b00/waukewan-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9e3abc0-86ac-11e4-8c28-020000005b00/waukewan-golf-club",
+  "checked_at": 1795663901.418256,
+  "sha256": "0b47ca301d551a3a1e8f3ce1c0b809de5c20480b769d92187ba5004a6778f734",
+  "title": "Waukewan Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b9e3abc0-86ac-11e4-8c28-020000005b00",
+    "name": "Waukewan Golf Club",
+    "address": "166 Waukewan Rd, Center Harbor, NH",
+    "courses": [
+      {
+        "name": "Waukewan",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5885,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 119
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5885,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5430,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 115
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5430,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4725,
+            "par": 72,
+            "rating": 64.3,
+            "slope": 107
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4725,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9e3abc0-86ac-11e4-8c28-020000005b00/waukewan-golf-club"
+  }
+}

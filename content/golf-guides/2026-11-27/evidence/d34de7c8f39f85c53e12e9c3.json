@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2eef860-86ac-11e4-8c28-020000005b00/twin-birch-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2eef860-86ac-11e4-8c28-020000005b00/twin-birch-golf",
+  "checked_at": 1795666491.3484569,
+  "sha256": "818d6b1fcb9b9f4c070935f4a08635c8ac22e774085eed8060a6631bce1fc267",
+  "title": "Twin Birch Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b2eef860-86ac-11e4-8c28-020000005b00",
+    "name": "Twin Birch Golf Club",
+    "address": "1030 Co Rd 612",
+    "courses": [
+      {
+        "name": "Twin Birch / twin birch back",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "BLUE",
+            "category": "MALE",
+            "yards": 6132,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 115
+          },
+          {
+            "name": "BLUE",
+            "category": "FEMALE",
+            "yards": 6132,
+            "par": 71,
+            "rating": 76.3,
+            "slope": 130
+          },
+          {
+            "name": "WHITE",
+            "category": "MALE",
+            "yards": 5853,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 112
+          },
+          {
+            "name": "WHITE",
+            "category": "FEMALE",
+            "yards": 5853,
+            "par": 71,
+            "rating": 74.6,
+            "slope": 128
+          },
+          {
+            "name": "RED",
+            "category": "MALE",
+            "yards": 4595,
+            "par": 72,
+            "rating": 63.2,
+            "slope": 104
+          },
+          {
+            "name": "RED",
+            "category": "FEMALE",
+            "yards": 4595,
+            "par": 71,
+            "rating": 67.4,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2eef860-86ac-11e4-8c28-020000005b00/twin-birch-golf"
+  }
+}

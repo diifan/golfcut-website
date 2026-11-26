@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e12a140-86ac-11e4-8c28-020000005b00/chaparral-pines",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e12a140-86ac-11e4-8c28-020000005b00/chaparral-pines",
+  "checked_at": 1795666556.8992367,
+  "sha256": "d1db9d2812c30cbdfa90e2294ef5c35100513ece47b717d0b68c9fb73f7e9119",
+  "title": "Chaparral Pines - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8e12a140-86ac-11e4-8c28-020000005b00",
+    "name": "Chaparral Pines",
+    "address": "504 N Club Dr, Payson, AZ",
+    "courses": [
+      {
+        "name": "Chaparral Pines",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7019,
+            "par": 72,
+            "rating": 73,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6513,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5906,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 130
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5197,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e12a140-86ac-11e4-8c28-020000005b00/chaparral-pines"
+  }
+}

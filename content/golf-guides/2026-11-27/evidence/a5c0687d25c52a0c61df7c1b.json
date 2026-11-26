@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c1ed240-86ac-11e4-8c28-020000005b00/salt-fork-state-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c1ed240-86ac-11e4-8c28-020000005b00/salt-fork-state-park-golf-course",
+  "checked_at": 1795664699.749919,
+  "sha256": "f41f93032c0cba506f849e87f737977ff7b1058571476351b8579274357d7908",
+  "title": "Salt Fork State Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9c1ed240-86ac-11e4-8c28-020000005b00",
+    "name": "Salt Fork State Park Golf Course",
+    "address": "14755 Cadiz Road, Lore City, Ohio 43755",
+    "courses": [
+      {
+        "name": "Salt Fork State Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6056,
+            "par": 71,
+            "rating": 69.3,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5786,
+            "par": 71,
+            "rating": 68,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5241,
+            "par": 71,
+            "rating": 68.8,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c1ed240-86ac-11e4-8c28-020000005b00/salt-fork-state-park-golf-course"
+  }
+}

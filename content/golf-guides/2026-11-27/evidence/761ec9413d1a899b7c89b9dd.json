@@ -1,0 +1,115 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8911410-86ac-11e4-8c28-020000005b00/cherokee-village",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8911410-86ac-11e4-8c28-020000005b00/cherokee-village",
+  "checked_at": 1795583778.0560532,
+  "sha256": "ccb233c268110fcbdf0a9ee45b463a3ee4c1a657c5d9fa98ee83bb47aef4588f",
+  "title": "Cherokee Village  - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b8911410-86ac-11e4-8c28-020000005b00",
+    "name": "Cherokee Village ",
+    "address": "249 Iroquois Dr, Cherokee Village, AR",
+    "courses": [
+      {
+        "name": "Cherokee Village (North)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6687,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6067,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5146,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 109
+          }
+        ]
+      },
+      {
+        "name": "Cherokee Village (South)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7059,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7059,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6515,
+            "par": 72,
+            "rating": 71,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6515,
+            "par": 72,
+            "rating": 77.4,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5093,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5093,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6146,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6146,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 131
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8911410-86ac-11e4-8c28-020000005b00/cherokee-village"
+  }
+}

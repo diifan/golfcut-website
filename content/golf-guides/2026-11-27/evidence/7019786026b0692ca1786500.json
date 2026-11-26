@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/94e9ba80-86ac-11e4-8c28-020000005b00/mellomar-golf-park",
+  "resolved_url": "https://18birdies.com/golf-courses/club/94e9ba80-86ac-11e4-8c28-020000005b00/mellomar-golf-park",
+  "checked_at": 1795669245.6952093,
+  "sha256": "12b24740981c29192be97e7282e9ca8c2e3c05c2a5c7a23cc64b4fc3c746504d",
+  "title": "Mellomar Golf Park - Scorecards, Reviews | 18Birdies star star star star star star star star-o star star-o star-o star star star-o star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "94e9ba80-86ac-11e4-8c28-020000005b00",
+    "name": "Mellomar Golf Park",
+    "address": "6215 Scaggs Rd, Owings, MD",
+    "courses": [
+      {
+        "name": "Mellomar",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2600,
+            "par": 35,
+            "rating": 33.6,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2600,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2914,
+            "par": 35,
+            "rating": 32.5,
+            "slope": 107
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2914,
+            "par": 35,
+            "rating": 32.6,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2293,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2293,
+            "par": 35,
+            "rating": 32.5,
+            "slope": 105
+          }
+        ]
+      },
+      {
+        "name": "Mellomar(Par 3 )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 715,
+            "par": 27,
+            "rating": 27.4,
+            "slope": 85
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 715,
+            "par": 27,
+            "rating": 28.9,
+            "slope": 90
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/94e9ba80-86ac-11e4-8c28-020000005b00/mellomar-golf-park"
+  }
+}

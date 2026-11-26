@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0ba8c30-86ac-11e4-8c28-020000005b00/beacon-rock-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0ba8c30-86ac-11e4-8c28-020000005b00/beacon-rock-golf-course",
+  "checked_at": 1795668306.0586445,
+  "sha256": "29721cea171120eb11284f6ac738026e4261118eb5ef451734580aae207ebb4c",
+  "title": "Beacon Rock Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b0ba8c30-86ac-11e4-8c28-020000005b00",
+    "name": "Beacon Rock Golf Course",
+    "address": "Mile Post 37 Hwy 14, North Bonneville, WA",
+    "courses": [
+      {
+        "name": "Beacon Rock",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 2832,
+            "par": 36,
+            "rating": 33.2,
+            "slope": 109
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 2832,
+            "par": 36,
+            "rating": 35.9,
+            "slope": 120
+          },
+          {
+            "name": "White/Red",
+            "category": "MALE",
+            "yards": 2709,
+            "par": 36,
+            "rating": 32.1,
+            "slope": 104
+          },
+          {
+            "name": "White/Red",
+            "category": "FEMALE",
+            "yards": 2709,
+            "par": 36,
+            "rating": 34.7,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0ba8c30-86ac-11e4-8c28-020000005b00/beacon-rock-golf-course"
+  }
+}

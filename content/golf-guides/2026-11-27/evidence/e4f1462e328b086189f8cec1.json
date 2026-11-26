@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d4d0750-86ac-11e4-8c28-020000005b00/jasper-municipal",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d4d0750-86ac-11e4-8c28-020000005b00/jasper-municipal",
+  "checked_at": 1795668287.264719,
+  "sha256": "4902fbbd334628cba5600d4fe3018732c6263a194d848d1c5f14d2e72eda4848",
+  "title": "Buffalo Trace Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d4d0750-86ac-11e4-8c28-020000005b00",
+    "name": "Buffalo Trace Golf Course",
+    "address": "1719 Jackson St, Jasper, IN",
+    "courses": [
+      {
+        "name": "Buffalo Trace Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6276,
+            "par": 71,
+            "rating": 71.4,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6276,
+            "par": 71,
+            "rating": 75.3,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5985,
+            "par": 71,
+            "rating": 70.1,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5985,
+            "par": 71,
+            "rating": 73.7,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5055,
+            "par": 71,
+            "rating": 65.3,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5055,
+            "par": 71,
+            "rating": 68.8,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5055,
+            "par": 71,
+            "rating": 67.9,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5055,
+            "par": 71,
+            "rating": 70.1,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d4d0750-86ac-11e4-8c28-020000005b00/jasper-municipal"
+  }
+}

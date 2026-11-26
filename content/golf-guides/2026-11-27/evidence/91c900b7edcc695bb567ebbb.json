@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba622a90-86ac-11e4-8c28-020000005b00/tygart-lake",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba622a90-86ac-11e4-8c28-020000005b00/tygart-lake",
+  "checked_at": 1795664735.279568,
+  "sha256": "2beb971df5651256bef6b17406baca74f6bb7732b13139301817aba05e24828f",
+  "title": "Tygart Lake Public Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ba622a90-86ac-11e4-8c28-020000005b00",
+    "name": "Tygart Lake Public Golf Course",
+    "address": " 3948 Knottsville Rd, Grafton, WV, United States, West Virginia",
+    "courses": [
+      {
+        "name": "Tygart Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6299,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6299,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5950,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5950,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5119,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5119,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 117
+          },
+          {
+            "name": "Gold ",
+            "category": "MALE",
+            "yards": 5305,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 113
+          },
+          {
+            "name": "Gold ",
+            "category": "FEMALE",
+            "yards": 5305,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba622a90-86ac-11e4-8c28-020000005b00/tygart-lake"
+  }
+}

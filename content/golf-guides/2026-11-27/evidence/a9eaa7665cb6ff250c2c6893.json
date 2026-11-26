@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/995467a0-86ac-11e4-8c28-020000005b00/cold-springs-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/995467a0-86ac-11e4-8c28-020000005b00/cold-springs-golf-course",
+  "checked_at": 1795668300.714912,
+  "sha256": "3dbc7ce209d64885958b136bbf071a48e37849c371db72b1217ff23e8ef082c0",
+  "title": "Cold Springs Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "995467a0-86ac-11e4-8c28-020000005b00",
+    "name": "Cold Springs Golf Course",
+    "address": "1941 US Route 11, Mannsville, NY",
+    "courses": [
+      {
+        "name": "Lakeview(9 holes )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1642,
+            "par": 30,
+            "rating": 27.3,
+            "slope": 87
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1642,
+            "par": 30,
+            "rating": 27.3,
+            "slope": 87
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/995467a0-86ac-11e4-8c28-020000005b00/cold-springs-golf-course"
+  }
+}

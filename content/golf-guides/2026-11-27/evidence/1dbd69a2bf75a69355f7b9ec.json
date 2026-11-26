@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/963f8680-86ac-11e4-8c28-020000005b00/dodge-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/963f8680-86ac-11e4-8c28-020000005b00/dodge-country-club",
+  "checked_at": 1795663432.9235587,
+  "sha256": "0b569227ef51bd320497d2b5e827434326c3c96c9b636fa8fe57d7eb6a345591",
+  "title": "Dodge Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "963f8680-86ac-11e4-8c28-020000005b00",
+    "name": "Dodge Country Club",
+    "address": "US Hwy 14 W",
+    "courses": [
+      {
+        "name": "Dodge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6176,
+            "par": 72,
+            "rating": 70,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5776,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5151,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/963f8680-86ac-11e4-8c28-020000005b00/dodge-country-club"
+  }
+}

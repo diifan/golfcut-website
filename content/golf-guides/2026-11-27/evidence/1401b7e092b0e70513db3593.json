@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95c2dc70-86ac-11e4-8c28-020000005b00/bedrock-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95c2dc70-86ac-11e4-8c28-020000005b00/bedrock-golf-club",
+  "checked_at": 1795664712.0551064,
+  "sha256": "e4818435bc3d9d2c7824d993c2901832e9dfa59d40bc51366ff58eeb0dd9d923",
+  "title": "Bedrock Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "95c2dc70-86ac-11e4-8c28-020000005b00",
+    "name": "Bedrock Golf Club",
+    "address": "87 Barre Paxton Rd",
+    "courses": [
+      {
+        "name": "Bedrock",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White/Black",
+            "category": "MALE",
+            "yards": 3163,
+            "par": 36,
+            "rating": 35.7,
+            "slope": 128
+          },
+          {
+            "name": "Red/Green",
+            "category": "MALE",
+            "yards": 2671,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 112
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2292,
+            "par": 36,
+            "rating": 32.9,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95c2dc70-86ac-11e4-8c28-020000005b00/bedrock-golf-club"
+  }
+}

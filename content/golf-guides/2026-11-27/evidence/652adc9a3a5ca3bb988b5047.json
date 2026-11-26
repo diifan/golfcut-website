@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b04e0ec0-86ac-11e4-8c28-020000005b00/sterling-park",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b04e0ec0-86ac-11e4-8c28-020000005b00/sterling-park",
+  "checked_at": 1795663883.519504,
+  "sha256": "ce5cf0d5d139ca56fdc297ad8adf7f7326a1f6bbc93d7db138595b0f1bfbff29",
+  "title": "Sterling Park - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b04e0ec0-86ac-11e4-8c28-020000005b00",
+    "name": "Sterling Park",
+    "address": "333 S Sterling Blvd, Sterling, VA",
+    "courses": [
+      {
+        "name": "Sterling Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2849,
+            "par": 54,
+            "rating": 54,
+            "slope": 113
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2849,
+            "par": 54,
+            "rating": 55.37786,
+            "slope": 82.76861
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2610,
+            "par": 54,
+            "rating": 53.1,
+            "slope": 100
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2610,
+            "par": 54,
+            "rating": 54.3884,
+            "slope": 81.5999
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2493,
+            "par": 54,
+            "rating": 53.90402,
+            "slope": 81.02777
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2493,
+            "par": 54,
+            "rating": 53.90402,
+            "slope": 81.02777
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b04e0ec0-86ac-11e4-8c28-020000005b00/sterling-park"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8cc316d0-86ac-11e4-8c28-020000005b00/eagle-pines",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8cc316d0-86ac-11e4-8c28-020000005b00/eagle-pines",
+  "checked_at": 1795661415.597897,
+  "sha256": "a1e5db3dbf2fa96d82105666c4e21a41bf8713a7773ae2dc0f727db6818e5772",
+  "title": "Eagle Pines - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8cc316d0-86ac-11e4-8c28-020000005b00",
+    "name": "Eagle Pines",
+    "address": "9373 N Country Club Rd, Mooresville, IN",
+    "courses": [
+      {
+        "name": "Eagle Pines",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6106,
+            "par": 70,
+            "rating": 69.6,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6106,
+            "par": 70,
+            "rating": 74.4,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5805,
+            "par": 70,
+            "rating": 68.3,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5805,
+            "par": 70,
+            "rating": 72.8,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5460,
+            "par": 70,
+            "rating": 65.1,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5460,
+            "par": 70,
+            "rating": 70.9,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5032,
+            "par": 70,
+            "rating": 67.8,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5032,
+            "par": 70,
+            "rating": 67.7,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8cc316d0-86ac-11e4-8c28-020000005b00/eagle-pines"
+  }
+}

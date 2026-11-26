@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9bf33d0-86ac-11e4-8c28-020000005b00/bethlehem-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9bf33d0-86ac-11e4-8c28-020000005b00/bethlehem-country-club",
+  "checked_at": 1795666527.0087602,
+  "sha256": "79a35a45306a2b0d5562253c1accc31b2b67017a87f11c294f8e4511432b8f1a",
+  "title": "Bethlehem Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b9bf33d0-86ac-11e4-8c28-020000005b00",
+    "name": "Bethlehem Country Club",
+    "address": "1901 Main St",
+    "courses": [
+      {
+        "name": "Bethlehem",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5812,
+            "par": 70,
+            "rating": 67.8,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5477,
+            "par": 70,
+            "rating": 65.9,
+            "slope": 110
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5085,
+            "par": 70,
+            "rating": 64.2,
+            "slope": 109
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4858,
+            "par": 70,
+            "rating": 63.4,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9bf33d0-86ac-11e4-8c28-020000005b00/bethlehem-country-club"
+  }
+}

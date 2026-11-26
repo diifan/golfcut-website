@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba37e640-86ac-11e4-8c28-020000005b00/bomoseen-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba37e640-86ac-11e4-8c28-020000005b00/bomoseen-golf-club",
+  "checked_at": 1795583812.1064277,
+  "sha256": "ed482b06d077c1e3682de40743a56198a23ca924aa2db155824eb628f50e386a",
+  "title": "Bomoseen Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ba37e640-86ac-11e4-8c28-020000005b00",
+    "name": "Bomoseen Golf Club",
+    "address": "111 Prospect Point Road, Castleton, VT",
+    "courses": [
+      {
+        "name": "Bomoseen",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White to Blue",
+            "category": "MALE",
+            "yards": 5192,
+            "par": 70,
+            "rating": 64.1,
+            "slope": 115
+          },
+          {
+            "name": "White to Blue",
+            "category": "FEMALE",
+            "yards": 5192,
+            "par": 70,
+            "rating": 69.5,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4588,
+            "par": 70,
+            "rating": 60.8,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4588,
+            "par": 70,
+            "rating": 65.2,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba37e640-86ac-11e4-8c28-020000005b00/bomoseen-golf-club"
+  }
+}

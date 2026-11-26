@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9aeb0d30-86ac-11e4-8c28-020000005b00/piney-point-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9aeb0d30-86ac-11e4-8c28-020000005b00/piney-point-golf-club",
+  "checked_at": 1795663895.6536977,
+  "sha256": "aea871bc25d1e05cefced257434865f7ad8e253883306e0a39d12db168e19c23",
+  "title": "Piney Point Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9aeb0d30-86ac-11e4-8c28-020000005b00",
+    "name": "Piney Point Golf Club",
+    "address": "48688 Piney Point Rd",
+    "courses": [
+      {
+        "name": "Piney Point",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6272,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5929,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 116
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6520,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 128
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5491,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4747,
+            "par": 72,
+            "rating": 63,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9aeb0d30-86ac-11e4-8c28-020000005b00/piney-point-golf-club"
+  }
+}

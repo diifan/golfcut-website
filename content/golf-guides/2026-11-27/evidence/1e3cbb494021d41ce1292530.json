@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/bb034c90-86ac-11e4-8c28-020000005b00/koski-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/bb034c90-86ac-11e4-8c28-020000005b00/koski-golf",
+  "checked_at": 1795663926.066088,
+  "sha256": "3b983a19dc02ae08ad80e0e575e8a81c282d06f2a102ac4dc6b8bd831f477831",
+  "title": "Koski Golf - Scorecards, Reviews | 18Birdies star star star star star google-play",
+  "course_profile": {
+    "id": "bb034c90-86ac-11e4-8c28-020000005b00",
+    "name": "Koski Golf",
+    "address": "Eerolanväylä 126, Kuusankoski",
+    "courses": [
+      {
+        "name": "Koski",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White ",
+            "category": "MALE",
+            "yards": 6830,
+            "par": 73,
+            "rating": 73.4,
+            "slope": 132
+          },
+          {
+            "name": "White ",
+            "category": "FEMALE",
+            "yards": 6830,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow ",
+            "category": "MALE",
+            "yards": 6382,
+            "par": 73,
+            "rating": 71.4,
+            "slope": 128
+          },
+          {
+            "name": "Yellow ",
+            "category": "FEMALE",
+            "yards": 6382,
+            "par": 73,
+            "rating": 77.6,
+            "slope": 139
+          },
+          {
+            "name": "Blue ",
+            "category": "MALE",
+            "yards": 6013,
+            "par": 73,
+            "rating": 69.7,
+            "slope": 125
+          },
+          {
+            "name": "Blue ",
+            "category": "FEMALE",
+            "yards": 6013,
+            "par": 73,
+            "rating": 75.5,
+            "slope": 136
+          },
+          {
+            "name": "Red ",
+            "category": "MALE",
+            "yards": 5446,
+            "par": 73,
+            "rating": 67,
+            "slope": 119
+          },
+          {
+            "name": "Red ",
+            "category": "FEMALE",
+            "yards": 5446,
+            "par": 73,
+            "rating": 72.2,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/bb034c90-86ac-11e4-8c28-020000005b00/koski-golf"
+  }
+}

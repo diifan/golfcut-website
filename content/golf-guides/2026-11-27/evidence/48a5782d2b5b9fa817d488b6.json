@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8f16cad0-86ac-11e4-8c28-020000005b00/eagle-springs-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8f16cad0-86ac-11e4-8c28-020000005b00/eagle-springs-golf-course",
+  "checked_at": 1795661680.5365036,
+  "sha256": "7d9191277d6831f978340f3418c686e28c1f812e713b1ac993235ac8202eb5c4",
+  "title": "Eagle Springs Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8f16cad0-86ac-11e4-8c28-020000005b00",
+    "name": "Eagle Springs Golf Course",
+    "address": "171 Country Club Ln, Defuniak Springs, FL",
+    "courses": [
+      {
+        "name": "Defuniak Springs",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6550,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6550,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6039,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6039,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4978,
+            "par": 72,
+            "rating": 63.9,
+            "slope": 112
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4978,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4861,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4861,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8f16cad0-86ac-11e4-8c28-020000005b00/eagle-springs-golf-course"
+  }
+}

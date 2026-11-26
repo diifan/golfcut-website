@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b7ed32f0-86ac-11e4-8c28-020000005b00/willow-tree-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b7ed32f0-86ac-11e4-8c28-020000005b00/willow-tree-golf-course",
+  "checked_at": 1795669255.9857328,
+  "sha256": "6e8c09e003b0a39a2b9bdcfeac0a5f2350681d18daf20e71643cc94ced4ed8c7",
+  "title": "Willow Tree Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b7ed32f0-86ac-11e4-8c28-020000005b00",
+    "name": "Willow Tree Golf Course",
+    "address": "1800 W 15th St, Liberal, KS",
+    "courses": [
+      {
+        "name": "Willow Tree",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6329,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5900,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4962,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b7ed32f0-86ac-11e4-8c28-020000005b00/willow-tree-golf-course"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8e575a0-86ac-11e4-8c28-020000005b00/coral-creek",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8e575a0-86ac-11e4-8c28-020000005b00/coral-creek",
+  "checked_at": 1795666528.9386332,
+  "sha256": "fab66e4903f07c52633acff1ab1f54c8b5746a769078e8f8b5709d23af156614",
+  "title": "Coral Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b8e575a0-86ac-11e4-8c28-020000005b00",
+    "name": "Coral Creek Golf Course",
+    "address": "91-1111 Geiger Rd. Ewa Beach, HI",
+    "courses": [
+      {
+        "name": "Coral Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Purple",
+            "category": "MALE",
+            "yards": 6808,
+            "par": 72,
+            "rating": 73,
+            "slope": 135
+          },
+          {
+            "name": "Purple",
+            "category": "FEMALE",
+            "yards": 6808,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6347,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6347,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5912,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5912,
+            "par": 72,
+            "rating": 75,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4935,
+            "par": 72,
+            "rating": 64.5,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4935,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8e575a0-86ac-11e4-8c28-020000005b00/coral-creek"
+  }
+}

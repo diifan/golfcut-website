@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a65feb0-86ac-11e4-8c28-020000005b00/coharie-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a65feb0-86ac-11e4-8c28-020000005b00/coharie-country-club",
+  "checked_at": 1795664745.9319205,
+  "sha256": "fb739871bc5ae822b2714146b439154a60bd3405bab932274168270d1af6b83a",
+  "title": "Coharie Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9a65feb0-86ac-11e4-8c28-020000005b00",
+    "name": "Coharie Country Club",
+    "address": "101 Coharie Ln, Clinton, NC",
+    "courses": [
+      {
+        "name": "Coharie",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6534,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6249,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5349,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4907,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a65feb0-86ac-11e4-8c28-020000005b00/coharie-country-club"
+  }
+}

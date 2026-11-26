@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b9ef3e0-86ac-11e4-8c28-020000005b00/carroll-meadows-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b9ef3e0-86ac-11e4-8c28-020000005b00/carroll-meadows-golf-course",
+  "checked_at": 1795668319.9359615,
+  "sha256": "4b30af91cc018d4980c749813534429b4479f422e278031f9f58183c6c2cdd64",
+  "title": "Carroll Meadows Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9b9ef3e0-86ac-11e4-8c28-020000005b00",
+    "name": "Carroll Meadows Golf Course",
+    "address": "1130 Meadowbrook Ln NE, Carrollton, OH",
+    "courses": [
+      {
+        "name": "Carroll Meadows",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6366,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6366,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5909,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5909,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5445,
+            "par": 71,
+            "rating": 66,
+            "slope": 110
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5445,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4899,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4899,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b9ef3e0-86ac-11e4-8c28-020000005b00/carroll-meadows-golf-course"
+  }
+}

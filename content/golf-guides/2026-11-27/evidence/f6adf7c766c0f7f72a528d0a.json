@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8b647130-86ac-11e4-8c28-020000005b00/gilmer-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8b647130-86ac-11e4-8c28-020000005b00/gilmer-country-club",
+  "checked_at": 1795668358.0032742,
+  "sha256": "696843de9a63fc5d4e36b8face62c439e3137249fae4a5d2a322b60310564f61",
+  "title": "Gilmer Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8b647130-86ac-11e4-8c28-020000005b00",
+    "name": "Gilmer Country Club",
+    "address": "411 pr3200",
+    "courses": [
+      {
+        "name": "Gilmer",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Orange to Black",
+            "category": "MALE",
+            "yards": 5892,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 115
+          },
+          {
+            "name": "Orange to Black",
+            "category": "FEMALE",
+            "yards": 5892,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 128
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5297,
+            "par": 72,
+            "rating": 64.8,
+            "slope": 110
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5297,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 121
+          },
+          {
+            "name": "Pink",
+            "category": "MALE",
+            "yards": 4452,
+            "par": 72,
+            "rating": 64.8,
+            "slope": 110
+          },
+          {
+            "name": "Pink",
+            "category": "FEMALE",
+            "yards": 4452,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8b647130-86ac-11e4-8c28-020000005b00/gilmer-country-club"
+  }
+}

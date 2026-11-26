@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c383bf0-86ac-11e4-8c28-020000005b00/mustang-creek",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c383bf0-86ac-11e4-8c28-020000005b00/mustang-creek",
+  "checked_at": 1795668350.046075,
+  "sha256": "fa50e41cab299394e47b3c8517292099a7b89a3ad31a96c3e24dc6f4776bdfdb",
+  "title": "Mustang Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8c383bf0-86ac-11e4-8c28-020000005b00",
+    "name": "Mustang Creek Golf Course",
+    "address": "1100 Beech Street, Taylor, TX, USA",
+    "courses": [
+      {
+        "name": "Mustang Creek (18 Holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 5391,
+            "par": 70,
+            "rating": 66.8,
+            "slope": 121
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 5391,
+            "par": 70,
+            "rating": 73.4,
+            "slope": 124
+          },
+          {
+            "name": "Green/Red",
+            "category": "MALE",
+            "yards": 4530,
+            "par": 70,
+            "rating": 61.4,
+            "slope": 113
+          },
+          {
+            "name": "Green/Red",
+            "category": "FEMALE",
+            "yards": 4530,
+            "par": 70,
+            "rating": 66.2,
+            "slope": 115
+          },
+          {
+            "name": "Senior",
+            "category": "MALE",
+            "yards": 4518,
+            "par": 70,
+            "rating": 60.2,
+            "slope": 109
+          },
+          {
+            "name": "Senior",
+            "category": "FEMALE",
+            "yards": 4518,
+            "par": 70,
+            "rating": 63.2,
+            "slope": 111
+          }
+        ]
+      },
+      {
+        "name": "Mustang Creek (9 Holes) ",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 2635,
+            "par": 35,
+            "rating": 33,
+            "slope": 118
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 2635,
+            "par": 35,
+            "rating": 36.2,
+            "slope": 121
+          },
+          {
+            "name": "Green/Red",
+            "category": "MALE",
+            "yards": 2025,
+            "par": 35,
+            "rating": 30.7,
+            "slope": 113
+          },
+          {
+            "name": "Green/Red",
+            "category": "FEMALE",
+            "yards": 2025,
+            "par": 35,
+            "rating": 33.1,
+            "slope": 115
+          },
+          {
+            "name": "Senior",
+            "category": "MALE",
+            "yards": 2249,
+            "par": 35,
+            "rating": 30.1,
+            "slope": 109
+          },
+          {
+            "name": "Senior",
+            "category": "FEMALE",
+            "yards": 2249,
+            "par": 35,
+            "rating": 31.6,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c383bf0-86ac-11e4-8c28-020000005b00/mustang-creek"
+  }
+}

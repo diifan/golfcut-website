@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/2a9a9120-77dd-11e7-9a65-0680a328ea36/lebanon-pines-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/2a9a9120-77dd-11e7-9a65-0680a328ea36/lebanon-pines-golf-course",
+  "checked_at": 1795663902.593843,
+  "sha256": "9ad6d6df2dea0e758b53443489766a2a69fe0436d6d120631c66adcb14e445a0",
+  "title": "Lebanon Pines Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "2a9a9120-77dd-11e7-9a65-0680a328ea36",
+    "name": "Lebanon Pines Golf Course",
+    "address": "119 Center Road, Lebanon",
+    "courses": [
+      {
+        "name": "Lebanon Pines",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1489,
+            "par": 31,
+            "rating": 28.58506,
+            "slope": 87.32448
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1489,
+            "par": 31,
+            "rating": 28.58506,
+            "slope": 87.32448
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1378,
+            "par": 31,
+            "rating": 28.08112,
+            "slope": 85.29096
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1378,
+            "par": 31,
+            "rating": 28.08112,
+            "slope": 85.29096
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/2a9a9120-77dd-11e7-9a65-0680a328ea36/lebanon-pines-golf-course"
+  }
+}

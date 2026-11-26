@@ -19,8 +19,8 @@ class Tests(unittest.TestCase):
  def test_disabled(self):
   self.c['enabled']=False;self.assertEqual(due(self.c,self.t(23,0)),[])
  def test_year_rollover(self):self.assertIn(('prepare','2027-01-01'),due(self.c,datetime.datetime(2026,12,31,13,0)))
- def test_overnight_failure_prepares_before_cutoff_only(self):
-  for hour,minute,expected in [(9,0,True),(12,30,False)]:
+ def test_failed_preparation_recovers_before_and_after_cutoff(self):
+  for hour,minute,expected in [(9,0,True),(12,30,True)]:
    class Clock(datetime.datetime):
     @classmethod
     def now(cls,tz=None):return cls(2026,11,25,hour,minute,tzinfo=tz)
@@ -31,6 +31,11 @@ class Tests(unittest.TestCase):
      if expected:prepare.assert_called_once_with('2026-11-25')
      else:prepare.assert_not_called()
      stage.assert_not_called();publish.assert_not_called()
+ def test_failed_retry_recovers_unchanged_validated_batch(self):
+  import keyword_pages,release,prepare as prep
+  old={'input_kind':'semrush_keywords_v1','state':'failed','validated_count':2000,'commit':'built','worktree':'/fixture'}
+  with patch.object(keyword_pages,'read',return_value=old),patch.object(keyword_pages,'config',return_value=self.c),patch.object(release,'check_manifest',return_value=[]),patch.object(prep,'run',side_effect=['built','']),patch.object(keyword_pages,'load_candidates') as collect,patch.object(keyword_pages,'progress',return_value={'state':'validated'}) as progress:
+   self.assertEqual(keyword_pages.prepare_keywords('2026-11-25')['state'],'validated');collect.assert_not_called();progress.assert_called_once()
  def test_scope(self):
   self.assertIsNone(classify({'title':'Player interview after winning'}))
   self.assertIsNone(classify({'title':'Player sinks a 20-foot putt'}))

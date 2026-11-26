@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b49ef250-86ac-11e4-8c28-020000005b00/steve-hogan-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b49ef250-86ac-11e4-8c28-020000005b00/steve-hogan-golf-course",
+  "checked_at": 1795664683.030057,
+  "sha256": "e20c1ac3b5a1802e80793bf2ce640744f226c5d6009d6f9b0680e6b83e3e1589",
+  "title": "Steve Hogan Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b49ef250-86ac-11e4-8c28-020000005b00",
+    "name": "Steve Hogan Golf Course",
+    "address": "6315 N 30Th Street, Omaha",
+    "courses": [
+      {
+        "name": "Steve Hogan",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1337,
+            "par": 27,
+            "rating": 26.1,
+            "slope": 92
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1337,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1085,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1085,
+            "par": 27,
+            "rating": 22.5,
+            "slope": 96
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b49ef250-86ac-11e4-8c28-020000005b00/steve-hogan-golf-course"
+  }
+}

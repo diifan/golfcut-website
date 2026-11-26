@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6987860-86ac-11e4-8c28-020000005b00/montpelier-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6987860-86ac-11e4-8c28-020000005b00/montpelier-golf-course",
+  "checked_at": 1795664732.9882565,
+  "sha256": "b935934520d5e48ee742d836118fd2fb04495d192bd73c998c56a3c9a5d41720",
+  "title": "Montpelier Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6987860-86ac-11e4-8c28-020000005b00",
+    "name": "Montpelier Golf Course",
+    "address": "210 Boise St, Montpelier, ID",
+    "courses": [
+      {
+        "name": "Montpelier",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6654,
+            "par": 72,
+            "rating": 70,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6654,
+            "par": 72,
+            "rating": 77.3,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6120,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6120,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5224,
+            "par": 72,
+            "rating": 62.8,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5224,
+            "par": 72,
+            "rating": 68,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6987860-86ac-11e4-8c28-020000005b00/montpelier-golf-course"
+  }
+}

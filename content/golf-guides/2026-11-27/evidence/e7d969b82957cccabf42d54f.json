@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9bd19ca0-86ac-11e4-8c28-020000005b00/tartan-fields-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9bd19ca0-86ac-11e4-8c28-020000005b00/tartan-fields-golf-club",
+  "checked_at": 1795664741.772616,
+  "sha256": "85b957f810aa2fba49279379eb13c3ed22168f6bebeb23e28221144efbcd4e75",
+  "title": "Tartan Fields Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9bd19ca0-86ac-11e4-8c28-020000005b00",
+    "name": "Tartan Fields Golf Club",
+    "address": "8070 Tartan Fields Dr",
+    "courses": [
+      {
+        "name": "Tartan Fields",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7119,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 151
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6712,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 147
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6257,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 142
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5804,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 139
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5100,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9bd19ca0-86ac-11e4-8c28-020000005b00/tartan-fields-golf-club"
+  }
+}

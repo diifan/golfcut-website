@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ae926b0-86ac-11e4-8c28-020000005b00/lions-municipal",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ae926b0-86ac-11e4-8c28-020000005b00/lions-municipal",
+  "checked_at": 1795663880.5418334,
+  "sha256": "fa43fe8ce532a32a9f06b5ad40199caace0eb40e050de123ab7949d821bd8ed1",
+  "title": "Lions Municipal - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8ae926b0-86ac-11e4-8c28-020000005b00",
+    "name": "Lions Municipal",
+    "address": "2901 Enfield Rd, Austin, TX",
+    "courses": [
+      {
+        "name": "Lions Municipal",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6001,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6001,
+            "par": 71,
+            "rating": 73.8,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5642,
+            "par": 71,
+            "rating": 68,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5642,
+            "par": 71,
+            "rating": 73.5,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4931,
+            "par": 71,
+            "rating": 64.9,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4931,
+            "par": 71,
+            "rating": 69.3,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ae926b0-86ac-11e4-8c28-020000005b00/lions-municipal"
+  }
+}

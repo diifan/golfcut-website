@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afdc1310-86ac-11e4-8c28-020000005b00/sly-fox-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afdc1310-86ac-11e4-8c28-020000005b00/sly-fox-golf-club",
+  "checked_at": 1795663876.0932572,
+  "sha256": "e5e92ce872689d144590c68767e893eba492ef6dfd0ebe829886ceda6459f7c0",
+  "title": "Sly Fox Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "afdc1310-86ac-11e4-8c28-020000005b00",
+    "name": "Sly Fox Golf Club",
+    "address": "65 Jackson Chase Drive, Middletown VA",
+    "courses": [
+      {
+        "name": "Sly Fox GC",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6361,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6361,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5888,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5888,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4969,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4969,
+            "par": 72,
+            "rating": 69,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4565,
+            "par": 72,
+            "rating": 63.1,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4565,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afdc1310-86ac-11e4-8c28-020000005b00/sly-fox-golf-club"
+  }
+}

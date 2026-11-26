@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b8eee50-86ac-11e4-8c28-020000005b00/bluffton-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b8eee50-86ac-11e4-8c28-020000005b00/bluffton-golf-club",
+  "checked_at": 1795664730.154395,
+  "sha256": "dbd45f0324d0dbcd4eb5e6997a56e4d52e83dce12a88b7ec81e92b15af8f6f8c",
+  "title": "Bluffton Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9b8eee50-86ac-11e4-8c28-020000005b00",
+    "name": "Bluffton Golf Club",
+    "address": "8575 N Dixie Hwy",
+    "courses": [
+      {
+        "name": "Bluffton",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6668,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6183,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5670,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5039,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b8eee50-86ac-11e4-8c28-020000005b00/bluffton-golf-club"
+  }
+}

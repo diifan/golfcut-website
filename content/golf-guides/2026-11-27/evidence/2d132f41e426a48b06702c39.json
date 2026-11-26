@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/91890350-86ac-11e4-8c28-020000005b00/gunters-landing",
+  "resolved_url": "https://18birdies.com/golf-courses/club/91890350-86ac-11e4-8c28-020000005b00/gunters-landing",
+  "checked_at": 1795663911.3635216,
+  "sha256": "a06524eead48ffe36bdee01b0c14ccbc3d2488f790f4e4aa4eeae84820ebc27d",
+  "title": "Gunter's Landing - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "91890350-86ac-11e4-8c28-020000005b00",
+    "name": "Gunter's Landing",
+    "address": "1000 Gunter's Landing Rd",
+    "courses": [
+      {
+        "name": "Gunter's Landing",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6863,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 140
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6419,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5922,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5259,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/91890350-86ac-11e4-8c28-020000005b00/gunters-landing"
+  }
+}

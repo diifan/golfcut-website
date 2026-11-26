@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/88c81b70-86ac-11e4-8c28-020000005b00/bell-gardens-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/88c81b70-86ac-11e4-8c28-020000005b00/bell-gardens-golf-course",
+  "checked_at": 1795661418.7907884,
+  "sha256": "06b537d7a084b8d582d64054a4c5ad4ae4883710a5c9ff7d0107ffb7855fb7aa",
+  "title": "Bell Gardens Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "88c81b70-86ac-11e4-8c28-020000005b00",
+    "name": "Bell Gardens Golf Course",
+    "address": "8000 Park Ln, Bell Gardens, CA",
+    "courses": [
+      {
+        "name": "Ford Park",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1017,
+            "par": 27,
+            "rating": 26.44218,
+            "slope": 78.67744
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1017,
+            "par": 27,
+            "rating": 26.44218,
+            "slope": 78.67744
+          },
+          {
+            "name": "Default",
+            "category": "MALE",
+            "yards": 959,
+            "par": 27,
+            "rating": 26.17886,
+            "slope": 77.61488
+          },
+          {
+            "name": "Default",
+            "category": "FEMALE",
+            "yards": 959,
+            "par": 27,
+            "rating": 26.17886,
+            "slope": 77.61488
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/88c81b70-86ac-11e4-8c28-020000005b00/bell-gardens-golf-course"
+  }
+}

@@ -1,0 +1,819 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2bac900-86ac-11e4-8c28-020000005b00/birchwood-farms-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2bac900-86ac-11e4-8c28-020000005b00/birchwood-farms-golf-country-club",
+  "checked_at": 1795661428.8057196,
+  "sha256": "745ec9f59b44c0351f10c9c0323c6c9c7e0b41c9ad12d473b1f9d082aa2dd8f7",
+  "title": "Birchwood Farms Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b2bac900-86ac-11e4-8c28-020000005b00",
+    "name": "Birchwood Farms Golf & Country Club",
+    "address": "600 Birchwood Drive",
+    "courses": [
+      {
+        "name": "Birchwood Farms (Birches/Woods)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6769,
+            "par": 72,
+            "rating": 73,
+            "slope": 138
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6769,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6343,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6343,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 5980,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 127
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 5980,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5648,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5648,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 132
+          },
+          {
+            "name": "White/Yellow",
+            "category": "MALE",
+            "yards": 5382,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 117
+          },
+          {
+            "name": "White/Yellow",
+            "category": "FEMALE",
+            "yards": 5382,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 127
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5024,
+            "par": 72,
+            "rating": 64.3,
+            "slope": 116
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5024,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 122
+          },
+          {
+            "name": "Yellow/Silver",
+            "category": "MALE",
+            "yards": 4654,
+            "par": 72,
+            "rating": 62.7,
+            "slope": 115
+          },
+          {
+            "name": "Yellow/Silver",
+            "category": "FEMALE",
+            "yards": 4654,
+            "par": 72,
+            "rating": 67,
+            "slope": 121
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 4335,
+            "par": 72,
+            "rating": 61.8,
+            "slope": 111
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 4335,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 116
+          }
+        ]
+      },
+      {
+        "name": "Birchwood Farms (Farms/Birches)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6741,
+            "par": 73,
+            "rating": 72.8,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6741,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6317,
+            "par": 73,
+            "rating": 70.7,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6317,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 6072,
+            "par": 73,
+            "rating": 69.6,
+            "slope": 128
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 6072,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5793,
+            "par": 73,
+            "rating": 68.4,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5793,
+            "par": 73,
+            "rating": 73.7,
+            "slope": 132
+          },
+          {
+            "name": "White/Yellow",
+            "category": "MALE",
+            "yards": 5523,
+            "par": 73,
+            "rating": 66.8,
+            "slope": 118
+          },
+          {
+            "name": "White/Yellow",
+            "category": "FEMALE",
+            "yards": 5523,
+            "par": 73,
+            "rating": 72.1,
+            "slope": 126
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5247,
+            "par": 73,
+            "rating": 65.1,
+            "slope": 115
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5247,
+            "par": 73,
+            "rating": 70.6,
+            "slope": 122
+          },
+          {
+            "name": "Yellow/Silver",
+            "category": "MALE",
+            "yards": 4765,
+            "par": 73,
+            "rating": 63,
+            "slope": 112
+          },
+          {
+            "name": "Yellow/Silver",
+            "category": "FEMALE",
+            "yards": 4765,
+            "par": 73,
+            "rating": 67.5,
+            "slope": 120
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 4414,
+            "par": 73,
+            "rating": 61.9,
+            "slope": 108
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 4414,
+            "par": 73,
+            "rating": 65.5,
+            "slope": 116
+          }
+        ]
+      },
+      {
+        "name": "Birchwood Farms (Woods/Farms)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6868,
+            "par": 73,
+            "rating": 73.2,
+            "slope": 136
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6868,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6404,
+            "par": 73,
+            "rating": 71.2,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6404,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 6072,
+            "par": 73,
+            "rating": 69.6,
+            "slope": 127
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 6072,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5727,
+            "par": 73,
+            "rating": 67.9,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5727,
+            "par": 73,
+            "rating": 73.1,
+            "slope": 131
+          },
+          {
+            "name": "White/Yellow",
+            "category": "MALE",
+            "yards": 5479,
+            "par": 73,
+            "rating": 66.8,
+            "slope": 118
+          },
+          {
+            "name": "White/Yellow",
+            "category": "FEMALE",
+            "yards": 5479,
+            "par": 73,
+            "rating": 71.5,
+            "slope": 129
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5159,
+            "par": 73,
+            "rating": 64.8,
+            "slope": 115
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5159,
+            "par": 73,
+            "rating": 70.1,
+            "slope": 124
+          },
+          {
+            "name": "Yellow/Silver",
+            "category": "MALE",
+            "yards": 4693,
+            "par": 73,
+            "rating": 62.7,
+            "slope": 112
+          },
+          {
+            "name": "Yellow/Silver",
+            "category": "FEMALE",
+            "yards": 4693,
+            "par": 73,
+            "rating": 67.1,
+            "slope": 121
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 4329,
+            "par": 73,
+            "rating": 61.7,
+            "slope": 108
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 4329,
+            "par": 73,
+            "rating": 65,
+            "slope": 115
+          }
+        ]
+      },
+      {
+        "name": "Birches 9",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 3321,
+            "par": 36,
+            "rating": 36.3,
+            "slope": 139
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 3321,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3128,
+            "par": 36,
+            "rating": 35.3,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3128,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 2990,
+            "par": 36,
+            "rating": 34.7,
+            "slope": 128
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 2990,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2857,
+            "par": 36,
+            "rating": 34.1,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2857,
+            "par": 36,
+            "rating": 36.7,
+            "slope": 133
+          },
+          {
+            "name": "White/Yellow",
+            "category": "MALE",
+            "yards": 2713,
+            "par": 36,
+            "rating": 33.2,
+            "slope": 117
+          },
+          {
+            "name": "White/Yellow",
+            "category": "FEMALE",
+            "yards": 2713,
+            "par": 36,
+            "rating": 36,
+            "slope": 124
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 2556,
+            "par": 36,
+            "rating": 32.3,
+            "slope": 116
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 2556,
+            "par": 36,
+            "rating": 35.1,
+            "slope": 120
+          },
+          {
+            "name": "Yellow/Silver",
+            "category": "MALE",
+            "yards": 2363,
+            "par": 36,
+            "rating": 31.5,
+            "slope": 114
+          },
+          {
+            "name": "Yellow/Silver",
+            "category": "FEMALE",
+            "yards": 2363,
+            "par": 36,
+            "rating": 33.7,
+            "slope": 120
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 2210,
+            "par": 36,
+            "rating": 31,
+            "slope": 111
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 2210,
+            "par": 36,
+            "rating": 32.8,
+            "slope": 117
+          }
+        ]
+      },
+      {
+        "name": "Woods 9",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 3448,
+            "par": 36,
+            "rating": 36.7,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 3448,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3215,
+            "par": 36,
+            "rating": 35.8,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3215,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 2990,
+            "par": 36,
+            "rating": 34.7,
+            "slope": 125
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 2990,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2791,
+            "par": 36,
+            "rating": 33.6,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2791,
+            "par": 36,
+            "rating": 36.1,
+            "slope": 130
+          },
+          {
+            "name": "White/Yellow",
+            "category": "MALE",
+            "yards": 2669,
+            "par": 36,
+            "rating": 33.2,
+            "slope": 116
+          },
+          {
+            "name": "White/Yellow",
+            "category": "FEMALE",
+            "yards": 2669,
+            "par": 36,
+            "rating": 35.4,
+            "slope": 129
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 2468,
+            "par": 36,
+            "rating": 32,
+            "slope": 116
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 2468,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 123
+          },
+          {
+            "name": "Yellow/Silver",
+            "category": "MALE",
+            "yards": 2291,
+            "par": 36,
+            "rating": 31.2,
+            "slope": 115
+          },
+          {
+            "name": "Yellow/Silver",
+            "category": "FEMALE",
+            "yards": 2291,
+            "par": 36,
+            "rating": 33.3,
+            "slope": 121
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 2125,
+            "par": 36,
+            "rating": 30.8,
+            "slope": 111
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 2125,
+            "par": 36,
+            "rating": 32.3,
+            "slope": 114
+          }
+        ]
+      },
+      {
+        "name": "Farms 9",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 3420,
+            "par": 37,
+            "rating": 36.5,
+            "slope": 134
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 3420,
+            "par": 37,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3189,
+            "par": 37,
+            "rating": 35.4,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3189,
+            "par": 37,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 3082,
+            "par": 37,
+            "rating": 34.9,
+            "slope": 128
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 3082,
+            "par": 37,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2936,
+            "par": 37,
+            "rating": 34.3,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2936,
+            "par": 37,
+            "rating": 37,
+            "slope": 131
+          },
+          {
+            "name": "White/Yellow",
+            "category": "MALE",
+            "yards": 2810,
+            "par": 37,
+            "rating": 33.6,
+            "slope": 119
+          },
+          {
+            "name": "White/Yellow",
+            "category": "FEMALE",
+            "yards": 2810,
+            "par": 37,
+            "rating": 36.1,
+            "slope": 128
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 2691,
+            "par": 37,
+            "rating": 32.8,
+            "slope": 114
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 2691,
+            "par": 37,
+            "rating": 35.5,
+            "slope": 124
+          },
+          {
+            "name": "Yellow/Silver",
+            "category": "MALE",
+            "yards": 2402,
+            "par": 37,
+            "rating": 31.5,
+            "slope": 109
+          },
+          {
+            "name": "Yellow/Silver",
+            "category": "FEMALE",
+            "yards": 2402,
+            "par": 37,
+            "rating": 33.8,
+            "slope": 120
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 2204,
+            "par": 37,
+            "rating": 30.9,
+            "slope": 105
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 2204,
+            "par": 37,
+            "rating": 32.7,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2bac900-86ac-11e4-8c28-020000005b00/birchwood-farms-golf-country-club"
+  }
+}

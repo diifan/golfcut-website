@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b35cae50-86ac-11e4-8c28-020000005b00/burr-oak-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b35cae50-86ac-11e4-8c28-020000005b00/burr-oak-golf-club",
+  "checked_at": 1795664697.8970497,
+  "sha256": "be236e76acdbd74cf21222bb819e742890f891b81b48b1d08a2c135aad6eb313",
+  "title": "Burr Oak Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b35cae50-86ac-11e4-8c28-020000005b00",
+    "name": "Burr Oak Golf Club",
+    "address": "3491 N Parma Road, Parma, MI",
+    "courses": [
+      {
+        "name": "Burr Oak",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6359,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5940,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5023,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b35cae50-86ac-11e4-8c28-020000005b00/burr-oak-golf-club"
+  }
+}

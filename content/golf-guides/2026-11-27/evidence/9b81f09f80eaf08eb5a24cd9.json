@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ae0fb10-86ac-11e4-8c28-020000005b00/mt-airy-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ae0fb10-86ac-11e4-8c28-020000005b00/mt-airy-country-club",
+  "checked_at": 1795668296.4967704,
+  "sha256": "36344c9966643f8b6bcf59f63c2817d0fa0af168a6970773fb2b388b638c4a9a",
+  "title": "Mt Airy Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9ae0fb10-86ac-11e4-8c28-020000005b00",
+    "name": "Mt Airy Country Club",
+    "address": "420 Country Club Rd, Mount Airy, NC",
+    "courses": [
+      {
+        "name": "Mount Airy",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White to Blue",
+            "category": "MALE",
+            "yards": 6275,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 124
+          },
+          {
+            "name": "Yellow to Red",
+            "category": "MALE",
+            "yards": 6079,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ae0fb10-86ac-11e4-8c28-020000005b00/mt-airy-country-club"
+  }
+}

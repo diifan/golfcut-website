@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96b552c0-86ac-11e4-8c28-020000005b00/north-links-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96b552c0-86ac-11e4-8c28-020000005b00/north-links-golf-course",
+  "checked_at": 1795666523.2063968,
+  "sha256": "2fb440604f3b6661644eb119212dab22794e33801cbbe66434756cb954aa6b3f",
+  "title": "North Links Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96b552c0-86ac-11e4-8c28-020000005b00",
+    "name": "North Links Golf Course",
+    "address": "41553 520th Street",
+    "courses": [
+      {
+        "name": "North Links",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6133,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5690,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 119
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5101,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4682,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96b552c0-86ac-11e4-8c28-020000005b00/north-links-golf-course"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5c5bf10-86ac-11e4-8c28-020000005b00/lake-hallie-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5c5bf10-86ac-11e4-8c28-020000005b00/lake-hallie-golf",
+  "checked_at": 1795666540.485485,
+  "sha256": "17ca270b2588f9926df8ad758c4c54a4b5f8c839da8d73cfc6d02be85aea85a1",
+  "title": "Lake Hallie Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b5c5bf10-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Hallie Golf",
+    "address": "2196 110th St Lake Hallie, WI 54729",
+    "courses": [
+      {
+        "name": "Lake Hallie",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5806,
+            "par": 70,
+            "rating": 68,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5330,
+            "par": 70,
+            "rating": 66,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4565,
+            "par": 70,
+            "rating": 65.7,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5c5bf10-86ac-11e4-8c28-020000005b00/lake-hallie-golf"
+  }
+}

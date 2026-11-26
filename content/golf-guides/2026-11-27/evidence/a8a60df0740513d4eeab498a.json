@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/aeadcc40-86ac-11e4-8c28-020000005b00/sutton-bay-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/aeadcc40-86ac-11e4-8c28-020000005b00/sutton-bay-golf-course",
+  "checked_at": 1795664687.8187742,
+  "sha256": "47dcb0506813155cbc0486f868bc45c815e9e2e669a52454aeae63224d1dc686",
+  "title": "Sutton Bay Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "aeadcc40-86ac-11e4-8c28-020000005b00",
+    "name": "Sutton Bay Golf Course",
+    "address": "28950 Sutton Bay Rd, Agar, SD",
+    "courses": [
+      {
+        "name": "Sutton Bay",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Skull",
+            "category": "MALE",
+            "yards": 7287,
+            "par": 72,
+            "rating": 75,
+            "slope": 132
+          },
+          {
+            "name": "Skull",
+            "category": "FEMALE",
+            "yards": 7287,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Rattlesnake",
+            "category": "MALE",
+            "yards": 6672,
+            "par": 72,
+            "rating": 72,
+            "slope": 128
+          },
+          {
+            "name": "Rattlesnake",
+            "category": "FEMALE",
+            "yards": 6672,
+            "par": 72,
+            "rating": 77.4,
+            "slope": 137
+          },
+          {
+            "name": "Combo",
+            "category": "MALE",
+            "yards": 6118,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 127
+          },
+          {
+            "name": "Combo",
+            "category": "FEMALE",
+            "yards": 6118,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 131
+          },
+          {
+            "name": "Sutton",
+            "category": "MALE",
+            "yards": 5492,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 124
+          },
+          {
+            "name": "Sutton",
+            "category": "FEMALE",
+            "yards": 5492,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/aeadcc40-86ac-11e4-8c28-020000005b00/sutton-bay-golf-course"
+  }
+}

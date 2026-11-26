@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2b01aa0-86ac-11e4-8c28-020000005b00/greenbush-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2b01aa0-86ac-11e4-8c28-020000005b00/greenbush-golf-course",
+  "checked_at": 1795583775.0737922,
+  "sha256": "34520a8170cc078f36062baa1983c574113b63e9dad1e4ca487a3847abc850e4",
+  "title": "Greenbush Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b2b01aa0-86ac-11e4-8c28-020000005b00",
+    "name": "Greenbush Golf Course",
+    "address": "1981 S US Highway 23",
+    "courses": [
+      {
+        "name": "Greenbush (9 holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2505,
+            "par": 34,
+            "rating": 33.9,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2082,
+            "par": 34,
+            "rating": 31.9,
+            "slope": 101
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2b01aa0-86ac-11e4-8c28-020000005b00/greenbush-golf-course"
+  }
+}

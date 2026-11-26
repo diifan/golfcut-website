@@ -76,7 +76,16 @@ def build_batch(day,selected,work,target,fixture=False):
 def prepare_keywords(day):
  from prepare import run
  old=read(HOME/(day+'-receipt.json'),{})
- if old.get('input_kind')=='semrush_keywords_v1' and old.get('state') in ['validated','ready','published']:return old
+ if old.get('input_kind')=='semrush_keywords_v1' and old.get('state')=='published':return old
+ # Resume the immutable built batch even if a later attempt changed its state.
+ if old.get('input_kind')=='semrush_keywords_v1' and old.get('validated_count')==config()['target'] and old.get('commit'):
+  from release import check_manifest
+  check_manifest(old)
+  work=Path(old['worktree'])
+  if run(['git','rev-parse','HEAD'],work)!=old['commit'] or run(['git','status','--porcelain','--untracked-files=no'],work):
+   raise RuntimeError('Validated batch worktree changed; preserve for reconciliation')
+  if old.get('state') in ['validated','ready']:return old
+  return progress(day,state='validated',blockers=[],recovered_from_state=old.get('state'))
  target=config()['target'];stored=read(HOME/'semrush-keyword-state.json',{})
  reserved_existing=[v for v in stored.values() if v.get('batch')==day and v.get('status')=='reserved']
  try:pool=stored if len(reserved_existing)==target else load_candidates(day)

@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d6d7250-86ac-11e4-8c28-020000005b00/mt-hope-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d6d7250-86ac-11e4-8c28-020000005b00/mt-hope-golf-course",
+  "checked_at": 1795664700.2329063,
+  "sha256": "0fec88fb75ded584e3f733d67819fe15f06624008b75080e37bd211887b720f7",
+  "title": "Mt. Hope Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d6d7250-86ac-11e4-8c28-020000005b00",
+    "name": "Mt. Hope Golf Course",
+    "address": "29790 Highway 27, Guys Mill, PA",
+    "courses": [
+      {
+        "name": "Mt. Hope",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6807,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 124
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6302,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 118
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5356,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d6d7250-86ac-11e4-8c28-020000005b00/mt-hope-golf-course"
+  }
+}

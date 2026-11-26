@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c767d70-86ac-11e4-8c28-020000005b00/palacios-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c767d70-86ac-11e4-8c28-020000005b00/palacios-golf-course",
+  "checked_at": 1795661405.0965533,
+  "sha256": "ec5df25e7494b8d8a382403afd2f026e110bccce5da451947d53e072a900288d",
+  "title": "Palacios Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8c767d70-86ac-11e4-8c28-020000005b00",
+    "name": "Palacios Golf Course",
+    "address": "Hwy 35 & Airport Rd, Palacios, TX",
+    "courses": [
+      {
+        "name": "Palacios",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 3279,
+            "par": 36,
+            "rating": 35.3,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3187,
+            "par": 36,
+            "rating": 34.8,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3088,
+            "par": 36,
+            "rating": 33.2,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2650,
+            "par": 36,
+            "rating": 34.5,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c767d70-86ac-11e4-8c28-020000005b00/palacios-golf-course"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/93bb73b0-86ac-11e4-8c28-020000005b00/cherokee-pines",
+  "resolved_url": "https://18birdies.com/golf-courses/club/93bb73b0-86ac-11e4-8c28-020000005b00/cherokee-pines",
+  "checked_at": 1795663916.0582852,
+  "sha256": "7fc990a7ce284bd2fa33dd8a5d2fc881e365411f4be8a382012bd4de0b6bfb9c",
+  "title": "[Closed] Cherokee Pines - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "93bb73b0-86ac-11e4-8c28-020000005b00",
+    "name": "[Closed] Cherokee Pines",
+    "address": "1000 N Davis Dr, Perry, GA",
+    "courses": [
+      {
+        "name": "Perry",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6465,
+            "par": 71,
+            "rating": 70.5,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6148,
+            "par": 71,
+            "rating": 72.9,
+            "slope": 125
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5313,
+            "par": 71,
+            "rating": 65,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/93bb73b0-86ac-11e4-8c28-020000005b00/cherokee-pines"
+  }
+}

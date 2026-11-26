@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8339fcf0-86ac-11e4-8c28-020000005b00/dwight-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8339fcf0-86ac-11e4-8c28-020000005b00/dwight-country-club",
+  "checked_at": 1795664698.6673093,
+  "sha256": "d64066b499b0841270e950cc24f7d93ae1bf106653952a9be5d538852cccfe0c",
+  "title": "Dwight Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8339fcf0-86ac-11e4-8c28-020000005b00",
+    "name": "Dwight Country Club",
+    "address": "31577 N 2400 E Road, Dwight, IL",
+    "courses": [
+      {
+        "name": "Dwight",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6306,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 121
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 6306,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6056,
+            "par": 71,
+            "rating": 68.5,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6056,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5056,
+            "par": 71,
+            "rating": 68,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5056,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8339fcf0-86ac-11e4-8c28-020000005b00/dwight-country-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/94cdce10-86ac-11e4-8c28-020000005b00/river-downs-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/94cdce10-86ac-11e4-8c28-020000005b00/river-downs-golf-club",
+  "checked_at": 1795669245.4496965,
+  "sha256": "05aaf92f4f070d6bdd2409b31e6efea28d7e606630c54b953c293ead6fa471d0",
+  "title": "River Downs Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "94cdce10-86ac-11e4-8c28-020000005b00",
+    "name": "River Downs Golf Club",
+    "address": "1900 River Downs Drive",
+    "courses": [
+      {
+        "name": "River Downs",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6723,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6269,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5813,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4944,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/94cdce10-86ac-11e4-8c28-020000005b00/river-downs-golf-club"
+  }
+}

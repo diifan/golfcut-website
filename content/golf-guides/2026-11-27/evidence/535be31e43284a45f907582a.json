@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/888c4af0-86ac-11e4-8c28-020000005b00/bonita-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/888c4af0-86ac-11e4-8c28-020000005b00/bonita-golf-course",
+  "checked_at": 1795666546.400085,
+  "sha256": "d5692f06d1ffa8147342fcf82484cec1b13fb618721bd2b3e1de5db4b512bc32",
+  "title": "Bonita Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "888c4af0-86ac-11e4-8c28-020000005b00",
+    "name": "Bonita Golf Course",
+    "address": "5540 Sweetwater Road, Bonita, CA",
+    "courses": [
+      {
+        "name": "Bonita",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6200,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 118
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6200,
+            "par": 71,
+            "rating": 75.4,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5797,
+            "par": 71,
+            "rating": 67.4,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5797,
+            "par": 71,
+            "rating": 73,
+            "slope": 126
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5393,
+            "par": 71,
+            "rating": 65.3,
+            "slope": 108
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5393,
+            "par": 71,
+            "rating": 70.6,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/888c4af0-86ac-11e4-8c28-020000005b00/bonita-golf-course"
+  }
+}

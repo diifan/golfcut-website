@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/dbf825c0-b0de-11e6-9239-0680a328ea36/sun-city-south-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/dbf825c0-b0de-11e6-9239-0680a328ea36/sun-city-south-golf-course",
+  "checked_at": 1795664739.022836,
+  "sha256": "0007f21456213d23c6b6b6a410a68f15693d81fc8797ee5c4240b2b326a1255b",
+  "title": "Sun City South Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "dbf825c0-b0de-11e6-9239-0680a328ea36",
+    "name": "Sun City South Golf Course",
+    "address": "11000 N 103rd Ave, Sun City, AZ",
+    "courses": [
+      {
+        "name": "Sun City South Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6811,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6433,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6025,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5527,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 107
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5235,
+            "par": 72,
+            "rating": 63.6,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/dbf825c0-b0de-11e6-9239-0680a328ea36/sun-city-south-golf-course"
+  }
+}

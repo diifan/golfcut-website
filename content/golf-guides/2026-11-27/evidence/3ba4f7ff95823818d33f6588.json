@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9869b980-86ac-11e4-8c28-020000005b00/brookville-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9869b980-86ac-11e4-8c28-020000005b00/brookville-country-club",
+  "checked_at": 1795524521.3196287,
+  "sha256": "10e1b25369471ae6461b06a15cb1096358a4a348f7d02ad8c57c14374a1898f0",
+  "title": "Brookville Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9869b980-86ac-11e4-8c28-020000005b00",
+    "name": "Brookville Country Club",
+    "address": "210 Chicken Valley Road, Glen Head, NY",
+    "courses": [
+      {
+        "name": "Brookeville Country Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6625,
+            "par": 71,
+            "rating": 71.5,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6308,
+            "par": 71,
+            "rating": 70.1,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6042,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 126
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5570,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9869b980-86ac-11e4-8c28-020000005b00/brookville-country-club"
+  }
+}

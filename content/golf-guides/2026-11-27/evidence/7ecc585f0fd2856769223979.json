@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d441860-86ac-11e4-8c28-020000005b00/knoebels-three-ponds-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d441860-86ac-11e4-8c28-020000005b00/knoebels-three-ponds-golf-course",
+  "checked_at": 1795524674.5122268,
+  "sha256": "8912f3a76163c03e8193e39dca81b93b841c7a03be2af6270e83b2d6e747f694",
+  "title": "Knoebels Three Ponds Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d441860-86ac-11e4-8c28-020000005b00",
+    "name": "Knoebels Three Ponds Golf Course",
+    "address": "954 PA-487",
+    "courses": [
+      {
+        "name": "Three Ponds",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6247,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5720,
+            "par": 71,
+            "rating": 67.9,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5204,
+            "par": 71,
+            "rating": 66.5,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4769,
+            "par": 71,
+            "rating": 66.6,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d441860-86ac-11e4-8c28-020000005b00/knoebels-three-ponds-golf-course"
+  }
+}

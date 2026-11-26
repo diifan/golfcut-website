@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4933280-86ac-11e4-8c28-020000005b00/prairie-hills-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4933280-86ac-11e4-8c28-020000005b00/prairie-hills-golf-course",
+  "checked_at": 1795583805.1712673,
+  "sha256": "18b30253a2295f9286d820a394ecdf1024db436b05ef3db58a23135e83864eab",
+  "title": "Prairie Hills Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b4933280-86ac-11e4-8c28-020000005b00",
+    "name": "Prairie Hills Golf Course",
+    "address": "21117 Hwy 10, Pleasanton, NE",
+    "courses": [
+      {
+        "name": "Prairie Hills",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2982,
+            "par": 36,
+            "rating": 36.4,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2756,
+            "par": 36,
+            "rating": 35.2,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2300,
+            "par": 36,
+            "rating": 32.9,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4933280-86ac-11e4-8c28-020000005b00/prairie-hills-golf-course"
+  }
+}

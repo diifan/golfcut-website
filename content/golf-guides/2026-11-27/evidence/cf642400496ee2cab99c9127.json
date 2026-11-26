@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/c96a4a60-3983-11ef-afe4-06780482e2ce/holly-meadows-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/c96a4a60-3983-11ef-afe4-06780482e2ce/holly-meadows-golf-course",
+  "checked_at": 1795666510.0333526,
+  "sha256": "52b5499667178750d3f54d45f4a9efdd56c4f5133f4e10cb517ec163656c5b3d",
+  "title": "Holly Meadows Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star-o star star star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "c96a4a60-3983-11ef-afe4-06780482e2ce",
+    "name": "Holly Meadows Golf Course",
+    "address": "1155 County Farm Rd, Parsons, WV",
+    "courses": [
+      {
+        "name": "Holly Meadows",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5994,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5994,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5666,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5666,
+            "par": 72,
+            "rating": 72,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/c96a4a60-3983-11ef-afe4-06780482e2ce/holly-meadows-golf-course"
+  }
+}

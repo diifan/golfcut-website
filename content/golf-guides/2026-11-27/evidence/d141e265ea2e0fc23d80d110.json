@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9cbfa620-86ac-11e4-8c28-020000005b00/hilliard-lakes",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9cbfa620-86ac-11e4-8c28-020000005b00/hilliard-lakes",
+  "checked_at": 1795663880.1200504,
+  "sha256": "8429750ba471cb4715bf20a24a8d35210f64bcf365c685a617f360bbd6f907b4",
+  "title": "Hilliard Lakes - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9cbfa620-86ac-11e4-8c28-020000005b00",
+    "name": "Hilliard Lakes",
+    "address": "31665 Hilliard Rd, Westlake, OH",
+    "courses": [
+      {
+        "name": "Hilliard Lakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6985,
+            "par": 72,
+            "rating": 70,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6389,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5915,
+            "par": 72,
+            "rating": 62.5,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5611,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9cbfa620-86ac-11e4-8c28-020000005b00/hilliard-lakes"
+  }
+}

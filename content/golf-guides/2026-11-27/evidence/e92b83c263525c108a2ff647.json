@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9bcdcc10-86ac-11e4-8c28-020000005b00/delphos-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9bcdcc10-86ac-11e4-8c28-020000005b00/delphos-country-club",
+  "checked_at": 1795664739.7693508,
+  "sha256": "d043312290bfbdf54212a6c6f532a8efb9824e78eabbc833b9797fffaba6cfbf",
+  "title": "Delphos Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9bcdcc10-86ac-11e4-8c28-020000005b00",
+    "name": "Delphos Country Club",
+    "address": "7055 Shenk Rd",
+    "courses": [
+      {
+        "name": "Delphos",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6604,
+            "par": 71,
+            "rating": 71.1,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6264,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5712,
+            "par": 71,
+            "rating": 67,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4949,
+            "par": 71,
+            "rating": 67.5,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9bcdcc10-86ac-11e4-8c28-020000005b00/delphos-country-club"
+  }
+}

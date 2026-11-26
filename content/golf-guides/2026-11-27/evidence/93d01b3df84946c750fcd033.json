@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b16c01e0-86ac-11e4-8c28-020000005b00/la-tour-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b16c01e0-86ac-11e4-8c28-020000005b00/la-tour-golf-club",
+  "checked_at": 1795663504.650535,
+  "sha256": "f1a6470cb38678492e8136e2f60a0eb51708c3cd2d9cc604d47070e387c59a62",
+  "title": "LaTour Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b16c01e0-86ac-11e4-8c28-020000005b00",
+    "name": "LaTour Golf Club",
+    "address": "300 La Tour Blvd, Mathews, LA",
+    "courses": [
+      {
+        "name": "LaTour",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7170,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 129
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7170,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6672,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6672,
+            "par": 72,
+            "rating": 77.4,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6084,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6084,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5656,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5656,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b16c01e0-86ac-11e4-8c28-020000005b00/la-tour-golf-club"
+  }
+}

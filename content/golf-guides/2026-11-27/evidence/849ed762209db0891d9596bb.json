@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83f0f0e0-86ac-11e4-8c28-020000005b00/cedar-crest-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83f0f0e0-86ac-11e4-8c28-020000005b00/cedar-crest-country-club",
+  "checked_at": 1795669236.8657033,
+  "sha256": "0a3562eddb5cc6c518c40f5f3070cf6d470d97b83488383ca9e6344afc8f9225",
+  "title": "Cedar Crest Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "83f0f0e0-86ac-11e4-8c28-020000005b00",
+    "name": "Cedar Crest Country Club",
+    "address": "3312 N 36th St, Quincy, IL",
+    "courses": [
+      {
+        "name": "Cedar Crest  18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 6003,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 110
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 6003,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4922,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4922,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 103
+          }
+        ]
+      },
+      {
+        "name": "Cedar Crest  9 Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 2815,
+            "par": 35,
+            "rating": 35,
+            "slope": 111
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 2815,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2570,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2570,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83f0f0e0-86ac-11e4-8c28-020000005b00/cedar-crest-country-club"
+  }
+}

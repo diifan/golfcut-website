@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b67252c0-86ac-11e4-8c28-020000005b00/buncombe-creek",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b67252c0-86ac-11e4-8c28-020000005b00/buncombe-creek",
+  "checked_at": 1795663886.1863601,
+  "sha256": "1c3a187345e25aa6f7647f59f10232fb97c5e88010da7692801761a6905bbe3e",
+  "title": "Buncombe Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b67252c0-86ac-11e4-8c28-020000005b00",
+    "name": "Buncombe Creek Golf Course",
+    "address": "16405 Brumley Drive",
+    "courses": [
+      {
+        "name": "Buncombe Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6048,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6048,
+            "par": 72,
+            "rating": 37.5,
+            "slope": 121
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 6048,
+            "par": 72,
+            "rating": 34.6,
+            "slope": 112
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 6048,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5524,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5524,
+            "par": 72,
+            "rating": 35.8,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5006,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5006,
+            "par": 72,
+            "rating": 34.5,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b67252c0-86ac-11e4-8c28-020000005b00/buncombe-creek"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/c52a1d50-39a8-11e7-941d-0680a328ea36/mount-cashmere-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/c52a1d50-39a8-11e7-941d-0680a328ea36/mount-cashmere-golf-course",
+  "checked_at": 1795583789.9004228,
+  "sha256": "042b2251f54ff8a24a3bceb808285679972000683a1581ba30d094fd16f415a4",
+  "title": "Mount Cashmere Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star-o star star-o star-o star star star-o star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "c52a1d50-39a8-11e7-941d-0680a328ea36",
+    "name": "Mount Cashmere Golf Course",
+    "address": "6400 Kimber Rd, Cashmere, WA 98815",
+    "courses": [
+      {
+        "name": "Mount Cashmere",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4546,
+            "par": 65,
+            "rating": 62.4,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4456,
+            "par": 65,
+            "rating": 62.2,
+            "slope": 97
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/c52a1d50-39a8-11e7-941d-0680a328ea36/mount-cashmere-golf-course"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b218bca0-86ac-11e4-8c28-020000005b00/squirrel-hollow-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b218bca0-86ac-11e4-8c28-020000005b00/squirrel-hollow-golf-course",
+  "checked_at": 1795663899.9451811,
+  "sha256": "5bd6c113ded731f781b841867a37fa490ffc31e4d4a2be5b420353b0e2ceed85",
+  "title": "Squirrel Hollow Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b218bca0-86ac-11e4-8c28-020000005b00",
+    "name": "Squirrel Hollow Golf Course",
+    "address": "12111 Helmer Rd S",
+    "courses": [
+      {
+        "name": "Squirrel Hollow",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3332,
+            "par": 61,
+            "rating": 58.3,
+            "slope": 91
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3332,
+            "par": 61,
+            "rating": 58.3,
+            "slope": 88
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 2820,
+            "par": 61,
+            "rating": 56.2,
+            "slope": 84
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 2820,
+            "par": 61,
+            "rating": 58.3,
+            "slope": 88
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2285,
+            "par": 61,
+            "rating": 54.1,
+            "slope": 79
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2285,
+            "par": 61,
+            "rating": 56.6,
+            "slope": 82
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b218bca0-86ac-11e4-8c28-020000005b00/squirrel-hollow-golf-course"
+  }
+}

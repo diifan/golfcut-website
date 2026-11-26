@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c610b60-86ac-11e4-8c28-020000005b00/oberlin-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c610b60-86ac-11e4-8c28-020000005b00/oberlin-golf-club",
+  "checked_at": 1795664733.5698528,
+  "sha256": "4916c8646787257ac582b2ab9b2e6476b52d8301ab0d999d0cebbfbf06266ec8",
+  "title": "Oberlin Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9c610b60-86ac-11e4-8c28-020000005b00",
+    "name": "Oberlin Golf Club",
+    "address": "200 Pyle Rd, Oberlin, OH",
+    "courses": [
+      {
+        "name": "Oberlin",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6691,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6691,
+            "par": 72,
+            "rating": 77.5,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6280,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6280,
+            "par": 72,
+            "rating": 76.3,
+            "slope": 140
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5622,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5622,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5166,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5166,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c610b60-86ac-11e4-8c28-020000005b00/oberlin-golf-club"
+  }
+}

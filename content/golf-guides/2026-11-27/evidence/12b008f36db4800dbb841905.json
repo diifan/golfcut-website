@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8b123280-86ac-11e4-8c28-020000005b00/west-brazos-golf-center",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8b123280-86ac-11e4-8c28-020000005b00/west-brazos-golf-center",
+  "checked_at": 1795668349.7442322,
+  "sha256": "1ae121453e92f144fa1047cdfff72d92f7825b7dbd01d0c577d2c1ee6497fdbc",
+  "title": "West Brazos Golf Center - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8b123280-86ac-11e4-8c28-020000005b00",
+    "name": "West Brazos Golf Center",
+    "address": "4199 County Road 507, Brazoria, TX",
+    "courses": [
+      {
+        "name": "West Brazos",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3402,
+            "par": 58,
+            "rating": 60.4,
+            "slope": 103
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3402,
+            "par": 58,
+            "rating": 60,
+            "slope": 99
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3132,
+            "par": 58,
+            "rating": 59.2,
+            "slope": 100
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3132,
+            "par": 58,
+            "rating": 58.5,
+            "slope": 96
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2672,
+            "par": 58,
+            "rating": 54.64508,
+            "slope": 81.90308
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2672,
+            "par": 58,
+            "rating": 54.64508,
+            "slope": 81.90308
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8b123280-86ac-11e4-8c28-020000005b00/west-brazos-golf-center"
+  }
+}

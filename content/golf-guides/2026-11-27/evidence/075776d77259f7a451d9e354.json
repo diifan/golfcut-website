@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83ea3a20-86ac-11e4-8c28-020000005b00/shambolee-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83ea3a20-86ac-11e4-8c28-020000005b00/shambolee-golf-course",
+  "checked_at": 1795666490.9983795,
+  "sha256": "cdf2235c797fd111463764130567f86bec20f1a4604b95f7f0faff9e7361860d",
+  "title": "Shambolee Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "83ea3a20-86ac-11e4-8c28-020000005b00",
+    "name": "Shambolee Golf Course",
+    "address": "101 South Shore Dr., Petersburg, IL",
+    "courses": [
+      {
+        "name": "Shambolee",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6748,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6748,
+            "par": 72,
+            "rating": 78,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6384,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6384,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5351,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 110
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5351,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5040,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5040,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83ea3a20-86ac-11e4-8c28-020000005b00/shambolee-golf-course"
+  }
+}

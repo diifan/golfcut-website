@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c71d440-86ac-11e4-8c28-020000005b00/turnberry-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c71d440-86ac-11e4-8c28-020000005b00/turnberry-golf-course",
+  "checked_at": 1795666532.3953364,
+  "sha256": "c23640883fb5a5ef749ebf5c2fb24e053e0d63576a9109ce697c60b5035122e3",
+  "title": "Turnberry Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9c71d440-86ac-11e4-8c28-020000005b00",
+    "name": "Turnberry Golf Course",
+    "address": "1145 Clubhouse Ln, Pickerington, OH",
+    "courses": [
+      {
+        "name": "Turnberry",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6721,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6161,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5868,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 120
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 5440,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 117
+          },
+          {
+            "name": "Purple",
+            "category": "MALE",
+            "yards": 3812,
+            "par": 72,
+            "rating": 62.3,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c71d440-86ac-11e4-8c28-020000005b00/turnberry-golf-course"
+  }
+}

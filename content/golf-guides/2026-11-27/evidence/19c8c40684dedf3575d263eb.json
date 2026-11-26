@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d71b810-86ac-11e4-8c28-020000005b00/meadow-lane-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d71b810-86ac-11e4-8c28-020000005b00/meadow-lane-golf-course",
+  "checked_at": 1795666508.8985813,
+  "sha256": "51c74fdab49c3806e33feb240e34230e6f2b4aba4be211b0cf69250855488dfd",
+  "title": "Meadow Lane Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d71b810-86ac-11e4-8c28-020000005b00",
+    "name": "Meadow Lane Golf Course",
+    "address": "510 Hamill Road",
+    "courses": [
+      {
+        "name": "Meadow Lane",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6060,
+            "par": 70,
+            "rating": 65.7,
+            "slope": 107
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6060,
+            "par": 71,
+            "rating": 72.9,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5661,
+            "par": 70,
+            "rating": 62.6,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5661,
+            "par": 71,
+            "rating": 66.6,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d71b810-86ac-11e4-8c28-020000005b00/meadow-lane-golf-course"
+  }
+}

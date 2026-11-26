@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3d0a5d0-86ac-11e4-8c28-020000005b00/states-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3d0a5d0-86ac-11e4-8c28-020000005b00/states-golf-course",
+  "checked_at": 1795663918.310954,
+  "sha256": "4f27c1096f128463d693eada374243c1ef4fc81fbdbc50d1636adfc4138ac0c7",
+  "title": "States Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b3d0a5d0-86ac-11e4-8c28-020000005b00",
+    "name": "States Golf Course",
+    "address": "20 East W Ave, Vicksburg, MI",
+    "courses": [
+      {
+        "name": "States",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6437,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6437,
+            "par": 74,
+            "rating": 76.1,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6184,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6184,
+            "par": 74,
+            "rating": 71.7,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5675,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5675,
+            "par": 74,
+            "rating": 70.2,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5417,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5417,
+            "par": 74,
+            "rating": 73.2,
+            "slope": 112
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 4789,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 114
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 4789,
+            "par": 74,
+            "rating": 67.4,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3d0a5d0-86ac-11e4-8c28-020000005b00/states-golf-course"
+  }
+}

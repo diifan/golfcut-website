@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/906e1d70-86ac-11e4-8c28-020000005b00/miles-grant-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/906e1d70-86ac-11e4-8c28-020000005b00/miles-grant-country-club",
+  "checked_at": 1795666539.3041995,
+  "sha256": "72e242a3be988b5aa2b72cb191dbd4a6783027ed796fe599398d3d90bbacf77a",
+  "title": "Miles Grant Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "906e1d70-86ac-11e4-8c28-020000005b00",
+    "name": "Miles Grant Country Club",
+    "address": "5105 SE Miles Grant Road, Stuart, FL",
+    "courses": [
+      {
+        "name": "Miles Grant",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4712,
+            "par": 64,
+            "rating": 63,
+            "slope": 108
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4712,
+            "par": 64,
+            "rating": 66.9,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4446,
+            "par": 64,
+            "rating": 62.3,
+            "slope": 107
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4446,
+            "par": 64,
+            "rating": 65.5,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4059,
+            "par": 64,
+            "rating": 60.8,
+            "slope": 100
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4059,
+            "par": 64,
+            "rating": 63.4,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/906e1d70-86ac-11e4-8c28-020000005b00/miles-grant-country-club"
+  }
+}

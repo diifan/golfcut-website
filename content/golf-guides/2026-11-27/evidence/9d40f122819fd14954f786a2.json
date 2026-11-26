@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d05fdf0-86ac-11e4-8c28-020000005b00/the-links-at-hemlock-creek",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d05fdf0-86ac-11e4-8c28-020000005b00/the-links-at-hemlock-creek",
+  "checked_at": 1795666536.2810721,
+  "sha256": "aa32ea34cbbe68632554815156c4b4886653b3da27026ef794a79e9d72265b20",
+  "title": "The Links at Hemlock Creek - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d05fdf0-86ac-11e4-8c28-020000005b00",
+    "name": "The Links at Hemlock Creek",
+    "address": "55 Williamsburg Blvd",
+    "courses": [
+      {
+        "name": "The Links at Hemlock Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4814,
+            "par": 66,
+            "rating": 63.4,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4569,
+            "par": 66,
+            "rating": 62.4,
+            "slope": 111
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4100,
+            "par": 66,
+            "rating": 60.9,
+            "slope": 102
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3853,
+            "par": 66,
+            "rating": 62.5,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d05fdf0-86ac-11e4-8c28-020000005b00/the-links-at-hemlock-creek"
+  }
+}

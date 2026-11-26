@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/2d3f4550-7607-11e8-b410-0680a328ea36/heroes-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/2d3f4550-7607-11e8-b410-0680a328ea36/heroes-golf-course",
+  "checked_at": 1795663888.3088906,
+  "sha256": "6f92b0d633ba1563a0ce09fedbed869d01b04085425b92ee622a463387e7f87e",
+  "title": "Heroes Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "2d3f4550-7607-11e8-b410-0680a328ea36",
+    "name": "Heroes Golf Course",
+    "address": "11301 Wilshire Blvd, Los Angeles, CA",
+    "courses": [
+      {
+        "name": "Heroes Golf Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue ",
+            "category": "MALE",
+            "yards": 1144,
+            "par": 27,
+            "rating": 27.1,
+            "slope": 82
+          },
+          {
+            "name": "Blue ",
+            "category": "FEMALE",
+            "yards": 1144,
+            "par": 27,
+            "rating": 27.01876,
+            "slope": 81.00408
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 916,
+            "par": 27,
+            "rating": 25.98364,
+            "slope": 76.82712
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 916,
+            "par": 27,
+            "rating": 27.8,
+            "slope": 83
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/2d3f4550-7607-11e8-b410-0680a328ea36/heroes-golf-course"
+  }
+}

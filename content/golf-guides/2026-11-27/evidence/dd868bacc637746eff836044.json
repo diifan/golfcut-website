@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9008a4e0-86ac-11e4-8c28-020000005b00/palm-cove-golf-yacht-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9008a4e0-86ac-11e4-8c28-020000005b00/palm-cove-golf-yacht-club",
+  "checked_at": 1795583778.8600228,
+  "sha256": "310a27ab332dd0f28302ddcb282108b05cc1f546d58219bfc0e373562cd75df7",
+  "title": "Palm Cove Golf & Yacht Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9008a4e0-86ac-11e4-8c28-020000005b00",
+    "name": "Palm Cove Golf & Yacht Club",
+    "address": "2363 SW Carriage Hill Ter, Palm City, FL",
+    "courses": [
+      {
+        "name": "Palm Cove",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6285,
+            "par": 71,
+            "rating": 69,
+            "slope": 139
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5680,
+            "par": 71,
+            "rating": 66.9,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5292,
+            "par": 71,
+            "rating": 65,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4643,
+            "par": 71,
+            "rating": 62.3,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9008a4e0-86ac-11e4-8c28-020000005b00/palm-cove-golf-yacht-club"
+  }
+}

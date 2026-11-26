@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba243730-86ac-11e4-8c28-020000005b00/copley-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba243730-86ac-11e4-8c28-020000005b00/copley-country-club",
+  "checked_at": 1795664737.8089764,
+  "sha256": "1c38c853a5dc46f5a7acafe1c93984bb99e7714633182ab80fce815efdefc8b6",
+  "title": "Copley Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ba243730-86ac-11e4-8c28-020000005b00",
+    "name": "Copley Country Club",
+    "address": "377 Copley Country Club, Morrisville, VT",
+    "courses": [
+      {
+        "name": "Copley Country Club (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 2706,
+            "par": 35,
+            "rating": 32.9,
+            "slope": 111
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 2706,
+            "par": 36,
+            "rating": 35.3,
+            "slope": 119
+          },
+          {
+            "name": "Red/White",
+            "category": "MALE",
+            "yards": 2451,
+            "par": 35,
+            "rating": 31.9,
+            "slope": 109
+          },
+          {
+            "name": "Red/White",
+            "category": "FEMALE",
+            "yards": 2451,
+            "par": 36,
+            "rating": 34.2,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba243730-86ac-11e4-8c28-020000005b00/copley-country-club"
+  }
+}

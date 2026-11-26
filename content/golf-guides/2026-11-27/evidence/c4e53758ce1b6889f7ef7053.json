@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/93f177d0-86ac-11e4-8c28-020000005b00/cherokee-golf-center",
+  "resolved_url": "https://18birdies.com/golf-courses/club/93f177d0-86ac-11e4-8c28-020000005b00/cherokee-golf-center",
+  "checked_at": 1795663882.9157343,
+  "sha256": "af84a5f734d47c7c967630d1ecca21d1a3d9459cd76a778ea48307651a41c1b8",
+  "title": "Cherokee Golf Center - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "93f177d0-86ac-11e4-8c28-020000005b00",
+    "name": "Cherokee Golf Center",
+    "address": "635 Molly Lane",
+    "courses": [
+      {
+        "name": "Cherokee(9 holes )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 992,
+            "par": 27,
+            "rating": 26.32868,
+            "slope": 78.21944
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 790,
+            "par": 27,
+            "rating": 25.4116,
+            "slope": 74.5188
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/93f177d0-86ac-11e4-8c28-020000005b00/cherokee-golf-center"
+  }
+}

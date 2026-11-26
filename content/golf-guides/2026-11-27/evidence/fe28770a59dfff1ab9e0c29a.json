@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b00b810-86ac-11e4-8c28-020000005b00/northgreen-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b00b810-86ac-11e4-8c28-020000005b00/northgreen-golf",
+  "checked_at": 1795666533.2065496,
+  "sha256": "3e0e40cdcf8d2d804f552583b17b13fd3408799b348e8856f04314ddd386586e",
+  "title": "Northgreen Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9b00b810-86ac-11e4-8c28-020000005b00",
+    "name": "Northgreen Golf",
+    "address": "900 North green Dr, Rocky Mount, NC",
+    "courses": [
+      {
+        "name": "Northgreen",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7200,
+            "par": 72,
+            "rating": 77.7,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6720,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6405,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 125
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5785,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5065,
+            "par": 72,
+            "rating": 68,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b00b810-86ac-11e4-8c28-020000005b00/northgreen-golf"
+  }
+}

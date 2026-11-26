@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b24a2ce0-86ac-11e4-8c28-020000005b00/thorne-hills-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b24a2ce0-86ac-11e4-8c28-020000005b00/thorne-hills-golf-course",
+  "checked_at": 1795661406.7870092,
+  "sha256": "7641d2ce550ab0cf44258e68bcdf59ccedd1d5de7bd4d8a5c0f2aa314f755a39",
+  "title": "Thorne Hills Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star-o star star-o star-o star star star-o star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "b24a2ce0-86ac-11e4-8c28-020000005b00",
+    "name": "Thorne Hills Golf Course",
+    "address": "12915 Sumpter Rd",
+    "courses": [
+      {
+        "name": "Thorne Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5827,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5205,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4524,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b24a2ce0-86ac-11e4-8c28-020000005b00/thorne-hills-golf-course"
+  }
+}

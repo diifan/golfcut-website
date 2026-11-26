@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9cecf7b0-86ac-11e4-8c28-020000005b00/harmony-ridge-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9cecf7b0-86ac-11e4-8c28-020000005b00/harmony-ridge-golf-club",
+  "checked_at": 1795664699.7802277,
+  "sha256": "43a848863ee9f0198ec457f236b5fbd3081f1610ff819d6b5365443e1c6f5c08",
+  "title": "Harmony Ridge Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star-o star star-o star-o star star star-o star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "9cecf7b0-86ac-11e4-8c28-020000005b00",
+    "name": "Harmony Ridge Golf Club",
+    "address": "1280 Breitenstein Road, Ambridge, PA",
+    "courses": [
+      {
+        "name": "Harmony Ridge (9 holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Yellow/Blue",
+            "category": "MALE",
+            "yards": 5197,
+            "par": 69,
+            "rating": 71.7,
+            "slope": 126
+          },
+          {
+            "name": "Yellow/Blue",
+            "category": "FEMALE",
+            "yards": 5197,
+            "par": 69,
+            "rating": 69.5,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9cecf7b0-86ac-11e4-8c28-020000005b00/harmony-ridge-golf-club"
+  }
+}

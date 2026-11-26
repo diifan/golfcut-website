@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1e5c5c0-86ac-11e4-8c28-020000005b00/nonesuch",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1e5c5c0-86ac-11e4-8c28-020000005b00/nonesuch",
+  "checked_at": 1795523866.8407998,
+  "sha256": "afef5f1b627c69e2b291c3ec086c766a7001bc68d929427145e51da72096b89c",
+  "title": "Nonesuch - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1e5c5c0-86ac-11e4-8c28-020000005b00",
+    "name": "Nonesuch",
+    "address": "304 Gorham Rd, Scarborough, ME",
+    "courses": [
+      {
+        "name": "Nonesuch",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6347,
+            "par": 70,
+            "rating": 69.8,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6347,
+            "par": 70,
+            "rating": 75.7,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5993,
+            "par": 70,
+            "rating": 67.4,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5993,
+            "par": 70,
+            "rating": 73.8,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5561,
+            "par": 70,
+            "rating": 65.2,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5561,
+            "par": 70,
+            "rating": 69.8,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4927,
+            "par": 70,
+            "rating": 67.4,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4927,
+            "par": 70,
+            "rating": 67,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1e5c5c0-86ac-11e4-8c28-020000005b00/nonesuch"
+  }
+}

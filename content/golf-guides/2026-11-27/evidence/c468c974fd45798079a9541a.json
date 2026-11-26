@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b477e250-86ac-11e4-8c28-020000005b00/highlands-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b477e250-86ac-11e4-8c28-020000005b00/highlands-golf-course",
+  "checked_at": 1795661678.8345556,
+  "sha256": "db8ebdba635e845bbdeeabd7c98c4f5ad32b8aabc515396f26867aec0bcf6ff0",
+  "title": "Highlands Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b477e250-86ac-11e4-8c28-020000005b00",
+    "name": "Highlands Golf Course",
+    "address": "5501 NW 12th St, Lincoln, NE",
+    "courses": [
+      {
+        "name": "Highlands",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Champ",
+            "category": "MALE",
+            "yards": 7021,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 128
+          },
+          {
+            "name": "Champ",
+            "category": "FEMALE",
+            "yards": 7021,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6523,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 123
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6523,
+            "par": 72,
+            "rating": 76.6,
+            "slope": 136
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6022,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 116
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6022,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 123
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5280,
+            "par": 72,
+            "rating": 66,
+            "slope": 109
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5280,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b477e250-86ac-11e4-8c28-020000005b00/highlands-golf-course"
+  }
+}

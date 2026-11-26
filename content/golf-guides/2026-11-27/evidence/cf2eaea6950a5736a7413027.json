@@ -1,0 +1,107 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c5dfe20-86ac-11e4-8c28-020000005b00/loyal-oak-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c5dfe20-86ac-11e4-8c28-020000005b00/loyal-oak-golf-course",
+  "checked_at": 1795663878.437759,
+  "sha256": "bf85696986648a37c30641a4c9e60db61c9da613d36fd8d925191c4977da6c11",
+  "title": "Loyal Oak Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9c5dfe20-86ac-11e4-8c28-020000005b00",
+    "name": "Loyal Oak Golf Course",
+    "address": "2909 Cleveland Massillon Rd, Norton, OH",
+    "courses": [
+      {
+        "name": "Loyal Oak(First  & Second)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6245,
+            "par": 70,
+            "rating": 69.1,
+            "slope": 111
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6245,
+            "par": 77,
+            "rating": 75.1,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5945,
+            "par": 70,
+            "rating": 68.8,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5945,
+            "par": 77,
+            "rating": 73.5,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5602,
+            "par": 70,
+            "rating": 70.4,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5602,
+            "par": 77,
+            "rating": 70.9,
+            "slope": 109
+          }
+        ]
+      },
+      {
+        "name": "Loyal Oak (Third)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2845,
+            "par": 35,
+            "rating": 35.4,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2845,
+            "par": 36,
+            "rating": 31,
+            "slope": 94
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2845,
+            "par": 35,
+            "rating": 35.4,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2845,
+            "par": 36,
+            "rating": 36.1,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c5dfe20-86ac-11e4-8c28-020000005b00/loyal-oak-golf-course"
+  }
+}

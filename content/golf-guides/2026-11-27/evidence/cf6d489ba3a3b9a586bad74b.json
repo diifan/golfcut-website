@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9afaebb0-86ac-11e4-8c28-020000005b00/pennrose-park-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9afaebb0-86ac-11e4-8c28-020000005b00/pennrose-park-country-club",
+  "checked_at": 1795661454.4052317,
+  "sha256": "6b60f719449adc98a95b4310c81e89194f695c846c6b652ad6add5c8c836b73e",
+  "title": "Pennrose Park Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9afaebb0-86ac-11e4-8c28-020000005b00",
+    "name": "Pennrose Park Country Club",
+    "address": "1622 Country Club Rd, Reidsville, NC",
+    "courses": [
+      {
+        "name": "Pennrose",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black/gold",
+            "category": "MALE",
+            "yards": 6048,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 122
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 5478,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4809,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9afaebb0-86ac-11e4-8c28-020000005b00/pennrose-park-country-club"
+  }
+}

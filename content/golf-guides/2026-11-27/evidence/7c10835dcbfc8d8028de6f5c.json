@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3a6fdc0-86ac-11e4-8c28-020000005b00/benona-shores-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3a6fdc0-86ac-11e4-8c28-020000005b00/benona-shores-golf-course",
+  "checked_at": 1795664716.771202,
+  "sha256": "ff32f7b2e1af4255a2a628d159d58574c19899c4ba98c7b27f95b61bad39f310",
+  "title": "Benona Shores Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b3a6fdc0-86ac-11e4-8c28-020000005b00",
+    "name": "Benona Shores Golf Course",
+    "address": "3410 Scenic Drive, Shelby, MI",
+    "courses": [
+      {
+        "name": "Benona Shores",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 4380,
+            "par": 60,
+            "rating": 61.7,
+            "slope": 103
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 4380,
+            "par": 60,
+            "rating": 65.3,
+            "slope": 106
+          },
+          {
+            "name": "Tan",
+            "category": "MALE",
+            "yards": 4045,
+            "par": 60,
+            "rating": 60.7,
+            "slope": 99
+          },
+          {
+            "name": "Tan",
+            "category": "FEMALE",
+            "yards": 4045,
+            "par": 60,
+            "rating": 63.1,
+            "slope": 102
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 3496,
+            "par": 60,
+            "rating": 59.2,
+            "slope": 93
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 3496,
+            "par": 60,
+            "rating": 60.3,
+            "slope": 96
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3a6fdc0-86ac-11e4-8c28-020000005b00/benona-shores-golf-course"
+  }
+}

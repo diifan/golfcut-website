@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b415c520-86ac-11e4-8c28-020000005b00/timberton-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b415c520-86ac-11e4-8c28-020000005b00/timberton-golf-club",
+  "checked_at": 1795668290.798794,
+  "sha256": "2a2ea205c44b317e3170eaff76ba7bde5c78b46a1ffc12b46cde9e68045e5dbe",
+  "title": "Timberton Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b415c520-86ac-11e4-8c28-020000005b00",
+    "name": "Timberton Golf Club",
+    "address": "22 Clubhouse Rd, Hattiesburg, MS",
+    "courses": [
+      {
+        "name": "Timberton Golf Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7109,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 137
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6657,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6320,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 127
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5303,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b415c520-86ac-11e4-8c28-020000005b00/timberton-golf-club"
+  }
+}

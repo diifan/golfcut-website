@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/887cba90-86ac-11e4-8c28-020000005b00/sinnissippi-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/887cba90-86ac-11e4-8c28-020000005b00/sinnissippi-golf-course",
+  "checked_at": 1795664726.781824,
+  "sha256": "61124930800d7687e94668ea77b29a1b5a6e9e05dc16269a22089958cb4e1bd1",
+  "title": "Sinnissippi Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "887cba90-86ac-11e4-8c28-020000005b00",
+    "name": "Sinnissippi Golf Course",
+    "address": "1401 N. 2nd St, Rockford, IL",
+    "courses": [
+      {
+        "name": "Sinnissippi",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3355,
+            "par": 37,
+            "rating": 36,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3355,
+            "par": 37,
+            "rating": 39,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3148,
+            "par": 37,
+            "rating": 35.1,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3148,
+            "par": 37,
+            "rating": 37.9,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2629,
+            "par": 37,
+            "rating": 32.7,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2629,
+            "par": 37,
+            "rating": 35.1,
+            "slope": 116
+          }
+        ]
+      },
+      {
+        "name": "18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6710,
+            "par": 74,
+            "rating": 72,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6710,
+            "par": 74,
+            "rating": 78,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6296,
+            "par": 74,
+            "rating": 70.2,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6296,
+            "par": 74,
+            "rating": 75.8,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5258,
+            "par": 74,
+            "rating": 65.4,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5258,
+            "par": 74,
+            "rating": 70.2,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/887cba90-86ac-11e4-8c28-020000005b00/sinnissippi-golf-course"
+  }
+}

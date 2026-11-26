@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2bbda70-86ac-11e4-8c28-020000005b00/chestnut-valley-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2bbda70-86ac-11e4-8c28-020000005b00/chestnut-valley-golf-course",
+  "checked_at": 1795663875.621432,
+  "sha256": "ccb818bcfa2494e9c925744d43500956a3042eee1f558e5c58029f8f23381f21",
+  "title": "Chestnut Valley Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b2bbda70-86ac-11e4-8c28-020000005b00",
+    "name": "Chestnut Valley Golf Course",
+    "address": "1875 Clubhouse Dr.",
+    "courses": [
+      {
+        "name": "Chestnut Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6146,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6146,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5750,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5750,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5171,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 111
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5171,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4658,
+            "par": 72,
+            "rating": 63.7,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4658,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2bbda70-86ac-11e4-8c28-020000005b00/chestnut-valley-golf-course"
+  }
+}

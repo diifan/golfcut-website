@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83fe1040-86ac-11e4-8c28-020000005b00/ingersoll-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83fe1040-86ac-11e4-8c28-020000005b00/ingersoll-golf-course",
+  "checked_at": 1795663894.130489,
+  "sha256": "fd58f1e3ed302ca0d8ac490b9818e66923e5a0506fdf501bfe9c9af68d8544a4",
+  "title": "Ingersoll Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "83fe1040-86ac-11e4-8c28-020000005b00",
+    "name": "Ingersoll Golf Course",
+    "address": "101 Daisyfield Rd, Rockford, IL",
+    "courses": [
+      {
+        "name": "Ingersoll",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6256,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 116
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6256,
+            "par": 71,
+            "rating": 75.4,
+            "slope": 124
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6101,
+            "par": 71,
+            "rating": 69,
+            "slope": 114
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6101,
+            "par": 71,
+            "rating": 74.6,
+            "slope": 122
+          },
+          {
+            "name": "Front ",
+            "category": "MALE",
+            "yards": 5870,
+            "par": 71,
+            "rating": 67.7,
+            "slope": 111
+          },
+          {
+            "name": "Front ",
+            "category": "FEMALE",
+            "yards": 5870,
+            "par": 71,
+            "rating": 73,
+            "slope": 119
+          },
+          {
+            "name": "Friendly",
+            "category": "MALE",
+            "yards": 1524,
+            "par": 71,
+            "rating": 59.1,
+            "slope": 90
+          },
+          {
+            "name": "Friendly",
+            "category": "FEMALE",
+            "yards": 1524,
+            "par": 71,
+            "rating": 62.5,
+            "slope": 97
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83fe1040-86ac-11e4-8c28-020000005b00/ingersoll-golf-course"
+  }
+}

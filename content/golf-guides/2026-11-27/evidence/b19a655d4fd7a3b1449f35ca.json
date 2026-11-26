@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/975144a0-86ac-11e4-8c28-020000005b00/montana-double-arrow-resort-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/975144a0-86ac-11e4-8c28-020000005b00/montana-double-arrow-resort-golf-course",
+  "checked_at": 1795583812.4579508,
+  "sha256": "3281c533deb3b343d0eb2db7e80b5be8c989f7471f67c9e8e50104ed16504f78",
+  "title": "Montana Double Arrow Resort Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "975144a0-86ac-11e4-8c28-020000005b00",
+    "name": "Montana Double Arrow Resort Golf Course",
+    "address": "Hwy 83",
+    "courses": [
+      {
+        "name": "Double Arrow",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6482,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5942,
+            "par": 72,
+            "rating": 68,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5172,
+            "par": 72,
+            "rating": 64.1,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/975144a0-86ac-11e4-8c28-020000005b00/montana-double-arrow-resort-golf-course"
+  }
+}

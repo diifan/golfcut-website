@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/89885e30-86ac-11e4-8c28-020000005b00/forest-meadows-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/89885e30-86ac-11e4-8c28-020000005b00/forest-meadows-golf-course",
+  "checked_at": 1795663910.4572177,
+  "sha256": "f6ab6365d97d7e9266be0c28c8ce47e0f8a6707f7c57c0e020be63bbd4d926a7",
+  "title": "Forest Meadows Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "89885e30-86ac-11e4-8c28-020000005b00",
+    "name": "Forest Meadows Golf Course",
+    "address": "633 Forest Meadows Dr, Murphys, CA",
+    "courses": [
+      {
+        "name": "Forest Meadows",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 4846,
+            "par": 66,
+            "rating": 63.9,
+            "slope": 119
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 4846,
+            "par": 66,
+            "rating": 67.7,
+            "slope": 116
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "MALE",
+            "yards": 4236,
+            "par": 66,
+            "rating": 62.2,
+            "slope": 108
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "FEMALE",
+            "yards": 4236,
+            "par": 66,
+            "rating": 64,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/89885e30-86ac-11e4-8c28-020000005b00/forest-meadows-golf-course"
+  }
+}

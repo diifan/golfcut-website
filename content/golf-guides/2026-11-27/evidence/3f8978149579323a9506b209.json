@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98f1ae30-86ac-11e4-8c28-020000005b00/hay-harbor-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98f1ae30-86ac-11e4-8c28-020000005b00/hay-harbor-club",
+  "checked_at": 1795664741.0443103,
+  "sha256": "366d4efef2250fb5d4151634a1a4d2e450d123a6bba6cde994af657022a90b08",
+  "title": "Hay Harbor Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "98f1ae30-86ac-11e4-8c28-020000005b00",
+    "name": "Hay Harbor Club",
+    "address": "Ettrick Ave, Fishers Island, NY",
+    "courses": [
+      {
+        "name": "Hay Harbor",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2843,
+            "par": 34,
+            "rating": 34.1,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2843,
+            "par": 38,
+            "rating": 36.8,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2717,
+            "par": 34,
+            "rating": 33.2,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2717,
+            "par": 38,
+            "rating": 35.7,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98f1ae30-86ac-11e4-8c28-020000005b00/hay-harbor-club"
+  }
+}

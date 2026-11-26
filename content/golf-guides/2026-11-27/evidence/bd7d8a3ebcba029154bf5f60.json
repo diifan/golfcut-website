@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8db90f90-86ac-11e4-8c28-020000005b00/logansport-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8db90f90-86ac-11e4-8c28-020000005b00/logansport-golf-club",
+  "checked_at": 1795583797.8886352,
+  "sha256": "9510dd365da21d281b7307b885ee26930ed6d925c39476e146b1392615bdee9a",
+  "title": "Logansport Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8db90f90-86ac-11e4-8c28-020000005b00",
+    "name": "Logansport Golf Club",
+    "address": "20 Cedar Island Rd, Logansport, IN",
+    "courses": [
+      {
+        "name": "Logansport",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6048,
+            "par": 71,
+            "rating": 68,
+            "slope": 114
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6048,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5689,
+            "par": 71,
+            "rating": 65.8,
+            "slope": 108
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5689,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5459,
+            "par": 71,
+            "rating": 63.5,
+            "slope": 104
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5459,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4831,
+            "par": 71,
+            "rating": 66.9,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4831,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8db90f90-86ac-11e4-8c28-020000005b00/logansport-golf-club"
+  }
+}

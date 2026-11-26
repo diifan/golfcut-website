@@ -1,0 +1,107 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3cab260-86ac-11e4-8c28-020000005b00/bay-meadows",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3cab260-86ac-11e4-8c28-020000005b00/bay-meadows",
+  "checked_at": 1795668315.3175645,
+  "sha256": "5a46344a79035985572c7850c0a7f376c7533d533754c38d6641d57633f5aa3a",
+  "title": "Bay Meadows - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b3cab260-86ac-11e4-8c28-020000005b00",
+    "name": "Bay Meadows",
+    "address": "5550 Bay Meadows Dr, Traverse City, MI",
+    "courses": [
+      {
+        "name": "Blue Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2488,
+            "par": 34,
+            "rating": 32.1,
+            "slope": 110
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2488,
+            "par": 32,
+            "rating": 34.3,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2149,
+            "par": 34,
+            "rating": 30,
+            "slope": 95
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2149,
+            "par": 32,
+            "rating": 30.5,
+            "slope": 99
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1845,
+            "par": 34,
+            "rating": 30.9,
+            "slope": 97
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1845,
+            "par": 32,
+            "rating": 30.7,
+            "slope": 103
+          }
+        ]
+      },
+      {
+        "name": "Par 3 / Green",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1053,
+            "par": 27,
+            "rating": 27.1,
+            "slope": 83
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1053,
+            "par": 27,
+            "rating": 28.2,
+            "slope": 88
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1053,
+            "par": 27,
+            "rating": 25.7,
+            "slope": 72
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1053,
+            "par": 27,
+            "rating": 27,
+            "slope": 77
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3cab260-86ac-11e4-8c28-020000005b00/bay-meadows"
+  }
+}

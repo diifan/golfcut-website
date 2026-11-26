@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/942754e0-86ac-11e4-8c28-020000005b00/the-falls-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/942754e0-86ac-11e4-8c28-020000005b00/the-falls-golf-club",
+  "checked_at": 1795524620.7358606,
+  "sha256": "30732e2189dbd80d13fd3fdd59d80cbc2287d013f9e8b7064107a1016d9ac396",
+  "title": "The Falls Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "942754e0-86ac-11e4-8c28-020000005b00",
+    "name": "The Falls Golf Club",
+    "address": "57 Jenny Green Road, Falls of Rough, KY",
+    "courses": [
+      {
+        "name": "Lafayette",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6843,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6318,
+            "par": 72,
+            "rating": 71,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5845,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5292,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4149,
+            "par": 72,
+            "rating": 62.1,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/942754e0-86ac-11e4-8c28-020000005b00/the-falls-golf-club"
+  }
+}

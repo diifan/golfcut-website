@@ -1,0 +1,251 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/90b3b1f0-86ac-11e4-8c28-020000005b00/lake-ashton-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/90b3b1f0-86ac-11e4-8c28-020000005b00/lake-ashton-golf-club",
+  "checked_at": 1795663902.7714036,
+  "sha256": "b3ece79b9871a2bde0e6079f31f8790f5b9b7fa2c1ed42fddde7f740eb07681d",
+  "title": "Lake Ashton Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "90b3b1f0-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Ashton Golf Club",
+    "address": "4140 Ashton Club Drive, Lake Wales, FL 33859.",
+    "courses": [
+      {
+        "name": "Lake Ashton (East)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5996,
+            "par": 70,
+            "rating": 70.1,
+            "slope": 125
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5996,
+            "par": 70,
+            "rating": 73.8,
+            "slope": 130
+          },
+          {
+            "name": "Black / Gold",
+            "category": "MALE",
+            "yards": 5631,
+            "par": 70,
+            "rating": 68.1,
+            "slope": 122
+          },
+          {
+            "name": "Black / Gold",
+            "category": "FEMALE",
+            "yards": 5631,
+            "par": 70,
+            "rating": 71.8,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5450,
+            "par": 70,
+            "rating": 67.4,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5450,
+            "par": 70,
+            "rating": 70.9,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4813,
+            "par": 70,
+            "rating": 64.2,
+            "slope": 107
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4813,
+            "par": 70,
+            "rating": 68.5,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4468,
+            "par": 70,
+            "rating": 63,
+            "slope": 105
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4468,
+            "par": 70,
+            "rating": 66.8,
+            "slope": 115
+          },
+          {
+            "name": "Blue / Green",
+            "category": "MALE",
+            "yards": 4062,
+            "par": 70,
+            "rating": 63.4,
+            "slope": 108
+          },
+          {
+            "name": "Blue / Green",
+            "category": "FEMALE",
+            "yards": 4062,
+            "par": 70,
+            "rating": 64.1,
+            "slope": 110
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 3722,
+            "par": 70,
+            "rating": 60,
+            "slope": 101
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 3722,
+            "par": 70,
+            "rating": 62.7,
+            "slope": 102
+          }
+        ]
+      },
+      {
+        "name": "Lake Ashton (West)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5704,
+            "par": 70,
+            "rating": 67.5,
+            "slope": 124
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5704,
+            "par": 70,
+            "rating": 72.2,
+            "slope": 126
+          },
+          {
+            "name": "Black / Gold",
+            "category": "MALE",
+            "yards": 5306,
+            "par": 70,
+            "rating": 65.7,
+            "slope": 114
+          },
+          {
+            "name": "Black / Gold",
+            "category": "FEMALE",
+            "yards": 5306,
+            "par": 70,
+            "rating": 70.1,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5118,
+            "par": 70,
+            "rating": 64.9,
+            "slope": 112
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5118,
+            "par": 70,
+            "rating": 69.1,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4605,
+            "par": 70,
+            "rating": 63.2,
+            "slope": 104
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4605,
+            "par": 70,
+            "rating": 66.8,
+            "slope": 115
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4302,
+            "par": 70,
+            "rating": 61.6,
+            "slope": 99
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4302,
+            "par": 70,
+            "rating": 65.2,
+            "slope": 111
+          },
+          {
+            "name": "Blue / Green",
+            "category": "MALE",
+            "yards": 4153,
+            "par": 70,
+            "rating": 63.8,
+            "slope": 109
+          },
+          {
+            "name": "Blue / Green",
+            "category": "FEMALE",
+            "yards": 4153,
+            "par": 70,
+            "rating": 63.2,
+            "slope": 106
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 3832,
+            "par": 70,
+            "rating": 59.8,
+            "slope": 96
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 3832,
+            "par": 70,
+            "rating": 62.1,
+            "slope": 104
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/90b3b1f0-86ac-11e4-8c28-020000005b00/lake-ashton-golf-club"
+  }
+}

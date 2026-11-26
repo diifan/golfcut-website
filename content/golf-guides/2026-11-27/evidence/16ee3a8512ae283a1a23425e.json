@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8835870-86ac-11e4-8c28-020000005b00/deer-trails-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8835870-86ac-11e4-8c28-020000005b00/deer-trails-golf-course",
+  "checked_at": 1795664737.7107623,
+  "sha256": "7d1118f13ca30111342a56def01be5e9441f9ee7c14d75931658507277883bac",
+  "title": "Deer Trails Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b8835870-86ac-11e4-8c28-020000005b00",
+    "name": "Deer Trails Golf Course",
+    "address": "11707 Custer Blvd, Barling, AR",
+    "courses": [
+      {
+        "name": "Deer Trails",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5859,
+            "par": 71,
+            "rating": 67.9,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5859,
+            "par": 71,
+            "rating": 74.4,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4053,
+            "par": 71,
+            "rating": 63.4,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4053,
+            "par": 71,
+            "rating": 64.8,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8835870-86ac-11e4-8c28-020000005b00/deer-trails-golf-course"
+  }
+}

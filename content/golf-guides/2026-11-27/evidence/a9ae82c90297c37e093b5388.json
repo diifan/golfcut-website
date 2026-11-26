@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3309540-86ac-11e4-8c28-020000005b00/beechwood-greens",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3309540-86ac-11e4-8c28-020000005b00/beechwood-greens",
+  "checked_at": 1795583822.4326534,
+  "sha256": "27940bd139be0b74f22087d90912127044123393171c2be3d4bc02a96cdc841c",
+  "title": "Beechwood Greens - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b3309540-86ac-11e4-8c28-020000005b00",
+    "name": "Beechwood Greens",
+    "address": "1161 W Frances Rd, Mount Morris, MI",
+    "courses": [
+      {
+        "name": "Beachwood Greens",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2014,
+            "par": 32,
+            "rating": 31.6,
+            "slope": 100
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2014,
+            "par": 32,
+            "rating": 31.6,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1688,
+            "par": 32,
+            "rating": 30.1,
+            "slope": 94
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1688,
+            "par": 32,
+            "rating": 29.9,
+            "slope": 101
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3309540-86ac-11e4-8c28-020000005b00/beechwood-greens"
+  }
+}

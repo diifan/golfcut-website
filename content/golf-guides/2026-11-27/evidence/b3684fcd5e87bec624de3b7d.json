@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b333a280-86ac-11e4-8c28-020000005b00/mt-pleasant-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b333a280-86ac-11e4-8c28-020000005b00/mt-pleasant-country-club",
+  "checked_at": 1795661433.6932642,
+  "sha256": "861bc94542ae2bdc7cdf4da920e3a09c9631b582a4cdf8b0779581880bbdd6d2",
+  "title": "Mt Pleasant Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b333a280-86ac-11e4-8c28-020000005b00",
+    "name": "Mt Pleasant Country Club",
+    "address": "3686 E River Rd, Mount Pleasant, MI",
+    "courses": [
+      {
+        "name": "Mount Pleasant",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 6273,
+            "par": 70,
+            "rating": 70.3,
+            "slope": 131
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6054,
+            "par": 70,
+            "rating": 69.2,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5702,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5153,
+            "par": 70,
+            "rating": 65.3,
+            "slope": 115
+          },
+          {
+            "name": "Maroon",
+            "category": "MALE",
+            "yards": 4844,
+            "par": 70,
+            "rating": 67,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b333a280-86ac-11e4-8c28-020000005b00/mt-pleasant-country-club"
+  }
+}

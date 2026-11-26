@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92164f30-86ac-11e4-8c28-020000005b00/prairie-pines-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92164f30-86ac-11e4-8c28-020000005b00/prairie-pines-golf-club",
+  "checked_at": 1795664719.8615425,
+  "sha256": "2455559b93f47b2a742d4348427be16c27a7769caea6d2c341bbd8f26cbe4fe3",
+  "title": "Prairie Pines Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92164f30-86ac-11e4-8c28-020000005b00",
+    "name": "Prairie Pines Golf Club",
+    "address": "48680 Snead Dr, Burlington, CO 80807",
+    "courses": [
+      {
+        "name": "9 Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3063,
+            "par": 35,
+            "rating": 33,
+            "slope": 106
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3063,
+            "par": 35,
+            "rating": 37.2,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2878,
+            "par": 35,
+            "rating": 35.6,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2878,
+            "par": 35,
+            "rating": 36.3,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2541,
+            "par": 35,
+            "rating": 34,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2541,
+            "par": 35,
+            "rating": 32.6,
+            "slope": 103
+          }
+        ]
+      },
+      {
+        "name": "18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6126,
+            "par": 70,
+            "rating": 66,
+            "slope": 106
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6126,
+            "par": 70,
+            "rating": 74.5,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5756,
+            "par": 70,
+            "rating": 71.2,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5756,
+            "par": 70,
+            "rating": 72.5,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5082,
+            "par": 70,
+            "rating": 68.1,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5082,
+            "par": 70,
+            "rating": 65.2,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92164f30-86ac-11e4-8c28-020000005b00/prairie-pines-golf-club"
+  }
+}

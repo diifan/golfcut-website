@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/994c9f70-86ac-11e4-8c28-020000005b00/schuyler-meadows-club-inc",
+  "resolved_url": "https://18birdies.com/golf-courses/club/994c9f70-86ac-11e4-8c28-020000005b00/schuyler-meadows-club-inc",
+  "checked_at": 1795666503.0466228,
+  "sha256": "306708b57ee993fd0f53918e4b2d54e41127488abbd36f9f746def7febabf010",
+  "title": "Schuyler Meadows Club, Inc. - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "994c9f70-86ac-11e4-8c28-020000005b00",
+    "name": "Schuyler Meadows Club, Inc.",
+    "address": "17 Schuyler Meadows Club Road",
+    "courses": [
+      {
+        "name": "Schuyler Meadows",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6890,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6488,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6049,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 117
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5367,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 104
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/994c9f70-86ac-11e4-8c28-020000005b00/schuyler-meadows-club-inc"
+  }
+}

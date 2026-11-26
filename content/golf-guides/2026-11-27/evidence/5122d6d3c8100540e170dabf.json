@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b27d98f0-86ac-11e4-8c28-020000005b00/escanaba-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b27d98f0-86ac-11e4-8c28-020000005b00/escanaba-country-club",
+  "checked_at": 1795666507.9997141,
+  "sha256": "25ce1ad130b58935ddc14dcea1c3b0dc8164ada1e19303ca1e02b27df32844e1",
+  "title": "Escanaba Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "b27d98f0-86ac-11e4-8c28-020000005b00",
+    "name": "Escanaba Country Club",
+    "address": "1800 11th Ave S Escanaba, MI 49829",
+    "courses": [
+      {
+        "name": "Escanaba",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6233,
+            "par": 71,
+            "rating": 70.8,
+            "slope": 127
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6233,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 132
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5974,
+            "par": 71,
+            "rating": 67.5,
+            "slope": 124
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5974,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 129
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5519,
+            "par": 71,
+            "rating": 66.2,
+            "slope": 114
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5519,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b27d98f0-86ac-11e4-8c28-020000005b00/escanaba-country-club"
+  }
+}

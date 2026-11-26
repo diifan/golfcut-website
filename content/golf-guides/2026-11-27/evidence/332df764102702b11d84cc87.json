@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/979b9410-86ac-11e4-8c28-020000005b00/shadow",
+  "resolved_url": "https://18birdies.com/golf-courses/club/979b9410-86ac-11e4-8c28-020000005b00/shadow",
+  "checked_at": 1795583797.705811,
+  "sha256": "3bd26d4108bda5cb487863409cdd65e7c611dc6d23af5034b3292781b2212baa",
+  "title": "Shadow - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "979b9410-86ac-11e4-8c28-020000005b00",
+    "name": "Shadow",
+    "address": "5400 Losee Rd, Las Vegas, NV",
+    "courses": [
+      {
+        "name": "Shadow Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7239,
+            "par": 72,
+            "rating": 71,
+            "slope": 115
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7239,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6701,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6701,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/979b9410-86ac-11e4-8c28-020000005b00/shadow"
+  }
+}

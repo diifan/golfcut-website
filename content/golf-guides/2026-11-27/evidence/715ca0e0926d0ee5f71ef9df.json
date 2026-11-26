@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/91e09930-86ac-11e4-8c28-020000005b00/grayson-valley-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/91e09930-86ac-11e4-8c28-020000005b00/grayson-valley-country-club",
+  "checked_at": 1795664702.9709375,
+  "sha256": "c5ac52a572b08c37b21da5b541320e7e56001e0ca6a04488000232e11a0510d8",
+  "title": "Grayson Valley Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "91e09930-86ac-11e4-8c28-020000005b00",
+    "name": "Grayson Valley Country Club",
+    "address": "2201 Grayson Valley Dr",
+    "courses": [
+      {
+        "name": "Grayson Valley (Private)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6527,
+            "par": 72,
+            "rating": 71,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6057,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5551,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5324,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/91e09930-86ac-11e4-8c28-020000005b00/grayson-valley-country-club"
+  }
+}

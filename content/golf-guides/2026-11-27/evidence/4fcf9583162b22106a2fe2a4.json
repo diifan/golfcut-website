@@ -1,0 +1,107 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e8ade80-86ac-11e4-8c28-020000005b00/scottsdale-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e8ade80-86ac-11e4-8c28-020000005b00/scottsdale-country-club",
+  "checked_at": 1795663897.6489818,
+  "sha256": "2ec9ecb40e6e933c8421a49ba94c0041472aebecae46e874cd165f389319b889",
+  "title": "Scottsdale Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8e8ade80-86ac-11e4-8c28-020000005b00",
+    "name": "Scottsdale Country Club",
+    "address": "11500 N Hayden Rd, Scottsdale, Arizona 85260, Maricopa County",
+    "courses": [
+      {
+        "name": "Championship Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6106,
+            "par": 70,
+            "rating": 68.8,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6106,
+            "par": 70,
+            "rating": 71.2,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5630,
+            "par": 70,
+            "rating": 66.9,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5630,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5084,
+            "par": 70,
+            "rating": 64.4,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5084,
+            "par": 70,
+            "rating": 68,
+            "slope": 119
+          },
+          {
+            "name": "Forward/Gold",
+            "category": "MALE",
+            "yards": 4467,
+            "par": 70,
+            "rating": 61.2,
+            "slope": 102
+          },
+          {
+            "name": "Forward/Gold",
+            "category": "FEMALE",
+            "yards": 4467,
+            "par": 70,
+            "rating": 64.6,
+            "slope": 107
+          }
+        ]
+      },
+      {
+        "name": "Snake Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2344,
+            "par": 54,
+            "rating": 57.4,
+            "slope": 93
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2344,
+            "par": 54,
+            "rating": 59,
+            "slope": 95
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e8ade80-86ac-11e4-8c28-020000005b00/scottsdale-country-club"
+  }
+}

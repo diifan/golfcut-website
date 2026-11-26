@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98e83850-86ac-11e4-8c28-020000005b00/elmira-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98e83850-86ac-11e4-8c28-020000005b00/elmira-country-club",
+  "checked_at": 1795668303.7471802,
+  "sha256": "5431f195d11440da5e897782e318a2cf4a6e261d6b332d055ccdaf76b2c762da",
+  "title": "Elmira Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "98e83850-86ac-11e4-8c28-020000005b00",
+    "name": "Elmira Country Club",
+    "address": "1538 W Church St",
+    "courses": [
+      {
+        "name": "Elmira Country Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6747,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6292,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 130
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5338,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98e83850-86ac-11e4-8c28-020000005b00/elmira-country-club"
+  }
+}

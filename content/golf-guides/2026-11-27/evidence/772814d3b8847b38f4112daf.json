@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92e67070-86ac-11e4-8c28-020000005b00/roseland-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92e67070-86ac-11e4-8c28-020000005b00/roseland-golf-course",
+  "checked_at": 1795583772.4068723,
+  "sha256": "bd7397bc09e6d3b53d581df32e96b95989bef2e1407c48eabf812ca3516baca9",
+  "title": "Roseland Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "92e67070-86ac-11e4-8c28-020000005b00",
+    "name": "Roseland Golf Course",
+    "address": "204 Roseland Park Rd, Woodstock, CT",
+    "courses": [
+      {
+        "name": "Woodstock Golf Course 18",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 4980,
+            "par": 62,
+            "rating": 63.3,
+            "slope": 96
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 4980,
+            "par": 62,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4010,
+            "par": 62,
+            "rating": 63.3,
+            "slope": 96
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4010,
+            "par": 62,
+            "rating": 62.4,
+            "slope": 111
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 3974,
+            "par": 62,
+            "rating": 61.4,
+            "slope": 93
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 3974,
+            "par": 62,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      },
+      {
+        "name": "Woodstock Golf Course 9",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 2490,
+            "par": 31,
+            "rating": 32,
+            "slope": 99
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 2490,
+            "par": 31,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2005,
+            "par": 31,
+            "rating": 31.7,
+            "slope": 96
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2005,
+            "par": 31,
+            "rating": 31.2,
+            "slope": 111
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 1987,
+            "par": 31,
+            "rating": 30.7,
+            "slope": 93
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 1987,
+            "par": 31,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92e67070-86ac-11e4-8c28-020000005b00/roseland-golf-course"
+  }
+}

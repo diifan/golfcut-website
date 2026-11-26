@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0a15ee0-86ac-11e4-8c28-020000005b00/gig-harbor-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0a15ee0-86ac-11e4-8c28-020000005b00/gig-harbor-golf-club",
+  "checked_at": 1795664741.2224998,
+  "sha256": "91c775f90e79e76babb7fdd75074b0ec9ad92887e50a40111edaf0b231d3eeab",
+  "title": "Gig Harbor Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "b0a15ee0-86ac-11e4-8c28-020000005b00",
+    "name": "Gig Harbor Golf Club",
+    "address": "6909 Artondale Dr NW, Gig Harbor, WA",
+    "courses": [
+      {
+        "name": "Gig Harbor",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 5420,
+            "par": 70,
+            "rating": 66.7,
+            "slope": 128
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 5420,
+            "par": 70,
+            "rating": 71.8,
+            "slope": 135
+          },
+          {
+            "name": "Yellow/Red",
+            "category": "MALE",
+            "yards": 4833,
+            "par": 70,
+            "rating": 64,
+            "slope": 115
+          },
+          {
+            "name": "Yellow/Red",
+            "category": "FEMALE",
+            "yards": 4833,
+            "par": 70,
+            "rating": 68.3,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0a15ee0-86ac-11e4-8c28-020000005b00/gig-harbor-golf-club"
+  }
+}

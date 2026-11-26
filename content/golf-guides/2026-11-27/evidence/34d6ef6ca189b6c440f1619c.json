@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d28dd80-86ac-11e4-8c28-020000005b00/frankfort-commons",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d28dd80-86ac-11e4-8c28-020000005b00/frankfort-commons",
+  "checked_at": 1795666528.447386,
+  "sha256": "ed61fd627605696be768e2fb6ea90a1db8a7294977f51441dc7ed071772d0da1",
+  "title": "Frankfort Commons - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d28dd80-86ac-11e4-8c28-020000005b00",
+    "name": "Frankfort Commons",
+    "address": "100 Golf Preserve Ln, Frankfort, IN",
+    "courses": [
+      {
+        "name": "The Golf Preserve at Frankfort",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6316,
+            "par": 71,
+            "rating": 70.5,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6316,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6007,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6007,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 130
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5457,
+            "par": 71,
+            "rating": 66.2,
+            "slope": 120
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5457,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5088,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5088,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d28dd80-86ac-11e4-8c28-020000005b00/frankfort-commons"
+  }
+}

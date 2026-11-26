@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92058650-86ac-11e4-8c28-020000005b00/aurora-hills-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92058650-86ac-11e4-8c28-020000005b00/aurora-hills-golf-course",
+  "checked_at": 1795668323.0750916,
+  "sha256": "47fa5f8af5e7893e77c2124c4a0f334e858c973216f52eb390aaf7b4a503026e",
+  "title": "Aurora Hills Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92058650-86ac-11e4-8c28-020000005b00",
+    "name": "Aurora Hills Golf Course",
+    "address": "50 S. Peoria St, Aurora, CO",
+    "courses": [
+      {
+        "name": "Aurora Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6730,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6446,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 116
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5919,
+            "par": 72,
+            "rating": 67,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5543,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92058650-86ac-11e4-8c28-020000005b00/aurora-hills-golf-course"
+  }
+}

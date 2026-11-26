@@ -1,0 +1,59 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9974c0e0-86ac-11e4-8c28-020000005b00/christopher-morley-park",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9974c0e0-86ac-11e4-8c28-020000005b00/christopher-morley-park",
+  "checked_at": 1795664683.944959,
+  "sha256": "963d5cbf712101189e3bee69b8a0ebae84a74d5a8acf6d6625d442175d97a293",
+  "title": "Christopher Morley Park - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9974c0e0-86ac-11e4-8c28-020000005b00",
+    "name": "Christopher Morley Park",
+    "address": "500 Searingtown Rd., North Hills, NY",
+    "courses": [
+      {
+        "name": "Christopher Morley Park (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1603,
+            "par": 30,
+            "rating": 28.6,
+            "slope": 87
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1603,
+            "par": 30,
+            "rating": 29.6,
+            "slope": 94
+          }
+        ]
+      },
+      {
+        "name": "Christopher Morley Park (18 Holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3206,
+            "par": 60,
+            "rating": 57.2,
+            "slope": 87
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3206,
+            "par": 60,
+            "rating": 59.2,
+            "slope": 94
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9974c0e0-86ac-11e4-8c28-020000005b00/christopher-morley-park"
+  }
+}

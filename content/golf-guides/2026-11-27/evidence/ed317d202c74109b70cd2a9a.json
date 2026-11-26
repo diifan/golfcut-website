@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4ddd010-86ac-11e4-8c28-020000005b00/agate-beach-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4ddd010-86ac-11e4-8c28-020000005b00/agate-beach-golf-course",
+  "checked_at": 1795663901.2835407,
+  "sha256": "e9718dfad700fa42bd1dbf855465dc39272983e1dbcc0dac701ce9d933f418d9",
+  "title": "Agate Beach Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b4ddd010-86ac-11e4-8c28-020000005b00",
+    "name": "Agate Beach Golf Course",
+    "address": "4100 N Coast Hwy",
+    "courses": [
+      {
+        "name": "Agate Beach(9 holes )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5810,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5810,
+            "par": 76,
+            "rating": 72,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5338,
+            "par": 72,
+            "rating": 64.6,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5338,
+            "par": 76,
+            "rating": 69.6,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4ddd010-86ac-11e4-8c28-020000005b00/agate-beach-golf-course"
+  }
+}

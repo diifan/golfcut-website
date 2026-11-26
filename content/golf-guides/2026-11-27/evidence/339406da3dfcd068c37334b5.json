@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a25c160-86ac-11e4-8c28-020000005b00/north-shore-towers",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a25c160-86ac-11e4-8c28-020000005b00/north-shore-towers",
+  "checked_at": 1795663446.8633547,
+  "sha256": "18cdf9c155778f7903bde53f58b69a681a0498cf466de1ac3043429427e004e1",
+  "title": "North Shore Towers - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9a25c160-86ac-11e4-8c28-020000005b00",
+    "name": "North Shore Towers",
+    "address": "272-40 Grand Central Parkway",
+    "courses": [
+      {
+        "name": "North Shore Towers",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5721,
+            "par": 70,
+            "rating": 67.2,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5319,
+            "par": 70,
+            "rating": 65.5,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4769,
+            "par": 70,
+            "rating": 66.6,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a25c160-86ac-11e4-8c28-020000005b00/north-shore-towers"
+  }
+}

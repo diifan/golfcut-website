@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9586e4e0-86ac-11e4-8c28-020000005b00/squirrel-run-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9586e4e0-86ac-11e4-8c28-020000005b00/squirrel-run-golf",
+  "checked_at": 1795663907.8329847,
+  "sha256": "ecab5b7f804d55a9b69953e8cef69f491ed1f67926d2d60a1c05ee768d39e162",
+  "title": "Squirrel Run Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9586e4e0-86ac-11e4-8c28-020000005b00",
+    "name": "Squirrel Run Golf",
+    "address": "32 Elderberry Drive | Plymouth, MA 02360",
+    "courses": [
+      {
+        "name": "Squirrel Run",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2859,
+            "par": 57,
+            "rating": 55.4,
+            "slope": 85
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2338,
+            "par": 57,
+            "rating": 53.7,
+            "slope": 82
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1990,
+            "par": 57,
+            "rating": 51.8216,
+            "slope": 78.5681
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9586e4e0-86ac-11e4-8c28-020000005b00/squirrel-run-golf"
+  }
+}

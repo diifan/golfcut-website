@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d23e630-86ac-11e4-8c28-020000005b00/oakland-beach-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d23e630-86ac-11e4-8c28-020000005b00/oakland-beach-golf-course",
+  "checked_at": 1795664707.372589,
+  "sha256": "e6893086404aec9ce7818df642816c5cdb146ffd21466a35503674358b4977c4",
+  "title": "Oakland Beach Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d23e630-86ac-11e4-8c28-020000005b00",
+    "name": "Oakland Beach Golf Course",
+    "address": "11866 Oakland Beach Drive",
+    "courses": [
+      {
+        "name": "Oakland Beach",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6783,
+            "par": 71,
+            "rating": 72.1,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6783,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6122,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6122,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5378,
+            "par": 71,
+            "rating": 65.7,
+            "slope": 111
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5378,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5133,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5133,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d23e630-86ac-11e4-8c28-020000005b00/oakland-beach-golf-course"
+  }
+}

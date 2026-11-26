@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ad8bdb0-86ac-11e4-8c28-020000005b00/quaker-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ad8bdb0-86ac-11e4-8c28-020000005b00/quaker-creek-golf-course",
+  "checked_at": 1795668297.9352877,
+  "sha256": "b28dfa595af5287a64433869e481c14368e1baf8131e96f508d144dd33704675",
+  "title": "Quaker Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9ad8bdb0-86ac-11e4-8c28-020000005b00",
+    "name": "Quaker Creek Golf Course",
+    "address": "2817 Barnett Rd, Mebane, NC",
+    "courses": [
+      {
+        "name": "Quaker Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6922,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6554,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6109,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5412,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4776,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ad8bdb0-86ac-11e4-8c28-020000005b00/quaker-creek-golf-course"
+  }
+}

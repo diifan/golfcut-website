@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b84a2000-86ac-11e4-8c28-020000005b00/valley-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b84a2000-86ac-11e4-8c28-020000005b00/valley-country-club",
+  "checked_at": 1795668339.6704946,
+  "sha256": "736bc6353fdb761379e69a730e2a526a57ea6762677acd3377bc298a3f75b315",
+  "title": "Valley Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b84a2000-86ac-11e4-8c28-020000005b00",
+    "name": "Valley Country Club",
+    "address": "251 New London Ave, Warwick, RI",
+    "courses": [
+      {
+        "name": "Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6679,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 130
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6679,
+            "par": 72,
+            "rating": 77.4,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6458,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6458,
+            "par": 72,
+            "rating": 76.3,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6175,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6175,
+            "par": 72,
+            "rating": 76.7,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5636,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5636,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b84a2000-86ac-11e4-8c28-020000005b00/valley-country-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8cf4d530-86ac-11e4-8c28-020000005b00/oak-knoll",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8cf4d530-86ac-11e4-8c28-020000005b00/oak-knoll",
+  "checked_at": 1795668341.0454004,
+  "sha256": "df4101614eb147711c99ffdf38a0014b29d231b452da9faf1b5ad1a09cf1b4a2",
+  "title": "(closed) Oak Knoll - Scorecards, Reviews | 18Birdies star star star star star google-play",
+  "course_profile": {
+    "id": "8cf4d530-86ac-11e4-8c28-020000005b00",
+    "name": "(closed) Oak Knoll",
+    "address": "1705 W 550 S, Columbus, IN",
+    "courses": [
+      {
+        "name": "Oak Knoll",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7019,
+            "par": 73,
+            "rating": 73.4,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6052,
+            "par": 73,
+            "rating": 69.4,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5222,
+            "par": 73,
+            "rating": 68.7,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5047,
+            "par": 73,
+            "rating": 67.9,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8cf4d530-86ac-11e4-8c28-020000005b00/oak-knoll"
+  }
+}

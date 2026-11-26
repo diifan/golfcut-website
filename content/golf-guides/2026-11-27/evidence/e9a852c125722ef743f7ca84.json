@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/75f00a80-86ac-11e4-8c28-020000005b00/clear-lake-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/75f00a80-86ac-11e4-8c28-020000005b00/clear-lake-golf-course",
+  "checked_at": 1795661664.5595896,
+  "sha256": "4972211a4ca68217094ff1e527ad1a074300d09e71441c26a5e476f6bb2fa4cb",
+  "title": "Clear Lake Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "75f00a80-86ac-11e4-8c28-020000005b00",
+    "name": "Clear Lake Golf Course",
+    "address": "Riding Mountain National Park, Onanole",
+    "courses": [
+      {
+        "name": "Clear Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6309,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6309,
+            "par": 74,
+            "rating": 75.3,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6013,
+            "par": 72,
+            "rating": 69,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6013,
+            "par": 74,
+            "rating": 73.4,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5515,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5515,
+            "par": 74,
+            "rating": 71.2,
+            "slope": 125
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4116,
+            "par": 72,
+            "rating": 63.7,
+            "slope": 109
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 4116,
+            "par": 74,
+            "rating": 63.8,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/75f00a80-86ac-11e4-8c28-020000005b00/clear-lake-golf-course"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/909db8f0-86ac-11e4-8c28-020000005b00/pointe-west",
+  "resolved_url": "https://18birdies.com/golf-courses/club/909db8f0-86ac-11e4-8c28-020000005b00/pointe-west",
+  "checked_at": 1795661647.5438259,
+  "sha256": "4636e2eac550c210587e705ca8820ec5a15f69a70df3a532a7f25ffefe08a89d",
+  "title": "Pointe West - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "909db8f0-86ac-11e4-8c28-020000005b00",
+    "name": "Pointe West",
+    "address": "7510 14th Ln, Vero Beach, FL",
+    "courses": [
+      {
+        "name": "Pointe West",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 6864,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 142
+          },
+          {
+            "name": "Tournament",
+            "category": "FEMALE",
+            "yards": 6864,
+            "par": 72,
+            "rating": 78.4,
+            "slope": 140
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6399,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 137
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6399,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 134
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5826,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 127
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5826,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 137
+          },
+          {
+            "name": "Standard",
+            "category": "MALE",
+            "yards": 5356,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 119
+          },
+          {
+            "name": "Standard",
+            "category": "FEMALE",
+            "yards": 5356,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 133
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4879,
+            "par": 72,
+            "rating": 64,
+            "slope": 115
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 4879,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/909db8f0-86ac-11e4-8c28-020000005b00/pointe-west"
+  }
+}

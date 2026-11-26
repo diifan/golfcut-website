@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99eb7780-86ac-11e4-8c28-020000005b00/hill-n-dale-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99eb7780-86ac-11e4-8c28-020000005b00/hill-n-dale-country-club",
+  "checked_at": 1795663480.4217973,
+  "sha256": "0a34019e275511563234732d90a22f3afe603250d1f4ef42fbd9e98f094574dd",
+  "title": "Hill-N-Dale Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99eb7780-86ac-11e4-8c28-020000005b00",
+    "name": "Hill-N-Dale Country Club",
+    "address": "6402 Route 80",
+    "courses": [
+      {
+        "name": "Hill N Dale / HILL N DALE BACK",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5775,
+            "par": 69,
+            "rating": 71.2,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5775,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99eb7780-86ac-11e4-8c28-020000005b00/hill-n-dale-country-club"
+  }
+}

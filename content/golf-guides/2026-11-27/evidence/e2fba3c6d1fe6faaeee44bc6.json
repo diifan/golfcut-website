@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/97a88c60-86ac-11e4-8c28-020000005b00/bayonne-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/97a88c60-86ac-11e4-8c28-020000005b00/bayonne-golf-club",
+  "checked_at": 1795669234.8687634,
+  "sha256": "a4cc5a775d940accced0274c6e3bda6201a4759e8be62dfa374fbc2bb6d8949d",
+  "title": "Bayonne Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "97a88c60-86ac-11e4-8c28-020000005b00",
+    "name": "Bayonne Golf Club",
+    "address": "1 Lefante Way, Bayonne, NJ",
+    "courses": [
+      {
+        "name": "Bayonne",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7106,
+            "par": 71,
+            "rating": 74.9,
+            "slope": 145
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6712,
+            "par": 71,
+            "rating": 73,
+            "slope": 142
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6303,
+            "par": 71,
+            "rating": 71.1,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5378,
+            "par": 71,
+            "rating": 66.9,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/97a88c60-86ac-11e4-8c28-020000005b00/bayonne-golf-club"
+  }
+}

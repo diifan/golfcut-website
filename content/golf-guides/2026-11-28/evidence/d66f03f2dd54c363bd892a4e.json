@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99890c30-86ac-11e4-8c28-020000005b00/quaker-hill-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99890c30-86ac-11e4-8c28-020000005b00/quaker-hill-country-club",
+  "checked_at": 1795694268.34884,
+  "sha256": "d2b1b955d77c04f730d9a798e701b4eef0b9ec05ca62e562b8dbace3ecda06e7",
+  "title": "Quaker Hill Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99890c30-86ac-11e4-8c28-020000005b00",
+    "name": "Quaker Hill Country Club",
+    "address": "1013 Old Quaker Hill Rd",
+    "courses": [
+      {
+        "name": "Quaker Hill",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue / White (Sarazen)",
+            "category": "MALE",
+            "yards": 6110,
+            "par": 70,
+            "rating": 70.4,
+            "slope": 136
+          },
+          {
+            "name": "Blue / White (Sarazen)",
+            "category": "FEMALE",
+            "yards": 6110,
+            "par": 74,
+            "rating": 75.7,
+            "slope": 142
+          },
+          {
+            "name": "Red / Yellow (Thomas)",
+            "category": "MALE",
+            "yards": 5369,
+            "par": 70,
+            "rating": 66.6,
+            "slope": 125
+          },
+          {
+            "name": "Red / Yellow (Thomas)",
+            "category": "FEMALE",
+            "yards": 5369,
+            "par": 74,
+            "rating": 71.7,
+            "slope": 129
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99890c30-86ac-11e4-8c28-020000005b00/quaker-hill-country-club"
+  }
+}

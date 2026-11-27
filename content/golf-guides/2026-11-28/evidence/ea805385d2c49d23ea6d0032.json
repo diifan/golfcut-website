@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/896322f0-86ac-11e4-8c28-020000005b00/adam-springs-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/896322f0-86ac-11e4-8c28-020000005b00/adam-springs-golf-course",
+  "checked_at": 1795694349.2103195,
+  "sha256": "4f1947fb8fe640b7cbf2ab30af3bfc2fc5e7532adba6e693c1bc37468d87b39f",
+  "title": "Adam Springs  Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "896322f0-86ac-11e4-8c28-020000005b00",
+    "name": "Adam Springs  Golf Course",
+    "address": "14347 Snead Court",
+    "courses": [
+      {
+        "name": "Adam Springs  Golf Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2640,
+            "par": 34,
+            "rating": 32.8,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2499,
+            "par": 34,
+            "rating": 31.9,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/896322f0-86ac-11e4-8c28-020000005b00/adam-springs-golf-course"
+  }
+}

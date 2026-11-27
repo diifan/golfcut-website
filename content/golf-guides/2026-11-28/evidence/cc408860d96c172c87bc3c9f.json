@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b09725b0-86ac-11e4-8c28-020000005b00/ellensburg-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b09725b0-86ac-11e4-8c28-020000005b00/ellensburg-golf-club",
+  "checked_at": 1795664723.8615923,
+  "sha256": "7b97da7be23b489185c9b104b9a690df9d78051dec47503e13d151eadcf5bc44",
+  "title": "Ellensburg Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b09725b0-86ac-11e4-8c28-020000005b00",
+    "name": "Ellensburg Golf Club",
+    "address": "3231 Thorp Hwy S, Ellensburg",
+    "courses": [
+      {
+        "name": "Ellensburg (9 holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White/Red",
+            "category": "MALE",
+            "yards": 3064,
+            "par": 35,
+            "rating": 35.3,
+            "slope": 126
+          },
+          {
+            "name": "White/Red",
+            "category": "FEMALE",
+            "yards": 3064,
+            "par": 36,
+            "rating": 38.5,
+            "slope": 131
+          },
+          {
+            "name": "Blue/Yellow",
+            "category": "MALE",
+            "yards": 2755,
+            "par": 35,
+            "rating": 33.5,
+            "slope": 114
+          },
+          {
+            "name": "Blue/Yellow",
+            "category": "FEMALE",
+            "yards": 2755,
+            "par": 36,
+            "rating": 36.4,
+            "slope": 122
+          }
+        ]
+      },
+      {
+        "name": "Ellensburg (18 holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Red",
+            "category": "MALE",
+            "yards": 6360,
+            "par": 71,
+            "rating": 70.7,
+            "slope": 126
+          },
+          {
+            "name": "White/Red",
+            "category": "FEMALE",
+            "yards": 6360,
+            "par": 73,
+            "rating": 77.1,
+            "slope": 131
+          },
+          {
+            "name": "Blue/Yellow",
+            "category": "MALE",
+            "yards": 5606,
+            "par": 71,
+            "rating": 67,
+            "slope": 114
+          },
+          {
+            "name": "Blue/Yellow",
+            "category": "FEMALE",
+            "yards": 5606,
+            "par": 73,
+            "rating": 72.8,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b09725b0-86ac-11e4-8c28-020000005b00/ellensburg-golf-club"
+  }
+}

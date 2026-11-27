@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92fa1f80-86ac-11e4-8c28-020000005b00/rock-manor-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92fa1f80-86ac-11e4-8c28-020000005b00/rock-manor-golf-club",
+  "checked_at": 1795700401.0152764,
+  "sha256": "5243bd7a0dca8b47d29eae072b268ccdb4dacd4d016013d89c516e2d354f7485",
+  "title": "Rock Manor Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92fa1f80-86ac-11e4-8c28-020000005b00",
+    "name": "Rock Manor Golf Club",
+    "address": "1319 Carruthers Lane, Wilmington, DE",
+    "courses": [
+      {
+        "name": "Rock Manor",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6405,
+            "par": 71,
+            "rating": 71.1,
+            "slope": 135
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6405,
+            "par": 71,
+            "rating": 76,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5980,
+            "par": 71,
+            "rating": 68.7,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5980,
+            "par": 71,
+            "rating": 73.7,
+            "slope": 129
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5295,
+            "par": 71,
+            "rating": 65.8,
+            "slope": 125
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5295,
+            "par": 71,
+            "rating": 70.9,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4668,
+            "par": 71,
+            "rating": 63.4,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4668,
+            "par": 71,
+            "rating": 67.5,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92fa1f80-86ac-11e4-8c28-020000005b00/rock-manor-golf-club"
+  }
+}

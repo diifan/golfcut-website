@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8f758ca0-86ac-11e4-8c28-020000005b00/cypress-greens-golf-tennis-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8f758ca0-86ac-11e4-8c28-020000005b00/cypress-greens-golf-tennis-club",
+  "checked_at": 1795700298.89041,
+  "sha256": "6ecb4c676f7840e5b1f1be6f21eb2ee8b2f7be669270249c30da355b670bf075",
+  "title": "Cypress Greens Golf & Tennis Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8f758ca0-86ac-11e4-8c28-020000005b00",
+    "name": "Cypress Greens Golf & Tennis Club",
+    "address": "1000 Cypress Creek Blvd",
+    "courses": [
+      {
+        "name": "Cypress Greens",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5170,
+            "par": 70,
+            "rating": 64.8,
+            "slope": 109
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5170,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4814,
+            "par": 70,
+            "rating": 63,
+            "slope": 105
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4814,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4226,
+            "par": 70,
+            "rating": 61.2,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4226,
+            "par": 70,
+            "rating": 64.6,
+            "slope": 109
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 3572,
+            "par": 70,
+            "rating": 59,
+            "slope": 96
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 3572,
+            "par": 70,
+            "rating": 60.2,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8f758ca0-86ac-11e4-8c28-020000005b00/cypress-greens-golf-tennis-club"
+  }
+}

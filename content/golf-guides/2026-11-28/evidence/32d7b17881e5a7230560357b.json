@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/974a18b0-86ac-11e4-8c28-020000005b00/the-highlands-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/974a18b0-86ac-11e4-8c28-020000005b00/the-highlands-golf-club",
+  "checked_at": 1795686486.4736161,
+  "sha256": "b4dd262139c68d4184bfebe2b81c3b31ce25d07530b8bd71626c139deea2ecf7",
+  "title": "The Highlands Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "974a18b0-86ac-11e4-8c28-020000005b00",
+    "name": "The Highlands Golf Club",
+    "address": "102 Ben Hogan Dr, Missoula, Montana",
+    "courses": [
+      {
+        "name": "Highlands",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Mens (Blue/Black)",
+            "category": "MALE",
+            "yards": 6005,
+            "par": 69,
+            "rating": 68.3,
+            "slope": 118
+          },
+          {
+            "name": "Mens (Blue/Black)",
+            "category": "FEMALE",
+            "yards": 6005,
+            "par": 71,
+            "rating": 73.6,
+            "slope": 133
+          },
+          {
+            "name": "Ladies (Blue/Black)",
+            "category": "MALE",
+            "yards": 5405,
+            "par": 69,
+            "rating": 65.8,
+            "slope": 114
+          },
+          {
+            "name": "Ladies (Blue/Black)",
+            "category": "FEMALE",
+            "yards": 5405,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/974a18b0-86ac-11e4-8c28-020000005b00/the-highlands-golf-club"
+  }
+}

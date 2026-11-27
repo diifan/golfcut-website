@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b62c4910-86ac-11e4-8c28-020000005b00/elk-city-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b62c4910-86ac-11e4-8c28-020000005b00/elk-city-golf-country-club",
+  "checked_at": 1795666522.9387555,
+  "sha256": "a26974af6e4a0dfde36d7a21aea6d60eb734902d35c16fdafc5d0e275d2a0212",
+  "title": "Elk City Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b62c4910-86ac-11e4-8c28-020000005b00",
+    "name": "Elk City Golf & Country Club",
+    "address": "108 Lakeridge Rd",
+    "courses": [
+      {
+        "name": "Elk City",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 6179,
+            "par": 71,
+            "rating": 73.1,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5993,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5500,
+            "par": 71,
+            "rating": 66.1,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4684,
+            "par": 71,
+            "rating": 66.3,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b62c4910-86ac-11e4-8c28-020000005b00/elk-city-golf-country-club"
+  }
+}

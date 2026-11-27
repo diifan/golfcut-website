@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/924415f0-86ac-11e4-8c28-020000005b00/la-junta-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/924415f0-86ac-11e4-8c28-020000005b00/la-junta-golf-club",
+  "checked_at": 1795663476.015288,
+  "sha256": "d429c3e34895770d42aa1f4a86ee3473cb3aa8c0db60c1b105edccb833ef794f",
+  "title": "La Junta Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "924415f0-86ac-11e4-8c28-020000005b00",
+    "name": "La Junta Golf Club",
+    "address": "27696 Harris Rd.",
+    "courses": [
+      {
+        "name": "La Junta",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black Tees",
+            "category": "MALE",
+            "yards": 6617,
+            "par": 70,
+            "rating": 71,
+            "slope": 118
+          },
+          {
+            "name": "White/Blue Yards",
+            "category": "MALE",
+            "yards": 6366,
+            "par": 70,
+            "rating": 68.8,
+            "slope": 110
+          },
+          {
+            "name": "Red/Yellow Yards",
+            "category": "MALE",
+            "yards": 5149,
+            "par": 70,
+            "rating": 63.7,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/924415f0-86ac-11e4-8c28-020000005b00/la-junta-golf-club"
+  }
+}

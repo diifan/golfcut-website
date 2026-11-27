@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/754e2530-86ac-11e4-8c28-020000005b00/glacier-greens",
+  "resolved_url": "https://18birdies.com/golf-courses/club/754e2530-86ac-11e4-8c28-020000005b00/glacier-greens",
+  "checked_at": 1795663442.1992278,
+  "sha256": "d7df08f2ad8c23ebbf16af3af09c041f7a4826c30a8b0ebfda931e8fbeee1c9a",
+  "title": "Glacier Greens - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "754e2530-86ac-11e4-8c28-020000005b00",
+    "name": "Glacier Greens",
+    "address": "CFB, Comox",
+    "courses": [
+      {
+        "name": "Glacier Greens",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6303,
+            "par": 71,
+            "rating": 73.7,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6303,
+            "par": 71,
+            "rating": 75.4,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5663,
+            "par": 71,
+            "rating": 67.6,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5663,
+            "par": 71,
+            "rating": 72,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5013,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5013,
+            "par": 71,
+            "rating": 68.5,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/754e2530-86ac-11e4-8c28-020000005b00/glacier-greens"
+  }
+}

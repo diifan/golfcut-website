@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/72d29de0-86ac-11e4-8c28-020000005b00/moore-park-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/72d29de0-86ac-11e4-8c28-020000005b00/moore-park-golf-club",
+  "checked_at": 1795687704.29934,
+  "sha256": "f591770098dde324b21df35a04146cda70ac77910881b07abba0c6ab27c14f4c",
+  "title": "Moore Park Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "72d29de0-86ac-11e4-8c28-020000005b00",
+    "name": "Moore Park Golf Club",
+    "address": "Cnr Anzac Pde & Cleveland St, Moore Park, Sydney, NSW",
+    "courses": [
+      {
+        "name": "Moore Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6333.095509999999,
+            "par": 70,
+            "rating": 70.1,
+            "slope": 116
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6333.095509999999,
+            "par": 70,
+            "rating": 75.6,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6079.377989999999,
+            "par": 70,
+            "rating": 69.2,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6079.377989999999,
+            "par": 70,
+            "rating": 74.2,
+            "slope": 131
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5804.881879999999,
+            "par": 70,
+            "rating": 66.5,
+            "slope": 107
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5804.881879999999,
+            "par": 70,
+            "rating": 72.8,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5466.95639,
+            "par": 70,
+            "rating": 69.8,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5466.95639,
+            "par": 70,
+            "rating": 71.5,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/72d29de0-86ac-11e4-8c28-020000005b00/moore-park-golf-club"
+  }
+}

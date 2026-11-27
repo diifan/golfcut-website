@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/91e9e800-86ac-11e4-8c28-020000005b00/indian-oaks-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/91e9e800-86ac-11e4-8c28-020000005b00/indian-oaks-golf-club",
+  "checked_at": 1795686380.7928572,
+  "sha256": "59c3eb1c3d9bce99c1b9637f2e634f6abbcfd8993ab0cc96d85b22659ef99a14",
+  "title": "Indian Oaks Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star-o star star-o star-o star star star-o star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "91e9e800-86ac-11e4-8c28-020000005b00",
+    "name": "Indian Oaks Golf Club",
+    "address": "201 Cherokee Trl, Anniston, AL",
+    "courses": [
+      {
+        "name": "Indian Oaks Golf Club front/back",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6015,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5177,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/91e9e800-86ac-11e4-8c28-020000005b00/indian-oaks-golf-club"
+  }
+}

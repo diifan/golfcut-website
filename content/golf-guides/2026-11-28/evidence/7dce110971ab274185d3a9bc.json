@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/89c407a0-86ac-11e4-8c28-020000005b00/the-golf-center-at-palm-desert",
+  "resolved_url": "https://18birdies.com/golf-courses/club/89c407a0-86ac-11e4-8c28-020000005b00/the-golf-center-at-palm-desert",
+  "checked_at": 1795686299.3232481,
+  "sha256": "c44bdec211351b4fab5c0a9db129aa59cfeff4b371aaccd754725a5aa75e8d83",
+  "title": "The Golf Center at Palm Desert - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "89c407a0-86ac-11e4-8c28-020000005b00",
+    "name": "The Golf Center at Palm Desert",
+    "address": "74945 Sheryl Ave, Palm Desert, CA",
+    "courses": [
+      {
+        "name": "The Golf Center at Palm Desert",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 935,
+            "par": 27,
+            "rating": 36.5,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 935,
+            "par": 27,
+            "rating": 37.3,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 836,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 836,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/89c407a0-86ac-11e4-8c28-020000005b00/the-golf-center-at-palm-desert"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/91d8d100-86ac-11e4-8c28-020000005b00/azalea-city-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/91d8d100-86ac-11e4-8c28-020000005b00/azalea-city-club",
+  "checked_at": 1795666559.110226,
+  "sha256": "94a68954da3c8d13c5b71bc3b953fb5c827f18db5b073266e5f5ddb95112330f",
+  "title": "Azalea City Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "91d8d100-86ac-11e4-8c28-020000005b00",
+    "name": "Azalea City Club",
+    "address": "1000 Gaillard Drive Mobile, AL  36608",
+    "courses": [
+      {
+        "name": "Azalea City Club 1-9/10-18",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6850,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6548,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 112
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5821,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5347,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/91d8d100-86ac-11e4-8c28-020000005b00/azalea-city-club"
+  }
+}

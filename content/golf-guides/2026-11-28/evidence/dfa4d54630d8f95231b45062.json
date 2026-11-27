@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2805810-86ac-11e4-8c28-020000005b00/eagle-glen-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2805810-86ac-11e4-8c28-020000005b00/eagle-glen-golf-course",
+  "checked_at": 1795661654.401551,
+  "sha256": "6c3317b36243538f22058fca07cf6cd69201d531bc0a6519e457ed8a4e71f20a",
+  "title": "Eagle Glen Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b2805810-86ac-11e4-8c28-020000005b00",
+    "name": "Eagle Glen Golf Course",
+    "address": "1251 Clubhouse Dr, Farwell, MI",
+    "courses": [
+      {
+        "name": "Eagle Glen",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6563,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6563,
+            "par": 72,
+            "rating": 77.8,
+            "slope": 141
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6096,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6096,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 134
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5895,
+            "par": 72,
+            "rating": 67,
+            "slope": 119
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5895,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5807,
+            "par": 72,
+            "rating": 63.4,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5807,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2805810-86ac-11e4-8c28-020000005b00/eagle-glen-golf-course"
+  }
+}

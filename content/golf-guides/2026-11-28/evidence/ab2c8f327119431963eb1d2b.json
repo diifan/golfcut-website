@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8f636430-86ac-11e4-8c28-020000005b00/bent-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8f636430-86ac-11e4-8c28-020000005b00/bent-creek-golf-course",
+  "checked_at": 1795661627.2586021,
+  "sha256": "cf4ec339dc46e60f4ae43814e7b61747c7e922b627eaae62336c6d74b2451db3",
+  "title": "Bent Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8f636430-86ac-11e4-8c28-020000005b00",
+    "name": "Bent Creek Golf Course",
+    "address": "10440 Tournament Lane, Jacksonville, FL 32222",
+    "courses": [
+      {
+        "name": "Bent Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6420,
+            "par": 71,
+            "rating": 71.6,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6420,
+            "par": 71,
+            "rating": 76,
+            "slope": 135
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5999,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 128
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5999,
+            "par": 71,
+            "rating": 73.8,
+            "slope": 130
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5307,
+            "par": 71,
+            "rating": 66.3,
+            "slope": 123
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5307,
+            "par": 71,
+            "rating": 71.7,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4865,
+            "par": 71,
+            "rating": 67.1,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4865,
+            "par": 71,
+            "rating": 69.3,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8f636430-86ac-11e4-8c28-020000005b00/bent-creek-golf-course"
+  }
+}

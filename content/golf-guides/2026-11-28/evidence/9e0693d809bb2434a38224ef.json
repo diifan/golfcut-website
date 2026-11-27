@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4fec590-86ac-11e4-8c28-020000005b00/crooked-river-ranch",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4fec590-86ac-11e4-8c28-020000005b00/crooked-river-ranch",
+  "checked_at": 1795661624.1837676,
+  "sha256": "efe851aaf69998a7ff748e65459140036a08d9f8543928c02d72fc6883eff210",
+  "title": "Crooked River Ranch Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b4fec590-86ac-11e4-8c28-020000005b00",
+    "name": "Crooked River Ranch Golf",
+    "address": "5195 club house rd",
+    "courses": [
+      {
+        "name": "Crooked River Ranch",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back Blue",
+            "category": "MALE",
+            "yards": 5818,
+            "par": 71,
+            "rating": 68,
+            "slope": 119
+          },
+          {
+            "name": "Back Blue",
+            "category": "FEMALE",
+            "yards": 5818,
+            "par": 71,
+            "rating": 72.6,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5355,
+            "par": 71,
+            "rating": 65.5,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5355,
+            "par": 71,
+            "rating": 70.7,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5000,
+            "par": 71,
+            "rating": 64,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5000,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5669,
+            "par": 71,
+            "rating": 67.2,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5669,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5000,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5000,
+            "par": 71,
+            "rating": 61.4,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4fec590-86ac-11e4-8c28-020000005b00/crooked-river-ranch"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d528590-86ac-11e4-8c28-020000005b00/beechwood-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d528590-86ac-11e4-8c28-020000005b00/beechwood-golf-course",
+  "checked_at": 1795661439.97414,
+  "sha256": "9bda429adae4e11a697a799bc48bcac0fcda972f9b5ef2d43f1919d23439578a",
+  "title": "Beechwood Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d528590-86ac-11e4-8c28-020000005b00",
+    "name": "Beechwood Golf Course",
+    "address": "2222 Woodlawn Dr, La Porte, IN",
+    "courses": [
+      {
+        "name": "Beachwood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6657,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6657,
+            "par": 74,
+            "rating": 78.4,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6339,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6339,
+            "par": 74,
+            "rating": 76.8,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5889,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5889,
+            "par": 74,
+            "rating": 74.2,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5703,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5703,
+            "par": 74,
+            "rating": 73.2,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d528590-86ac-11e4-8c28-020000005b00/beechwood-golf-course"
+  }
+}

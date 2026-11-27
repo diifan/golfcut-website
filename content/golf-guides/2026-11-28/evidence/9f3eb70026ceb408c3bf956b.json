@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba3f1230-86ac-11e4-8c28-020000005b00/airport-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba3f1230-86ac-11e4-8c28-020000005b00/airport-golf-club",
+  "checked_at": 1795663464.7992294,
+  "sha256": "ed9b41b86064bee918907267ab60ba7bdb2550bc7884586718261108fca91026",
+  "title": "Airport Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ba3f1230-86ac-11e4-8c28-020000005b00",
+    "name": "Airport Golf Club",
+    "address": "4801 Central Ave",
+    "courses": [
+      {
+        "name": "Cheyenne Airport",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6170,
+            "par": 70,
+            "rating": 68.7,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6170,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5982,
+            "par": 70,
+            "rating": 67.9,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5982,
+            "par": 70,
+            "rating": 74,
+            "slope": 134
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4995,
+            "par": 70,
+            "rating": 63.7,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4995,
+            "par": 70,
+            "rating": 68,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4439,
+            "par": 70,
+            "rating": 62.1,
+            "slope": 103
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4439,
+            "par": 70,
+            "rating": 64.8,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba3f1230-86ac-11e4-8c28-020000005b00/airport-golf-club"
+  }
+}

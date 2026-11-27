@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9684a5d0-86ac-11e4-8c28-020000005b00/loon-lake-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9684a5d0-86ac-11e4-8c28-020000005b00/loon-lake-golf",
+  "checked_at": 1795686293.854691,
+  "sha256": "1bafe6cda597f6480576a73a9bd1b2200c9fb1958b5ebb36c93460e0e1beecdd",
+  "title": "Loon Lake Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9684a5d0-86ac-11e4-8c28-020000005b00",
+    "name": "Loon Lake Golf",
+    "address": "73209 490th Ave",
+    "courses": [
+      {
+        "name": "Loon Lake Public",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2965,
+            "par": 36,
+            "rating": 36,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2965,
+            "par": 37,
+            "rating": 36.7,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2514,
+            "par": 36,
+            "rating": 33.9,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2514,
+            "par": 37,
+            "rating": 34.3,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9684a5d0-86ac-11e4-8c28-020000005b00/loon-lake-golf"
+  }
+}

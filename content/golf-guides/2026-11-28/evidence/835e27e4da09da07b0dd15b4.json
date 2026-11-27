@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b433f50-86ac-11e4-8c28-020000005b00/washington-yacht-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b433f50-86ac-11e4-8c28-020000005b00/washington-yacht-country-club",
+  "checked_at": 1795661468.688922,
+  "sha256": "69a740454906abf3cc2b17a81b37c1a46f4bd0f539468709c7ae28cf18b1be5c",
+  "title": "Washington Yacht & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9b433f50-86ac-11e4-8c28-020000005b00",
+    "name": "Washington Yacht & Country Club",
+    "address": "7155 River Rd, Washington, NC",
+    "courses": [
+      {
+        "name": "Washington Yacht",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6669,
+            "par": 72,
+            "rating": 72,
+            "slope": 138
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6315,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5837,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5195,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b433f50-86ac-11e4-8c28-020000005b00/washington-yacht-country-club"
+  }
+}

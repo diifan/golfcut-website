@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af840800-86ac-11e4-8c28-020000005b00/fox-hollow-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af840800-86ac-11e4-8c28-020000005b00/fox-hollow-golf-course",
+  "checked_at": 1795661466.9174821,
+  "sha256": "a17e916b74c0b73637b11cea88d475c73acbe84357f598fb165ed1763aa88b3e",
+  "title": "Fox Hollow Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af840800-86ac-11e4-8c28-020000005b00",
+    "name": "Fox Hollow Golf Course",
+    "address": "1400 N 200 E, American Fork, UT",
+    "courses": [
+      {
+        "name": "Fox Hollow",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7189,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 122
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7189,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6810,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6810,
+            "par": 73,
+            "rating": 78.1,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6393,
+            "par": 72,
+            "rating": 68,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6393,
+            "par": 73,
+            "rating": 73.5,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5659,
+            "par": 72,
+            "rating": 64.7,
+            "slope": 108
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5659,
+            "par": 73,
+            "rating": 69.5,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5406,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5406,
+            "par": 73,
+            "rating": 67.8,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af840800-86ac-11e4-8c28-020000005b00/fox-hollow-golf-course"
+  }
+}

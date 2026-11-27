@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b80ca1d0-86ac-11e4-8c28-020000005b00/st-marys-public-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b80ca1d0-86ac-11e4-8c28-020000005b00/st-marys-public-golf-course",
+  "checked_at": 1795685326.1032171,
+  "sha256": "1b7847f34e21c5b612881a6fb3f92c04aaf63c066e5fb1a48e85400817c7bbf0",
+  "title": "St Marys Public Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b80ca1d0-86ac-11e4-8c28-020000005b00",
+    "name": "St Marys Public Golf Course",
+    "address": "604 Golf Course Ln, Saint Marys, KS",
+    "courses": [
+      {
+        "name": "Saint Marys",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5714,
+            "par": 70,
+            "rating": 68.6,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5492,
+            "par": 70,
+            "rating": 65.8,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5063,
+            "par": 70,
+            "rating": 62.8,
+            "slope": 97
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b80ca1d0-86ac-11e4-8c28-020000005b00/st-marys-public-golf-course"
+  }
+}

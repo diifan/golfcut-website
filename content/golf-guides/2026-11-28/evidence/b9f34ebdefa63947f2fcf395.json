@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/937f2e00-86ac-11e4-8c28-020000005b00/hogansville-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/937f2e00-86ac-11e4-8c28-020000005b00/hogansville-golf-club",
+  "checked_at": 1795661629.3308508,
+  "sha256": "620106d2928782afc7508a90d607492a0c6d975bd6832d2002645bcfa51f2133",
+  "title": "Hogansville Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "937f2e00-86ac-11e4-8c28-020000005b00",
+    "name": "Hogansville Golf Club",
+    "address": "115 American Legion Rd",
+    "courses": [
+      {
+        "name": "Hogansville",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3004,
+            "par": 35,
+            "rating": 36.2,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2839,
+            "par": 35,
+            "rating": 35.4,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/937f2e00-86ac-11e4-8c28-020000005b00/hogansville-golf-club"
+  }
+}

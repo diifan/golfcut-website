@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5f310a0-86ac-11e4-8c28-020000005b00/hammond",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5f310a0-86ac-11e4-8c28-020000005b00/hammond",
+  "checked_at": 1795694362.7079859,
+  "sha256": "7fb5660539add6a599669d15f915e4e01ce2c9df6f783757207d0d25327f7bad",
+  "title": "Hammond - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b5f310a0-86ac-11e4-8c28-020000005b00",
+    "name": "Hammond",
+    "address": "450 Davis St, Hammond, WI",
+    "courses": [
+      {
+        "name": "Hammond",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3137,
+            "par": 36,
+            "rating": 36.8,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3137,
+            "par": 35,
+            "rating": 37.6,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3051,
+            "par": 36,
+            "rating": 36.4,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3051,
+            "par": 35,
+            "rating": 37.2,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2504,
+            "par": 36,
+            "rating": 33.9,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2504,
+            "par": 35,
+            "rating": 34.3,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5f310a0-86ac-11e4-8c28-020000005b00/hammond"
+  }
+}

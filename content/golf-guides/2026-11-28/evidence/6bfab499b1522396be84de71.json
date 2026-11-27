@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96330360-86ac-11e4-8c28-020000005b00/vermilion-fairways",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96330360-86ac-11e4-8c28-020000005b00/vermilion-fairways",
+  "checked_at": 1795694375.6234584,
+  "sha256": "f1b7f621dbb88ee42765bb28324b286cd55d939fbae7f026da0afad46aeb9ba8",
+  "title": "Vermilion Fairways - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96330360-86ac-11e4-8c28-020000005b00",
+    "name": "Vermilion Fairways",
+    "address": "2407 Vermilion Dr",
+    "courses": [
+      {
+        "name": "Vermilion Fairways",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6490,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6490,
+            "par": 78,
+            "rating": 76.2,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5948,
+            "par": 72,
+            "rating": 72,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5948,
+            "par": 78,
+            "rating": 73.8,
+            "slope": 131
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96330360-86ac-11e4-8c28-020000005b00/vermilion-fairways"
+  }
+}

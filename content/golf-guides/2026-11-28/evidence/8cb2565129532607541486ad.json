@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1da7b20-86ac-11e4-8c28-020000005b00/paris-hill-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1da7b20-86ac-11e4-8c28-020000005b00/paris-hill-country-club",
+  "checked_at": 1795686397.7765222,
+  "sha256": "7c4ec3cb11af240e8de001877586ba2cdef529f3cdc1319dabb60672e32e350c",
+  "title": "Paris Hill Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1da7b20-86ac-11e4-8c28-020000005b00",
+    "name": "Paris Hill Country Club",
+    "address": "455 Paris Hill Road, Paris, ME",
+    "courses": [
+      {
+        "name": "Paris Hill (9 holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 2445,
+            "par": 35,
+            "rating": 32.4,
+            "slope": 102
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 2445,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2117,
+            "par": 35,
+            "rating": 30.6,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2117,
+            "par": 35,
+            "rating": 32.4,
+            "slope": 102
+          }
+        ]
+      },
+      {
+        "name": "Paris Hill (18 holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 4890,
+            "par": 70,
+            "rating": 64.5,
+            "slope": 103
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 4890,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4234,
+            "par": 70,
+            "rating": 61.2,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4234,
+            "par": 70,
+            "rating": 64.8,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1da7b20-86ac-11e4-8c28-020000005b00/paris-hill-country-club"
+  }
+}

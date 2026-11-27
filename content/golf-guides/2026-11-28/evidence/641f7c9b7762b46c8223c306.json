@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9721d030-86ac-11e4-8c28-020000005b00/rich-springs",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9721d030-86ac-11e4-8c28-020000005b00/rich-springs",
+  "checked_at": 1795668313.0643032,
+  "sha256": "dc671111beef39de039bc7705ff986d42408c9adc3f23b4e72c70ef26c1893f8",
+  "title": "Rich Springs - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9721d030-86ac-11e4-8c28-020000005b00",
+    "name": "Rich Springs",
+    "address": "17467 Fairway Cir, Cold Spring, MN",
+    "courses": [
+      {
+        "name": "Rich Springs",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6564,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6564,
+            "par": 72,
+            "rating": 76.8,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6251,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6251,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 133
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5560,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5560,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5230,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5230,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9721d030-86ac-11e4-8c28-020000005b00/rich-springs"
+  }
+}

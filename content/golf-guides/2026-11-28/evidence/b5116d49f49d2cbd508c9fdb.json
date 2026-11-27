@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8df6b4d0-86ac-11e4-8c28-020000005b00/country-club-of-green-valley",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8df6b4d0-86ac-11e4-8c28-020000005b00/country-club-of-green-valley",
+  "checked_at": 1795663495.3385327,
+  "sha256": "9bfcfee056544ed5b99ee224c9dede3e46f31d0337e1033db2535daa25f42045",
+  "title": "Country Club of Green Valley - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8df6b4d0-86ac-11e4-8c28-020000005b00",
+    "name": "Country Club of Green Valley",
+    "address": "77 E Paseo de Golf, Green Valley, AZ",
+    "courses": [
+      {
+        "name": "Green Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6628,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 127
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6263,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 122
+          },
+          {
+            "name": "Bronze",
+            "category": "MALE",
+            "yards": 5898,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 119
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5231,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 109
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4809,
+            "par": 72,
+            "rating": 60.3,
+            "slope": 99
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8df6b4d0-86ac-11e4-8c28-020000005b00/country-club-of-green-valley"
+  }
+}

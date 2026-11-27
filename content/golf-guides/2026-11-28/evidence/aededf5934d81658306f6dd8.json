@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d53cfd0-86ac-11e4-8c28-020000005b00/lenape-heights",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d53cfd0-86ac-11e4-8c28-020000005b00/lenape-heights",
+  "checked_at": 1795661685.0876129,
+  "sha256": "cc0cb3a804b3803d66aee413335b15ef4deb03448aed5bfd23db45b50853e884",
+  "title": "Closed - Lenape Heights - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d53cfd0-86ac-11e4-8c28-020000005b00",
+    "name": "Closed - Lenape Heights",
+    "address": "950 Golf Course Rd Ford City, PA",
+    "courses": [
+      {
+        "name": "Lenape Heights",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6248,
+            "par": 71,
+            "rating": 66.2,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5913,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5446,
+            "par": 71,
+            "rating": 70.8,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4938,
+            "par": 71,
+            "rating": 67.4,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d53cfd0-86ac-11e4-8c28-020000005b00/lenape-heights"
+  }
+}

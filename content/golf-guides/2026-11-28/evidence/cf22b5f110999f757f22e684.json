@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b80304e0-86ac-11e4-8c28-020000005b00/hidden-springs-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b80304e0-86ac-11e4-8c28-020000005b00/hidden-springs-golf-course",
+  "checked_at": 1795697939.0855904,
+  "sha256": "c38a101470faea402699656b4a44f461386b207bc24115775515f06fb19d78a0",
+  "title": "Hidden Springs Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b80304e0-86ac-11e4-8c28-020000005b00",
+    "name": "Hidden Springs Golf Course",
+    "address": "16653 S Ratner Rd, Overbrook, KS",
+    "courses": [
+      {
+        "name": "Hidden Springs",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3042,
+            "par": 36,
+            "rating": 35.8,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3042,
+            "par": 37,
+            "rating": 37.1,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2969,
+            "par": 36,
+            "rating": 35.2,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2969,
+            "par": 37,
+            "rating": 37.9,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2570,
+            "par": 36,
+            "rating": 34.2,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2570,
+            "par": 37,
+            "rating": 36.5,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b80304e0-86ac-11e4-8c28-020000005b00/hidden-springs-golf-course"
+  }
+}

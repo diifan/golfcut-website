@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a5d8880-86ac-11e4-8c28-020000005b00/indian-camp-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a5d8880-86ac-11e4-8c28-020000005b00/indian-camp-golf-course",
+  "checked_at": 1795661463.1279962,
+  "sha256": "f6ad09ef7fd57e3d0decc26f9c23fba0364b118ac5b1b67a3fef87c8ebca46d2",
+  "title": "Indian Camp Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a5d8880-86ac-11e4-8c28-020000005b00",
+    "name": "Indian Camp Golf Course",
+    "address": "17334 Stateline Rd",
+    "courses": [
+      {
+        "name": "Indian Camp(9 holes )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 3024,
+            "par": 56,
+            "rating": 58.7,
+            "slope": 100
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2842,
+            "par": 56,
+            "rating": 55.34888,
+            "slope": 82.73438
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a5d8880-86ac-11e4-8c28-020000005b00/indian-camp-golf-course"
+  }
+}

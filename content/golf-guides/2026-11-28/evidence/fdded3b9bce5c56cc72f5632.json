@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ac30b360-2e7b-11eb-8ee6-06780482e2ce/turtle-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ac30b360-2e7b-11eb-8ee6-06780482e2ce/turtle-creek-golf-course",
+  "checked_at": 1795663505.0770535,
+  "sha256": "ceb542f41ed523b3c3c9da04bffc93b04cf37c5bfb24fd748fa90a5c08a2de1d",
+  "title": "Turtle Creek Golf Course  - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ac30b360-2e7b-11eb-8ee6-06780482e2ce",
+    "name": "Turtle Creek Golf Course ",
+    "address": "303 W. Ridge Pike, Limerick, PA",
+    "courses": [
+      {
+        "name": "Turtle Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6702,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6702,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6375,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6375,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5827,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5827,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5131,
+            "par": 72,
+            "rating": 64.7,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5131,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ac30b360-2e7b-11eb-8ee6-06780482e2ce/turtle-creek-golf-course"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/941b6e00-86ac-11e4-8c28-020000005b00/central-city",
+  "resolved_url": "https://18birdies.com/golf-courses/club/941b6e00-86ac-11e4-8c28-020000005b00/central-city",
+  "checked_at": 1795661469.4460688,
+  "sha256": "d527a0b923814bda4f51b8803ef371c398c6508d1848361bda0664cc50f30768",
+  "title": "Central City - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "941b6e00-86ac-11e4-8c28-020000005b00",
+    "name": "Central City",
+    "address": "Fairway Dr, Central City, KY",
+    "courses": [
+      {
+        "name": "Central City",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6282,
+            "par": 71,
+            "rating": 71.3,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5638,
+            "par": 71,
+            "rating": 68.4,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4600,
+            "par": 71,
+            "rating": 64,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/941b6e00-86ac-11e4-8c28-020000005b00/central-city"
+  }
+}

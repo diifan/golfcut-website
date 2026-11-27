@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b7b0c630-86ac-11e4-8c28-020000005b00/lindsborg-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b7b0c630-86ac-11e4-8c28-020000005b00/lindsborg-golf-course",
+  "checked_at": 1795685209.9252958,
+  "sha256": "2074234a363edb42fc9eac3cd0dbe85b7e280ad3534540eaba236144ece0f613",
+  "title": "Lindsborg Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b7b0c630-86ac-11e4-8c28-020000005b00",
+    "name": "Lindsborg Golf Course",
+    "address": "1541 Svensk Rd, Lindsborg, KS",
+    "courses": [
+      {
+        "name": "Lindsborg",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5391,
+            "par": 69,
+            "rating": 72,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4895,
+            "par": 69,
+            "rating": 67.2,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b7b0c630-86ac-11e4-8c28-020000005b00/lindsborg-golf-course"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0fdafb0-86ac-11e4-8c28-020000005b00/salish-cliffs-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0fdafb0-86ac-11e4-8c28-020000005b00/salish-cliffs-golf-club",
+  "checked_at": 1795663475.3399587,
+  "sha256": "b2113223132d167d2ca2f483b34057bc083973b81dedd1b911aa18bd3629c0fd",
+  "title": "Salish Cliffs Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b0fdafb0-86ac-11e4-8c28-020000005b00",
+    "name": "Salish Cliffs Golf Club",
+    "address": "91 W State Route 108",
+    "courses": [
+      {
+        "name": "Salish Cliffs",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7269,
+            "par": 72,
+            "rating": 76,
+            "slope": 146
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 7269,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 6766,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 139
+          },
+          {
+            "name": "Tournament",
+            "category": "FEMALE",
+            "yards": 6766,
+            "par": 72,
+            "rating": 77.9,
+            "slope": 139
+          },
+          {
+            "name": "Players",
+            "category": "MALE",
+            "yards": 6312,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 135
+          },
+          {
+            "name": "Players",
+            "category": "FEMALE",
+            "yards": 6312,
+            "par": 72,
+            "rating": 77.1,
+            "slope": 145
+          },
+          {
+            "name": "Masters",
+            "category": "MALE",
+            "yards": 5848,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 129
+          },
+          {
+            "name": "Masters",
+            "category": "FEMALE",
+            "yards": 5848,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 139
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5313,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 118
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5313,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 129
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0fdafb0-86ac-11e4-8c28-020000005b00/salish-cliffs-golf-club"
+  }
+}

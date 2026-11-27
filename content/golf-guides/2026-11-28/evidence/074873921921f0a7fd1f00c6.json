@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0cab8d0-86ac-11e4-8c28-020000005b00/linden-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0cab8d0-86ac-11e4-8c28-020000005b00/linden-golf-country-club",
+  "checked_at": 1795685203.7730105,
+  "sha256": "a97e4098d0336d77880c8bec981094f943e732eab0a8316f57181bfb45e72e32",
+  "title": "Linden Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b0cab8d0-86ac-11e4-8c28-020000005b00",
+    "name": "Linden Golf & Country Club",
+    "address": "2519 E Main Ave, Puyallup, WA 98372",
+    "courses": [
+      {
+        "name": "Linden",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Red/Black",
+            "category": "MALE",
+            "yards": 6612,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 125
+          },
+          {
+            "name": "Red/Black",
+            "category": "FEMALE",
+            "yards": 6612,
+            "par": 72,
+            "rating": 76.4,
+            "slope": 129
+          },
+          {
+            "name": "Old Course",
+            "category": "MALE",
+            "yards": 6208,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 123
+          },
+          {
+            "name": "Old Course",
+            "category": "FEMALE",
+            "yards": 6208,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 127
+          },
+          {
+            "name": "Black/Blue",
+            "category": "MALE",
+            "yards": 6104,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 121
+          },
+          {
+            "name": "Black/Blue",
+            "category": "FEMALE",
+            "yards": 6104,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 124
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 5700,
+            "par": 72,
+            "rating": 65.6,
+            "slope": 116
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 5700,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 118
+          },
+          {
+            "name": "White/Green",
+            "category": "MALE",
+            "yards": 5032,
+            "par": 72,
+            "rating": 62.9,
+            "slope": 106
+          },
+          {
+            "name": "White/Green",
+            "category": "FEMALE",
+            "yards": 5032,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0cab8d0-86ac-11e4-8c28-020000005b00/linden-golf-country-club"
+  }
+}

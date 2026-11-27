@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ca1fdc20-86ac-11e4-8c28-020000005b00/flamingos",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ca1fdc20-86ac-11e4-8c28-020000005b00/flamingos",
+  "checked_at": 1795694472.6413803,
+  "sha256": "9ab377b095d52eed42b651ebd3839761919ea7a43247728b0245208b4578f698",
+  "title": "Flamingos - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ca1fdc20-86ac-11e4-8c28-020000005b00",
+    "name": "Flamingos",
+    "address": "Carretera de Cadiz, km. 166",
+    "courses": [
+      {
+        "name": "Flamingos",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6641,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 125
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6297,
+            "par": 71,
+            "rating": 68.5,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ca1fdc20-86ac-11e4-8c28-020000005b00/flamingos"
+  }
+}

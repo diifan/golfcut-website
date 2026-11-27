@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afe07fe0-86ac-11e4-8c28-020000005b00/scott-county-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afe07fe0-86ac-11e4-8c28-020000005b00/scott-county-park-golf-course",
+  "checked_at": 1795661643.0425658,
+  "sha256": "8708c8091fb3ee1c7fde38b4e7e418f1c2021595b88a7f20b13505f0ff562240",
+  "title": "Scott County Park & Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "afe07fe0-86ac-11e4-8c28-020000005b00",
+    "name": "Scott County Park & Golf Course",
+    "address": "247 Fore Dr Ste 101, Gate City, VA",
+    "courses": [
+      {
+        "name": "Scott County Park",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3067,
+            "par": 36,
+            "rating": 36.4,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3067,
+            "par": 36,
+            "rating": 37.3,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2854,
+            "par": 36,
+            "rating": 35.5,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2854,
+            "par": 36,
+            "rating": 36.1,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2782,
+            "par": 36,
+            "rating": 35.1,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2782,
+            "par": 36,
+            "rating": 35.7,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2126,
+            "par": 36,
+            "rating": 32.1,
+            "slope": 102
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2126,
+            "par": 36,
+            "rating": 32.2,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afe07fe0-86ac-11e4-8c28-020000005b00/scott-county-park-golf-course"
+  }
+}

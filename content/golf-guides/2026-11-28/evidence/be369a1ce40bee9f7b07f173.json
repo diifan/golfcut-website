@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/aeb6f400-86ac-11e4-8c28-020000005b00/sunrise-ridge-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/aeb6f400-86ac-11e4-8c28-020000005b00/sunrise-ridge-golf-course",
+  "checked_at": 1795663502.2095108,
+  "sha256": "6a85d294fb174c8240f610e90053a5082148fbaf78a597a16a37001e608256c5",
+  "title": "Sunrise Ridge Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "aeb6f400-86ac-11e4-8c28-020000005b00",
+    "name": "Sunrise Ridge Golf Course",
+    "address": "Hwy 34 & Redrock Rd",
+    "courses": [
+      {
+        "name": "Colman Area (Sunrise Ridge)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3000,
+            "par": 36,
+            "rating": 34.2,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2471,
+            "par": 36,
+            "rating": 33.7,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/aeb6f400-86ac-11e4-8c28-020000005b00/sunrise-ridge-golf-course"
+  }
+}

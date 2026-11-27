@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b72a0a00-86ac-11e4-8c28-020000005b00/oakland-acres-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b72a0a00-86ac-11e4-8c28-020000005b00/oakland-acres-golf-club",
+  "checked_at": 1795685300.9714,
+  "sha256": "39e4338abcf77282b7ac487bb47de99e36ae6dfa75b61015bd0014b9f80dc8f2",
+  "title": "Oakland Acres Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b72a0a00-86ac-11e4-8c28-020000005b00",
+    "name": "Oakland Acres Golf Club",
+    "address": "13476 Hwy 6 E, Grinnell, IA",
+    "courses": [
+      {
+        "name": "Oakland Acres",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5968,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 101
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5968,
+            "par": 70,
+            "rating": 73.6,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5846,
+            "par": 70,
+            "rating": 67.1,
+            "slope": 100
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5846,
+            "par": 70,
+            "rating": 73,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4960,
+            "par": 70,
+            "rating": 67.5,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4960,
+            "par": 70,
+            "rating": 67.9,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b72a0a00-86ac-11e4-8c28-020000005b00/oakland-acres-golf-club"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9568dc10-e354-11ef-9407-06780482e2ce/star-harbor-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9568dc10-e354-11ef-9407-06780482e2ce/star-harbor-municipal-golf-course",
+  "checked_at": 1795661662.1627202,
+  "sha256": "aa46c05c8620d8e75538e17a9e5ddbdd1bab880d67a5790269f75cec07521203",
+  "title": "Star Harbor Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "9568dc10-e354-11ef-9407-06780482e2ce",
+    "name": "Star Harbor Municipal Golf Course",
+    "address": "99 Sunset, Malakoff, Texas",
+    "courses": [
+      {
+        "name": "Star Harbor Municipal Golf Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2482,
+            "par": 34,
+            "rating": 32.9,
+            "slope": 101
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2482,
+            "par": 34,
+            "rating": 34.2,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9568dc10-e354-11ef-9407-06780482e2ce/star-harbor-municipal-golf-course"
+  }
+}

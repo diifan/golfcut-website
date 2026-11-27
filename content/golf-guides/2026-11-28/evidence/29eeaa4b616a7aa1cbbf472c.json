@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/70eb6750-86ac-11e4-8c28-020000005b00/tain-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/70eb6750-86ac-11e4-8c28-020000005b00/tain-golf-club",
+  "checked_at": 1795694300.4783626,
+  "sha256": "4570ebd6cb5dafc9acb13dbfc96bdfcaee1c11d2814852b4a2ea8d8c5f8e42be",
+  "title": "Tain Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "70eb6750-86ac-11e4-8c28-020000005b00",
+    "name": "Tain Golf Club",
+    "address": "Chapel Road, Tain",
+    "courses": [
+      {
+        "name": "Tain",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6404,
+            "par": 70,
+            "rating": 74.1,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6404,
+            "par": 73,
+            "rating": 76,
+            "slope": 134
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6109,
+            "par": 70,
+            "rating": 72.8,
+            "slope": 125
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 6109,
+            "par": 73,
+            "rating": 74.4,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5645,
+            "par": 70,
+            "rating": 70.6,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5645,
+            "par": 73,
+            "rating": 71.9,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/70eb6750-86ac-11e4-8c28-020000005b00/tain-golf-club"
+  }
+}

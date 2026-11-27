@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d20a290-b5e3-11e8-b097-0680a328ea36/arrowhead-meadows-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d20a290-b5e3-11e8-b097-0680a328ea36/arrowhead-meadows-golf-course",
+  "checked_at": 1795661676.5694253,
+  "sha256": "2dbac367bbf5ba41fe57dc24f9f6e719cd8f4693588d69a85c42b9e62864523a",
+  "title": "Arrowhead Meadows Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d20a290-b5e3-11e8-b097-0680a328ea36",
+    "name": "Arrowhead Meadows Golf Course",
+    "address": "367 Highway 89 S, White Sulphur Springs, Montana 59645, Meagher County",
+    "courses": [
+      {
+        "name": "Arrowhead",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5827,
+            "par": 70,
+            "rating": 71.8,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5827,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5304,
+            "par": 70,
+            "rating": 69.1,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5304,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d20a290-b5e3-11e8-b097-0680a328ea36/arrowhead-meadows-golf-course"
+  }
+}

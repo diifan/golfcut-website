@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c01d460-86ac-11e4-8c28-020000005b00/deer-creek",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c01d460-86ac-11e4-8c28-020000005b00/deer-creek",
+  "checked_at": 1795696758.4139655,
+  "sha256": "5dc0dfd1df7124d54a767ce58857eb6e058f8e9b90df5b59bc932fd96af68822",
+  "title": "Closed - Deer Creek - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9c01d460-86ac-11e4-8c28-020000005b00",
+    "name": "Closed - Deer Creek",
+    "address": "7691 E Liberty St, Hubbard, OH",
+    "courses": [
+      {
+        "name": "Deer Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6010,
+            "par": 70,
+            "rating": 67.1,
+            "slope": 110
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5493,
+            "par": 70,
+            "rating": 64.6,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c01d460-86ac-11e4-8c28-020000005b00/deer-creek"
+  }
+}

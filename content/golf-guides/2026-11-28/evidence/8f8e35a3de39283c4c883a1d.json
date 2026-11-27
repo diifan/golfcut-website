@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/1e59ed20-0634-11ee-a4f4-06780482e2ce/salt-creek-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/1e59ed20-0634-11ee-a4f4-06780482e2ce/salt-creek-country-club",
+  "checked_at": 1795583770.4317071,
+  "sha256": "d04ecde2953ae8c1167c821fe43011f3395207fa0525113d7ff9841f202199df",
+  "title": "Salt Creek Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "1e59ed20-0634-11ee-a4f4-06780482e2ce",
+    "name": "Salt Creek Country Club",
+    "address": "15223 E 875th Rd, Effingham, IL",
+    "courses": [
+      {
+        "name": "Salt Creek Country Club",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 1795,
+            "par": 31,
+            "rating": 29.5,
+            "slope": 92
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 1795,
+            "par": 31,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "FWD",
+            "category": "MALE",
+            "yards": 1713,
+            "par": 31,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "FWD",
+            "category": "FEMALE",
+            "yards": 1713,
+            "par": 31,
+            "rating": 30.1,
+            "slope": 93
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/1e59ed20-0634-11ee-a4f4-06780482e2ce/salt-creek-country-club"
+  }
+}

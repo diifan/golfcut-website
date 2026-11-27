@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b945e520-86ac-11e4-8c28-020000005b00/top-of-the-rock-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b945e520-86ac-11e4-8c28-020000005b00/top-of-the-rock-golf-course",
+  "checked_at": 1795663442.5660927,
+  "sha256": "276070a7db80168485a7fa4bb0a91d7ab91f23cd8550e15a3b7dd7ebf86b75fe",
+  "title": "Top of the Rock Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b945e520-86ac-11e4-8c28-020000005b00",
+    "name": "Top of the Rock Golf Course",
+    "address": "150 Top of the Rock Rd, Hollister, Ridgedale, MO",
+    "courses": [
+      {
+        "name": "Top of the Rock",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 1420,
+            "par": 27,
+            "rating": 27.7,
+            "slope": 85
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 1420,
+            "par": 27,
+            "rating": 28.9,
+            "slope": 86
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 885,
+            "par": 27,
+            "rating": 25.8,
+            "slope": 80
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 885,
+            "par": 27,
+            "rating": 27.3,
+            "slope": 87
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b945e520-86ac-11e4-8c28-020000005b00/top-of-the-rock-golf-course"
+  }
+}

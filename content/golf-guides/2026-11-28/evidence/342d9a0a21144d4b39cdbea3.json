@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9246d510-86ac-11e4-8c28-020000005b00/homestead-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9246d510-86ac-11e4-8c28-020000005b00/homestead-golf-course",
+  "checked_at": 1795524967.3857436,
+  "sha256": "7ac3f3f023dd55f7d0324c6af723a4a9139789966546cb9b902d004ceb5cccba",
+  "title": "Homestead Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9246d510-86ac-11e4-8c28-020000005b00",
+    "name": "Homestead Golf Course",
+    "address": "11500 W. Hampden Avenue, Lakewood, CO",
+    "courses": [
+      {
+        "name": "The Homestead",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5048,
+            "par": 65,
+            "rating": 63.4,
+            "slope": 113
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4735,
+            "par": 65,
+            "rating": 62.1,
+            "slope": 109
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 4378,
+            "par": 65,
+            "rating": 60.9,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3895,
+            "par": 65,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9246d510-86ac-11e4-8c28-020000005b00/homestead-golf-course"
+  }
+}

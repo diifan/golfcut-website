@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8b332800-86ac-11e4-8c28-020000005b00/twisted-elms-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8b332800-86ac-11e4-8c28-020000005b00/twisted-elms-golf-club",
+  "checked_at": 1795582927.2910972,
+  "sha256": "0eb115b39cb30d4a552dc9dfcfd28b3d568d7fe5cce7948afafbbe1e1cbdf664",
+  "title": "Twisted Elms Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8b332800-86ac-11e4-8c28-020000005b00",
+    "name": "Twisted Elms Golf Club",
+    "address": "2979 US-54, Dalhart, TX 79022, USA",
+    "courses": [
+      {
+        "name": "Dalhart",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Mens",
+            "category": "MALE",
+            "yards": 6539,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 112
+          },
+          {
+            "name": "Mens",
+            "category": "FEMALE",
+            "yards": 6539,
+            "par": 73,
+            "rating": 76.7,
+            "slope": 136
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 5444,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 119
+          },
+          {
+            "name": "Ladies",
+            "category": "FEMALE",
+            "yards": 5444,
+            "par": 73,
+            "rating": 69.9,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8b332800-86ac-11e4-8c28-020000005b00/twisted-elms-golf-club"
+  }
+}

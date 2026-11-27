@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83a4f3c0-86ac-11e4-8c28-020000005b00/the-grove-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83a4f3c0-86ac-11e4-8c28-020000005b00/the-grove-country-club",
+  "checked_at": 1795689972.6653771,
+  "sha256": "c1bc9913872d39091ffc6ea71c0813ca49389049ca1e46344ac37f2987bbd1b7",
+  "title": "The Grove Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "83a4f3c0-86ac-11e4-8c28-020000005b00",
+    "name": "The Grove Country Club",
+    "address": "3217 Stayton Ln, Long Grove, IL 60047",
+    "courses": [
+      {
+        "name": "The Grove Country Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Purple",
+            "category": "MALE",
+            "yards": 7032,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 138
+          },
+          {
+            "name": "Purple",
+            "category": "FEMALE",
+            "yards": 7032,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6735,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6735,
+            "par": 72,
+            "rating": 77.7,
+            "slope": 138
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 6429,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 132
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 6429,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 135
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5639,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5639,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 132
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83a4f3c0-86ac-11e4-8c28-020000005b00/the-grove-country-club"
+  }
+}

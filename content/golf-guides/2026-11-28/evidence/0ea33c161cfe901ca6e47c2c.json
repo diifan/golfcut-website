@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/057e8580-54e0-11ef-9dcc-06780482e2ce/newell-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/057e8580-54e0-11ef-9dcc-06780482e2ce/newell-golf-course",
+  "checked_at": 1795663496.5420709,
+  "sha256": "79d8640aa4d30b2440bc09c4f024edd0f39eda0deffe1649134f4310d753fe01",
+  "title": "Newell Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "057e8580-54e0-11ef-9dcc-06780482e2ce",
+    "name": "Newell Golf Course",
+    "address": "12963 Orman Rd, Newell, SD",
+    "courses": [
+      {
+        "name": "Newell Golf Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2980,
+            "par": 36,
+            "rating": 35,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2980,
+            "par": 36,
+            "rating": 36.8,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2648,
+            "par": 36,
+            "rating": 34.5,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2648,
+            "par": 36,
+            "rating": 34.8,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/057e8580-54e0-11ef-9dcc-06780482e2ce/newell-golf-course"
+  }
+}

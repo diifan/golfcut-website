@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/bde50fc0-86ac-11e4-8c28-020000005b00/silverstone-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/bde50fc0-86ac-11e4-8c28-020000005b00/silverstone-golf-club",
+  "checked_at": 1795661645.6170082,
+  "sha256": "7883d648fa740571ab7806d466ea6207e0fb3c4d4732da658b05cbc69cdf6c51",
+  "title": "Silverstone Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "bde50fc0-86ac-11e4-8c28-020000005b00",
+    "name": "Silverstone Golf Club",
+    "address": "Silverstone Road,Stowe,Buckingham",
+    "courses": [
+      {
+        "name": "Silverstone",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6589,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6589,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6385,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 124
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 6385,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5663,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5663,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/bde50fc0-86ac-11e4-8c28-020000005b00/silverstone-golf-club"
+  }
+}

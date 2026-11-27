@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/77728bd0-86ac-11e4-8c28-020000005b00/watsons-glen-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/77728bd0-86ac-11e4-8c28-020000005b00/watsons-glen-golf-course",
+  "checked_at": 1795686557.5671961,
+  "sha256": "20c9ed2b8db37a07675bcb83df029b7d42f80a81b4fffc22855eec2ac1e95508",
+  "title": "Watson's Glen Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "77728bd0-86ac-11e4-8c28-020000005b00",
+    "name": "Watson's Glen Golf Course",
+    "address": "3430 7th Concession Road, Pickering",
+    "courses": [
+      {
+        "name": "Watson's Glen",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7072,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 139
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7072,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6513,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6513,
+            "par": 73,
+            "rating": 76.5,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5983,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5983,
+            "par": 73,
+            "rating": 73.8,
+            "slope": 136
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5211,
+            "par": 72,
+            "rating": 64.8,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5211,
+            "par": 73,
+            "rating": 69.4,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/77728bd0-86ac-11e4-8c28-020000005b00/watsons-glen-golf-course"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9235e520-86ac-11e4-8c28-020000005b00/sumo-golf-village",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9235e520-86ac-11e4-8c28-020000005b00/sumo-golf-village",
+  "checked_at": 1795664691.5939722,
+  "sha256": "8f866a657e0ecfba77b4a1b7bb1e1ff540da746f3dbe5e16180683041d5e98a9",
+  "title": "Sumo Golf Village - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star-o star star star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "9235e520-86ac-11e4-8c28-020000005b00",
+    "name": "Sumo Golf Village",
+    "address": "5201 Gary Player Dr",
+    "courses": [
+      {
+        "name": "Sumo",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7097,
+            "par": 72,
+            "rating": 73,
+            "slope": 134
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6752,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6428,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5982,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5309,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9235e520-86ac-11e4-8c28-020000005b00/sumo-golf-village"
+  }
+}

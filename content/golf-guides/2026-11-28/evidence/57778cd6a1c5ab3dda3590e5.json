@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/aed46710-86ac-11e4-8c28-020000005b00/six-mile-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/aed46710-86ac-11e4-8c28-020000005b00/six-mile-creek-golf-course",
+  "checked_at": 1795583781.3025057,
+  "sha256": "639ad9bf26a3f4d2011cde3a384f76fa0e1aabf63fe2cec089d9b12ac6c25695",
+  "title": "Six Mile Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "aed46710-86ac-11e4-8c28-020000005b00",
+    "name": "Six Mile Creek Golf Course",
+    "address": "20251 478th Ave",
+    "courses": [
+      {
+        "name": "Six Mile Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6076,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4726,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/aed46710-86ac-11e4-8c28-020000005b00/six-mile-creek-golf-course"
+  }
+}

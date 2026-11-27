@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a61b8f0-86ac-11e4-8c28-020000005b00/cherryville-golf-and-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a61b8f0-86ac-11e4-8c28-020000005b00/cherryville-golf-and-country-club",
+  "checked_at": 1795668338.3389304,
+  "sha256": "6662f6e129790d3dcafa6e4ee8c35b18a67e7865028b60c146621f3513044f40",
+  "title": "Cherryville Golf and Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9a61b8f0-86ac-11e4-8c28-020000005b00",
+    "name": "Cherryville Golf and Country Club",
+    "address": "200 Club Drive, Cherryville, NC",
+    "courses": [
+      {
+        "name": "Cherryville",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White to Blue\t",
+            "category": "MALE",
+            "yards": 5846,
+            "par": 70,
+            "rating": 67.4,
+            "slope": 128
+          },
+          {
+            "name": "Red to White",
+            "category": "MALE",
+            "yards": 5316,
+            "par": 70,
+            "rating": 65.5,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a61b8f0-86ac-11e4-8c28-020000005b00/cherryville-golf-and-country-club"
+  }
+}

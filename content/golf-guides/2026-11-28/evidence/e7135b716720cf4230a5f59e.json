@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1482630-86ac-11e4-8c28-020000005b00/gray-plantation",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1482630-86ac-11e4-8c28-020000005b00/gray-plantation",
+  "checked_at": 1795661654.0075645,
+  "sha256": "dadb413b3fedee377974c8bd00b85a69eb7a73b5d61fc8f98b3231fa309c4593",
+  "title": "Gray Plantation - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1482630-86ac-11e4-8c28-020000005b00",
+    "name": "Gray Plantation",
+    "address": "6150 Graywood Pkwy, Lake Charles, LA",
+    "courses": [
+      {
+        "name": "Gray Plantation",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7191,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 140
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6703,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6309,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 129
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5554,
+            "par": 72,
+            "rating": 66.9,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4814,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1482630-86ac-11e4-8c28-020000005b00/gray-plantation"
+  }
+}

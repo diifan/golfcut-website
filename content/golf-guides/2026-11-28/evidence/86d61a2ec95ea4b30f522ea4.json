@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/902f6390-3026-11ef-b0b7-06780482e2ce/crosby-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/902f6390-3026-11ef-b0b7-06780482e2ce/crosby-country-club",
+  "checked_at": 1795661473.7508163,
+  "sha256": "8de06f7e32defc4a7bba2855f7f46bb9d20ef59ad8acd2d6beeb12d4de0899d4",
+  "title": "Crosby Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "902f6390-3026-11ef-b0b7-06780482e2ce",
+    "name": "Crosby Country Club",
+    "address": "10765 Co Rd 15, Crosby, ND ",
+    "courses": [
+      {
+        "name": "Crosby",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5808,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 109
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5808,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5298,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5298,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/902f6390-3026-11ef-b0b7-06780482e2ce/crosby-country-club"
+  }
+}

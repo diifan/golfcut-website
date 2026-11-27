@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/4f6a0180-7c73-11e7-ad41-0680a328ea36/cedars-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/4f6a0180-7c73-11e7-ad41-0680a328ea36/cedars-country-club",
+  "checked_at": 1795697964.414604,
+  "sha256": "f23b7d11f17dc22b10b7834a3203fcbe979566e9528f4e2035b565e66a8c7ed1",
+  "title": "Cedars Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "4f6a0180-7c73-11e7-ad41-0680a328ea36",
+    "name": "Cedars Country Club",
+    "address": "1029 Anderson Mill Rd, Chatham",
+    "courses": [
+      {
+        "name": "Cedars 9 holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3009,
+            "par": 36,
+            "rating": 69.4,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3009,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 2923,
+            "par": 36,
+            "rating": 68.6,
+            "slope": 118
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 2923,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 2642,
+            "par": 36,
+            "rating": 67.2,
+            "slope": 116
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 2642,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2565,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2565,
+            "par": 36,
+            "rating": 67.8,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/4f6a0180-7c73-11e7-ad41-0680a328ea36/cedars-country-club"
+  }
+}

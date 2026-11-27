@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af49be20-86ac-11e4-8c28-020000005b00/the-legacy-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af49be20-86ac-11e4-8c28-020000005b00/the-legacy-golf-course",
+  "checked_at": 1795661670.1662242,
+  "sha256": "522461508246596b4fec8f02897a716a948e1b23ae1a5bc9529f7945ef6b13e8",
+  "title": "The Legacy Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af49be20-86ac-11e4-8c28-020000005b00",
+    "name": "The Legacy Golf Course",
+    "address": "100 Raymond Floyd Drive, Springfield, TN",
+    "courses": [
+      {
+        "name": "Legacy",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6776,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 137
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 6450,
+            "par": 72,
+            "rating": 71,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6133,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5618,
+            "par": 72,
+            "rating": 67,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4831,
+            "par": 72,
+            "rating": 63.6,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af49be20-86ac-11e4-8c28-020000005b00/the-legacy-golf-course"
+  }
+}

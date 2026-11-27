@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ffac230-86ac-11e4-8c28-020000005b00/north-shore-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ffac230-86ac-11e4-8c28-020000005b00/north-shore-golf-club",
+  "checked_at": 1795663446.6826122,
+  "sha256": "fadd3730787dee8b4d25a258a306796fca82a54ccf2398f504f25a9af3909e01",
+  "title": "North Shore Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8ffac230-86ac-11e4-8c28-020000005b00",
+    "name": "North Shore Golf Club",
+    "address": "11507 N Shore Golf Club Blvd, Orlando, FL",
+    "courses": [
+      {
+        "name": "North Shore",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6898,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 136
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6898,
+            "par": 72,
+            "rating": 78.6,
+            "slope": 140
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6518,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6518,
+            "par": 72,
+            "rating": 76.6,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5833,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5833,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 134
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5023,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5023,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ffac230-86ac-11e4-8c28-020000005b00/north-shore-golf-club"
+  }
+}

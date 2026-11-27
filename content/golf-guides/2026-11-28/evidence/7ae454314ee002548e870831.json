@@ -1,0 +1,229 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e89f420-86ac-11e4-8c28-020000005b00/the-highlands-at-dove-mountain",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e89f420-86ac-11e4-8c28-020000005b00/the-highlands-at-dove-mountain",
+  "checked_at": 1795661681.5820763,
+  "sha256": "a4168c967405155be29e9c857f60e23afd62550229c7c2e2a8c542cab8ef5ed6",
+  "title": "The Highlands At Dove Mountain - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8e89f420-86ac-11e4-8c28-020000005b00",
+    "name": "The Highlands At Dove Mountain",
+    "address": "4949 W Heritage Club Blvd Marana, AZ",
+    "courses": [
+      {
+        "name": "Highlands at Dove Mountain",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Rattler",
+            "category": "MALE",
+            "yards": 6904,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 142
+          },
+          {
+            "name": "Rattler",
+            "category": "FEMALE",
+            "yards": 6904,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Rattler/Javelina",
+            "category": "MALE",
+            "yards": 6904,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 140
+          },
+          {
+            "name": "Rattler/Javelina",
+            "category": "FEMALE",
+            "yards": 6904,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Javelina",
+            "category": "MALE",
+            "yards": 6535,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 138
+          },
+          {
+            "name": "Javelina",
+            "category": "FEMALE",
+            "yards": 6535,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Javalina/Coyote.",
+            "category": "MALE",
+            "yards": 6312,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 133
+          },
+          {
+            "name": "Javalina/Coyote.",
+            "category": "FEMALE",
+            "yards": 6312,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Coyote.",
+            "category": "MALE",
+            "yards": 6088,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 127
+          },
+          {
+            "name": "Coyote.",
+            "category": "FEMALE",
+            "yards": 6088,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Coyote/Roadrunner.",
+            "category": "MALE",
+            "yards": 5857,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 123
+          },
+          {
+            "name": "Coyote/Roadrunner.",
+            "category": "FEMALE",
+            "yards": 5857,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Roadrunner.",
+            "category": "MALE",
+            "yards": 5610,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 118
+          },
+          {
+            "name": "Roadrunner.",
+            "category": "FEMALE",
+            "yards": 5610,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 131
+          },
+          {
+            "name": "Roadrunner/Hummingbird.",
+            "category": "MALE",
+            "yards": 5610,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 115
+          },
+          {
+            "name": "Roadrunner/Hummingbird.",
+            "category": "FEMALE",
+            "yards": 5610,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 126
+          },
+          {
+            "name": "Quail.",
+            "category": "MALE",
+            "yards": 5358,
+            "par": 72,
+            "rating": 65.2,
+            "slope": 114
+          },
+          {
+            "name": "Quail.",
+            "category": "FEMALE",
+            "yards": 5358,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 124
+          },
+          {
+            "name": "Quail/Hummingbird.",
+            "category": "MALE",
+            "yards": 5082,
+            "par": 72,
+            "rating": 63.5,
+            "slope": 110
+          },
+          {
+            "name": "Quail/Hummingbird.",
+            "category": "FEMALE",
+            "yards": 5082,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 119
+          },
+          {
+            "name": "Hummingbird.",
+            "category": "MALE",
+            "yards": 4716,
+            "par": 72,
+            "rating": 62,
+            "slope": 105
+          },
+          {
+            "name": "Hummingbird.",
+            "category": "FEMALE",
+            "yards": 4716,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 115
+          },
+          {
+            "name": "Hummingbird/Gecko.",
+            "category": "MALE",
+            "yards": 4716,
+            "par": 72,
+            "rating": 60.4,
+            "slope": 101
+          },
+          {
+            "name": "Hummingbird/Gecko.",
+            "category": "FEMALE",
+            "yards": 4716,
+            "par": 72,
+            "rating": 64,
+            "slope": 110
+          },
+          {
+            "name": "Gecko.",
+            "category": "MALE",
+            "yards": 3845,
+            "par": 72,
+            "rating": 59.3,
+            "slope": 98
+          },
+          {
+            "name": "Gecko.",
+            "category": "FEMALE",
+            "yards": 3845,
+            "par": 72,
+            "rating": 61.9,
+            "slope": 104
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e89f420-86ac-11e4-8c28-020000005b00/the-highlands-at-dove-mountain"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/887fc7d0-86ac-11e4-8c28-020000005b00/wolf-creek",
+  "resolved_url": "https://18birdies.com/golf-courses/club/887fc7d0-86ac-11e4-8c28-020000005b00/wolf-creek",
+  "checked_at": 1795686458.1844008,
+  "sha256": "a3e6082b84bf2cbb40995ce0a996f79e3b4828a64979f7759828983463386749",
+  "title": "Wolf Creek - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "887fc7d0-86ac-11e4-8c28-020000005b00",
+    "name": "Wolf Creek",
+    "address": "21062 N 1850 East Rd, Pontiac, IL",
+    "courses": [
+      {
+        "name": "Wolf Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6637,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5790,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5470,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/887fc7d0-86ac-11e4-8c28-020000005b00/wolf-creek"
+  }
+}

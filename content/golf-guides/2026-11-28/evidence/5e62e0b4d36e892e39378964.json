@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4da2690-86ac-11e4-8c28-020000005b00/milton-freewater-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4da2690-86ac-11e4-8c28-020000005b00/milton-freewater-municipal-golf-course",
+  "checked_at": 1795685173.6706073,
+  "sha256": "0be75089650bf414d0fc8f76fa1af5c8ed99a2c4affaf04eaea320e7b4a0e067",
+  "title": "Milton-Freewater Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b4da2690-86ac-11e4-8c28-020000005b00",
+    "name": "Milton-Freewater Municipal Golf Course",
+    "address": "301 Catherine Ave",
+    "courses": [
+      {
+        "name": "Milton-Freewater",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 3324,
+            "par": 60,
+            "rating": 59.2,
+            "slope": 96
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 3324,
+            "par": 60,
+            "rating": 60.1,
+            "slope": 96
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2728,
+            "par": 60,
+            "rating": 55,
+            "slope": 87
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2728,
+            "par": 60,
+            "rating": 56.5,
+            "slope": 86
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4da2690-86ac-11e4-8c28-020000005b00/milton-freewater-municipal-golf-course"
+  }
+}

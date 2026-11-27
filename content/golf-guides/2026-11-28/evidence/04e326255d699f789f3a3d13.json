@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5a16e30-86ac-11e4-8c28-020000005b00/haskell-noyes-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5a16e30-86ac-11e4-8c28-020000005b00/haskell-noyes-park-golf-course",
+  "checked_at": 1795685261.4642484,
+  "sha256": "d0d4e08ed7bce84a8e81a53b0da7297a6045664fa9c7ac22ec959862affdeaad",
+  "title": "Haskell Noyes Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b5a16e30-86ac-11e4-8c28-020000005b00",
+    "name": "Haskell Noyes Park Golf Course",
+    "address": "8235 W. Good Hope Rd., Milwaukee, WI",
+    "courses": [
+      {
+        "name": "Noyes Park Golf Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 809,
+            "par": 27,
+            "rating": 72.2,
+            "slope": 123
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 809,
+            "par": 27,
+            "rating": 25.49786,
+            "slope": 74.86688
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5a16e30-86ac-11e4-8c28-020000005b00/haskell-noyes-park-golf-course"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98a2f1f0-86ac-11e4-8c28-020000005b00/pine-grove-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98a2f1f0-86ac-11e4-8c28-020000005b00/pine-grove-country-club",
+  "checked_at": 1795583776.4561145,
+  "sha256": "e6bb4b0b00fc24728c1c14db2c318a56a5cdb18aa6c8aabb52dc9b8cfc72dbec",
+  "title": "Pine Grove Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "98a2f1f0-86ac-11e4-8c28-020000005b00",
+    "name": "Pine Grove Country Club",
+    "address": "4050 Milton Ave, Camillus, NY",
+    "courses": [
+      {
+        "name": "Pine Grove",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6022,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6022,
+            "par": 71,
+            "rating": 73.9,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5684,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5684,
+            "par": 71,
+            "rating": 72.1,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5052,
+            "par": 71,
+            "rating": 65.1,
+            "slope": 109
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5052,
+            "par": 71,
+            "rating": 66.1,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4514,
+            "par": 71,
+            "rating": 65.5,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4514,
+            "par": 71,
+            "rating": 65.9,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98a2f1f0-86ac-11e4-8c28-020000005b00/pine-grove-country-club"
+  }
+}

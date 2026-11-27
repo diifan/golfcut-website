@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7b318fa0-86ac-11e4-8c28-020000005b00/galgorm-castle",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7b318fa0-86ac-11e4-8c28-020000005b00/galgorm-castle",
+  "checked_at": 1795696801.3411882,
+  "sha256": "09ab6f20b4a50c49236bd69372f1a1d595a7f9d77b59e57ca19e53431df8a840",
+  "title": "Galgorm Castle - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "7b318fa0-86ac-11e4-8c28-020000005b00",
+    "name": "Galgorm Castle",
+    "address": "200 Galgorm Rd, Ballymena, Galgorm",
+    "courses": [
+      {
+        "name": "Galgorm Castle",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Navy",
+            "category": "MALE",
+            "yards": 7276,
+            "par": 72,
+            "rating": 76.3,
+            "slope": 141
+          },
+          {
+            "name": "Navy",
+            "category": "FEMALE",
+            "yards": 7276,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6581,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6581,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 136
+          },
+          {
+            "name": "SIlver",
+            "category": "MALE",
+            "yards": 6083,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 123
+          },
+          {
+            "name": "SIlver",
+            "category": "FEMALE",
+            "yards": 6083,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 140
+          },
+          {
+            "name": "Bronze",
+            "category": "MALE",
+            "yards": 5505,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 109
+          },
+          {
+            "name": "Bronze",
+            "category": "FEMALE",
+            "yards": 5505,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 130
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7b318fa0-86ac-11e4-8c28-020000005b00/galgorm-castle"
+  }
+}

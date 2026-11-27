@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99254150-86ac-11e4-8c28-020000005b00/newman-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99254150-86ac-11e4-8c28-020000005b00/newman-municipal-golf-course",
+  "checked_at": 1795685149.28504,
+  "sha256": "4e4b48e4b7b407506db0f601a038791f06356656da11254fa726c82f63299068",
+  "title": "Newman Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99254150-86ac-11e4-8c28-020000005b00",
+    "name": "Newman Municipal Golf Course",
+    "address": "10 Pier Rd",
+    "courses": [
+      {
+        "name": "Newman Municipal",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 6255,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 130
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 6255,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 133
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "MALE",
+            "yards": 5399,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 119
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "FEMALE",
+            "yards": 5399,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99254150-86ac-11e4-8c28-020000005b00/newman-municipal-golf-course"
+  }
+}

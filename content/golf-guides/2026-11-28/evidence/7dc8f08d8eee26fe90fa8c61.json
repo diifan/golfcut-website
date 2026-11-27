@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3cd2360-86ac-11e4-8c28-020000005b00/tustin-trails-golf-courses",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3cd2360-86ac-11e4-8c28-020000005b00/tustin-trails-golf-courses",
+  "checked_at": 1795661642.495574,
+  "sha256": "8b98acf65223ca45ff40d9252d65b208d7b988109632acce85086800a158142d",
+  "title": "Tustin Trails Golf Courses - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b3cd2360-86ac-11e4-8c28-020000005b00",
+    "name": "Tustin Trails Golf Courses",
+    "address": "20231 Mackinaw Trail",
+    "courses": [
+      {
+        "name": "Tustin Trails",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2812,
+            "par": 35,
+            "rating": 35.6,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2812,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2719,
+            "par": 35,
+            "rating": 34.5,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2719,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2077,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2077,
+            "par": 35,
+            "rating": 35.7,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3cd2360-86ac-11e4-8c28-020000005b00/tustin-trails-golf-courses"
+  }
+}

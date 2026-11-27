@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9b4ac80-86ac-11e4-8c28-020000005b00/the-club-at-castle-bluff",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9b4ac80-86ac-11e4-8c28-020000005b00/the-club-at-castle-bluff",
+  "checked_at": 1795685180.2048063,
+  "sha256": "face2da3622e5e4f20b01603a52cf44f0a71861c669015750a2ba5c69b4785e4",
+  "title": "The Club at Castle Bluff - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b9b4ac80-86ac-11e4-8c28-020000005b00",
+    "name": "The Club at Castle Bluff",
+    "address": "8100 Fine Rd, Saint Louis, MO",
+    "courses": [
+      {
+        "name": "The Club at Castle Bluff",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2614,
+            "par": 34,
+            "rating": 34.4,
+            "slope": 111
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2614,
+            "par": 34,
+            "rating": 34.8,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2546,
+            "par": 34,
+            "rating": 34.1,
+            "slope": 110
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2546,
+            "par": 34,
+            "rating": 34.5,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2217,
+            "par": 34,
+            "rating": 32.6,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2217,
+            "par": 34,
+            "rating": 32.7,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9b4ac80-86ac-11e4-8c28-020000005b00/the-club-at-castle-bluff"
+  }
+}

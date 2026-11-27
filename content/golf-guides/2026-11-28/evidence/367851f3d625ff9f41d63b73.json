@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/bd46ace0-86ac-11e4-8c28-020000005b00/royal-johannesburg-kensington-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/bd46ace0-86ac-11e4-8c28-020000005b00/royal-johannesburg-kensington-golf-club",
+  "checked_at": 1795686314.6447482,
+  "sha256": "0abaac6806b592bfdb6da8348d54edbb4102c8d0c61f5aac9307e729ca8da5d7",
+  "title": "Royal Johannesburg & Kensington Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "bd46ace0-86ac-11e4-8c28-020000005b00",
+    "name": "Royal Johannesburg & Kensington Golf Club",
+    "address": "Fairway Avenue, Linksfield North",
+    "courses": [
+      {
+        "name": "Kensington (East)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7001,
+            "par": 72,
+            "rating": 76.8,
+            "slope": 132
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6465,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6036,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5466,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/bd46ace0-86ac-11e4-8c28-020000005b00/royal-johannesburg-kensington-golf-club"
+  }
+}

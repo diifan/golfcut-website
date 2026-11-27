@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a9a2e10-86ac-11e4-8c28-020000005b00/forest-city-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a9a2e10-86ac-11e4-8c28-020000005b00/forest-city-municipal-golf-course",
+  "checked_at": 1795686391.7956002,
+  "sha256": "a895888df5c7531313da51ec31ba7a84d3f25f9e821779b2bf0db958c4156e8a",
+  "title": "Forest City Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9a9a2e10-86ac-11e4-8c28-020000005b00",
+    "name": "Forest City Municipal Golf Course",
+    "address": "211 Clay St, Forest City, NC",
+    "courses": [
+      {
+        "name": "9 Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3199,
+            "par": 36,
+            "rating": 35.3,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3023,
+            "par": 36,
+            "rating": 34.5,
+            "slope": 126
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 2789,
+            "par": 36,
+            "rating": 33.7,
+            "slope": 119
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 2423,
+            "par": 36,
+            "rating": 32,
+            "slope": 102
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2208,
+            "par": 36,
+            "rating": 32.5,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a9a2e10-86ac-11e4-8c28-020000005b00/forest-city-municipal-golf-course"
+  }
+}

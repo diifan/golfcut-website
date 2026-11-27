@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/966c62e0-86ac-11e4-8c28-020000005b00/town-and-country-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/966c62e0-86ac-11e4-8c28-020000005b00/town-and-country-golf-course",
+  "checked_at": 1795661459.579016,
+  "sha256": "4889829674f417c93950551b1f793e4a1e558c91a4ac528410db99215f4c7477",
+  "title": "Town and Country Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "966c62e0-86ac-11e4-8c28-020000005b00",
+    "name": "Town and Country Golf Course",
+    "address": "Hwy 59",
+    "courses": [
+      {
+        "name": "Town and Country GC",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3319,
+            "par": 36,
+            "rating": 37.6,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3092,
+            "par": 36,
+            "rating": 36.6,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2763,
+            "par": 36,
+            "rating": 35,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/966c62e0-86ac-11e4-8c28-020000005b00/town-and-country-golf-course"
+  }
+}

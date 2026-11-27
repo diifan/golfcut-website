@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99c7e9f0-86ac-11e4-8c28-020000005b00/morgans-crossing",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99c7e9f0-86ac-11e4-8c28-020000005b00/morgans-crossing",
+  "checked_at": 1795697909.2459316,
+  "sha256": "54273b3e2b3b0bcb6e3dfee78dd8a8e5fd6b88c25c02770109286dcec2b3824b",
+  "title": "Morgan's Crossing - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "99c7e9f0-86ac-11e4-8c28-020000005b00",
+    "name": "Morgan's Crossing",
+    "address": "760 Scottsville Chili Rd, Scottsville, NY",
+    "courses": [
+      {
+        "name": "Morgan's Crossing",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6618,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6618,
+            "par": 72,
+            "rating": 77.1,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6258,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6258,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 137
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5188,
+            "par": 72,
+            "rating": 64,
+            "slope": 106
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5188,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99c7e9f0-86ac-11e4-8c28-020000005b00/morgans-crossing"
+  }
+}

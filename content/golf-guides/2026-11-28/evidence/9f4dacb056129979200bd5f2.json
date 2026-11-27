@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8bc92670-86ac-11e4-8c28-020000005b00/casa-blanca-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8bc92670-86ac-11e4-8c28-020000005b00/casa-blanca-golf-club",
+  "checked_at": 1795661679.1214237,
+  "sha256": "d4f272576dc29fe6ca21c98b6043bdfc4c3911d870eed77ed5e106c9b14c80e3",
+  "title": "Casa Blanca Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8bc92670-86ac-11e4-8c28-020000005b00",
+    "name": "Casa Blanca Golf Club",
+    "address": "3900 Casa Blanca Lake Rd  Laredo, TX ",
+    "courses": [
+      {
+        "name": "Casa Blanca",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6590,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6267,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5631,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8bc92670-86ac-11e4-8c28-020000005b00/casa-blanca-golf-club"
+  }
+}

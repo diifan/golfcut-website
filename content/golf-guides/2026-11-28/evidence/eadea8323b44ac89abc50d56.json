@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/784915b0-86ac-11e4-8c28-020000005b00/bayview-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/784915b0-86ac-11e4-8c28-020000005b00/bayview-golf-country-club",
+  "checked_at": 1795663491.3463347,
+  "sha256": "4469f3fd89bca6a3d1013aeb06476babe63a2e0788235b34ed5583c79aec0142",
+  "title": "Bayview Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "784915b0-86ac-11e4-8c28-020000005b00",
+    "name": "Bayview Golf & Country Club",
+    "address": "25 Fairway Heights Drive, Thornhill, Ontario",
+    "courses": [
+      {
+        "name": "Bayview",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7070,
+            "par": 71,
+            "rating": 74.1,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6661,
+            "par": 71,
+            "rating": 71.8,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6299,
+            "par": 71,
+            "rating": 70.6,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5786,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 117
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5470,
+            "par": 71,
+            "rating": 66.9,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/784915b0-86ac-11e4-8c28-020000005b00/bayview-golf-country-club"
+  }
+}

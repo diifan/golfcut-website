@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/97d46cc0-bd15-11f1-954b-069933b83eb1/cherry-hill-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/97d46cc0-bd15-11f1-954b-069933b83eb1/cherry-hill-country-club",
+  "checked_at": 1795686428.4086199,
+  "sha256": "52b5cf7d8b15f1b8131593aa6664f7568ebf0469f2ead71fe5bc0926e5ade4b9",
+  "title": "Cherry Hill Country Club - Scorecards, Reviews | 18Birdies star star star star star google-play",
+  "course_profile": {
+    "id": "97d46cc0-bd15-11f1-954b-069933b83eb1",
+    "name": "Cherry Hill Country Club",
+    "address": "275 Cherry Hill Loop",
+    "courses": [
+      {
+        "name": "Cherry Hill",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Red/White",
+            "category": "MALE",
+            "yards": 6205,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 120
+          },
+          {
+            "name": "Red/White",
+            "category": "FEMALE",
+            "yards": 6205,
+            "par": 74,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold/Green",
+            "category": "MALE",
+            "yards": 5290,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold/Green",
+            "category": "FEMALE",
+            "yards": 5290,
+            "par": 74,
+            "rating": 69.9,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/97d46cc0-bd15-11f1-954b-069933b83eb1/cherry-hill-country-club"
+  }
+}

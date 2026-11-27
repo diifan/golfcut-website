@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4708f50-86ac-11e4-8c28-020000005b00/holdrege-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4708f50-86ac-11e4-8c28-020000005b00/holdrege-country-club",
+  "checked_at": 1795688832.7029757,
+  "sha256": "50c9bb37d7f5af7d0b03cfeb2b757647ff6428cf28eb746c0ffce6369b8c3f26",
+  "title": "Holdrege Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b4708f50-86ac-11e4-8c28-020000005b00",
+    "name": "Holdrege Country Club",
+    "address": "314 W 18th Ave, Holdrege, NE",
+    "courses": [
+      {
+        "name": "Holdrege",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6303,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6303,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6032,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6032,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5373,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5373,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 117
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 3582,
+            "par": 72,
+            "rating": 59.9,
+            "slope": 98
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 3582,
+            "par": 72,
+            "rating": 61,
+            "slope": 97
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4708f50-86ac-11e4-8c28-020000005b00/holdrege-country-club"
+  }
+}

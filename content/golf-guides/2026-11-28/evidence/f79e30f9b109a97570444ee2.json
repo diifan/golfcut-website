@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ab717420-2eac-11e5-80f1-0680a328ea36/oriskany-hills-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ab717420-2eac-11e5-80f1-0680a328ea36/oriskany-hills-golf-club",
+  "checked_at": 1795661671.5359757,
+  "sha256": "becb41a3d870a10e1c6eed62d5b4226c343e861a4b26a9c69b1989fecb24c561",
+  "title": "Oriskany Hills Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "ab717420-2eac-11e5-80f1-0680a328ea36",
+    "name": "Oriskany Hills Golf Club",
+    "address": "8044 State Route 69, Oriskany Falls, NY",
+    "courses": [
+      {
+        "name": "Oriskany Hills Golf Club",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2958,
+            "par": 35,
+            "rating": 35,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2518,
+            "par": 35,
+            "rating": 33.9,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ab717420-2eac-11e5-80f1-0680a328ea36/oriskany-hills-golf-club"
+  }
+}

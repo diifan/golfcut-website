@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b923de30-86ac-11e4-8c28-020000005b00/carrollton-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b923de30-86ac-11e4-8c28-020000005b00/carrollton-country-club",
+  "checked_at": 1795661668.433685,
+  "sha256": "b9003c9fe72f135f0bcb6c8fe674ee8dffd9729c731a3d514a1583b5ad164ea1",
+  "title": "Carrollton Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b923de30-86ac-11e4-8c28-020000005b00",
+    "name": "Carrollton Country Club",
+    "address": "23483 Cr 260, Carrollton, MO",
+    "courses": [
+      {
+        "name": "Carrollton",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Third",
+            "category": "MALE",
+            "yards": 6332,
+            "par": 70,
+            "rating": 76,
+            "slope": 137
+          },
+          {
+            "name": "Third",
+            "category": "FEMALE",
+            "yards": 6332,
+            "par": 70,
+            "rating": 75.6,
+            "slope": 133
+          },
+          {
+            "name": "Second",
+            "category": "MALE",
+            "yards": 6000,
+            "par": 70,
+            "rating": 72,
+            "slope": 128
+          },
+          {
+            "name": "Second",
+            "category": "FEMALE",
+            "yards": 6000,
+            "par": 70,
+            "rating": 73.8,
+            "slope": 130
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4950,
+            "par": 70,
+            "rating": 67.5,
+            "slope": 115
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 4950,
+            "par": 70,
+            "rating": 68.2,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b923de30-86ac-11e4-8c28-020000005b00/carrollton-country-club"
+  }
+}

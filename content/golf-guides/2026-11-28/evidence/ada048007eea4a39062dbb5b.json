@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/97eaec90-86ac-11e4-8c28-020000005b00/hanover-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/97eaec90-86ac-11e4-8c28-020000005b00/hanover-golf-club",
+  "checked_at": 1795663477.2686534,
+  "sha256": "8b5a6d552477fe5efc3ca754e20af71c144616a684a9e599eaec38685d58739e",
+  "title": "Hanover Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "97eaec90-86ac-11e4-8c28-020000005b00",
+    "name": "Hanover Golf Club",
+    "address": "133 Larrison Rd, Jacobstown, NJ",
+    "courses": [
+      {
+        "name": "Hanover",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6614,
+            "par": 71,
+            "rating": 71.8,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6614,
+            "par": 71,
+            "rating": 77.1,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6288,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6288,
+            "par": 71,
+            "rating": 75.3,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5572,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5572,
+            "par": 71,
+            "rating": 71.5,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5286,
+            "par": 71,
+            "rating": 69,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5286,
+            "par": 71,
+            "rating": 65.8,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/97eaec90-86ac-11e4-8c28-020000005b00/hanover-golf-club"
+  }
+}

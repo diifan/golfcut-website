@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8b0e61f0-86ac-11e4-8c28-020000005b00/legacy-ridge-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8b0e61f0-86ac-11e4-8c28-020000005b00/legacy-ridge-golf-club",
+  "checked_at": 1795700293.3402882,
+  "sha256": "11dade9580ecae010197f3bfa726f30abe7307f5415fa7fa7ec6099de009cd97",
+  "title": "Legacy Ridge Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "8b0e61f0-86ac-11e4-8c28-020000005b00",
+    "name": "Legacy Ridge Golf Club",
+    "address": "2201 Country Club Drive, Bonham, TX",
+    "courses": [
+      {
+        "name": "Legacy Ridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6750,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6359,
+            "par": 72,
+            "rating": 71,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6054,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5473,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5094,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8b0e61f0-86ac-11e4-8c28-020000005b00/legacy-ridge-golf-club"
+  }
+}

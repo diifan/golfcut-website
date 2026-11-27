@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/753a00f0-86ac-11e4-8c28-020000005b00/vermilion-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/753a00f0-86ac-11e4-8c28-020000005b00/vermilion-golf-country-club",
+  "checked_at": 1795685304.6609325,
+  "sha256": "1975efa2cc0d2477c0edd0b576545332eef101646f7507350046a4b754c92a0e",
+  "title": "Vermilion Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "753a00f0-86ac-11e4-8c28-020000005b00",
+    "name": "Vermilion Golf & Country Club",
+    "address": "P.O. Box 3066, Vermilion, Alberta",
+    "courses": [
+      {
+        "name": "Vermilion",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5927,
+            "par": 70,
+            "rating": 67.8,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5619,
+            "par": 73,
+            "rating": 72.2,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/753a00f0-86ac-11e4-8c28-020000005b00/vermilion-golf-country-club"
+  }
+}

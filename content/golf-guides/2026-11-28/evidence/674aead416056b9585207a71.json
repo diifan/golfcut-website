@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c7c0d70-86ac-11e4-8c28-020000005b00/st-bernard-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c7c0d70-86ac-11e4-8c28-020000005b00/st-bernard-golf-club",
+  "checked_at": 1795663504.0057473,
+  "sha256": "01c8d0bda500a3ffb1df6d12afcc4e21543677e355b6e30f1f76cbb9439d5739",
+  "title": "St Bernard Golf Club - Scorecards, Reviews | 18Birdies star star star star star star-o star-o star-o star-o star-o star-o star-o star-o star-o star-o star star google-play",
+  "course_profile": {
+    "id": "9c7c0d70-86ac-11e4-8c28-020000005b00",
+    "name": "St Bernard Golf Club",
+    "address": "5364 W Streetsboro Road, Richfield, OH",
+    "courses": [
+      {
+        "name": "St Bernard",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4458,
+            "par": 68,
+            "rating": 63.3,
+            "slope": 110
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4085,
+            "par": 68,
+            "rating": 61.8,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3715,
+            "par": 68,
+            "rating": 61.8,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c7c0d70-86ac-11e4-8c28-020000005b00/st-bernard-golf-club"
+  }
+}

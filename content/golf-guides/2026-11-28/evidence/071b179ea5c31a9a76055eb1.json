@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c6391b0-86ac-11e4-8c28-020000005b00/wharton-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c6391b0-86ac-11e4-8c28-020000005b00/wharton-country-club",
+  "checked_at": 1795696541.978963,
+  "sha256": "37b7069cb6dedbbbfe750391de3cc20eeb5c9f03af6b4508685c82da20b0c88c",
+  "title": "Wharton Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8c6391b0-86ac-11e4-8c28-020000005b00",
+    "name": "Wharton Country Club",
+    "address": "126 Country Club Drive",
+    "courses": [
+      {
+        "name": "Wharton",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Red/Blue",
+            "category": "MALE",
+            "yards": 5963,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 115
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5435,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c6391b0-86ac-11e4-8c28-020000005b00/wharton-country-club"
+  }
+}

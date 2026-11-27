@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba74c830-86ac-11e4-8c28-020000005b00/princeton-elks-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba74c830-86ac-11e4-8c28-020000005b00/princeton-elks-golf-course",
+  "checked_at": 1795661467.5748727,
+  "sha256": "33101e23b81fd3bca9c80cb42ce6bad97fa4322897cfd5de97babe39f3c13fbc",
+  "title": "Princeton Elks Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "ba74c830-86ac-11e4-8c28-020000005b00",
+    "name": "Princeton Elks Golf Course",
+    "address": "1 Maple Acres Rd, Princeton, WV",
+    "courses": [
+      {
+        "name": "Princeton Elks",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6386,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6072,
+            "par": 72,
+            "rating": 68,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5234,
+            "par": 72,
+            "rating": 65,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4338,
+            "par": 72,
+            "rating": 64.7,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba74c830-86ac-11e4-8c28-020000005b00/princeton-elks-golf-course"
+  }
+}

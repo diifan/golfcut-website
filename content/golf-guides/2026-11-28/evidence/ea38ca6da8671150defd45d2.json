@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c8cd650-86ac-11e4-8c28-020000005b00/tri-county-golf-ranch",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c8cd650-86ac-11e4-8c28-020000005b00/tri-county-golf-ranch",
+  "checked_at": 1795661646.8188984,
+  "sha256": "0b27e9fd782fd0cf19c3890604e70dbe12db296fd10c9f7d91b1300ec0cc686d",
+  "title": "Tri-County Golf Ranch - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9c8cd650-86ac-11e4-8c28-020000005b00",
+    "name": "Tri-County Golf Ranch",
+    "address": "455 Tri County Pkwy, Cincinnati, OH",
+    "courses": [
+      {
+        "name": "Ranch Tri(9 holes )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1373,
+            "par": 27,
+            "rating": 28.7,
+            "slope": 94
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 1090,
+            "par": 27,
+            "rating": 26.7736,
+            "slope": 80.0148
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 689,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c8cd650-86ac-11e4-8c28-020000005b00/tri-county-golf-ranch"
+  }
+}

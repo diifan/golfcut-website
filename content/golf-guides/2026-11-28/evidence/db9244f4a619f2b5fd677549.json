@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af5ad520-86ac-11e4-8c28-020000005b00/andrew-johnson",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af5ad520-86ac-11e4-8c28-020000005b00/andrew-johnson",
+  "checked_at": 1795661627.8609247,
+  "sha256": "2bd4610e65a7e92c50fe653f676d6f91f98ee54e77d92f021578d24a5816fdc9",
+  "title": "Andrew Johnson - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "af5ad520-86ac-11e4-8c28-020000005b00",
+    "name": "Andrew Johnson",
+    "address": "615 Lick Hollow Rd, Greeneville, TN",
+    "courses": [
+      {
+        "name": "Andrew Johnson",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6103,
+            "par": 70,
+            "rating": 69.6,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5691,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4776,
+            "par": 70,
+            "rating": 66.7,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af5ad520-86ac-11e4-8c28-020000005b00/andrew-johnson"
+  }
+}

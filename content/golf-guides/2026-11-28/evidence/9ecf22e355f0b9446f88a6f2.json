@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/993b1340-86ac-11e4-8c28-020000005b00/lake-pleasant",
+  "resolved_url": "https://18birdies.com/golf-courses/club/993b1340-86ac-11e4-8c28-020000005b00/lake-pleasant",
+  "checked_at": 1795686307.966024,
+  "sha256": "6d9e4a07487b1cf2684ef930105fe137fe9a6e36181beecb66fc2cbb99c8b44f",
+  "title": "Lake Pleasant - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "993b1340-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Pleasant",
+    "address": "Rural Route 8, Lake Pleasant, NY",
+    "courses": [
+      {
+        "name": "Lake Pleasant(9 holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2864,
+            "par": 35,
+            "rating": 33.4,
+            "slope": 110
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2864,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2536,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2536,
+            "par": 35,
+            "rating": 34.2,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/993b1340-86ac-11e4-8c28-020000005b00/lake-pleasant"
+  }
+}

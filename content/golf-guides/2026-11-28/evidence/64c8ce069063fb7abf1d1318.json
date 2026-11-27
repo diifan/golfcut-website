@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9cb1ea80-86ac-11e4-8c28-020000005b00/cranberry-hills-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9cb1ea80-86ac-11e4-8c28-020000005b00/cranberry-hills-golf-course",
+  "checked_at": 1795683174.1060255,
+  "sha256": "8b0e0eecb7379ff0f6b4b8024df2d6b81df5078661b1477e6e17f19ab58f502c",
+  "title": "Cranberry Hills Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9cb1ea80-86ac-11e4-8c28-020000005b00",
+    "name": "Cranberry Hills Golf Course",
+    "address": "4891 Clovercrest Dr NW, Warren",
+    "courses": [
+      {
+        "name": "Cranberry Hills GC",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2764,
+            "par": 35,
+            "rating": 35.1,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2764,
+            "par": 35,
+            "rating": 35.6,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2381,
+            "par": 35,
+            "rating": 33.3,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2381,
+            "par": 35,
+            "rating": 33.6,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9cb1ea80-86ac-11e4-8c28-020000005b00/cranberry-hills-golf-course"
+  }
+}

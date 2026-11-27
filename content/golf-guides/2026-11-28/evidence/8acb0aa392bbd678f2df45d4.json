@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b87cefd0-86ac-11e4-8c28-020000005b00/red-apple-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b87cefd0-86ac-11e4-8c28-020000005b00/red-apple-golf-course",
+  "checked_at": 1795582947.0673099,
+  "sha256": "82b30ae9bbf044dd44751137c704e6d994b4c18b77492c0d9a39e4532b1fa22a",
+  "title": "Red Apple Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b87cefd0-86ac-11e4-8c28-020000005b00",
+    "name": "Red Apple Golf Course",
+    "address": "325 Club Drive, Heber Springs, AR",
+    "courses": [
+      {
+        "name": "Red Apple Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6451,
+            "par": 71,
+            "rating": 72.3,
+            "slope": 138
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6451,
+            "par": 71,
+            "rating": 76.2,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6018,
+            "par": 71,
+            "rating": 70.1,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6018,
+            "par": 71,
+            "rating": 73.9,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5104,
+            "par": 71,
+            "rating": 66,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5104,
+            "par": 71,
+            "rating": 71.5,
+            "slope": 123
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4682,
+            "par": 71,
+            "rating": 66.2,
+            "slope": 113
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4682,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b87cefd0-86ac-11e4-8c28-020000005b00/red-apple-golf-course"
+  }
+}

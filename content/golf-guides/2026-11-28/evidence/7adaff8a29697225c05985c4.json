@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96504f60-86ac-11e4-8c28-020000005b00/legacy-golf-in-faribault",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96504f60-86ac-11e4-8c28-020000005b00/legacy-golf-in-faribault",
+  "checked_at": 1795661470.0530887,
+  "sha256": "3665b429aaf97ad18094019ca379f15ffa777713092806ba967ee1078c65ba5a",
+  "title": "Legacy Golf in Faribault - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96504f60-86ac-11e4-8c28-020000005b00",
+    "name": "Legacy Golf in Faribault",
+    "address": "1515 Shumway Ave, Faribault, Minnesota",
+    "courses": [
+      {
+        "name": "Legacy",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6416,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 136
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6416,
+            "par": 72,
+            "rating": 76,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6002,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6002,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 136
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5031,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 124
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5031,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 125
+          },
+          {
+            "name": "Junior",
+            "category": "MALE",
+            "yards": 3069,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 124
+          },
+          {
+            "name": "Junior",
+            "category": "FEMALE",
+            "yards": 3069,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96504f60-86ac-11e4-8c28-020000005b00/legacy-golf-in-faribault"
+  }
+}

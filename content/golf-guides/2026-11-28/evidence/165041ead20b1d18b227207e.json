@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ca66a920-86ac-11e4-8c28-020000005b00/manila-golf-and-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ca66a920-86ac-11e4-8c28-020000005b00/manila-golf-and-country-club",
+  "checked_at": 1795687645.586466,
+  "sha256": "38594bede1f21de3e0ed180aa0fb1cc77e359b23904220ee07848b5511818576",
+  "title": "Manila Golf and Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ca66a920-86ac-11e4-8c28-020000005b00",
+    "name": "Manila Golf and Country Club",
+    "address": "Harvard Road, 1220 Makati, Philippines",
+    "courses": [
+      {
+        "name": "Manila Golf",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6485,
+            "par": 71,
+            "rating": 70.6,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6485,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6039,
+            "par": 71,
+            "rating": 68.4,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6039,
+            "par": 71,
+            "rating": 74.1,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5406,
+            "par": 71,
+            "rating": 64.5,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5406,
+            "par": 71,
+            "rating": 71,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ca66a920-86ac-11e4-8c28-020000005b00/manila-golf-and-country-club"
+  }
+}

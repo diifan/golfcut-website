@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95e55890-86ac-11e4-8c28-020000005b00/nabnasset-lake-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95e55890-86ac-11e4-8c28-020000005b00/nabnasset-lake-country-club",
+  "checked_at": 1795664713.5183122,
+  "sha256": "1be2e9b849b9c7293e408160e058fd902ff083b9138f15673541cb1c54cec70b",
+  "title": "Nabnasset Lake Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95e55890-86ac-11e4-8c28-020000005b00",
+    "name": "Nabnasset Lake Country Club",
+    "address": "47 Oak Hill Rd., Westford, MA",
+    "courses": [
+      {
+        "name": "Nabnasset Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5408,
+            "par": 70,
+            "rating": 66.5,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5408,
+            "par": 71,
+            "rating": 72.4,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5005,
+            "par": 70,
+            "rating": 64.4,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5005,
+            "par": 71,
+            "rating": 70.1,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95e55890-86ac-11e4-8c28-020000005b00/nabnasset-lake-country-club"
+  }
+}

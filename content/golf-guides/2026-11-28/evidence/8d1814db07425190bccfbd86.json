@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/919d75b0-86ac-11e4-8c28-020000005b00/colonial-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/919d75b0-86ac-11e4-8c28-020000005b00/colonial-golf-course",
+  "checked_at": 1795525017.894672,
+  "sha256": "2b2af2c3977126d27ed433f86a8f3b0752c61ee025ff1672bdb98e897238cce3",
+  "title": "Colonial Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "919d75b0-86ac-11e4-8c28-020000005b00",
+    "name": "Colonial Golf Course",
+    "address": "400 Colonial Dr, Meridianville, AL",
+    "courses": [
+      {
+        "name": "Colonial",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6583,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6089,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5663,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5307,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/919d75b0-86ac-11e4-8c28-020000005b00/colonial-golf-course"
+  }
+}

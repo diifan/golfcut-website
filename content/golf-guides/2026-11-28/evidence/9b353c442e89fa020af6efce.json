@@ -1,0 +1,283 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae14c090-86ac-11e4-8c28-020000005b00/fripp-island-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae14c090-86ac-11e4-8c28-020000005b00/fripp-island-club",
+  "checked_at": 1795700489.8737185,
+  "sha256": "1220508b1292e87ae53ea4dd688c7b11b5e4213c27dfe9e0c0a349dd1db9c9e8",
+  "title": "Fripp Island Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae14c090-86ac-11e4-8c28-020000005b00",
+    "name": "Fripp Island Club",
+    "address": "2119 Sea Island Parkway, Saint Helena, SC",
+    "courses": [
+      {
+        "name": "Ocean Creek ",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6392,
+            "par": 71,
+            "rating": 72.1,
+            "slope": 139
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6392,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6020,
+            "par": 71,
+            "rating": 69.9,
+            "slope": 134
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6020,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold/Blue",
+            "category": "MALE",
+            "yards": 5851,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 129
+          },
+          {
+            "name": "Gold/Blue",
+            "category": "FEMALE",
+            "yards": 5851,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5604,
+            "par": 71,
+            "rating": 68.4,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5604,
+            "par": 71,
+            "rating": 73.5,
+            "slope": 139
+          },
+          {
+            "name": "Blue/Silver",
+            "category": "MALE",
+            "yards": 5206,
+            "par": 71,
+            "rating": 66.9,
+            "slope": 115
+          },
+          {
+            "name": "Blue/Silver",
+            "category": "FEMALE",
+            "yards": 5206,
+            "par": 71,
+            "rating": 71.1,
+            "slope": 128
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 4766,
+            "par": 71,
+            "rating": 64.7,
+            "slope": 108
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 4766,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 120
+          },
+          {
+            "name": "Silver/Green",
+            "category": "MALE",
+            "yards": 4505,
+            "par": 71,
+            "rating": 63.6,
+            "slope": 106
+          },
+          {
+            "name": "Silver/Green",
+            "category": "FEMALE",
+            "yards": 4505,
+            "par": 71,
+            "rating": 67.2,
+            "slope": 115
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4021,
+            "par": 71,
+            "rating": 61.8,
+            "slope": 102
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4021,
+            "par": 71,
+            "rating": 64.5,
+            "slope": 109
+          }
+        ]
+      },
+      {
+        "name": "Ocean Point ",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6495,
+            "par": 72,
+            "rating": 74,
+            "slope": 141
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6495,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6092,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6092,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold/Blue",
+            "category": "MALE",
+            "yards": 5937,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 134
+          },
+          {
+            "name": "Gold/Blue",
+            "category": "FEMALE",
+            "yards": 5937,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5792,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5792,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 145
+          },
+          {
+            "name": "Blue/Silver",
+            "category": "MALE",
+            "yards": 5402,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 129
+          },
+          {
+            "name": "Blue/Silver",
+            "category": "FEMALE",
+            "yards": 5402,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 137
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 4857,
+            "par": 72,
+            "rating": 66,
+            "slope": 118
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 4857,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 125
+          },
+          {
+            "name": "Silver/Green",
+            "category": "MALE",
+            "yards": 4500,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 115
+          },
+          {
+            "name": "Silver/Green",
+            "category": "FEMALE",
+            "yards": 4500,
+            "par": 72,
+            "rating": 69,
+            "slope": 123
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4065,
+            "par": 72,
+            "rating": 63.2,
+            "slope": 112
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4065,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae14c090-86ac-11e4-8c28-020000005b00/fripp-island-club"
+  }
+}

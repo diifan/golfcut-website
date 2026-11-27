@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b39d12b0-86ac-11e4-8c28-020000005b00/st-clair-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b39d12b0-86ac-11e4-8c28-020000005b00/st-clair-golf-club",
+  "checked_at": 1795663499.6889653,
+  "sha256": "0124f994eb7e12a16a5079f44b2b5c3acbc0e89eca316a78fe856e93ffed8f53",
+  "title": "St. Clair Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b39d12b0-86ac-11e4-8c28-020000005b00",
+    "name": "St. Clair Golf Club",
+    "address": "1714 North River Road, Saint Clair, MI",
+    "courses": [
+      {
+        "name": "St. Clair",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6821,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 137
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 6821,
+            "par": 72,
+            "rating": 78.2,
+            "slope": 139
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6430,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 132
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6430,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 135
+          },
+          {
+            "name": "Hybrid",
+            "category": "MALE",
+            "yards": 6050,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 129
+          },
+          {
+            "name": "Hybrid",
+            "category": "FEMALE",
+            "yards": 6050,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 130
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5411,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 124
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5411,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b39d12b0-86ac-11e4-8c28-020000005b00/st-clair-golf-club"
+  }
+}

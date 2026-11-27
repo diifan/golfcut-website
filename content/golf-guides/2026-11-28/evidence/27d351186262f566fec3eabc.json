@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/991514b0-86ac-11e4-8c28-020000005b00/hartford-greens-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/991514b0-86ac-11e4-8c28-020000005b00/hartford-greens-country-club",
+  "checked_at": 1795663442.0427303,
+  "sha256": "1008b7845acc1c511aca613cd5cdd79d460f7cb686eda8b1de3672ecccd4eae4",
+  "title": "Hartford Greens Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "991514b0-86ac-11e4-8c28-020000005b00",
+    "name": "Hartford Greens Country Club",
+    "address": "3737 Route 196, Hartford, NY",
+    "courses": [
+      {
+        "name": "Pole Valley Players",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6585,
+            "par": 72,
+            "rating": 70,
+            "slope": 116
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6585,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5920,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5920,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 129
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4604,
+            "par": 72,
+            "rating": 61,
+            "slope": 97
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 4604,
+            "par": 72,
+            "rating": 63.9,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/991514b0-86ac-11e4-8c28-020000005b00/hartford-greens-country-club"
+  }
+}

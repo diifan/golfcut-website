@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9bff8a70-86ac-11e4-8c28-020000005b00/ironwood-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9bff8a70-86ac-11e4-8c28-020000005b00/ironwood-golf-course",
+  "checked_at": 1795661663.2702978,
+  "sha256": "116ede598ad7f797e7ee55537764bcea1b6479e09d4b618b61806b5cc61ade94",
+  "title": "Ironwood Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9bff8a70-86ac-11e4-8c28-020000005b00",
+    "name": "Ironwood Golf Course",
+    "address": "445 State Road, Hinckley, OH",
+    "courses": [
+      {
+        "name": "Ironwood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6401,
+            "par": 71,
+            "rating": 72.1,
+            "slope": 125
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6401,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6121,
+            "par": 71,
+            "rating": 71.1,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6121,
+            "par": 71,
+            "rating": 76,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5737,
+            "par": 71,
+            "rating": 69,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5737,
+            "par": 71,
+            "rating": 73.9,
+            "slope": 128
+          },
+          {
+            "name": "Red/Green",
+            "category": "MALE",
+            "yards": 5144,
+            "par": 71,
+            "rating": 66,
+            "slope": 116
+          },
+          {
+            "name": "Red/Green",
+            "category": "FEMALE",
+            "yards": 5144,
+            "par": 71,
+            "rating": 70.5,
+            "slope": 121
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4729,
+            "par": 71,
+            "rating": 63.8,
+            "slope": 111
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4729,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9bff8a70-86ac-11e4-8c28-020000005b00/ironwood-golf-course"
+  }
+}

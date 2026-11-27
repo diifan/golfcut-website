@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae282180-86ac-11e4-8c28-020000005b00/the-golf-club-at-hilton-head-lakes",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae282180-86ac-11e4-8c28-020000005b00/the-golf-club-at-hilton-head-lakes",
+  "checked_at": 1795701699.7041564,
+  "sha256": "06fe2fba32301c995d00c6002f8300d8a43436502a0e03d4c3e6e01873774432",
+  "title": "The Golf Club At Hilton Head Lakes - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae282180-86ac-11e4-8c28-020000005b00",
+    "name": "The Golf Club At Hilton Head Lakes",
+    "address": "3171 Independence Blvd",
+    "courses": [
+      {
+        "name": "Hilton Head Lakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7302,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6650,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6200,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 120
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5690,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4955,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae282180-86ac-11e4-8c28-020000005b00/the-golf-club-at-hilton-head-lakes"
+  }
+}

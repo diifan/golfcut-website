@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1edb500-86ac-11e4-8c28-020000005b00/merriland-farm-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1edb500-86ac-11e4-8c28-020000005b00/merriland-farm-golf-course",
+  "checked_at": 1795696646.9862003,
+  "sha256": "31439a8142efb56c3bc9b984f13543e93c283c8f17ea73d9bc20c329d92a87c2",
+  "title": "Merriland Farm Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1edb500-86ac-11e4-8c28-020000005b00",
+    "name": "Merriland Farm Golf Course",
+    "address": "510 Coles Hill Road",
+    "courses": [
+      {
+        "name": "Merriland Farm Par 3",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 811,
+            "par": 27,
+            "rating": 25.50694,
+            "slope": 74.90352
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 811,
+            "par": 27,
+            "rating": 25.50694,
+            "slope": 74.90352
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1edb500-86ac-11e4-8c28-020000005b00/merriland-farm-golf-course"
+  }
+}

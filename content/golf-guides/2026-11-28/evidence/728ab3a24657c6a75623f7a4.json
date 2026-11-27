@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9182e8d0-86ac-11e4-8c28-020000005b00/briarmeade-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9182e8d0-86ac-11e4-8c28-020000005b00/briarmeade-golf-club",
+  "checked_at": 1795686509.9485202,
+  "sha256": "c5383bae79d57242121136c5bcdc3f74d6db715c5512619d087e69323a873a8a",
+  "title": "Briarmeade Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9182e8d0-86ac-11e4-8c28-020000005b00",
+    "name": "Briarmeade Golf Club",
+    "address": "505 Ralph Ave, Glencoe, AL",
+    "courses": [
+      {
+        "name": "Briarmeade",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6066,
+            "par": 71,
+            "rating": 69,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6066,
+            "par": 71,
+            "rating": 74.2,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5490,
+            "par": 71,
+            "rating": 65.8,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5490,
+            "par": 71,
+            "rating": 71.1,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4981,
+            "par": 71,
+            "rating": 67.6,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4981,
+            "par": 71,
+            "rating": 67.6,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9182e8d0-86ac-11e4-8c28-020000005b00/briarmeade-golf-club"
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a0a3860-86ac-11e4-8c28-020000005b00/the-olympic-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a0a3860-86ac-11e4-8c28-020000005b00/the-olympic-club",
+  "checked_at": 1795663450.0815325,
+  "sha256": "e86e4a2235b04e08497445a2351be629e8f847b1de2c3b8844b291168812518c",
+  "title": "The Olympic Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a0a3860-86ac-11e4-8c28-020000005b00",
+    "name": "The Olympic Club",
+    "address": "599 Skyline Blvd, San Francisco, CA",
+    "courses": [
+      {
+        "name": "Lake Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6626,
+            "par": 71,
+            "rating": 73.2,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6626,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7024,
+            "par": 71,
+            "rating": 75,
+            "slope": 138
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7024,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6248,
+            "par": 71,
+            "rating": 71.8,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6248,
+            "par": 71,
+            "rating": 77.5,
+            "slope": 139
+          },
+          {
+            "name": "Blue / White",
+            "category": "MALE",
+            "yards": 6410,
+            "par": 71,
+            "rating": 72.4,
+            "slope": 132
+          },
+          {
+            "name": "Blue / White",
+            "category": "FEMALE",
+            "yards": 6410,
+            "par": 71,
+            "rating": 78.4,
+            "slope": 140
+          },
+          {
+            "name": "White / Red",
+            "category": "MALE",
+            "yards": 5892,
+            "par": 71,
+            "rating": 70.1,
+            "slope": 129
+          },
+          {
+            "name": "White / Red",
+            "category": "FEMALE",
+            "yards": 5892,
+            "par": 71,
+            "rating": 75.9,
+            "slope": 135
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5738,
+            "par": 71,
+            "rating": 69.3,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5738,
+            "par": 71,
+            "rating": 74.7,
+            "slope": 133
+          },
+          {
+            "name": "Red / Green",
+            "category": "MALE",
+            "yards": 5414,
+            "par": 71,
+            "rating": 67.6,
+            "slope": 125
+          },
+          {
+            "name": "Red / Green",
+            "category": "FEMALE",
+            "yards": 5414,
+            "par": 71,
+            "rating": 73.3,
+            "slope": 132
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5308,
+            "par": 71,
+            "rating": 67.1,
+            "slope": 123
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5308,
+            "par": 71,
+            "rating": 72.3,
+            "slope": 130
+          },
+          {
+            "name": "Champ",
+            "category": "MALE",
+            "yards": 7214,
+            "par": 71,
+            "rating": 75.8,
+            "slope": 140
+          },
+          {
+            "name": "Champ",
+            "category": "FEMALE",
+            "yards": 7214,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black / Blue",
+            "category": "MALE",
+            "yards": 6823,
+            "par": 71,
+            "rating": 74,
+            "slope": 136
+          },
+          {
+            "name": "Black / Blue",
+            "category": "FEMALE",
+            "yards": 6823,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      },
+      {
+        "name": "Ocean Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6585,
+            "par": 71,
+            "rating": 72.8,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6585,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6885,
+            "par": 71,
+            "rating": 74.3,
+            "slope": 133
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6885,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6221,
+            "par": 71,
+            "rating": 71.1,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6221,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue / White",
+            "category": "MALE",
+            "yards": 6390,
+            "par": 71,
+            "rating": 71.8,
+            "slope": 130
+          },
+          {
+            "name": "Blue / White",
+            "category": "FEMALE",
+            "yards": 6390,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White / Red",
+            "category": "MALE",
+            "yards": 5984,
+            "par": 71,
+            "rating": 70,
+            "slope": 126
+          },
+          {
+            "name": "White / Red",
+            "category": "FEMALE",
+            "yards": 5984,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5795,
+            "par": 71,
+            "rating": 69,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5795,
+            "par": 71,
+            "rating": 74.8,
+            "slope": 129
+          },
+          {
+            "name": "Red / Green",
+            "category": "MALE",
+            "yards": 5476,
+            "par": 71,
+            "rating": 67.9,
+            "slope": 122
+          },
+          {
+            "name": "Red / Green",
+            "category": "FEMALE",
+            "yards": 5476,
+            "par": 71,
+            "rating": 73,
+            "slope": 124
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5256,
+            "par": 71,
+            "rating": 66.7,
+            "slope": 117
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5256,
+            "par": 71,
+            "rating": 71.6,
+            "slope": 120
+          }
+        ]
+      },
+      {
+        "name": "Cliffs Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1432,
+            "par": 27,
+            "rating": 56.8,
+            "slope": 107
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1432,
+            "par": 27,
+            "rating": 59.4,
+            "slope": 102
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 781,
+            "par": 27,
+            "rating": 54.6,
+            "slope": 98
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 781,
+            "par": 27,
+            "rating": 57.2,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a0a3860-86ac-11e4-8c28-020000005b00/the-olympic-club"
+  }
+}

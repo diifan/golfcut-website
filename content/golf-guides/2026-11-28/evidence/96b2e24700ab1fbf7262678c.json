@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b60734e0-86ac-11e4-8c28-020000005b00/nicolet-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b60734e0-86ac-11e4-8c28-020000005b00/nicolet-country-club",
+  "checked_at": 1795694284.2287738,
+  "sha256": "948c6aa7729acef8b049894f4e88a57de610a84d7d9392117988bd33ff5f3bfd",
+  "title": "Nicolet Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b60734e0-86ac-11e4-8c28-020000005b00",
+    "name": "Nicolet Country Club",
+    "address": "5245 Fairway Court, Laona, WI",
+    "courses": [
+      {
+        "name": "Nicolet",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4713,
+            "par": 67,
+            "rating": 63.9,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4713,
+            "par": 67,
+            "rating": 68.3,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4093,
+            "par": 67,
+            "rating": 61.2,
+            "slope": 102
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4093,
+            "par": 67,
+            "rating": 63.9,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b60734e0-86ac-11e4-8c28-020000005b00/nicolet-country-club"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b79c7ae0-86ac-11e4-8c28-020000005b00/vinton-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b79c7ae0-86ac-11e4-8c28-020000005b00/vinton-country-club",
+  "checked_at": 1795694400.3661156,
+  "sha256": "e3859ae245a698d11860b2fa078054dc6f01f74ad048f41bd54e84a530be69df",
+  "title": "Vinton Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b79c7ae0-86ac-11e4-8c28-020000005b00",
+    "name": "Vinton Country Club",
+    "address": "314 N 9th Ave, Vinton, IA",
+    "courses": [
+      {
+        "name": "Vinton",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2796,
+            "par": 35,
+            "rating": 33.7,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2796,
+            "par": 35,
+            "rating": 35.8,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2383,
+            "par": 35,
+            "rating": 33.3,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2383,
+            "par": 35,
+            "rating": 34.2,
+            "slope": 111
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2860,
+            "par": 35,
+            "rating": 34.2,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2860,
+            "par": 35,
+            "rating": 36.2,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b79c7ae0-86ac-11e4-8c28-020000005b00/vinton-country-club"
+  }
+}

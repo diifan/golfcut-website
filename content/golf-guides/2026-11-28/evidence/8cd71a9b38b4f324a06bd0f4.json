@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99825570-86ac-11e4-8c28-020000005b00/stone-creek-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99825570-86ac-11e4-8c28-020000005b00/stone-creek-golf-club",
+  "checked_at": 1795696893.209846,
+  "sha256": "24053441d0838323c8413e61eda6943e83f391543f18cc0287a2cdcf13c0d833",
+  "title": "Stone Creek Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99825570-86ac-11e4-8c28-020000005b00",
+    "name": "Stone Creek Golf Club",
+    "address": "229 St Route 104A, Oswego, NY",
+    "courses": [
+      {
+        "name": "Stone Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back (Blue)",
+            "category": "MALE",
+            "yards": 5624,
+            "par": 70,
+            "rating": 65.4,
+            "slope": 112
+          },
+          {
+            "name": "Back (Blue)",
+            "category": "FEMALE",
+            "yards": 5624,
+            "par": 70,
+            "rating": 71.8,
+            "slope": 125
+          },
+          {
+            "name": "Middle (White)",
+            "category": "MALE",
+            "yards": 5175,
+            "par": 70,
+            "rating": 64.1,
+            "slope": 108
+          },
+          {
+            "name": "Middle (White)",
+            "category": "FEMALE",
+            "yards": 5175,
+            "par": 70,
+            "rating": 69.4,
+            "slope": 120
+          },
+          {
+            "name": "Forward (Green)",
+            "category": "MALE",
+            "yards": 4715,
+            "par": 70,
+            "rating": 66.4,
+            "slope": 113
+          },
+          {
+            "name": "Forward (Green)",
+            "category": "FEMALE",
+            "yards": 4715,
+            "par": 70,
+            "rating": 65.1,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99825570-86ac-11e4-8c28-020000005b00/stone-creek-golf-club"
+  }
+}

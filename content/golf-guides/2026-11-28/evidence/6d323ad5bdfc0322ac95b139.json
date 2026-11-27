@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/988ef4c0-86ac-11e4-8c28-020000005b00/bellport-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/988ef4c0-86ac-11e4-8c28-020000005b00/bellport-country-club",
+  "checked_at": 1795686583.3378782,
+  "sha256": "d01a10408735e22de93ab02f471d8d2596628e3648aa88e8b1c9185c27ba09d0",
+  "title": "Bellport Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "988ef4c0-86ac-11e4-8c28-020000005b00",
+    "name": "Bellport Country Club",
+    "address": "20 S Country Rd, Bellport, NY",
+    "courses": [
+      {
+        "name": "Bellport",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6325,
+            "par": 71,
+            "rating": 75.1,
+            "slope": 135
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6325,
+            "par": 71,
+            "rating": 75.5,
+            "slope": 133
+          },
+          {
+            "name": "Back / Middle",
+            "category": "MALE",
+            "yards": 6070,
+            "par": 71,
+            "rating": 70,
+            "slope": 132
+          },
+          {
+            "name": "Back / Middle",
+            "category": "FEMALE",
+            "yards": 6070,
+            "par": 71,
+            "rating": 74.2,
+            "slope": 130
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5860,
+            "par": 71,
+            "rating": 68.5,
+            "slope": 126
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5860,
+            "par": 71,
+            "rating": 73.1,
+            "slope": 128
+          },
+          {
+            "name": "Middle / Forward",
+            "category": "MALE",
+            "yards": 5420,
+            "par": 71,
+            "rating": 68,
+            "slope": 120
+          },
+          {
+            "name": "Middle / Forward",
+            "category": "FEMALE",
+            "yards": 5420,
+            "par": 71,
+            "rating": 71.4,
+            "slope": 129
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5025,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 116
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5025,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/988ef4c0-86ac-11e4-8c28-020000005b00/bellport-country-club"
+  }
+}

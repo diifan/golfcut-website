@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba178d00-86ac-11e4-8c28-020000005b00/barton-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba178d00-86ac-11e4-8c28-020000005b00/barton-golf-club",
+  "checked_at": 1795664697.578931,
+  "sha256": "440d29f9c0c58b3a326638cb4a79933dc930ea72ca0b66103dc21029de2b826d",
+  "title": "Barton Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "ba178d00-86ac-11e4-8c28-020000005b00",
+    "name": "Barton Golf Club",
+    "address": "548 Telfer Hill, Barton, VT",
+    "courses": [
+      {
+        "name": "Barton",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6005,
+            "par": 71,
+            "rating": 68.6,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6005,
+            "par": 71,
+            "rating": 74.2,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5809,
+            "par": 71,
+            "rating": 68,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5809,
+            "par": 71,
+            "rating": 73.1,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4862,
+            "par": 71,
+            "rating": 63,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4862,
+            "par": 71,
+            "rating": 68.6,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba178d00-86ac-11e4-8c28-020000005b00/barton-golf-club"
+  }
+}

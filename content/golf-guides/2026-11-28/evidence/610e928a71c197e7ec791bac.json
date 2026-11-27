@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9bd01600-86ac-11e4-8c28-020000005b00/chippewa-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9bd01600-86ac-11e4-8c28-020000005b00/chippewa-golf-club",
+  "checked_at": 1795669241.551314,
+  "sha256": "a5bfd2e9de83fd994fae9afef6fdd361fb8b970642c26dbc1805a897e3ad7bba",
+  "title": "Chippewa Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9bd01600-86ac-11e4-8c28-020000005b00",
+    "name": "Chippewa Golf Club",
+    "address": "12147 Co Hwy 5, Doylestown, OH",
+    "courses": [
+      {
+        "name": "Chippewa",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6756,
+            "par": 71,
+            "rating": 71.8,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6756,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6101,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6101,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5389,
+            "par": 71,
+            "rating": 65.6,
+            "slope": 109
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5389,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4974,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4974,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9bd01600-86ac-11e4-8c28-020000005b00/chippewa-golf-club"
+  }
+}

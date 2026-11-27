@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af7b7c80-86ac-11e4-8c28-020000005b00/the-homestead-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af7b7c80-86ac-11e4-8c28-020000005b00/the-homestead-golf-course",
+  "checked_at": 1795661630.8079958,
+  "sha256": "4c3b5428665eb5eb9107d3c92ff55e74fb9f67a622681447025eb7267f8fd07c",
+  "title": "The Homestead Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af7b7c80-86ac-11e4-8c28-020000005b00",
+    "name": "The Homestead Golf Course",
+    "address": "700 N Homestead Drive, Midway, UT",
+    "courses": [
+      {
+        "name": "Homestead",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7040,
+            "par": 71,
+            "rating": 73.5,
+            "slope": 147
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7040,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6524,
+            "par": 71,
+            "rating": 71.7,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6524,
+            "par": 71,
+            "rating": 76.6,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6057,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6057,
+            "par": 71,
+            "rating": 74.3,
+            "slope": 140
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5091,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5091,
+            "par": 71,
+            "rating": 68.3,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af7b7c80-86ac-11e4-8c28-020000005b00/the-homestead-golf-course"
+  }
+}

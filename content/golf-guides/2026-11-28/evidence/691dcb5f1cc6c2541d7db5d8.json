@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/16b14f10-bb65-11e8-85ce-0680a328ea36/hoyt-lakes-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/16b14f10-bb65-11e8-85ce-0680a328ea36/hoyt-lakes-golf-course",
+  "checked_at": 1795661625.0085144,
+  "sha256": "22f3c1de723a23a3afd3671920d7a9e169a1efb8892f903e91057d472ce19922",
+  "title": "Hoyt Lakes Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "16b14f10-bb65-11e8-85ce-0680a328ea36",
+    "name": "Hoyt Lakes Golf Course",
+    "address": "4099 Allen Junction Rd, Hoyt Lakes, MN",
+    "courses": [
+      {
+        "name": "Hoyt Lakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 6516,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 128
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 6516,
+            "par": 72,
+            "rating": 76.6,
+            "slope": 136
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "MALE",
+            "yards": 5361,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 119
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "FEMALE",
+            "yards": 5361,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/16b14f10-bb65-11e8-85ce-0680a328ea36/hoyt-lakes-golf-course"
+  }
+}

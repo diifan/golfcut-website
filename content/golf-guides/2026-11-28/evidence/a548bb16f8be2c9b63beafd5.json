@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8b1762a0-86ac-11e4-8c28-020000005b00/valley-international-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8b1762a0-86ac-11e4-8c28-020000005b00/valley-international-country-club",
+  "checked_at": 1795694416.8429232,
+  "sha256": "74561dddc84d5e60de9671b087ba19bdd27e26e754dff59085d5cacda8972263",
+  "title": "Valley International Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8b1762a0-86ac-11e4-8c28-020000005b00",
+    "name": "Valley International Country Club",
+    "address": "95 Country Club Rd, Brownsville, TX",
+    "courses": [
+      {
+        "name": "Valley International Country Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 6538,
+            "par": 70,
+            "rating": 72.3,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6130,
+            "par": 70,
+            "rating": 70.3,
+            "slope": 120
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5517,
+            "par": 70,
+            "rating": 67.5,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4924,
+            "par": 70,
+            "rating": 67.3,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8b1762a0-86ac-11e4-8c28-020000005b00/valley-international-country-club"
+  }
+}

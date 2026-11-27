@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5bf7d80-86ac-11e4-8c28-020000005b00/whispering-pines-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5bf7d80-86ac-11e4-8c28-020000005b00/whispering-pines-golf",
+  "checked_at": 1795698016.328031,
+  "sha256": "e0ca516ece904ba974043f510953c699aa77a81cfdf7a546aa2ffdbf9ba22539",
+  "title": "Whispering Pines Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b5bf7d80-86ac-11e4-8c28-020000005b00",
+    "name": "Whispering Pines Golf",
+    "address": "Country Hwy X, Cadott, WI",
+    "courses": [
+      {
+        "name": "Whispering Pines",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6701,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6701,
+            "par": 72,
+            "rating": 77.5,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6110,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6110,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4978,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4978,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5bf7d80-86ac-11e4-8c28-020000005b00/whispering-pines-golf"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/cf2b8430-86ac-11e4-8c28-020000005b00/tokyo-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/cf2b8430-86ac-11e4-8c28-020000005b00/tokyo-golf-club",
+  "checked_at": 1795687602.0560734,
+  "sha256": "2cff17f1eb1dc1ff687bb776fc98b03b60f6b4bea6a744ff2bf83f0059268682",
+  "title": "Tokyo Golf Club - Scorecards, Reviews | 18Birdies star star star star star google-play",
+  "course_profile": {
+    "id": "cf2b8430-86ac-11e4-8c28-020000005b00",
+    "name": "Tokyo Golf Club",
+    "address": "〒 〒 350-1335 Saitama ken Sayama city Kashiwabara 1984",
+    "courses": [
+      {
+        "name": "Tokyo GC",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6915,
+            "par": 72,
+            "rating": 76.4,
+            "slope": 132
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6915,
+            "par": 72,
+            "rating": 78.7,
+            "slope": 140
+          },
+          {
+            "name": "Regular",
+            "category": "MALE",
+            "yards": 6630,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 129
+          },
+          {
+            "name": "Regular",
+            "category": "FEMALE",
+            "yards": 6630,
+            "par": 72,
+            "rating": 77.2,
+            "slope": 137
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 6305,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 127
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 6305,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 133
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 6149,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 125
+          },
+          {
+            "name": "Ladies",
+            "category": "FEMALE",
+            "yards": 6149,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 131
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/cf2b8430-86ac-11e4-8c28-020000005b00/tokyo-golf-club"
+  }
+}

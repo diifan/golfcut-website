@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/837fdf90-86ac-11e4-8c28-020000005b00/onwentsia-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/837fdf90-86ac-11e4-8c28-020000005b00/onwentsia-club",
+  "checked_at": 1795661646.9416358,
+  "sha256": "cea2a0d417edf9c6762a6035b29398427782b5acc39c67a6830134c87c9fe2b9",
+  "title": "Onwentsia Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "837fdf90-86ac-11e4-8c28-020000005b00",
+    "name": "Onwentsia Club",
+    "address": "300 N Green Bay Rd",
+    "courses": [
+      {
+        "name": "Onwentsia",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6681,
+            "par": 71,
+            "rating": 72.8,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6432,
+            "par": 71,
+            "rating": 71.3,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5979,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5460,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/837fdf90-86ac-11e4-8c28-020000005b00/onwentsia-club"
+  }
+}

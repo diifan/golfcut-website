@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/bb0dacd0-86ac-11e4-8c28-020000005b00/campestre-de-cali",
+  "resolved_url": "https://18birdies.com/golf-courses/club/bb0dacd0-86ac-11e4-8c28-020000005b00/campestre-de-cali",
+  "checked_at": 1795661678.1621969,
+  "sha256": "debbabc22b866b4169f65f9f5b5b0b11ec5578578055f4a676b3d3704389fe36",
+  "title": "Campestre de Cali - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "bb0dacd0-86ac-11e4-8c28-020000005b00",
+    "name": "Campestre de Cali",
+    "address": "Calle 5 Cra. 100 frente a unicentro",
+    "courses": [
+      {
+        "name": "Campestre de Cali",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6929,
+            "par": 71,
+            "rating": 74.3,
+            "slope": 140
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6394,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 135
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/bb0dacd0-86ac-11e4-8c28-020000005b00/campestre-de-cali"
+  }
+}

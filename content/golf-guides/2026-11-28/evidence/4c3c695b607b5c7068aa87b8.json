@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b71aeed0-86ac-11e4-8c28-020000005b00/estherville-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b71aeed0-86ac-11e4-8c28-020000005b00/estherville-golf-course",
+  "checked_at": 1795690939.6094584,
+  "sha256": "b89880398324330a0a67efdd91d82894d0f74695bdd7fd18d32897fdd066ba33",
+  "title": "Estherville Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b71aeed0-86ac-11e4-8c28-020000005b00",
+    "name": "Estherville Golf Course",
+    "address": "3625 170th St",
+    "courses": [
+      {
+        "name": "Estherville",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3255,
+            "par": 36,
+            "rating": 34.8,
+            "slope": 114
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3255,
+            "par": 36,
+            "rating": 38.3,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3085,
+            "par": 36,
+            "rating": 34,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3085,
+            "par": 36,
+            "rating": 37.4,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2698,
+            "par": 36,
+            "rating": 34.8,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2698,
+            "par": 36,
+            "rating": 35,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b71aeed0-86ac-11e4-8c28-020000005b00/estherville-golf-course"
+  }
+}

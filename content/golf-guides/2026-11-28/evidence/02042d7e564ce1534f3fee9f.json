@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/d5cf4860-70c1-11e7-bda1-0680a328ea36/hazen-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/d5cf4860-70c1-11e7-bda1-0680a328ea36/hazen-golf-club",
+  "checked_at": 1795686437.5989912,
+  "sha256": "f2438cb9415e71a173eafea137e41783e156994c88422c11c2fab6b1506a51c8",
+  "title": "Hazen Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "d5cf4860-70c1-11e7-bda1-0680a328ea36",
+    "name": "Hazen Golf Club",
+    "address": "Hazen, ND 58545",
+    "courses": [
+      {
+        "name": "Hazen",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5822,
+            "par": 70,
+            "rating": 69.2,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5822,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5384,
+            "par": 70,
+            "rating": 67.2,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5384,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4888,
+            "par": 70,
+            "rating": 67.2,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4888,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/d5cf4860-70c1-11e7-bda1-0680a328ea36/hazen-golf-club"
+  }
+}

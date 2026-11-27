@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8a9a520-86ac-11e4-8c28-020000005b00/the-golf-course-on-turkey-mountain",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8a9a520-86ac-11e4-8c28-020000005b00/the-golf-course-on-turkey-mountain",
+  "checked_at": 1795685293.0485752,
+  "sha256": "566ccf40b8d60237b635f7d583971f265588d3d48fbbefd5b582e922111fb8b8",
+  "title": "The Golf Course on Turkey Mountain - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b8a9a520-86ac-11e4-8c28-020000005b00",
+    "name": "The Golf Course on Turkey Mountain",
+    "address": "3 Club Rd, Horseshoe Bend, AR",
+    "courses": [
+      {
+        "name": "Turkey Mountain",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6407,
+            "par": 73,
+            "rating": 74.1,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6065,
+            "par": 73,
+            "rating": 72.6,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5492,
+            "par": 73,
+            "rating": 69.9,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8a9a520-86ac-11e4-8c28-020000005b00/the-golf-course-on-turkey-mountain"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8cd42dd0-86ac-11e4-8c28-020000005b00/etna-acres-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8cd42dd0-86ac-11e4-8c28-020000005b00/etna-acres-golf",
+  "checked_at": 1795687682.1284447,
+  "sha256": "39ab6533c8a8092af4f87597defe9e0014e71dd839cb27baaa84c787423ca209",
+  "title": "Etna Acres Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8cd42dd0-86ac-11e4-8c28-020000005b00",
+    "name": "Etna Acres Golf",
+    "address": "9803 W 600 S, Andrews, IN",
+    "courses": [
+      {
+        "name": "Etna Acres",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6096,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 115
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6096,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5437,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 108
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5437,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5013,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 103
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5013,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8cd42dd0-86ac-11e4-8c28-020000005b00/etna-acres-golf"
+  }
+}

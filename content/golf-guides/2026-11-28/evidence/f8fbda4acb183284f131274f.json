@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/adde9560-86ac-11e4-8c28-020000005b00/scotch-valley-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/adde9560-86ac-11e4-8c28-020000005b00/scotch-valley-country-club",
+  "checked_at": 1795700420.9884157,
+  "sha256": "6bdf9cdce613695fe444304a97f3c0f2a2cdbaeff26b67a1d82ee6dd2363b7b7",
+  "title": "Scotch Valley Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "adde9560-86ac-11e4-8c28-020000005b00",
+    "name": "Scotch Valley Country Club",
+    "address": "18 Clubhouse Drive",
+    "courses": [
+      {
+        "name": "Scotch Valley CC",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6870,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 141
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6442,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6008,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5022,
+            "par": 72,
+            "rating": 63.3,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/adde9560-86ac-11e4-8c28-020000005b00/scotch-valley-country-club"
+  }
+}

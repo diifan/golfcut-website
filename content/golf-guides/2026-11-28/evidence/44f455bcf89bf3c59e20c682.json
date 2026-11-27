@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/bbbcd890-86ac-11e4-8c28-020000005b00/costa-rica-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/bbbcd890-86ac-11e4-8c28-020000005b00/costa-rica-country-club",
+  "checked_at": 1795686468.2148788,
+  "sha256": "a113f74f129870ddc7cde4434a1524cd08de13b03aa4d22dc95cc8d03ceb3b3b",
+  "title": "Costa Rica Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "bbbcd890-86ac-11e4-8c28-020000005b00",
+    "name": "Costa Rica Country Club",
+    "address": "Calle 136, San Rafael, Costa Rica",
+    "courses": [
+      {
+        "name": "Costa Rica Country Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6070,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 142
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6070,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5190,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5190,
+            "par": 72,
+            "rating": 71,
+            "slope": 131
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/bbbcd890-86ac-11e4-8c28-020000005b00/costa-rica-country-club"
+  }
+}

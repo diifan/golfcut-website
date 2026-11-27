@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/91ca2b00-86ac-11e4-8c28-020000005b00/sylacauga-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/91ca2b00-86ac-11e4-8c28-020000005b00/sylacauga-country-club",
+  "checked_at": 1795694155.6212263,
+  "sha256": "e412d534fa63b518fe9c232a1cc6bdf7d2783caafa172ff8889d83ac4feecaae",
+  "title": "Sylacauga Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "91ca2b00-86ac-11e4-8c28-020000005b00",
+    "name": "Sylacauga Country Club",
+    "address": "1 Fairway Dr",
+    "courses": [
+      {
+        "name": "Sylacauga",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6425,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6042,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4746,
+            "par": 72,
+            "rating": 62.3,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/91ca2b00-86ac-11e4-8c28-020000005b00/sylacauga-country-club"
+  }
+}

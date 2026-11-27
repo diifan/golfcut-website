@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1c74140-86ac-11e4-8c28-020000005b00/barren-view-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1c74140-86ac-11e4-8c28-020000005b00/barren-view-golf-course",
+  "checked_at": 1795697970.0119624,
+  "sha256": "e19e8115dfb37680c68bf3fa01e979de71c08ccc972e946d22a275d967c038a6",
+  "title": "Barren View Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1c74140-86ac-11e4-8c28-020000005b00",
+    "name": "Barren View Golf Course",
+    "address": "1354 U.S. Route 1",
+    "courses": [
+      {
+        "name": "Barren View",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5622,
+            "par": 70,
+            "rating": 70.5,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5226,
+            "par": 70,
+            "rating": 66.3,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4560,
+            "par": 70,
+            "rating": 65.7,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1c74140-86ac-11e4-8c28-020000005b00/barren-view-golf-course"
+  }
+}

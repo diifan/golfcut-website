@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d961e40-86ac-11e4-8c28-020000005b00/hoosier-heights-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d961e40-86ac-11e4-8c28-020000005b00/hoosier-heights-country-club",
+  "checked_at": 1795687639.253462,
+  "sha256": "9772f437b1d118114f39365ff0113209cadaf500381451cb807d65834a9745d5",
+  "title": "Hoosier Heights Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8d961e40-86ac-11e4-8c28-020000005b00",
+    "name": "Hoosier Heights Country Club",
+    "address": "3822 Mozart St, Tell City, IN 47586",
+    "courses": [
+      {
+        "name": "Hoosier Heights",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5902,
+            "par": 70,
+            "rating": 69,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5902,
+            "par": 76,
+            "rating": 73.3,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5251,
+            "par": 70,
+            "rating": 69.2,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5251,
+            "par": 76,
+            "rating": 69.8,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d961e40-86ac-11e4-8c28-020000005b00/hoosier-heights-country-club"
+  }
+}

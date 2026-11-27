@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/5a7704f0-6298-11e7-9553-0680a328ea36/salina-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/5a7704f0-6298-11e7-9553-0680a328ea36/salina-country-club",
+  "checked_at": 1795661648.2653635,
+  "sha256": "012ad6d0a6077b6ec78f566568bdc7389505f425d0aea29742c13f4784c871af",
+  "title": "Salina Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "5a7704f0-6298-11e7-9553-0680a328ea36",
+    "name": "Salina Country Club",
+    "address": "2101 E Country Club Rd, Salina, KS 67401",
+    "courses": [
+      {
+        "name": "Salina CC",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6087,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6087,
+            "par": 71,
+            "rating": 75.2,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5633,
+            "par": 71,
+            "rating": 67.1,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5633,
+            "par": 71,
+            "rating": 72.4,
+            "slope": 124
+          },
+          {
+            "name": "White/Red",
+            "category": "MALE",
+            "yards": 5190,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White/Red",
+            "category": "FEMALE",
+            "yards": 5190,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4854,
+            "par": 71,
+            "rating": 64.9,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4854,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/5a7704f0-6298-11e7-9553-0680a328ea36/salina-country-club"
+  }
+}

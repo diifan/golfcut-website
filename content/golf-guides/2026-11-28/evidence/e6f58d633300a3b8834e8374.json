@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6dd70a0-86ac-11e4-8c28-020000005b00/wapsipinicon-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6dd70a0-86ac-11e4-8c28-020000005b00/wapsipinicon-country-club",
+  "checked_at": 1795700336.4481213,
+  "sha256": "a2ed0af470881499477944fa86eacaa28bee928e4fd3c7a143c3d05a7736f0db",
+  "title": "Wapsipinicon Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6dd70a0-86ac-11e4-8c28-020000005b00",
+    "name": "Wapsipinicon Country Club",
+    "address": "21309 Co Rd 34 E, Anamosa, IA",
+    "courses": [
+      {
+        "name": "Wapsipinicon",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2346,
+            "par": 33,
+            "rating": 31.7,
+            "slope": 104
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2346,
+            "par": 35,
+            "rating": 33.8,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2109,
+            "par": 33,
+            "rating": 30.9,
+            "slope": 104
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2109,
+            "par": 35,
+            "rating": 32.6,
+            "slope": 99
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6dd70a0-86ac-11e4-8c28-020000005b00/wapsipinicon-country-club"
+  }
+}

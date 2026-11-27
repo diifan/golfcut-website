@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba664940-86ac-11e4-8c28-020000005b00/preston-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba664940-86ac-11e4-8c28-020000005b00/preston-country-club",
+  "checked_at": 1795694174.5818686,
+  "sha256": "2f06c91547ca1b848239cf80425c59ff6056277beb70003de254a4ae04b06f69",
+  "title": "Preston Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ba664940-86ac-11e4-8c28-020000005b00",
+    "name": "Preston Country Club",
+    "address": "183 Club House Dr, Kingwood, WV ",
+    "courses": [
+      {
+        "name": "Preston",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7001,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7001,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6582,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6582,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5844,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5844,
+            "par": 72,
+            "rating": 73,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5398,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5398,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba664940-86ac-11e4-8c28-020000005b00/preston-country-club"
+  }
+}

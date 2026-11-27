@@ -1,0 +1,235 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a265da0-86ac-11e4-8c28-020000005b00/oak-hill-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a265da0-86ac-11e4-8c28-020000005b00/oak-hill-country-club",
+  "checked_at": 1795661682.9079487,
+  "sha256": "0a84d991b8a56029833dd8a1f06a566c5cba542e5e154c58c5295909671dfc0d",
+  "title": "Oak Hill Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9a265da0-86ac-11e4-8c28-020000005b00",
+    "name": "Oak Hill Country Club",
+    "address": "Kilbourn Rd, Rochester, NY",
+    "courses": [
+      {
+        "name": "West Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6735,
+            "par": 71,
+            "rating": 73.3,
+            "slope": 136
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 6735,
+            "par": 71,
+            "rating": 77.7,
+            "slope": 138
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6735,
+            "par": 71,
+            "rating": 73.3,
+            "slope": 136
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6735,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6360,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6360,
+            "par": 71,
+            "rating": 78.1,
+            "slope": 149
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5735,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5735,
+            "par": 71,
+            "rating": 74.2,
+            "slope": 137
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5575,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5575,
+            "par": 71,
+            "rating": 73.6,
+            "slope": 137
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5280,
+            "par": 71,
+            "rating": 66.4,
+            "slope": 125
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5280,
+            "par": 71,
+            "rating": 72.1,
+            "slope": 131
+          }
+        ]
+      },
+      {
+        "name": "East Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7360,
+            "par": 71,
+            "rating": 77.7,
+            "slope": 155
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 7360,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6995,
+            "par": 71,
+            "rating": 75.8,
+            "slope": 150
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6995,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6655,
+            "par": 71,
+            "rating": 73.8,
+            "slope": 145
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6655,
+            "par": 72,
+            "rating": 80.9,
+            "slope": 155
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6195,
+            "par": 71,
+            "rating": 71.7,
+            "slope": 141
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6195,
+            "par": 72,
+            "rating": 78,
+            "slope": 151
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5595,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 133
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5595,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 145
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5265,
+            "par": 71,
+            "rating": 67.9,
+            "slope": 129
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5265,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 140
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 6490,
+            "par": 71,
+            "rating": 73.1,
+            "slope": 144
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 6490,
+            "par": 72,
+            "rating": 79.7,
+            "slope": 154
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a265da0-86ac-11e4-8c28-020000005b00/oak-hill-country-club"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4d45a30-86ac-11e4-8c28-020000005b00/pineway-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4d45a30-86ac-11e4-8c28-020000005b00/pineway-golf-course",
+  "checked_at": 1795694218.951464,
+  "sha256": "806bb7f1cd07dd6a73d51924c3735b83a0ab374064c87a5e5ed121336d626084",
+  "title": "Pineway Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b4d45a30-86ac-11e4-8c28-020000005b00",
+    "name": "Pineway Golf Course",
+    "address": "30949 Pineway Rd",
+    "courses": [
+      {
+        "name": "Pineway(9 holes )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "WHITE/BLUE",
+            "category": "MALE",
+            "yards": 5798,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 117
+          },
+          {
+            "name": "RED/BLUE",
+            "category": "MALE",
+            "yards": 5582,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4d45a30-86ac-11e4-8c28-020000005b00/pineway-golf-course"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e1c1720-86ac-11e4-8c28-020000005b00/raven-golf-club-phoenix",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e1c1720-86ac-11e4-8c28-020000005b00/raven-golf-club-phoenix",
+  "checked_at": 1795524422.7845728,
+  "sha256": "dbb0b7f9a960e574d098079763622589be946ad5167e8c513e4152d23af643ab",
+  "title": "Raven Golf Club - Phoenix - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8e1c1720-86ac-11e4-8c28-020000005b00",
+    "name": "Raven Golf Club - Phoenix",
+    "address": "3636 E Baseline Road Phoenix, AZ",
+    "courses": [
+      {
+        "name": "Raven",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Raven",
+            "category": "MALE",
+            "yards": 7078,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 132
+          },
+          {
+            "name": "Raven",
+            "category": "FEMALE",
+            "yards": 7078,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 6722,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 127
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 6722,
+            "par": 72,
+            "rating": 77.7,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6264,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6264,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5759,
+            "par": 72,
+            "rating": 66,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5759,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e1c1720-86ac-11e4-8c28-020000005b00/raven-golf-club-phoenix"
+  }
+}

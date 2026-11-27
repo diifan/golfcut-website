@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/89252f90-86ac-11e4-8c28-020000005b00/gavilan-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/89252f90-86ac-11e4-8c28-020000005b00/gavilan-golf-course",
+  "checked_at": 1795694208.7731154,
+  "sha256": "819c4a8fca21c8e623d715a5dec5f17f08bb5e5a9d079a44f510ff6e6e8fe302",
+  "title": "Gavilan Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "89252f90-86ac-11e4-8c28-020000005b00",
+    "name": "Gavilan Golf Course",
+    "address": "5055 Santa Teresa Blvd",
+    "courses": [
+      {
+        "name": "Gavilan",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/BLUE",
+            "category": "MALE",
+            "yards": 3701,
+            "par": 62,
+            "rating": 58.5,
+            "slope": 86
+          },
+          {
+            "name": "White/BLUE",
+            "category": "FEMALE",
+            "yards": 3701,
+            "par": 62,
+            "rating": 60.3,
+            "slope": 90
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3276,
+            "par": 62,
+            "rating": 57,
+            "slope": 81
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3276,
+            "par": 62,
+            "rating": 58.4,
+            "slope": 86
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/89252f90-86ac-11e4-8c28-020000005b00/gavilan-golf-course"
+  }
+}

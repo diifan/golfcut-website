@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b863e990-86ac-11e4-8c28-020000005b00/larimore-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b863e990-86ac-11e4-8c28-020000005b00/larimore-golf-club",
+  "checked_at": 1795687751.9075673,
+  "sha256": "c07b6e9008d147aa86b78dc8e1ff825010f7ab375692051579a73d7dee743e40",
+  "title": "Larimore Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b863e990-86ac-11e4-8c28-020000005b00",
+    "name": "Larimore Golf Club",
+    "address": "Larimore Recreation Area",
+    "courses": [
+      {
+        "name": "Larimore Golf Club",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3072,
+            "par": 36,
+            "rating": 35.3,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2964,
+            "par": 36,
+            "rating": 34.8,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2600,
+            "par": 36,
+            "rating": 34.3,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b863e990-86ac-11e4-8c28-020000005b00/larimore-golf-club"
+  }
+}

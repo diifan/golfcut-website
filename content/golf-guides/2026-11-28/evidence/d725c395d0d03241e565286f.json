@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/4ade5c40-70a9-11e7-bda1-0680a328ea36/high-meadows-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/4ade5c40-70a9-11e7-bda1-0680a328ea36/high-meadows-country-club",
+  "checked_at": 1795687625.8138905,
+  "sha256": "e95fd98b5c8a83f85004bb13b3a509c45f0e6497a02873f7c1c6bffcbdaeb675",
+  "title": "High Meadows Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "4ade5c40-70a9-11e7-bda1-0680a328ea36",
+    "name": "High Meadows Country Club",
+    "address": "4209 SC-71, Abbeville, SC 29620",
+    "courses": [
+      {
+        "name": "High Meadows",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6514,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 109
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6514,
+            "par": 72,
+            "rating": 76.5,
+            "slope": 136
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6148,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 114
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6148,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 131
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/4ade5c40-70a9-11e7-bda1-0680a328ea36/high-meadows-country-club"
+  }
+}

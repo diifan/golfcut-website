@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6315220-86ac-11e4-8c28-020000005b00/henryetta-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6315220-86ac-11e4-8c28-020000005b00/henryetta-golf-course",
+  "checked_at": 1795663498.8232517,
+  "sha256": "92d280bd88373e08f2129cfbe2d09a644b4ca5429f9c4100ec3e20ce3e27bce7",
+  "title": "Henryetta Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b6315220-86ac-11e4-8c28-020000005b00",
+    "name": "Henryetta Golf Course",
+    "address": "N3946 Rd, Henryetta, OK 74437",
+    "courses": [
+      {
+        "name": "Henryetta Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 6021,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5250,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6315220-86ac-11e4-8c28-020000005b00/henryetta-golf-course"
+  }
+}

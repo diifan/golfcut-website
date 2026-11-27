@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/056c0610-4ed9-11ef-b4de-06780482e2ce/coleman-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/056c0610-4ed9-11ef-b4de-06780482e2ce/coleman-country-club",
+  "checked_at": 1795661672.4879286,
+  "sha256": "bf2ce7c2031b194a22cfb1c331d717eefaab12a6c67e61b7d0ccfffd9cb11c78",
+  "title": "Coleman Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star-o star-o star-o star star star-o star-o star-o star star google-play",
+  "course_profile": {
+    "id": "056c0610-4ed9-11ef-b4de-06780482e2ce",
+    "name": "Coleman Country Club",
+    "address": "San Angelo Hwy, Coleman, TX",
+    "courses": [
+      {
+        "name": "Coleman (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3079,
+            "par": 36,
+            "rating": 35.4,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3079,
+            "par": 36,
+            "rating": 37.3,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2318,
+            "par": 36,
+            "rating": 33,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2318,
+            "par": 36,
+            "rating": 33.4,
+            "slope": 109
+          }
+        ]
+      },
+      {
+        "name": "Coleman (18 Holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6158,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6158,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4636,
+            "par": 72,
+            "rating": 66,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4636,
+            "par": 72,
+            "rating": 66.9,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/056c0610-4ed9-11ef-b4de-06780482e2ce/coleman-country-club"
+  }
+}

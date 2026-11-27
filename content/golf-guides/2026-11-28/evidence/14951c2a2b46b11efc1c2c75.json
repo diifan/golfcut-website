@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/73dd3f30-8f4e-11e7-a72f-0680a328ea36/valley-view-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/73dd3f30-8f4e-11e7-a72f-0680a328ea36/valley-view-golf-course",
+  "checked_at": 1795661466.3804393,
+  "sha256": "c6fe5f214b4f045e1d6e2b39d5064205ce312141f513c286ff4d7a6c1f870abd",
+  "title": "Valley View Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "73dd3f30-8f4e-11e7-a72f-0680a328ea36",
+    "name": "Valley View Golf Course",
+    "address": "2106 State Route 598, Galion",
+    "courses": [
+      {
+        "name": "Valley View",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6514,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6514,
+            "par": 72,
+            "rating": 76.5,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6149,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6149,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4819,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4819,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/73dd3f30-8f4e-11e7-a72f-0680a328ea36/valley-view-golf-course"
+  }
+}

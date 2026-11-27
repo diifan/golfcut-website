@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b47d87a0-86ac-11e4-8c28-020000005b00/scenic-knolls-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b47d87a0-86ac-11e4-8c28-020000005b00/scenic-knolls-golf-course",
+  "checked_at": 1795663493.1785045,
+  "sha256": "b2ad4904538c2b395a940ff3aaa1f695fef47ec7b68e7e0f280f81bc62c84847",
+  "title": "Scenic Knolls Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b47d87a0-86ac-11e4-8c28-020000005b00",
+    "name": "Scenic Knolls Golf Course",
+    "address": "20548 NE-29 Mitchell, NE 69357",
+    "courses": [
+      {
+        "name": "Scenic Knolls",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6952,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6522,
+            "par": 72,
+            "rating": 72,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5290,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5146,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b47d87a0-86ac-11e4-8c28-020000005b00/scenic-knolls-golf-course"
+  }
+}

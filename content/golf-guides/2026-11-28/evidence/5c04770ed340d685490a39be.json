@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b45fc670-86ac-11e4-8c28-020000005b00/david-city-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b45fc670-86ac-11e4-8c28-020000005b00/david-city-golf-club",
+  "checked_at": 1795661441.7660353,
+  "sha256": "641fc6203b843dfdf5b8e227ae9c70adbd10e7f83e94ac8c9bbb859f09367be0",
+  "title": "David City Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "b45fc670-86ac-11e4-8c28-020000005b00",
+    "name": "David City Golf Club",
+    "address": "899 Park Dr, David City, NE",
+    "courses": [
+      {
+        "name": "David City",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5470,
+            "par": 68,
+            "rating": 66.4,
+            "slope": 110
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5470,
+            "par": 74,
+            "rating": 71,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5226,
+            "par": 68,
+            "rating": 68.7,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5226,
+            "par": 74,
+            "rating": 70.4,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b45fc670-86ac-11e4-8c28-020000005b00/david-city-golf-club"
+  }
+}

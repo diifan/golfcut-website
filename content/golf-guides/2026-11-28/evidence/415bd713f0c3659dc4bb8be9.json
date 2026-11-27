@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8b44b430-86ac-11e4-8c28-020000005b00/concho-springs-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8b44b430-86ac-11e4-8c28-020000005b00/concho-springs-golf-course",
+  "checked_at": 1795694371.1072288,
+  "sha256": "a29dcdff0dee57ce98ad93ca31cc692e536b038f4da8234e91843915951d5eea",
+  "title": "Concho Springs Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8b44b430-86ac-11e4-8c28-020000005b00",
+    "name": "Concho Springs Golf Course",
+    "address": "816 US-83 Eden, TX 76837",
+    "courses": [
+      {
+        "name": "Concho Springs (9 holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6716,
+            "par": 72,
+            "rating": 70,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6090,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5910,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5084,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8b44b430-86ac-11e4-8c28-020000005b00/concho-springs-golf-course"
+  }
+}

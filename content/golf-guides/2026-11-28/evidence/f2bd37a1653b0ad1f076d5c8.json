@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/91886710-86ac-11e4-8c28-020000005b00/pikeville-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/91886710-86ac-11e4-8c28-020000005b00/pikeville-country-club",
+  "checked_at": 1795700458.2865806,
+  "sha256": "438b1c6ff0226f367abdcd401302ee3414d74d4a89a66e95e58c41386bd85d21",
+  "title": "Pikeville Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "91886710-86ac-11e4-8c28-020000005b00",
+    "name": "Pikeville Country Club",
+    "address": "1310 Country Club Rd",
+    "courses": [
+      {
+        "name": "Pikeville",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6502,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6502,
+            "par": 72,
+            "rating": 76.5,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6228,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6228,
+            "par": 72,
+            "rating": 75,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4758,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4758,
+            "par": 72,
+            "rating": 67,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/91886710-86ac-11e4-8c28-020000005b00/pikeville-country-club"
+  }
+}

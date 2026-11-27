@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95ede410-86ac-11e4-8c28-020000005b00/green-hill-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95ede410-86ac-11e4-8c28-020000005b00/green-hill-golf-course",
+  "checked_at": 1795524103.7627382,
+  "sha256": "869f83e227ef48257cdacb8943eaf455a2ad795505c7f650623cdd2a7c3f0a82",
+  "title": "Green Hill Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95ede410-86ac-11e4-8c28-020000005b00",
+    "name": "Green Hill Golf Course",
+    "address": "1929 Skyline Dr.",
+    "courses": [
+      {
+        "name": "Worcester Green Hill Municipal",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6392,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6392,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6001,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6001,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 130
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5471,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 123
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5471,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4822,
+            "par": 72,
+            "rating": 66.9,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4822,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95ede410-86ac-11e4-8c28-020000005b00/green-hill-golf-course"
+  }
+}

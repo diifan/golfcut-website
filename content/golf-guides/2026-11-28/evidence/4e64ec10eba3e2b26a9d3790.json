@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9519f240-86ac-11e4-8c28-020000005b00/white-plains-regional-park",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9519f240-86ac-11e4-8c28-020000005b00/white-plains-regional-park",
+  "checked_at": 1795661447.7830331,
+  "sha256": "a4419acb40203d2ce98fbdb97744cec290f99f41cf0aaaf975d7c24d451705aa",
+  "title": "White Plains Regional Park - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9519f240-86ac-11e4-8c28-020000005b00",
+    "name": "White Plains Regional Park",
+    "address": "1015 St. Charles Pkwy, White Plains, MD",
+    "courses": [
+      {
+        "name": "White Plains Regional Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6277,
+            "par": 70,
+            "rating": 70,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6277,
+            "par": 70,
+            "rating": 75.3,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6004,
+            "par": 70,
+            "rating": 68.6,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6004,
+            "par": 70,
+            "rating": 73.8,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5365,
+            "par": 70,
+            "rating": 65.5,
+            "slope": 112
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5365,
+            "par": 70,
+            "rating": 69.8,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5052,
+            "par": 70,
+            "rating": 63.9,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5052,
+            "par": 70,
+            "rating": 69,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9519f240-86ac-11e4-8c28-020000005b00/white-plains-regional-park"
+  }
+}

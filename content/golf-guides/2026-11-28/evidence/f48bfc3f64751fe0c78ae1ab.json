@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b45cb930-86ac-11e4-8c28-020000005b00/cozad-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b45cb930-86ac-11e4-8c28-020000005b00/cozad-country-club",
+  "checked_at": 1795686562.1192355,
+  "sha256": "869233a4f6b4d1e59e54a082dc355143a4864929c913db99d457b1f74d268285",
+  "title": "Cozad Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b45cb930-86ac-11e4-8c28-020000005b00",
+    "name": "Cozad Country Club",
+    "address": "100 Country Club Road Cozad, NE 69130",
+    "courses": [
+      {
+        "name": "Cozad",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 5991,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 119
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5474,
+            "par": 71,
+            "rating": 66.9,
+            "slope": 112
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4767,
+            "par": 71,
+            "rating": 66.6,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b45cb930-86ac-11e4-8c28-020000005b00/cozad-country-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7c8315e0-86ac-11e4-8c28-020000005b00/royal-golf-la-bagnaia",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7c8315e0-86ac-11e4-8c28-020000005b00/royal-golf-la-bagnaia",
+  "checked_at": 1795696563.507187,
+  "sha256": "2fc9c6940fa09a5a3e13e27f6285d5bc2af79549485e58777d9731a9df2dee2f",
+  "title": "Royal Golf La Bagnaia - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "7c8315e0-86ac-11e4-8c28-020000005b00",
+    "name": "Royal Golf La Bagnaia",
+    "address": "Strada Statale 223 “Siena – Grosseto”, km 56 53016 – Località Bagnaia, Murlo (SI)",
+    "courses": [
+      {
+        "name": "La Bagnaia",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Bianco (White)",
+            "category": "MALE",
+            "yards": 6672.11461,
+            "par": 71,
+            "rating": 72.1,
+            "slope": 137
+          },
+          {
+            "name": "Giallo (Yellow)",
+            "category": "MALE",
+            "yards": 6130.777659999999,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 131
+          },
+          {
+            "name": "Azzuro (Blue)",
+            "category": "MALE",
+            "yards": 5726.141959999999,
+            "par": 71,
+            "rating": 71,
+            "slope": 122
+          },
+          {
+            "name": "Rosso (Red)",
+            "category": "MALE",
+            "yards": 5242.76634,
+            "par": 71,
+            "rating": 68.8,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7c8315e0-86ac-11e4-8c28-020000005b00/royal-golf-la-bagnaia"
+  }
+}

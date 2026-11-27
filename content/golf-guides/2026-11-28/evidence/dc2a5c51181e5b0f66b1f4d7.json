@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3383660-86ac-11e4-8c28-020000005b00/nahma-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3383660-86ac-11e4-8c28-020000005b00/nahma-golf-course",
+  "checked_at": 1795686542.8526046,
+  "sha256": "acbc84e306a0234b3fac6af3f0305178500113a764f7da42709f6f6bd92bdac6",
+  "title": "Nahma Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b3383660-86ac-11e4-8c28-020000005b00",
+    "name": "Nahma Golf Course",
+    "address": "8588 Ll Rd",
+    "courses": [
+      {
+        "name": "Nahma",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2755,
+            "par": 36,
+            "rating": 35,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2755,
+            "par": 36,
+            "rating": 35.6,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2492,
+            "par": 36,
+            "rating": 33.8,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2492,
+            "par": 36,
+            "rating": 34.2,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3383660-86ac-11e4-8c28-020000005b00/nahma-golf-course"
+  }
+}

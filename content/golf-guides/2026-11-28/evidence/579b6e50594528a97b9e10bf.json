@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/90dbac50-86ac-11e4-8c28-020000005b00/roosevelt-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/90dbac50-86ac-11e4-8c28-020000005b00/roosevelt-golf-course",
+  "checked_at": 1795663492.7815,
+  "sha256": "5b853ecf2da4b94a754dd9ad6df97b9334fcf2ed446d9a8f1ec08d6b605c9ef3",
+  "title": "Roosevelt Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "90dbac50-86ac-11e4-8c28-020000005b00",
+    "name": "Roosevelt Golf Course",
+    "address": "2735 Canal St, The Villages, FL",
+    "courses": [
+      {
+        "name": "The Villages (Roosevelt)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1750,
+            "par": 29,
+            "rating": 30.4,
+            "slope": 95
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1547,
+            "par": 29,
+            "rating": 29.5,
+            "slope": 91
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1135,
+            "par": 29,
+            "rating": 26.9779,
+            "slope": 80.8392
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/90dbac50-86ac-11e4-8c28-020000005b00/roosevelt-golf-course"
+  }
+}

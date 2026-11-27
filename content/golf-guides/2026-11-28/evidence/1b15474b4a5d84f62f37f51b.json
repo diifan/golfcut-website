@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b77088e0-86ac-11e4-8c28-020000005b00/cedar-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b77088e0-86ac-11e4-8c28-020000005b00/cedar-creek-golf-course",
+  "checked_at": 1795686596.2603457,
+  "sha256": "c8d05f696ab2a28dfc269fd6928d30715974ab223c58aaf83b247034fe52802d",
+  "title": "Cedar Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b77088e0-86ac-11e4-8c28-020000005b00",
+    "name": "Cedar Creek Golf Course",
+    "address": "13120 Angle Rd, Ottumwa, IA",
+    "courses": [
+      {
+        "name": "Cedar Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6456,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6456,
+            "par": 71,
+            "rating": 76.2,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6122,
+            "par": 71,
+            "rating": 68.8,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6122,
+            "par": 71,
+            "rating": 74.5,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5534,
+            "par": 71,
+            "rating": 65.7,
+            "slope": 109
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5534,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4989,
+            "par": 71,
+            "rating": 67.6,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4989,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b77088e0-86ac-11e4-8c28-020000005b00/cedar-creek-golf-course"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/aec59a00-86ac-11e4-8c28-020000005b00/rapid-city-executive-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/aec59a00-86ac-11e4-8c28-020000005b00/rapid-city-executive-golf",
+  "checked_at": 1795661683.3431392,
+  "sha256": "a5683e86a736ab6174ae7e63351850911cdf36c713d2f19d445858b8f4ac35c1",
+  "title": "Rapid City Executive Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "aec59a00-86ac-11e4-8c28-020000005b00",
+    "name": "Rapid City Executive Golf",
+    "address": "200 12th St",
+    "courses": [
+      {
+        "name": "Executive",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1323,
+            "par": 29,
+            "rating": 28.1,
+            "slope": 90
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1323,
+            "par": 29,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1061,
+            "par": 29,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1061,
+            "par": 29,
+            "rating": 29,
+            "slope": 93
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/aec59a00-86ac-11e4-8c28-020000005b00/rapid-city-executive-golf"
+  }
+}

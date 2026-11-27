@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8fe7d670-86ac-11e4-8c28-020000005b00/sabal-springs",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8fe7d670-86ac-11e4-8c28-020000005b00/sabal-springs",
+  "checked_at": 1795663443.4061904,
+  "sha256": "38ef4b2f11148b51bdb09bff6d2646c452f121d4663cebda4a9208c850a52764",
+  "title": "Sabal Springs - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8fe7d670-86ac-11e4-8c28-020000005b00",
+    "name": "Sabal Springs",
+    "address": "3347 Sabal Springs Blvd, North Fort Myers, FL",
+    "courses": [
+      {
+        "name": "Sabal Springs",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3168,
+            "par": 60,
+            "rating": 59.3,
+            "slope": 101
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2996,
+            "par": 60,
+            "rating": 55.98644,
+            "slope": 83.48744
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2481,
+            "par": 60,
+            "rating": 53.85434,
+            "slope": 80.96909
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2120,
+            "par": 60,
+            "rating": 52.3598,
+            "slope": 79.2038
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8fe7d670-86ac-11e4-8c28-020000005b00/sabal-springs"
+  }
+}

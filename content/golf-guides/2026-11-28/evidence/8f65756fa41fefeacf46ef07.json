@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af594e80-86ac-11e4-8c28-020000005b00/glen-eagle-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af594e80-86ac-11e4-8c28-020000005b00/glen-eagle-golf-course",
+  "checked_at": 1795661626.4445841,
+  "sha256": "d3117366e973298c17cb50b4f95b16e7671d6429b853ae05b8b60e456f50db79",
+  "title": "Glen Eagle Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af594e80-86ac-11e4-8c28-020000005b00",
+    "name": "Glen Eagle Golf Course",
+    "address": "6168 Attu Street, Millington, TN",
+    "courses": [
+      {
+        "name": "Glen Eagle",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6895,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 146
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6895,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6435,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 138
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6435,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5992,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5992,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5013,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5013,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af594e80-86ac-11e4-8c28-020000005b00/glen-eagle-golf-course"
+  }
+}

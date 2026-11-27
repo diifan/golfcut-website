@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b89dbe40-86ac-11e4-8c28-020000005b00/lakeside-village-golf-athletic-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b89dbe40-86ac-11e4-8c28-020000005b00/lakeside-village-golf-athletic-club",
+  "checked_at": 1795697934.23271,
+  "sha256": "c874f7993f498b20368409e89eefdac8dcc80697d22806752cd8f970049ac015",
+  "title": "Lakeside Village Golf & Athletic Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b89dbe40-86ac-11e4-8c28-020000005b00",
+    "name": "Lakeside Village Golf & Athletic Club",
+    "address": "200 Village Lake Drive",
+    "courses": [
+      {
+        "name": "The Greens at Lakeside Village",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1040,
+            "par": 27,
+            "rating": 26.5466,
+            "slope": 79.0988
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 625,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b89dbe40-86ac-11e4-8c28-020000005b00/lakeside-village-golf-athletic-club"
+  }
+}

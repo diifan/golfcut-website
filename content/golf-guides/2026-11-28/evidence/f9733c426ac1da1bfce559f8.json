@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b48bb870-86ac-11e4-8c28-020000005b00/pacific-springs",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b48bb870-86ac-11e4-8c28-020000005b00/pacific-springs",
+  "checked_at": 1795686405.1428807,
+  "sha256": "eeb8ff954edd57c586dea582f8252676da522117285aa3b0870a0d118921c5b5",
+  "title": "Pacific Springs - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b48bb870-86ac-11e4-8c28-020000005b00",
+    "name": "Pacific Springs",
+    "address": "16810 Harney St, Omaha, NE",
+    "courses": [
+      {
+        "name": "Pacific Springs",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6012,
+            "par": 70,
+            "rating": 69.7,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6012,
+            "par": 70,
+            "rating": 73.9,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5530,
+            "par": 70,
+            "rating": 67.3,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5530,
+            "par": 70,
+            "rating": 72.8,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5012,
+            "par": 70,
+            "rating": 65,
+            "slope": 110
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5012,
+            "par": 70,
+            "rating": 69.4,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4297,
+            "par": 70,
+            "rating": 64.5,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4297,
+            "par": 70,
+            "rating": 65.3,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b48bb870-86ac-11e4-8c28-020000005b00/pacific-springs"
+  }
+}

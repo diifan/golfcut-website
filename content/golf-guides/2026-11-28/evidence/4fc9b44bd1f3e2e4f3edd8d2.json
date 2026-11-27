@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b32b3e10-86ac-11e4-8c28-020000005b00/old-town-golf-and-sportland",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b32b3e10-86ac-11e4-8c28-020000005b00/old-town-golf-and-sportland",
+  "checked_at": 1795694248.9748595,
+  "sha256": "8fef28b370a4ddda6c84b6d93cc66067c9dbfcc2c392dea3fbbf95f18fc4df4b",
+  "title": "Old Town Golf & Sports Center - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b32b3e10-86ac-11e4-8c28-020000005b00",
+    "name": "Old Town Golf & Sports Center",
+    "address": "6724 North Monroe Street Monroe",
+    "courses": [
+      {
+        "name": "Old Town Golf and Sportland",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1372,
+            "par": 27,
+            "rating": 28.05388,
+            "slope": 85.18104
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1372,
+            "par": 27,
+            "rating": 28.05388,
+            "slope": 85.18104
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 808,
+            "par": 27,
+            "rating": 25.49332,
+            "slope": 74.84856
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 808,
+            "par": 27,
+            "rating": 25.49332,
+            "slope": 74.84856
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b32b3e10-86ac-11e4-8c28-020000005b00/old-town-golf-and-sportland"
+  }
+}

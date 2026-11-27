@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5c41160-86ac-11e4-8c28-020000005b00/hidden-glen-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5c41160-86ac-11e4-8c28-020000005b00/hidden-glen-golf-club",
+  "checked_at": 1795524189.0727923,
+  "sha256": "bb16026d31c726b98c5f312ba3b9ff811201c40076e8dc3219477d46e34ca6d5",
+  "title": "Hidden Glen Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b5c41160-86ac-11e4-8c28-020000005b00",
+    "name": "Hidden Glen Golf Club",
+    "address": "3300 Hidden Glen Ln, Cedarburg, WI",
+    "courses": [
+      {
+        "name": "Hidden Glen",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 7017,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 140
+          },
+          {
+            "name": "Tournament",
+            "category": "FEMALE",
+            "yards": 7017,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6624,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 136
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 6624,
+            "par": 72,
+            "rating": 77.1,
+            "slope": 137
+          },
+          {
+            "name": "Member",
+            "category": "MALE",
+            "yards": 6255,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 132
+          },
+          {
+            "name": "Member",
+            "category": "FEMALE",
+            "yards": 6255,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 133
+          },
+          {
+            "name": "Intermediate",
+            "category": "MALE",
+            "yards": 5918,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 130
+          },
+          {
+            "name": "Intermediate",
+            "category": "FEMALE",
+            "yards": 5918,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 135
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5278,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 120
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5278,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5c41160-86ac-11e4-8c28-020000005b00/hidden-glen-golf-club"
+  }
+}

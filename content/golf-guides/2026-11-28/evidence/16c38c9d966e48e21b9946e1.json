@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96f8eb70-86ac-11e4-8c28-020000005b00/wheaton-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96f8eb70-86ac-11e4-8c28-020000005b00/wheaton-country-club",
+  "checked_at": 1795685190.463321,
+  "sha256": "a71c339facd769b8b5ed260e555ffc604f2828142a22965de160777a767f9dbe",
+  "title": "Wheaton Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96f8eb70-86ac-11e4-8c28-020000005b00",
+    "name": "Wheaton Country Club",
+    "address": "Hwy 27 W",
+    "courses": [
+      {
+        "name": "Wheaton",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2983,
+            "par": 36,
+            "rating": 34.4,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2906,
+            "par": 36,
+            "rating": 34,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2524,
+            "par": 36,
+            "rating": 34,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96f8eb70-86ac-11e4-8c28-020000005b00/wheaton-country-club"
+  }
+}

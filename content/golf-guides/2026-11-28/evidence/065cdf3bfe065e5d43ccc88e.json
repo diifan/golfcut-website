@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8048b80-86ac-11e4-8c28-020000005b00/paola-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8048b80-86ac-11e4-8c28-020000005b00/paola-golf-club",
+  "checked_at": 1795694262.2363124,
+  "sha256": "fa4ec10260395ec4fd89dc92f8af2748a0dac66c6e3eb8931599089d4cae7605",
+  "title": "Paola Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b8048b80-86ac-11e4-8c28-020000005b00",
+    "name": "Paola Golf Club",
+    "address": "29651 Old Kansas City Rd, Paola, KS",
+    "courses": [
+      {
+        "name": "Paola",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5873,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 116
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5873,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4893,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4893,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8048b80-86ac-11e4-8c28-020000005b00/paola-golf-club"
+  }
+}

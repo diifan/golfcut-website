@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7ba62360-86ac-11e4-8c28-020000005b00/portsalon-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7ba62360-86ac-11e4-8c28-020000005b00/portsalon-golf-club",
+  "checked_at": 1795694252.4579213,
+  "sha256": "d5c448f3d59461db8dcee26abaa7515b84b9683051c8e2f29d8f35ebf6eced4f",
+  "title": "Portsalon Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "7ba62360-86ac-11e4-8c28-020000005b00",
+    "name": "Portsalon Golf Club",
+    "address": "Portsalon, Fanad, Co. Donegal",
+    "courses": [
+      {
+        "name": "Portsalon",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6750,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6750,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6642,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 128
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 6642,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6029,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 115
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 6029,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7ba62360-86ac-11e4-8c28-020000005b00/portsalon-golf-club"
+  }
+}

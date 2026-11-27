@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95ac2020-86ac-11e4-8c28-020000005b00/hidden-hollow",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95ac2020-86ac-11e4-8c28-020000005b00/hidden-hollow",
+  "checked_at": 1795663439.0590138,
+  "sha256": "13ae882f6a65209532baa2fbbcfa09735babd178924cba55adba59525bb298d1",
+  "title": "Hidden Hollow - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95ac2020-86ac-11e4-8c28-020000005b00",
+    "name": "Hidden Hollow",
+    "address": "30 Pierce Ln",
+    "courses": [
+      {
+        "name": "Hidden Hollow",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5810,
+            "par": 70,
+            "rating": 67.2,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5810,
+            "par": 70,
+            "rating": 68.2,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95ac2020-86ac-11e4-8c28-020000005b00/hidden-hollow"
+  }
+}

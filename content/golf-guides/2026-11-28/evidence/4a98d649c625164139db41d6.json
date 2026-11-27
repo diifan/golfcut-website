@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/0c983fa0-a0e6-11ed-a7af-06780482e2ce/bringhurst-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/0c983fa0-a0e6-11ed-a7af-06780482e2ce/bringhurst-golf-course",
+  "checked_at": 1795697973.7850747,
+  "sha256": "ee76219836da01bd94b3af6ab0ff82c12406a6f4678a6dfb74a5b1c2068ea23d",
+  "title": "Bringhurst Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "0c983fa0-a0e6-11ed-a7af-06780482e2ce",
+    "name": "Bringhurst Golf Course",
+    "address": "2822 Masonic Drive, Alexandria, LA",
+    "courses": [
+      {
+        "name": "The Brink",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 793,
+            "par": 27,
+            "rating": 27.3,
+            "slope": 87
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 793,
+            "par": 27,
+            "rating": 28.5,
+            "slope": 89
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/0c983fa0-a0e6-11ed-a7af-06780482e2ce/bringhurst-golf-course"
+  }
+}

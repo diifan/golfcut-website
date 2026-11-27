@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae530210-86ac-11e4-8c28-020000005b00/country-club-of-newberry",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae530210-86ac-11e4-8c28-020000005b00/country-club-of-newberry",
+  "checked_at": 1795582850.471557,
+  "sha256": "dbdb217f3663a6ce2b912a51e361db88b5871a587680d2f47194aed1285f26ea",
+  "title": "Country Club of Newberry - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae530210-86ac-11e4-8c28-020000005b00",
+    "name": "Country Club of Newberry",
+    "address": "414 Country Club Rd, Newberry, SC",
+    "courses": [
+      {
+        "name": "Country Club of Newberry",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6528,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6207,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5663,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4828,
+            "par": 72,
+            "rating": 66.9,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae530210-86ac-11e4-8c28-020000005b00/country-club-of-newberry"
+  }
+}

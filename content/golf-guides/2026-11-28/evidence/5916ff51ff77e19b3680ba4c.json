@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/c6e2d990-86ac-11e4-8c28-020000005b00/the-crete-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/c6e2d990-86ac-11e4-8c28-020000005b00/the-crete-golf-club",
+  "checked_at": 1795687678.585314,
+  "sha256": "bf7a6164f2023291f606b6ab9fafbba8fcdafac2ef45c4e50e00fc6aacafc24a",
+  "title": "The Crete Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "c6e2d990-86ac-11e4-8c28-020000005b00",
+    "name": "The Crete Golf Club",
+    "address": "P. O Box 106 70014 Hersonissos Crete, GREECE",
+    "courses": [
+      {
+        "name": "The Crete Golf Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6276.227790000001,
+            "par": 71,
+            "rating": 72,
+            "slope": 145
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6276.227790000001,
+            "par": 71,
+            "rating": 75.3,
+            "slope": 133
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5927.3661999999995,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 138
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5927.3661999999995,
+            "par": 71,
+            "rating": 73.4,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5441.803360000001,
+            "par": 71,
+            "rating": 67.6,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5441.803360000001,
+            "par": 71,
+            "rating": 70.8,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4904.8408500000005,
+            "par": 71,
+            "rating": 67.3,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4904.8408500000005,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/c6e2d990-86ac-11e4-8c28-020000005b00/the-crete-golf-club"
+  }
+}

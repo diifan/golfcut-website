@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3865660-86ac-11e4-8c28-020000005b00/portland-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3865660-86ac-11e4-8c28-020000005b00/portland-country-club",
+  "checked_at": 1795698002.7416065,
+  "sha256": "b9cb6a80a73f5b1686863bae77006b95f1e3dfc4df722b789fe58dcb525afe15",
+  "title": "Portland Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b3865660-86ac-11e4-8c28-020000005b00",
+    "name": "Portland Country Club",
+    "address": "4901 Divine Highway, Portland, MI 48875",
+    "courses": [
+      {
+        "name": "Portland",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 5558,
+            "par": 70,
+            "rating": 70.2,
+            "slope": 120
+          },
+          {
+            "name": "Regular",
+            "category": "MALE",
+            "yards": 5500,
+            "par": 70,
+            "rating": 66,
+            "slope": 118
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4542,
+            "par": 70,
+            "rating": 65.6,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3865660-86ac-11e4-8c28-020000005b00/portland-country-club"
+  }
+}

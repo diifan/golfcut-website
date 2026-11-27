@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b486af60-86ac-11e4-8c28-020000005b00/bayside-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b486af60-86ac-11e4-8c28-020000005b00/bayside-golf-club",
+  "checked_at": 1795661429.449791,
+  "sha256": "e599f0f064e74b38f97477aa99cf772ff3b2900c94ad987a87bdf78a29979911",
+  "title": "Bayside Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b486af60-86ac-11e4-8c28-020000005b00",
+    "name": "Bayside Golf Club",
+    "address": "865 Lakeview West Rd, Brule, NE 69127",
+    "courses": [
+      {
+        "name": "Bayside",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6546,
+            "par": 71,
+            "rating": 71.5,
+            "slope": 138
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6546,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6130,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6130,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5762,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5762,
+            "par": 71,
+            "rating": 73.1,
+            "slope": 143
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5143,
+            "par": 71,
+            "rating": 65.3,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5143,
+            "par": 71,
+            "rating": 70.1,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4282,
+            "par": 71,
+            "rating": 62.2,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4282,
+            "par": 71,
+            "rating": 64.7,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b486af60-86ac-11e4-8c28-020000005b00/bayside-golf-club"
+  }
+}

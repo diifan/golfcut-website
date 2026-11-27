@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9374cdc0-86ac-11e4-8c28-020000005b00/lake-jonesco",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9374cdc0-86ac-11e4-8c28-020000005b00/lake-jonesco",
+  "checked_at": 1795694230.755101,
+  "sha256": "824a62f76c1a06282868b01eb26db139a471b07e337a00e725608baf84d8d05f",
+  "title": "Lake Jonesco - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9374cdc0-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Jonesco",
+    "address": "834 Highway 22 East Gray, GA 31032",
+    "courses": [
+      {
+        "name": "Lake Jonesco",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6506,
+            "par": 72,
+            "rating": 70,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6506,
+            "par": 72,
+            "rating": 76.5,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5958,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5958,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5311,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 111
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5311,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4573,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4573,
+            "par": 72,
+            "rating": 66,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9374cdc0-86ac-11e4-8c28-020000005b00/lake-jonesco"
+  }
+}

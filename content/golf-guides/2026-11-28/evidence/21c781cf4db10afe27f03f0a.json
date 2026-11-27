@@ -1,0 +1,273 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5666100-86ac-11e4-8c28-020000005b00/ironwood-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5666100-86ac-11e4-8c28-020000005b00/ironwood-golf-course",
+  "checked_at": 1795523877.0051506,
+  "sha256": "377daea58ececdf772adaf673148d5230bfdf0b465af1c5c74a2c28f513aa1cb",
+  "title": "Ironwood Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b5666100-86ac-11e4-8c28-020000005b00",
+    "name": "Ironwood Golf Course",
+    "address": "W270 N6166 Moraine Drive, Sussex, WI",
+    "courses": [
+      {
+        "name": "Callow/Meath",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6549,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 130
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6549,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6411,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6411,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5755,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5755,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5354,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5354,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4672,
+            "par": 72,
+            "rating": 63.3,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4672,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 108
+          }
+        ]
+      },
+      {
+        "name": "Meath/Birr",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6683,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 129
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6683,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6340,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6340,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5751,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5751,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5318,
+            "par": 72,
+            "rating": 66,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5318,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4801,
+            "par": 72,
+            "rating": 63.8,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4801,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 109
+          }
+        ]
+      },
+      {
+        "name": "Birr/Callow",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6766,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 130
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6766,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6393,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6393,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5794,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5794,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5410,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5410,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4721,
+            "par": 72,
+            "rating": 63.1,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4721,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5666100-86ac-11e4-8c28-020000005b00/ironwood-golf-course"
+  }
+}

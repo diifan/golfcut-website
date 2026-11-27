@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/90754960-86ac-11e4-8c28-020000005b00/freedom-fairways-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/90754960-86ac-11e4-8c28-020000005b00/freedom-fairways-golf-course",
+  "checked_at": 1795685212.5877416,
+  "sha256": "15d27cd553de544a73c30abe45044697afc6d3ea56a15289bbdcddf15f253ba4",
+  "title": "Freedom Fairways Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "90754960-86ac-11e4-8c28-020000005b00",
+    "name": "Freedom Fairways Golf Course",
+    "address": "3940 Upper Creek Dr, Sun City Center, FL",
+    "courses": [
+      {
+        "name": "Freedom Fairways",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 3210,
+            "par": 63,
+            "rating": 56.7,
+            "slope": 80
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2699,
+            "par": 63,
+            "rating": 60.2,
+            "slope": 96
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2393,
+            "par": 63,
+            "rating": 59.1,
+            "slope": 94
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2022,
+            "par": 63,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/90754960-86ac-11e4-8c28-020000005b00/freedom-fairways-golf-course"
+  }
+}

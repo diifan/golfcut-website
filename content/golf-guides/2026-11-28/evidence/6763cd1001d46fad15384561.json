@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b44f4bb0-86ac-11e4-8c28-020000005b00/auburn-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b44f4bb0-86ac-11e4-8c28-020000005b00/auburn-country-club",
+  "checked_at": 1795685261.4766002,
+  "sha256": "0140a9c41ae081c30d4c20b2112a161582997217580de13ae91d899d3b372a54",
+  "title": "Auburn Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b44f4bb0-86ac-11e4-8c28-020000005b00",
+    "name": "Auburn Country Club",
+    "address": "72722 Hwy 75 S, Auburn, Nebraska 683053",
+    "courses": [
+      {
+        "name": "Auburn",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5480,
+            "par": 70,
+            "rating": 67.8,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5480,
+            "par": 70,
+            "rating": 73.4,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4860,
+            "par": 70,
+            "rating": 64.2,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4860,
+            "par": 70,
+            "rating": 69,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b44f4bb0-86ac-11e4-8c28-020000005b00/auburn-country-club"
+  }
+}

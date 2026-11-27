@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad6f31c0-86ac-11e4-8c28-020000005b00/fairview-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad6f31c0-86ac-11e4-8c28-020000005b00/fairview-golf-course",
+  "checked_at": 1795583832.5644011,
+  "sha256": "7cc655572bf16bc062235256fce3fb0ecc9d13297f8edff80f002a24a8b8f4de",
+  "title": "Fairview Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ad6f31c0-86ac-11e4-8c28-020000005b00",
+    "name": "Fairview Golf Course",
+    "address": "2399 Quentin Road, Lebanon, PA",
+    "courses": [
+      {
+        "name": "Fairview",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6305,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6305,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6011,
+            "par": 71,
+            "rating": 67.4,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6011,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 130
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5057,
+            "par": 71,
+            "rating": 64.2,
+            "slope": 107
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5057,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad6f31c0-86ac-11e4-8c28-020000005b00/fairview-golf-course"
+  }
+}

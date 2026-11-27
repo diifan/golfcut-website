@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96d18d50-86ac-11e4-8c28-020000005b00/soldiers-field-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96d18d50-86ac-11e4-8c28-020000005b00/soldiers-field-golf-course",
+  "checked_at": 1795583803.180962,
+  "sha256": "be637e16fd35cb30cc60e023d60bea6b2b80bea8ab2d3c97ee717807a47d5399",
+  "title": "Soldiers Field Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96d18d50-86ac-11e4-8c28-020000005b00",
+    "name": "Soldiers Field Golf Course",
+    "address": "244 Soldiers Field Dr SW, Rochester, MN",
+    "courses": [
+      {
+        "name": "Soldiers Memorial Field",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5753,
+            "par": 71,
+            "rating": 67.4,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5753,
+            "par": 71,
+            "rating": 72.7,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5432,
+            "par": 71,
+            "rating": 66,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5432,
+            "par": 71,
+            "rating": 70.9,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4875,
+            "par": 71,
+            "rating": 63.5,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4875,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96d18d50-86ac-11e4-8c28-020000005b00/soldiers-field-golf-course"
+  }
+}

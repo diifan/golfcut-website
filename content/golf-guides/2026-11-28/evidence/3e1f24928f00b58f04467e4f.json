@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95c8a8d0-86ac-11e4-8c28-020000005b00/pine-oaks-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95c8a8d0-86ac-11e4-8c28-020000005b00/pine-oaks-golf-course",
+  "checked_at": 1795700490.7926514,
+  "sha256": "79da90bf1d98335df957ca5ae43081a626af3f2b617010cd04b7f8bbe4e82217",
+  "title": "Pine Oaks Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "95c8a8d0-86ac-11e4-8c28-020000005b00",
+    "name": "Pine Oaks Golf Course",
+    "address": "68 Prospect St, South Easton, MA 02375",
+    "courses": [
+      {
+        "name": "Pine Oaks",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6082,
+            "par": 68,
+            "rating": 69.5,
+            "slope": 122
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 6082,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 131
+          },
+          {
+            "name": "Everyday",
+            "category": "MALE",
+            "yards": 5511,
+            "par": 68,
+            "rating": 66,
+            "slope": 119
+          },
+          {
+            "name": "Everyday",
+            "category": "FEMALE",
+            "yards": 5511,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 124
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 4554,
+            "par": 68,
+            "rating": 65.7,
+            "slope": 112
+          },
+          {
+            "name": "Ladies",
+            "category": "FEMALE",
+            "yards": 4554,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 122
+          },
+          {
+            "name": "Family",
+            "category": "MALE",
+            "yards": 4464,
+            "par": 68,
+            "rating": 65.2,
+            "slope": 111
+          },
+          {
+            "name": "Family",
+            "category": "FEMALE",
+            "yards": 4464,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95c8a8d0-86ac-11e4-8c28-020000005b00/pine-oaks-golf-course"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9ce27f0-86ac-11e4-8c28-020000005b00/profile-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9ce27f0-86ac-11e4-8c28-020000005b00/profile-golf-club",
+  "checked_at": 1795686493.8419092,
+  "sha256": "424b8f99526a76230ad68ef4566c07070fa77179864f7d9178840352db7426f1",
+  "title": "Profile Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b9ce27f0-86ac-11e4-8c28-020000005b00",
+    "name": "Profile Golf Club",
+    "address": "Butterhill Rd, Franconia, NH",
+    "courses": [
+      {
+        "name": "Profile Golf Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/blue",
+            "category": "MALE",
+            "yards": 5784,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 132
+          },
+          {
+            "name": "White/blue",
+            "category": "FEMALE",
+            "yards": 5784,
+            "par": 72,
+            "rating": 75,
+            "slope": 137
+          },
+          {
+            "name": "Hybrid 1",
+            "category": "MALE",
+            "yards": 5198,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 124
+          },
+          {
+            "name": "Hybrid 1",
+            "category": "FEMALE",
+            "yards": 5198,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 128
+          },
+          {
+            "name": "Green/Gold",
+            "category": "MALE",
+            "yards": 4794,
+            "par": 72,
+            "rating": 64.2,
+            "slope": 116
+          },
+          {
+            "name": "Green/Gold",
+            "category": "FEMALE",
+            "yards": 4794,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 125
+          },
+          {
+            "name": "Hybrid 2",
+            "category": "MALE",
+            "yards": 4152,
+            "par": 72,
+            "rating": 61.4,
+            "slope": 105
+          },
+          {
+            "name": "Hybrid 2",
+            "category": "FEMALE",
+            "yards": 4152,
+            "par": 72,
+            "rating": 64.8,
+            "slope": 111
+          },
+          {
+            "name": "Firecracker",
+            "category": "MALE",
+            "yards": 3566,
+            "par": 72,
+            "rating": 58.5,
+            "slope": 88
+          },
+          {
+            "name": "Firecracker",
+            "category": "FEMALE",
+            "yards": 3566,
+            "par": 72,
+            "rating": 61,
+            "slope": 101
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9ce27f0-86ac-11e4-8c28-020000005b00/profile-golf-club"
+  }
+}

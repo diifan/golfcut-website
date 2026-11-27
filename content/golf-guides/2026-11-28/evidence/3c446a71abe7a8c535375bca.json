@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/cf3bcf30-f439-11ed-8bce-06780482e2ce/west-point-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/cf3bcf30-f439-11ed-8bce-06780482e2ce/west-point-country-club",
+  "checked_at": 1795696692.2261882,
+  "sha256": "67b2b91ed2d10ee317e724ac7d55135efcd3588e0b77b905338d29ca3420537b",
+  "title": "West Point Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "cf3bcf30-f439-11ed-8bce-06780482e2ce",
+    "name": "West Point Country Club",
+    "address": "4200 Southern Ave West Point, VA",
+    "courses": [
+      {
+        "name": "West Point Country Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6094,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 126
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6094,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 133
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5702,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 122
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5702,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 128
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 5110,
+            "par": 72,
+            "rating": 65.2,
+            "slope": 116
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 5110,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/cf3bcf30-f439-11ed-8bce-06780482e2ce/west-point-country-club"
+  }
+}

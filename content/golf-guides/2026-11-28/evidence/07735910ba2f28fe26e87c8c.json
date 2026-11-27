@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/93a37ee0-86ac-11e4-8c28-020000005b00/sunset-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/93a37ee0-86ac-11e4-8c28-020000005b00/sunset-country-club",
+  "checked_at": 1795687604.3349254,
+  "sha256": "4045544afd9b0b6584f13f7718751cba84fcd9ada07d1a3a16366cb6f5aeb070",
+  "title": "Sunset Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "93a37ee0-86ac-11e4-8c28-020000005b00",
+    "name": "Sunset Country Club",
+    "address": "Highway 319 South, Moultrie, GA",
+    "courses": [
+      {
+        "name": "Sunset",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6436,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 123
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6436,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6201,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6201,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5230,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5230,
+            "par": 72,
+            "rating": 70,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/93a37ee0-86ac-11e4-8c28-020000005b00/sunset-country-club"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/774a9170-86ac-11e4-8c28-020000005b00/brooklea-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/774a9170-86ac-11e4-8c28-020000005b00/brooklea-golf-country-club",
+  "checked_at": 1795687603.1617765,
+  "sha256": "34529336009e0a0f5fcd3a783df495111331848401aa5e7ac128cb6b68e67644",
+  "title": "Brooklea Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "774a9170-86ac-11e4-8c28-020000005b00",
+    "name": "Brooklea Golf & Country Club",
+    "address": "336 Scott Street, Midland, Ontario, Canada",
+    "courses": [
+      {
+        "name": "9 Hole",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1665,
+            "par": 33,
+            "rating": 29.6,
+            "slope": 93
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1665,
+            "par": 33,
+            "rating": 29.8,
+            "slope": 101
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 1537,
+            "par": 33,
+            "rating": 29.3,
+            "slope": 88
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 1537,
+            "par": 33,
+            "rating": 28.9,
+            "slope": 97
+          }
+        ]
+      },
+      {
+        "name": "Championship 18 Hole",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6290,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6290,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Navy",
+            "category": "MALE",
+            "yards": 6587,
+            "par": 72,
+            "rating": 72,
+            "slope": 127
+          },
+          {
+            "name": "Navy",
+            "category": "FEMALE",
+            "yards": 6587,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Burgundy",
+            "category": "MALE",
+            "yards": 5958,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 122
+          },
+          {
+            "name": "Burgundy",
+            "category": "FEMALE",
+            "yards": 5958,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5554,
+            "par": 72,
+            "rating": 67,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5554,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/774a9170-86ac-11e4-8c28-020000005b00/brooklea-golf-country-club"
+  }
+}

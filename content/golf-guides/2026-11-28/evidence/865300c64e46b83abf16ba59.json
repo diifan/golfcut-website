@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a0ca960-86ac-11e4-8c28-020000005b00/san-gabriel-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a0ca960-86ac-11e4-8c28-020000005b00/san-gabriel-country-club",
+  "checked_at": 1795705804.5702102,
+  "sha256": "ff547d8d07ca3ab662c7e89434bef4b3fd322296913e95a7a4f185328f1f702b",
+  "title": "San Gabriel Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "8a0ca960-86ac-11e4-8c28-020000005b00",
+    "name": "San Gabriel Country Club",
+    "address": "350 East Hermosa Drive, San Gabriel, CA",
+    "courses": [
+      {
+        "name": "San Gabriel",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6664,
+            "par": 71,
+            "rating": 72.3,
+            "slope": 133
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6664,
+            "par": 75,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold/Silver",
+            "category": "MALE",
+            "yards": 6503,
+            "par": 71,
+            "rating": 71.6,
+            "slope": 131
+          },
+          {
+            "name": "Gold/Silver",
+            "category": "FEMALE",
+            "yards": 6503,
+            "par": 75,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 6267,
+            "par": 71,
+            "rating": 70.5,
+            "slope": 128
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 6267,
+            "par": 75,
+            "rating": 76.6,
+            "slope": 138
+          },
+          {
+            "name": "Silver/Blue",
+            "category": "MALE",
+            "yards": 6084,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 125
+          },
+          {
+            "name": "Silver/Blue",
+            "category": "FEMALE",
+            "yards": 6084,
+            "par": 75,
+            "rating": 75.5,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5996,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5996,
+            "par": 75,
+            "rating": 75,
+            "slope": 134
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a0ca960-86ac-11e4-8c28-020000005b00/san-gabriel-country-club"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/90a9edf0-86ac-11e4-8c28-020000005b00/lone-pines",
+  "resolved_url": "https://18birdies.com/golf-courses/club/90a9edf0-86ac-11e4-8c28-020000005b00/lone-pines",
+  "checked_at": 1795683177.1224148,
+  "sha256": "c05c102d53f30c2172e4f5561b86da9ef51aaa182ccff19c01440db56ad3efa0",
+  "title": "Lone Pines - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "90a9edf0-86ac-11e4-8c28-020000005b00",
+    "name": "Lone Pines",
+    "address": "6251 N Military Trl, West Palm Beach, FL",
+    "courses": [
+      {
+        "name": "Lone Pines",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4120,
+            "par": 62,
+            "rating": 59.8,
+            "slope": 95
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3928,
+            "par": 62,
+            "rating": 58.6,
+            "slope": 90
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3795,
+            "par": 62,
+            "rating": 57.6,
+            "slope": 86
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/90a9edf0-86ac-11e4-8c28-020000005b00/lone-pines"
+  }
+}

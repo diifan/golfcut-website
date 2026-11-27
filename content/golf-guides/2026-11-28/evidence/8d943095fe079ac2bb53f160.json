@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8374cb20-2439-11ef-99b2-06780482e2ce/mill-creek-metroparks",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8374cb20-2439-11ef-99b2-06780482e2ce/mill-creek-metroparks",
+  "checked_at": 1795661457.3588078,
+  "sha256": "2ee3b0c521ed35a043340f69b522d6fa92b86d8aa1e898e430fd160b64bfabf3",
+  "title": "Mill Creek Metroparks - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8374cb20-2439-11ef-99b2-06780482e2ce",
+    "name": "Mill Creek Metroparks",
+    "address": "1861 McCollum Rd, Youngstown, OH",
+    "courses": [
+      {
+        "name": "Par 3 Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1540,
+            "par": 54,
+            "rating": 60.1,
+            "slope": 102
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1540,
+            "par": 54,
+            "rating": 49.9586,
+            "slope": 76.3676
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1540,
+            "par": 54,
+            "rating": 49.9586,
+            "slope": 76.3676
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1540,
+            "par": 54,
+            "rating": 62,
+            "slope": 104
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8374cb20-2439-11ef-99b2-06780482e2ce/mill-creek-metroparks"
+  }
+}

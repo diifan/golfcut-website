@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6ff0260-86ac-11e4-8c28-020000005b00/twin-anchors-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6ff0260-86ac-11e4-8c28-020000005b00/twin-anchors-golf-course",
+  "checked_at": 1795661430.6636577,
+  "sha256": "f0d79b01f6d7324cc3740f194569d41716752054d8480ad727dc340d9f712deb",
+  "title": "Twin Anchors Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "b6ff0260-86ac-11e4-8c28-020000005b00",
+    "name": "Twin Anchors Golf Course",
+    "address": "68030 US Highway 30, Colo, IA",
+    "courses": [
+      {
+        "name": "Twin Anchors",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2281,
+            "par": 34,
+            "rating": 32.8,
+            "slope": 105
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2281,
+            "par": 34,
+            "rating": 33.1,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2026,
+            "par": 34,
+            "rating": 31.7,
+            "slope": 100
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2026,
+            "par": 34,
+            "rating": 31.7,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6ff0260-86ac-11e4-8c28-020000005b00/twin-anchors-golf-course"
+  }
+}

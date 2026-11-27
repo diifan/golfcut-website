@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ad2ca40-86ac-11e4-8c28-020000005b00/pinecrest-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ad2ca40-86ac-11e4-8c28-020000005b00/pinecrest-country-club",
+  "checked_at": 1795663500.4273543,
+  "sha256": "4cc38989640105737c8555961d89556742990c51b68941292251678cc3d5d72c",
+  "title": "Pinecrest Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9ad2ca40-86ac-11e4-8c28-020000005b00",
+    "name": "Pinecrest Country Club",
+    "address": "110 Nigel Dr, Lumberton, NC",
+    "courses": [
+      {
+        "name": "Pinecrest",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6578,
+            "par": 72,
+            "rating": 71,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6191,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 121
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5869,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5520,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ad2ca40-86ac-11e4-8c28-020000005b00/pinecrest-country-club"
+  }
+}

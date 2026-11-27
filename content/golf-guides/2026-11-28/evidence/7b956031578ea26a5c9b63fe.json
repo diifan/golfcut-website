@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b383be50-86ac-11e4-8c28-020000005b00/black-river-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b383be50-86ac-11e4-8c28-020000005b00/black-river-country-club",
+  "checked_at": 1795694180.691889,
+  "sha256": "91ac567657fb740be7728449c63950f6de8b60f51e0f38019289618f9cdb7afe",
+  "title": "Black River Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "b383be50-86ac-11e4-8c28-020000005b00",
+    "name": "Black River Country Club",
+    "address": "3300 Country Club Drive, Port Huron, MI",
+    "courses": [
+      {
+        "name": "Black River",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6501,
+            "par": 71,
+            "rating": 71.4,
+            "slope": 128
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6501,
+            "par": 74,
+            "rating": 76.5,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6254,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6254,
+            "par": 74,
+            "rating": 75.2,
+            "slope": 133
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5510,
+            "par": 71,
+            "rating": 66.9,
+            "slope": 115
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5510,
+            "par": 74,
+            "rating": 72.1,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b383be50-86ac-11e4-8c28-020000005b00/black-river-country-club"
+  }
+}

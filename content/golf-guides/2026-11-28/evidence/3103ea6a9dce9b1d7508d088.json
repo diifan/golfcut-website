@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1a6e800-86ac-11e4-8c28-020000005b00/western-view-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1a6e800-86ac-11e4-8c28-020000005b00/western-view-golf-club",
+  "checked_at": 1795663472.271809,
+  "sha256": "663706ac4f47f77215bc30b203ff1f226daf9f27bec7bf2f685fdc36805a7690",
+  "title": "Western View Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b1a6e800-86ac-11e4-8c28-020000005b00",
+    "name": "Western View Golf Club",
+    "address": "130 Bolton Hill Rd.",
+    "courses": [
+      {
+        "name": "Western View",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 5357,
+            "par": 70,
+            "rating": 65.4,
+            "slope": 104
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4632,
+            "par": 70,
+            "rating": 63,
+            "slope": 101
+          },
+          {
+            "name": "Red/Gold",
+            "category": "MALE",
+            "yards": 4520,
+            "par": 70,
+            "rating": 65.5,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1a6e800-86ac-11e4-8c28-020000005b00/western-view-golf-club"
+  }
+}

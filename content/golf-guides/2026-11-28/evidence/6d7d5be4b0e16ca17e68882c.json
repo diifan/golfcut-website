@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/88d33f00-86ac-11e4-8c28-020000005b00/boulder-creek-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/88d33f00-86ac-11e4-8c28-020000005b00/boulder-creek-golf-country-club",
+  "checked_at": 1795663449.4854705,
+  "sha256": "1937af7b43bde8a6d19178b1ae035357915d1d8ea717a32338bff58e7530f6f9",
+  "title": "Boulder Creek Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "88d33f00-86ac-11e4-8c28-020000005b00",
+    "name": "Boulder Creek Golf & Country Club",
+    "address": "16901 Big Basin Way, Boulder Creek, CA",
+    "courses": [
+      {
+        "name": "Boulder Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Men",
+            "category": "MALE",
+            "yards": 4396,
+            "par": 65,
+            "rating": 60.7,
+            "slope": 101
+          },
+          {
+            "name": "Men",
+            "category": "FEMALE",
+            "yards": 4396,
+            "par": 67,
+            "rating": 63.3,
+            "slope": 103
+          },
+          {
+            "name": "Women",
+            "category": "MALE",
+            "yards": 4027,
+            "par": 65,
+            "rating": 63.2,
+            "slope": 108
+          },
+          {
+            "name": "Women",
+            "category": "FEMALE",
+            "yards": 4027,
+            "par": 67,
+            "rating": 61.2,
+            "slope": 99
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/88d33f00-86ac-11e4-8c28-020000005b00/boulder-creek-golf-country-club"
+  }
+}

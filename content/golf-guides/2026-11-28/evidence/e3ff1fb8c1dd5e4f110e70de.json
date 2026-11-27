@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/758e1460-86ac-11e4-8c28-020000005b00/country-meadows-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/758e1460-86ac-11e4-8c28-020000005b00/country-meadows-golf-course",
+  "checked_at": 1795668335.2725189,
+  "sha256": "d8f4fa91b9c9078bee9140d12adc8a1720e695df1917ea1fe9836af3a05b2e65",
+  "title": "Country Meadows Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "758e1460-86ac-11e4-8c28-020000005b00",
+    "name": "Country Meadows Golf Course",
+    "address": "8482 No 6 Road, Richmond, British Columbia, Canada",
+    "courses": [
+      {
+        "name": "Country Meadows",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3157,
+            "par": 58,
+            "rating": 57.3,
+            "slope": 86
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3157,
+            "par": 58,
+            "rating": 57,
+            "slope": 84
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2623,
+            "par": 58,
+            "rating": 54.44222,
+            "slope": 81.66347
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2623,
+            "par": 58,
+            "rating": 54.44222,
+            "slope": 81.66347
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/758e1460-86ac-11e4-8c28-020000005b00/country-meadows-golf-course"
+  }
+}

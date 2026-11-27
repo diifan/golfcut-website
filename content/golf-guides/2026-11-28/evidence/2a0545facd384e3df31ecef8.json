@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b885ea0-86ac-11e4-8c28-020000005b00/liberty-hills-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b885ea0-86ac-11e4-8c28-020000005b00/liberty-hills-golf-club",
+  "checked_at": 1795582871.6829937,
+  "sha256": "5c71ed73eaf59f065840908554b955e4ea493f4b7a36b33c725d66f79392cd43",
+  "title": "Liberty Hills Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9b885ea0-86ac-11e4-8c28-020000005b00",
+    "name": "Liberty Hills Golf Club",
+    "address": "665 Township Hwy 190 W, Bellefontaine, OH",
+    "courses": [
+      {
+        "name": "Liberty Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6006,
+            "par": 70,
+            "rating": 68.9,
+            "slope": 126
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6006,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5500,
+            "par": 70,
+            "rating": 66.5,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5500,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 4500,
+            "par": 70,
+            "rating": 62.5,
+            "slope": 110
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 4500,
+            "par": 70,
+            "rating": 65.8,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4257,
+            "par": 70,
+            "rating": 61.7,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4257,
+            "par": 70,
+            "rating": 64.7,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b885ea0-86ac-11e4-8c28-020000005b00/liberty-hills-golf-club"
+  }
+}

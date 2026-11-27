@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5116330-86ac-11e4-8c28-020000005b00/perrys-landing-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5116330-86ac-11e4-8c28-020000005b00/perrys-landing-golf-course",
+  "checked_at": 1795663449.2598042,
+  "sha256": "5209b77c66ad8adfa34b9c006de55ee1c4183b5f447e63398a6922c543a1067c",
+  "title": "J & B Clover Greens Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "b5116330-86ac-11e4-8c28-020000005b00",
+    "name": "J & B Clover Greens Golf Course",
+    "address": "521 Mavis Rd",
+    "courses": [
+      {
+        "name": "Perrys Landing",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6135,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5844,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4953,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5116330-86ac-11e4-8c28-020000005b00/perrys-landing-golf-course"
+  }
+}

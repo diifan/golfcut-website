@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/70a5d2d0-86ac-11e4-8c28-020000005b00/musselburgh-old-links",
+  "resolved_url": "https://18birdies.com/golf-courses/club/70a5d2d0-86ac-11e4-8c28-020000005b00/musselburgh-old-links",
+  "checked_at": 1795661686.7997315,
+  "sha256": "abe00db1db3da178f9239bae47c311ce14b0fcf0ae47e1ffb4cfa57da68c675b",
+  "title": "Musselburgh Old Links - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "70a5d2d0-86ac-11e4-8c28-020000005b00",
+    "name": "Musselburgh Old Links",
+    "address": "Balcarres Road, Musselburgh, East Lothian, Scotland",
+    "courses": [
+      {
+        "name": "The Old (9 Holes Only)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2968,
+            "par": 34,
+            "rating": 34.8,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2968,
+            "par": 34,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 2668,
+            "par": 34,
+            "rating": 33.8,
+            "slope": 115
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 2668,
+            "par": 34,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2665,
+            "par": 34,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2665,
+            "par": 34,
+            "rating": 36.2,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/70a5d2d0-86ac-11e4-8c28-020000005b00/musselburgh-old-links"
+  }
+}

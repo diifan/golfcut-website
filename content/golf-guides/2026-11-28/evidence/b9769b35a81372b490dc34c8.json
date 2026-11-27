@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afd1b2d0-86ac-11e4-8c28-020000005b00/skyland-lakes-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afd1b2d0-86ac-11e4-8c28-020000005b00/skyland-lakes-golf-club",
+  "checked_at": 1795661658.9477499,
+  "sha256": "73e44d6e7a66e1899a574c690bc24c8fbb8673669194f76e0d4e36e08f05bfd9",
+  "title": "Skyland Lakes Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "afd1b2d0-86ac-11e4-8c28-020000005b00",
+    "name": "Skyland Lakes Golf Club",
+    "address": "49 Skyland Lakes Dr., Fancy Gap, VA",
+    "courses": [
+      {
+        "name": "Skyland Lakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6520,
+            "par": 71,
+            "rating": 68.6,
+            "slope": 112
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6520,
+            "par": 71,
+            "rating": 76.6,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5955,
+            "par": 71,
+            "rating": 66.6,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5955,
+            "par": 71,
+            "rating": 73.6,
+            "slope": 129
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afd1b2d0-86ac-11e4-8c28-020000005b00/skyland-lakes-golf-club"
+  }
+}

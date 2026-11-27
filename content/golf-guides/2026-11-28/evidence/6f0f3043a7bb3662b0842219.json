@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2ea1660-86ac-11e4-8c28-020000005b00/mill-race-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2ea1660-86ac-11e4-8c28-020000005b00/mill-race-golf-course",
+  "checked_at": 1795694252.960864,
+  "sha256": "4a0a6f48d6cb650b24e0450d33f7dce4eca707a964b1e8212c8e33404dbc43e7",
+  "title": "Mill Race Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b2ea1660-86ac-11e4-8c28-020000005b00",
+    "name": "Mill Race Golf Course",
+    "address": "200 Adrian Road, Jonesville, MI",
+    "courses": [
+      {
+        "name": "Mill Race",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6734,
+            "par": 70,
+            "rating": 71.1,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6734,
+            "par": 70,
+            "rating": 77.7,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6016,
+            "par": 70,
+            "rating": 68.7,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6016,
+            "par": 70,
+            "rating": 73.9,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4480,
+            "par": 70,
+            "rating": 65.3,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4480,
+            "par": 70,
+            "rating": 64.1,
+            "slope": 101
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2ea1660-86ac-11e4-8c28-020000005b00/mill-race-golf-course"
+  }
+}

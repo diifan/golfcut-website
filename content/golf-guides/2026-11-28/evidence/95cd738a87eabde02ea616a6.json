@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ae07420-86ac-11e4-8c28-020000005b00/preston-west-par-3",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ae07420-86ac-11e4-8c28-020000005b00/preston-west-par-3",
+  "checked_at": 1795686324.3388865,
+  "sha256": "1070b6d6f585cf39b29399ccb0c777d082424970110653fa0a7157d3f9f6c3be",
+  "title": "Preston West Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8ae07420-86ac-11e4-8c28-020000005b00",
+    "name": "Preston West Golf Course",
+    "address": "9101 S Coulter St, Amarillo, TX, United States",
+    "courses": [
+      {
+        "name": "Preston West Par 3",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2024,
+            "par": 55,
+            "rating": 55,
+            "slope": 90
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2024,
+            "par": 55,
+            "rating": 56.1,
+            "slope": 93
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ae07420-86ac-11e4-8c28-020000005b00/preston-west-par-3"
+  }
+}

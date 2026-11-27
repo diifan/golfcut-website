@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b21bc9e0-86ac-11e4-8c28-020000005b00/bay-city-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b21bc9e0-86ac-11e4-8c28-020000005b00/bay-city-country-club",
+  "checked_at": 1795583775.9608233,
+  "sha256": "387a5ffc1ca98e622241c8b36975d99e36c628cbfc660d68579da6c9cdc0fdfb",
+  "title": "Bay City Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b21bc9e0-86ac-11e4-8c28-020000005b00",
+    "name": "Bay City Country Club",
+    "address": "7255 S 3 Mile Rd, Bay City, MI",
+    "courses": [
+      {
+        "name": "Bay City Country Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6966,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6966,
+            "par": 74,
+            "rating": 79,
+            "slope": 141
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6582,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6582,
+            "par": 74,
+            "rating": 76.9,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5823,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5823,
+            "par": 74,
+            "rating": 73.1,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5137,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5137,
+            "par": 74,
+            "rating": 69.4,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b21bc9e0-86ac-11e4-8c28-020000005b00/bay-city-country-club"
+  }
+}

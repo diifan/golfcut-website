@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/940f11f0-86ac-11e4-8c28-020000005b00/berea-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/940f11f0-86ac-11e4-8c28-020000005b00/berea-country-club",
+  "checked_at": 1795661665.2067907,
+  "sha256": "5b8c13502dce5fcc1c3c27fcfc0a1ce2ab5f4494ad12b27c88d180d8014eb699",
+  "title": "Berea Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "940f11f0-86ac-11e4-8c28-020000005b00",
+    "name": "Berea Country Club",
+    "address": "128 Lorraine Ct, Berea, KY",
+    "courses": [
+      {
+        "name": "Berea",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3067,
+            "par": 36,
+            "rating": 36.4,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3067,
+            "par": 36,
+            "rating": 37.3,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3009,
+            "par": 36,
+            "rating": 36.2,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3009,
+            "par": 36,
+            "rating": 37,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2697,
+            "par": 36,
+            "rating": 34.7,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2697,
+            "par": 36,
+            "rating": 35.3,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/940f11f0-86ac-11e4-8c28-020000005b00/berea-country-club"
+  }
+}

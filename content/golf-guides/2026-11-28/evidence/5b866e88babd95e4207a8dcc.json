@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/aed59f90-86ac-11e4-8c28-020000005b00/arrowhead-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/aed59f90-86ac-11e4-8c28-020000005b00/arrowhead-country-club",
+  "checked_at": 1795661435.2432263,
+  "sha256": "b60c615ac0fb82a9b8c1cf52137fafd49fa19748058051b278f34c2c92dc1164",
+  "title": "Arrowhead Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "aed59f90-86ac-11e4-8c28-020000005b00",
+    "name": "Arrowhead Country Club",
+    "address": "3675 Sheridan Lake Road, Rapid City, SD",
+    "courses": [
+      {
+        "name": "Arrowhead",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6495,
+            "par": 71,
+            "rating": 70.1,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6064,
+            "par": 71,
+            "rating": 68.6,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5288,
+            "par": 71,
+            "rating": 69,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/aed59f90-86ac-11e4-8c28-020000005b00/arrowhead-country-club"
+  }
+}

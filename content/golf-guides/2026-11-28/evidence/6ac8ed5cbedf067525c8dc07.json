@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b57f1920-86ac-11e4-8c28-020000005b00/barker-lake-country-lodge-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b57f1920-86ac-11e4-8c28-020000005b00/barker-lake-country-lodge-golf-course",
+  "checked_at": 1795661683.695341,
+  "sha256": "7481b2f731d69726d95389c8897cfc6eeebd730865dd8992caa61e68b8589aab",
+  "title": "Barker Lake Country Lodge Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "b57f1920-86ac-11e4-8c28-020000005b00",
+    "name": "Barker Lake Country Lodge Golf Course",
+    "address": "W6841 Golf Course Rd",
+    "courses": [
+      {
+        "name": "Barker Lake(9 holes )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5672,
+            "par": 70,
+            "rating": 70.8,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4892,
+            "par": 70,
+            "rating": 67.2,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b57f1920-86ac-11e4-8c28-020000005b00/barker-lake-country-lodge-golf-course"
+  }
+}

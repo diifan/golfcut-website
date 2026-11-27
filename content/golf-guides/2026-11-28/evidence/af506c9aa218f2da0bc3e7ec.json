@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9843baf0-86ac-11e4-8c28-020000005b00/kresson-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9843baf0-86ac-11e4-8c28-020000005b00/kresson-golf-course",
+  "checked_at": 1795690940.4000087,
+  "sha256": "a5934af42d4e339f18e8c4cdd6bffaf28222a804b7445a9fc50b903cdc49dd80",
+  "title": "Kresson Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9843baf0-86ac-11e4-8c28-020000005b00",
+    "name": "Kresson Golf Course",
+    "address": "298 Kresson Gibbsboro Rd, Voorhees Township, NJ",
+    "courses": [
+      {
+        "name": "Kresson",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4800,
+            "par": 68,
+            "rating": 65,
+            "slope": 106
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4800,
+            "par": 70,
+            "rating": 66.4,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9843baf0-86ac-11e4-8c28-020000005b00/kresson-golf-course"
+  }
+}

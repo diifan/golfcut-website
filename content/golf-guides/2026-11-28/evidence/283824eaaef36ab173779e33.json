@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0aafbd0-86ac-11e4-8c28-020000005b00/kahler-glen-golf-ski-resort",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0aafbd0-86ac-11e4-8c28-020000005b00/kahler-glen-golf-ski-resort",
+  "checked_at": 1795661429.3597105,
+  "sha256": "d6e089de3ab36d768765af0c7224357033d29af46078320d34245ff0720fa526",
+  "title": "Kahler Glen Golf & Ski Resort - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b0aafbd0-86ac-11e4-8c28-020000005b00",
+    "name": "Kahler Glen Golf & Ski Resort",
+    "address": "20700 Clubhouse Dr",
+    "courses": [
+      {
+        "name": "Kahler Glen",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5893,
+            "par": 70,
+            "rating": 69.1,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5579,
+            "par": 70,
+            "rating": 67.2,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4703,
+            "par": 70,
+            "rating": 63,
+            "slope": 106
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4576,
+            "par": 70,
+            "rating": 65.8,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0aafbd0-86ac-11e4-8c28-020000005b00/kahler-glen-golf-ski-resort"
+  }
+}

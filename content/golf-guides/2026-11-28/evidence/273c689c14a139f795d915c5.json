@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/aec2dae0-86ac-11e4-8c28-020000005b00/wild-oak",
+  "resolved_url": "https://18birdies.com/golf-courses/club/aec2dae0-86ac-11e4-8c28-020000005b00/wild-oak",
+  "checked_at": 1795686425.4445877,
+  "sha256": "7118a8af8afccce66f79c9a4467394430cda74b7f988f58573978ed09318cd4a",
+  "title": "Wild Oak - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "aec2dae0-86ac-11e4-8c28-020000005b00",
+    "name": "Wild Oak",
+    "address": "2500 E 1St, Mitchell, SD",
+    "courses": [
+      {
+        "name": "Wild Oak",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6586,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6586,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6902,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6902,
+            "par": 72,
+            "rating": 78.6,
+            "slope": 140
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6249,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6249,
+            "par": 72,
+            "rating": 75,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5155,
+            "par": 72,
+            "rating": 65,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5155,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/aec2dae0-86ac-11e4-8c28-020000005b00/wild-oak"
+  }
+}

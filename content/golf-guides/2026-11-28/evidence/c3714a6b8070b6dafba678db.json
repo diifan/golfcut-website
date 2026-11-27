@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b12c60d0-86ac-11e4-8c28-020000005b00/bayou-bend-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b12c60d0-86ac-11e4-8c28-020000005b00/bayou-bend-country-club",
+  "checked_at": 1795696655.4909265,
+  "sha256": "13ae3b6aee17ac4eb570af4ec9abf2674a8aabd375cff3bbfadf72aa0cc7c91c",
+  "title": "Bayou Bend Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b12c60d0-86ac-11e4-8c28-020000005b00",
+    "name": "Bayou Bend Country Club",
+    "address": "427 W Hoyt Ave, Crowley, LA",
+    "courses": [
+      {
+        "name": "Bayou Bend",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6105,
+            "par": 71,
+            "rating": 68.5,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5665,
+            "par": 71,
+            "rating": 70.7,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b12c60d0-86ac-11e4-8c28-020000005b00/bayou-bend-country-club"
+  }
+}

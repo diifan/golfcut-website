@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1bfee40-86ac-11e4-8c28-020000005b00/frye-island",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1bfee40-86ac-11e4-8c28-020000005b00/frye-island",
+  "checked_at": 1795663513.6510165,
+  "sha256": "13853971abb4a6512dda2ceb78003ec7ed43534a712bbd13ff98c6f8040dc048",
+  "title": "Frye Island Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1bfee40-86ac-11e4-8c28-020000005b00",
+    "name": "Frye Island Golf Course",
+    "address": "1 Sunset Dr, Frye Island, Maine 04071, Cumberland County",
+    "courses": [
+      {
+        "name": "Frye (9 holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Gold/Silver",
+            "category": "MALE",
+            "yards": 3160,
+            "par": 36,
+            "rating": 35.6,
+            "slope": 125
+          },
+          {
+            "name": "Gold/Silver",
+            "category": "FEMALE",
+            "yards": 3160,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2932,
+            "par": 36,
+            "rating": 34.7,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2932,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2723,
+            "par": 36,
+            "rating": 33.6,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2723,
+            "par": 36,
+            "rating": 36.1,
+            "slope": 125
+          }
+        ]
+      },
+      {
+        "name": "Frye (18 holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold/Silver",
+            "category": "MALE",
+            "yards": 6307,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 124
+          },
+          {
+            "name": "Gold/Silver",
+            "category": "FEMALE",
+            "yards": 6307,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5864,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5864,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5446,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5446,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1bfee40-86ac-11e4-8c28-020000005b00/frye-island"
+  }
+}

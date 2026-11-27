@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/953e1c10-86ac-11e4-8c28-020000005b00/the-brookside-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/953e1c10-86ac-11e4-8c28-020000005b00/the-brookside-club",
+  "checked_at": 1795663475.827899,
+  "sha256": "fe45cb9e5e2b0902fb7b483ac771fce96b08f09fcdb11b2645b177888a73fc20",
+  "title": "The Brookside Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "953e1c10-86ac-11e4-8c28-020000005b00",
+    "name": "The Brookside Club",
+    "address": "11 Brigadoone Rd Buzzards Bay, MA ",
+    "courses": [
+      {
+        "name": "Brookside",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6276,
+            "par": 70,
+            "rating": 70.9,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6276,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5861,
+            "par": 70,
+            "rating": 68.4,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5861,
+            "par": 70,
+            "rating": 74.8,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5002,
+            "par": 70,
+            "rating": 64.5,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5002,
+            "par": 70,
+            "rating": 69.2,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4542,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4542,
+            "par": 70,
+            "rating": 66.6,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/953e1c10-86ac-11e4-8c28-020000005b00/the-brookside-club"
+  }
+}

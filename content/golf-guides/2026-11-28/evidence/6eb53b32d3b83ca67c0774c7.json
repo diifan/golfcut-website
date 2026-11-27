@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/07c31cd0-2a90-11f0-b9b8-06780482e2ce/rock-island-arsenal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/07c31cd0-2a90-11f0-b9b8-06780482e2ce/rock-island-arsenal-golf-course",
+  "checked_at": 1795661459.8212295,
+  "sha256": "8f5fc0d81a32ae715568c9f2e587e364b0352e65862516405314050157e80057",
+  "title": "Rock Island Arsenal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "07c31cd0-2a90-11f0-b9b8-06780482e2ce",
+    "name": "Rock Island Arsenal Golf Course",
+    "address": "1838 Gillespie St Rock Island, IL",
+    "courses": [
+      {
+        "name": "default course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3028,
+            "par": 36,
+            "rating": 36.3,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3028,
+            "par": 36,
+            "rating": 37.1,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2915,
+            "par": 36,
+            "rating": 35.7,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2915,
+            "par": 36,
+            "rating": 36.5,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2630,
+            "par": 36,
+            "rating": 34.4,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2630,
+            "par": 36,
+            "rating": 34.9,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/07c31cd0-2a90-11f0-b9b8-06780482e2ce/rock-island-arsenal-golf-course"
+  }
+}

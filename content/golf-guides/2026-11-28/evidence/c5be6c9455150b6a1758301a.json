@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98aa1de0-86ac-11e4-8c28-020000005b00/the-sedgewood-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98aa1de0-86ac-11e4-8c28-020000005b00/the-sedgewood-club",
+  "checked_at": 1795694449.789685,
+  "sha256": "5d754b1a895f5fed7f390da5579ea88f56d33ed2639f73cfb4130d57b123a5d7",
+  "title": "The Sedgewood Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "98aa1de0-86ac-11e4-8c28-020000005b00",
+    "name": "The Sedgewood Club",
+    "address": "810 Golf Ridge Rd, Carmel, NY",
+    "courses": [
+      {
+        "name": "Sedgewood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 6030,
+            "par": 70,
+            "rating": 70.2,
+            "slope": 120
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 6030,
+            "par": 69,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red/Green",
+            "category": "MALE",
+            "yards": 4820,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red/Green",
+            "category": "FEMALE",
+            "yards": 4820,
+            "par": 69,
+            "rating": 68.3,
+            "slope": 116
+          }
+        ]
+      },
+      {
+        "name": "9 holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 2970,
+            "par": 35,
+            "rating": 34.7,
+            "slope": 122
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 2970,
+            "par": 34,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red/Green",
+            "category": "MALE",
+            "yards": 2320,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red/Green",
+            "category": "FEMALE",
+            "yards": 2320,
+            "par": 34,
+            "rating": 34,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98aa1de0-86ac-11e4-8c28-020000005b00/the-sedgewood-club"
+  }
+}

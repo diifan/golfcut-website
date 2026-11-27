@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/79e1c9c0-5c57-11e7-b3ea-0680a328ea36/sarasota-executive-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/79e1c9c0-5c57-11e7-b3ea-0680a328ea36/sarasota-executive-golf-course",
+  "checked_at": 1795700377.5386596,
+  "sha256": "7d81b02abb8a2088211605fa5c1e5bff2211bbbc29a121f6ef9500f05953f048",
+  "title": "Sarasota Executive Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "79e1c9c0-5c57-11e7-b3ea-0680a328ea36",
+    "name": "Sarasota Executive Golf Course",
+    "address": "2991 Morse Blvd, The Villages",
+    "courses": [
+      {
+        "name": "Sarasota Executive",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 1186,
+            "par": 27,
+            "rating": 27.20944,
+            "slope": 81.77352
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 1186,
+            "par": 27,
+            "rating": 27.20944,
+            "slope": 81.77352
+          },
+          {
+            "name": "Bronze",
+            "category": "MALE",
+            "yards": 1091,
+            "par": 27,
+            "rating": 26.77814,
+            "slope": 80.03312
+          },
+          {
+            "name": "Bronze",
+            "category": "FEMALE",
+            "yards": 1091,
+            "par": 27,
+            "rating": 26.77814,
+            "slope": 80.03312
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 924,
+            "par": 27,
+            "rating": 26.01996,
+            "slope": 76.97368
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 924,
+            "par": 27,
+            "rating": 26.01996,
+            "slope": 76.97368
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 734,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 734,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/79e1c9c0-5c57-11e7-b3ea-0680a328ea36/sarasota-executive-golf-course"
+  }
+}

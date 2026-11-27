@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b669a030-86ac-11e4-8c28-020000005b00/dr-gil-morgan-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b669a030-86ac-11e4-8c28-020000005b00/dr-gil-morgan-municipal-golf-course",
+  "checked_at": 1795661425.7448409,
+  "sha256": "7fed1c8c2337a98b2d761afccf97f7f0cd8f380be451a57865c996e52596123b",
+  "title": "Dr. Gil Morgan Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b669a030-86ac-11e4-8c28-020000005b00",
+    "name": "Dr. Gil Morgan Municipal Golf Course",
+    "address": "800 E 7th Street",
+    "courses": [
+      {
+        "name": "Gil Morgan",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6450,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6450,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5400,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5400,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b669a030-86ac-11e4-8c28-020000005b00/dr-gil-morgan-municipal-golf-course"
+  }
+}

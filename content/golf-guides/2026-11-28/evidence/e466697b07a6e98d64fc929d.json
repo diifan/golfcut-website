@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/fd91a9f0-85c8-11ef-9d46-06780482e2ce/forest-pines-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/fd91a9f0-85c8-11ef-9d46-06780482e2ce/forest-pines-golf-course",
+  "checked_at": 1795661456.3348844,
+  "sha256": "2ff307d82522fc12e4a0a232beeb97aeb88f918ea9fa0349dc8a1ceadf48eae3",
+  "title": "Forest Pines Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "fd91a9f0-85c8-11ef-9d46-06780482e2ce",
+    "name": "Forest Pines Golf Course",
+    "address": "1266 Grange Rd, Elkin, NC",
+    "courses": [
+      {
+        "name": "Forest Pines Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5598,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5598,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5511,
+            "par": 72,
+            "rating": 70,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5511,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/fd91a9f0-85c8-11ef-9d46-06780482e2ce/forest-pines-golf-course"
+  }
+}

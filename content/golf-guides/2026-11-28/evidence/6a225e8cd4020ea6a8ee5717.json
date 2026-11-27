@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d266c80-86ac-11e4-8c28-020000005b00/riverbend-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d266c80-86ac-11e4-8c28-020000005b00/riverbend-golf-course",
+  "checked_at": 1795688836.9259446,
+  "sha256": "6d70747f69a48c50fa66ed45051d5223f7f7e0372b952a394cb27c76335007b0",
+  "title": "Riverbend Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d266c80-86ac-11e4-8c28-020000005b00",
+    "name": "Riverbend Golf Course",
+    "address": "7207 St Joe Rd, Fort Wayne, IN",
+    "courses": [
+      {
+        "name": "Riverbend",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6838,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 139
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6838,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6460,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6460,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5633,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5633,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5633,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5633,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d266c80-86ac-11e4-8c28-020000005b00/riverbend-golf-course"
+  }
+}

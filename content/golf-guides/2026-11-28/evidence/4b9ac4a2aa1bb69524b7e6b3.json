@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8cdcef0-86ac-11e4-8c28-020000005b00/paragould",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8cdcef0-86ac-11e4-8c28-020000005b00/paragould",
+  "checked_at": 1795694254.1701093,
+  "sha256": "0cc12332be798d567e350eb11bc296724ce70f37603ee410403dbf339241d571",
+  "title": "Paragould - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b8cdcef0-86ac-11e4-8c28-020000005b00",
+    "name": "Paragould",
+    "address": "3300 Pruetts Chapel Rd, Paragould, AR",
+    "courses": [
+      {
+        "name": "Paragould",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6467,
+            "par": 70,
+            "rating": 71,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6467,
+            "par": 70,
+            "rating": 76.3,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5977,
+            "par": 70,
+            "rating": 69,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5977,
+            "par": 70,
+            "rating": 73.7,
+            "slope": 129
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5116,
+            "par": 70,
+            "rating": 65.7,
+            "slope": 121
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5116,
+            "par": 70,
+            "rating": 69.1,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4444,
+            "par": 70,
+            "rating": 65.2,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4444,
+            "par": 70,
+            "rating": 65.6,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8cdcef0-86ac-11e4-8c28-020000005b00/paragould"
+  }
+}

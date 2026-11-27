@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b7d90eb0-86ac-11e4-8c28-020000005b00/hays-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b7d90eb0-86ac-11e4-8c28-020000005b00/hays-municipal-golf-course",
+  "checked_at": 1795686363.4979646,
+  "sha256": "e8871101059d3709abcb40a0ad09c87daec04952f5f1fbfebb7f5bf13aef3a42",
+  "title": "Hays Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b7d90eb0-86ac-11e4-8c28-020000005b00",
+    "name": "Hays Municipal Golf Course",
+    "address": "1450 Golf Course Rd., Hays, KS",
+    "courses": [
+      {
+        "name": "Fort Hays Municipal",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6269,
+            "par": 71,
+            "rating": 70.6,
+            "slope": 120
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6269,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 133
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5993,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 116
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5993,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 129
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5390,
+            "par": 71,
+            "rating": 66.8,
+            "slope": 107
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5390,
+            "par": 72,
+            "rating": 72,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b7d90eb0-86ac-11e4-8c28-020000005b00/hays-municipal-golf-course"
+  }
+}

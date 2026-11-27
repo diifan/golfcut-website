@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96971c60-86ac-11e4-8c28-020000005b00/rugged-spruce-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96971c60-86ac-11e4-8c28-020000005b00/rugged-spruce-golf-club",
+  "checked_at": 1795697875.2004557,
+  "sha256": "6c37208b0ed58ee2eff4634f6d063bad052f329174b5d33db6816d61d2210d7d",
+  "title": "Rugged Spruce Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96971c60-86ac-11e4-8c28-020000005b00",
+    "name": "Rugged Spruce Golf Club",
+    "address": "2871 Sundberg Rd, Mahtowa, MN ",
+    "courses": [
+      {
+        "name": "18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4130,
+            "par": 68,
+            "rating": 62.6,
+            "slope": 101
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4130,
+            "par": 68,
+            "rating": 63.8,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3722,
+            "par": 68,
+            "rating": 61.9,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3722,
+            "par": 68,
+            "rating": 62,
+            "slope": 100
+          }
+        ]
+      },
+      {
+        "name": "9 Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2065,
+            "par": 34,
+            "rating": 31.3,
+            "slope": 101
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2065,
+            "par": 34,
+            "rating": 31.9,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1861,
+            "par": 34,
+            "rating": 30.9,
+            "slope": 97
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1861,
+            "par": 34,
+            "rating": 31,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96971c60-86ac-11e4-8c28-020000005b00/rugged-spruce-golf-club"
+  }
+}

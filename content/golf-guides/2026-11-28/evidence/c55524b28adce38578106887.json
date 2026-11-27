@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba16a2a0-86ac-11e4-8c28-020000005b00/bakersfield-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba16a2a0-86ac-11e4-8c28-020000005b00/bakersfield-country-club",
+  "checked_at": 1795685200.3180902,
+  "sha256": "10755063f81fd627eb07bbf1581376af30fa417e68bbad0da576a8f11ab38c8b",
+  "title": "Bakersfield Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ba16a2a0-86ac-11e4-8c28-020000005b00",
+    "name": "Bakersfield Country Club",
+    "address": "Bakersfield, VT",
+    "courses": [
+      {
+        "name": "Bakersfield",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5982,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5982,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5580,
+            "par": 71,
+            "rating": 67.2,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5580,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 125
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4796,
+            "par": 71,
+            "rating": 63.1,
+            "slope": 108
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 4796,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4564,
+            "par": 71,
+            "rating": 62.2,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4564,
+            "par": 72,
+            "rating": 66.9,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba16a2a0-86ac-11e4-8c28-020000005b00/bakersfield-country-club"
+  }
+}

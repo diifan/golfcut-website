@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c11c830-86ac-11e4-8c28-020000005b00/rockdale-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c11c830-86ac-11e4-8c28-020000005b00/rockdale-country-club",
+  "checked_at": 1795694393.7742507,
+  "sha256": "3512eafe2e099f00333ce57feac583ab23c1e38bba66d7f56ef2115d6c1ff087",
+  "title": "Rockdale Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8c11c830-86ac-11e4-8c28-020000005b00",
+    "name": "Rockdale Country Club",
+    "address": "Alcoa Lake Rd, Rockdale, TX",
+    "courses": [
+      {
+        "name": "9 Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3318,
+            "par": 36,
+            "rating": 37.6,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3318,
+            "par": 36,
+            "rating": 38.6,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2635,
+            "par": 36,
+            "rating": 34.5,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2635,
+            "par": 36,
+            "rating": 35,
+            "slope": 118
+          }
+        ]
+      },
+      {
+        "name": "18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6663,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6663,
+            "par": 72,
+            "rating": 77.3,
+            "slope": 137
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5370,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5370,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c11c830-86ac-11e4-8c28-020000005b00/rockdale-country-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/aef842c0-86ac-11e4-8c28-020000005b00/tennessee-river-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/aef842c0-86ac-11e4-8c28-020000005b00/tennessee-river-golf-club",
+  "checked_at": 1795523961.109052,
+  "sha256": "7ee5544a0bc02f4a41f84e5611b2a32e5fef8699b93eb361af969eba7f24a1df",
+  "title": "Tennessee River Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "aef842c0-86ac-11e4-8c28-020000005b00",
+    "name": "Tennessee River Golf Club",
+    "address": "35 Golfview Ln, Decaturville, TN",
+    "courses": [
+      {
+        "name": "Tennessee River",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6437,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6035,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5261,
+            "par": 71,
+            "rating": 64.6,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4792,
+            "par": 71,
+            "rating": 66.7,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/aef842c0-86ac-11e4-8c28-020000005b00/tennessee-river-golf-club"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4573af0-86ac-11e4-8c28-020000005b00/calamus-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4573af0-86ac-11e4-8c28-020000005b00/calamus-golf-course",
+  "checked_at": 1795663475.065828,
+  "sha256": "dc9c13f31f836a3deaadffff01a94f201bc83409a8d140f43f63a4d372c69736",
+  "title": "Calamus Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b4573af0-86ac-11e4-8c28-020000005b00",
+    "name": "Calamus Golf Course",
+    "address": "Calamus Reservoir Rd NW of Burwell",
+    "courses": [
+      {
+        "name": "Calamus",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2845,
+            "par": 35,
+            "rating": 35.4,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2845,
+            "par": 36,
+            "rating": 36.1,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4573af0-86ac-11e4-8c28-020000005b00/calamus-golf-course"
+  }
+}

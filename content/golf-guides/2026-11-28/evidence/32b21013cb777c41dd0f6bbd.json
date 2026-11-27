@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9cf6070-86ac-11e4-8c28-020000005b00/bolduc-park",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9cf6070-86ac-11e4-8c28-020000005b00/bolduc-park",
+  "checked_at": 1795694445.1698723,
+  "sha256": "e9c86575abec7291797f5cb26f3383c55808ca650d168a81b8b2e5686ccd8c1f",
+  "title": "Bolduc Park - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b9cf6070-86ac-11e4-8c28-020000005b00",
+    "name": "Bolduc Park",
+    "address": "282 Gilford Ave",
+    "courses": [
+      {
+        "name": "Bolduc Park",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 960,
+            "par": 27,
+            "rating": 25.7,
+            "slope": 78
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 960,
+            "par": 27,
+            "rating": 25.7,
+            "slope": 78
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 895,
+            "par": 27,
+            "rating": 25.5,
+            "slope": 77
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 895,
+            "par": 27,
+            "rating": 25.5,
+            "slope": 77
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 845,
+            "par": 27,
+            "rating": 25.3,
+            "slope": 77
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 845,
+            "par": 27,
+            "rating": 25.3,
+            "slope": 77
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9cf6070-86ac-11e4-8c28-020000005b00/bolduc-park"
+  }
+}

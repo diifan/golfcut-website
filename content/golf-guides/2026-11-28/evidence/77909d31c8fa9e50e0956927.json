@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/dc416e10-5e7c-11e6-adac-0680a328ea36/willow-wood-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/dc416e10-5e7c-11e6-adac-0680a328ea36/willow-wood-country-club",
+  "checked_at": 1795685288.1702294,
+  "sha256": "e5c0d3c7f81c01ef88a89e0be5d356c7108ca0ebdae110644fe0220fd17a7328",
+  "title": "Willow Wood Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "dc416e10-5e7c-11e6-adac-0680a328ea36",
+    "name": "Willow Wood Country Club",
+    "address": "Willow Wood Rd, Hinton, WV 25951",
+    "courses": [
+      {
+        "name": "Willow Wood Country Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 6061,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 131
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 6061,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4823,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4823,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/dc416e10-5e7c-11e6-adac-0680a328ea36/willow-wood-country-club"
+  }
+}

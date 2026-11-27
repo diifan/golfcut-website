@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/bdaff600-86ac-11e4-8c28-020000005b00/isabel-villas-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/bdaff600-86ac-11e4-8c28-020000005b00/isabel-villas-golf-course",
+  "checked_at": 1795661460.445556,
+  "sha256": "e6122cab6a686961155135f7eee3d36a05440db14dbb1378fff1465d42aa9802",
+  "title": "Isabel Villas Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "bdaff600-86ac-11e4-8c28-020000005b00",
+    "name": "Isabel Villas Golf Course",
+    "address": "Cerros De Arroyo Hondo, N/D Santo Domingo, Dominican Republic",
+    "courses": [
+      {
+        "name": "Isabel Villas Golf Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1046.58477,
+            "par": 27,
+            "rating": 27.3,
+            "slope": 87
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1046.58477,
+            "par": 27,
+            "rating": 26.57384,
+            "slope": 79.20872
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 893.47937,
+            "par": 27,
+            "rating": 25.87922,
+            "slope": 76.40576
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 893.47937,
+            "par": 27,
+            "rating": 28,
+            "slope": 91
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/bdaff600-86ac-11e4-8c28-020000005b00/isabel-villas-golf-course"
+  }
+}

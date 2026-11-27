@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ad6fe40-86ac-11e4-8c28-020000005b00/green-tree-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ad6fe40-86ac-11e4-8c28-020000005b00/green-tree-golf-course",
+  "checked_at": 1795694336.2495947,
+  "sha256": "b70bfa0a130042d85162871565bc99ecb4fe68d0e36cabef72e972192602b4bf",
+  "title": "Green Tree Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8ad6fe40-86ac-11e4-8c28-020000005b00",
+    "name": "Green Tree Golf Course",
+    "address": "14144 Green Tree Blvd, Victorville, CA",
+    "courses": [
+      {
+        "name": "Green Tree",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6698,
+            "par": 72,
+            "rating": 72,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6698,
+            "par": 73,
+            "rating": 77.5,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6373,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6373,
+            "par": 73,
+            "rating": 76,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5892,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5892,
+            "par": 73,
+            "rating": 73.2,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5062,
+            "par": 72,
+            "rating": 61.8,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5062,
+            "par": 73,
+            "rating": 68.9,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ad6fe40-86ac-11e4-8c28-020000005b00/green-tree-golf-course"
+  }
+}

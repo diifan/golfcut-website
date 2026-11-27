@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/77a35fd0-86ac-11e4-8c28-020000005b00/bigwin-island",
+  "resolved_url": "https://18birdies.com/golf-courses/club/77a35fd0-86ac-11e4-8c28-020000005b00/bigwin-island",
+  "checked_at": 1795687748.5074599,
+  "sha256": "55dc617ecf074c5bb7c97bd80987f626903128c8e3d837b41d8c856c2ea42eeb",
+  "title": "Bigwin Island - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "77a35fd0-86ac-11e4-8c28-020000005b00",
+    "name": "Bigwin Island",
+    "address": "1137 Old Hwy 117, Baysville",
+    "courses": [
+      {
+        "name": "Bigwin Island",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7166,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7166,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6742,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6742,
+            "par": 72,
+            "rating": 77.8,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6287,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6287,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 139
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5346,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5346,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/77a35fd0-86ac-11e4-8c28-020000005b00/bigwin-island"
+  }
+}

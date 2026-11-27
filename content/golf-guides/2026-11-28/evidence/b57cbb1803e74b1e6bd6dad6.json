@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af312d10-86ac-11e4-8c28-020000005b00/springbrook-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af312d10-86ac-11e4-8c28-020000005b00/springbrook-golf-club",
+  "checked_at": 1795661677.8197153,
+  "sha256": "570922ea2426ebd73204f8bd657bcb18793908a11f1edb751450fb098ac4098b",
+  "title": "Springbrook Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af312d10-86ac-11e4-8c28-020000005b00",
+    "name": "Springbrook Golf Club",
+    "address": "123 Country Club Lane, Niota, TN",
+    "courses": [
+      {
+        "name": "Springbrook",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6416,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6139,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5365,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4980,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af312d10-86ac-11e4-8c28-020000005b00/springbrook-golf-club"
+  }
+}

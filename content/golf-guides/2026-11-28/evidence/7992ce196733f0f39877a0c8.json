@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e4d6050-86ac-11e4-8c28-020000005b00/del-lago-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e4d6050-86ac-11e4-8c28-020000005b00/del-lago-golf-club",
+  "checked_at": 1795694171.612649,
+  "sha256": "ed7165fa8b9b4527b1c47d1bea8fba48ccb0c763ef5879d8066164bd7ad12feb",
+  "title": "Del Lago Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8e4d6050-86ac-11e4-8c28-020000005b00",
+    "name": "Del Lago Golf Club",
+    "address": "14155 E. Via Rancho del Lago",
+    "courses": [
+      {
+        "name": "Del Lago",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7206,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 141
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6722,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 136
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 6184,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 130
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5666,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5044,
+            "par": 72,
+            "rating": 63.9,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e4d6050-86ac-11e4-8c28-020000005b00/del-lago-golf-club"
+  }
+}

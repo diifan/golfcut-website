@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/89f35500-86ac-11e4-8c28-020000005b00/victoria-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/89f35500-86ac-11e4-8c28-020000005b00/victoria-club",
+  "checked_at": 1795661656.6031616,
+  "sha256": "417abdc5774b49be2d245f75abe41dff2b7a436114d0784f314c1ac0cb708ef1",
+  "title": "Victoria Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "89f35500-86ac-11e4-8c28-020000005b00",
+    "name": "Victoria Club",
+    "address": "2521 Arroyo Dr, Riverside, CA",
+    "courses": [
+      {
+        "name": "Victoria",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6557,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6557,
+            "par": 72,
+            "rating": 78.5,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6224,
+            "par": 72,
+            "rating": 70,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6224,
+            "par": 72,
+            "rating": 76.6,
+            "slope": 135
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5717,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 119
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5717,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5058,
+            "par": 72,
+            "rating": 64.5,
+            "slope": 111
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5058,
+            "par": 72,
+            "rating": 70,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/89f35500-86ac-11e4-8c28-020000005b00/victoria-club"
+  }
+}

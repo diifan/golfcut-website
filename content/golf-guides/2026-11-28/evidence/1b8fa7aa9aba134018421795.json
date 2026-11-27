@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b43bc3b0-86ac-11e4-8c28-020000005b00/clear-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b43bc3b0-86ac-11e4-8c28-020000005b00/clear-creek-golf-course",
+  "checked_at": 1795661664.8601742,
+  "sha256": "73bebbc74c66d9b0b395ef2a460d33dc294733cbe983b843edcf00455a038b70",
+  "title": "Clear Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b43bc3b0-86ac-11e4-8c28-020000005b00",
+    "name": "Clear Creek Golf Course",
+    "address": "1566 Tiffenton Rd., Vicksburg, MS",
+    "courses": [
+      {
+        "name": "Clear Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6557,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6234,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5755,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4965,
+            "par": 72,
+            "rating": 63.1,
+            "slope": 99
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b43bc3b0-86ac-11e4-8c28-020000005b00/clear-creek-golf-course"
+  }
+}

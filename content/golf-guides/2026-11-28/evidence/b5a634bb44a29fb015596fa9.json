@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0c20640-86ac-11e4-8c28-020000005b00/high-valley-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0c20640-86ac-11e4-8c28-020000005b00/high-valley-country-club",
+  "checked_at": 1795696534.8316095,
+  "sha256": "72b95d3d0bb41390fd9e235a618965ebbb8d6c64f045574551fd964f2665fd39",
+  "title": "High Valley Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b0c20640-86ac-11e4-8c28-020000005b00",
+    "name": "High Valley Country Club",
+    "address": "633 Cannon Rd",
+    "courses": [
+      {
+        "name": "High Valley",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 1728,
+            "par": 31,
+            "rating": 30.3,
+            "slope": 95
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 1728,
+            "par": 33,
+            "rating": 30.1,
+            "slope": 101
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1728,
+            "par": 31,
+            "rating": 30.3,
+            "slope": 95
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1728,
+            "par": 33,
+            "rating": 30.1,
+            "slope": 101
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0c20640-86ac-11e4-8c28-020000005b00/high-valley-country-club"
+  }
+}

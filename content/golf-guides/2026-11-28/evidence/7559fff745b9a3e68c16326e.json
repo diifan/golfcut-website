@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ac4d5d0-86ac-11e4-8c28-020000005b00/reidy-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ac4d5d0-86ac-11e4-8c28-020000005b00/reidy-creek-golf-course",
+  "checked_at": 1795663453.3075554,
+  "sha256": "6bf62502bdf677ed11b73cc58651e156f3cb19e5f1c98c122e3d35e83d1cd579",
+  "title": "Reidy Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8ac4d5d0-86ac-11e4-8c28-020000005b00",
+    "name": "Reidy Creek Golf Course",
+    "address": "2300 North Broadway, Escondido, CA",
+    "courses": [
+      {
+        "name": "Reidy Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 2602,
+            "par": 54,
+            "rating": 54.6,
+            "slope": 100
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 2602,
+            "par": 54,
+            "rating": 54.35528,
+            "slope": 81.56078
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 2049,
+            "par": 54,
+            "rating": 52.7,
+            "slope": 100
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 2049,
+            "par": 54,
+            "rating": 52.06586,
+            "slope": 78.85661
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 1658,
+            "par": 54,
+            "rating": 50.44712,
+            "slope": 76.94462
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 1658,
+            "par": 54,
+            "rating": 52.4,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ac4d5d0-86ac-11e4-8c28-020000005b00/reidy-creek-golf-course"
+  }
+}

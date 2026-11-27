@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b10a59e0-86ac-11e4-8c28-020000005b00/fox-hollow-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b10a59e0-86ac-11e4-8c28-020000005b00/fox-hollow-golf-course",
+  "checked_at": 1795661467.1581933,
+  "sha256": "52d7034c970364ac965ef1ef03068a88718ad56c67ad82f58b86ee473d1e4617",
+  "title": "Fox Hollow Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b10a59e0-86ac-11e4-8c28-020000005b00",
+    "name": "Fox Hollow Golf Course",
+    "address": "11801 Brayton Dr, Anchorage, AK",
+    "courses": [
+      {
+        "name": "Fox Hollow Golf Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1237,
+            "par": 27,
+            "rating": 27.44098,
+            "slope": 82.70784
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1142,
+            "par": 27,
+            "rating": 27.00968,
+            "slope": 80.96744
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b10a59e0-86ac-11e4-8c28-020000005b00/fox-hollow-golf-course"
+  }
+}

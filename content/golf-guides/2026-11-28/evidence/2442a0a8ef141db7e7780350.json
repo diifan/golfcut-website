@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/91c0dc30-86ac-11e4-8c28-020000005b00/the-prattville-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/91c0dc30-86ac-11e4-8c28-020000005b00/the-prattville-country-club",
+  "checked_at": 1795685241.7439752,
+  "sha256": "b92fa62b7155145096b789388c25f3f995e415038b3e477c7b0dfaa6cc4c803e",
+  "title": "The Prattville Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "91c0dc30-86ac-11e4-8c28-020000005b00",
+    "name": "The Prattville Country Club",
+    "address": "Hwy 82 Bypass, Prattville, AL",
+    "courses": [
+      {
+        "name": "Prattville",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6413,
+            "par": 71,
+            "rating": 71.4,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6090,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5442,
+            "par": 71,
+            "rating": 65.2,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/91c0dc30-86ac-11e4-8c28-020000005b00/the-prattville-country-club"
+  }
+}

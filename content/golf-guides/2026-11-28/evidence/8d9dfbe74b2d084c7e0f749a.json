@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0ecbfc0-86ac-11e4-8c28-020000005b00/vashon-island-golf-swim-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0ecbfc0-86ac-11e4-8c28-020000005b00/vashon-island-golf-swim-club",
+  "checked_at": 1795687676.2328627,
+  "sha256": "7147ceb589cf16372ad13222f1df034f683a9b17938d9f933b8a589612d1804c",
+  "title": "Vashon Island Golf & Swim Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b0ecbfc0-86ac-11e4-8c28-020000005b00",
+    "name": "Vashon Island Golf & Swim Club",
+    "address": "24615 75th Ave SW",
+    "courses": [
+      {
+        "name": "Vashon Island(9 holes )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 5945,
+            "par": 70,
+            "rating": 69.1,
+            "slope": 117
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 5945,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 133
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "MALE",
+            "yards": 5364,
+            "par": 70,
+            "rating": 66.1,
+            "slope": 114
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "FEMALE",
+            "yards": 5364,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0ecbfc0-86ac-11e4-8c28-020000005b00/vashon-island-golf-swim-club"
+  }
+}

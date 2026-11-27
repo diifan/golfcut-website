@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad23d0e0-86ac-11e4-8c28-020000005b00/flatbush-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad23d0e0-86ac-11e4-8c28-020000005b00/flatbush-golf-course",
+  "checked_at": 1795685183.044606,
+  "sha256": "0cc190c2a96e5f416eac40b3668ed59ff100927cfde9069d21b51edc4fa5463e",
+  "title": "Flatbush Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ad23d0e0-86ac-11e4-8c28-020000005b00",
+    "name": "Flatbush Golf Course",
+    "address": "940 Littlestown Road, Littlestown, PA",
+    "courses": [
+      {
+        "name": "Flatbush",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6679,
+            "par": 71,
+            "rating": 72.5,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6213,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5623,
+            "par": 71,
+            "rating": 66.7,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5278,
+            "par": 71,
+            "rating": 69,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad23d0e0-86ac-11e4-8c28-020000005b00/flatbush-golf-course"
+  }
+}

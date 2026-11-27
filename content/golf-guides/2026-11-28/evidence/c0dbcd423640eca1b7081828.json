@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b67f7220-86ac-11e4-8c28-020000005b00/the-river-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b67f7220-86ac-11e4-8c28-020000005b00/the-river-club",
+  "checked_at": 1795696659.7222652,
+  "sha256": "59acd19829ea44cb8aea8691b0957b559211fd26987240363f8d832d7b1fc42e",
+  "title": "The River Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b67f7220-86ac-11e4-8c28-020000005b00",
+    "name": "The River Club",
+    "address": "6515 W State Street, Boise, ID",
+    "courses": [
+      {
+        "name": "The River Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5913,
+            "par": 69,
+            "rating": 68,
+            "slope": 124
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5913,
+            "par": 69,
+            "rating": 73.8,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5585,
+            "par": 69,
+            "rating": 65.7,
+            "slope": 114
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5585,
+            "par": 69,
+            "rating": 71.5,
+            "slope": 126
+          },
+          {
+            "name": "Blue / Silver",
+            "category": "MALE",
+            "yards": 5269,
+            "par": 69,
+            "rating": 64.2,
+            "slope": 110
+          },
+          {
+            "name": "Blue / Silver",
+            "category": "FEMALE",
+            "yards": 5269,
+            "par": 69,
+            "rating": 69.4,
+            "slope": 122
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5074,
+            "par": 69,
+            "rating": 63.2,
+            "slope": 109
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5074,
+            "par": 69,
+            "rating": 68.3,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b67f7220-86ac-11e4-8c28-020000005b00/the-river-club"
+  }
+}

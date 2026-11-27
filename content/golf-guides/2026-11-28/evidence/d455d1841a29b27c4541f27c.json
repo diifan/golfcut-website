@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9971b3a0-86ac-11e4-8c28-020000005b00/the-golf-club-of-newport",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9971b3a0-86ac-11e4-8c28-020000005b00/the-golf-club-of-newport",
+  "checked_at": 1795685250.723994,
+  "sha256": "1da374d46edaa1ded346d751b97548dffdf1c1c26278585570d174408aaba7b1",
+  "title": "The Golf Club of Newport - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9971b3a0-86ac-11e4-8c28-020000005b00",
+    "name": "The Golf Club of Newport",
+    "address": "Honey Hill Road, Newport, NY",
+    "courses": [
+      {
+        "name": "Newport",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Pro",
+            "category": "MALE",
+            "yards": 7067,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 129
+          },
+          {
+            "name": "Long",
+            "category": "MALE",
+            "yards": 6496,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 123
+          },
+          {
+            "name": "Regular",
+            "category": "MALE",
+            "yards": 6075,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 120
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 5389,
+            "par": 72,
+            "rating": 63.6,
+            "slope": 106
+          },
+          {
+            "name": "Short",
+            "category": "MALE",
+            "yards": 5052,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9971b3a0-86ac-11e4-8c28-020000005b00/the-golf-club-of-newport"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9726d940-86ac-11e4-8c28-020000005b00/the-twin-cities",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9726d940-86ac-11e4-8c28-020000005b00/the-twin-cities",
+  "checked_at": 1795523659.6063669,
+  "sha256": "3a24c5b0853769a8b834751aa8698035612c4bed0547c9ed2bb2f52f15b59af0",
+  "title": "The Twin Cities - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9726d940-86ac-11e4-8c28-020000005b00",
+    "name": "The Twin Cities",
+    "address": "11444 Tournament Players Pkwy, Blaine, MN",
+    "courses": [
+      {
+        "name": "The Twin Cities(TPC )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7164,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 143
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7164,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6777,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 141
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6777,
+            "par": 72,
+            "rating": 78,
+            "slope": 139
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6557,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 142
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 6557,
+            "par": 72,
+            "rating": 76.8,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6215,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 140
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6215,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 142
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5195,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5195,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 130
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9726d940-86ac-11e4-8c28-020000005b00/the-twin-cities"
+  }
+}

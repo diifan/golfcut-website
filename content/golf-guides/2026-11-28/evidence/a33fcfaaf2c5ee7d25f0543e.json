@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2428bc0-86ac-11e4-8c28-020000005b00/eldorado-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2428bc0-86ac-11e4-8c28-020000005b00/eldorado-golf-course",
+  "checked_at": 1795694379.8528504,
+  "sha256": "dc79a23aa796856b701d6507cfbf7691fbd79075faf829bab60395b0715d3de2",
+  "title": "Eldorado Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b2428bc0-86ac-11e4-8c28-020000005b00",
+    "name": "Eldorado Golf Course",
+    "address": "7839 E. 46 1/2 Rd. Cadillac, MI 49601-9709",
+    "courses": [
+      {
+        "name": "Eldorado GC",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7070,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 137
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 7070,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6666,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 126
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6666,
+            "par": 72,
+            "rating": 77.4,
+            "slope": 137
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6082,
+            "par": 72,
+            "rating": 68,
+            "slope": 118
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6082,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 131
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5545,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 120
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5545,
+            "par": 72,
+            "rating": 70,
+            "slope": 125
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 5044,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 116
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 5044,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2428bc0-86ac-11e4-8c28-020000005b00/eldorado-golf-course"
+  }
+}

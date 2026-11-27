@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7ec51160-69d9-11f1-b224-069933b83eb1/zen-woods-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7ec51160-69d9-11f1-b224-069933b83eb1/zen-woods-golf-club",
+  "checked_at": 1795700328.3138206,
+  "sha256": "a677bcbb96687dd3e0ce2933b1e17f32314fae38511dc0d0e0fe2bed7438a053",
+  "title": "ZenWoods Golf Club - Scorecards, Reviews | 18Birdies star star star star star google-play",
+  "course_profile": {
+    "id": "7ec51160-69d9-11f1-b224-069933b83eb1",
+    "name": "ZenWoods Golf Club",
+    "address": "95 S Golf Harbor Path, Inverness",
+    "courses": [
+      {
+        "name": "ZenWoods",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 1105,
+            "par": 27,
+            "rating": 27.3,
+            "slope": 87
+          },
+          {
+            "name": "Tournament",
+            "category": "FEMALE",
+            "yards": 1105,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 827,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ladies",
+            "category": "FEMALE",
+            "yards": 827,
+            "par": 27,
+            "rating": 28.5,
+            "slope": 89
+          },
+          {
+            "name": "Member",
+            "category": "MALE",
+            "yards": 827,
+            "par": 27,
+            "rating": 27,
+            "slope": 86
+          },
+          {
+            "name": "Member",
+            "category": "FEMALE",
+            "yards": 827,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7ec51160-69d9-11f1-b224-069933b83eb1/zen-woods-golf-club"
+  }
+}

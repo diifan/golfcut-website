@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99e201a0-86ac-11e4-8c28-020000005b00/burnet-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99e201a0-86ac-11e4-8c28-020000005b00/burnet-park-golf-course",
+  "checked_at": 1795668343.2736642,
+  "sha256": "c477b4b035ffdde6e543517cc45aedf52f2e6431e4e459b87bbbdda778c1171b",
+  "title": "Burnet Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99e201a0-86ac-11e4-8c28-020000005b00",
+    "name": "Burnet Park Golf Course",
+    "address": "412 Spencer Street",
+    "courses": [
+      {
+        "name": "Burnet Park",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1370,
+            "par": 28,
+            "rating": 28.0448,
+            "slope": 85.1444
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1370,
+            "par": 28,
+            "rating": 28.0448,
+            "slope": 85.1444
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99e201a0-86ac-11e4-8c28-020000005b00/burnet-park-golf-course"
+  }
+}

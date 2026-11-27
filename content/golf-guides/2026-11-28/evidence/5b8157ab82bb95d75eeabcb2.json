@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/d9c197d0-7565-11e8-b410-0680a328ea36/eagle-vail-golf-club-willow-creek-par-3-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/d9c197d0-7565-11e8-b410-0680a328ea36/eagle-vail-golf-club-willow-creek-par-3-golf-course",
+  "checked_at": 1795661626.3372436,
+  "sha256": "35a3eec8ad4e7e7b37b7f50e7cea50d21bdb8af03a0ae43a3a8ad262fafa3916",
+  "title": "EagleVail Golf Club  - Willow Creek Par 3 Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "d9c197d0-7565-11e8-b410-0680a328ea36",
+    "name": "EagleVail Golf Club  - Willow Creek Par 3 Golf Course",
+    "address": "459 Eagle Drive Avon, CO 81620",
+    "courses": [
+      {
+        "name": "EagleVail GC  - Willow Creek Par 3 Golf Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 781,
+            "par": 27,
+            "rating": 27.3,
+            "slope": 89
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 781,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 480,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 480,
+            "par": 27,
+            "rating": 28,
+            "slope": 90
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/d9c197d0-7565-11e8-b410-0680a328ea36/eagle-vail-golf-club-willow-creek-par-3-golf-course"
+  }
+}

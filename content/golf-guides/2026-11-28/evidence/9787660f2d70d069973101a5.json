@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b97e0c20-86ac-11e4-8c28-020000005b00/ozark-ridge-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b97e0c20-86ac-11e4-8c28-020000005b00/ozark-ridge-golf-course",
+  "checked_at": 1795663870.201577,
+  "sha256": "d0dc97960ce16a4416baaf48253480397769e6c2bcfe6513c4ceb3b7a86c9da0",
+  "title": "Ozark Ridge Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b97e0c20-86ac-11e4-8c28-020000005b00",
+    "name": "Ozark Ridge Golf Course",
+    "address": "3045 Cravens Rd, Poplar Bluff, MO",
+    "courses": [
+      {
+        "name": "Ozark Ridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6260,
+            "par": 70,
+            "rating": 70.2,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6260,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5827,
+            "par": 70,
+            "rating": 68.3,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5827,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5392,
+            "par": 70,
+            "rating": 66.4,
+            "slope": 111
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5392,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4974,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4974,
+            "par": 70,
+            "rating": 69.3,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b97e0c20-86ac-11e4-8c28-020000005b00/ozark-ridge-golf-course"
+  }
+}

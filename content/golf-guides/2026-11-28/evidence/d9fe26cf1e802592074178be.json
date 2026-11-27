@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b758bb20-86ac-11e4-8c28-020000005b00/montezuma-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b758bb20-86ac-11e4-8c28-020000005b00/montezuma-country-club",
+  "checked_at": 1795687593.2454786,
+  "sha256": "11d646a2408d9bdb76a3d81c15c04dff2ca3be5837fa08edc9fbe8b5e2c774b7",
+  "title": "Montezuma Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b758bb20-86ac-11e4-8c28-020000005b00",
+    "name": "Montezuma Country Club",
+    "address": "640 W Main St., Montezuma, IA",
+    "courses": [
+      {
+        "name": "Montezuma",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2755,
+            "par": 35,
+            "rating": 35,
+            "slope": 113
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2755,
+            "par": 35,
+            "rating": 35.6,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b758bb20-86ac-11e4-8c28-020000005b00/montezuma-country-club"
+  }
+}

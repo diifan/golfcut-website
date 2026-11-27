@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9bb3b460-86ac-11e4-8c28-020000005b00/vineyard-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9bb3b460-86ac-11e4-8c28-020000005b00/vineyard-golf-course",
+  "checked_at": 1795663463.8225646,
+  "sha256": "1b1a5fda17a1e03d057f095f9428b36c50350e03aabf8500a5da094e60f03acd",
+  "title": "Vineyard Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9bb3b460-86ac-11e4-8c28-020000005b00",
+    "name": "Vineyard Golf Course",
+    "address": "600 Nordyke Rd., Cincinnati, OH",
+    "courses": [
+      {
+        "name": "Vineyard",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue tees",
+            "category": "MALE",
+            "yards": 6789,
+            "par": 71,
+            "rating": 72.9,
+            "slope": 137
+          },
+          {
+            "name": "White tees",
+            "category": "MALE",
+            "yards": 6254,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 134
+          },
+          {
+            "name": "Silver tees",
+            "category": "MALE",
+            "yards": 5480,
+            "par": 71,
+            "rating": 67,
+            "slope": 122
+          },
+          {
+            "name": "Gold tees",
+            "category": "MALE",
+            "yards": 4747,
+            "par": 71,
+            "rating": 64,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9bb3b460-86ac-11e4-8c28-020000005b00/vineyard-golf-course"
+  }
+}

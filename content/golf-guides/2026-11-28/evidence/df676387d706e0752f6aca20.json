@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1dc01c0-86ac-11e4-8c28-020000005b00/j-w-parks-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1dc01c0-86ac-11e4-8c28-020000005b00/j-w-parks-golf-course",
+  "checked_at": 1795685290.8361483,
+  "sha256": "5983d0d1db0085387d67c41d8b9cacfb119bb7af47478a93ff46ae303ccabd48",
+  "title": "J W Parks Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1dc01c0-86ac-11e4-8c28-020000005b00",
+    "name": "J W Parks Golf Course",
+    "address": "382 Hartland Ave",
+    "courses": [
+      {
+        "name": "Johnson W. Parks",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back (White/Blue)",
+            "category": "MALE",
+            "yards": 5943,
+            "par": 71,
+            "rating": 69.3,
+            "slope": 124
+          },
+          {
+            "name": "Forward (Green/White)",
+            "category": "MALE",
+            "yards": 5123,
+            "par": 71,
+            "rating": 65.7,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1dc01c0-86ac-11e4-8c28-020000005b00/j-w-parks-golf-course"
+  }
+}

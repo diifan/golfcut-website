@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0654040-86ac-11e4-8c28-020000005b00/lake-ridge-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0654040-86ac-11e4-8c28-020000005b00/lake-ridge-golf-course",
+  "checked_at": 1795694190.0626786,
+  "sha256": "c64b6ec1132eb51937aeab3014ea2e442cad5f5d80ffc3bbafcb85f517b1d3e1",
+  "title": "Lake Ridge Golf Course  - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b0654040-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Ridge Golf Course ",
+    "address": "12350 Cotton Mill Drive Woodbridge, VA 22192",
+    "courses": [
+      {
+        "name": "Lake Ridge Park (9 holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1074,
+            "par": 27,
+            "rating": 26.70096,
+            "slope": 79.72168
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1074,
+            "par": 27,
+            "rating": 26.70096,
+            "slope": 79.72168
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 909,
+            "par": 27,
+            "rating": 25.95186,
+            "slope": 76.69888
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 909,
+            "par": 27,
+            "rating": 25.95186,
+            "slope": 76.69888
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 726,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 726,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0654040-86ac-11e4-8c28-020000005b00/lake-ridge-golf-course"
+  }
+}

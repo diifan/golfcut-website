@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98aa6c00-86ac-11e4-8c28-020000005b00/nick-stoner-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98aa6c00-86ac-11e4-8c28-020000005b00/nick-stoner-municipal-golf-course",
+  "checked_at": 1795661626.2695696,
+  "sha256": "66d150644b1a8e023dbbc9961170a1abb2487d940bcca23154ecdb2ab44194c1",
+  "title": "Nick Stoner Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "98aa6c00-86ac-11e4-8c28-020000005b00",
+    "name": "Nick Stoner Municipal Golf Course",
+    "address": "1803 State Highway 10",
+    "courses": [
+      {
+        "name": "Nick Stoner",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5838,
+            "par": 70,
+            "rating": 66.9,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5029,
+            "par": 70,
+            "rating": 67.8,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98aa6c00-86ac-11e4-8c28-020000005b00/nick-stoner-municipal-golf-course"
+  }
+}

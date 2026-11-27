@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b7d53e20-86ac-11e4-8c28-020000005b00/lake-barton-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b7d53e20-86ac-11e4-8c28-020000005b00/lake-barton-golf-club",
+  "checked_at": 1795685282.430949,
+  "sha256": "a747f1ed929bc8be6027236b805b8e58245b1b2307b519bcdab030b4590d0ea8",
+  "title": "Lake Barton Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b7d53e20-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Barton Golf Club",
+    "address": "673 US-281",
+    "courses": [
+      {
+        "name": "Lake Barton",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5526,
+            "par": 70,
+            "rating": 66.4,
+            "slope": 112
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5526,
+            "par": 71,
+            "rating": 72.2,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5112,
+            "par": 70,
+            "rating": 68.2,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5112,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b7d53e20-86ac-11e4-8c28-020000005b00/lake-barton-golf-club"
+  }
+}

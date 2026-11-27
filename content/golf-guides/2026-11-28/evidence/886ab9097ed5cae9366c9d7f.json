@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2c85d90-86ac-11e4-8c28-020000005b00/gun-ridge-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2c85d90-86ac-11e4-8c28-020000005b00/gun-ridge-golf-course",
+  "checked_at": 1795694192.548241,
+  "sha256": "5fc297cbe03b04763e18a3fbdaeb73b73361ca3bbb738131c9409ae3f58f71ec",
+  "title": "Gun Ridge Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b2c85d90-86ac-11e4-8c28-020000005b00",
+    "name": "Gun Ridge Golf Course",
+    "address": "4460 Gun Lake Rd",
+    "courses": [
+      {
+        "name": "Gun Ridge (9 holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2460,
+            "par": 35,
+            "rating": 33.7,
+            "slope": 108
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2285,
+            "par": 35,
+            "rating": 32.9,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1875,
+            "par": 35,
+            "rating": 31,
+            "slope": 97
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2c85d90-86ac-11e4-8c28-020000005b00/gun-ridge-golf-course"
+  }
+}

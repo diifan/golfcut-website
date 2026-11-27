@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/c73e8e20-86ac-11e4-8c28-020000005b00/atlas",
+  "resolved_url": "https://18birdies.com/golf-courses/club/c73e8e20-86ac-11e4-8c28-020000005b00/atlas",
+  "checked_at": 1795661458.2227056,
+  "sha256": "8e161c3adfe63a0fde74b4f4ac298b71953fa35f9a63eb021997203e95bcb91c",
+  "title": "Atlas Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "c73e8e20-86ac-11e4-8c28-020000005b00",
+    "name": "Atlas Golf",
+    "address": "Road of Amizmiz BP 2064 Marrakech, Morocco - 40000",
+    "courses": [
+      {
+        "name": "Atlas Golf",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 2380,
+            "par": 33,
+            "rating": 33.3,
+            "slope": 107
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 2380,
+            "par": 33,
+            "rating": 33.6,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2326,
+            "par": 33,
+            "rating": 33.1,
+            "slope": 106
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2326,
+            "par": 33,
+            "rating": 33.3,
+            "slope": 112
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 2180,
+            "par": 33,
+            "rating": 32.4,
+            "slope": 103
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 2180,
+            "par": 33,
+            "rating": 32.5,
+            "slope": 110
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1953,
+            "par": 33,
+            "rating": 31.3,
+            "slope": 99
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1953,
+            "par": 33,
+            "rating": 31.3,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1779,
+            "par": 33,
+            "rating": 30.6,
+            "slope": 96
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1779,
+            "par": 33,
+            "rating": 30.4,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/c73e8e20-86ac-11e4-8c28-020000005b00/atlas"
+  }
+}

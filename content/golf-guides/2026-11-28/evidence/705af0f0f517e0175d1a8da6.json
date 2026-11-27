@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8619fa0-86ac-11e4-8c28-020000005b00/kenmare-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8619fa0-86ac-11e4-8c28-020000005b00/kenmare-country-club",
+  "checked_at": 1795663502.4986362,
+  "sha256": "3ce653967d10f2193159a6dad4dc69a5972727bdcec467f581a2ea7a72f091ad",
+  "title": "Kenmare Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b8619fa0-86ac-11e4-8c28-020000005b00",
+    "name": "Kenmare Country Club",
+    "address": "Hwy 52",
+    "courses": [
+      {
+        "name": "Kenmare(9 holes )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2684,
+            "par": 34,
+            "rating": 33.8,
+            "slope": 114
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2684,
+            "par": 34,
+            "rating": 35.2,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2528,
+            "par": 34,
+            "rating": 34,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2528,
+            "par": 34,
+            "rating": 35.4,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8619fa0-86ac-11e4-8c28-020000005b00/kenmare-country-club"
+  }
+}

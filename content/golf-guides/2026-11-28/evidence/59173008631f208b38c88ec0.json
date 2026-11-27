@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9beaf100-86ac-11e4-8c28-020000005b00/mahoning-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9beaf100-86ac-11e4-8c28-020000005b00/mahoning-golf-course",
+  "checked_at": 1795666506.7716491,
+  "sha256": "d3e779cc325d3128369fe205445ea4508b85cff5e569fa77d7d5d590184a5096",
+  "title": "Mahoning Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9beaf100-86ac-11e4-8c28-020000005b00",
+    "name": "Mahoning Golf Course",
+    "address": "720 E Liberty Street, Girard, OH",
+    "courses": [
+      {
+        "name": "Mahoning",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6006,
+            "par": 70,
+            "rating": 70,
+            "slope": 110
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6006,
+            "par": 70,
+            "rating": 73.8,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5711,
+            "par": 70,
+            "rating": 68,
+            "slope": 106
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5711,
+            "par": 70,
+            "rating": 72.3,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5080,
+            "par": 70,
+            "rating": 68.1,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5080,
+            "par": 70,
+            "rating": 69,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9beaf100-86ac-11e4-8c28-020000005b00/mahoning-golf-course"
+  }
+}

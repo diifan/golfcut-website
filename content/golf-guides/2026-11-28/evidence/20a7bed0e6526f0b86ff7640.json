@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b777b4d0-86ac-11e4-8c28-020000005b00/pleasantville-golf-country",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b777b4d0-86ac-11e4-8c28-020000005b00/pleasantville-golf-country",
+  "checked_at": 1795685306.4359837,
+  "sha256": "b76dbf207248fc86db6e6bb31d0bf3e9da54af44db331a3a058e102b1254499e",
+  "title": "Pleasantville Golf & Country - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "b777b4d0-86ac-11e4-8c28-020000005b00",
+    "name": "Pleasantville Golf & Country",
+    "address": "957 Hwy 5, Pleasantville, IA",
+    "courses": [
+      {
+        "name": "Pleasantville",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 2880,
+            "par": 35,
+            "rating": 34.1,
+            "slope": 113
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 2880,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2719,
+            "par": 35,
+            "rating": 33.2,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2719,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 2365,
+            "par": 35,
+            "rating": 31.5,
+            "slope": 103
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 2365,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b777b4d0-86ac-11e4-8c28-020000005b00/pleasantville-golf-country"
+  }
+}

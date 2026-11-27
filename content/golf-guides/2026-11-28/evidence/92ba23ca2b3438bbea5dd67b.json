@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d233830-86ac-11e4-8c28-020000005b00/chestnut-hills-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d233830-86ac-11e4-8c28-020000005b00/chestnut-hills-golf-club",
+  "checked_at": 1795524582.9995186,
+  "sha256": "c789585a9e55f8f534f291db941544c6a20ff031f06bb244afc14ad9250594cc",
+  "title": "Chestnut Hills Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d233830-86ac-11e4-8c28-020000005b00",
+    "name": "Chestnut Hills Golf Club",
+    "address": "11502 Illinois Rd, Fort Wayne, IN",
+    "courses": [
+      {
+        "name": "Chestnut Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7012,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6548,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 127
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6057,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5143,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d233830-86ac-11e4-8c28-020000005b00/chestnut-hills-golf-club"
+  }
+}

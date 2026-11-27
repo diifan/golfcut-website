@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/700000e0-69f0-11ee-baa3-06780482e2ce/pioneer-family-golf-center",
+  "resolved_url": "https://18birdies.com/golf-courses/club/700000e0-69f0-11ee-baa3-06780482e2ce/pioneer-family-golf-center",
+  "checked_at": 1795686496.5410926,
+  "sha256": "f68c27172bafbc5f479f81028fbfd7f177b5cf9d1027bce994b1548205d26742",
+  "title": "Pioneer Family Golf Center - Scorecards, Reviews | 18Birdies star star star star star star star star-o star star-o star-o star star star-o star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "700000e0-69f0-11ee-baa3-06780482e2ce",
+    "name": "Pioneer Family Golf Center",
+    "address": "712 Pike St, Marietta, OH",
+    "courses": [
+      {
+        "name": "Pioneer",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3074,
+            "par": 36,
+            "rating": 34.9,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3074,
+            "par": 36,
+            "rating": 37.3,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2915,
+            "par": 36,
+            "rating": 33.7,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2915,
+            "par": 36,
+            "rating": 36.5,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2336,
+            "par": 36,
+            "rating": 33.1,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2336,
+            "par": 36,
+            "rating": 33.2,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/700000e0-69f0-11ee-baa3-06780482e2ce/pioneer-family-golf-center"
+  }
+}

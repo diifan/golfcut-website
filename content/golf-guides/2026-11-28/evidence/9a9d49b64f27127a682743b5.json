@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a0b49d0-86ac-11e4-8c28-020000005b00/lincoln-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a0b49d0-86ac-11e4-8c28-020000005b00/lincoln-park-golf-course",
+  "checked_at": 1795661418.5225825,
+  "sha256": "445936b0a63ae6a032863e876dcc700cd820168af6c4ee8462841eacfa0da5ae",
+  "title": "Lincoln Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8a0b49d0-86ac-11e4-8c28-020000005b00",
+    "name": "Lincoln Park Golf Course",
+    "address": "300 34th Ave, San Francisco, CA 94121",
+    "courses": [
+      {
+        "name": "Lincoln Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5146,
+            "par": 68,
+            "rating": 65.9,
+            "slope": 113
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5146,
+            "par": 70,
+            "rating": 70.3,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4948,
+            "par": 68,
+            "rating": 65,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4948,
+            "par": 70,
+            "rating": 69.1,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4732,
+            "par": 68,
+            "rating": 64.2,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4732,
+            "par": 70,
+            "rating": 68.1,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a0b49d0-86ac-11e4-8c28-020000005b00/lincoln-park-golf-course"
+  }
+}

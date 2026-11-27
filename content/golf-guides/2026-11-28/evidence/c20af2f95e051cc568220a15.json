@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b18bbee0-86ac-11e4-8c28-020000005b00/portales-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b18bbee0-86ac-11e4-8c28-020000005b00/portales-country-club",
+  "checked_at": 1795696713.860242,
+  "sha256": "08938a547281e8e8f6f7a4ada5690466f16640fa5f491ec751251a46257e99a6",
+  "title": "Portales Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star-o star star-o star-o star star star-o star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "b18bbee0-86ac-11e4-8c28-020000005b00",
+    "name": "Portales Country Club",
+    "address": "S Floyd Hwy, Portales, NM",
+    "courses": [
+      {
+        "name": "Portales",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6392,
+            "par": 73,
+            "rating": 68.4,
+            "slope": 110
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6392,
+            "par": 73,
+            "rating": 75.9,
+            "slope": 134
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5864,
+            "par": 73,
+            "rating": 66.6,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5864,
+            "par": 73,
+            "rating": 73.1,
+            "slope": 128
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5110,
+            "par": 73,
+            "rating": 68.2,
+            "slope": 117
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5110,
+            "par": 73,
+            "rating": 67.2,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b18bbee0-86ac-11e4-8c28-020000005b00/portales-country-club"
+  }
+}

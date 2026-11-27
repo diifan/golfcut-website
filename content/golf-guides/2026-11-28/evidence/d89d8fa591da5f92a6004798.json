@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/91c5e540-86ac-11e4-8c28-020000005b00/the-general-golf-course-at-joe-wheeler-state-park",
+  "resolved_url": "https://18birdies.com/golf-courses/club/91c5e540-86ac-11e4-8c28-020000005b00/the-general-golf-course-at-joe-wheeler-state-park",
+  "checked_at": 1795663872.9153008,
+  "sha256": "d66aa7bbcd9ae645d0f67a47d043eb35b5415fdd9050b09598ee6908f4991c41",
+  "title": "The General Golf Course at Joe Wheeler State Park - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "91c5e540-86ac-11e4-8c28-020000005b00",
+    "name": "The General Golf Course at Joe Wheeler State Park",
+    "address": "4401 McLean Drive Rogersville, AL 35652-2916",
+    "courses": [
+      {
+        "name": "Joe Wheeler State Park (General GC)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7251,
+            "par": 72,
+            "rating": 73,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6564,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6029,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5294,
+            "par": 72,
+            "rating": 69,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/91c5e540-86ac-11e4-8c28-020000005b00/the-general-golf-course-at-joe-wheeler-state-park"
+  }
+}

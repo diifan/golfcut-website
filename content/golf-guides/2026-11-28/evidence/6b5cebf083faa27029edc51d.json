@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/903225e0-86ac-11e4-8c28-020000005b00/the-golf-club-of-quincy",
+  "resolved_url": "https://18birdies.com/golf-courses/club/903225e0-86ac-11e4-8c28-020000005b00/the-golf-club-of-quincy",
+  "checked_at": 1795687689.321504,
+  "sha256": "6f5d4ffbb68983fdaff0191637e86f4f09eab7a458cc958d4ae719a863ce8a83",
+  "title": "The Golf Club of Quincy - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "903225e0-86ac-11e4-8c28-020000005b00",
+    "name": "The Golf Club of Quincy",
+    "address": "2291 Solomon Dairy Road, Quincy, FL",
+    "courses": [
+      {
+        "name": "Quincy",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7045,
+            "par": 73,
+            "rating": 73.3,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7045,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6591,
+            "par": 73,
+            "rating": 70.7,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6591,
+            "par": 73,
+            "rating": 77,
+            "slope": 137
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5862,
+            "par": 73,
+            "rating": 67.1,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5862,
+            "par": 73,
+            "rating": 73.1,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4948,
+            "par": 73,
+            "rating": 62.8,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4948,
+            "par": 73,
+            "rating": 67.1,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/903225e0-86ac-11e4-8c28-020000005b00/the-golf-club-of-quincy"
+  }
+}

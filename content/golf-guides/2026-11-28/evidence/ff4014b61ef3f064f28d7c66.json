@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad6d5d00-86ac-11e4-8c28-020000005b00/punxsutawney-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad6d5d00-86ac-11e4-8c28-020000005b00/punxsutawney-country-club",
+  "checked_at": 1795583828.900992,
+  "sha256": "f18116d6f6a7feefd8771ffa47254f94e3c33c835f69c47df6cc4b9da2962a11",
+  "title": "Punxsutawney Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ad6d5d00-86ac-11e4-8c28-020000005b00",
+    "name": "Punxsutawney Country Club",
+    "address": "408 N Main St, Punxsutawney, PA",
+    "courses": [
+      {
+        "name": "Punxsutawney",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6505,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6272,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 134
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5419,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5084,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad6d5d00-86ac-11e4-8c28-020000005b00/punxsutawney-country-club"
+  }
+}

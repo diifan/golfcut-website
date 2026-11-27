@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7fa740f0-7643-11f1-8cff-069933b83eb1/valley-point-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7fa740f0-7643-11f1-8cff-069933b83eb1/valley-point-golf-course",
+  "checked_at": 1795663438.211069,
+  "sha256": "5d697cb8292842be37d8e1e89a8c993f83a713fea8538296c0f6d5544c18617b",
+  "title": "Valley Point Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star-o star star star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "7fa740f0-7643-11f1-8cff-069933b83eb1",
+    "name": "Valley Point Golf Course",
+    "address": "820 North Emporia, Valley Center, , Sedgwick County",
+    "courses": [
+      {
+        "name": "Valley Point",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 1713,
+            "par": 29,
+            "rating": 29.2,
+            "slope": 96
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 1713,
+            "par": 29,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1466,
+            "par": 29,
+            "rating": 27.9,
+            "slope": 94
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1466,
+            "par": 29,
+            "rating": 28.6,
+            "slope": 95
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 1265,
+            "par": 29,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 1265,
+            "par": 29,
+            "rating": 27.3,
+            "slope": 93
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7fa740f0-7643-11f1-8cff-069933b83eb1/valley-point-golf-course"
+  }
+}

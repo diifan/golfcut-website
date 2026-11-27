@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6e97e90-86ac-11e4-8c28-020000005b00/cedar-pointe-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6e97e90-86ac-11e4-8c28-020000005b00/cedar-pointe-golf-course",
+  "checked_at": 1795524547.001106,
+  "sha256": "dc1b1d6a23a70732a5dca40e8c5bba51e8d6f052eadbf005fca9fcffd7729bac",
+  "title": "Cedar Pointe Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6e97e90-86ac-11e4-8c28-020000005b00",
+    "name": "Cedar Pointe Golf Course",
+    "address": "601 S Cedar, Boone, IA",
+    "courses": [
+      {
+        "name": "Cedar Pointe",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6647,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6647,
+            "par": 72,
+            "rating": 77.3,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6357,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6357,
+            "par": 72,
+            "rating": 75.7,
+            "slope": 134
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5642,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 108
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5642,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5560,
+            "par": 72,
+            "rating": 66,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5560,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6e97e90-86ac-11e4-8c28-020000005b00/cedar-pointe-golf-course"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98202d60-86ac-11e4-8c28-020000005b00/sunset-valley-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98202d60-86ac-11e4-8c28-020000005b00/sunset-valley-golf-course",
+  "checked_at": 1795661644.030579,
+  "sha256": "4c1178928b7453eeb5b8d36f2d981823a942ef2b886af2bdb202e440cc8d14c6",
+  "title": "Sunset Valley Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "98202d60-86ac-11e4-8c28-020000005b00",
+    "name": "Sunset Valley Golf Course",
+    "address": "47 West Sunset Road Pompton Plains, NJ",
+    "courses": [
+      {
+        "name": "Sunset Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6368,
+            "par": 70,
+            "rating": 71.2,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6368,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5990,
+            "par": 70,
+            "rating": 69,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5990,
+            "par": 70,
+            "rating": 75.1,
+            "slope": 138
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5157,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5157,
+            "par": 70,
+            "rating": 70.4,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5679,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5679,
+            "par": 70,
+            "rating": 73.4,
+            "slope": 134
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98202d60-86ac-11e4-8c28-020000005b00/sunset-valley-golf-course"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9aa5c6d0-86ac-11e4-8c28-020000005b00/orchard-hills-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9aa5c6d0-86ac-11e4-8c28-020000005b00/orchard-hills-golf-club",
+  "checked_at": 1795583781.0958972,
+  "sha256": "fa74ced00f167dac2fab91fa8e959392473ad51055480fc1bffaf20e49b96c10",
+  "title": "Orchard Hills Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9aa5c6d0-86ac-11e4-8c28-020000005b00",
+    "name": "Orchard Hills Golf Club",
+    "address": "2515 Connelly Springs Rd, Granite Falls, NC",
+    "courses": [
+      {
+        "name": "Orchard Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6134,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5685,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4731,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9aa5c6d0-86ac-11e4-8c28-020000005b00/orchard-hills-golf-club"
+  }
+}

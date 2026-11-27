@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/913abc40-86ac-11e4-8c28-020000005b00/cypress-lakes",
+  "resolved_url": "https://18birdies.com/golf-courses/club/913abc40-86ac-11e4-8c28-020000005b00/cypress-lakes",
+  "checked_at": 1795663461.6335852,
+  "sha256": "2132a112325dd74ec9d12e1a341ac4fb078d12f07a0f9d9851aab59161b6c7f2",
+  "title": "Cypress Lakes - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "913abc40-86ac-11e4-8c28-020000005b00",
+    "name": "Cypress Lakes",
+    "address": "1311 East 6th Street, Muscle Shoals, AL",
+    "courses": [
+      {
+        "name": "Cypress Lakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6523,
+            "par": 71,
+            "rating": 72.2,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6051,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 134
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5619,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5031,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/913abc40-86ac-11e4-8c28-020000005b00/cypress-lakes"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9410320-86ac-11e4-8c28-020000005b00/norwoods-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9410320-86ac-11e4-8c28-020000005b00/norwoods-golf-club",
+  "checked_at": 1795661624.8313398,
+  "sha256": "055d937a1c054998365700626877c419a2d318484069b6f077a5f275f183fb17",
+  "title": "Norwoods Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b9410320-86ac-11e4-8c28-020000005b00",
+    "name": "Norwoods Golf Club",
+    "address": "52651 Norwoods Pl Hannibal, MO",
+    "courses": [
+      {
+        "name": "Norwoods",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6444,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6444,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5938,
+            "par": 72,
+            "rating": 70,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5938,
+            "par": 72,
+            "rating": 76,
+            "slope": 136
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5597,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 121
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5597,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4610,
+            "par": 72,
+            "rating": 63.6,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4610,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9410320-86ac-11e4-8c28-020000005b00/norwoods-golf-club"
+  }
+}

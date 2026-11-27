@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8bfc530-86ac-11e4-8c28-020000005b00/big-lake",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8bfc530-86ac-11e4-8c28-020000005b00/big-lake",
+  "checked_at": 1795661458.6226966,
+  "sha256": "d25575b052234c85ae7f56e6795b003ac75cf59cd1dbab78eb15c6bf196b3b41",
+  "title": " Big Lake - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b8bfc530-86ac-11e4-8c28-020000005b00",
+    "name": " Big Lake",
+    "address": "Hwy 77 N, Manila, AR",
+    "courses": [
+      {
+        "name": "9 Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3076,
+            "par": 36,
+            "rating": 36.5,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3076,
+            "par": 36,
+            "rating": 37.3,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2409,
+            "par": 36,
+            "rating": 33.4,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2409,
+            "par": 36,
+            "rating": 33.8,
+            "slope": 114
+          }
+        ]
+      },
+      {
+        "name": "18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6148,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6148,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5027,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5027,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8bfc530-86ac-11e4-8c28-020000005b00/big-lake"
+  }
+}

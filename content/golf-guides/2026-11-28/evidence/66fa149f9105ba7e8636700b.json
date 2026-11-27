@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96a9ba00-86ac-11e4-8c28-020000005b00/village-green-public-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96a9ba00-86ac-11e4-8c28-020000005b00/village-green-public-golf-course",
+  "checked_at": 1795663459.4662201,
+  "sha256": "108e065281569de48370c821c741d5f8c498442ae7a8d6308614dc7a2c925c4c",
+  "title": "Village Green Public Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96a9ba00-86ac-11e4-8c28-020000005b00",
+    "name": "Village Green Public Golf Course",
+    "address": "Moorhead City Hall, 500 Center Ave, Moorhead, MN 56561-0779",
+    "courses": [
+      {
+        "name": "Village Green",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6728,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6352,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5304,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96a9ba00-86ac-11e4-8c28-020000005b00/village-green-public-golf-course"
+  }
+}

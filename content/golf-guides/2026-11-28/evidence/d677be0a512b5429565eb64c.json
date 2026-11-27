@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96103920-86ac-11e4-8c28-020000005b00/babbitt-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96103920-86ac-11e4-8c28-020000005b00/babbitt-golf-course",
+  "checked_at": 1795661654.8193915,
+  "sha256": "d85fe1744316faf747847b8e787938f28e7c9e7315b7d3678de80b3a2c975dde",
+  "title": "Babbitt Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96103920-86ac-11e4-8c28-020000005b00",
+    "name": "Babbitt Golf Course",
+    "address": "2806 Hwy 21,Babbitt",
+    "courses": [
+      {
+        "name": "Babbitt",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6366,
+            "par": 70,
+            "rating": 71.1,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6366,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6044,
+            "par": 70,
+            "rating": 68.7,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6044,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5648,
+            "par": 70,
+            "rating": 70.7,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5648,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96103920-86ac-11e4-8c28-020000005b00/babbitt-golf-course"
+  }
+}

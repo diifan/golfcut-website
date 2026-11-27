@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8bdb4ee0-86ac-11e4-8c28-020000005b00/battle-lake-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8bdb4ee0-86ac-11e4-8c28-020000005b00/battle-lake-golf-course",
+  "checked_at": 1795668308.7820103,
+  "sha256": "53e06bc1fa67321e7e7c11cc02f4c17740a20d76ab0a6e7eb191cab4df655836",
+  "title": "Battle Lake Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "8bdb4ee0-86ac-11e4-8c28-020000005b00",
+    "name": "Battle Lake Golf Course",
+    "address": "4443 Battle Lake Rd, Mart, TX",
+    "courses": [
+      {
+        "name": "Battle Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6601,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 116
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6601,
+            "par": 72,
+            "rating": 77,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6113,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6113,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5173,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5173,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8bdb4ee0-86ac-11e4-8c28-020000005b00/battle-lake-golf-course"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b48d8d30-86ac-11e4-8c28-020000005b00/warren-swigart-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b48d8d30-86ac-11e4-8c28-020000005b00/warren-swigart-municipal-golf-course",
+  "checked_at": 1795685284.5646265,
+  "sha256": "a91bea22b8f522101686c9bf3e937ef90c89c69f440cde2e26e958a6bb168690",
+  "title": "Warren Swigart Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b48d8d30-86ac-11e4-8c28-020000005b00",
+    "name": "Warren Swigart Municipal Golf Course",
+    "address": "3865 Parkview Dr",
+    "courses": [
+      {
+        "name": "Warren Swigart",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1239,
+            "par": 27,
+            "rating": 27.45006,
+            "slope": 82.74448
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1239,
+            "par": 27,
+            "rating": 27.45006,
+            "slope": 82.74448
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b48d8d30-86ac-11e4-8c28-020000005b00/warren-swigart-municipal-golf-course"
+  }
+}

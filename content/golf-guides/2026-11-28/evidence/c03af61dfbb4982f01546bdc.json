@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8dd57130-86ac-11e4-8c28-020000005b00/san-pedro-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8dd57130-86ac-11e4-8c28-020000005b00/san-pedro-golf-course",
+  "checked_at": 1795698006.913786,
+  "sha256": "f5443f8841a1e87566e247b0920c4d830cdb61dcb1e3e38e6311d720a5db449b",
+  "title": "San Pedro Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8dd57130-86ac-11e4-8c28-020000005b00",
+    "name": "San Pedro Golf Course",
+    "address": "926 N Madison Ave Benson, AZ",
+    "courses": [
+      {
+        "name": "San Pedro",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7187,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 132
+          },
+          {
+            "name": "Copper",
+            "category": "MALE",
+            "yards": 6691,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6173,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 119
+          },
+          {
+            "name": "Jade",
+            "category": "MALE",
+            "yards": 5670,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 115
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5185,
+            "par": 72,
+            "rating": 64.1,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8dd57130-86ac-11e4-8c28-020000005b00/san-pedro-golf-course"
+  }
+}

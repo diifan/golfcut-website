@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5aa6ee0-86ac-11e4-8c28-020000005b00/arcadia-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5aa6ee0-86ac-11e4-8c28-020000005b00/arcadia-country-club",
+  "checked_at": 1795694435.6324785,
+  "sha256": "dce2c4009cd341e2fc50f20839bd214ce8f4810dff17b727d37dfb0fdb009c44",
+  "title": "Arcadia Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b5aa6ee0-86ac-11e4-8c28-020000005b00",
+    "name": "Arcadia Country Club",
+    "address": "340 Golf Ln, Arcadia, WI",
+    "courses": [
+      {
+        "name": "9 Hole Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2933,
+            "par": 36,
+            "rating": 33.8,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2933,
+            "par": 36,
+            "rating": 36.5,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2832,
+            "par": 36,
+            "rating": 33.3,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2832,
+            "par": 36,
+            "rating": 35.8,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2576,
+            "par": 36,
+            "rating": 32.5,
+            "slope": 97
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2576,
+            "par": 36,
+            "rating": 34.3,
+            "slope": 120
+          }
+        ]
+      },
+      {
+        "name": "18 Hole Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5866,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5866,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5664,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5664,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5152,
+            "par": 72,
+            "rating": 65,
+            "slope": 97
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5152,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5aa6ee0-86ac-11e4-8c28-020000005b00/arcadia-country-club"
+  }
+}

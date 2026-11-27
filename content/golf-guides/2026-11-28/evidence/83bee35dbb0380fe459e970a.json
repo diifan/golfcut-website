@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83e07620-86ac-11e4-8c28-020000005b00/oak-hills",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83e07620-86ac-11e4-8c28-020000005b00/oak-hills",
+  "checked_at": 1795663486.2768638,
+  "sha256": "3e96a3e8e5fb1d32a233b952e86dbbf689ee2dda03a63dd853fde11bc845b389",
+  "title": "Oak Hills - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "83e07620-86ac-11e4-8c28-020000005b00",
+    "name": "Oak Hills",
+    "address": "13200 S 76th Ave, Palos Heights, IL",
+    "courses": [
+      {
+        "name": "Oak Hills",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 2517,
+            "par": 34,
+            "rating": 32.8,
+            "slope": 119
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 2517,
+            "par": 33,
+            "rating": 35.1,
+            "slope": 126
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 2389,
+            "par": 34,
+            "rating": 32.2,
+            "slope": 116
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 2389,
+            "par": 33,
+            "rating": 34.3,
+            "slope": 124
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 2006,
+            "par": 34,
+            "rating": 31.2,
+            "slope": 109
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 2006,
+            "par": 33,
+            "rating": 33.1,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83e07620-86ac-11e4-8c28-020000005b00/oak-hills"
+  }
+}

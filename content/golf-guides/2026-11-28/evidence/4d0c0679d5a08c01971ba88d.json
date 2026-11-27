@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/89cdd570-8ed0-11e8-a600-0680a328ea36/woodburn-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/89cdd570-8ed0-11e8-a600-0680a328ea36/woodburn-golf-club",
+  "checked_at": 1795663463.7366474,
+  "sha256": "9cc0199a9f8459e2c7e9edd348bff7402eb4859cbb31bd179a6a967e133dca58",
+  "title": "Woodburn Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "89cdd570-8ed0-11e8-a600-0680a328ea36",
+    "name": "Woodburn Golf Club",
+    "address": "7899 Oregon 219, Woodburn, OR",
+    "courses": [
+      {
+        "name": "Woodburn Golf Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4562,
+            "par": 66,
+            "rating": 61.6,
+            "slope": 95
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4562,
+            "par": 66,
+            "rating": 65.4,
+            "slope": 99
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4342,
+            "par": 66,
+            "rating": 60.8,
+            "slope": 93
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4342,
+            "par": 66,
+            "rating": 64,
+            "slope": 96
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4342,
+            "par": 66,
+            "rating": 59.2,
+            "slope": 94
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4342,
+            "par": 66,
+            "rating": 61.6,
+            "slope": 88
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/89cdd570-8ed0-11e8-a600-0680a328ea36/woodburn-golf-club"
+  }
+}

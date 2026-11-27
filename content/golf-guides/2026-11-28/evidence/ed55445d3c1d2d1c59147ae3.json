@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ee42210-86ac-11e4-8c28-020000005b00/casselberry-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ee42210-86ac-11e4-8c28-020000005b00/casselberry-golf-club",
+  "checked_at": 1795686460.9376273,
+  "sha256": "b3ddb2fe3bb605517564e9a4bc28911ff9c2d99e9fe8c88b9bf9dc695ca2535b",
+  "title": "Casselberry Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8ee42210-86ac-11e4-8c28-020000005b00",
+    "name": "Casselberry Golf Club",
+    "address": "300 S Triplet Lake Dr, Casselberry, FL",
+    "courses": [
+      {
+        "name": "Casselberry",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 5165,
+            "par": 69,
+            "rating": 65.4,
+            "slope": 119
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 5165,
+            "par": 69,
+            "rating": 69.4,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4795,
+            "par": 69,
+            "rating": 63.8,
+            "slope": 115
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4795,
+            "par": 69,
+            "rating": 67.4,
+            "slope": 121
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 3930,
+            "par": 69,
+            "rating": 62.8,
+            "slope": 107
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 3930,
+            "par": 69,
+            "rating": 63.1,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ee42210-86ac-11e4-8c28-020000005b00/casselberry-golf-club"
+  }
+}

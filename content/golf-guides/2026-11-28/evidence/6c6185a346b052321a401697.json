@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae984870-86ac-11e4-8c28-020000005b00/possum-trot-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae984870-86ac-11e4-8c28-020000005b00/possum-trot-golf-club",
+  "checked_at": 1795663498.7426043,
+  "sha256": "22158c35738f034f7194f2ed55affb60aac318e865fbd8b4567e45a6c7aca5fa",
+  "title": "(CLOSED)Possum Trot Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "ae984870-86ac-11e4-8c28-020000005b00",
+    "name": "(CLOSED)Possum Trot Golf Club",
+    "address": "1170 Possum Trot Road",
+    "courses": [
+      {
+        "name": "Possum Trot",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6966,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6343,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5505,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5153,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae984870-86ac-11e4-8c28-020000005b00/possum-trot-golf-club"
+  }
+}

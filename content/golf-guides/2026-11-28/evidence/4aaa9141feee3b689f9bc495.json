@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af178a90-86ac-11e4-8c28-020000005b00/willow-creek-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af178a90-86ac-11e4-8c28-020000005b00/willow-creek-golf-club",
+  "checked_at": 1795694324.1398246,
+  "sha256": "f5dcdb65b1c07a7a0e1209b5ab9ce3e047e0e9b340d998dbba27d366bc96d600",
+  "title": "Willow Creek Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af178a90-86ac-11e4-8c28-020000005b00",
+    "name": "Willow Creek Golf Club",
+    "address": "12003 Kingston Pike, Knoxville, TN",
+    "courses": [
+      {
+        "name": "Willow Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7211,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6889,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6362,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 127
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5894,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5426,
+            "par": 72,
+            "rating": 66,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af178a90-86ac-11e4-8c28-020000005b00/willow-creek-golf-club"
+  }
+}

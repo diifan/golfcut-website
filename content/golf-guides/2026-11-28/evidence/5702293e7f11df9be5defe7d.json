@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c8f3590-86ac-11e4-8c28-020000005b00/hillsboro-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c8f3590-86ac-11e4-8c28-020000005b00/hillsboro-country-club",
+  "checked_at": 1795694433.7584448,
+  "sha256": "88f277f6464e2ef4fb5c743ff11d97c758107ba55553fd3a27697942c8cf7052",
+  "title": "Hillsboro Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8c8f3590-86ac-11e4-8c28-020000005b00",
+    "name": "Hillsboro Country Club",
+    "address": "600 Country Club Dr, Hillsboro, TX",
+    "courses": [
+      {
+        "name": "Hillsboro (18 Holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6178,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 114
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6178,
+            "par": 74,
+            "rating": 74.8,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5692,
+            "par": 72,
+            "rating": 64.8,
+            "slope": 95
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5692,
+            "par": 74,
+            "rating": 68.4,
+            "slope": 122
+          }
+        ]
+      },
+      {
+        "name": "Hillsboro (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3089,
+            "par": 36,
+            "rating": 34.1,
+            "slope": 114
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3089,
+            "par": 37,
+            "rating": 37.4,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2846,
+            "par": 36,
+            "rating": 32.4,
+            "slope": 95
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2846,
+            "par": 37,
+            "rating": 34.2,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c8f3590-86ac-11e4-8c28-020000005b00/hillsboro-country-club"
+  }
+}

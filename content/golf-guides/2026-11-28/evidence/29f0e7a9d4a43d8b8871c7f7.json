@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b12498a0-86ac-11e4-8c28-020000005b00/bogalusa",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b12498a0-86ac-11e4-8c28-020000005b00/bogalusa",
+  "checked_at": 1795700509.7902126,
+  "sha256": "4deadbc6d63c84f0b7b1bd1413689d5d3c9df00557772eff616ff33496e4d8a4",
+  "title": "Bogalusa Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "b12498a0-86ac-11e4-8c28-020000005b00",
+    "name": "Bogalusa Country Club",
+    "address": "420 N Columbia St, Bogalusa",
+    "courses": [
+      {
+        "name": "Bogalusa",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5314,
+            "par": 70,
+            "rating": 65.5,
+            "slope": 111
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5314,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5052,
+            "par": 70,
+            "rating": 70.2,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5052,
+            "par": 70,
+            "rating": 70.2,
+            "slope": 113
+          }
+        ]
+      },
+      {
+        "name": "Bogalusa 9 Hole",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2657,
+            "par": 35,
+            "rating": 32.8,
+            "slope": 111
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2657,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2526,
+            "par": 35,
+            "rating": 35.1,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2526,
+            "par": 35,
+            "rating": 35.1,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b12498a0-86ac-11e4-8c28-020000005b00/bogalusa"
+  }
+}

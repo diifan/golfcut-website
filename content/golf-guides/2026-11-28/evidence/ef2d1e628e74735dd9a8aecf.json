@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6954410-86ac-11e4-8c28-020000005b00/lewiston-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6954410-86ac-11e4-8c28-020000005b00/lewiston-golf-country-club",
+  "checked_at": 1795698031.4796534,
+  "sha256": "f125d4636c0f14fed50ce5434e18723cfdb4380ad197d37c9eff941ce0202cc6",
+  "title": "Lewiston Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6954410-86ac-11e4-8c28-020000005b00",
+    "name": "Lewiston Golf & Country Club",
+    "address": "3985 Country Club Dr",
+    "courses": [
+      {
+        "name": "Lewiston",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6591,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 131
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6327,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 129
+          },
+          {
+            "name": "Brick",
+            "category": "MALE",
+            "yards": 5756,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5422,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6954410-86ac-11e4-8c28-020000005b00/lewiston-golf-country-club"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afe00ab0-86ac-11e4-8c28-020000005b00/lake-gaston-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afe00ab0-86ac-11e4-8c28-020000005b00/lake-gaston-golf-club",
+  "checked_at": 1795661647.5865707,
+  "sha256": "1d2b53ecc639ebf14ce5337ad035492d7f65e91a4b257421edb7b07e9fb17824",
+  "title": "Lake Gaston Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "afe00ab0-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Gaston Golf Club",
+    "address": "890 Baird Road, Gasburg, VA",
+    "courses": [
+      {
+        "name": "Lake Gaston",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5891,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 108
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5587,
+            "par": 72,
+            "rating": 66,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4666,
+            "par": 72,
+            "rating": 61.7,
+            "slope": 96
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afe00ab0-86ac-11e4-8c28-020000005b00/lake-gaston-golf-club"
+  }
+}

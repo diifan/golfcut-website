@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/97f1a350-86ac-11e4-8c28-020000005b00/lakewood-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/97f1a350-86ac-11e4-8c28-020000005b00/lakewood-country-club",
+  "checked_at": 1795661664.0466602,
+  "sha256": "d807f9aa1b544ead6b844dd17e9dc062e951a636d43e42334bba89f19a7a54f0",
+  "title": "Lakewood Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "97f1a350-86ac-11e4-8c28-020000005b00",
+    "name": "Lakewood Country Club",
+    "address": "145 Country Club Drive, Lakewood, NJ",
+    "courses": [
+      {
+        "name": "Lakewood CC",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6541,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 129
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6541,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5929,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 125
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5929,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5258,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 122
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5258,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/97f1a350-86ac-11e4-8c28-020000005b00/lakewood-country-club"
+  }
+}

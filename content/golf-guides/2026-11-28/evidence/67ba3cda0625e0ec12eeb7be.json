@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b987f730-86ac-11e4-8c28-020000005b00/moila-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b987f730-86ac-11e4-8c28-020000005b00/moila-country-club",
+  "checked_at": 1795663467.8424203,
+  "sha256": "a9e1c13161bf1875738a3eb1d77e51c11eb5b959248a27b56f5856e062e2d466",
+  "title": "Moila Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b987f730-86ac-11e4-8c28-020000005b00",
+    "name": "Moila Country Club",
+    "address": "701 N Noyes Blvd, Saint Joseph, MO",
+    "courses": [
+      {
+        "name": "Moila",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6148,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6148,
+            "par": 74,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5883,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5883,
+            "par": 74,
+            "rating": 75.1,
+            "slope": 129
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5149,
+            "par": 71,
+            "rating": 64.3,
+            "slope": 106
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5149,
+            "par": 74,
+            "rating": 64.3,
+            "slope": 119
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 3771,
+            "par": 71,
+            "rating": 72.1,
+            "slope": 117
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 3771,
+            "par": 74,
+            "rating": 63.1,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b987f730-86ac-11e4-8c28-020000005b00/moila-country-club"
+  }
+}

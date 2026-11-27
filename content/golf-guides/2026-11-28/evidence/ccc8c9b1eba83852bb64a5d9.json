@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8b786e60-86ac-11e4-8c28-020000005b00/john-pitman-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8b786e60-86ac-11e4-8c28-020000005b00/john-pitman-golf-club",
+  "checked_at": 1795523759.8646317,
+  "sha256": "4fca51a5f1ec4aab3949cef9458c367049c9eb59ae24f61f0d77b0abc4d332a6",
+  "title": "John Pitman Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8b786e60-86ac-11e4-8c28-020000005b00",
+    "name": "John Pitman Golf Club",
+    "address": "400 S Main St, Hereford, TX",
+    "courses": [
+      {
+        "name": "Pitman Municipal",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 6622,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6217,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 120
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5617,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5096,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8b786e60-86ac-11e4-8c28-020000005b00/john-pitman-golf-club"
+  }
+}

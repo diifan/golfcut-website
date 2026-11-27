@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/956af870-86ac-11e4-8c28-020000005b00/holyoke-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/956af870-86ac-11e4-8c28-020000005b00/holyoke-country-club",
+  "checked_at": 1795668294.6432643,
+  "sha256": "f311827b2d69403c968a2debc8bbca1464d83940dad653164c0797b7b1213dd1",
+  "title": "Holyoke Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "956af870-86ac-11e4-8c28-020000005b00",
+    "name": "Holyoke Country Club",
+    "address": "Route 5 Smiths Ferry Rd",
+    "courses": [
+      {
+        "name": "Holyoke",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3070,
+            "par": 36,
+            "rating": 34.4,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3070,
+            "par": 37,
+            "rating": 37.3,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2680,
+            "par": 36,
+            "rating": 34.7,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2680,
+            "par": 37,
+            "rating": 34.7,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/956af870-86ac-11e4-8c28-020000005b00/holyoke-country-club"
+  }
+}

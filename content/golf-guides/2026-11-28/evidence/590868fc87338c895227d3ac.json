@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad3c8900-86ac-11e4-8c28-020000005b00/mon-valley-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad3c8900-86ac-11e4-8c28-020000005b00/mon-valley-country-club",
+  "checked_at": 1795694151.3564823,
+  "sha256": "77b91d5aa004af770399145cf4834704b1722f5c65afa620e41d0980703b63a3",
+  "title": "Mon Valley Country Club​ - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ad3c8900-86ac-11e4-8c28-020000005b00",
+    "name": "Mon Valley Country Club​",
+    "address": "1188 Country Club Rd",
+    "courses": [
+      {
+        "name": "Monongahela Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Men",
+            "category": "MALE",
+            "yards": 6102,
+            "par": 72,
+            "rating": 70,
+            "slope": 128
+          },
+          {
+            "name": "Men",
+            "category": "FEMALE",
+            "yards": 6102,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 131
+          },
+          {
+            "name": "Senior",
+            "category": "MALE",
+            "yards": 5764,
+            "par": 72,
+            "rating": 68,
+            "slope": 135
+          },
+          {
+            "name": "Senior",
+            "category": "FEMALE",
+            "yards": 5764,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 127
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 5271,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 118
+          },
+          {
+            "name": "Ladies",
+            "category": "FEMALE",
+            "yards": 5271,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad3c8900-86ac-11e4-8c28-020000005b00/mon-valley-country-club"
+  }
+}

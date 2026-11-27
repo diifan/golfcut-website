@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4d21040-86ac-11e4-8c28-020000005b00/la-grande-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4d21040-86ac-11e4-8c28-020000005b00/la-grande-country-club",
+  "checked_at": 1795694449.8432148,
+  "sha256": "55e6211539731216fcf9ce4b1fd0f6b499c5bc783e711e871f57156776b6f0fe",
+  "title": "La Grande Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b4d21040-86ac-11e4-8c28-020000005b00",
+    "name": "La Grande Country Club",
+    "address": "10605 S McAllister Rd",
+    "courses": [
+      {
+        "name": "La Grande(9 holes )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3267,
+            "par": 36,
+            "rating": 35.7,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3267,
+            "par": 38,
+            "rating": 38.3,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2858,
+            "par": 36,
+            "rating": 32.2,
+            "slope": 104
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2858,
+            "par": 38,
+            "rating": 33.7,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4d21040-86ac-11e4-8c28-020000005b00/la-grande-country-club"
+  }
+}

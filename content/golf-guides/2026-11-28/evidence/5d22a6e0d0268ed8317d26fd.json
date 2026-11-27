@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/aed30780-86ac-11e4-8c28-020000005b00/southern-hills-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/aed30780-86ac-11e4-8c28-020000005b00/southern-hills-golf-course",
+  "checked_at": 1795524303.4659169,
+  "sha256": "d10db5cb361ca7b2fb4010bca94452be13c03d4921119b0188033ae5a0b31e3a",
+  "title": "Southern Hills Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "aed30780-86ac-11e4-8c28-020000005b00",
+    "name": "Southern Hills Golf Course",
+    "address": "1500 National Ave, Hot Springs, SD",
+    "courses": [
+      {
+        "name": "Southern Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5905,
+            "par": 70,
+            "rating": 70.4,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5571,
+            "par": 70,
+            "rating": 68.9,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4575,
+            "par": 70,
+            "rating": 65.8,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/aed30780-86ac-11e4-8c28-020000005b00/southern-hills-golf-course"
+  }
+}

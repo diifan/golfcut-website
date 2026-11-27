@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b7f3e9b0-86ac-11e4-8c28-020000005b00/mc-pherson-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b7f3e9b0-86ac-11e4-8c28-020000005b00/mc-pherson-country-club",
+  "checked_at": 1795687656.191326,
+  "sha256": "73103bcbed8dfaa0a7842cca799d03adc8ee7aee8f9b67dc762d3c6a86aa4069",
+  "title": "McPherson Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b7f3e9b0-86ac-11e4-8c28-020000005b00",
+    "name": "McPherson Country Club",
+    "address": "1396 Pioneer Rd",
+    "courses": [
+      {
+        "name": "McPherson",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Mens",
+            "category": "MALE",
+            "yards": 2911,
+            "par": 35,
+            "rating": 34.6,
+            "slope": 131
+          },
+          {
+            "name": "Mens",
+            "category": "FEMALE",
+            "yards": 2911,
+            "par": 35,
+            "rating": 36.4,
+            "slope": 123
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 2455,
+            "par": 35,
+            "rating": 33.6,
+            "slope": 108
+          },
+          {
+            "name": "Ladies",
+            "category": "FEMALE",
+            "yards": 2455,
+            "par": 35,
+            "rating": 34,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b7f3e9b0-86ac-11e4-8c28-020000005b00/mc-pherson-country-club"
+  }
+}

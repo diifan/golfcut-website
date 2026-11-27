@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b76d2d80-86ac-11e4-8c28-020000005b00/landsmeer-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b76d2d80-86ac-11e4-8c28-020000005b00/landsmeer-golf-club",
+  "checked_at": 1795663468.7629228,
+  "sha256": "3bdb03d61103cdbbdd36e36c7af7dd0af22ca04d7beccc6a7b1a59399a57b908",
+  "title": "Landsmeer Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b76d2d80-86ac-11e4-8c28-020000005b00",
+    "name": "Landsmeer Golf Club",
+    "address": "902 7th St NE, Orange City, IA",
+    "courses": [
+      {
+        "name": "Landsmeer",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Navy",
+            "category": "MALE",
+            "yards": 6411,
+            "par": 71,
+            "rating": 70.5,
+            "slope": 117
+          },
+          {
+            "name": "Oak",
+            "category": "MALE",
+            "yards": 6008,
+            "par": 71,
+            "rating": 68.5,
+            "slope": 114
+          },
+          {
+            "name": "Wine",
+            "category": "MALE",
+            "yards": 5252,
+            "par": 71,
+            "rating": 65.2,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b76d2d80-86ac-11e4-8c28-020000005b00/landsmeer-golf-club"
+  }
+}

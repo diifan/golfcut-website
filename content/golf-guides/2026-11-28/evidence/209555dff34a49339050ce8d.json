@@ -1,0 +1,285 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/39ededb0-70c2-11e7-bda1-0680a328ea36/willow-creek-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/39ededb0-70c2-11e7-bda1-0680a328ea36/willow-creek-golf-club",
+  "checked_at": 1795661661.5233471,
+  "sha256": "d298b3a1b0d5ce0c91226e18c46649d80397d8a75fc66a4fc69c3823e49725be",
+  "title": "Willow Creek Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "39ededb0-70c2-11e7-bda1-0680a328ea36",
+    "name": "Willow Creek Golf Club",
+    "address": "140 Willow Creek Dr, West Des Moines, IA",
+    "courses": [
+      {
+        "name": "White to Red",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6190,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6190,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5846,
+            "par": 71,
+            "rating": 67.5,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5846,
+            "par": 72,
+            "rating": 73,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5237,
+            "par": 71,
+            "rating": 64.5,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5237,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 111
+          }
+        ]
+      },
+      {
+        "name": "White to Blue",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5385,
+            "par": 68,
+            "rating": 65.5,
+            "slope": 111
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5385,
+            "par": 69,
+            "rating": 70.5,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5075,
+            "par": 68,
+            "rating": 64.1,
+            "slope": 108
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5075,
+            "par": 69,
+            "rating": 68.9,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4625,
+            "par": 68,
+            "rating": 62.2,
+            "slope": 100
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4625,
+            "par": 69,
+            "rating": 66,
+            "slope": 105
+          }
+        ]
+      },
+      {
+        "name": "White 9 holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2947,
+            "par": 35,
+            "rating": 31.5,
+            "slope": 101
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2947,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2767,
+            "par": 35,
+            "rating": 31,
+            "slope": 100
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2767,
+            "par": 36,
+            "rating": 32.9,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2505,
+            "par": 35,
+            "rating": 30.4,
+            "slope": 96
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2505,
+            "par": 36,
+            "rating": 31.8,
+            "slope": 100
+          }
+        ]
+      },
+      {
+        "name": "Blue 9 holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2438,
+            "par": 33,
+            "rating": 31.5,
+            "slope": 101
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2438,
+            "par": 33,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2308,
+            "par": 33,
+            "rating": 31,
+            "slope": 100
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2308,
+            "par": 33,
+            "rating": 32.9,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2120,
+            "par": 33,
+            "rating": 30.4,
+            "slope": 96
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2120,
+            "par": 33,
+            "rating": 31.8,
+            "slope": 100
+          }
+        ]
+      },
+      {
+        "name": "Red 9 holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3243,
+            "par": 36,
+            "rating": 35.2,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3243,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3079,
+            "par": 36,
+            "rating": 34.4,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3079,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2732,
+            "par": 36,
+            "rating": 32.7,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2732,
+            "par": 36,
+            "rating": 35.3,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/39ededb0-70c2-11e7-bda1-0680a328ea36/willow-creek-golf-club"
+  }
+}

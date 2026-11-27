@@ -1,0 +1,369 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4614d10-86ac-11e4-8c28-020000005b00/indian-creek",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4614d10-86ac-11e4-8c28-020000005b00/indian-creek",
+  "checked_at": 1795664722.4992938,
+  "sha256": "1300f62c390d25ad66d5a51b739900ee8d0ffd6a8a5abf20ef3ac989ee7b2a0f",
+  "title": "Indian Creek - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b4614d10-86ac-11e4-8c28-020000005b00",
+    "name": "Indian Creek",
+    "address": "3825 N 202nd S, Elkhorn NE",
+    "courses": [
+      {
+        "name": "Blackbird / Gray Hawk",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Champion",
+            "category": "MALE",
+            "yards": 7569,
+            "par": 72,
+            "rating": 76.7,
+            "slope": 150
+          },
+          {
+            "name": "Champion",
+            "category": "FEMALE",
+            "yards": 7569,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Champ/Back",
+            "category": "MALE",
+            "yards": 6997,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 143
+          },
+          {
+            "name": "Champ/Back",
+            "category": "FEMALE",
+            "yards": 6997,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6717,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 140
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6717,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Middle/Back",
+            "category": "MALE",
+            "yards": 6377,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 135
+          },
+          {
+            "name": "Middle/Back",
+            "category": "FEMALE",
+            "yards": 6377,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6076,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 131
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6076,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 138
+          },
+          {
+            "name": "Forward/Middle",
+            "category": "MALE",
+            "yards": 5640,
+            "par": 72,
+            "rating": 68,
+            "slope": 127
+          },
+          {
+            "name": "Forward/Middle",
+            "category": "FEMALE",
+            "yards": 5640,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 129
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5234,
+            "par": 72,
+            "rating": 66,
+            "slope": 122
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5234,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 118
+          }
+        ]
+      },
+      {
+        "name": "Gray Hawk / Red Feather",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Champion",
+            "category": "MALE",
+            "yards": 7316,
+            "par": 72,
+            "rating": 76,
+            "slope": 143
+          },
+          {
+            "name": "Champion",
+            "category": "FEMALE",
+            "yards": 7316,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Champ/Back",
+            "category": "MALE",
+            "yards": 6881,
+            "par": 72,
+            "rating": 74,
+            "slope": 137
+          },
+          {
+            "name": "Champ/Back",
+            "category": "FEMALE",
+            "yards": 6881,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6557,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 134
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6557,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Middle/Back",
+            "category": "MALE",
+            "yards": 6297,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 135
+          },
+          {
+            "name": "Middle/Back",
+            "category": "FEMALE",
+            "yards": 6297,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5974,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 134
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5974,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 138
+          },
+          {
+            "name": "Forward/Middle",
+            "category": "MALE",
+            "yards": 5626,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 129
+          },
+          {
+            "name": "Forward/Middle",
+            "category": "FEMALE",
+            "yards": 5626,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 127
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5208,
+            "par": 72,
+            "rating": 66,
+            "slope": 124
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5208,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 118
+          }
+        ]
+      },
+      {
+        "name": "Red Feather / Blackbird",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Champion",
+            "category": "MALE",
+            "yards": 7335,
+            "par": 72,
+            "rating": 76.3,
+            "slope": 142
+          },
+          {
+            "name": "Champion",
+            "category": "FEMALE",
+            "yards": 7335,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Champ/Back",
+            "category": "MALE",
+            "yards": 6974,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 139
+          },
+          {
+            "name": "Champ/Back",
+            "category": "FEMALE",
+            "yards": 6974,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6632,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 135
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6632,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Middle/Back",
+            "category": "MALE",
+            "yards": 6328,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 132
+          },
+          {
+            "name": "Middle/Back",
+            "category": "FEMALE",
+            "yards": 6328,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6054,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 128
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6054,
+            "par": 72,
+            "rating": 75.7,
+            "slope": 136
+          },
+          {
+            "name": "Forward/Middle",
+            "category": "MALE",
+            "yards": 5558,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 124
+          },
+          {
+            "name": "Forward/Middle",
+            "category": "FEMALE",
+            "yards": 5558,
+            "par": 72,
+            "rating": 73,
+            "slope": 128
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5094,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 117
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5094,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4614d10-86ac-11e4-8c28-020000005b00/indian-creek"
+  }
+}

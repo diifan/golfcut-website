@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/19c19ef0-8492-11e6-b9cf-0680a328ea36/mellen-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/19c19ef0-8492-11e6-b9cf-0680a328ea36/mellen-country-club",
+  "checked_at": 1795696846.5669968,
+  "sha256": "71bfe01a658728095474ef334aadc774003578879122bc0b0e948e8e561b8430",
+  "title": "Mellen Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "19c19ef0-8492-11e6-b9cf-0680a328ea36",
+    "name": "Mellen Country Club",
+    "address": "71824 County Trunk C, Highbridge, Wisconsin 54546, Ashland County",
+    "courses": [
+      {
+        "name": "Mellen",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3191,
+            "par": 36,
+            "rating": 36.1,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3191,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2587,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2587,
+            "par": 36,
+            "rating": 36.1,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/19c19ef0-8492-11e6-b9cf-0680a328ea36/mellen-country-club"
+  }
+}

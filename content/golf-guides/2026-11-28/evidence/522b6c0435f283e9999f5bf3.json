@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae2402d0-86ac-11e4-8c28-020000005b00/olde-eight",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae2402d0-86ac-11e4-8c28-020000005b00/olde-eight",
+  "checked_at": 1795686449.4423614,
+  "sha256": "3f77e5ce5a6139296cb075285895483a7d3acef0b0b83b5d1e40ae01a99e82ea",
+  "title": "Olde Eight - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae2402d0-86ac-11e4-8c28-020000005b00",
+    "name": "Olde Eight",
+    "address": "709 Swing About, Greenwood, SC",
+    "courses": [
+      {
+        "name": "Stoney Point",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6718,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6248,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5755,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 118
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5255,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4962,
+            "par": 72,
+            "rating": 64.3,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae2402d0-86ac-11e4-8c28-020000005b00/olde-eight"
+  }
+}

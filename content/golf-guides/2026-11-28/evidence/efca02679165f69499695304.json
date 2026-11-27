@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9813aa40-86ac-11e4-8c28-020000005b00/ocean-city-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9813aa40-86ac-11e4-8c28-020000005b00/ocean-city-municipal-golf-course",
+  "checked_at": 1795694370.0706828,
+  "sha256": "42ac9bdabf405b1c08772b64168193551ad4e10ce00c0ae9e998691d77fbb81f",
+  "title": "Ocean City Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9813aa40-86ac-11e4-8c28-020000005b00",
+    "name": "Ocean City Municipal Golf Course",
+    "address": "2600 Bay Ave, Ocean City, NJ",
+    "courses": [
+      {
+        "name": "Ocean City (18 Holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Tee",
+            "category": "MALE",
+            "yards": 2225,
+            "par": 54,
+            "rating": 56.6,
+            "slope": 95
+          },
+          {
+            "name": "Tee",
+            "category": "FEMALE",
+            "yards": 2225,
+            "par": 54,
+            "rating": 57.8,
+            "slope": 99
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9813aa40-86ac-11e4-8c28-020000005b00/ocean-city-municipal-golf-course"
+  }
+}

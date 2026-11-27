@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98f1fc50-86ac-11e4-8c28-020000005b00/fishkill-golf-course-driving-range",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98f1fc50-86ac-11e4-8c28-020000005b00/fishkill-golf-course-driving-range",
+  "checked_at": 1795694218.770813,
+  "sha256": "617e9666103c1fca63423d851fe4b0f0459a64144e99bd1892776101c9b2a868",
+  "title": "Fishkill Golf Course & Driving Range - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "98f1fc50-86ac-11e4-8c28-020000005b00",
+    "name": "Fishkill Golf Course & Driving Range",
+    "address": "387 Rte 9",
+    "courses": [
+      {
+        "name": "Fishkill",
+        "holes": 12,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2571,
+            "par": 41,
+            "rating": 41,
+            "slope": 110
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2571,
+            "par": 40,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2352,
+            "par": 41,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2352,
+            "par": 40,
+            "rating": 41,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98f1fc50-86ac-11e4-8c28-020000005b00/fishkill-golf-course-driving-range"
+  }
+}

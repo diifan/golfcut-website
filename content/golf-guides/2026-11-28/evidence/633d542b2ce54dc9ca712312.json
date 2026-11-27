@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2a19bb0-86ac-11e4-8c28-020000005b00/seifert-golf-center",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2a19bb0-86ac-11e4-8c28-020000005b00/seifert-golf-center",
+  "checked_at": 1795687598.4969008,
+  "sha256": "c59a3f9c4b8ab0c7c9d1981777eccc1928bcfe156bf1a75705db9cca420f5ed3",
+  "title": "Seifert Golf Center - Scorecards, Reviews | 18Birdies star star star star star google-play",
+  "course_profile": {
+    "id": "b2a19bb0-86ac-11e4-8c28-020000005b00",
+    "name": "Seifert Golf Center",
+    "address": "2193 W Grand Blanc Rd",
+    "courses": [
+      {
+        "name": "Seifert",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 855,
+            "par": 27,
+            "rating": 25.7067,
+            "slope": 75.7096
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 855,
+            "par": 27,
+            "rating": 25.7067,
+            "slope": 75.7096
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 855,
+            "par": 27,
+            "rating": 25.7067,
+            "slope": 75.7096
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 855,
+            "par": 27,
+            "rating": 25.7067,
+            "slope": 75.7096
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2a19bb0-86ac-11e4-8c28-020000005b00/seifert-golf-center"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/891020f0-86ac-11e4-8c28-020000005b00/del-norte-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/891020f0-86ac-11e4-8c28-020000005b00/del-norte-golf-club",
+  "checked_at": 1795685196.956681,
+  "sha256": "5c0b8c51a9af7cb5407102cf2684ad414c8a99dd7173a45c3ee7306dfc130408",
+  "title": "Del Norte Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "891020f0-86ac-11e4-8c28-020000005b00",
+    "name": "Del Norte Golf Club",
+    "address": "130 Club Dr",
+    "courses": [
+      {
+        "name": "Del Norte",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6242,
+            "par": 70,
+            "rating": 68.8,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6242,
+            "par": 70,
+            "rating": 75.8,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5992,
+            "par": 70,
+            "rating": 66.5,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5992,
+            "par": 70,
+            "rating": 71.9,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/891020f0-86ac-11e4-8c28-020000005b00/del-norte-golf-club"
+  }
+}

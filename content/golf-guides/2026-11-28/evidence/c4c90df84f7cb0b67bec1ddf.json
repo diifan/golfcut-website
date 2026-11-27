@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/4727ca90-f705-11ec-b706-06780482e2ce/oneida-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/4727ca90-f705-11ec-b706-06780482e2ce/oneida-municipal-golf-course",
+  "checked_at": 1795696859.5206914,
+  "sha256": "9ce9e8b82809175fcd2aaf384d7ffd540d6675b49bb0e1e0fdfe8e23d25271db",
+  "title": "Oneida Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "4727ca90-f705-11ec-b706-06780482e2ce",
+    "name": "Oneida Municipal Golf Course",
+    "address": "1180 S Lake Dr, Oneida, TN",
+    "courses": [
+      {
+        "name": "Oneida Municipal Golf Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3081,
+            "par": 36,
+            "rating": 36.5,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3081,
+            "par": 36,
+            "rating": 37.3,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2430,
+            "par": 36,
+            "rating": 33.5,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2430,
+            "par": 36,
+            "rating": 33.9,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/4727ca90-f705-11ec-b706-06780482e2ce/oneida-municipal-golf-course"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9eaa57e0-0201-11ed-89c0-06780482e2ce/wabaunsee-pines-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9eaa57e0-0201-11ed-89c0-06780482e2ce/wabaunsee-pines-golf-course",
+  "checked_at": 1795697964.2237766,
+  "sha256": "954ead31fd9fe24a834a54edf1900a6014d77ecf964a41c633d3239ca6743a1e",
+  "title": "Wabaunsee Pines Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9eaa57e0-0201-11ed-89c0-06780482e2ce",
+    "name": "Wabaunsee Pines Golf Course",
+    "address": "471 W Flint Hills Dr, Alma, KS",
+    "courses": [
+      {
+        "name": "Wabaunsee Pines Golf Course (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2455,
+            "par": 33,
+            "rating": 31.8,
+            "slope": 103
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2455,
+            "par": 33,
+            "rating": 34,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2117,
+            "par": 33,
+            "rating": 32.1,
+            "slope": 102
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2117,
+            "par": 33,
+            "rating": 31.1,
+            "slope": 95
+          }
+        ]
+      },
+      {
+        "name": "Wabaunsee Pines Golf Course (18 Holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4910,
+            "par": 66,
+            "rating": 63.6,
+            "slope": 103
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4910,
+            "par": 66,
+            "rating": 68,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4234,
+            "par": 66,
+            "rating": 64.2,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4234,
+            "par": 66,
+            "rating": 62.2,
+            "slope": 95
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9eaa57e0-0201-11ed-89c0-06780482e2ce/wabaunsee-pines-golf-course"
+  }
+}

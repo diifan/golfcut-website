@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/6eb57960-2976-11ed-8188-06780482e2ce/twin-lakes-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/6eb57960-2976-11ed-8188-06780482e2ce/twin-lakes-golf-club",
+  "checked_at": 1795697924.2953687,
+  "sha256": "7c0d90d3c54f25b144941c08e331968bbf4e02ea662cb5fe7b6b7705c1d9e3b1",
+  "title": "Twin Lakes Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "6eb57960-2976-11ed-8188-06780482e2ce",
+    "name": "Twin Lakes Golf Club",
+    "address": "400 W 59th Street, Westmont, IL",
+    "courses": [
+      {
+        "name": "Twin Lakes Golf Club",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1381,
+            "par": 28,
+            "rating": 28.09474,
+            "slope": 85.34592
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1381,
+            "par": 30,
+            "rating": 28.09474,
+            "slope": 85.34592
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1261,
+            "par": 28,
+            "rating": 27.54994,
+            "slope": 83.14752
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1261,
+            "par": 30,
+            "rating": 27.54994,
+            "slope": 83.14752
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/6eb57960-2976-11ed-8188-06780482e2ce/twin-lakes-golf-club"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9e866b0-86ac-11e4-8c28-020000005b00/newport-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9e866b0-86ac-11e4-8c28-020000005b00/newport-golf-club",
+  "checked_at": 1795661451.2126474,
+  "sha256": "0bf30fc661b6f58d500f22c91051ef46957faa9da22252480ffb50ce615fc4f0",
+  "title": "Newport Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b9e866b0-86ac-11e4-8c28-020000005b00",
+    "name": "Newport Golf Club",
+    "address": "112 Unity Rd, Newport NH",
+    "courses": [
+      {
+        "name": "Newport",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6415,
+            "par": 71,
+            "rating": 71.9,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6415,
+            "par": 71,
+            "rating": 76,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6005,
+            "par": 71,
+            "rating": 70,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6005,
+            "par": 71,
+            "rating": 73.9,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4816,
+            "par": 71,
+            "rating": 63.3,
+            "slope": 105
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4816,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9e866b0-86ac-11e4-8c28-020000005b00/newport-golf-club"
+  }
+}

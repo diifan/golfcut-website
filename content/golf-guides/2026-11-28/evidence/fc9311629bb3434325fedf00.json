@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7859ddc0-20a9-11ec-be7e-06780482e2ce/wood-river-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7859ddc0-20a9-11ec-be7e-06780482e2ce/wood-river-golf-course",
+  "checked_at": 1795668313.0526087,
+  "sha256": "c95e9241b20c873ab73915f2c18df45c7d7f30b0b37e98974416398740bd24b5",
+  "title": "Wood River Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "7859ddc0-20a9-11ec-be7e-06780482e2ce",
+    "name": "Wood River Golf Course",
+    "address": "78 A Woodville Alton Rd, Hope Valley, Rhode Island",
+    "courses": [
+      {
+        "name": "Wood River",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5349,
+            "par": 69,
+            "rating": 65.3,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5349,
+            "par": 69,
+            "rating": 70.3,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4438,
+            "par": 69,
+            "rating": 65.1,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4438,
+            "par": 69,
+            "rating": 65.9,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7859ddc0-20a9-11ec-be7e-06780482e2ce/wood-river-golf-course"
+  }
+}

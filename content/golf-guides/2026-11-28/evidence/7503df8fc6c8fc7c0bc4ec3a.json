@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/936ba600-86ac-11e4-8c28-020000005b00/folkston",
+  "resolved_url": "https://18birdies.com/golf-courses/club/936ba600-86ac-11e4-8c28-020000005b00/folkston",
+  "checked_at": 1795688823.9785264,
+  "sha256": "1937c1c8d7912568c08cd24f2d20a16768354718fd2a15db68f840ca1363d43f",
+  "title": "Folkston - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "936ba600-86ac-11e4-8c28-020000005b00",
+    "name": "Folkston",
+    "address": "202 Country Club Rd., Folkston, GA",
+    "courses": [
+      {
+        "name": "Folkston",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6406,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5720,
+            "par": 72,
+            "rating": 66.9,
+            "slope": 108
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5074,
+            "par": 72,
+            "rating": 63.2,
+            "slope": 100
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4945,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/936ba600-86ac-11e4-8c28-020000005b00/folkston"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b835fbc0-86ac-11e4-8c28-020000005b00/belleville-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b835fbc0-86ac-11e4-8c28-020000005b00/belleville-country-club",
+  "checked_at": 1795697980.4680197,
+  "sha256": "92f4fc8ef335a46e7044403ac48a376dfc105c1e5b9867c1ff49ffeff19fb8f2",
+  "title": "Belleville Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b835fbc0-86ac-11e4-8c28-020000005b00",
+    "name": "Belleville Country Club",
+    "address": "2208 Country Club Dr, Belleville, KS",
+    "courses": [
+      {
+        "name": "Belleville Country Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 6225,
+            "par": 71,
+            "rating": 73.3,
+            "slope": 126
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 6225,
+            "par": 72,
+            "rating": 75,
+            "slope": 132
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "MALE",
+            "yards": 5773,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 122
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "FEMALE",
+            "yards": 5773,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b835fbc0-86ac-11e4-8c28-020000005b00/belleville-country-club"
+  }
+}

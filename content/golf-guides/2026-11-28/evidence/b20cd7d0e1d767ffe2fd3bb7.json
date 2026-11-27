@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/90b44e30-86ac-11e4-8c28-020000005b00/lake-bess-golf-club-inc",
+  "resolved_url": "https://18birdies.com/golf-courses/club/90b44e30-86ac-11e4-8c28-020000005b00/lake-bess-golf-club-inc",
+  "checked_at": 1795686420.6943624,
+  "sha256": "bdeecae90fdbf3ee4009640bd6fcccfd9425dc438c70c347fa09f96e8646eba3",
+  "title": "Lake Bess Golf Club, Inc. - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "90b44e30-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Bess Golf Club, Inc.",
+    "address": "218 Golf Aire Blvd, Winter Haven, FL",
+    "courses": [
+      {
+        "name": "Lake Bess (9 holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2217,
+            "par": 35,
+            "rating": 32.6,
+            "slope": 104
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2217,
+            "par": 35,
+            "rating": 32.7,
+            "slope": 110
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2080,
+            "par": 35,
+            "rating": 31.9,
+            "slope": 101
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2080,
+            "par": 35,
+            "rating": 32,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1760,
+            "par": 35,
+            "rating": 30.5,
+            "slope": 95
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1760,
+            "par": 35,
+            "rating": 30.3,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/90b44e30-86ac-11e4-8c28-020000005b00/lake-bess-golf-club-inc"
+  }
+}

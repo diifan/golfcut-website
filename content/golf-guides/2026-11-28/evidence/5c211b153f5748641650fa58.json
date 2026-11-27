@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/998fea00-86ac-11e4-8c28-020000005b00/scenic-farms-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/998fea00-86ac-11e4-8c28-020000005b00/scenic-farms-golf-course",
+  "checked_at": 1795663444.9071114,
+  "sha256": "0a74d52f32f37811d28754bc388bfb9a3c2632e9a7099358348e84caa2bcf980",
+  "title": "Scenic Farms Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "998fea00-86ac-11e4-8c28-020000005b00",
+    "name": "Scenic Farms Golf Course",
+    "address": "525 Glenwood Rd",
+    "courses": [
+      {
+        "name": "Scenic Farms(9 holes )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3046,
+            "par": 58,
+            "rating": 58.8,
+            "slope": 100
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2656,
+            "par": 58,
+            "rating": 54.57884,
+            "slope": 81.82484
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/998fea00-86ac-11e4-8c28-020000005b00/scenic-farms-golf-course"
+  }
+}

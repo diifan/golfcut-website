@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/948be310-86ac-11e4-8c28-020000005b00/scottsville",
+  "resolved_url": "https://18birdies.com/golf-courses/club/948be310-86ac-11e4-8c28-020000005b00/scottsville",
+  "checked_at": 1795661674.6609042,
+  "sha256": "cf0c6097a8c32661387fb6ed025523a78375c9ca947b61666e4f43d230a4cf3e",
+  "title": "Scottsville - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "948be310-86ac-11e4-8c28-020000005b00",
+    "name": "Scottsville",
+    "address": "51 John Kelly Dr., Scottsville, KY",
+    "courses": [
+      {
+        "name": "9 Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2659,
+            "par": 35,
+            "rating": 32.4,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2659,
+            "par": 35,
+            "rating": 35.1,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2576,
+            "par": 35,
+            "rating": 34.2,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2576,
+            "par": 35,
+            "rating": 33.9,
+            "slope": 118
+          }
+        ]
+      },
+      {
+        "name": "18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5318,
+            "par": 70,
+            "rating": 64.8,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5318,
+            "par": 70,
+            "rating": 70.2,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5152,
+            "par": 70,
+            "rating": 68.4,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5152,
+            "par": 70,
+            "rating": 67.8,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/948be310-86ac-11e4-8c28-020000005b00/scottsville"
+  }
+}

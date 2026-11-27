@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a704d30-86ac-11e4-8c28-020000005b00/casserly",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a704d30-86ac-11e4-8c28-020000005b00/casserly",
+  "checked_at": 1795697945.7213988,
+  "sha256": "57d2a4ec7635f2cf2dcaf594ddf409f7f565658ff1becd029af40e4e9123b372",
+  "title": "Casserly - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a704d30-86ac-11e4-8c28-020000005b00",
+    "name": "Casserly",
+    "address": "626 Casserly Rd",
+    "courses": [
+      {
+        "name": "Casserly",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2528,
+            "par": 54,
+            "rating": 54.04892,
+            "slope": 81.19892
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2528,
+            "par": 54,
+            "rating": 54.04892,
+            "slope": 81.19892
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2316,
+            "par": 54,
+            "rating": 53.17124,
+            "slope": 80.16224
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2316,
+            "par": 54,
+            "rating": 53.17124,
+            "slope": 80.16224
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a704d30-86ac-11e4-8c28-020000005b00/casserly"
+  }
+}

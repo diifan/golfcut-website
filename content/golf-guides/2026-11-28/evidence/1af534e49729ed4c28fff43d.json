@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c2a0b20-86ac-11e4-8c28-020000005b00/sinton-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c2a0b20-86ac-11e4-8c28-020000005b00/sinton-municipal-golf-course",
+  "checked_at": 1795663509.585132,
+  "sha256": "81d22b027d6fd785c762828983a0456ffe658b914fe171cdeb22150732911b05",
+  "title": "Sinton Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8c2a0b20-86ac-11e4-8c28-020000005b00",
+    "name": "Sinton Municipal Golf Course",
+    "address": "3 Miles N Hwy 181, Sinton, TX",
+    "courses": [
+      {
+        "name": "Sinton Municipal",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6572,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 6311,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5412,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c2a0b20-86ac-11e4-8c28-020000005b00/sinton-municipal-golf-course"
+  }
+}

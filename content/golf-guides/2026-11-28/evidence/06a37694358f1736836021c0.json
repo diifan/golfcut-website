@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ac9c990-86ac-11e4-8c28-020000005b00/lexington-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ac9c990-86ac-11e4-8c28-020000005b00/lexington-golf-club",
+  "checked_at": 1795661464.287918,
+  "sha256": "dab938da089f880134fc9bc1f99afc1450c2ee495b251b1a09f696ad67976f72",
+  "title": "Lexington Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9ac9c990-86ac-11e4-8c28-020000005b00",
+    "name": "Lexington Golf Club",
+    "address": "200 Country Club Blvd, Lexington, NC",
+    "courses": [
+      {
+        "name": "Lexington",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6116,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5661,
+            "par": 71,
+            "rating": 67,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4998,
+            "par": 71,
+            "rating": 64,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4357,
+            "par": 71,
+            "rating": 62.1,
+            "slope": 96
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ac9c990-86ac-11e4-8c28-020000005b00/lexington-golf-club"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3a5c540-86ac-11e4-8c28-020000005b00/birch-valley-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3a5c540-86ac-11e4-8c28-020000005b00/birch-valley-golf-course",
+  "checked_at": 1795524995.7639067,
+  "sha256": "8d496c81a912da4270d146714c6593c2fd48f2013fe50fedb84c19135be3d1a2",
+  "title": "Birch Valley Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b3a5c540-86ac-11e4-8c28-020000005b00",
+    "name": "Birch Valley Golf Course",
+    "address": "6032 North M 66",
+    "courses": [
+      {
+        "name": "Birch Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5962,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4370,
+            "par": 72,
+            "rating": 64.8,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3a5c540-86ac-11e4-8c28-020000005b00/birch-valley-golf-course"
+  }
+}

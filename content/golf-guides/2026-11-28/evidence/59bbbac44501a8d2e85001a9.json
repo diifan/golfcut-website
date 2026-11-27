@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9763e240-86ac-11e4-8c28-020000005b00/desert-willow-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9763e240-86ac-11e4-8c28-020000005b00/desert-willow-golf-course",
+  "checked_at": 1795696623.622216,
+  "sha256": "5c00614ab95554e8ee1e38892ae05ab39caa1e7c1300452b711d060232818cba",
+  "title": "Desert Willow Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9763e240-86ac-11e4-8c28-020000005b00",
+    "name": "Desert Willow Golf Course",
+    "address": "2020 W Horizon Ridge Pkwy, Henderson, NV ",
+    "courses": [
+      {
+        "name": "Desert Willow",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3811,
+            "par": 60,
+            "rating": 59.1,
+            "slope": 91
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3454,
+            "par": 60,
+            "rating": 55.6,
+            "slope": 89
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3108,
+            "par": 60,
+            "rating": 59,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9763e240-86ac-11e4-8c28-020000005b00/desert-willow-golf-course"
+  }
+}

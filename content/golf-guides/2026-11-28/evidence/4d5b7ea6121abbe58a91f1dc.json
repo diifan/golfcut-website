@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b72c2ce0-86ac-11e4-8c28-020000005b00/guttenberg-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b72c2ce0-86ac-11e4-8c28-020000005b00/guttenberg-golf-course",
+  "checked_at": 1795685278.3575344,
+  "sha256": "97c1beaf725ed2e866dc2e415322d16c9bdf544c0ad40f8d973e8da6c2333b35",
+  "title": "Guttenberg Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b72c2ce0-86ac-11e4-8c28-020000005b00",
+    "name": "Guttenberg Golf Course",
+    "address": "Hwy 52 No, Guttenberg, IA",
+    "courses": [
+      {
+        "name": "Guttenberg Community",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3187,
+            "par": 36,
+            "rating": 35.4,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3187,
+            "par": 36,
+            "rating": 35.9,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2704,
+            "par": 36,
+            "rating": 30.1,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2704,
+            "par": 36,
+            "rating": 36.6,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b72c2ce0-86ac-11e4-8c28-020000005b00/guttenberg-golf-course"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/97facb10-86ac-11e4-8c28-020000005b00/maplewood-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/97facb10-86ac-11e4-8c28-020000005b00/maplewood-country-club",
+  "checked_at": 1795524841.9229114,
+  "sha256": "00393fee779d93436da39b96ed0540d278363a22d15520a7b147a9165904b06a",
+  "title": "Maplewood Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "97facb10-86ac-11e4-8c28-020000005b00",
+    "name": "Maplewood Country Club",
+    "address": "28 Baker St., Maplewood, NJ",
+    "courses": [
+      {
+        "name": "Maplewood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6425,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 133
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6425,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 144
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6103,
+            "par": 71,
+            "rating": 68.4,
+            "slope": 130
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6103,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 141
+          },
+          {
+            "name": "Composite",
+            "category": "MALE",
+            "yards": 5664,
+            "par": 71,
+            "rating": 67.7,
+            "slope": 125
+          },
+          {
+            "name": "Composite",
+            "category": "FEMALE",
+            "yards": 5664,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 135
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5356,
+            "par": 71,
+            "rating": 69.3,
+            "slope": 119
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5356,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 133
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/97facb10-86ac-11e4-8c28-020000005b00/maplewood-country-club"
+  }
+}

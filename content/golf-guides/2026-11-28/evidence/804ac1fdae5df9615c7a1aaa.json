@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8bf9ac50-86ac-11e4-8c28-020000005b00/nocona-hills",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8bf9ac50-86ac-11e4-8c28-020000005b00/nocona-hills",
+  "checked_at": 1795686413.1158016,
+  "sha256": "4630d1c8c35276cf13313d85d38b932879e75e2dc6b700b43f63cf68cb363165",
+  "title": "Nocona Hills - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "8bf9ac50-86ac-11e4-8c28-020000005b00",
+    "name": "Nocona Hills",
+    "address": "179 Country Club Dr, Nocona, TX",
+    "courses": [
+      {
+        "name": "Nocona Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6529,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6529,
+            "par": 72,
+            "rating": 76.6,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6155,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6155,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4971,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4971,
+            "par": 72,
+            "rating": 64.1,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8bf9ac50-86ac-11e4-8c28-020000005b00/nocona-hills"
+  }
+}

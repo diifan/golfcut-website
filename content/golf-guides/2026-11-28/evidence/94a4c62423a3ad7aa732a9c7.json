@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad98b2c0-86ac-11e4-8c28-020000005b00/shenango-lake-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad98b2c0-86ac-11e4-8c28-020000005b00/shenango-lake-golf-club",
+  "checked_at": 1795661470.5070684,
+  "sha256": "fa1db9f33a531af2424735911b47eb3539652461db6f47b21ab14d76682c7c28",
+  "title": "Shenango Lake Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "ad98b2c0-86ac-11e4-8c28-020000005b00",
+    "name": "Shenango Lake Golf Club",
+    "address": "99 Birchwood Dr",
+    "courses": [
+      {
+        "name": "Shenango Lake (Birchwood )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6252,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6252,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 133
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5798,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 108
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5798,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4812,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4812,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad98b2c0-86ac-11e4-8c28-020000005b00/shenango-lake-golf-club"
+  }
+}

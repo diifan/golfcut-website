@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d92e9f0-86ac-11e4-8c28-020000005b00/pond-view-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d92e9f0-86ac-11e4-8c28-020000005b00/pond-view-golf-course",
+  "checked_at": 1795685177.6202698,
+  "sha256": "585dddcbd26c8b09c83a882d83437cfdb7bd0fe38a9655b5d176237098f3283b",
+  "title": "Pond View Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8d92e9f0-86ac-11e4-8c28-020000005b00",
+    "name": "Pond View Golf Course",
+    "address": "8550 S 300 E, Star City, IN",
+    "courses": [
+      {
+        "name": "Pond View",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6270,
+            "par": 70,
+            "rating": 69.9,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6270,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5905,
+            "par": 70,
+            "rating": 68.3,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5905,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5015,
+            "par": 70,
+            "rating": 67.8,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5015,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d92e9f0-86ac-11e4-8c28-020000005b00/pond-view-golf-course"
+  }
+}

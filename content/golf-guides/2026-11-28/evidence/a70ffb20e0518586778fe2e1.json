@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8eabfb10-86ac-11e4-8c28-020000005b00/apollo-beach-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8eabfb10-86ac-11e4-8c28-020000005b00/apollo-beach-golf-club",
+  "checked_at": 1795663449.2695403,
+  "sha256": "4d0b29ce68b814248844f3efb14f8993f131899969869bedeeb2516c674d9ecf",
+  "title": "Apollo Beach Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8eabfb10-86ac-11e4-8c28-020000005b00",
+    "name": "Apollo Beach Golf Club",
+    "address": "801 Golf & Sea Blvd, Apollo Beach, FL",
+    "courses": [
+      {
+        "name": "Apollo Beach ",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7033,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7033,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6315,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6315,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5701,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5701,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5047,
+            "par": 72,
+            "rating": 64.1,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5047,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8eabfb10-86ac-11e4-8c28-020000005b00/apollo-beach-golf-club"
+  }
+}

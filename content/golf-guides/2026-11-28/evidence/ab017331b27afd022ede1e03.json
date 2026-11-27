@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8f40c100-86ac-11e4-8c28-020000005b00/seven-lakes",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8f40c100-86ac-11e4-8c28-020000005b00/seven-lakes",
+  "checked_at": 1795583824.1301317,
+  "sha256": "55f381a8336de5c39ce358ddab2e66c6131ff6a0d08bc6398155b9cf490d5ee0",
+  "title": "Seven Lakes - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8f40c100-86ac-11e4-8c28-020000005b00",
+    "name": "Seven Lakes",
+    "address": "1965 7 Lakes Blvd, Fort Myers, FL",
+    "courses": [
+      {
+        "name": "Seven Lakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3535,
+            "par": 60,
+            "rating": 58.6,
+            "slope": 96
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3535,
+            "par": 60,
+            "rating": 60.2,
+            "slope": 99
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3115,
+            "par": 60,
+            "rating": 56,
+            "slope": 89
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3115,
+            "par": 60,
+            "rating": 57.8,
+            "slope": 94
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3002,
+            "par": 60,
+            "rating": 55.4,
+            "slope": 88
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3002,
+            "par": 60,
+            "rating": 57.4,
+            "slope": 93
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2270,
+            "par": 60,
+            "rating": 52.9808,
+            "slope": 79.9373
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2270,
+            "par": 60,
+            "rating": 52.9808,
+            "slope": 79.9373
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8f40c100-86ac-11e4-8c28-020000005b00/seven-lakes"
+  }
+}

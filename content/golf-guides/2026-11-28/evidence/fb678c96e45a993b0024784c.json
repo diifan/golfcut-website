@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/88cbc4f0-86ac-11e4-8c28-020000005b00/big-bear-mountain",
+  "resolved_url": "https://18birdies.com/golf-courses/club/88cbc4f0-86ac-11e4-8c28-020000005b00/big-bear-mountain",
+  "checked_at": 1795524899.7987945,
+  "sha256": "188af8e182b7636d27fef64699748563ac9421e808a98abf0c8d380edf43f7eb",
+  "title": "Big Bear Mountain - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "88cbc4f0-86ac-11e4-8c28-020000005b00",
+    "name": "Big Bear Mountain",
+    "address": "43100 Goldmine Dr",
+    "courses": [
+      {
+        "name": "Big Bear Mountain 9holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 2783,
+            "par": 35,
+            "rating": 33.4,
+            "slope": 113
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 2783,
+            "par": 35,
+            "rating": 36.3,
+            "slope": 127
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 2573,
+            "par": 35,
+            "rating": 33.3,
+            "slope": 109
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 2573,
+            "par": 35,
+            "rating": 35.2,
+            "slope": 122
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 2180,
+            "par": 35,
+            "rating": 30.7,
+            "slope": 100
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 2180,
+            "par": 35,
+            "rating": 33,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/88cbc4f0-86ac-11e4-8c28-020000005b00/big-bear-mountain"
+  }
+}

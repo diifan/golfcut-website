@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9cb03cd0-86ac-11e4-8c28-020000005b00/wapakoneta-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9cb03cd0-86ac-11e4-8c28-020000005b00/wapakoneta-country-club",
+  "checked_at": 1795687599.3147385,
+  "sha256": "8c0568214a5aff28506c9323751cc72f63c4f87d4a05479c907ede5219f42ea1",
+  "title": "Wapakoneta Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9cb03cd0-86ac-11e4-8c28-020000005b00",
+    "name": "Wapakoneta Country Club",
+    "address": "18781 State Route 501, Wapakoneta, OH",
+    "courses": [
+      {
+        "name": "Wapakoneta",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White - Blue",
+            "category": "MALE",
+            "yards": 6147,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 124
+          },
+          {
+            "name": "White - Blue",
+            "category": "FEMALE",
+            "yards": 6147,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 131
+          },
+          {
+            "name": "Red - Yellow",
+            "category": "MALE",
+            "yards": 5077,
+            "par": 72,
+            "rating": 68,
+            "slope": 116
+          },
+          {
+            "name": "Red - Yellow",
+            "category": "FEMALE",
+            "yards": 5077,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9cb03cd0-86ac-11e4-8c28-020000005b00/wapakoneta-country-club"
+  }
+}

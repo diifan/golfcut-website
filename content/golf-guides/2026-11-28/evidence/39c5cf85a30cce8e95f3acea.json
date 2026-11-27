@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6f676e0-86ac-11e4-8c28-020000005b00/twin-pines-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6f676e0-86ac-11e4-8c28-020000005b00/twin-pines-golf-course",
+  "checked_at": 1795661436.667341,
+  "sha256": "b20ddbc1edf992561ea440f26ecbb0378910677038f60640f9b13aab5fdc069a",
+  "title": "Twin Pines Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6f676e0-86ac-11e4-8c28-020000005b00",
+    "name": "Twin Pines Golf Course",
+    "address": "3800 42nd Street NE, Cedar Rapids, IA  52402",
+    "courses": [
+      {
+        "name": "Twin Pines",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5776,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 105
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5776,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5227,
+            "par": 72,
+            "rating": 64.3,
+            "slope": 95
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5227,
+            "par": 72,
+            "rating": 69,
+            "slope": 109
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 3416,
+            "par": 72,
+            "rating": 57,
+            "slope": 78
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 3416,
+            "par": 72,
+            "rating": 59,
+            "slope": 87
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6f676e0-86ac-11e4-8c28-020000005b00/twin-pines-golf-course"
+  }
+}

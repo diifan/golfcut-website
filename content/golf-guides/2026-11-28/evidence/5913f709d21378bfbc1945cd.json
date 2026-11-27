@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afa6ab30-86ac-11e4-8c28-020000005b00/sky-mountain",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afa6ab30-86ac-11e4-8c28-020000005b00/sky-mountain",
+  "checked_at": 1795663500.1911228,
+  "sha256": "3d9ecf54518ffc03a1157cdbe68c745a57040c1ccaec3ca92d7cb7e0678726b7",
+  "title": "Sky Mountain - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "afa6ab30-86ac-11e4-8c28-020000005b00",
+    "name": "Sky Mountain",
+    "address": "1030 N. 2600 W, Hurricane, UT",
+    "courses": [
+      {
+        "name": "Sky Mountain",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6312,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6312,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5939,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5939,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 128
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5514,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 118
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5514,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5044,
+            "par": 72,
+            "rating": 63.5,
+            "slope": 104
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5044,
+            "par": 72,
+            "rating": 67,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afa6ab30-86ac-11e4-8c28-020000005b00/sky-mountain"
+  }
+}

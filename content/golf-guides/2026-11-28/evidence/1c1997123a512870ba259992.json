@@ -1,0 +1,107 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/f8e98230-304c-11e7-941d-0680a328ea36/elmwood-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/f8e98230-304c-11e7-941d-0680a328ea36/elmwood-golf-course",
+  "checked_at": 1795524831.7651665,
+  "sha256": "8e05529742dcd95f8bcf1a77b52f9a36c34a332ddab7db6a3d95ea63eef6cea3",
+  "title": "Elmwood Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "f8e98230-304c-11e7-941d-0680a328ea36",
+    "name": "Elmwood Golf Course",
+    "address": "3900 Thatcher Avenue, Pueblo, CO",
+    "courses": [
+      {
+        "name": "18 Hole Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6624,
+            "par": 70,
+            "rating": 69.4,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6624,
+            "par": 70,
+            "rating": 77.1,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6010,
+            "par": 70,
+            "rating": 67.3,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6010,
+            "par": 70,
+            "rating": 72.9,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5343,
+            "par": 70,
+            "rating": 69.3,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5343,
+            "par": 70,
+            "rating": 69.2,
+            "slope": 117
+          }
+        ]
+      },
+      {
+        "name": "9 Hole Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2119,
+            "par": 30,
+            "rating": 32.1,
+            "slope": 102
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2119,
+            "par": 30,
+            "rating": 32.2,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1904,
+            "par": 30,
+            "rating": 31.1,
+            "slope": 98
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1904,
+            "par": 30,
+            "rating": 31.1,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/f8e98230-304c-11e7-941d-0680a328ea36/elmwood-golf-course"
+  }
+}

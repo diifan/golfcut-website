@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/93e60620-86ac-11e4-8c28-020000005b00/tunnel-hill",
+  "resolved_url": "https://18birdies.com/golf-courses/club/93e60620-86ac-11e4-8c28-020000005b00/tunnel-hill",
+  "checked_at": 1795686394.169513,
+  "sha256": "6e4d142a82a68502a7e99c5cb631a35b0aa5bd61f0ebec108460028ab9b18efb",
+  "title": "Tunnel Hill - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "93e60620-86ac-11e4-8c28-020000005b00",
+    "name": "Tunnel Hill",
+    "address": "3449 Chattanooga Road, Tunnel Hill, GA",
+    "courses": [
+      {
+        "name": "Tunnel Hill",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6800,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6800,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6160,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6160,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5360,
+            "par": 72,
+            "rating": 59.8,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5360,
+            "par": 72,
+            "rating": 59.8,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/93e60620-86ac-11e4-8c28-020000005b00/tunnel-hill"
+  }
+}

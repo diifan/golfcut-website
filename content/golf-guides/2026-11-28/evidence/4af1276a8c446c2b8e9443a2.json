@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6d7f260-86ac-11e4-8c28-020000005b00/eagle-hills",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6d7f260-86ac-11e4-8c28-020000005b00/eagle-hills",
+  "checked_at": 1795686591.1479568,
+  "sha256": "1e538f8886016cfa8355834054721257fab5c7bcd3d364909b38028985ccb26f",
+  "title": "Eagle Hills - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6d7f260-86ac-11e4-8c28-020000005b00",
+    "name": "Eagle Hills",
+    "address": "Country Club Rd, Algona, IA",
+    "courses": [
+      {
+        "name": "Algona",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5876,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4532,
+            "par": 72,
+            "rating": 65.6,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6d7f260-86ac-11e4-8c28-020000005b00/eagle-hills"
+  }
+}

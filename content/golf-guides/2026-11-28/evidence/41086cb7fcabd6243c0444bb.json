@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/adfe2b50-86ac-11e4-8c28-020000005b00/chester-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/adfe2b50-86ac-11e4-8c28-020000005b00/chester-golf-club",
+  "checked_at": 1795663478.629678,
+  "sha256": "9e6b3aca0b5e457a7b0f2743daa39c1d1ca11e75f6f059aabd0dfb060b54ece5",
+  "title": "Chester Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "adfe2b50-86ac-11e4-8c28-020000005b00",
+    "name": "Chester Golf Club",
+    "address": "770 Old Richburg Road, Chester, SC",
+    "courses": [
+      {
+        "name": "Chester",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6811,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6811,
+            "par": 72,
+            "rating": 78.1,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6273,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6273,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 133
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5411,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5411,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5269,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5269,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/adfe2b50-86ac-11e4-8c28-020000005b00/chester-golf-club"
+  }
+}

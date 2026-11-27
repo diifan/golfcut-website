@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c9ace50-86ac-11e4-8c28-020000005b00/riverside-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c9ace50-86ac-11e4-8c28-020000005b00/riverside-golf-course",
+  "checked_at": 1795663428.294956,
+  "sha256": "a642edabfce1e50aa1c9b0ded75210267eab882c315aede92dc3d338e6f813da",
+  "title": "Riverside Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8c9ace50-86ac-11e4-8c28-020000005b00",
+    "name": "Riverside Golf Course",
+    "address": "3301 Riverside Golf Club Road, San Angelo, TX",
+    "courses": [
+      {
+        "name": "Riverside Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5922,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 108
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5922,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5297,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5297,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c9ace50-86ac-11e4-8c28-020000005b00/riverside-golf-course"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9648fc60-86ac-11e4-8c28-020000005b00/pinewood-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9648fc60-86ac-11e4-8c28-020000005b00/pinewood-golf-course",
+  "checked_at": 1795661676.8276434,
+  "sha256": "7a80e60abdc560f912e11badef0a99a9048138ca843a77acea407fdc592202b8",
+  "title": "Pinewood Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9648fc60-86ac-11e4-8c28-020000005b00",
+    "name": "Pinewood Golf Course",
+    "address": "18150 Waco St., Elk River, MN",
+    "courses": [
+      {
+        "name": "Pinewood",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1830,
+            "par": 30,
+            "rating": 29.5,
+            "slope": 96
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1830,
+            "par": 30,
+            "rating": 30.7,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1830,
+            "par": 30,
+            "rating": 30.8,
+            "slope": 97
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1830,
+            "par": 30,
+            "rating": 29.5,
+            "slope": 96
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9648fc60-86ac-11e4-8c28-020000005b00/pinewood-golf-course"
+  }
+}

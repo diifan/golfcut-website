@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98e6ffd0-86ac-11e4-8c28-020000005b00/holiday-valley-resort",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98e6ffd0-86ac-11e4-8c28-020000005b00/holiday-valley-resort",
+  "checked_at": 1795697892.7054958,
+  "sha256": "2228ea3f2225ee9b747051c114df61675e22c85e27cc0422be4e5352ba477da0",
+  "title": "Holiday Valley Resort - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "98e6ffd0-86ac-11e4-8c28-020000005b00",
+    "name": "Holiday Valley Resort",
+    "address": "Holiday Valley Rd, Ellicottville, NY",
+    "courses": [
+      {
+        "name": "Holiday Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Double Black",
+            "category": "MALE",
+            "yards": 6493,
+            "par": 70,
+            "rating": 72.8,
+            "slope": 130
+          },
+          {
+            "name": "Double Black",
+            "category": "FEMALE",
+            "yards": 6493,
+            "par": 71,
+            "rating": 76.4,
+            "slope": 135
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6065,
+            "par": 70,
+            "rating": 70.7,
+            "slope": 125
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6065,
+            "par": 71,
+            "rating": 74.2,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5503,
+            "par": 70,
+            "rating": 67,
+            "slope": 115
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5503,
+            "par": 71,
+            "rating": 71,
+            "slope": 121
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4732,
+            "par": 70,
+            "rating": 63.1,
+            "slope": 112
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4732,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98e6ffd0-86ac-11e4-8c28-020000005b00/holiday-valley-resort"
+  }
+}

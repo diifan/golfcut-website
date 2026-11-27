@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/5aede7d0-4804-11e8-bb9b-0680a328ea36/spring-creek",
+  "resolved_url": "https://18birdies.com/golf-courses/club/5aede7d0-4804-11e8-bb9b-0680a328ea36/spring-creek",
+  "checked_at": 1795661672.468586,
+  "sha256": "f94eb2d53ef23dd6a5f695ab112a7e8a76e960baeb1981fb28d817ea40a3c467",
+  "title": "Spring Creek - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "5aede7d0-4804-11e8-bb9b-0680a328ea36",
+    "name": "Spring Creek",
+    "address": "450 East Chocolate Avenue, Hershey, PA",
+    "courses": [
+      {
+        "name": "Spring Creek (Once Around)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2125,
+            "par": 33,
+            "rating": 30.8,
+            "slope": 100
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2125,
+            "par": 33,
+            "rating": 32.2,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1701,
+            "par": 33,
+            "rating": 29,
+            "slope": 92
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1701,
+            "par": 33,
+            "rating": 30,
+            "slope": 101
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/5aede7d0-4804-11e8-bb9b-0680a328ea36/spring-creek"
+  }
+}

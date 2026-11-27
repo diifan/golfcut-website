@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/912ea690-2aaa-11e7-82ca-0680a328ea36/pine-ridge-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/912ea690-2aaa-11e7-82ca-0680a328ea36/pine-ridge-golf-club",
+  "checked_at": 1795700408.4013643,
+  "sha256": "cd67a9e251ca4548a53e8f9c86be9036954738aecbc1e0280570c8ee7da5372a",
+  "title": "Pine Ridge Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "912ea690-2aaa-11e7-82ca-0680a328ea36",
+    "name": "Pine Ridge Golf Club",
+    "address": "34500 Hillcrest Rd, Motley, MN 56466",
+    "courses": [
+      {
+        "name": "Pine Ridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6227,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6227,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5924,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5924,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 133
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5528,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 118
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5528,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4617,
+            "par": 72,
+            "rating": 63.5,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4617,
+            "par": 72,
+            "rating": 67,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/912ea690-2aaa-11e7-82ca-0680a328ea36/pine-ridge-golf-club"
+  }
+}

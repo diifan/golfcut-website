@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/849e24b0-4ed2-11ef-b4de-06780482e2ce/27-pines-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/849e24b0-4ed2-11ef-b4de-06780482e2ce/27-pines-golf-course",
+  "checked_at": 1795686336.2205849,
+  "sha256": "d905fd4cd10a9113a1b042d33c832730102f4ad14f616024baf052afe3fdb4ac",
+  "title": "27 Pines Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "849e24b0-4ed2-11ef-b4de-06780482e2ce",
+    "name": "27 Pines Golf Course",
+    "address": "5611 Silverdale Rd, Sturgeon Bay, WI ",
+    "courses": [
+      {
+        "name": "27 Pines",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1355,
+            "par": 27,
+            "rating": 27.9767,
+            "slope": 84.8696
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1355,
+            "par": 27,
+            "rating": 27.9767,
+            "slope": 84.8696
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1182,
+            "par": 27,
+            "rating": 27.19128,
+            "slope": 81.70024
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1182,
+            "par": 27,
+            "rating": 27.19128,
+            "slope": 81.70024
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/849e24b0-4ed2-11ef-b4de-06780482e2ce/27-pines-golf-course"
+  }
+}

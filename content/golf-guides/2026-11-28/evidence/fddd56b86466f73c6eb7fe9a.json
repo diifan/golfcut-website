@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b6e46f0-86ac-11e4-8c28-020000005b00/cossett-creek",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b6e46f0-86ac-11e4-8c28-020000005b00/cossett-creek",
+  "checked_at": 1795663462.530037,
+  "sha256": "e60e38a7a001993e83a93bdf5a6807109b0cfb80999835b31fe05d9f954d6c3b",
+  "title": "Cossett Creek - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9b6e46f0-86ac-11e4-8c28-020000005b00",
+    "name": "Cossett Creek",
+    "address": "4900 Center Rd., Brunswick, OH",
+    "courses": [
+      {
+        "name": "Brunswick Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6615,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6081,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 120
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4840,
+            "par": 72,
+            "rating": 65,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b6e46f0-86ac-11e4-8c28-020000005b00/cossett-creek"
+  }
+}

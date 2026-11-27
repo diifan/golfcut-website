@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b7377780-86ac-11e4-8c28-020000005b00/hi-point-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b7377780-86ac-11e4-8c28-020000005b00/hi-point-golf-course",
+  "checked_at": 1795663447.0169716,
+  "sha256": "78da5b3323e548596dd305d5a1d9840032e74f5728ac3121d7676fb0b157421d",
+  "title": "(CLOSED) Hi Point Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b7377780-86ac-11e4-8c28-020000005b00",
+    "name": "(CLOSED) Hi Point Golf Course",
+    "address": "3533 Taft Ave SE, Iowa, IA",
+    "courses": [
+      {
+        "name": "Hi Point",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5178,
+            "par": 70,
+            "rating": 64.1,
+            "slope": 107
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5178,
+            "par": 70,
+            "rating": 69.4,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4523,
+            "par": 70,
+            "rating": 65.5,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4523,
+            "par": 70,
+            "rating": 64.9,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b7377780-86ac-11e4-8c28-020000005b00/hi-point-golf-course"
+  }
+}

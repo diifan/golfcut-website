@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99707b20-86ac-11e4-8c28-020000005b00/high-peaks-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99707b20-86ac-11e4-8c28-020000005b00/high-peaks-golf-course",
+  "checked_at": 1795686486.2572665,
+  "sha256": "7974f2b45ea9a11a816008d0536d21d289ed0546527bb132752b399ae9ebef0e",
+  "title": "High Peaks Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99707b20-86ac-11e4-8c28-020000005b00",
+    "name": "High Peaks Golf Course",
+    "address": "47 Santonone Dr",
+    "courses": [
+      {
+        "name": "High Peaks Golf Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2575,
+            "par": 33,
+            "rating": 32.6,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2283,
+            "par": 33,
+            "rating": 31.5,
+            "slope": 108
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2057,
+            "par": 33,
+            "rating": 30.6,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1957,
+            "par": 33,
+            "rating": 31.4,
+            "slope": 99
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99707b20-86ac-11e4-8c28-020000005b00/high-peaks-golf-course"
+  }
+}

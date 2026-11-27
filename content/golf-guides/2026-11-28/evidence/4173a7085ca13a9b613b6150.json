@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/972e7a60-86ac-11e4-8c28-020000005b00/lake-hills-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/972e7a60-86ac-11e4-8c28-020000005b00/lake-hills-golf-club",
+  "checked_at": 1795666548.5336497,
+  "sha256": "a8aa211e9c8fae459cb9643f206e41a89b47e834775d34119683b03880874bf0",
+  "title": "Lake Hills Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "972e7a60-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Hills Golf Club",
+    "address": "1930 Clubhouse Way, Billings, MT",
+    "courses": [
+      {
+        "name": "Lake Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6802,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6489,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 110
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6119,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 104
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5146,
+            "par": 72,
+            "rating": 64.2,
+            "slope": 98
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/972e7a60-86ac-11e4-8c28-020000005b00/lake-hills-golf-club"
+  }
+}

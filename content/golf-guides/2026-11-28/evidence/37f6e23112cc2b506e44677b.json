@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9aa694b0-17c1-11ef-a97c-06780482e2ce/maxwell-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9aa694b0-17c1-11ef-a97c-06780482e2ce/maxwell-municipal-golf-course",
+  "checked_at": 1795685285.9531076,
+  "sha256": "e04dd10d9adce51c394b314ba6d6a77df2513ee1e017405730b0250ac3af3824",
+  "title": "Maxwell Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9aa694b0-17c1-11ef-a97c-06780482e2ce",
+    "name": "Maxwell Municipal Golf Course",
+    "address": "1002 S 32nd St, Abilene, TX ",
+    "courses": [
+      {
+        "name": "Maxwell",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6272,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 119
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6272,
+            "par": 71,
+            "rating": 75.3,
+            "slope": 133
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5877,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 115
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5877,
+            "par": 71,
+            "rating": 73.2,
+            "slope": 128
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5012,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 116
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5012,
+            "par": 71,
+            "rating": 66.1,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9aa694b0-17c1-11ef-a97c-06780482e2ce/maxwell-municipal-golf-course"
+  }
+}

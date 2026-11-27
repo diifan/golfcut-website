@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/97d19830-86ac-11e4-8c28-020000005b00/hollywood",
+  "resolved_url": "https://18birdies.com/golf-courses/club/97d19830-86ac-11e4-8c28-020000005b00/hollywood",
+  "checked_at": 1795663496.0414214,
+  "sha256": "439e21e3fdcbe86c16bf9a9cb70bb74c55621a7a377e79e64c048686db0643b1",
+  "title": "Hollywood - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "97d19830-86ac-11e4-8c28-020000005b00",
+    "name": "Hollywood",
+    "address": "510 Roseld Avenue, Deal, NJ",
+    "courses": [
+      {
+        "name": "Hollywood Golf Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Travis",
+            "category": "MALE",
+            "yards": 7040,
+            "par": 72,
+            "rating": 77,
+            "slope": 133
+          },
+          {
+            "name": "Travis",
+            "category": "FEMALE",
+            "yards": 7040,
+            "par": 74,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 6516,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 128
+          },
+          {
+            "name": "Tournament",
+            "category": "FEMALE",
+            "yards": 6516,
+            "par": 74,
+            "rating": 79.2,
+            "slope": 144
+          },
+          {
+            "name": "Member",
+            "category": "MALE",
+            "yards": 6111,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 125
+          },
+          {
+            "name": "Member",
+            "category": "FEMALE",
+            "yards": 6111,
+            "par": 74,
+            "rating": 76.8,
+            "slope": 141
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5484,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 120
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5484,
+            "par": 74,
+            "rating": 73.1,
+            "slope": 130
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/97d19830-86ac-11e4-8c28-020000005b00/hollywood"
+  }
+}

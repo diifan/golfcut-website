@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9337c4c0-86ac-11e4-8c28-020000005b00/okefenokee",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9337c4c0-86ac-11e4-8c28-020000005b00/okefenokee",
+  "checked_at": 1795694171.8554244,
+  "sha256": "fa48dd2a1005836a8740a3908ea858c14b6c6a3da22d0bbaccd61f47e152490b",
+  "title": "Okefenokee - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9337c4c0-86ac-11e4-8c28-020000005b00",
+    "name": "Okefenokee",
+    "address": "1204 S River Oaks Dr, Blackshear, GA",
+    "courses": [
+      {
+        "name": "Okefenokee",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6802,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6412,
+            "par": 72,
+            "rating": 71,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5747,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4992,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9337c4c0-86ac-11e4-8c28-020000005b00/okefenokee"
+  }
+}

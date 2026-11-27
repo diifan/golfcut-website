@@ -1,0 +1,59 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d87aac0-969a-11f1-a393-069933b83eb1/fonner-view-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d87aac0-969a-11f1-a393-069933b83eb1/fonner-view-golf-course",
+  "checked_at": 1795687638.020759,
+  "sha256": "b229796d203f4bfe4a05960fce0156a8d990065537274d0e1acc657a60e40b1c",
+  "title": "Fonner View Golf Course - Scorecards, Reviews | 18Birdies star star star star star google-play",
+  "course_profile": {
+    "id": "9d87aac0-969a-11f1-a393-069933b83eb1",
+    "name": "Fonner View Golf Course",
+    "address": "2224 S Stuhr Rd, Hall County",
+    "courses": [
+      {
+        "name": "Fonner View (9 holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1966,
+            "par": 32,
+            "rating": 29,
+            "slope": 91
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1966,
+            "par": 32,
+            "rating": 29.8,
+            "slope": 92
+          }
+        ]
+      },
+      {
+        "name": "Fonner View (18 holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3932,
+            "par": 64,
+            "rating": 58,
+            "slope": 91
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3932,
+            "par": 64,
+            "rating": 59.6,
+            "slope": 92
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d87aac0-969a-11f1-a393-069933b83eb1/fonner-view-golf-course"
+  }
+}

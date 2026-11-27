@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ac5d1f0-86ac-11e4-8c28-020000005b00/valley-pine-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ac5d1f0-86ac-11e4-8c28-020000005b00/valley-pine-country-club",
+  "checked_at": 1795686423.335706,
+  "sha256": "1a6f5a8996caafc395ad5766446314d249e56997bc392dd5fac7ac2bf91e66d9",
+  "title": "Valley Pine Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9ac5d1f0-86ac-11e4-8c28-020000005b00",
+    "name": "Valley Pine Country Club",
+    "address": "901 Lasker Golf Course Rd",
+    "courses": [
+      {
+        "name": "Valley Pine",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6333,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5696,
+            "par": 72,
+            "rating": 63.8,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5075,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ac5d1f0-86ac-11e4-8c28-020000005b00/valley-pine-country-club"
+  }
+}

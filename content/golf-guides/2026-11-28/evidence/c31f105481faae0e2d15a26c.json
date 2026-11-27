@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b18fb680-86ac-11e4-8c28-020000005b00/pendaries-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b18fb680-86ac-11e4-8c28-020000005b00/pendaries-golf-course",
+  "checked_at": 1795700377.3818192,
+  "sha256": "9339933dba99a5d65f59095efc5285bcbcec10fd63ff29cbee22673056ff74f9",
+  "title": "Pendaries Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b18fb680-86ac-11e4-8c28-020000005b00",
+    "name": "Pendaries Golf Course",
+    "address": "Golf Dr Rociada, NM 87742",
+    "courses": [
+      {
+        "name": "Pendaries",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6101,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6101,
+            "par": 73,
+            "rating": 74.3,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5044,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5044,
+            "par": 73,
+            "rating": 65.9,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b18fb680-86ac-11e4-8c28-020000005b00/pendaries-golf-course"
+  }
+}

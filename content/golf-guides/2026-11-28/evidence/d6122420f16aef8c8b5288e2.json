@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99c10c20-86ac-11e4-8c28-020000005b00/sulphur-springs",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99c10c20-86ac-11e4-8c28-020000005b00/sulphur-springs",
+  "checked_at": 1795687653.994397,
+  "sha256": "193bcae08341db54f58c08d87a15639ce9857ac682addb1f229090d5471d212f",
+  "title": "Sulphur Springs - Scorecards, Reviews | 18Birdies star star star star star google-play",
+  "course_profile": {
+    "id": "99c10c20-86ac-11e4-8c28-020000005b00",
+    "name": "Sulphur Springs",
+    "address": "9256 Su9256 Sulpher Springs Rdher Springs Rd",
+    "courses": [
+      {
+        "name": "Sulphur Springs",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5702,
+            "par": 71,
+            "rating": 70,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5099,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99c10c20-86ac-11e4-8c28-020000005b00/sulphur-springs"
+  }
+}

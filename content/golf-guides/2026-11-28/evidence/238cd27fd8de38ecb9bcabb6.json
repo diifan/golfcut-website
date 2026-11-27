@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b7d257f0-86ac-11e4-8c28-020000005b00/garnett-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b7d257f0-86ac-11e4-8c28-020000005b00/garnett-country-club",
+  "checked_at": 1795687617.4198277,
+  "sha256": "4eec0fb0900e5e8b4347610016c07c3e25d7a90c101b40626f9ed068fdd7dfc5",
+  "title": "Garnett Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b7d257f0-86ac-11e4-8c28-020000005b00",
+    "name": "Garnett Country Club",
+    "address": "1201 N Olive St.",
+    "courses": [
+      {
+        "name": "Garnett",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5490,
+            "par": 70,
+            "rating": 66.7,
+            "slope": 109
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5490,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5150,
+            "par": 70,
+            "rating": 61.4,
+            "slope": 98
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5150,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 101
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b7d257f0-86ac-11e4-8c28-020000005b00/garnett-country-club"
+  }
+}

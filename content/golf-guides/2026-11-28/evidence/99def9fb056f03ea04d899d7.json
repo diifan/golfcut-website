@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae36c780-86ac-11e4-8c28-020000005b00/river-hills-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae36c780-86ac-11e4-8c28-020000005b00/river-hills-country-club",
+  "checked_at": 1795661656.1102917,
+  "sha256": "69072af584a0c3a2df4564c8c20806ee4376c221b2da037e9e7343fe8e4bb8f7",
+  "title": "River Hills Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae36c780-86ac-11e4-8c28-020000005b00",
+    "name": "River Hills Country Club",
+    "address": "1 Country Club Dr, Lake Wylie, SC",
+    "courses": [
+      {
+        "name": "River Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6780,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 141
+          },
+          {
+            "name": "Tournament\t",
+            "category": "MALE",
+            "yards": 6546,
+            "par": 72,
+            "rating": 72,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6289,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 136
+          },
+          {
+            "name": "Blue / White\t",
+            "category": "MALE",
+            "yards": 6040,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5735,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5143,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae36c780-86ac-11e4-8c28-020000005b00/river-hills-country-club"
+  }
+}

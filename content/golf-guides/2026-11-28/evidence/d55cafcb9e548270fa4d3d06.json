@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1bf5200-86ac-11e4-8c28-020000005b00/alexa-re-rancourt-learning-center",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1bf5200-86ac-11e4-8c28-020000005b00/alexa-re-rancourt-learning-center",
+  "checked_at": 1795583772.5503983,
+  "sha256": "e6425a82ecbc60f5dc102309f302f39dd42182142efc9ce0fb09f5dff9b9a2bf",
+  "title": "Alexa re rancourt learning center. - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b1bf5200-86ac-11e4-8c28-020000005b00",
+    "name": "Alexa re rancourt learning center.",
+    "address": "2 Old County Road, Freeport, ME",
+    "courses": [
+      {
+        "name": "Maine Golf Center Freeport",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "V",
+            "category": "MALE",
+            "yards": 5344,
+            "par": 69,
+            "rating": 62.6,
+            "slope": 100
+          },
+          {
+            "name": "V",
+            "category": "FEMALE",
+            "yards": 5344,
+            "par": 69,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "IV",
+            "category": "MALE",
+            "yards": 4833,
+            "par": 69,
+            "rating": 78.2,
+            "slope": 95
+          },
+          {
+            "name": "IV",
+            "category": "FEMALE",
+            "yards": 4833,
+            "par": 69,
+            "rating": 63.6,
+            "slope": 97
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1bf5200-86ac-11e4-8c28-020000005b00/alexa-re-rancourt-learning-center"
+  }
+}

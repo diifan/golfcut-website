@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/830383a0-86ac-11e4-8c28-020000005b00/greenshire-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/830383a0-86ac-11e4-8c28-020000005b00/greenshire-golf-course",
+  "checked_at": 1795685268.4935775,
+  "sha256": "342a74a4f0e6ab91d19b5f631c163f8967873a3481aee177a14dab98cf1c9bd2",
+  "title": "Greenshire Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "830383a0-86ac-11e4-8c28-020000005b00",
+    "name": "Greenshire Golf Course",
+    "address": "38727 North Lewis Avenue",
+    "courses": [
+      {
+        "name": "Greenshire",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1275,
+            "par": 27,
+            "rating": 27.6135,
+            "slope": 83.404
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1275,
+            "par": 27,
+            "rating": 27.6135,
+            "slope": 83.404
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/830383a0-86ac-11e4-8c28-020000005b00/greenshire-golf-course"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/de485bd0-1ae0-11e7-b7fd-0680a328ea36/rockwind-community-links",
+  "resolved_url": "https://18birdies.com/golf-courses/club/de485bd0-1ae0-11e7-b7fd-0680a328ea36/rockwind-community-links",
+  "checked_at": 1795686569.5985887,
+  "sha256": "8462425d07ec04ca9a5f67751e98693ceb31c423b42e8a1efa3ad50a903babd0",
+  "title": "Rockwind Community Links - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "de485bd0-1ae0-11e7-b7fd-0680a328ea36",
+    "name": "Rockwind Community Links",
+    "address": "5001 Jack Gomez Blvd, Hobbs",
+    "courses": [
+      {
+        "name": "Rockwind Community Links GC",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7103,
+            "par": 72,
+            "rating": 73,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7103,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6616,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 126
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6616,
+            "par": 72,
+            "rating": 77.1,
+            "slope": 137
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6015,
+            "par": 72,
+            "rating": 68,
+            "slope": 118
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 6015,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 134
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 5346,
+            "par": 72,
+            "rating": 64.5,
+            "slope": 111
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 5346,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 122
+          },
+          {
+            "name": "Turquoise",
+            "category": "MALE",
+            "yards": 4101,
+            "par": 72,
+            "rating": 63.6,
+            "slope": 108
+          },
+          {
+            "name": "Turquoise",
+            "category": "FEMALE",
+            "yards": 4101,
+            "par": 72,
+            "rating": 62.5,
+            "slope": 106
+          }
+        ]
+      },
+      {
+        "name": "Li'l Rock Par 3",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Li'l Rock",
+            "category": "MALE",
+            "yards": 998,
+            "par": 27,
+            "rating": 26.35592,
+            "slope": 78.32936
+          },
+          {
+            "name": "Li'l Rock",
+            "category": "FEMALE",
+            "yards": 998,
+            "par": 27,
+            "rating": 26.35592,
+            "slope": 78.32936
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/de485bd0-1ae0-11e7-b7fd-0680a328ea36/rockwind-community-links"
+  }
+}

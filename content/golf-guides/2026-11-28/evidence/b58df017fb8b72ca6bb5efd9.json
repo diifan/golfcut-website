@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a16a630-86ac-11e4-8c28-020000005b00/port-bay-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a16a630-86ac-11e4-8c28-020000005b00/port-bay-golf-course",
+  "checked_at": 1795685251.119686,
+  "sha256": "73c29af2128564588327232bb10c3419517b7e307e00af0c2ca8c0b497e6a00e",
+  "title": "Port Bay Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9a16a630-86ac-11e4-8c28-020000005b00",
+    "name": "Port Bay Golf Course",
+    "address": "7430 E Port Bay Rd, Wolcott, NY",
+    "courses": [
+      {
+        "name": "Port Bay",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6006,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6006,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5592,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5592,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5242,
+            "par": 72,
+            "rating": 64.3,
+            "slope": 111
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5242,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4727,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4727,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a16a630-86ac-11e4-8c28-020000005b00/port-bay-golf-course"
+  }
+}

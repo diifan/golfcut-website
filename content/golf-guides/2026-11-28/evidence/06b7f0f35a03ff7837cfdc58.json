@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b47c4f20-86ac-11e4-8c28-020000005b00/thornridge-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b47c4f20-86ac-11e4-8c28-020000005b00/thornridge-golf-course",
+  "checked_at": 1795694158.0522094,
+  "sha256": "5a306cf1d31a5bd1703591010d4247e275115fa4dfc6f53ad6ab1da17741b7d2",
+  "title": "Thornridge Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b47c4f20-86ac-11e4-8c28-020000005b00",
+    "name": "Thornridge Golf Course",
+    "address": "801 1/2 D St, Milford, NE",
+    "courses": [
+      {
+        "name": "Thornridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6102,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5880,
+            "par": 72,
+            "rating": 69,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5292,
+            "par": 72,
+            "rating": 69,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b47c4f20-86ac-11e4-8c28-020000005b00/thornridge-golf-course"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/88dd0300-86ac-11e4-8c28-020000005b00/mount-saint-helena-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/88dd0300-86ac-11e4-8c28-020000005b00/mount-saint-helena-golf-course",
+  "checked_at": 1795661630.9044392,
+  "sha256": "410b363c9a38afb20870a58e2580b4f99f5c8b5d2744b01926bc1010aa9e0136",
+  "title": "Mount Saint Helena Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star-o star star-o star-o star star star-o star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "88dd0300-86ac-11e4-8c28-020000005b00",
+    "name": "Mount Saint Helena Golf Course",
+    "address": "2025 Grant Street",
+    "courses": [
+      {
+        "name": "Mount Saint Helena",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Men's",
+            "category": "MALE",
+            "yards": 2757,
+            "par": 34,
+            "rating": 32.8,
+            "slope": 103
+          },
+          {
+            "name": "Men's",
+            "category": "FEMALE",
+            "yards": 2757,
+            "par": 35,
+            "rating": 35.5,
+            "slope": 118
+          },
+          {
+            "name": "Ladies' ",
+            "category": "MALE",
+            "yards": 2650,
+            "par": 34,
+            "rating": 34.5,
+            "slope": 111
+          },
+          {
+            "name": "Ladies' ",
+            "category": "FEMALE",
+            "yards": 2650,
+            "par": 35,
+            "rating": 34.1,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/88dd0300-86ac-11e4-8c28-020000005b00/mount-saint-helena-golf-course"
+  }
+}

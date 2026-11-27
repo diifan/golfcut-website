@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b47968f0-86ac-11e4-8c28-020000005b00/ager-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b47968f0-86ac-11e4-8c28-020000005b00/ager-golf-course",
+  "checked_at": 1795685257.6034806,
+  "sha256": "31694d27db5e1d3c2c7fd368c6ff9946984b336d086e4ce902e2e29b211ed5f4",
+  "title": "Ager Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b47968f0-86ac-11e4-8c28-020000005b00",
+    "name": "Ager Golf Course",
+    "address": "3761 Normal Blvd, Lincoln, NE",
+    "courses": [
+      {
+        "name": "Jim Ager Memorial",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1228,
+            "par": 27,
+            "rating": 27.40012,
+            "slope": 82.54296
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1076,
+            "par": 27,
+            "rating": 26.71004,
+            "slope": 79.75832
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b47968f0-86ac-11e4-8c28-020000005b00/ager-golf-course"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7bc718e0-86ac-11e4-8c28-020000005b00/beech-park-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7bc718e0-86ac-11e4-8c28-020000005b00/beech-park-golf-club",
+  "checked_at": 1795668351.8197794,
+  "sha256": "d0edcc0e94c35192bca544b181a4e6ecc09b9792c3b4bc02df8572f64c95256e",
+  "title": "Beech Park Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "7bc718e0-86ac-11e4-8c28-020000005b00",
+    "name": "Beech Park Golf Club",
+    "address": "Johnstown, Rathcoole, Co. Dublin",
+    "courses": [
+      {
+        "name": "Beech Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6314.50414,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6314.50414,
+            "par": 73,
+            "rating": 75.5,
+            "slope": 133
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6056.412179999999,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 125
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 6056.412179999999,
+            "par": 73,
+            "rating": 74.1,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5332.44236,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5332.44236,
+            "par": 73,
+            "rating": 71.4,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7bc718e0-86ac-11e4-8c28-020000005b00/beech-park-golf-club"
+  }
+}

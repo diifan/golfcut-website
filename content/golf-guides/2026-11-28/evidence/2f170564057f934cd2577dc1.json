@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96a91dc0-86ac-11e4-8c28-020000005b00/moorhead-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96a91dc0-86ac-11e4-8c28-020000005b00/moorhead-country-club",
+  "checked_at": 1795685255.7032568,
+  "sha256": "aa8d74f6837211f0bc78efc18b333bc4c3b8c324c20a038d793e043ab1c5410d",
+  "title": "Moorhead Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96a91dc0-86ac-11e4-8c28-020000005b00",
+    "name": "Moorhead Country Club",
+    "address": "2101 N River Dr, Moorhead, MN",
+    "courses": [
+      {
+        "name": "Moorhead",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6608,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 131
+          },
+          {
+            "name": "BlueWhite",
+            "category": "MALE",
+            "yards": 6347,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6158,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 128
+          },
+          {
+            "name": "Whitegold",
+            "category": "MALE",
+            "yards": 5763,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5506,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5036,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96a91dc0-86ac-11e4-8c28-020000005b00/moorhead-country-club"
+  }
+}

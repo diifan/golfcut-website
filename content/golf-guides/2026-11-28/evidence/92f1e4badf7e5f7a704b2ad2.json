@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba374a00-86ac-11e4-8c28-020000005b00/woodstock-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba374a00-86ac-11e4-8c28-020000005b00/woodstock-country-club",
+  "checked_at": 1795663430.673641,
+  "sha256": "d79d21ce5e1fa3b3fc7996e50bf241be0dd58253a719b0276c50db1f9bbdc9fc",
+  "title": "Woodstock Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ba374a00-86ac-11e4-8c28-020000005b00",
+    "name": "Woodstock Country Club",
+    "address": "76 South St, Woodstock, VT",
+    "courses": [
+      {
+        "name": "Woodstock",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6052,
+            "par": 70,
+            "rating": 70.1,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6052,
+            "par": 71,
+            "rating": 74.1,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5619,
+            "par": 70,
+            "rating": 68.3,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5619,
+            "par": 71,
+            "rating": 73.7,
+            "slope": 137
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5207,
+            "par": 70,
+            "rating": 66.1,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5207,
+            "par": 71,
+            "rating": 71.1,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4924,
+            "par": 70,
+            "rating": 64.7,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4924,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba374a00-86ac-11e4-8c28-020000005b00/woodstock-country-club"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba851be0-86ac-11e4-8c28-020000005b00/apple-valley",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba851be0-86ac-11e4-8c28-020000005b00/apple-valley",
+  "checked_at": 1795663496.124226,
+  "sha256": "4c28d996fb9a2e297204dd6352915f0fa003c197dacd134b6b46916ca119b1ce",
+  "title": "Apple Valley Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ba851be0-86ac-11e4-8c28-020000005b00",
+    "name": "Apple Valley Country Club",
+    "address": "277 Apple Valley Road, Fairmont, WV",
+    "courses": [
+      {
+        "name": "Apple Valley",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3602,
+            "par": 38,
+            "rating": 36.6,
+            "slope": 112
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3602,
+            "par": 38,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3436,
+            "par": 38,
+            "rating": 36,
+            "slope": 107
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3436,
+            "par": 38,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2873,
+            "par": 38,
+            "rating": 33.1,
+            "slope": 101
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2873,
+            "par": 38,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2676,
+            "par": 38,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2676,
+            "par": 38,
+            "rating": 35.4,
+            "slope": 104
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba851be0-86ac-11e4-8c28-020000005b00/apple-valley"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/918a3bd0-86ac-11e4-8c28-020000005b00/haleyville-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/918a3bd0-86ac-11e4-8c28-020000005b00/haleyville-country-club",
+  "checked_at": 1795697983.7955084,
+  "sha256": "af6dd303ca7ed285b5a3743879fb05f500388ba3d7f2f088590780d20346fd1e",
+  "title": "Haleyville Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "918a3bd0-86ac-11e4-8c28-020000005b00",
+    "name": "Haleyville Country Club",
+    "address": "1331 Airport Rd, Haleyville, AL",
+    "courses": [
+      {
+        "name": "Haleyville",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6009,
+            "par": 71,
+            "rating": 70.6,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6009,
+            "par": 71,
+            "rating": 73.9,
+            "slope": 130
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5591,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 121
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5591,
+            "par": 71,
+            "rating": 71.6,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4566,
+            "par": 71,
+            "rating": 65.7,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4566,
+            "par": 71,
+            "rating": 62.8,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/918a3bd0-86ac-11e4-8c28-020000005b00/haleyville-country-club"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b48cf0f0-86ac-11e4-8c28-020000005b00/spring-lake-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b48cf0f0-86ac-11e4-8c28-020000005b00/spring-lake-park-golf-course",
+  "checked_at": 1795661443.7207162,
+  "sha256": "a91e0ebf455ccbf9bac9f737223f84e45e072669529d90e10e70b902dc9849e6",
+  "title": "Spring Lake Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b48cf0f0-86ac-11e4-8c28-020000005b00",
+    "name": "Spring Lake Park Golf Course",
+    "address": "4020 Hector Blvd, Omaha, NE",
+    "courses": [
+      {
+        "name": "Spring Lake",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1873,
+            "par": 33,
+            "rating": 31,
+            "slope": 97
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1873,
+            "par": 33,
+            "rating": 30.9,
+            "slope": 104
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b48cf0f0-86ac-11e4-8c28-020000005b00/spring-lake-park-golf-course"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b298c210-86ac-11e4-8c28-020000005b00/gladwin-heights-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b298c210-86ac-11e4-8c28-020000005b00/gladwin-heights-golf-course",
+  "checked_at": 1795663440.2477622,
+  "sha256": "81d65fec047946bff7d79032900b1a99542630228a7ca5a16720ff10e075f482",
+  "title": "Gladwin Heights Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b298c210-86ac-11e4-8c28-020000005b00",
+    "name": "Gladwin Heights Golf Course",
+    "address": "3551 W M 61",
+    "courses": [
+      {
+        "name": "Gladwin Heights",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Men",
+            "category": "MALE",
+            "yards": 5895,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 115
+          },
+          {
+            "name": "Men",
+            "category": "FEMALE",
+            "yards": 5895,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 4817,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ladies",
+            "category": "FEMALE",
+            "yards": 4817,
+            "par": 71,
+            "rating": 65.9,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b298c210-86ac-11e4-8c28-020000005b00/gladwin-heights-golf-course"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/79eab7c0-86ac-11e4-8c28-020000005b00/flowing-springs-golf-greens",
+  "resolved_url": "https://18birdies.com/golf-courses/club/79eab7c0-86ac-11e4-8c28-020000005b00/flowing-springs-golf-greens",
+  "checked_at": 1795661464.432162,
+  "sha256": "6d52443386cce15123a4e9e5dd05459460a433815ab165a5d42e3d54c76dc4ff",
+  "title": "Flowing Springs Golf Greens - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "79eab7c0-86ac-11e4-8c28-020000005b00",
+    "name": "Flowing Springs Golf Greens",
+    "address": "Flowing Springs Drive, Regina, Saskatchewan",
+    "courses": [
+      {
+        "name": "Flowing Springs",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 5874,
+            "par": 71,
+            "rating": 68.3,
+            "slope": 122
+          },
+          {
+            "name": "Regular",
+            "category": "MALE",
+            "yards": 5486,
+            "par": 71,
+            "rating": 66.1,
+            "slope": 116
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4872,
+            "par": 71,
+            "rating": 63.2,
+            "slope": 109
+          },
+          {
+            "name": "Regular",
+            "category": "FEMALE",
+            "yards": 5216,
+            "par": 73,
+            "rating": 71.7,
+            "slope": 121
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 4872,
+            "par": 73,
+            "rating": 68.1,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/79eab7c0-86ac-11e4-8c28-020000005b00/flowing-springs-golf-greens"
+  }
+}

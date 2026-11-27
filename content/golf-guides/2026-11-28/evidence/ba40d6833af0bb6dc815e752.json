@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8cfcac0-86ac-11e4-8c28-020000005b00/harbor-oaks-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8cfcac0-86ac-11e4-8c28-020000005b00/harbor-oaks-golf-club",
+  "checked_at": 1795685234.5501614,
+  "sha256": "e6b13670a344126a3a5045cd391e33975b22c73da5734dec50c57a75b26ccfce",
+  "title": "Harbor Oaks Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b8cfcac0-86ac-11e4-8c28-020000005b00",
+    "name": "Harbor Oaks Golf Club",
+    "address": "1 Harbor Oaks Dr, Pine Bluff, AR",
+    "courses": [
+      {
+        "name": "Harbor Oaks",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7010,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6503,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5880,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5249,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8cfcac0-86ac-11e4-8c28-020000005b00/harbor-oaks-golf-club"
+  }
+}

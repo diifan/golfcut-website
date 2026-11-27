@@ -1,0 +1,273 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3ad1840-86ac-11e4-8c28-020000005b00/tanglewood-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3ad1840-86ac-11e4-8c28-020000005b00/tanglewood-golf-club",
+  "checked_at": 1795663427.6470878,
+  "sha256": "c9f2b5d8c2919236a060ad76076da269cc0a190f1ac769be557ae5f3664f7967",
+  "title": "Tanglewood Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b3ad1840-86ac-11e4-8c28-020000005b00",
+    "name": "Tanglewood Golf Club",
+    "address": "53503 W Ten Mile Road, South Lyon, MI",
+    "courses": [
+      {
+        "name": "North/South ",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7001,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 135
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7001,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6573,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6573,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5872,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5872,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 134
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5494,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 118
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5494,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4961,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4961,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 122
+          }
+        ]
+      },
+      {
+        "name": "South/West ",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7073,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 139
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7073,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6572,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6572,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5878,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5878,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 135
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5526,
+            "par": 72,
+            "rating": 67,
+            "slope": 118
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5526,
+            "par": 72,
+            "rating": 72,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5091,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5091,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 124
+          }
+        ]
+      },
+      {
+        "name": "West/North",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6902,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 134
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6902,
+            "par": 72,
+            "rating": 78.6,
+            "slope": 140
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6401,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6401,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5824,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5824,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 129
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5474,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 116
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5474,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4916,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4916,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3ad1840-86ac-11e4-8c28-020000005b00/tanglewood-golf-club"
+  }
+}

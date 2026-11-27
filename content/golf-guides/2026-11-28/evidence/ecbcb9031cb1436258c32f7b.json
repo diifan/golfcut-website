@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afd81b70-86ac-11e4-8c28-020000005b00/cypress-cove-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afd81b70-86ac-11e4-8c28-020000005b00/cypress-cove-country-club",
+  "checked_at": 1795686405.5656707,
+  "sha256": "23acbc98e740740be47cea92fd15c6ed0f07d9a65fa20494838479a902e413d4",
+  "title": "Cypress Cove Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "afd81b70-86ac-11e4-8c28-020000005b00",
+    "name": "Cypress Cove Country Club",
+    "address": "30333 Country Club Rd., Franklin, VA",
+    "courses": [
+      {
+        "name": "Cypress Cove",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6330,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6330,
+            "par": 72,
+            "rating": 75.6,
+            "slope": 133
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5786,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5786,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5786,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5786,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afd81b70-86ac-11e4-8c28-020000005b00/cypress-cove-country-club"
+  }
+}

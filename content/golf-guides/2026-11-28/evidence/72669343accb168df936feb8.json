@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b67ab730-86ac-11e4-8c28-020000005b00/hazard-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b67ab730-86ac-11e4-8c28-020000005b00/hazard-creek-golf-course",
+  "checked_at": 1795663485.993168,
+  "sha256": "b52814aef6aba8551864ec2b8575790558e4c8352775a61a89ee2b5616654309",
+  "title": "Hazard Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b67ab730-86ac-11e4-8c28-020000005b00",
+    "name": "Hazard Creek Golf Course",
+    "address": "419 E Bingham St, Aberdeen, ID",
+    "courses": [
+      {
+        "name": "Hazard Creek",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 2768,
+            "par": 35,
+            "rating": 32.9,
+            "slope": 104
+          },
+          {
+            "name": "Red/White",
+            "category": "MALE",
+            "yards": 2424,
+            "par": 35,
+            "rating": 33.5,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b67ab730-86ac-11e4-8c28-020000005b00/hazard-creek-golf-course"
+  }
+}

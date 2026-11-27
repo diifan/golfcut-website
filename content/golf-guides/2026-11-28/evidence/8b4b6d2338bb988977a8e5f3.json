@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b27f6db0-86ac-11e4-8c28-020000005b00/glen-oaks-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b27f6db0-86ac-11e4-8c28-020000005b00/glen-oaks-golf-course",
+  "checked_at": 1795661442.0518165,
+  "sha256": "9df8fed22cd76ee4e210e58b45f6ef0278ec35735415ab392db3e604574edf37",
+  "title": "Glen Oaks Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b27f6db0-86ac-11e4-8c28-020000005b00",
+    "name": "Glen Oaks Golf Course",
+    "address": "30500 W 13 Mile Rd, Farmington Hills, MI",
+    "courses": [
+      {
+        "name": "Glen Oaks",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5930,
+            "par": 70,
+            "rating": 68.5,
+            "slope": 118
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5930,
+            "par": 70,
+            "rating": 74.4,
+            "slope": 132
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5505,
+            "par": 70,
+            "rating": 66.5,
+            "slope": 112
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5505,
+            "par": 70,
+            "rating": 72,
+            "slope": 124
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4783,
+            "par": 70,
+            "rating": 63.2,
+            "slope": 104
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4783,
+            "par": 70,
+            "rating": 67.4,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4451,
+            "par": 70,
+            "rating": 62.1,
+            "slope": 102
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4451,
+            "par": 70,
+            "rating": 65.5,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b27f6db0-86ac-11e4-8c28-020000005b00/glen-oaks-golf-course"
+  }
+}

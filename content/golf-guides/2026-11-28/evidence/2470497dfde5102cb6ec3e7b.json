@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1e43880-c5b0-11e8-80bd-0680a328ea36/lakeside-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1e43880-c5b0-11e8-80bd-0680a328ea36/lakeside-golf-course",
+  "checked_at": 1795686467.4578552,
+  "sha256": "81dc542d5a0edecc72f4ed2e88972b1e7fd3ff2e6866aa9e80e496e791cc0bbd",
+  "title": "Lakeside Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1e43880-c5b0-11e8-80bd-0680a328ea36",
+    "name": "Lakeside Golf Course",
+    "address": "18218 State Route 60 Beverly, Ohio 45715",
+    "courses": [
+      {
+        "name": "Lakeside",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6318,
+            "par": 70,
+            "rating": 69,
+            "slope": 114
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 6318,
+            "par": 70,
+            "rating": 75.5,
+            "slope": 133
+          },
+          {
+            "name": "Men's",
+            "category": "MALE",
+            "yards": 5805,
+            "par": 70,
+            "rating": 66.6,
+            "slope": 112
+          },
+          {
+            "name": "Men's",
+            "category": "FEMALE",
+            "yards": 5805,
+            "par": 70,
+            "rating": 72.8,
+            "slope": 127
+          },
+          {
+            "name": "Senior's",
+            "category": "MALE",
+            "yards": 4886,
+            "par": 70,
+            "rating": 62.3,
+            "slope": 98
+          },
+          {
+            "name": "Senior's",
+            "category": "FEMALE",
+            "yards": 4886,
+            "par": 70,
+            "rating": 67.9,
+            "slope": 117
+          },
+          {
+            "name": "Ladies'",
+            "category": "MALE",
+            "yards": 4277,
+            "par": 70,
+            "rating": 64.4,
+            "slope": 110
+          },
+          {
+            "name": "Ladies'",
+            "category": "FEMALE",
+            "yards": 4277,
+            "par": 70,
+            "rating": 62.9,
+            "slope": 101
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1e43880-c5b0-11e8-80bd-0680a328ea36/lakeside-golf-course"
+  }
+}

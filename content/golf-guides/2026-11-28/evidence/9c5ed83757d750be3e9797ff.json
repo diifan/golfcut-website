@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4207380-86ac-11e4-8c28-020000005b00/dixie-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4207380-86ac-11e4-8c28-020000005b00/dixie-golf-club",
+  "checked_at": 1795700364.8225129,
+  "sha256": "4609b803de77730ac6bf3525030d16ed1301e815e2687aecda7e9e2792ac45fb",
+  "title": "Dixie Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b4207380-86ac-11e4-8c28-020000005b00",
+    "name": "Dixie Golf Club",
+    "address": "750 Hillcrest Dr, Laurel, MS",
+    "courses": [
+      {
+        "name": "Dixie",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6656,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6459,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5730,
+            "par": 72,
+            "rating": 66.9,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5243,
+            "par": 72,
+            "rating": 64.7,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4207380-86ac-11e4-8c28-020000005b00/dixie-golf-club"
+  }
+}

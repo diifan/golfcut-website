@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/98daf1e0-86ac-11e4-8c28-020000005b00/old-erie-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/98daf1e0-86ac-11e4-8c28-020000005b00/old-erie-golf-club",
+  "checked_at": 1795686290.8026648,
+  "sha256": "6ba61164e0892346a0c5a22e580f404cf1eed6680eff3d06c7ddefa1a8c69ece",
+  "title": "Old Erie Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star-o star star-o star-o star star star-o star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "98daf1e0-86ac-11e4-8c28-020000005b00",
+    "name": "Old Erie Golf Club",
+    "address": "3387 Foster Corners Rd, Durhamville, NY",
+    "courses": [
+      {
+        "name": "Brandy Brook(9 holes )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Men",
+            "category": "MALE",
+            "yards": 3092,
+            "par": 36,
+            "rating": 33.1,
+            "slope": 116
+          },
+          {
+            "name": "Men",
+            "category": "FEMALE",
+            "yards": 3092,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 2704,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ladies",
+            "category": "FEMALE",
+            "yards": 2704,
+            "par": 36,
+            "rating": 33.7,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/98daf1e0-86ac-11e4-8c28-020000005b00/old-erie-golf-club"
+  }
+}

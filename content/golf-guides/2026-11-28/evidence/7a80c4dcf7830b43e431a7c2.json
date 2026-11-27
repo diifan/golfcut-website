@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/76a46660-86ac-11e4-8c28-020000005b00/pointe-west-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/76a46660-86ac-11e4-8c28-020000005b00/pointe-west-golf-club",
+  "checked_at": 1795663439.39663,
+  "sha256": "417b2965b9f9de3bbc8912a7238a837a0956304e61820500be3ef878fe1a2f3e",
+  "title": "Pointe West Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "76a46660-86ac-11e4-8c28-020000005b00",
+    "name": "Pointe West Golf Club",
+    "address": "200 Golfwood Drive, Amherstburg, Ontario",
+    "courses": [
+      {
+        "name": "Pointe West",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6631,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6307,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6003,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 130
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5489,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/76a46660-86ac-11e4-8c28-020000005b00/pointe-west-golf-club"
+  }
+}

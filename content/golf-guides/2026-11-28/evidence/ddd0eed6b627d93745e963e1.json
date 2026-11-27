@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a760440-86ac-11e4-8c28-020000005b00/scotfield-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a760440-86ac-11e4-8c28-020000005b00/scotfield-country-club",
+  "checked_at": 1795661428.6682801,
+  "sha256": "127e19fb8766b8665dc6ca66603d8261002697ff4b400cd9825e8daba2c80b2f",
+  "title": "Scotfield Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9a760440-86ac-11e4-8c28-020000005b00",
+    "name": "Scotfield Country Club",
+    "address": "199 Country Club Dr, Enfield, NC",
+    "courses": [
+      {
+        "name": "Scotfield",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6260,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6260,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5926,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5926,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5042,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 111
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5042,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4964,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4964,
+            "par": 72,
+            "rating": 66.9,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a760440-86ac-11e4-8c28-020000005b00/scotfield-country-club"
+  }
+}

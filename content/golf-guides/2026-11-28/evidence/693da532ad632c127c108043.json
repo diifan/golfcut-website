@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99e89150-86ac-11e4-8c28-020000005b00/brighton-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99e89150-86ac-11e4-8c28-020000005b00/brighton-park-golf-course",
+  "checked_at": 1795524881.942473,
+  "sha256": "9c3b1a99af8bc4d63155b220b8899198ac16de6c2c0b7d583b1af4fab3ffdac0",
+  "title": "Brighton Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "99e89150-86ac-11e4-8c28-020000005b00",
+    "name": "Brighton Park Golf Course",
+    "address": "70 Brompton Rd, Tonawanda, NY 14150, USA",
+    "courses": [
+      {
+        "name": "Brighton Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6637,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6637,
+            "par": 72,
+            "rating": 77.2,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6359,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6359,
+            "par": 72,
+            "rating": 75.7,
+            "slope": 134
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5652,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5652,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5652,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5652,
+            "par": 72,
+            "rating": 72,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99e89150-86ac-11e4-8c28-020000005b00/brighton-park-golf-course"
+  }
+}

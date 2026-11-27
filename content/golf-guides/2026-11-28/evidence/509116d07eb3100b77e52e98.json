@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba14cde0-86ac-11e4-8c28-020000005b00/windham-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba14cde0-86ac-11e4-8c28-020000005b00/windham-country-club",
+  "checked_at": 1795686508.5716622,
+  "sha256": "31d6000ff1ce5c09058e7b84f5f99c3355b7ef6c0eb0d6d7f9bea1afdd64c29f",
+  "title": "Windham Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ba14cde0-86ac-11e4-8c28-020000005b00",
+    "name": "Windham Country Club",
+    "address": "1 Country Club Rd. Windham, NH",
+    "courses": [
+      {
+        "name": "Bill Flynn's Windham",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6430,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 137
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6430,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6031,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6031,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5512,
+            "par": 72,
+            "rating": 67,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5512,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5127,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5127,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba14cde0-86ac-11e4-8c28-020000005b00/windham-country-club"
+  }
+}

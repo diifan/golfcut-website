@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/93bb2590-86ac-11e4-8c28-020000005b00/houston-springs",
+  "resolved_url": "https://18birdies.com/golf-courses/club/93bb2590-86ac-11e4-8c28-020000005b00/houston-springs",
+  "checked_at": 1795686527.6468346,
+  "sha256": "a2529b619f97b26d536579da517d0227a6d10ff8c9e0ba2c0aea91c0a844a6b5",
+  "title": "Houston Springs - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "93bb2590-86ac-11e4-8c28-020000005b00",
+    "name": "Houston Springs",
+    "address": "105 Fairway Oaks Drive, Perry, GA",
+    "courses": [
+      {
+        "name": "Houston Springs",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5400,
+            "par": 69,
+            "rating": 67.1,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5400,
+            "par": 69,
+            "rating": 67,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4658,
+            "par": 69,
+            "rating": 63.8,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4658,
+            "par": 69,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3855,
+            "par": 69,
+            "rating": 60.9,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3855,
+            "par": 69,
+            "rating": 63,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/93bb2590-86ac-11e4-8c28-020000005b00/houston-springs"
+  }
+}

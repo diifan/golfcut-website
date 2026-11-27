@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/048bee40-64df-11f1-9e26-069933b83eb1/kinsale-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/048bee40-64df-11f1-9e26-069933b83eb1/kinsale-golf-club",
+  "checked_at": 1795668287.6127422,
+  "sha256": "4e6fcefebc18515d2b83b48b4ba0496f6d31e3ca426e59997159d44e5f33f84a",
+  "title": "Kinsale Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "048bee40-64df-11f1-9e26-069933b83eb1",
+    "name": "Kinsale Golf Club",
+    "address": "Wiggins Pass Road & Vanderbilt Drive",
+    "courses": [
+      {
+        "name": "Kinsale Golf Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Iv",
+            "category": "MALE",
+            "yards": 6802,
+            "par": 71,
+            "rating": 73.1,
+            "slope": 136
+          },
+          {
+            "name": "Iv",
+            "category": "FEMALE",
+            "yards": 6802,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "III",
+            "category": "MALE",
+            "yards": 6408,
+            "par": 71,
+            "rating": 71.5,
+            "slope": 130
+          },
+          {
+            "name": "III",
+            "category": "FEMALE",
+            "yards": 6408,
+            "par": 71,
+            "rating": 77.6,
+            "slope": 139
+          },
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 6001,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 127
+          },
+          {
+            "name": "II",
+            "category": "FEMALE",
+            "yards": 6001,
+            "par": 71,
+            "rating": 75,
+            "slope": 132
+          },
+          {
+            "name": "I",
+            "category": "MALE",
+            "yards": 5016,
+            "par": 71,
+            "rating": 66.5,
+            "slope": 120
+          },
+          {
+            "name": "I",
+            "category": "FEMALE",
+            "yards": 5016,
+            "par": 71,
+            "rating": 71.6,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/048bee40-64df-11f1-9e26-069933b83eb1/kinsale-golf-club"
+  }
+}

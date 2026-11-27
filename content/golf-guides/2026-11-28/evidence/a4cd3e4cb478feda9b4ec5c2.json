@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afb13280-86ac-11e4-8c28-020000005b00/virginia-tech-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afb13280-86ac-11e4-8c28-020000005b00/virginia-tech-golf-course",
+  "checked_at": 1795694356.5292864,
+  "sha256": "7c1844d892a633045443bd6ee4c20795201c00ea7002114efc2504904ff99ad9",
+  "title": "Virginia Tech Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "afb13280-86ac-11e4-8c28-020000005b00",
+    "name": "Virginia Tech Golf Course",
+    "address": "1085 Duck Pond Drive",
+    "courses": [
+      {
+        "name": "Virginia Tech",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue/Blue",
+            "category": "MALE",
+            "yards": 5840,
+            "par": 68,
+            "rating": 68.2,
+            "slope": 116
+          },
+          {
+            "name": "Blue/Blue",
+            "category": "FEMALE",
+            "yards": 5840,
+            "par": 68,
+            "rating": 73.4,
+            "slope": 120
+          },
+          {
+            "name": "White/White",
+            "category": "MALE",
+            "yards": 5502,
+            "par": 68,
+            "rating": 66.6,
+            "slope": 112
+          },
+          {
+            "name": "White/White",
+            "category": "FEMALE",
+            "yards": 5502,
+            "par": 68,
+            "rating": 71.6,
+            "slope": 117
+          },
+          {
+            "name": "Red/Gold",
+            "category": "MALE",
+            "yards": 4800,
+            "par": 68,
+            "rating": 63.2,
+            "slope": 107
+          },
+          {
+            "name": "Red/Gold",
+            "category": "FEMALE",
+            "yards": 4800,
+            "par": 68,
+            "rating": 67.8,
+            "slope": 108
+          },
+          {
+            "name": "Family",
+            "category": "MALE",
+            "yards": 3870,
+            "par": 68,
+            "rating": 60,
+            "slope": 97
+          },
+          {
+            "name": "Family",
+            "category": "FEMALE",
+            "yards": 3870,
+            "par": 68,
+            "rating": 62.6,
+            "slope": 98
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afb13280-86ac-11e4-8c28-020000005b00/virginia-tech-golf-course"
+  }
+}

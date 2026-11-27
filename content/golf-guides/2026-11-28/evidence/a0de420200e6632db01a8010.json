@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d577950-86ac-11e4-8c28-020000005b00/clover-hill-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d577950-86ac-11e4-8c28-020000005b00/clover-hill-golf-course",
+  "checked_at": 1795524419.8509102,
+  "sha256": "7765a31c323150ba2f12698e274ba82a5c93f22d42089e84d9c8aa197bdbe8fd",
+  "title": "Clover Hill Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d577950-86ac-11e4-8c28-020000005b00",
+    "name": "Clover Hill Golf Course",
+    "address": "2200 Reis Run Rd, Pittsburgh, PA 15237, United States",
+    "courses": [
+      {
+        "name": "Clover Hill Golf Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Mens",
+            "category": "MALE",
+            "yards": 1968,
+            "par": 32,
+            "rating": 31.4,
+            "slope": 99
+          },
+          {
+            "name": "Mens",
+            "category": "FEMALE",
+            "yards": 1968,
+            "par": 32,
+            "rating": 31.4,
+            "slope": 106
+          },
+          {
+            "name": "Womens",
+            "category": "MALE",
+            "yards": 1817,
+            "par": 32,
+            "rating": 30.7,
+            "slope": 96
+          },
+          {
+            "name": "Womens",
+            "category": "FEMALE",
+            "yards": 1817,
+            "par": 32,
+            "rating": 30.6,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d577950-86ac-11e4-8c28-020000005b00/clover-hill-golf-course"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3d8bc20-86ac-11e4-8c28-020000005b00/fawn-crest-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3d8bc20-86ac-11e4-8c28-020000005b00/fawn-crest-golf-course",
+  "checked_at": 1795688898.9512224,
+  "sha256": "b05b71a48f35e50fb3743bad25361c0ea06257df15e4676c4f0117560b2d92fb",
+  "title": "Fawn Crest Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b3d8bc20-86ac-11e4-8c28-020000005b00",
+    "name": "Fawn Crest Golf Course",
+    "address": "553 Seaman Rd",
+    "courses": [
+      {
+        "name": "Fawn Crest",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2068,
+            "par": 33,
+            "rating": 31.3,
+            "slope": 98
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2068,
+            "par": 33,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1800,
+            "par": 33,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1800,
+            "par": 33,
+            "rating": 32.5,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3d8bc20-86ac-11e4-8c28-020000005b00/fawn-crest-golf-course"
+  }
+}

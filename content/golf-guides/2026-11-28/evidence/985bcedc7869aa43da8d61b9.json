@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83730e50-86ac-11e4-8c28-020000005b00/hubbard-trail-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83730e50-86ac-11e4-8c28-020000005b00/hubbard-trail-country-club",
+  "checked_at": 1795696746.872726,
+  "sha256": "e4e51121df97e5988a6fcdd5681669d36b54b0949fcc140225f0785ed3f60f36",
+  "title": "Hubbard Trail Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "83730e50-86ac-11e4-8c28-020000005b00",
+    "name": "Hubbard Trail Country Club",
+    "address": "13937 E 3680 North Rd",
+    "courses": [
+      {
+        "name": "Hubbard Trail",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 6107,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 125
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 6107,
+            "par": 71,
+            "rating": 74.6,
+            "slope": 129
+          },
+          {
+            "name": "Black/Gray",
+            "category": "MALE",
+            "yards": 5401,
+            "par": 72,
+            "rating": 66,
+            "slope": 117
+          },
+          {
+            "name": "Black/Gray",
+            "category": "FEMALE",
+            "yards": 5401,
+            "par": 71,
+            "rating": 70.6,
+            "slope": 122
+          },
+          {
+            "name": "Red / Yellow",
+            "category": "MALE",
+            "yards": 5148,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red / Yellow",
+            "category": "FEMALE",
+            "yards": 5148,
+            "par": 71,
+            "rating": 69.3,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83730e50-86ac-11e4-8c28-020000005b00/hubbard-trail-country-club"
+  }
+}

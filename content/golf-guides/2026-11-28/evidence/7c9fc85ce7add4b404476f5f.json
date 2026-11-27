@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4060db0-86ac-11e4-8c28-020000005b00/clarksdale-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4060db0-86ac-11e4-8c28-020000005b00/clarksdale-country-club",
+  "checked_at": 1795661423.494513,
+  "sha256": "c80c5e0436fe3f1be77790526628f85730a34740ec8059478157a6dc027ac01a",
+  "title": "Clarksdale Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b4060db0-86ac-11e4-8c28-020000005b00",
+    "name": "Clarksdale Country Club",
+    "address": "905 Friars Point Rd, Clarksdale, MS",
+    "courses": [
+      {
+        "name": "Clarksdale",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6537,
+            "par": 71,
+            "rating": 71.5,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6207,
+            "par": 71,
+            "rating": 68.8,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5535,
+            "par": 71,
+            "rating": 70.1,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5430,
+            "par": 71,
+            "rating": 65.1,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4060db0-86ac-11e4-8c28-020000005b00/clarksdale-country-club"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/c998aac0-86ac-11e4-8c28-020000005b00/real-club-de-golf-sotogrande",
+  "resolved_url": "https://18birdies.com/golf-courses/club/c998aac0-86ac-11e4-8c28-020000005b00/real-club-de-golf-sotogrande",
+  "checked_at": 1795696750.500527,
+  "sha256": "f1518a287c6dd49c18b4252f95d9a34696123da6c2f13ef31232c4d58b5af2b3",
+  "title": "Real Club de Golf Sotogrande - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "c998aac0-86ac-11e4-8c28-020000005b00",
+    "name": "Real Club de Golf Sotogrande",
+    "address": "Paseo del Parque, 11310 Sotogrande, Cádiz, Spain",
+    "courses": [
+      {
+        "name": "Sotogrande(Championship )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 7205.79321,
+            "par": 72,
+            "rating": 72,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 7205.79321,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 129
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/c998aac0-86ac-11e4-8c28-020000005b00/real-club-de-golf-sotogrande"
+  }
+}

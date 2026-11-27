@@ -1,0 +1,273 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/909bbd20-86ac-11e4-8c28-020000005b00/johns-island-club-north-course-south-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/909bbd20-86ac-11e4-8c28-020000005b00/johns-island-club-north-course-south-course",
+  "checked_at": 1795523924.1553206,
+  "sha256": "ee2682bbe067a8cf25c29e802cf4062676d20f3db28e64295638065f52c804a9",
+  "title": "John's Island Club (North Course / South Course) - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "909bbd20-86ac-11e4-8c28-020000005b00",
+    "name": "John's Island Club (North Course / South Course)",
+    "address": "3 John's Island Drive, Vero Beach FL",
+    "courses": [
+      {
+        "name": "Johns Island (North)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 6883,
+            "par": 71,
+            "rating": 73.7,
+            "slope": 134
+          },
+          {
+            "name": "Tournament",
+            "category": "FEMALE",
+            "yards": 6883,
+            "par": 71,
+            "rating": 78.5,
+            "slope": 140
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6430,
+            "par": 71,
+            "rating": 71.8,
+            "slope": 130
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6430,
+            "par": 71,
+            "rating": 76.1,
+            "slope": 135
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5978,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 127
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5978,
+            "par": 71,
+            "rating": 74.8,
+            "slope": 132
+          },
+          {
+            "name": "Standard",
+            "category": "MALE",
+            "yards": 5275,
+            "par": 71,
+            "rating": 65.9,
+            "slope": 115
+          },
+          {
+            "name": "Standard",
+            "category": "FEMALE",
+            "yards": 5275,
+            "par": 71,
+            "rating": 71.3,
+            "slope": 125
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4798,
+            "par": 71,
+            "rating": 63.8,
+            "slope": 105
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 4798,
+            "par": 71,
+            "rating": 68.4,
+            "slope": 119
+          }
+        ]
+      },
+      {
+        "name": "Johns Island (South)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 6592,
+            "par": 71,
+            "rating": 72,
+            "slope": 135
+          },
+          {
+            "name": "Tournament",
+            "category": "FEMALE",
+            "yards": 6592,
+            "par": 71,
+            "rating": 77,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6331,
+            "par": 71,
+            "rating": 70.7,
+            "slope": 132
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6331,
+            "par": 71,
+            "rating": 75.6,
+            "slope": 133
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6009,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 122
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6009,
+            "par": 71,
+            "rating": 74.9,
+            "slope": 136
+          },
+          {
+            "name": "Standard",
+            "category": "MALE",
+            "yards": 5463,
+            "par": 71,
+            "rating": 66.5,
+            "slope": 116
+          },
+          {
+            "name": "Standard",
+            "category": "FEMALE",
+            "yards": 5463,
+            "par": 71,
+            "rating": 72.1,
+            "slope": 130
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4878,
+            "par": 71,
+            "rating": 63.7,
+            "slope": 109
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 4878,
+            "par": 71,
+            "rating": 69,
+            "slope": 119
+          }
+        ]
+      },
+      {
+        "name": "Johns Island (West) do not use",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 6819,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 143
+          },
+          {
+            "name": "Tournament",
+            "category": "FEMALE",
+            "yards": 6819,
+            "par": 72,
+            "rating": 78.2,
+            "slope": 139
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6415,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 140
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6415,
+            "par": 72,
+            "rating": 76,
+            "slope": 134
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6038,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 136
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6038,
+            "par": 72,
+            "rating": 77.2,
+            "slope": 143
+          },
+          {
+            "name": "Standard",
+            "category": "MALE",
+            "yards": 5471,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 128
+          },
+          {
+            "name": "Standard",
+            "category": "FEMALE",
+            "yards": 5471,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 136
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4848,
+            "par": 72,
+            "rating": 64.6,
+            "slope": 122
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 4848,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/909bbd20-86ac-11e4-8c28-020000005b00/johns-island-club-north-course-south-course"
+  }
+}

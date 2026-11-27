@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c6873b0-86ac-11e4-8c28-020000005b00/windcrest-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c6873b0-86ac-11e4-8c28-020000005b00/windcrest-golf-club",
+  "checked_at": 1795694268.4123666,
+  "sha256": "a6d7002f0b21ed0d3999c2a981a944dae0406c118e797742db5b6737c1eb746c",
+  "title": "Windcrest Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8c6873b0-86ac-11e4-8c28-020000005b00",
+    "name": "Windcrest Golf Club",
+    "address": "8600 Midcrown Dr., Windcrest, TX",
+    "courses": [
+      {
+        "name": "Windcrest",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 4780,
+            "par": 68,
+            "rating": 62.9,
+            "slope": 101
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 4780,
+            "par": 68,
+            "rating": 67.3,
+            "slope": 115
+          },
+          {
+            "name": "Red/White",
+            "category": "MALE",
+            "yards": 4309,
+            "par": 68,
+            "rating": 64.5,
+            "slope": 110
+          },
+          {
+            "name": "Red/White",
+            "category": "FEMALE",
+            "yards": 4309,
+            "par": 68,
+            "rating": 63.1,
+            "slope": 99
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c6873b0-86ac-11e4-8c28-020000005b00/windcrest-golf-club"
+  }
+}

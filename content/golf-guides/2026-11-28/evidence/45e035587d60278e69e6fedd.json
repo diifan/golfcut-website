@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/991eb1a0-86ac-11e4-8c28-020000005b00/twin-hickory-golf-club-inc",
+  "resolved_url": "https://18birdies.com/golf-courses/club/991eb1a0-86ac-11e4-8c28-020000005b00/twin-hickory-golf-club-inc",
+  "checked_at": 1795661678.8804038,
+  "sha256": "7716666bb56d0f1eea212fe70abb4198e0013e30a20e9882764df6e4eb64e904",
+  "title": "Twin Hickory Golf Club, Inc. - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "991eb1a0-86ac-11e4-8c28-020000005b00",
+    "name": "Twin Hickory Golf Club, Inc.",
+    "address": "1799 Turnpike Rd",
+    "courses": [
+      {
+        "name": "Twin Hickory",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6323,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5940,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5049,
+            "par": 72,
+            "rating": 65,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4947,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/991eb1a0-86ac-11e4-8c28-020000005b00/twin-hickory-golf-club-inc"
+  }
+}

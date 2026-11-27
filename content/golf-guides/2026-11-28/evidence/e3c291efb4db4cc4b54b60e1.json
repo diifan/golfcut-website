@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92b77130-86ac-11e4-8c28-020000005b00/goose-run-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92b77130-86ac-11e4-8c28-020000005b00/goose-run-golf-course",
+  "checked_at": 1795685265.8982248,
+  "sha256": "32a1083eeb6065500f7545948194b047fa3b032ce0d488e42d0df8177051865a",
+  "title": "Goose Run Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "92b77130-86ac-11e4-8c28-020000005b00",
+    "name": "Goose Run Golf Course",
+    "address": "1 Naval Submarine Base",
+    "courses": [
+      {
+        "name": "Goose Run (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2466,
+            "par": 34,
+            "rating": 31.8,
+            "slope": 108
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2466,
+            "par": 35,
+            "rating": 34.1,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2280,
+            "par": 34,
+            "rating": 32.8,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2280,
+            "par": 35,
+            "rating": 32,
+            "slope": 109
+          }
+        ]
+      },
+      {
+        "name": "Goose Run (18 Holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4932,
+            "par": 68,
+            "rating": 63.4,
+            "slope": 108
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4932,
+            "par": 70,
+            "rating": 68.1,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4560,
+            "par": 68,
+            "rating": 65.7,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4560,
+            "par": 70,
+            "rating": 64,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92b77130-86ac-11e4-8c28-020000005b00/goose-run-golf-course"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/93ec47b0-86ac-11e4-8c28-020000005b00/international-city",
+  "resolved_url": "https://18birdies.com/golf-courses/club/93ec47b0-86ac-11e4-8c28-020000005b00/international-city",
+  "checked_at": 1795696659.9469826,
+  "sha256": "5e66cd4e38c84f053f28a27db991d7da690b86c470a1dc7c6c354dc82f9e0729",
+  "title": "International City - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "93ec47b0-86ac-11e4-8c28-020000005b00",
+    "name": "International City",
+    "address": "100 Sandy Run Ln, Warner Robins, GA",
+    "courses": [
+      {
+        "name": "International City",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6235,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5809,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 118
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5339,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4586,
+            "par": 72,
+            "rating": 63.1,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/93ec47b0-86ac-11e4-8c28-020000005b00/international-city"
+  }
+}

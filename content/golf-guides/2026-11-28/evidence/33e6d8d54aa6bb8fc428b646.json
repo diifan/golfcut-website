@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6d75620-86ac-11e4-8c28-020000005b00/albia-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6d75620-86ac-11e4-8c28-020000005b00/albia-country-club",
+  "checked_at": 1795663867.657003,
+  "sha256": "1b77a68881ceefcc4908326e005180b0ecbfb876808ecc8043f204bc5a99fde9",
+  "title": "Albia Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6d75620-86ac-11e4-8c28-020000005b00",
+    "name": "Albia Country Club",
+    "address": "Country Club Ln, Albia, IA",
+    "courses": [
+      {
+        "name": "Albia",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6490,
+            "par": 72,
+            "rating": 70,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6490,
+            "par": 78,
+            "rating": 76.4,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5704,
+            "par": 72,
+            "rating": 67,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5704,
+            "par": 78,
+            "rating": 72.2,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6d75620-86ac-11e4-8c28-020000005b00/albia-country-club"
+  }
+}

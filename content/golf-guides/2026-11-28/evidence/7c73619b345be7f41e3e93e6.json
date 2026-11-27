@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/90dac1f0-86ac-11e4-8c28-020000005b00/pelican-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/90dac1f0-86ac-11e4-8c28-020000005b00/pelican-golf-course",
+  "checked_at": 1795685289.8106287,
+  "sha256": "d3c252c871d703e259c4bdf34fa3925211626faf226e491ab47b3d2da39b8448",
+  "title": "Pelican Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "90dac1f0-86ac-11e4-8c28-020000005b00",
+    "name": "Pelican Golf Course",
+    "address": "1261 Sunset Point Blvd, The Villages, FL",
+    "courses": [
+      {
+        "name": "The Villages (Pelican)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 1759,
+            "par": 29,
+            "rating": 30.5,
+            "slope": 95
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 1627,
+            "par": 29,
+            "rating": 29.9,
+            "slope": 93
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 1171,
+            "par": 29,
+            "rating": 27.14134,
+            "slope": 81.49872
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/90dac1f0-86ac-11e4-8c28-020000005b00/pelican-golf-course"
+  }
+}

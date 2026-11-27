@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1f78bf0-fcd8-11ee-8b3b-06780482e2ce/southern-dunes-golf-course-par-3-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1f78bf0-fcd8-11ee-8b3b-06780482e2ce/southern-dunes-golf-course-par-3-course",
+  "checked_at": 1795687750.1955876,
+  "sha256": "4b5b29b71f75e34e1079e8b9f90445368ab5582d8456e91cb1b77a99dd806f97",
+  "title": "Southern Dunes Golf Course | Par 3 Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1f78bf0-fcd8-11ee-8b3b-06780482e2ce",
+    "name": "Southern Dunes Golf Course | Par 3 Course",
+    "address": "8220 S Tibbs Ave, Indianapolis, IN",
+    "courses": [
+      {
+        "name": "Par 3 Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 1305,
+            "par": 27,
+            "rating": 27.7497,
+            "slope": 83.9536
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 1305,
+            "par": 27,
+            "rating": 27.7497,
+            "slope": 83.9536
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 930,
+            "par": 27,
+            "rating": 26.0472,
+            "slope": 77.0836
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 930,
+            "par": 27,
+            "rating": 26.0472,
+            "slope": 77.0836
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1f78bf0-fcd8-11ee-8b3b-06780482e2ce/southern-dunes-golf-course-par-3-course"
+  }
+}

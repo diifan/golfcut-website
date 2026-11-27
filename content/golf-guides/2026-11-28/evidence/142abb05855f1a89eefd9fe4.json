@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/adaf20f0-86ac-11e4-8c28-020000005b00/tyoga-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/adaf20f0-86ac-11e4-8c28-020000005b00/tyoga-country-club",
+  "checked_at": 1795685201.272128,
+  "sha256": "ff0a6ea604acc293828114acf1d95d4eb9dfc0110b7e1f95cd990ec6f0b98ebf",
+  "title": "Tyoga Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "adaf20f0-86ac-11e4-8c28-020000005b00",
+    "name": "Tyoga Country Club",
+    "address": "759 Route 660",
+    "courses": [
+      {
+        "name": "Tyoga",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6382,
+            "par": 71,
+            "rating": 70.6,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6010,
+            "par": 71,
+            "rating": 68.8,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5524,
+            "par": 71,
+            "rating": 66.7,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5236,
+            "par": 71,
+            "rating": 65.4,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/adaf20f0-86ac-11e4-8c28-020000005b00/tyoga-country-club"
+  }
+}

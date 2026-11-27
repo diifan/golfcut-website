@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8cd60290-86ac-11e4-8c28-020000005b00/lake-james",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8cd60290-86ac-11e4-8c28-020000005b00/lake-james",
+  "checked_at": 1795661673.7617674,
+  "sha256": "26f84305ab2a057d2a5e76774a74569f24a3043582bca5b7f2528b956137d824",
+  "title": "(CLOSED) Lake James - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8cd60290-86ac-11e4-8c28-020000005b00",
+    "name": "(CLOSED) Lake James",
+    "address": "1445 W 275 N, Angola, IN",
+    "courses": [
+      {
+        "name": "Lake James",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Lake james",
+            "category": "MALE",
+            "yards": 6638,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 136
+          },
+          {
+            "name": "Lake james",
+            "category": "FEMALE",
+            "yards": 6638,
+            "par": 73,
+            "rating": 77.2,
+            "slope": 137
+          },
+          {
+            "name": "Jimmerson",
+            "category": "MALE",
+            "yards": 6306,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 133
+          },
+          {
+            "name": "Jimmerson",
+            "category": "FEMALE",
+            "yards": 6306,
+            "par": 73,
+            "rating": 75.4,
+            "slope": 133
+          },
+          {
+            "name": "Snow",
+            "category": "MALE",
+            "yards": 5446,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 129
+          },
+          {
+            "name": "Snow",
+            "category": "FEMALE",
+            "yards": 5446,
+            "par": 73,
+            "rating": 70.9,
+            "slope": 123
+          },
+          {
+            "name": "Otter",
+            "category": "MALE",
+            "yards": 5189,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 123
+          },
+          {
+            "name": "Otter",
+            "category": "FEMALE",
+            "yards": 5189,
+            "par": 73,
+            "rating": 69.5,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8cd60290-86ac-11e4-8c28-020000005b00/lake-james"
+  }
+}

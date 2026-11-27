@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4a29bd0-86ac-11e4-8c28-020000005b00/wymore-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4a29bd0-86ac-11e4-8c28-020000005b00/wymore-golf",
+  "checked_at": 1795687595.6184237,
+  "sha256": "c59b8068f11eade7563399c17017f60d56ad9ce92a890c7dd7c77b63126b2db5",
+  "title": "Wymore Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b4a29bd0-86ac-11e4-8c28-020000005b00",
+    "name": "Wymore Golf",
+    "address": "1700 West D Street, Wymore, NE",
+    "courses": [
+      {
+        "name": "Wymore",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2856,
+            "par": 35,
+            "rating": 35.5,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2749,
+            "par": 35,
+            "rating": 35,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2468,
+            "par": 35,
+            "rating": 33.7,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4a29bd0-86ac-11e4-8c28-020000005b00/wymore-golf"
+  }
+}

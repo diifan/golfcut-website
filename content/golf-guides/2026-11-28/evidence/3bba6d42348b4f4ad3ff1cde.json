@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6e586f0-86ac-11e4-8c28-020000005b00/belle-plaine-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6e586f0-86ac-11e4-8c28-020000005b00/belle-plaine-country-club",
+  "checked_at": 1795663507.8195198,
+  "sha256": "fb715a3e88af0fe591a989e904abf585aaa8a4f1a528c3e2abe10f28a4e20a54",
+  "title": "Belle Plaine Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6e586f0-86ac-11e4-8c28-020000005b00",
+    "name": "Belle Plaine Country Club",
+    "address": "13th Ave N, Belle Plaine, IA",
+    "courses": [
+      {
+        "name": "Belle Plaine",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3094,
+            "par": 36,
+            "rating": 36.6,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2923,
+            "par": 36,
+            "rating": 35.8,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2603,
+            "par": 36,
+            "rating": 34.3,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6e586f0-86ac-11e4-8c28-020000005b00/belle-plaine-country-club"
+  }
+}

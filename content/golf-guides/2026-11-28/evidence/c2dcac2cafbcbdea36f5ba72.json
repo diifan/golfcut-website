@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b798f870-86ac-11e4-8c28-020000005b00/treynor-recreation-area",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b798f870-86ac-11e4-8c28-020000005b00/treynor-recreation-area",
+  "checked_at": 1795686484.5931556,
+  "sha256": "7ac05fd4e76a37be14ba189e6e96338efa224e7aa6a01d3cfb3c218ea7812e47",
+  "title": "Treynor Recreation Area - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b798f870-86ac-11e4-8c28-020000005b00",
+    "name": "Treynor Recreation Area",
+    "address": "Buck St, Treynor, IA",
+    "courses": [
+      {
+        "name": "Treynor Recreation Area (18 Holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5932,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5932,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5080,
+            "par": 72,
+            "rating": 64.8,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5080,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 118
+          }
+        ]
+      },
+      {
+        "name": "Treynor Recreation Area (9 holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2966,
+            "par": 36,
+            "rating": 69.2,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2966,
+            "par": 36,
+            "rating": 75.2,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2540,
+            "par": 36,
+            "rating": 64.8,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2540,
+            "par": 36,
+            "rating": 68.6,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b798f870-86ac-11e4-8c28-020000005b00/treynor-recreation-area"
+  }
+}

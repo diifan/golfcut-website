@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2ff9a30-86ac-11e4-8c28-020000005b00/richmond-forest-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2ff9a30-86ac-11e4-8c28-020000005b00/richmond-forest-golf-course",
+  "checked_at": 1795697884.672439,
+  "sha256": "4d4c4ae0c73f23272014505c2d3b467556465bcd8128b6884af415ccbbb70fb1",
+  "title": "Richmond Forest Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b2ff9a30-86ac-11e4-8c28-020000005b00",
+    "name": "Richmond Forest Golf Course",
+    "address": "33300 32 mile Road, Lenox, MI 48050, USA",
+    "courses": [
+      {
+        "name": "Richmond Forest",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6701,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6097,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5503,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4923,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2ff9a30-86ac-11e4-8c28-020000005b00/richmond-forest-golf-course"
+  }
+}

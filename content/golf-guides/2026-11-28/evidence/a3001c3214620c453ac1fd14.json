@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b13f4c90-86ac-11e4-8c28-020000005b00/houma-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b13f4c90-86ac-11e4-8c28-020000005b00/houma-golf-club",
+  "checked_at": 1795663458.7605553,
+  "sha256": "eb240bec57363227cc9da8cc23175dcce2108091a7946eb41b9908997dcfecba",
+  "title": "Houma Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star-o star star star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "b13f4c90-86ac-11e4-8c28-020000005b00",
+    "name": "Houma Golf Club",
+    "address": "6433 Alma St, Houma, LA",
+    "courses": [
+      {
+        "name": "Houma Golf Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Mens",
+            "category": "MALE",
+            "yards": 6565,
+            "par": 73,
+            "rating": 73.1,
+            "slope": 123
+          },
+          {
+            "name": "Mens",
+            "category": "FEMALE",
+            "yards": 6565,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 5300,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ladies",
+            "category": "FEMALE",
+            "yards": 5300,
+            "par": 73,
+            "rating": 67.1,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b13f4c90-86ac-11e4-8c28-020000005b00/houma-golf-club"
+  }
+}

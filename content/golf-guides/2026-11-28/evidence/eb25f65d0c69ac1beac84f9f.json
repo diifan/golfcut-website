@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/bf6ba420-972b-11e7-a5ec-0680a328ea36/la-follette-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/bf6ba420-972b-11e7-a5ec-0680a328ea36/la-follette-golf-country-club",
+  "checked_at": 1795700383.0848417,
+  "sha256": "04493d894b301afb4f3e45d35f22d0f7e210f9f585ab215886d6a46d14307fcb",
+  "title": "LaFollette Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "bf6ba420-972b-11e7-a5ec-0680a328ea36",
+    "name": "LaFollette Golf & Country Club",
+    "address": "317 Country Club Rd La Follette, ",
+    "courses": [
+      {
+        "name": "LaFollette (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 2952,
+            "par": 36,
+            "rating": 34.2,
+            "slope": 121
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 2952,
+            "par": 37,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "MALE",
+            "yards": 2462,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "FEMALE",
+            "yards": 2462,
+            "par": 37,
+            "rating": 34.1,
+            "slope": 113
+          }
+        ]
+      },
+      {
+        "name": "LaFollette (18 Holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 5918,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 121
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 5918,
+            "par": 74,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "MALE",
+            "yards": 4941,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "FEMALE",
+            "yards": 4941,
+            "par": 74,
+            "rating": 68.5,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/bf6ba420-972b-11e7-a5ec-0680a328ea36/la-follette-golf-country-club"
+  }
+}

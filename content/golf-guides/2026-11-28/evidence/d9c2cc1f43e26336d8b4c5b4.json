@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b7237a50-86ac-11e4-8c28-020000005b00/otter-valley-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b7237a50-86ac-11e4-8c28-020000005b00/otter-valley-country-club",
+  "checked_at": 1795696733.501796,
+  "sha256": "522bce628551075246a7a2af2ad13d3b4595770c7492e2ce0973270bf3393032",
+  "title": "Otter Valley Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b7237a50-86ac-11e4-8c28-020000005b00",
+    "name": "Otter Valley Country Club",
+    "address": "2669 Kennedy Ave",
+    "courses": [
+      {
+        "name": "Otter Valley",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3186,
+            "par": 36,
+            "rating": 35.6,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2858,
+            "par": 36,
+            "rating": 35.5,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b7237a50-86ac-11e4-8c28-020000005b00/otter-valley-country-club"
+  }
+}

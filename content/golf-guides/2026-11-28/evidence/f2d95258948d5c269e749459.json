@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9192c750-86ac-11e4-8c28-020000005b00/lakewinds",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9192c750-86ac-11e4-8c28-020000005b00/lakewinds",
+  "checked_at": 1795524521.9209285,
+  "sha256": "c841550eb2298509a735701c7df43f9cfc91eb384fc4e5a4006c26b8701dc4e2",
+  "title": "Lakewinds - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9192c750-86ac-11e4-8c28-020000005b00",
+    "name": "Lakewinds",
+    "address": "95 County Rd 40, Jacksons Gap, AL",
+    "courses": [
+      {
+        "name": "Lakewinds",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5326,
+            "par": 70,
+            "rating": 64.6,
+            "slope": 104
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5160,
+            "par": 70,
+            "rating": 63.6,
+            "slope": 102
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4064,
+            "par": 70,
+            "rating": 63.4,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9192c750-86ac-11e4-8c28-020000005b00/lakewinds"
+  }
+}

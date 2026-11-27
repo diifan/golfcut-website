@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9590a8e0-86ac-11e4-8c28-020000005b00/cherry-hill-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9590a8e0-86ac-11e4-8c28-020000005b00/cherry-hill-golf-course",
+  "checked_at": 1795686599.7162237,
+  "sha256": "7ea6bec3108b9966926662494b62665fe8790ff791a742c5ebce2da9f3de385c",
+  "title": "Cherry Hill Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9590a8e0-86ac-11e4-8c28-020000005b00",
+    "name": "Cherry Hill Golf Course",
+    "address": "323 Montague Rd, Amherst, MA",
+    "courses": [
+      {
+        "name": "Cherry Hill",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/blue",
+            "category": "MALE",
+            "yards": 5365,
+            "par": 70,
+            "rating": 66.3,
+            "slope": 111
+          },
+          {
+            "name": "White/blue",
+            "category": "FEMALE",
+            "yards": 5365,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4658,
+            "par": 70,
+            "rating": 66.1,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4658,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9590a8e0-86ac-11e4-8c28-020000005b00/cherry-hill-golf-course"
+  }
+}

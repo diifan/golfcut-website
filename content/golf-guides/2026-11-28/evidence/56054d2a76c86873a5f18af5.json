@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8bdab2a0-86ac-11e4-8c28-020000005b00/marshall-lakeside-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8bdab2a0-86ac-11e4-8c28-020000005b00/marshall-lakeside-country-club",
+  "checked_at": 1795686477.1737585,
+  "sha256": "eb47702484de8ef2759080b5a7087df6729f6c84a4bcbbf3bd003b26ecd956bc",
+  "title": "Marshall Lakeside Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8bdab2a0-86ac-11e4-8c28-020000005b00",
+    "name": "Marshall Lakeside Country Club",
+    "address": "6315 TX-43, Marshall, TX ",
+    "courses": [
+      {
+        "name": "Marshall Lakeside (18 Holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Red/Blue",
+            "category": "MALE",
+            "yards": 6273,
+            "par": 72,
+            "rating": 70,
+            "slope": 110
+          },
+          {
+            "name": "Red/Blue",
+            "category": "FEMALE",
+            "yards": 6273,
+            "par": 72,
+            "rating": 70,
+            "slope": 110
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5059,
+            "par": 72,
+            "rating": 68,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5059,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 119
+          }
+        ]
+      },
+      {
+        "name": "Marshall Lakeside (9 Holes) ",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Red/Blue",
+            "category": "MALE",
+            "yards": 3127,
+            "par": 36,
+            "rating": 35,
+            "slope": 110
+          },
+          {
+            "name": "Red/Blue",
+            "category": "FEMALE",
+            "yards": 3127,
+            "par": 36,
+            "rating": 35,
+            "slope": 110
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2544,
+            "par": 36,
+            "rating": 34,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2544,
+            "par": 36,
+            "rating": 34.5,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8bdab2a0-86ac-11e4-8c28-020000005b00/marshall-lakeside-country-club"
+  }
+}

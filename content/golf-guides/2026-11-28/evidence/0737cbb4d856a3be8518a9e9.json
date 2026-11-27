@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96e2a450-86ac-11e4-8c28-020000005b00/lynx-national-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96e2a450-86ac-11e4-8c28-020000005b00/lynx-national-golf-course",
+  "checked_at": 1795685262.7930608,
+  "sha256": "b3861d633b6fc7153a3b8763d2fab5eb6644a7b273aecdd2abcc7cb7de75185a",
+  "title": "Lynx National Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96e2a450-86ac-11e4-8c28-020000005b00",
+    "name": "Lynx National Golf Course",
+    "address": "40204 Primrose Lane Sauk Centre, MN 56378",
+    "courses": [
+      {
+        "name": "Lynx",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6700,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6208,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5704,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5244,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96e2a450-86ac-11e4-8c28-020000005b00/lynx-national-golf-course"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/5f477350-2fa9-11ed-b064-06780482e2ce/sliding-rock-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/5f477350-2fa9-11ed-b064-06780482e2ce/sliding-rock-golf-course",
+  "checked_at": 1795686362.5135965,
+  "sha256": "1a3ad7a1cd6f4d24571ba450a0d2c88106a8755c09faf183b8bc331bc88988f2",
+  "title": "Sliding Rock Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "5f477350-2fa9-11ed-b064-06780482e2ce",
+    "name": "Sliding Rock Golf Course",
+    "address": "214 Sliding Rock Rd, Boswell, PA",
+    "courses": [
+      {
+        "name": "Sliding Rock Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5012,
+            "par": 70,
+            "rating": 67.8,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5012,
+            "par": 84,
+            "rating": 68.5,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/5f477350-2fa9-11ed-b064-06780482e2ce/sliding-rock-golf-course"
+  }
+}

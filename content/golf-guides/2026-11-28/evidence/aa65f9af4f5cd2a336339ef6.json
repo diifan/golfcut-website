@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b04e5ce0-86ac-11e4-8c28-020000005b00/gordon-trent-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b04e5ce0-86ac-11e4-8c28-020000005b00/gordon-trent-golf-course",
+  "checked_at": 1795687680.0125854,
+  "sha256": "d56426ca2caf7e3cbdbf1f69d4f0a5eaeee05b2eac726cb582691b2ed2aee4eb",
+  "title": "Gordon Trent Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b04e5ce0-86ac-11e4-8c28-020000005b00",
+    "name": "Gordon Trent Golf Course",
+    "address": "2160 Golf Course Rd, Stuart, VA",
+    "courses": [
+      {
+        "name": "Gordon Trent",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5541,
+            "par": 70,
+            "rating": 66.3,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4903,
+            "par": 70,
+            "rating": 63.9,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4524,
+            "par": 70,
+            "rating": 62.2,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4330,
+            "par": 70,
+            "rating": 64.6,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b04e5ce0-86ac-11e4-8c28-020000005b00/gordon-trent-golf-course"
+  }
+}

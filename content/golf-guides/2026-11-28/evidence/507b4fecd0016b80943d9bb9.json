@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba2fa8e0-86ac-11e4-8c28-020000005b00/stamford-valley-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba2fa8e0-86ac-11e4-8c28-020000005b00/stamford-valley-golf-course",
+  "checked_at": 1795686447.3147593,
+  "sha256": "48ff1646acf6c50f0f9ef751681e785e34d52fde02dc0b38eee772b49c23283c",
+  "title": "Stamford Valley Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ba2fa8e0-86ac-11e4-8c28-020000005b00",
+    "name": "Stamford Valley Golf Course",
+    "address": "194 The Lane, Stamford, VT",
+    "courses": [
+      {
+        "name": "Stamford Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 5910,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 104
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 5910,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba2fa8e0-86ac-11e4-8c28-020000005b00/stamford-valley-golf-course"
+  }
+}

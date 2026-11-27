@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b15bd540-86ac-11e4-8c28-020000005b00/lake-bruin",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b15bd540-86ac-11e4-8c28-020000005b00/lake-bruin",
+  "checked_at": 1795663453.897084,
+  "sha256": "ea4cc644259f7a50c41bf029824f95ad347fa83e590949a09c4993e3fc8e0ad3",
+  "title": "Lake Bruin - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b15bd540-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Bruin",
+    "address": "1893 LA-606 St Joseph, LA 71366",
+    "courses": [
+      {
+        "name": "Lake Bruin",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6215,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6215,
+            "par": 72,
+            "rating": 75,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5348,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5348,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b15bd540-86ac-11e4-8c28-020000005b00/lake-bruin"
+  }
+}

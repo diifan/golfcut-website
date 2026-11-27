@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae6e7950-86ac-11e4-8c28-020000005b00/links-at-lakewood",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae6e7950-86ac-11e4-8c28-020000005b00/links-at-lakewood",
+  "checked_at": 1795700327.7623677,
+  "sha256": "ec5fc3825af8b45226a9d43d29ae070286012089d5bdf4981a8a4bd235a6aec3",
+  "title": "Links At Lakewood - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae6e7950-86ac-11e4-8c28-020000005b00",
+    "name": "Links At Lakewood",
+    "address": "3600 Green View Pkwy, Sumter, SC",
+    "courses": [
+      {
+        "name": "Links At Lakewood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6826,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 134
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6826,
+            "par": 72,
+            "rating": 78.2,
+            "slope": 139
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6120,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 125
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6120,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5272,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5272,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 121
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4732,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 114
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 4732,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae6e7950-86ac-11e4-8c28-020000005b00/links-at-lakewood"
+  }
+}

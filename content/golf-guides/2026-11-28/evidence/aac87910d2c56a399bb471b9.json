@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/914c9690-86ac-11e4-8c28-020000005b00/cahaba-falls-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/914c9690-86ac-11e4-8c28-020000005b00/cahaba-falls-golf-course",
+  "checked_at": 1795661640.6083457,
+  "sha256": "b6a212de4ad54eab9848bd243a54bbf111b1ef3f91773318e94b73e92c8f5495",
+  "title": "Cahaba Falls Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "914c9690-86ac-11e4-8c28-020000005b00",
+    "name": "Cahaba Falls Golf Course",
+    "address": "2nd St No",
+    "courses": [
+      {
+        "name": "Cahaba Falls",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6078,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5650,
+            "par": 71,
+            "rating": 67,
+            "slope": 109
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4767,
+            "par": 71,
+            "rating": 63.4,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4593,
+            "par": 71,
+            "rating": 65.8,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/914c9690-86ac-11e4-8c28-020000005b00/cahaba-falls-golf-course"
+  }
+}

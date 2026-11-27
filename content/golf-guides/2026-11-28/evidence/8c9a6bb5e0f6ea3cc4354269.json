@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99308bf0-86ac-11e4-8c28-020000005b00/alapaha-golf-links",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99308bf0-86ac-11e4-8c28-020000005b00/alapaha-golf-links",
+  "checked_at": 1795686492.9211428,
+  "sha256": "19f52ddf959bae4085527fd5d57579096a58b0c89dc8e870644843e57ef322e4",
+  "title": "Alapaha Golf Links - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "99308bf0-86ac-11e4-8c28-020000005b00",
+    "name": "Alapaha Golf Links",
+    "address": "180 Sawkill Rd, Kingston, NY",
+    "courses": [
+      {
+        "name": "Alapaha",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1685,
+            "par": 30,
+            "rating": 57.2,
+            "slope": 88
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1685,
+            "par": 30,
+            "rating": 59.8,
+            "slope": 88
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1483,
+            "par": 30,
+            "rating": 55.6,
+            "slope": 84
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1483,
+            "par": 30,
+            "rating": 58.6,
+            "slope": 85
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99308bf0-86ac-11e4-8c28-020000005b00/alapaha-golf-links"
+  }
+}

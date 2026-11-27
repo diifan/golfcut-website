@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7644ba30-86ac-11e4-8c28-020000005b00/rockwood-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7644ba30-86ac-11e4-8c28-020000005b00/rockwood-park-golf-course",
+  "checked_at": 1795697883.4005477,
+  "sha256": "7ec22cecd015729c5337fe82a05c6942f15889676778fb218c9346c1ad0793c8",
+  "title": "Rockwood Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "7644ba30-86ac-11e4-8c28-020000005b00",
+    "name": "Rockwood Park Golf Course",
+    "address": "1255 Sandy Point Road, St. John, New Brunswick",
+    "courses": [
+      {
+        "name": "Rockwood Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5925,
+            "par": 70,
+            "rating": 68.7,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5677,
+            "par": 70,
+            "rating": 67.3,
+            "slope": 128
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4873,
+            "par": 70,
+            "rating": 67.1,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7644ba30-86ac-11e4-8c28-020000005b00/rockwood-park-golf-course"
+  }
+}

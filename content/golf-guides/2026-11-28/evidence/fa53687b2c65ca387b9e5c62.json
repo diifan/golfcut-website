@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/92be27f0-86ac-11e4-8c28-020000005b00/hotchkiss-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/92be27f0-86ac-11e4-8c28-020000005b00/hotchkiss-golf-course",
+  "checked_at": 1795685167.6535952,
+  "sha256": "50cbc11baafcea568a284b869ebf4d27fde612a0da64db20697a4b9e864bdbf4",
+  "title": "Hotchkiss Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "92be27f0-86ac-11e4-8c28-020000005b00",
+    "name": "Hotchkiss Golf Course",
+    "address": "11 Interlaken Rd Lakeville, CT 06039",
+    "courses": [
+      {
+        "name": "Hotchkiss School ",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White / Blue",
+            "category": "MALE",
+            "yards": 3019,
+            "par": 35,
+            "rating": 36.2,
+            "slope": 118
+          },
+          {
+            "name": "White / Blue",
+            "category": "FEMALE",
+            "yards": 3019,
+            "par": 35,
+            "rating": 37,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2448,
+            "par": 35,
+            "rating": 33.6,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2448,
+            "par": 35,
+            "rating": 34,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/92be27f0-86ac-11e4-8c28-020000005b00/hotchkiss-golf-course"
+  }
+}

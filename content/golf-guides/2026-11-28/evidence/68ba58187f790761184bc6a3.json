@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b206e250-86ac-11e4-8c28-020000005b00/pine-river-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b206e250-86ac-11e4-8c28-020000005b00/pine-river-country-club",
+  "checked_at": 1795685302.8937993,
+  "sha256": "7a5f3369339093553bd84bb55f15bc31f4bda939940c8b1fd013690cc52dab18",
+  "title": "Pine River Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b206e250-86ac-11e4-8c28-020000005b00",
+    "name": "Pine River Country Club",
+    "address": "1400 W Superior Street, Alma, MI",
+    "courses": [
+      {
+        "name": "Pine River Country Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6657,
+            "par": 71,
+            "rating": 71.9,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6657,
+            "par": 71,
+            "rating": 77.3,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6213,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6213,
+            "par": 71,
+            "rating": 76.3,
+            "slope": 133
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5397,
+            "par": 71,
+            "rating": 65.5,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5397,
+            "par": 71,
+            "rating": 70.5,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4721,
+            "par": 71,
+            "rating": 60.8,
+            "slope": 100
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4721,
+            "par": 71,
+            "rating": 64.2,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b206e250-86ac-11e4-8c28-020000005b00/pine-river-country-club"
+  }
+}

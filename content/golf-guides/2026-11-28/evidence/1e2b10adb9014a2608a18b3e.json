@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99189720-86ac-11e4-8c28-020000005b00/holland-heights-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99189720-86ac-11e4-8c28-020000005b00/holland-heights-golf-course",
+  "checked_at": 1795685201.520381,
+  "sha256": "61de5292edb30b4f82d33e8cac1efe93c5f0c3596b26d2671059c9ae4ad51b2c",
+  "title": "Holland Heights Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99189720-86ac-11e4-8c28-020000005b00",
+    "name": "Holland Heights Golf Course",
+    "address": "1228 Steuben Hill Rd",
+    "courses": [
+      {
+        "name": "Holland Heights Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6723,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6180,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5097,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99189720-86ac-11e4-8c28-020000005b00/holland-heights-golf-course"
+  }
+}

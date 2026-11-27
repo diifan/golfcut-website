@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1ce6d30-86ac-11e4-8c28-020000005b00/augusta-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1ce6d30-86ac-11e4-8c28-020000005b00/augusta-country-club",
+  "checked_at": 1795524151.5544615,
+  "sha256": "f0842199d331043f26c3d04a97bbe7cd572f9c8a945920d16020bf6fe6a4038c",
+  "title": "Augusta Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1ce6d30-86ac-11e4-8c28-020000005b00",
+    "name": "Augusta Country Club",
+    "address": "19 Hammonds Grove, Manchester, Maine",
+    "courses": [
+      {
+        "name": "Augusta",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6214,
+            "par": 70,
+            "rating": 70,
+            "slope": 132
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6214,
+            "par": 72,
+            "rating": 75,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5943,
+            "par": 70,
+            "rating": 69.3,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5943,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 129
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5610,
+            "par": 70,
+            "rating": 66.5,
+            "slope": 121
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5610,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5301,
+            "par": 70,
+            "rating": 69.1,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5301,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1ce6d30-86ac-11e4-8c28-020000005b00/augusta-country-club"
+  }
+}

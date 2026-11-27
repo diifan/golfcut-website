@@ -1,0 +1,59 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6c75090-86ac-11e4-8c28-020000005b00/oregon-trail-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6c75090-86ac-11e4-8c28-020000005b00/oregon-trail-country-club",
+  "checked_at": 1795663487.054971,
+  "sha256": "7468b176aa536f5ef33f9f9a87a0c905916df78c70f1b1efb8ce11edf79814e7",
+  "title": "Oregon Trail Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6c75090-86ac-11e4-8c28-020000005b00",
+    "name": "Oregon Trail Country Club",
+    "address": "2525 Hwy 30, Soda Springs, ID",
+    "courses": [
+      {
+        "name": "9 Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3060,
+            "par": 36,
+            "rating": 33.6,
+            "slope": 110
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3060,
+            "par": 36,
+            "rating": 36.5,
+            "slope": 130
+          }
+        ]
+      },
+      {
+        "name": "18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6120,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 110
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6120,
+            "par": 72,
+            "rating": 73,
+            "slope": 130
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6c75090-86ac-11e4-8c28-020000005b00/oregon-trail-country-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b70a4d00-86ac-11e4-8c28-020000005b00/oneota-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b70a4d00-86ac-11e4-8c28-020000005b00/oneota-golf-country-club",
+  "checked_at": 1795524561.4773989,
+  "sha256": "9b42fc4dc9d4d3850d74f6467c645f3886e2f7831a2b80a11ae12ffc5933e9f7",
+  "title": "Oneota Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b70a4d00-86ac-11e4-8c28-020000005b00",
+    "name": "Oneota Golf & Country Club",
+    "address": "1714 Golf Rd.",
+    "courses": [
+      {
+        "name": "Oneota",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6500,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6116,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5636,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 109
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4769,
+            "par": 72,
+            "rating": 62.4,
+            "slope": 101
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b70a4d00-86ac-11e4-8c28-020000005b00/oneota-golf-country-club"
+  }
+}

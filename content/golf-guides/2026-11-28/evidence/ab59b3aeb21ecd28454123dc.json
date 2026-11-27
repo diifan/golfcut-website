@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7f0a35f0-86ac-11e4-8c28-020000005b00/club-campestre-juarez",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7f0a35f0-86ac-11e4-8c28-020000005b00/club-campestre-juarez",
+  "checked_at": 1795663445.4410243,
+  "sha256": "4863fd3ed735175a4a84f507f7cfa38e54b0c70c2be9cd170f158cdee1df295b",
+  "title": "Club Campestre Juárez - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "7f0a35f0-86ac-11e4-8c28-020000005b00",
+    "name": "Club Campestre Juárez",
+    "address": "Calle Senecú, Camino Real, Cd Juárez, Chih., Mexico",
+    "courses": [
+      {
+        "name": "Campo San Marcos",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Azuls",
+            "category": "MALE",
+            "yards": 6846,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 128
+          },
+          {
+            "name": "Azuls",
+            "category": "FEMALE",
+            "yards": 6846,
+            "par": 72,
+            "rating": 78.3,
+            "slope": 140
+          },
+          {
+            "name": "Blancas",
+            "category": "MALE",
+            "yards": 6383,
+            "par": 72,
+            "rating": 70,
+            "slope": 124
+          },
+          {
+            "name": "Blancas",
+            "category": "FEMALE",
+            "yards": 6383,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 134
+          },
+          {
+            "name": "Rojas",
+            "category": "MALE",
+            "yards": 5462,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 120
+          },
+          {
+            "name": "Rojas",
+            "category": "FEMALE",
+            "yards": 5462,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7f0a35f0-86ac-11e4-8c28-020000005b00/club-campestre-juarez"
+  }
+}

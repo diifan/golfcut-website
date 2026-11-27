@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96c2e750-86ac-11e4-8c28-020000005b00/pine-city-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96c2e750-86ac-11e4-8c28-020000005b00/pine-city-country-club",
+  "checked_at": 1795685281.607012,
+  "sha256": "ef2b01f4f918a0111360da0942f8537aaba3d870e8903d44267d4220dba75dda",
+  "title": "Pine City Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96c2e750-86ac-11e4-8c28-020000005b00",
+    "name": "Pine City Country Club",
+    "address": "Route 4",
+    "courses": [
+      {
+        "name": "Pine City(9 holes )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6480,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 128
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6360,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 127
+          },
+          {
+            "name": "Intermediate",
+            "category": "MALE",
+            "yards": 6040,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 124
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5444,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96c2e750-86ac-11e4-8c28-020000005b00/pine-city-country-club"
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/90f85c10-86ac-11e4-8c28-020000005b00/reunion-resort-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/90f85c10-86ac-11e4-8c28-020000005b00/reunion-resort-golf",
+  "checked_at": 1795661462.396213,
+  "sha256": "83048064fed58bec76324430b5457f4b9f74bd87af9da83ee768b634ce371d55",
+  "title": "Reunion Resort Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "90f85c10-86ac-11e4-8c28-020000005b00",
+    "name": "Reunion Resort Golf",
+    "address": "7599 Gathering Dr, Reunion, FL",
+    "courses": [
+      {
+        "name": "Palmer Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6419,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 133
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6419,
+            "par": 72,
+            "rating": 76,
+            "slope": 135
+          },
+          {
+            "name": "Gold / Blue",
+            "category": "MALE",
+            "yards": 6225,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 130
+          },
+          {
+            "name": "Gold / Blue",
+            "category": "FEMALE",
+            "yards": 6225,
+            "par": 72,
+            "rating": 75,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6058,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6058,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 130
+          },
+          {
+            "name": "Blue / White",
+            "category": "MALE",
+            "yards": 5764,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 125
+          },
+          {
+            "name": "Blue / White",
+            "category": "FEMALE",
+            "yards": 5764,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5529,
+            "par": 72,
+            "rating": 67,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5529,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4795,
+            "par": 72,
+            "rating": 63.5,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4795,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 115
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6916,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 141
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6916,
+            "par": 72,
+            "rating": 78.7,
+            "slope": 140
+          }
+        ]
+      },
+      {
+        "name": "Watson Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6697,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6697,
+            "par": 72,
+            "rating": 77.5,
+            "slope": 138
+          },
+          {
+            "name": "Gold / Blue",
+            "category": "MALE",
+            "yards": 6506,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 131
+          },
+          {
+            "name": "Gold / Blue",
+            "category": "FEMALE",
+            "yards": 6506,
+            "par": 72,
+            "rating": 76.5,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6319,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6319,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 133
+          },
+          {
+            "name": "Blue / White",
+            "category": "MALE",
+            "yards": 6128,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 125
+          },
+          {
+            "name": "Blue / White",
+            "category": "FEMALE",
+            "yards": 6128,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5990,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5990,
+            "par": 72,
+            "rating": 75,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5284,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5284,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 125
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7154,
+            "par": 72,
+            "rating": 75,
+            "slope": 136
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7154,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      },
+      {
+        "name": "Nicklaus Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7219,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 140
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 7219,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold / Blue",
+            "category": "MALE",
+            "yards": 6816,
+            "par": 72,
+            "rating": 73,
+            "slope": 135
+          },
+          {
+            "name": "Gold / Blue",
+            "category": "FEMALE",
+            "yards": 6816,
+            "par": 72,
+            "rating": 78.2,
+            "slope": 139
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6471,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6471,
+            "par": 72,
+            "rating": 76.3,
+            "slope": 135
+          },
+          {
+            "name": "Blue / White",
+            "category": "MALE",
+            "yards": 6328,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 131
+          },
+          {
+            "name": "Blue / White",
+            "category": "FEMALE",
+            "yards": 6328,
+            "par": 72,
+            "rating": 75.6,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6205,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6205,
+            "par": 72,
+            "rating": 75,
+            "slope": 134
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5033,
+            "par": 72,
+            "rating": 64.6,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5033,
+            "par": 72,
+            "rating": 69,
+            "slope": 122
+          },
+          {
+            "name": "White / Red",
+            "category": "MALE",
+            "yards": 5510,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 121
+          },
+          {
+            "name": "White / Red",
+            "category": "FEMALE",
+            "yards": 5510,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/90f85c10-86ac-11e4-8c28-020000005b00/reunion-resort-golf"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6d6e0f0-86ac-11e4-8c28-020000005b00/akron-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6d6e0f0-86ac-11e4-8c28-020000005b00/akron-golf-club",
+  "checked_at": 1795661630.8240438,
+  "sha256": "aa3bc67c4fc3ef0c43de1b973d2e2e9ceb632048f60bdb68389857909dea32c8",
+  "title": "Akron Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6d6e0f0-86ac-11e4-8c28-020000005b00",
+    "name": "Akron Golf Club",
+    "address": "4024 Country Club Dr, Akron, IA",
+    "courses": [
+      {
+        "name": "Akron",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5820,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 117
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5820,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5374,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5374,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6d6e0f0-86ac-11e4-8c28-020000005b00/akron-golf-club"
+  }
+}

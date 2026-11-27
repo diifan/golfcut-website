@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b738d710-86ac-11e4-8c28-020000005b00/jackson-heights-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b738d710-86ac-11e4-8c28-020000005b00/jackson-heights-golf-course",
+  "checked_at": 1795661423.9970214,
+  "sha256": "1ddad9d0bab5a001294408fb2f0553689eacb93a48a1fa39f7d26bb11de2d963",
+  "title": "Jackson Heights Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b738d710-86ac-11e4-8c28-020000005b00",
+    "name": "Jackson Heights Golf Course",
+    "address": "3249 County Rd V-64, Jackson Junction, IA",
+    "courses": [
+      {
+        "name": "Jackson Heights",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6338,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6338,
+            "par": 72,
+            "rating": 75.6,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5942,
+            "par": 72,
+            "rating": 72,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5942,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5426,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5426,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b738d710-86ac-11e4-8c28-020000005b00/jackson-heights-golf-course"
+  }
+}

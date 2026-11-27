@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5eccf10-86ac-11e4-8c28-020000005b00/oneida",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5eccf10-86ac-11e4-8c28-020000005b00/oneida",
+  "checked_at": 1795664697.034505,
+  "sha256": "3c4e3a5733756214ebc0c86d605253a34b2ad584977aa148aa46586fdbfb87c5",
+  "title": "Oneida - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b5eccf10-86ac-11e4-8c28-020000005b00",
+    "name": "Oneida",
+    "address": "207 Country Club Rd, Green Bay, WI",
+    "courses": [
+      {
+        "name": "Oneida",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6662,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 132
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6662,
+            "par": 73,
+            "rating": 77.3,
+            "slope": 137
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6477,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 130
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 6477,
+            "par": 73,
+            "rating": 77.2,
+            "slope": 140
+          },
+          {
+            "name": "Club",
+            "category": "MALE",
+            "yards": 5704,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 124
+          },
+          {
+            "name": "Club",
+            "category": "FEMALE",
+            "yards": 5704,
+            "par": 73,
+            "rating": 73.5,
+            "slope": 132
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5630,
+            "par": 72,
+            "rating": 64.2,
+            "slope": 116
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5630,
+            "par": 73,
+            "rating": 68.4,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5eccf10-86ac-11e4-8c28-020000005b00/oneida"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/902b2100-86ac-11e4-8c28-020000005b00/kings-gate-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/902b2100-86ac-11e4-8c28-020000005b00/kings-gate-golf-club",
+  "checked_at": 1795661623.12695,
+  "sha256": "8f6e4285e9c77e79c14575331bf9596409e2e072244a72ccce1b53da06f1913b",
+  "title": "Kings Gate Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "902b2100-86ac-11e4-8c28-020000005b00",
+    "name": "Kings Gate Golf Club",
+    "address": "24000 Rampart Blvd, Port Charlotte, FL",
+    "courses": [
+      {
+        "name": "Kings Gate",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3182,
+            "par": 60,
+            "rating": 59.2,
+            "slope": 98
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3182,
+            "par": 60,
+            "rating": 59.2,
+            "slope": 98
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2888,
+            "par": 60,
+            "rating": 56.9,
+            "slope": 94
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2888,
+            "par": 60,
+            "rating": 55.53932,
+            "slope": 82.95932
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2384,
+            "par": 60,
+            "rating": 53.45276,
+            "slope": 80.49476
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2384,
+            "par": 60,
+            "rating": 50.7,
+            "slope": 87
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/902b2100-86ac-11e4-8c28-020000005b00/kings-gate-golf-club"
+  }
+}

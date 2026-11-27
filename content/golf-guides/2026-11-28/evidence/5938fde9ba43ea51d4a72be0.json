@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/70d9db20-86ac-11e4-8c28-020000005b00/durness-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/70d9db20-86ac-11e4-8c28-020000005b00/durness-golf-club",
+  "checked_at": 1795687595.1309443,
+  "sha256": "d91814e63157ae6647be937efaeeee275b0520286943026e2a3ed42ec2c5bb73",
+  "title": "Durness Golf Club  - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "70d9db20-86ac-11e4-8c28-020000005b00",
+    "name": "Durness Golf Club ",
+    "address": "The Bungalow,Durness,Sutherland",
+    "courses": [
+      {
+        "name": "Durness\t",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5495,
+            "par": 70,
+            "rating": 67.5,
+            "slope": 121
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5495,
+            "par": 70,
+            "rating": 72.1,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4803,
+            "par": 70,
+            "rating": 64.2,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4803,
+            "par": 70,
+            "rating": 68.3,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/70d9db20-86ac-11e4-8c28-020000005b00/durness-golf-club"
+  }
+}

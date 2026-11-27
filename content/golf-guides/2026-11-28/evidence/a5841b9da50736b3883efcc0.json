@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3e0d270-86ac-11e4-8c28-020000005b00/brookshire-inn-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3e0d270-86ac-11e4-8c28-020000005b00/brookshire-inn-golf-club",
+  "checked_at": 1795690926.8620758,
+  "sha256": "77ad3c54ed357c02af380cb0a5df983ff79ab85a31b4d36e8aac3ea0b458b5b9",
+  "title": "Brookshire Inn Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b3e0d270-86ac-11e4-8c28-020000005b00",
+    "name": "Brookshire Inn Golf Club",
+    "address": "205 W Church St, WIlliamston, MI",
+    "courses": [
+      {
+        "name": "Brookshire",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6202,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5713,
+            "par": 72,
+            "rating": 67,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4939,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3e0d270-86ac-11e4-8c28-020000005b00/brookshire-inn-golf-club"
+  }
+}

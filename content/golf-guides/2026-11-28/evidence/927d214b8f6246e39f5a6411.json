@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad9d94c0-86ac-11e4-8c28-020000005b00/country-meadows-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad9d94c0-86ac-11e4-8c28-020000005b00/country-meadows-golf-course",
+  "checked_at": 1795697875.1562793,
+  "sha256": "c50431bdc6f91fe4d00ad0627be40c98936d07a109220d3520b1772a13c18d85",
+  "title": "Country Meadows Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "ad9d94c0-86ac-11e4-8c28-020000005b00",
+    "name": "Country Meadows Golf Course",
+    "address": "21957 Plank Road",
+    "courses": [
+      {
+        "name": "Country Meadows",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6276,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 110
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5816,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 108
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4864,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad9d94c0-86ac-11e4-8c28-020000005b00/country-meadows-golf-course"
+  }
+}

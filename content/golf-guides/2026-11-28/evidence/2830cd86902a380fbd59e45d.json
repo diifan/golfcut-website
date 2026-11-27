@@ -1,0 +1,377 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/70aa3fa0-86ac-11e4-8c28-020000005b00/st-andrews-golf-links",
+  "resolved_url": "https://18birdies.com/golf-courses/club/70aa3fa0-86ac-11e4-8c28-020000005b00/st-andrews-golf-links",
+  "checked_at": 1795696827.693164,
+  "sha256": "bba2d839e70df0bc3b7ff7b9b8679cd636685d386673ecd94eacbdf1d9854a3c",
+  "title": "St Andrews Links - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "70aa3fa0-86ac-11e4-8c28-020000005b00",
+    "name": "St Andrews Links",
+    "address": "West Sands Road, St Andrews, United Kingdom",
+    "courses": [
+      {
+        "name": "The Eden",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6140,
+            "par": 70,
+            "rating": 70.6,
+            "slope": 126
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6140,
+            "par": 73,
+            "rating": 76.1,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5810,
+            "par": 70,
+            "rating": 69,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5810,
+            "par": 73,
+            "rating": 74.3,
+            "slope": 131
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5423,
+            "par": 70,
+            "rating": 67.2,
+            "slope": 115
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5423,
+            "par": 73,
+            "rating": 72.2,
+            "slope": 126
+          }
+        ]
+      },
+      {
+        "name": "The Castle Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6749,
+            "par": 71,
+            "rating": 74.8,
+            "slope": 146
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6749,
+            "par": 71,
+            "rating": 80.7,
+            "slope": 153
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6373,
+            "par": 71,
+            "rating": 73.1,
+            "slope": 141
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6373,
+            "par": 71,
+            "rating": 78.6,
+            "slope": 149
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5470,
+            "par": 71,
+            "rating": 68.3,
+            "slope": 128
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5470,
+            "par": 71,
+            "rating": 73.6,
+            "slope": 136
+          },
+          {
+            "name": "Grey",
+            "category": "MALE",
+            "yards": 6000,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 135
+          },
+          {
+            "name": "Grey",
+            "category": "FEMALE",
+            "yards": 6000,
+            "par": 71,
+            "rating": 76.2,
+            "slope": 143
+          }
+        ]
+      },
+      {
+        "name": "New",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6517,
+            "par": 71,
+            "rating": 72.5,
+            "slope": 129
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6517,
+            "par": 75,
+            "rating": 78.4,
+            "slope": 142
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6255,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6255,
+            "par": 75,
+            "rating": 76.9,
+            "slope": 136
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5991,
+            "par": 71,
+            "rating": 70,
+            "slope": 123
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5991,
+            "par": 75,
+            "rating": 75.4,
+            "slope": 132
+          }
+        ]
+      },
+      {
+        "name": "Jubilee",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6614,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 134
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6614,
+            "par": 74,
+            "rating": 79.6,
+            "slope": 145
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6317,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6317,
+            "par": 74,
+            "rating": 77.9,
+            "slope": 142
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5951,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 126
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5951,
+            "par": 74,
+            "rating": 75.9,
+            "slope": 137
+          }
+        ]
+      },
+      {
+        "name": "Old",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6670,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 136
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6670,
+            "par": 72,
+            "rating": 79.8,
+            "slope": 148
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6359,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6359,
+            "par": 72,
+            "rating": 78.2,
+            "slope": 143
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6044,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 127
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 6044,
+            "par": 72,
+            "rating": 76.5,
+            "slope": 140
+          }
+        ]
+      },
+      {
+        "name": "Balgove",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 2984,
+            "par": 60,
+            "rating": 57,
+            "slope": 79
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 2984,
+            "par": 60,
+            "rating": 57.6,
+            "slope": 80
+          }
+        ]
+      },
+      {
+        "name": "Strathtyrum",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5628,
+            "par": 69,
+            "rating": 66.2,
+            "slope": 107
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5628,
+            "par": 69,
+            "rating": 71.7,
+            "slope": 116
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5005,
+            "par": 69,
+            "rating": 63.4,
+            "slope": 101
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5005,
+            "par": 69,
+            "rating": 68.2,
+            "slope": 108
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4722,
+            "par": 69,
+            "rating": 62,
+            "slope": 99
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 4722,
+            "par": 69,
+            "rating": 66.6,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/70aa3fa0-86ac-11e4-8c28-020000005b00/st-andrews-golf-links"
+  }
+}

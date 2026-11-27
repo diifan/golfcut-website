@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3c226e0-86ac-11e4-8c28-020000005b00/singing-bridge-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3c226e0-86ac-11e4-8c28-020000005b00/singing-bridge-golf",
+  "checked_at": 1795697896.4000652,
+  "sha256": "a9f8e9289e9b2709b0b9d009ccf7cafef9fa6ca11b38d9f9eeeab3103868bfa9",
+  "title": "Singing Bridge Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b3c226e0-86ac-11e4-8c28-020000005b00",
+    "name": "Singing Bridge Golf",
+    "address": "1920 Noble Rd",
+    "courses": [
+      {
+        "name": "Singing Bridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White tee",
+            "category": "MALE",
+            "yards": 5926,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 113
+          },
+          {
+            "name": "Red tee",
+            "category": "MALE",
+            "yards": 4752,
+            "par": 71,
+            "rating": 66.6,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3c226e0-86ac-11e4-8c28-020000005b00/singing-bridge-golf"
+  }
+}

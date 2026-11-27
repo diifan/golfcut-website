@@ -1,0 +1,75 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1737bf0-86ac-11e4-8c28-020000005b00/puerto-del-sol",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1737bf0-86ac-11e4-8c28-020000005b00/puerto-del-sol",
+  "checked_at": 1795687685.0332682,
+  "sha256": "b20270bcf164108057faf55e5c6ff2b16f7b8fe7158d7601dcaee10c8b43e5e2",
+  "title": "Puerto Del Sol - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1737bf0-86ac-11e4-8c28-020000005b00",
+    "name": "Puerto Del Sol",
+    "address": "1800 Girard Blvd SE, Albuquerque, NM",
+    "courses": [
+      {
+        "name": "18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 5886,
+            "par": 70,
+            "rating": 65.8,
+            "slope": 113
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5504,
+            "par": 70,
+            "rating": 64,
+            "slope": 110
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4948,
+            "par": 70,
+            "rating": 62,
+            "slope": 107
+          }
+        ]
+      },
+      {
+        "name": "9 Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 2943,
+            "par": 35,
+            "rating": 33.4,
+            "slope": 110
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 2752,
+            "par": 35,
+            "rating": 32,
+            "slope": 110
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 2474,
+            "par": 35,
+            "rating": 31,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1737bf0-86ac-11e4-8c28-020000005b00/puerto-del-sol"
+  }
+}

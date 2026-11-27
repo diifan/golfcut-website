@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6f7fd80-86ac-11e4-8c28-020000005b00/meadowview-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6f7fd80-86ac-11e4-8c28-020000005b00/meadowview-golf-country-club",
+  "checked_at": 1795524509.5143774,
+  "sha256": "19c4d0c5b26d9868130a4a78a37c1338f5e4b59bcd01da0daf673e68ac467dae",
+  "title": "Meadowview Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6f7fd80-86ac-11e4-8c28-020000005b00",
+    "name": "Meadowview Golf & Country Club",
+    "address": "1500 E Maple St, Central City, IA",
+    "courses": [
+      {
+        "name": "Meadowview",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3100,
+            "par": 36,
+            "rating": 36.6,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3100,
+            "par": 37,
+            "rating": 37.4,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2535,
+            "par": 36,
+            "rating": 34,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2535,
+            "par": 37,
+            "rating": 34.4,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6f7fd80-86ac-11e4-8c28-020000005b00/meadowview-golf-country-club"
+  }
+}

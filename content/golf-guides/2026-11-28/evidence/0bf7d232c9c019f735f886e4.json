@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95d63d60-86ac-11e4-8c28-020000005b00/thomas-memorial-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95d63d60-86ac-11e4-8c28-020000005b00/thomas-memorial-golf-country-club",
+  "checked_at": 1795694225.8487809,
+  "sha256": "8f3a20fd8b079f80f6e1a908fa260b49a6016b40c8c5b9be247adf6e4e547659",
+  "title": "Thomas Memorial Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95d63d60-86ac-11e4-8c28-020000005b00",
+    "name": "Thomas Memorial Golf & Country Club",
+    "address": "29 Country Club Lane",
+    "courses": [
+      {
+        "name": "Thomas Memorial",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/White",
+            "category": "MALE",
+            "yards": 5283,
+            "par": 70,
+            "rating": 65.8,
+            "slope": 118
+          },
+          {
+            "name": "White/White",
+            "category": "FEMALE",
+            "yards": 5283,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red/Red",
+            "category": "MALE",
+            "yards": 4766,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red/Red",
+            "category": "FEMALE",
+            "yards": 4766,
+            "par": 70,
+            "rating": 67.2,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95d63d60-86ac-11e4-8c28-020000005b00/thomas-memorial-golf-country-club"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/91e79e10-86ac-11e4-8c28-020000005b00/alpine-bay",
+  "resolved_url": "https://18birdies.com/golf-courses/club/91e79e10-86ac-11e4-8c28-020000005b00/alpine-bay",
+  "checked_at": 1795694438.2596016,
+  "sha256": "70aaf9b0625aa854e38899b61a57b61bd225795ba24a446f1728dfc4697d54c8",
+  "title": "Alpine Bay - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "91e79e10-86ac-11e4-8c28-020000005b00",
+    "name": "Alpine Bay",
+    "address": "9855 Renfroe Rd, Alpine, AL",
+    "courses": [
+      {
+        "name": "Alpine Bay",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6558,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6558,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6149,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6149,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5782,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5782,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5454,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5454,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 128
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 4690,
+            "par": 72,
+            "rating": 63.4,
+            "slope": 106
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 4690,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/91e79e10-86ac-11e4-8c28-020000005b00/alpine-bay"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/840fc380-86ac-11e4-8c28-020000005b00/sparta-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/840fc380-86ac-11e4-8c28-020000005b00/sparta-country-club",
+  "checked_at": 1795582934.282697,
+  "sha256": "9b13dd6dfa9f49c22940f52a89f0b3585643ec5322b3ae990f488833f9543b6e",
+  "title": "Sparta Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "840fc380-86ac-11e4-8c28-020000005b00",
+    "name": "Sparta Country Club",
+    "address": "19 Fairway Drive, Sparta, IL",
+    "courses": [
+      {
+        "name": "Sparta (18 Hole Course)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 5852,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 112
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 5852,
+            "par": 74,
+            "rating": 73,
+            "slope": 128
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5181,
+            "par": 70,
+            "rating": 64.9,
+            "slope": 101
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5181,
+            "par": 74,
+            "rating": 69.4,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5170,
+            "par": 70,
+            "rating": 64.7,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5170,
+            "par": 74,
+            "rating": 69.3,
+            "slope": 109
+          }
+        ]
+      },
+      {
+        "name": "Sparta (9 Hole Course)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 2863,
+            "par": 35,
+            "rating": 33.3,
+            "slope": 114
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 2863,
+            "par": 37,
+            "rating": 36.2,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2602,
+            "par": 35,
+            "rating": 32.5,
+            "slope": 101
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2602,
+            "par": 37,
+            "rating": 34.8,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2591,
+            "par": 35,
+            "rating": 32.3,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2591,
+            "par": 37,
+            "rating": 34.9,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/840fc380-86ac-11e4-8c28-020000005b00/sparta-country-club"
+  }
+}

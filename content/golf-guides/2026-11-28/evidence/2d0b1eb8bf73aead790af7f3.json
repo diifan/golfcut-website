@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/942e59c0-86ac-11e4-8c28-020000005b00/lakeview-springs",
+  "resolved_url": "https://18birdies.com/golf-courses/club/942e59c0-86ac-11e4-8c28-020000005b00/lakeview-springs",
+  "checked_at": 1795663863.6174672,
+  "sha256": "1340dc78f2ec30eb0397f85fbb187cdcce62a867bf21b537964bfbe09f51d31e",
+  "title": "Lakeview Springs - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "942e59c0-86ac-11e4-8c28-020000005b00",
+    "name": "Lakeview Springs",
+    "address": "112 Park Ave, Frankfort, KY",
+    "courses": [
+      {
+        "name": "Lakeview Springs",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1339,
+            "par": 29,
+            "rating": 27.90406,
+            "slope": 84.57648
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1230,
+            "par": 29,
+            "rating": 27.4092,
+            "slope": 82.5796
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1483,
+            "par": 29,
+            "rating": 28.55782,
+            "slope": 87.21456
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/942e59c0-86ac-11e4-8c28-020000005b00/lakeview-springs"
+  }
+}

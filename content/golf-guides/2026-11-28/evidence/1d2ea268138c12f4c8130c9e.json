@@ -1,0 +1,231 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7c339650-86ac-11e4-8c28-020000005b00/golf-club-milano",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7c339650-86ac-11e4-8c28-020000005b00/golf-club-milano",
+  "checked_at": 1795661631.8994703,
+  "sha256": "050b334a66c55ce9663d4abb3ef8a7061b8bac3f8a1ef87ef1bc71dbbc040de3",
+  "title": "Golf Club Milano - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "7c339650-86ac-11e4-8c28-020000005b00",
+    "name": "Golf Club Milano",
+    "address": "Viale Mulini S. Giorgio, 7, Parco Reale di Monza",
+    "courses": [
+      {
+        "name": "Blue 9 Hole",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 3251.3025300000004,
+            "par": 36,
+            "rating": 36,
+            "slope": 126
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 3251.3025300000004,
+            "par": 36,
+            "rating": 38.2,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2893.6920599999994,
+            "par": 36,
+            "rating": 35.6,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2893.6920599999994,
+            "par": 36,
+            "rating": 37,
+            "slope": 124
+          }
+        ]
+      },
+      {
+        "name": "Red | Yellow",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6823.032789999999,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 129
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 6823.032789999999,
+            "par": 72,
+            "rating": 78.2,
+            "slope": 139
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 6024.69749,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 6024.69749,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 7185.017699999999,
+            "par": 72,
+            "rating": 75,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 7185.017699999999,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6323.25302,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6323.25302,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 130
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6087.03326,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 121
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 6087.03326,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 131
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 5423.21199,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 119
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 5423.21199,
+            "par": 72,
+            "rating": 72,
+            "slope": 121
+          }
+        ]
+      },
+      {
+        "name": "Red | Blue",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6649.148799999999,
+            "par": 72,
+            "rating": 72,
+            "slope": 126
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 6649.148799999999,
+            "par": 72,
+            "rating": 77.3,
+            "slope": 137
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5887.99624,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5887.99624,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 124
+          }
+        ]
+      },
+      {
+        "name": "Blue | Yellow",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6676.48905,
+            "par": 72,
+            "rating": 72,
+            "slope": 126
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 6676.48905,
+            "par": 72,
+            "rating": 77.4,
+            "slope": 138
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5924.085369999999,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5924.085369999999,
+            "par": 72,
+            "rating": 74,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7c339650-86ac-11e4-8c28-020000005b00/golf-club-milano"
+  }
+}

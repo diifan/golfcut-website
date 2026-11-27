@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b97ea860-86ac-11e4-8c28-020000005b00/westwood-hills-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b97ea860-86ac-11e4-8c28-020000005b00/westwood-hills-country-club",
+  "checked_at": 1795685215.802491,
+  "sha256": "6fe546bed9c002b4b1a373f1a712542e30b78184e11dc47ce29dc6a28fc4534b",
+  "title": "Westwood Hills Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b97ea860-86ac-11e4-8c28-020000005b00",
+    "name": "Westwood Hills Country Club",
+    "address": "Hwy 67 S, Poplar Bluff, MO",
+    "courses": [
+      {
+        "name": "Westwood Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6126,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5774,
+            "par": 71,
+            "rating": 66.7,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5013,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 116
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5733,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b97ea860-86ac-11e4-8c28-020000005b00/westwood-hills-country-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/995cf320-86ac-11e4-8c28-020000005b00/mechanicville-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/995cf320-86ac-11e4-8c28-020000005b00/mechanicville-golf-club",
+  "checked_at": 1795694352.5604963,
+  "sha256": "672fc4636b60d8a700b586edbf6e6d06d4d3b07dbd3a831b2b373d041109840b",
+  "title": "Mechanicville Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "995cf320-86ac-11e4-8c28-020000005b00",
+    "name": "Mechanicville Golf Club",
+    "address": "45 Howland Ave, Mechanicville, NY",
+    "courses": [
+      {
+        "name": "Mechanicville Golf Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 6087,
+            "par": 72,
+            "rating": 70,
+            "slope": 134
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 6087,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green/Yellow",
+            "category": "MALE",
+            "yards": 5384,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 124
+          },
+          {
+            "name": "Green/Yellow",
+            "category": "FEMALE",
+            "yards": 5384,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 129
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/995cf320-86ac-11e4-8c28-020000005b00/mechanicville-golf-club"
+  }
+}

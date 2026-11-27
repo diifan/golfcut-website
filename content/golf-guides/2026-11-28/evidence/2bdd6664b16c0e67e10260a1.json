@@ -1,0 +1,279 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/82adc280-86ac-11e4-8c28-020000005b00/eagle-ridge",
+  "resolved_url": "https://18birdies.com/golf-courses/club/82adc280-86ac-11e4-8c28-020000005b00/eagle-ridge",
+  "checked_at": 1795661657.4752567,
+  "sha256": "0e150c82d4bf86e9d36fb959465d250c573786a8321266974e70121cc8b8f67d",
+  "title": "Eagle Ridge - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "82adc280-86ac-11e4-8c28-020000005b00",
+    "name": "Eagle Ridge",
+    "address": "444 Eagle Ridge Drive, Galena, IL",
+    "courses": [
+      {
+        "name": "North",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6875,
+            "par": 72,
+            "rating": 73,
+            "slope": 136
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6875,
+            "par": 72,
+            "rating": 78.5,
+            "slope": 140
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6386,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 131
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6386,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 134
+          },
+          {
+            "name": "Jade",
+            "category": "MALE",
+            "yards": 5578,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 122
+          },
+          {
+            "name": "Jade",
+            "category": "FEMALE",
+            "yards": 5578,
+            "par": 72,
+            "rating": 72,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6071,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6071,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 130
+          }
+        ]
+      },
+      {
+        "name": "South",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6762,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 140
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6762,
+            "par": 72,
+            "rating": 77.9,
+            "slope": 139
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6361,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6361,
+            "par": 72,
+            "rating": 75.7,
+            "slope": 134
+          },
+          {
+            "name": "Jade",
+            "category": "MALE",
+            "yards": 5609,
+            "par": 72,
+            "rating": 78.4,
+            "slope": 128
+          },
+          {
+            "name": "Jade",
+            "category": "FEMALE",
+            "yards": 5609,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5983,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5983,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 129
+          }
+        ]
+      },
+      {
+        "name": "East",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 2648,
+            "par": 34,
+            "rating": 33,
+            "slope": 117
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 2648,
+            "par": 34,
+            "rating": 35,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2461,
+            "par": 34,
+            "rating": 32.1,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2461,
+            "par": 34,
+            "rating": 34.2,
+            "slope": 125
+          },
+          {
+            "name": "Jade",
+            "category": "MALE",
+            "yards": 2255,
+            "par": 34,
+            "rating": 32.7,
+            "slope": 104
+          },
+          {
+            "name": "Jade",
+            "category": "FEMALE",
+            "yards": 2255,
+            "par": 34,
+            "rating": 33.1,
+            "slope": 120
+          }
+        ]
+      },
+      {
+        "name": "The General",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6726,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 141
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6726,
+            "par": 72,
+            "rating": 77.7,
+            "slope": 138
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6280,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6280,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 133
+          },
+          {
+            "name": "Jade",
+            "category": "MALE",
+            "yards": 5238,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 132
+          },
+          {
+            "name": "Jade",
+            "category": "FEMALE",
+            "yards": 5238,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5917,
+            "par": 72,
+            "rating": 66,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5917,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 131
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/82adc280-86ac-11e4-8c28-020000005b00/eagle-ridge"
+  }
+}

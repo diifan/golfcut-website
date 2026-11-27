@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/84131ee0-86ac-11e4-8c28-020000005b00/pasfield-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/84131ee0-86ac-11e4-8c28-020000005b00/pasfield-park-golf-course",
+  "checked_at": 1795700338.729731,
+  "sha256": "289b4380d550a0a2881e7a58f63088086990657ec85ee4a8082871202410981b",
+  "title": "Pasfield Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "84131ee0-86ac-11e4-8c28-020000005b00",
+    "name": "Pasfield Park Golf Course",
+    "address": "1700 W Lawrence Ave, Springfield, IL",
+    "courses": [
+      {
+        "name": "Pasfield Park",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2299,
+            "par": 34,
+            "rating": 31,
+            "slope": 94
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1934,
+            "par": 34,
+            "rating": 31.3,
+            "slope": 98
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/84131ee0-86ac-11e4-8c28-020000005b00/pasfield-park-golf-course"
+  }
+}

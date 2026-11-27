@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b25e5120-86ac-11e4-8c28-020000005b00/vienna-greens-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b25e5120-86ac-11e4-8c28-020000005b00/vienna-greens-golf-course",
+  "checked_at": 1795683171.430115,
+  "sha256": "76dab6ad40608bf45130571d6aa80f5e1ad60aadce6eb87693efa57829623c16",
+  "title": "Vienna Greens Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b25e5120-86ac-11e4-8c28-020000005b00",
+    "name": "Vienna Greens Golf Course",
+    "address": "1184 E Tobias Rd",
+    "courses": [
+      {
+        "name": "Vienna Greens",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6335,
+            "par": 70,
+            "rating": 69.8,
+            "slope": 112
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6335,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5912,
+            "par": 70,
+            "rating": 67.8,
+            "slope": 108
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5912,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4898,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4898,
+            "par": 70,
+            "rating": 67.4,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b25e5120-86ac-11e4-8c28-020000005b00/vienna-greens-golf-course"
+  }
+}

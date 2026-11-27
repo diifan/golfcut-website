@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d3bc940-86ac-11e4-8c28-020000005b00/butler-falls-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d3bc940-86ac-11e4-8c28-020000005b00/butler-falls-golf-course",
+  "checked_at": 1795694274.4580429,
+  "sha256": "894ce13bd15be4c652dcb3bcdefae31e917a179fcfdf7b6bebbd20b2fa892790",
+  "title": "Butler Falls Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8d3bc940-86ac-11e4-8c28-020000005b00",
+    "name": "Butler Falls Golf Course",
+    "address": "4766 W Butler Falls Dr, Hanover, IN",
+    "courses": [
+      {
+        "name": "Butler Falls",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5970,
+            "par": 71,
+            "rating": 68.7,
+            "slope": 115
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5970,
+            "par": 71,
+            "rating": 73.6,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5550,
+            "par": 71,
+            "rating": 66.9,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5550,
+            "par": 71,
+            "rating": 71.4,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4515,
+            "par": 71,
+            "rating": 65.5,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4515,
+            "par": 71,
+            "rating": 66.3,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d3bc940-86ac-11e4-8c28-020000005b00/butler-falls-golf-course"
+  }
+}

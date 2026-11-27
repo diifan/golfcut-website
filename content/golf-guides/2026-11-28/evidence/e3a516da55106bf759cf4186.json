@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/c6b07ef0-86ac-11e4-8c28-020000005b00/davyhulme-park",
+  "resolved_url": "https://18birdies.com/golf-courses/club/c6b07ef0-86ac-11e4-8c28-020000005b00/davyhulme-park",
+  "checked_at": 1795583791.4451668,
+  "sha256": "cee5508707cf47045efd5f8887c071dd70114f3249cad4204433164a110d38a2",
+  "title": "Davyhulme Park - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "c6b07ef0-86ac-11e4-8c28-020000005b00",
+    "name": "Davyhulme Park",
+    "address": "Gleneagles Road, Davyhulme, England",
+    "courses": [
+      {
+        "name": "Davyhulme Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6210,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6210,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 132
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5904,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 125
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5904,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5555,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5555,
+            "par": 72,
+            "rating": 61.3,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/c6b07ef0-86ac-11e4-8c28-020000005b00/davyhulme-park"
+  }
+}

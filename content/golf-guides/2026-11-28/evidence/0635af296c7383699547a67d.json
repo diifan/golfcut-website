@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/903d4970-86ac-11e4-8c28-020000005b00/the-abbey-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/903d4970-86ac-11e4-8c28-020000005b00/the-abbey-course",
+  "checked_at": 1795696675.9941268,
+  "sha256": "ff4735aff85d517e55cb72f0d2542356e7b7a672b7889dc8f737729c203a4381",
+  "title": "The Abbey Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "903d4970-86ac-11e4-8c28-020000005b00",
+    "name": "The Abbey Course",
+    "address": "33640 State Road 52 W, Saint Leo, FL",
+    "courses": [
+      {
+        "name": "The Abbey Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5125,
+            "par": 70,
+            "rating": 66.3,
+            "slope": 105
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5125,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4238,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4238,
+            "par": 70,
+            "rating": 65,
+            "slope": 97
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/903d4970-86ac-11e4-8c28-020000005b00/the-abbey-course"
+  }
+}

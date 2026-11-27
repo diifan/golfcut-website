@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9558d000-86ac-11e4-8c28-020000005b00/hemlock-ridge-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9558d000-86ac-11e4-8c28-020000005b00/hemlock-ridge-golf-course",
+  "checked_at": 1795686488.1455534,
+  "sha256": "dd4898b4e9cd8aafdd579e41cc7083a554903f3b9e30328339585aaccf2413ec",
+  "title": "Hemlock Ridge Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9558d000-86ac-11e4-8c28-020000005b00",
+    "name": "Hemlock Ridge Golf Course",
+    "address": "220 Holland Rd, Fiskdale, MA 01518",
+    "courses": [
+      {
+        "name": "Hemlock Ridge",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3287,
+            "par": 36,
+            "rating": 36.6,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3287,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3156,
+            "par": 36,
+            "rating": 35.4,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3156,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2844,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2844,
+            "par": 36,
+            "rating": 35.1,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2582,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2582,
+            "par": 36,
+            "rating": 33.6,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9558d000-86ac-11e4-8c28-020000005b00/hemlock-ridge-golf-course"
+  }
+}

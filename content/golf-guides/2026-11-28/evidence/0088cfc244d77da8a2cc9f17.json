@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af101080-86ac-11e4-8c28-020000005b00/patriot-hills-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af101080-86ac-11e4-8c28-020000005b00/patriot-hills-golf-club",
+  "checked_at": 1795524295.5678174,
+  "sha256": "21d239df059e43ac2d29b4d5319add0855f58b78b50ea3d0fedeebed698c9722",
+  "title": "Patriot Hills Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af101080-86ac-11e4-8c28-020000005b00",
+    "name": "Patriot Hills Golf Club",
+    "address": "735 Constitution Dr Jefferson City, TN",
+    "courses": [
+      {
+        "name": "Patriot Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6710,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6068,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 125
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5609,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4974,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af101080-86ac-11e4-8c28-020000005b00/patriot-hills-golf-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae4aebc0-86ac-11e4-8c28-020000005b00/patriots-point-golf-links",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae4aebc0-86ac-11e4-8c28-020000005b00/patriots-point-golf-links",
+  "checked_at": 1795523889.474254,
+  "sha256": "f2bfec82714824623f7a508d1b68ff204642bebd14291b8890b0de7deee273ac",
+  "title": "Patriots Point Golf Links - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "ae4aebc0-86ac-11e4-8c28-020000005b00",
+    "name": "Patriots Point Golf Links",
+    "address": "1 Patriots Point Rd, Mount Pleasant, SC",
+    "courses": [
+      {
+        "name": "Patriots Point",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6955,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6393,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5847,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5562,
+            "par": 72,
+            "rating": 67,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae4aebc0-86ac-11e4-8c28-020000005b00/patriots-point-golf-links"
+  }
+}

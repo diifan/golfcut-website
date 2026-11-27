@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b522ef60-86ac-11e4-8c28-020000005b00/minocqua",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b522ef60-86ac-11e4-8c28-020000005b00/minocqua",
+  "checked_at": 1795686290.805102,
+  "sha256": "465dc842beca0de713b789ea657565e87b2d7386a166e0999f1cac1e4eac072c",
+  "title": "Minocqua - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b522ef60-86ac-11e4-8c28-020000005b00",
+    "name": "Minocqua",
+    "address": "9299 Country Club Rd, Minocqua, WI",
+    "courses": [
+      {
+        "name": "Minocqua",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Bear",
+            "category": "MALE",
+            "yards": 6739,
+            "par": 72,
+            "rating": 73,
+            "slope": 139
+          },
+          {
+            "name": "Wolf",
+            "category": "MALE",
+            "yards": 6441,
+            "par": 72,
+            "rating": 72,
+            "slope": 135
+          },
+          {
+            "name": "Muskey",
+            "category": "MALE",
+            "yards": 6093,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 132
+          },
+          {
+            "name": "Loon",
+            "category": "MALE",
+            "yards": 5631,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 124
+          },
+          {
+            "name": "Eagle",
+            "category": "MALE",
+            "yards": 5373,
+            "par": 72,
+            "rating": 67.3,
+            "slope": 116
+          },
+          {
+            "name": "Heron",
+            "category": "MALE",
+            "yards": 4945,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b522ef60-86ac-11e4-8c28-020000005b00/minocqua"
+  }
+}

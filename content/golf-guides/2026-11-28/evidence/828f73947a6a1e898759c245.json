@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/88c02c30-86ac-11e4-8c28-020000005b00/black-oak",
+  "resolved_url": "https://18birdies.com/golf-courses/club/88c02c30-86ac-11e4-8c28-020000005b00/black-oak",
+  "checked_at": 1795671978.5309849,
+  "sha256": "31df82ce93cec8e28630ecaf0b714b32ef97e9848da3c44602082be69289f545",
+  "title": "Black Oak - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "88c02c30-86ac-11e4-8c28-020000005b00",
+    "name": "Black Oak",
+    "address": "2455 Black Oak Rd",
+    "courses": [
+      {
+        "name": "Black Oak",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Teal",
+            "category": "MALE",
+            "yards": 3164,
+            "par": 36,
+            "rating": 36.9,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3163,
+            "par": 36,
+            "rating": 35.2,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2983,
+            "par": 36,
+            "rating": 34.5,
+            "slope": 126
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 2851,
+            "par": 36,
+            "rating": 36.1,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2785,
+            "par": 36,
+            "rating": 35.2,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/88c02c30-86ac-11e4-8c28-020000005b00/black-oak"
+  }
+}

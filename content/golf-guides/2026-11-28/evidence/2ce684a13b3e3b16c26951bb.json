@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8682f50-86ac-11e4-8c28-020000005b00/apple-grove",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8682f50-86ac-11e4-8c28-020000005b00/apple-grove",
+  "checked_at": 1795697943.117036,
+  "sha256": "42f85922e9eeb716a336496430006c806cc2f18dea532ed36bb8c3ea6ca27e95",
+  "title": "Apple Grove - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b8682f50-86ac-11e4-8c28-020000005b00",
+    "name": "Apple Grove",
+    "address": "2604 Valley St., Minot, ND",
+    "courses": [
+      {
+        "name": "Apple Grove(9 holes )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2077,
+            "par": 32,
+            "rating": 31.9,
+            "slope": 101
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2077,
+            "par": 32,
+            "rating": 32,
+            "slope": 108
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2064,
+            "par": 32,
+            "rating": 31.9,
+            "slope": 101
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2064,
+            "par": 32,
+            "rating": 31.9,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1960,
+            "par": 32,
+            "rating": 31.4,
+            "slope": 99
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1960,
+            "par": 32,
+            "rating": 31.4,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8682f50-86ac-11e4-8c28-020000005b00/apple-grove"
+  }
+}

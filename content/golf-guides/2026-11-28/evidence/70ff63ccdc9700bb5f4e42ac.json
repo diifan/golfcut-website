@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b607aa10-86ac-11e4-8c28-020000005b00/winchester-hill-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b607aa10-86ac-11e4-8c28-020000005b00/winchester-hill-golf-course",
+  "checked_at": 1795685173.2157025,
+  "sha256": "5bc535b7dd4fe18aa876264612b6a9e0b0492917f1d9d6dea36b8d316a7ed38c",
+  "title": "Winchester Hill Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b607aa10-86ac-11e4-8c28-020000005b00",
+    "name": "Winchester Hill Golf Course",
+    "address": "5310 State Road 150, Larsen, WI",
+    "courses": [
+      {
+        "name": "Winchester Hill Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4434,
+            "par": 65,
+            "rating": 60.4,
+            "slope": 94
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4434,
+            "par": 65,
+            "rating": 65.5,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4356,
+            "par": 65,
+            "rating": 64.8,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4356,
+            "par": 65,
+            "rating": 63.7,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b607aa10-86ac-11e4-8c28-020000005b00/winchester-hill-golf-course"
+  }
+}

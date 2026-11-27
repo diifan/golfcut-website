@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83468010-86ac-11e4-8c28-020000005b00/maple-lane-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83468010-86ac-11e4-8c28-020000005b00/maple-lane-country-club",
+  "checked_at": 1795524675.8774035,
+  "sha256": "5fd822b7dcf04bc9415325fbaf197e3186ec2922befbe628c29e800dc64be066",
+  "title": "Maple Lane Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "83468010-86ac-11e4-8c28-020000005b00",
+    "name": "Maple Lane Country Club",
+    "address": "701 N. Magnolia, Elmwood, Illinois 61529, Peoria County",
+    "courses": [
+      {
+        "name": "Maple Lane",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6050,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6050,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 6050,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 6050,
+            "par": 71,
+            "rating": 71.7,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83468010-86ac-11e4-8c28-020000005b00/maple-lane-country-club"
+  }
+}

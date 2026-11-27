@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/94faf890-86ac-11e4-8c28-020000005b00/blue-heron",
+  "resolved_url": "https://18birdies.com/golf-courses/club/94faf890-86ac-11e4-8c28-020000005b00/blue-heron",
+  "checked_at": 1795700473.4041972,
+  "sha256": "3e9328caf76688bd7da4aef9035c990d44c4bcd719dc5f748fb3468793326a2e",
+  "title": "Blue Heron - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "94faf890-86ac-11e4-8c28-020000005b00",
+    "name": "Blue Heron",
+    "address": "3270 Romancoke Rd, Stevensville, MD",
+    "courses": [
+      {
+        "name": "Blue Heron",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4128,
+            "par": 63,
+            "rating": 63.7,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3991,
+            "par": 63,
+            "rating": 63.1,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3341,
+            "par": 63,
+            "rating": 60.1,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/94faf890-86ac-11e4-8c28-020000005b00/blue-heron"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/c1ee14e0-86ac-11e4-8c28-020000005b00/bath-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/c1ee14e0-86ac-11e4-8c28-020000005b00/bath-golf-club",
+  "checked_at": 1795694123.9005227,
+  "sha256": "a454c2578c464383cf3c996090a1e7dc28ce26c5ef373410c9565faca288a0df",
+  "title": "Bath Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "c1ee14e0-86ac-11e4-8c28-020000005b00",
+    "name": "Bath Golf Club",
+    "address": "Sham Castle, Golf Course Road, Somerset, Bath, UK",
+    "courses": [
+      {
+        "name": "Bath",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6464,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6464,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6070,
+            "par": 71,
+            "rating": 69.3,
+            "slope": 119
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 6070,
+            "par": 71,
+            "rating": 75.6,
+            "slope": 136
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5833,
+            "par": 71,
+            "rating": 68.3,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5833,
+            "par": 71,
+            "rating": 73.6,
+            "slope": 132
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/c1ee14e0-86ac-11e4-8c28-020000005b00/bath-golf-club"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/f6d8d7e0-514c-11e7-aa7a-0680a328ea36/river-edge-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/f6d8d7e0-514c-11e7-aa7a-0680a328ea36/river-edge-golf-course",
+  "checked_at": 1795663497.579779,
+  "sha256": "c076552ebf1bd2ce6ca2e5426394bedab7c4e446fe3c39b813ab50db0a67251c",
+  "title": "RiverEdge Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "f6d8d7e0-514c-11e7-aa7a-0680a328ea36",
+    "name": "RiverEdge Golf Course",
+    "address": "10191 Mill Creek Drive, Marshfield, WI 54449",
+    "courses": [
+      {
+        "name": "RiverEdge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6554,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6554,
+            "par": 72,
+            "rating": 76.8,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6318,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6318,
+            "par": 72,
+            "rating": 75.5,
+            "slope": 133
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5634,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 112
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5634,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5361,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5361,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/f6d8d7e0-514c-11e7-aa7a-0680a328ea36/river-edge-golf-course"
+  }
+}

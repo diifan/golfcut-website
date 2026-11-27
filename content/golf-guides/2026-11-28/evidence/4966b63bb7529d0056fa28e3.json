@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83610cf0-86ac-11e4-8c28-020000005b00/the-legacy-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83610cf0-86ac-11e4-8c28-020000005b00/the-legacy-golf-course",
+  "checked_at": 1795686298.23176,
+  "sha256": "de26417417040614bf65cc2095ff9960fa83c5c30046c916fcccdad78aff961c",
+  "title": "The Legacy Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "83610cf0-86ac-11e4-8c28-020000005b00",
+    "name": "The Legacy Golf Course",
+    "address": "3500 Cargill Rd, Granite City, IL",
+    "courses": [
+      {
+        "name": "Legacy",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6419,
+            "par": 71,
+            "rating": 70.4,
+            "slope": 114
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6419,
+            "par": 71,
+            "rating": 76,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6021,
+            "par": 71,
+            "rating": 68.7,
+            "slope": 110
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6021,
+            "par": 71,
+            "rating": 73.6,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5177,
+            "par": 71,
+            "rating": 68.5,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5177,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83610cf0-86ac-11e4-8c28-020000005b00/the-legacy-golf-course"
+  }
+}

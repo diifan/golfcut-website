@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b14455a0-86ac-11e4-8c28-020000005b00/riverlands-golf-and-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b14455a0-86ac-11e4-8c28-020000005b00/riverlands-golf-and-country-club",
+  "checked_at": 1795694208.400486,
+  "sha256": "f927d4ad076ff75ea4c1c93db4b7e6fafcce3511c6f5a6d0829323a45ab482a3",
+  "title": "Riverlands Golf and Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b14455a0-86ac-11e4-8c28-020000005b00",
+    "name": "Riverlands Golf and Country Club",
+    "address": "500 Fairway Dr, La Place, LA",
+    "courses": [
+      {
+        "name": "Riverlands",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6900,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6551,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5750,
+            "par": 72,
+            "rating": 66.9,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5439,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b14455a0-86ac-11e4-8c28-020000005b00/riverlands-golf-and-country-club"
+  }
+}

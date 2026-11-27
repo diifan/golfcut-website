@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/bf54a550-86ac-11e4-8c28-020000005b00/boyce-hill",
+  "resolved_url": "https://18birdies.com/golf-courses/club/bf54a550-86ac-11e4-8c28-020000005b00/boyce-hill",
+  "checked_at": 1795661641.4603004,
+  "sha256": "08b73f01f9c64d983c2a88066b476f7c8ceaac54dfddec0bc55bf3ac0622976a",
+  "title": "Boyce Hill Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "bf54a550-86ac-11e4-8c28-020000005b00",
+    "name": "Boyce Hill Golf Club",
+    "address": "Vicarage Hill, South Benfleet, Essex, England",
+    "courses": [
+      {
+        "name": "Boyce Hill",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6009,
+            "par": 68,
+            "rating": 70.3,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6009,
+            "par": 68,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5801,
+            "par": 68,
+            "rating": 69.4,
+            "slope": 122
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5801,
+            "par": 68,
+            "rating": 74.7,
+            "slope": 135
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5330,
+            "par": 68,
+            "rating": 67.4,
+            "slope": 114
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5330,
+            "par": 68,
+            "rating": 72,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4396,
+            "par": 68,
+            "rating": 62.7,
+            "slope": 104
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4396,
+            "par": 68,
+            "rating": 66.6,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/bf54a550-86ac-11e4-8c28-020000005b00/boyce-hill"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/76758e30-86ac-11e4-8c28-020000005b00/fox-hollow-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/76758e30-86ac-11e4-8c28-020000005b00/fox-hollow-golf-club",
+  "checked_at": 1795661466.499068,
+  "sha256": "1c32e699df66c375d681655d1869188ba1ddba56460fd0aae89b87fe220c1425",
+  "title": "Fox Hollow Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "76758e30-86ac-11e4-8c28-020000005b00",
+    "name": "Fox Hollow Golf Club",
+    "address": "802 Highway #2, Stewaicke, Nova Scotia",
+    "courses": [
+      {
+        "name": "Fox Hollow",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6601,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6419,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 131
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6014,
+            "par": 72,
+            "rating": 70,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5387,
+            "par": 72,
+            "rating": 66.9,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/76758e30-86ac-11e4-8c28-020000005b00/fox-hollow-golf-club"
+  }
+}

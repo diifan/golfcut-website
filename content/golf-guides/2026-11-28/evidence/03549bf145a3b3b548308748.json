@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b20c1270-86ac-11e4-8c28-020000005b00/georgetown-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b20c1270-86ac-11e4-8c28-020000005b00/georgetown-country-club",
+  "checked_at": 1795700317.5255532,
+  "sha256": "1992c4eeedc03cad329d7de297a84cebf68c6d23b3085f39578bdacf07f6db4f",
+  "title": "Georgetown Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b20c1270-86ac-11e4-8c28-020000005b00",
+    "name": "Georgetown Country Club",
+    "address": "1365 King George Blvd",
+    "courses": [
+      {
+        "name": "Georgetown",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2544,
+            "par": 56,
+            "rating": 54.11516,
+            "slope": 81.27716
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2544,
+            "par": 58,
+            "rating": 54.11516,
+            "slope": 81.27716
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 2348,
+            "par": 56,
+            "rating": 53.30372,
+            "slope": 80.31872
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 2348,
+            "par": 58,
+            "rating": 53.30372,
+            "slope": 80.31872
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b20c1270-86ac-11e4-8c28-020000005b00/georgetown-country-club"
+  }
+}

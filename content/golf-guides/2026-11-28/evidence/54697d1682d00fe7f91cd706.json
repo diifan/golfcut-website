@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/aeaeddb0-86ac-11e4-8c28-020000005b00/lake-region-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/aeaeddb0-86ac-11e4-8c28-020000005b00/lake-region-golf-club",
+  "checked_at": 1795694168.38723,
+  "sha256": "88b5a9cf7f5c3ed5dd0bc05734f303dfb0cb3534ff3474d7606198f7d1b611e1",
+  "title": "Lake Region Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "aeaeddb0-86ac-11e4-8c28-020000005b00",
+    "name": "Lake Region Golf Club",
+    "address": "45373 Golf Course Road",
+    "courses": [
+      {
+        "name": "Lake Region",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6442,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6085,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 119
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5018,
+            "par": 72,
+            "rating": 64.6,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4945,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/aeaeddb0-86ac-11e4-8c28-020000005b00/lake-region-golf-club"
+  }
+}

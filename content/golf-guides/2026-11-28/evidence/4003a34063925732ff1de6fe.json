@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/1a1565b0-bd3f-11e9-a83f-06780482e2ce/hualalai-golf-club-keolu-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/1a1565b0-bd3f-11e9-a83f-06780482e2ce/hualalai-golf-club-keolu-course",
+  "checked_at": 1795686320.145029,
+  "sha256": "4e060fa1f3387802308195ee3dfebae242ff1dbcb645406da37c8bb8f383b757",
+  "title": "Hualalai Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "1a1565b0-bd3f-11e9-a83f-06780482e2ce",
+    "name": "Hualalai Golf Course",
+    "address": "100 Kaupulehu Dr, Kaupulehu-Kona, HI",
+    "courses": [
+      {
+        "name": "Keolu",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Pohaku",
+            "category": "MALE",
+            "yards": 7190,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 133
+          },
+          {
+            "name": "Pohaku",
+            "category": "FEMALE",
+            "yards": 7190,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6734,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 129
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 6734,
+            "par": 72,
+            "rating": 77.7,
+            "slope": 138
+          },
+          {
+            "name": "Regular",
+            "category": "MALE",
+            "yards": 6150,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 125
+          },
+          {
+            "name": "Regular",
+            "category": "FEMALE",
+            "yards": 6150,
+            "par": 72,
+            "rating": 76,
+            "slope": 132
+          },
+          {
+            "name": "Mua",
+            "category": "MALE",
+            "yards": 5168,
+            "par": 72,
+            "rating": 65.2,
+            "slope": 113
+          },
+          {
+            "name": "Mua",
+            "category": "FEMALE",
+            "yards": 5168,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/1a1565b0-bd3f-11e9-a83f-06780482e2ce/hualalai-golf-club-keolu-course"
+  }
+}

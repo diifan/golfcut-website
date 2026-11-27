@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/982f2180-86ac-11e4-8c28-020000005b00/east-orange-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/982f2180-86ac-11e4-8c28-020000005b00/east-orange-golf-course",
+  "checked_at": 1795686579.0341125,
+  "sha256": "9a0cfeaf225c68e6fd6e1af301e8723b1aac5c87565f1c209c42acc8c000f9a9",
+  "title": "East Orange Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "982f2180-86ac-11e4-8c28-020000005b00",
+    "name": "East Orange Golf Course",
+    "address": "440 Parsonage Hill Rd Short Hills, NJ",
+    "courses": [
+      {
+        "name": "East Orange",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 5687,
+            "par": 70,
+            "rating": 67,
+            "slope": 120
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 5687,
+            "par": 70,
+            "rating": 72.6,
+            "slope": 129
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5402,
+            "par": 70,
+            "rating": 65.7,
+            "slope": 112
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5402,
+            "par": 70,
+            "rating": 70.9,
+            "slope": 124
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4725,
+            "par": 70,
+            "rating": 63.4,
+            "slope": 102
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 4725,
+            "par": 70,
+            "rating": 67.3,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/982f2180-86ac-11e4-8c28-020000005b00/east-orange-golf-course"
+  }
+}

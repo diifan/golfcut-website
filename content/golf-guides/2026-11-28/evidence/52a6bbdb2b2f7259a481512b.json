@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/952b0940-86ac-11e4-8c28-020000005b00/pine-meadows-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/952b0940-86ac-11e4-8c28-020000005b00/pine-meadows-golf-club",
+  "checked_at": 1795685265.9633312,
+  "sha256": "299e6b79400a8b2560d9f5822a39fbb426ae4fd4fa1d65eb9223b14907cd15ae",
+  "title": "Pine Meadows Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "952b0940-86ac-11e4-8c28-020000005b00",
+    "name": "Pine Meadows Golf Club",
+    "address": "255 Cedar Street, Lexington, MA",
+    "courses": [
+      {
+        "name": "9 Holes ",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2661,
+            "par": 35,
+            "rating": 33.3,
+            "slope": 113
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2661,
+            "par": 35,
+            "rating": 35.6,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2371,
+            "par": 35,
+            "rating": 32.2,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2371,
+            "par": 35,
+            "rating": 34.4,
+            "slope": 110
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2129,
+            "par": 35,
+            "rating": 31.2,
+            "slope": 100
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2129,
+            "par": 35,
+            "rating": 32.9,
+            "slope": 108
+          }
+        ]
+      },
+      {
+        "name": "18 Hole Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5322,
+            "par": 70,
+            "rating": 67,
+            "slope": 105
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5322,
+            "par": 70,
+            "rating": 70.2,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4742,
+            "par": 70,
+            "rating": 62.8,
+            "slope": 102
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4742,
+            "par": 70,
+            "rating": 67.1,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4258,
+            "par": 70,
+            "rating": 65,
+            "slope": 103
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4258,
+            "par": 70,
+            "rating": 64.5,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/952b0940-86ac-11e4-8c28-020000005b00/pine-meadows-golf-club"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a0df3a0-86ac-11e4-8c28-020000005b00/west-point-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a0df3a0-86ac-11e4-8c28-020000005b00/west-point-golf-course",
+  "checked_at": 1795661687.2329698,
+  "sha256": "ddb073d013e83540c7e17c50abf4de3fbc43ca6226c73b62945978dffae2a63c",
+  "title": "West Point Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9a0df3a0-86ac-11e4-8c28-020000005b00",
+    "name": "West Point Golf Course",
+    "address": "Route 218 & Route 9W, West Point, NY",
+    "courses": [
+      {
+        "name": "West Point",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6036,
+            "par": 70,
+            "rating": 70.5,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6036,
+            "par": 70,
+            "rating": 75.7,
+            "slope": 132
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5573,
+            "par": 70,
+            "rating": 69,
+            "slope": 131
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5573,
+            "par": 70,
+            "rating": 72.9,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4940,
+            "par": 70,
+            "rating": 64.1,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4940,
+            "par": 70,
+            "rating": 67.3,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4647,
+            "par": 70,
+            "rating": 63.5,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4647,
+            "par": 70,
+            "rating": 67.3,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a0df3a0-86ac-11e4-8c28-020000005b00/west-point-golf-course"
+  }
+}

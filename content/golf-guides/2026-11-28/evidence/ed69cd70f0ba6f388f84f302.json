@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afc86400-86ac-11e4-8c28-020000005b00/country-club-of-culpeper",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afc86400-86ac-11e4-8c28-020000005b00/country-club-of-culpeper",
+  "checked_at": 1795694206.158814,
+  "sha256": "288d18771787236bacc2fdfe2433bb1e979e54f07d462806f58df3b761b95db0",
+  "title": "Country Club of Culpeper - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "afc86400-86ac-11e4-8c28-020000005b00",
+    "name": "Country Club of Culpeper",
+    "address": "Country Club Ln, Culpeper, VA",
+    "courses": [
+      {
+        "name": "Culpeper",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6027,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5577,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5137,
+            "par": 71,
+            "rating": 65.2,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4618,
+            "par": 71,
+            "rating": 63.4,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afc86400-86ac-11e4-8c28-020000005b00/country-club-of-culpeper"
+  }
+}

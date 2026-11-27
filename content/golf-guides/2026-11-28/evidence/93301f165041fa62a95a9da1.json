@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b22ce0e0-86ac-11e4-8c28-020000005b00/springdale-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b22ce0e0-86ac-11e4-8c28-020000005b00/springdale-golf-course",
+  "checked_at": 1795524965.1887405,
+  "sha256": "ac4654e8aaa70f41c1907d16fcc71f057b9ffeaf2847b9723f452d5be9e83031",
+  "title": "Springdale Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b22ce0e0-86ac-11e4-8c28-020000005b00",
+    "name": "Springdale Golf Course",
+    "address": "316 Strathmore, Birmingham, MI",
+    "courses": [
+      {
+        "name": "Springdale",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2732,
+            "par": 34,
+            "rating": 33.4,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2732,
+            "par": 34,
+            "rating": 35.9,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2429,
+            "par": 34,
+            "rating": 31.7,
+            "slope": 104
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2429,
+            "par": 34,
+            "rating": 34.2,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2196,
+            "par": 34,
+            "rating": 31,
+            "slope": 101
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2196,
+            "par": 34,
+            "rating": 32.5,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b22ce0e0-86ac-11e4-8c28-020000005b00/springdale-golf-course"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8a53850-86ac-11e4-8c28-020000005b00/harrison-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8a53850-86ac-11e4-8c28-020000005b00/harrison-country-club",
+  "checked_at": 1795666509.5257895,
+  "sha256": "fe974d7eef51608a79585c3f30bc7cebeeb5ffa9174cf3d22356f5a515abcfea",
+  "title": "Harrison Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b8a53850-86ac-11e4-8c28-020000005b00",
+    "name": "Harrison Country Club",
+    "address": "110 Country Club Lane",
+    "courses": [
+      {
+        "name": "Harrison",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6066,
+            "par": 70,
+            "rating": 70.2,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6066,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5743,
+            "par": 70,
+            "rating": 68.3,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5743,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5049,
+            "par": 70,
+            "rating": 64.8,
+            "slope": 109
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5049,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4943,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4943,
+            "par": 70,
+            "rating": 69.2,
+            "slope": 119
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 3892,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 3892,
+            "par": 70,
+            "rating": 64.1,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8a53850-86ac-11e4-8c28-020000005b00/harrison-country-club"
+  }
+}

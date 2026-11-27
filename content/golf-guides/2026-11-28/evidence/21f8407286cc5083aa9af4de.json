@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b09d6740-86ac-11e4-8c28-020000005b00/sandy-point-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b09d6740-86ac-11e4-8c28-020000005b00/sandy-point-golf-course",
+  "checked_at": 1795524261.0408158,
+  "sha256": "c9308dc624a0d65c3caddc2f9e2f0392e40947207e126af5c2f0cc0506faaf26",
+  "title": "Sandy Point Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b09d6740-86ac-11e4-8c28-020000005b00",
+    "name": "Sandy Point Golf Course",
+    "address": "4460 Decadure Dr",
+    "courses": [
+      {
+        "name": "Sandy Point",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Yards",
+            "category": "MALE",
+            "yards": 2676,
+            "par": 54,
+            "rating": 54.66164,
+            "slope": 81.92264
+          },
+          {
+            "name": "Yards",
+            "category": "FEMALE",
+            "yards": 2551,
+            "par": 60,
+            "rating": 54.14414,
+            "slope": 81.31139
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b09d6740-86ac-11e4-8c28-020000005b00/sandy-point-golf-course"
+  }
+}

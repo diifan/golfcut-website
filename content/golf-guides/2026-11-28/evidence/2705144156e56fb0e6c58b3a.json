@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2151320-86ac-11e4-8c28-020000005b00/marquette-trails-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2151320-86ac-11e4-8c28-020000005b00/marquette-trails-golf-course",
+  "checked_at": 1795685313.5004823,
+  "sha256": "7d13af07b73f7e94bee16cfe14ff4a52efd16308aec9e03fb39324e88a444c90",
+  "title": "Marquette Trails Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b2151320-86ac-11e4-8c28-020000005b00",
+    "name": "Marquette Trails Golf Course",
+    "address": "6409 W. 76TH ST.",
+    "courses": [
+      {
+        "name": "Marquette Trails",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 5909,
+            "par": 70,
+            "rating": 70.5,
+            "slope": 135
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5580,
+            "par": 70,
+            "rating": 69,
+            "slope": 127
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4594,
+            "par": 70,
+            "rating": 65.9,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2151320-86ac-11e4-8c28-020000005b00/marquette-trails-golf-course"
+  }
+}

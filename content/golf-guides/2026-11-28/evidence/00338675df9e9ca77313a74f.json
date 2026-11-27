@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9bd2fc30-86ac-11e4-8c28-020000005b00/east-liverpool-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9bd2fc30-86ac-11e4-8c28-020000005b00/east-liverpool-country-club",
+  "checked_at": 1795697931.9203374,
+  "sha256": "33ae5ba0f9054acfddfeb6bd9320991ccd110958002df163fdb499565f02ab87",
+  "title": "East Liverpool Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9bd2fc30-86ac-11e4-8c28-020000005b00",
+    "name": "East Liverpool Country Club",
+    "address": "2485 Parkway",
+    "courses": [
+      {
+        "name": "East Liverpool(9 holes )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3160,
+            "par": 36,
+            "rating": 35.3,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3160,
+            "par": 36,
+            "rating": 37.8,
+            "slope": 128
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 2701,
+            "par": 36,
+            "rating": 34.8,
+            "slope": 112
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 2701,
+            "par": 36,
+            "rating": 36,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9bd2fc30-86ac-11e4-8c28-020000005b00/east-liverpool-country-club"
+  }
+}

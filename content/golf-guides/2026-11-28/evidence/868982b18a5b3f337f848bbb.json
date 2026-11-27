@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4f96e60-86ac-11e4-8c28-020000005b00/astoria-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4f96e60-86ac-11e4-8c28-020000005b00/astoria-golf-country-club",
+  "checked_at": 1795524718.6463957,
+  "sha256": "7ab07e7059e4a00e438a478e7cbb3d279be64252dc5d5e203e977676d2c8b871",
+  "title": "Astoria Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b4f96e60-86ac-11e4-8c28-020000005b00",
+    "name": "Astoria Golf & Country Club",
+    "address": "33445 Sunset Beach Ln",
+    "courses": [
+      {
+        "name": "Astoria",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6538,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 123
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 6331,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 122
+          },
+          {
+            "name": "Combo",
+            "category": "MALE",
+            "yards": 5966,
+            "par": 72,
+            "rating": 69,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5753,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 114
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5495,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4f96e60-86ac-11e4-8c28-020000005b00/astoria-golf-country-club"
+  }
+}

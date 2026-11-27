@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3020b30-86ac-11e4-8c28-020000005b00/lost-lake-woods-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3020b30-86ac-11e4-8c28-020000005b00/lost-lake-woods-club",
+  "checked_at": 1795694154.3181305,
+  "sha256": "06c9347f0cfe2de0390ceda37a9d8454328c64678811db786296e03a1237d078",
+  "title": "Lost Lake Woods Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b3020b30-86ac-11e4-8c28-020000005b00",
+    "name": "Lost Lake Woods Club",
+    "address": "4243 Lost Lake Trl",
+    "courses": [
+      {
+        "name": "Lost Lake Woods Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6433,
+            "par": 71,
+            "rating": 70.9,
+            "slope": 130
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5639,
+            "par": 71,
+            "rating": 67.5,
+            "slope": 118
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5130,
+            "par": 71,
+            "rating": 68.3,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3020b30-86ac-11e4-8c28-020000005b00/lost-lake-woods-club"
+  }
+}

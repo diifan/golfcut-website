@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8373aa90-86ac-11e4-8c28-020000005b00/hazy-hills",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8373aa90-86ac-11e4-8c28-020000005b00/hazy-hills",
+  "checked_at": 1795694383.7122343,
+  "sha256": "9ae17b53c40e83c39cb35f00b00ef327c91bd5bca9fe1cf299859f79f4b076ea",
+  "title": "Hazy Hills - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8373aa90-86ac-11e4-8c28-020000005b00",
+    "name": "Hazy Hills",
+    "address": "Rural Route 1, Hudson, IL",
+    "courses": [
+      {
+        "name": "Hazy Hills",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2900,
+            "par": 35,
+            "rating": 36.1,
+            "slope": 105
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2900,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2743,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2743,
+            "par": 35,
+            "rating": 36.1,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8373aa90-86ac-11e4-8c28-020000005b00/hazy-hills"
+  }
+}

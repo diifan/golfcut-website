@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/c6318af0-86ac-11e4-8c28-020000005b00/the-addington",
+  "resolved_url": "https://18birdies.com/golf-courses/club/c6318af0-86ac-11e4-8c28-020000005b00/the-addington",
+  "checked_at": 1795583823.056598,
+  "sha256": "9a118af97822625e7ce8aa2eb09fbdf841a814c3b0898fb7c5dee3aa51de6704",
+  "title": "The Addington Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "c6318af0-86ac-11e4-8c28-020000005b00",
+    "name": "The Addington Golf Club",
+    "address": "205 Shirley Church Road, Croydon, Surrey, Greater London, CR0 5AB, United Kingdom",
+    "courses": [
+      {
+        "name": "The Addington",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6300,
+            "par": 69,
+            "rating": 71.6,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6300,
+            "par": 69,
+            "rating": 75.4,
+            "slope": 133
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5940,
+            "par": 69,
+            "rating": 69.8,
+            "slope": 129
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5940,
+            "par": 69,
+            "rating": 73.5,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5440,
+            "par": 69,
+            "rating": 69.7,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5440,
+            "par": 69,
+            "rating": 73.1,
+            "slope": 138
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/c6318af0-86ac-11e4-8c28-020000005b00/the-addington"
+  }
+}

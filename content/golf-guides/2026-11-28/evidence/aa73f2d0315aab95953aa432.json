@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/769dd6b0-86ac-11e4-8c28-020000005b00/annandale-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/769dd6b0-86ac-11e4-8c28-020000005b00/annandale-golf-country-club",
+  "checked_at": 1795664745.02665,
+  "sha256": "ba47c3a030b13f19085d517adf392da6c9aa565ba5e00ca90523d734f59f1fa8",
+  "title": "Annandale Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star-o star star-o star-o star star star-o star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "769dd6b0-86ac-11e4-8c28-020000005b00",
+    "name": "Annandale Golf & Country Club",
+    "address": "221 Church Street South",
+    "courses": [
+      {
+        "name": "Annandale",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6100,
+            "par": 71,
+            "rating": 68,
+            "slope": 104
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5859,
+            "par": 71,
+            "rating": 67,
+            "slope": 101
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5513,
+            "par": 71,
+            "rating": 70,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/769dd6b0-86ac-11e4-8c28-020000005b00/annandale-golf-country-club"
+  }
+}

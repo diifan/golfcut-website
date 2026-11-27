@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/c63a1670-86ac-11e4-8c28-020000005b00/city-of-newcastle-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/c63a1670-86ac-11e4-8c28-020000005b00/city-of-newcastle-golf-club",
+  "checked_at": 1795524323.7234266,
+  "sha256": "926420852ef7df815b776cf8907e4c54ddafb7d3075adab8397bbbd77be89802",
+  "title": "City Of Newcastle Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "c63a1670-86ac-11e4-8c28-020000005b00",
+    "name": "City Of Newcastle Golf Club",
+    "address": "Three Mile Bridge, Gosforth, Newcastle upon Tyne",
+    "courses": [
+      {
+        "name": "City Of Newcastle",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6523,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6523,
+            "par": 72,
+            "rating": 76.6,
+            "slope": 136
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6141,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 128
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 6141,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5577,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5577,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 131
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/c63a1670-86ac-11e4-8c28-020000005b00/city-of-newcastle-golf-club"
+  }
+}

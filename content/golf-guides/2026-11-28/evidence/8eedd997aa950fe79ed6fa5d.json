@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d141d00-86ac-11e4-8c28-020000005b00/carroll-county-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d141d00-86ac-11e4-8c28-020000005b00/carroll-county-country-club",
+  "checked_at": 1795661433.6936533,
+  "sha256": "dfd61b25483350b9978a68b1159298dfabfc86fb91a2a3f179af5e12fa66c839",
+  "title": "Carroll County Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d141d00-86ac-11e4-8c28-020000005b00",
+    "name": "Carroll County Country Club",
+    "address": "411 E Howard St, Delphi, IN",
+    "courses": [
+      {
+        "name": "Carroll County",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6058,
+            "par": 71,
+            "rating": 72.5,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6058,
+            "par": 71,
+            "rating": 74.1,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5132,
+            "par": 71,
+            "rating": 68.3,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5132,
+            "par": 71,
+            "rating": 69.2,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d141d00-86ac-11e4-8c28-020000005b00/carroll-county-country-club"
+  }
+}

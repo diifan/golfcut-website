@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/61e3d660-ab9e-11f1-b1c7-069933b83eb1/pete-brown-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/61e3d660-ab9e-11f1-b1c7-069933b83eb1/pete-brown-golf-course",
+  "checked_at": 1795694332.7758553,
+  "sha256": "d899aac92c5ea29f1cff61d3b50685e7e170999e3ad13c23eda685f71ebd3d9d",
+  "title": "Pete Brown Golf Facility - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star-o star star star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "61e3d660-ab9e-11f1-b1c7-069933b83eb1",
+    "name": "Pete Brown Golf Facility",
+    "address": "3200 W Woodrow Wilson Ave Jackson, MS 39209",
+    "courses": [
+      {
+        "name": "Pete Brown",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6631,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 116
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6631,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6292,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6292,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5506,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5506,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4917,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4917,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/61e3d660-ab9e-11f1-b1c7-069933b83eb1/pete-brown-golf-course"
+  }
+}

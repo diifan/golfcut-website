@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b21190b0-86ac-11e4-8c28-020000005b00/knoll-view-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b21190b0-86ac-11e4-8c28-020000005b00/knoll-view-golf-course",
+  "checked_at": 1795524280.7044153,
+  "sha256": "2d3f8f96eeca36a61a99211661557aec38350fc30bc0d47277d60b96b0682c2a",
+  "title": "Knoll View Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b21190b0-86ac-11e4-8c28-020000005b00",
+    "name": "Knoll View Golf Course",
+    "address": "1020 E. US 23 Highway",
+    "courses": [
+      {
+        "name": "Knoll View",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4330,
+            "par": 66,
+            "rating": 64.6,
+            "slope": 110
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 3692,
+            "par": 66,
+            "rating": 61.7,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3439,
+            "par": 66,
+            "rating": 60.6,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b21190b0-86ac-11e4-8c28-020000005b00/knoll-view-golf-course"
+  }
+}

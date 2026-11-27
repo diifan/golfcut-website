@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96e9d040-86ac-11e4-8c28-020000005b00/grandy-nine-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96e9d040-86ac-11e4-8c28-020000005b00/grandy-nine-golf-course",
+  "checked_at": 1795694146.3775988,
+  "sha256": "c1586da8761a1a52cd21205d54c9d3362de10db7717c3903383230f345e530a7",
+  "title": "Grandy Nine Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96e9d040-86ac-11e4-8c28-020000005b00",
+    "name": "Grandy Nine Golf Course",
+    "address": "1199 361st Ave NE",
+    "courses": [
+      {
+        "name": "Grandy Nine",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2712,
+            "par": 35,
+            "rating": 33.1,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2712,
+            "par": 36,
+            "rating": 35.3,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2388,
+            "par": 35,
+            "rating": 33.3,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2388,
+            "par": 36,
+            "rating": 33.6,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96e9d040-86ac-11e4-8c28-020000005b00/grandy-nine-golf-course"
+  }
+}

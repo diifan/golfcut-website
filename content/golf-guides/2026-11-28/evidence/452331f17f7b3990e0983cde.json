@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/90b5fbe0-86ac-11e4-8c28-020000005b00/willowbrook-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/90b5fbe0-86ac-11e4-8c28-020000005b00/willowbrook-golf-course",
+  "checked_at": 1795524815.2921188,
+  "sha256": "510d4f9be353ff1ec22ea55497c163b2287cd39f387269f2698212ff7f6c4f4c",
+  "title": "Willowbrook Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "90b5fbe0-86ac-11e4-8c28-020000005b00",
+    "name": "Willowbrook Golf Course",
+    "address": "4200 State Road 544 East, Winter Haven, FL 33881",
+    "courses": [
+      {
+        "name": "Willowbrook",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6449,
+            "par": 72,
+            "rating": 71,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6106,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5530,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5344,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/90b5fbe0-86ac-11e4-8c28-020000005b00/willowbrook-golf-course"
+  }
+}

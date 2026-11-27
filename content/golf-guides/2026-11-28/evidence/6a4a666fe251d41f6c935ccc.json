@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba36adc0-86ac-11e4-8c28-020000005b00/john-p-larkin-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba36adc0-86ac-11e4-8c28-020000005b00/john-p-larkin-country-club",
+  "checked_at": 1795685259.9984138,
+  "sha256": "cd6866be195238c3798a97967b81337c1054d4da0cedf240ef8b021900b10178",
+  "title": "John P Larkin Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "ba36adc0-86ac-11e4-8c28-020000005b00",
+    "name": "John P Larkin Country Club",
+    "address": "263 N Main St, Windsor, VT",
+    "courses": [
+      {
+        "name": "John P. Larkin",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White to Blue",
+            "category": "MALE",
+            "yards": 5382,
+            "par": 68,
+            "rating": 64.8,
+            "slope": 116
+          },
+          {
+            "name": "White to Blue",
+            "category": "FEMALE",
+            "yards": 5382,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 112
+          },
+          {
+            "name": "Red to Gold",
+            "category": "MALE",
+            "yards": 4924,
+            "par": 68,
+            "rating": 62.4,
+            "slope": 108
+          },
+          {
+            "name": "Red to Gold",
+            "category": "FEMALE",
+            "yards": 4924,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba36adc0-86ac-11e4-8c28-020000005b00/john-p-larkin-country-club"
+  }
+}

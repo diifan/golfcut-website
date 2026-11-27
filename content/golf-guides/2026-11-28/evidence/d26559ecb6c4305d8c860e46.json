@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7bacda20-86ac-11e4-8c28-020000005b00/galway-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7bacda20-86ac-11e4-8c28-020000005b00/galway-golf-club",
+  "checked_at": 1795686334.810101,
+  "sha256": "5d744fa73a0c8ea4171bade6ffecbbb32784bb9f053c8fae6f0199ad4667d300",
+  "title": "Galway Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "7bacda20-86ac-11e4-8c28-020000005b00",
+    "name": "Galway Golf Club",
+    "address": "Salthill, Galway",
+    "courses": [
+      {
+        "name": "Galway",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6533,
+            "par": 70,
+            "rating": 71.7,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6533,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6273,
+            "par": 70,
+            "rating": 70.5,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6273,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6070,
+            "par": 70,
+            "rating": 69.2,
+            "slope": 120
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 6070,
+            "par": 70,
+            "rating": 75.7,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5531,
+            "par": 70,
+            "rating": 66.9,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5531,
+            "par": 70,
+            "rating": 73.2,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7bacda20-86ac-11e4-8c28-020000005b00/galway-golf-club"
+  }
+}

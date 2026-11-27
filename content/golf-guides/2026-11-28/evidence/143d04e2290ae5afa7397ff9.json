@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b70f07f0-86ac-11e4-8c28-020000005b00/springbrook-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b70f07f0-86ac-11e4-8c28-020000005b00/springbrook-country-club",
+  "checked_at": 1795661677.6715152,
+  "sha256": "56a72a6f2bb910c568104ff8648c12b0ef110cba94497714e185920bd1ff6b95",
+  "title": "Springbrook Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b70f07f0-86ac-11e4-8c28-020000005b00",
+    "name": "Springbrook Country Club",
+    "address": "2771 224th St, De Witt, IA",
+    "courses": [
+      {
+        "name": "Springbrook Country Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6048,
+            "par": 70,
+            "rating": 68.7,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6048,
+            "par": 71,
+            "rating": 74.1,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5675,
+            "par": 70,
+            "rating": 67,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5675,
+            "par": 71,
+            "rating": 73.2,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5030,
+            "par": 70,
+            "rating": 64.1,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5030,
+            "par": 71,
+            "rating": 69.5,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b70f07f0-86ac-11e4-8c28-020000005b00/springbrook-country-club"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b8b6be0-86ac-11e4-8c28-020000005b00/westville-lake-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b8b6be0-86ac-11e4-8c28-020000005b00/westville-lake-golf-course",
+  "checked_at": 1795686313.3434153,
+  "sha256": "9ee6eaf54ca971057c7e2b22b707b33e5ea3f73b1fd99957c4830bc938711a26",
+  "title": "Westville Lake Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9b8b6be0-86ac-11e4-8c28-020000005b00",
+    "name": "Westville Lake Golf Course",
+    "address": "858 Case Rd, Beloit, OH",
+    "courses": [
+      {
+        "name": "Westville Lake (9 holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2940,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2940,
+            "par": 36,
+            "rating": 35.1,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b8b6be0-86ac-11e4-8c28-020000005b00/westville-lake-golf-course"
+  }
+}

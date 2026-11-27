@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5273520-86ac-11e4-8c28-020000005b00/windy-acres-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5273520-86ac-11e4-8c28-020000005b00/windy-acres-golf",
+  "checked_at": 1795661669.075881,
+  "sha256": "ec943df054879e4eadcfb46606b751610be7a557f29e1c50a00dfb04339fa29b",
+  "title": "Windy Acres Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "b5273520-86ac-11e4-8c28-020000005b00",
+    "name": "Windy Acres Golf",
+    "address": "N1005 County Rd K, Monroe, WI",
+    "courses": [
+      {
+        "name": "9 Hole Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2866,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2866,
+            "par": 36,
+            "rating": 33.5,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5273520-86ac-11e4-8c28-020000005b00/windy-acres-golf"
+  }
+}

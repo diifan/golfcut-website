@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9560e650-86ac-11e4-8c28-020000005b00/wyantenuck-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9560e650-86ac-11e4-8c28-020000005b00/wyantenuck-country-club",
+  "checked_at": 1795664730.3302054,
+  "sha256": "233b1e1bb9b179dbd248ec718712ddf3ad4c84335243fef996e591392bf96b1a",
+  "title": "Wyantenuck Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9560e650-86ac-11e4-8c28-020000005b00",
+    "name": "Wyantenuck Country Club",
+    "address": "46 West Sheffield Road",
+    "courses": [
+      {
+        "name": "Wyantenuck",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6515,
+            "par": 70,
+            "rating": 71.2,
+            "slope": 128
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6056,
+            "par": 70,
+            "rating": 69.3,
+            "slope": 122
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5254,
+            "par": 70,
+            "rating": 65.6,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9560e650-86ac-11e4-8c28-020000005b00/wyantenuck-country-club"
+  }
+}

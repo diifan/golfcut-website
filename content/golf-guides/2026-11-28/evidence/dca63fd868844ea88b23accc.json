@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b99c1b70-86ac-11e4-8c28-020000005b00/vandalia-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b99c1b70-86ac-11e4-8c28-020000005b00/vandalia-country-club",
+  "checked_at": 1795687687.0201988,
+  "sha256": "91f6734b7c12f8937ff1d89e66d67f38d50481104de44a8a25339653011a6dd2",
+  "title": "Vandalia Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b99c1b70-86ac-11e4-8c28-020000005b00",
+    "name": "Vandalia Country Club",
+    "address": "4172 Hwy 54 E, Vandalia, MO",
+    "courses": [
+      {
+        "name": "Vandalia",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Mens",
+            "category": "MALE",
+            "yards": 6280,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 126
+          },
+          {
+            "name": "Mens",
+            "category": "FEMALE",
+            "yards": 6280,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 133
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 5682,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 121
+          },
+          {
+            "name": "Ladies",
+            "category": "FEMALE",
+            "yards": 5682,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b99c1b70-86ac-11e4-8c28-020000005b00/vandalia-country-club"
+  }
+}

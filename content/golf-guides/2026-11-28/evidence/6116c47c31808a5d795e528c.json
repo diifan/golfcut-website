@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8415b6f0-86ac-11e4-8c28-020000005b00/woodbine-bend-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8415b6f0-86ac-11e4-8c28-020000005b00/woodbine-bend-golf-course",
+  "checked_at": 1795685236.184909,
+  "sha256": "f5ea2bdba756e922f6828dde58884dd5e8a788e8b1673320f390feb64ae1234d",
+  "title": "Woodbine Bend Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8415b6f0-86ac-11e4-8c28-020000005b00",
+    "name": "Woodbine Bend Golf Course",
+    "address": "E Center Rd, Stockton, IL",
+    "courses": [
+      {
+        "name": "Woodbine Bend",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6563,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6206,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5902,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5189,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8415b6f0-86ac-11e4-8c28-020000005b00/woodbine-bend-golf-course"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af5d4620-86ac-11e4-8c28-020000005b00/centennial-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af5d4620-86ac-11e4-8c28-020000005b00/centennial-golf-course",
+  "checked_at": 1795663453.3675325,
+  "sha256": "9d28285757effc1c92490915161eb47dc7b3e2ad18f694fa77e873e149c525ca",
+  "title": "Centennial Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "af5d4620-86ac-11e4-8c28-020000005b00",
+    "name": "Centennial Golf Course",
+    "address": "101 Centennial Blvd, Oak Ridge, TN",
+    "courses": [
+      {
+        "name": "Centennial",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6589,
+            "par": 71,
+            "rating": 71.6,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6589,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 6099,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 6099,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5461,
+            "par": 71,
+            "rating": 66.9,
+            "slope": 114
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5461,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black/White",
+            "category": "MALE",
+            "yards": 5068,
+            "par": 71,
+            "rating": 65.2,
+            "slope": 111
+          },
+          {
+            "name": "Black/White",
+            "category": "FEMALE",
+            "yards": 5068,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4777,
+            "par": 71,
+            "rating": 64,
+            "slope": 110
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4777,
+            "par": 71,
+            "rating": 68,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af5d4620-86ac-11e4-8c28-020000005b00/centennial-golf-course"
+  }
+}

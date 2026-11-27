@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b18974f0-86ac-11e4-8c28-020000005b00/sonoma-ranch-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b18974f0-86ac-11e4-8c28-020000005b00/sonoma-ranch-golf-course",
+  "checked_at": 1795694239.0991228,
+  "sha256": "dab06482a71cd2cbb0f268af621b79411f0c6419d39d34be657cfa6bf27fc64f",
+  "title": "Sonoma Ranch Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b18974f0-86ac-11e4-8c28-020000005b00",
+    "name": "Sonoma Ranch Golf Course",
+    "address": "1274 Golf Club Rd, Las Cruces, NM",
+    "courses": [
+      {
+        "name": "Sonoma Ranch",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7028,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 144
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6538,
+            "par": 72,
+            "rating": 71,
+            "slope": 143
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6088,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 133
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5615,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5169,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b18974f0-86ac-11e4-8c28-020000005b00/sonoma-ranch-golf-course"
+  }
+}

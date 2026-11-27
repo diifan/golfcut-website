@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1e29170-86ac-11e4-8c28-020000005b00/mt-kineo",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1e29170-86ac-11e4-8c28-020000005b00/mt-kineo",
+  "checked_at": 1795700459.336357,
+  "sha256": "c21f016c4c9b00f1bac4e9f78399c408f4e511edae1739b62ecee8b2f110a33d",
+  "title": "Mt. Kineo - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1e29170-86ac-11e4-8c28-020000005b00",
+    "name": "Mt. Kineo",
+    "address": "62 Village Rd, Rockwood, ME",
+    "courses": [
+      {
+        "name": "Mt. Kineo",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 2975,
+            "par": 36,
+            "rating": 34.5,
+            "slope": 120
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 2975,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2528,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2528,
+            "par": 36,
+            "rating": 33,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1e29170-86ac-11e4-8c28-020000005b00/mt-kineo"
+  }
+}

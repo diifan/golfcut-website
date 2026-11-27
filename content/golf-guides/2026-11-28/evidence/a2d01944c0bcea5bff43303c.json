@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5d96e20-86ac-11e4-8c28-020000005b00/pine-meadow-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5d96e20-86ac-11e4-8c28-020000005b00/pine-meadow-golf-club",
+  "checked_at": 1795685194.1088006,
+  "sha256": "92c9be0538a03aa3a6a1dd96691aa4badb6fbf780941d62f604f85fe17d96edc",
+  "title": "Pine Meadow Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b5d96e20-86ac-11e4-8c28-020000005b00",
+    "name": "Pine Meadow Golf Club",
+    "address": "4324 Fairfax Park Dr.",
+    "courses": [
+      {
+        "name": "Pine Meadow",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1127,
+            "par": 27,
+            "rating": 26.94158,
+            "slope": 80.69264
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1082,
+            "par": 27,
+            "rating": 26.73728,
+            "slope": 79.86824
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5d96e20-86ac-11e4-8c28-020000005b00/pine-meadow-golf-club"
+  }
+}

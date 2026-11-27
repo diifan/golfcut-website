@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/95788d00-86ac-11e4-8c28-020000005b00/mount-pleasant-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/95788d00-86ac-11e4-8c28-020000005b00/mount-pleasant-golf-club",
+  "checked_at": 1795694369.916196,
+  "sha256": "2a4748f1681192bf32fd68b3f0786ae7e31063839975b42c21c19440b82c4a46",
+  "title": "Mount Pleasant Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "95788d00-86ac-11e4-8c28-020000005b00",
+    "name": "Mount Pleasant Golf Club",
+    "address": "141 Staples Street, Lowell, MA",
+    "courses": [
+      {
+        "name": "Mt. Pleasant",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Yellow/Black",
+            "category": "MALE",
+            "yards": 6524,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 126
+          },
+          {
+            "name": "Yellow/Black",
+            "category": "FEMALE",
+            "yards": 6524,
+            "par": 72,
+            "rating": 76.6,
+            "slope": 136
+          },
+          {
+            "name": "Green/Yellow",
+            "category": "MALE",
+            "yards": 6228,
+            "par": 72,
+            "rating": 69,
+            "slope": 123
+          },
+          {
+            "name": "Green/Yellow",
+            "category": "FEMALE",
+            "yards": 6228,
+            "par": 72,
+            "rating": 75,
+            "slope": 132
+          },
+          {
+            "name": "Blue/Silver",
+            "category": "MALE",
+            "yards": 5558,
+            "par": 72,
+            "rating": 72,
+            "slope": 124
+          },
+          {
+            "name": "Blue/Silver",
+            "category": "FEMALE",
+            "yards": 5558,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 129
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/95788d00-86ac-11e4-8c28-020000005b00/mount-pleasant-golf-club"
+  }
+}

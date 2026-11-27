@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/82f579e0-86ac-11e4-8c28-020000005b00/oak-view-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/82f579e0-86ac-11e4-8c28-020000005b00/oak-view-country-club",
+  "checked_at": 1795696567.5717826,
+  "sha256": "950587764cb833a0d3d06d31ece78fcbaff141119a30c9eba742e373d2fdc6b4",
+  "title": "Oak View Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "82f579e0-86ac-11e4-8c28-020000005b00",
+    "name": "Oak View Country Club",
+    "address": "1601 SW 3rd Ave, Aledo, IL",
+    "courses": [
+      {
+        "name": "Oak View",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue / White",
+            "category": "MALE",
+            "yards": 4503,
+            "par": 66,
+            "rating": 62.2,
+            "slope": 96
+          },
+          {
+            "name": "Blue / White",
+            "category": "FEMALE",
+            "yards": 4503,
+            "par": 66,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3940,
+            "par": 66,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3940,
+            "par": 66,
+            "rating": 62.4,
+            "slope": 95
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/82f579e0-86ac-11e4-8c28-020000005b00/oak-view-country-club"
+  }
+}

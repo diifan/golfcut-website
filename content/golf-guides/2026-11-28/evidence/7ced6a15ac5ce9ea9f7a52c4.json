@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/4b1ba500-a7b8-11f1-b1c7-069933b83eb1/bas-ridge-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/4b1ba500-a7b8-11f1-b1c7-069933b83eb1/bas-ridge-golf-course",
+  "checked_at": 1795686577.085511,
+  "sha256": "8a88aa48189cc02cc91a591f0dc1f4baaa5ab60885c98aa07c23c8575b25e25b",
+  "title": "Bas Ridge Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "4b1ba500-a7b8-11f1-b1c7-069933b83eb1",
+    "name": "Bas Ridge Golf Course",
+    "address": "151 Plunkett Ave, Hinsdale, , Berkshire County",
+    "courses": [
+      {
+        "name": "Bas Ridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5004,
+            "par": 70,
+            "rating": 65.7,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5004,
+            "par": 70,
+            "rating": 66.6,
+            "slope": 111
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4487,
+            "par": 70,
+            "rating": 63.4,
+            "slope": 101
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4487,
+            "par": 70,
+            "rating": 66.6,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4350,
+            "par": 70,
+            "rating": 62.5,
+            "slope": 100
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4350,
+            "par": 70,
+            "rating": 66,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/4b1ba500-a7b8-11f1-b1c7-069933b83eb1/bas-ridge-golf-course"
+  }
+}

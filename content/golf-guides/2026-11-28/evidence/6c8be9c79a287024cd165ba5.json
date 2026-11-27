@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afd53540-86ac-11e4-8c28-020000005b00/london-downs-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afd53540-86ac-11e4-8c28-020000005b00/london-downs-golf-club",
+  "checked_at": 1795700319.7331748,
+  "sha256": "881e1b6196e663e4ed73fa36d1dfa540f26eab33cefb5d8145af7d42a4f1d1c8",
+  "title": "London Downs Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "afd53540-86ac-11e4-8c28-020000005b00",
+    "name": "London Downs Golf Club",
+    "address": "1400 New London Rd., Forest, VA",
+    "courses": [
+      {
+        "name": "London Downs",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6938,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 140
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6380,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 134
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5650,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4965,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afd53540-86ac-11e4-8c28-020000005b00/london-downs-golf-club"
+  }
+}

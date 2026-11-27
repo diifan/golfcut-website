@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/93248f80-035e-11ee-a4f4-06780482e2ce/the-st-andrews-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/93248f80-035e-11ee-a4f4-06780482e2ce/the-st-andrews-golf-club",
+  "checked_at": 1795661462.203417,
+  "sha256": "fff9b40fa695558dee5c0d3cd21cce6fda77d85f857457ad7fe57156c9752cd4",
+  "title": "The St. Andrews Golf Club - Scorecards, Reviews | 18Birdies star star star star star google-play",
+  "course_profile": {
+    "id": "93248f80-035e-11ee-a4f4-06780482e2ce",
+    "name": "The St. Andrews Golf Club",
+    "address": "4475 N Ocean Blvd, Delray Beach, Florida",
+    "courses": [
+      {
+        "name": "St. Andrews",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Tee",
+            "category": "MALE",
+            "yards": 1898,
+            "par": 54,
+            "rating": 51.44072,
+            "slope": 78.11822
+          },
+          {
+            "name": "Tee",
+            "category": "FEMALE",
+            "yards": 1898,
+            "par": 54,
+            "rating": 51.44072,
+            "slope": 78.11822
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/93248f80-035e-11ee-a4f4-06780482e2ce/the-st-andrews-golf-club"
+  }
+}

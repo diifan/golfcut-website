@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afdef940-86ac-11e4-8c28-020000005b00/blue-ridge-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afdef940-86ac-11e4-8c28-020000005b00/blue-ridge-country-club",
+  "checked_at": 1795685186.3748112,
+  "sha256": "549cdd1ba99ff515f4375537c82017e8eec1d4196d1ee5760c518c60191da2ac",
+  "title": "Blue Ridge Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "afdef940-86ac-11e4-8c28-020000005b00",
+    "name": "Blue Ridge Country Club",
+    "address": "211 Blue Ridge Country Club Lane, Galax, VA",
+    "courses": [
+      {
+        "name": "Blue Ridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6164,
+            "par": 70,
+            "rating": 70.5,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6164,
+            "par": 71,
+            "rating": 74.7,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5977,
+            "par": 70,
+            "rating": 69.7,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5977,
+            "par": 71,
+            "rating": 73.7,
+            "slope": 129
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5362,
+            "par": 70,
+            "rating": 65.9,
+            "slope": 123
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5362,
+            "par": 71,
+            "rating": 70.3,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4555,
+            "par": 70,
+            "rating": 65.7,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4555,
+            "par": 71,
+            "rating": 67,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afdef940-86ac-11e4-8c28-020000005b00/blue-ridge-country-club"
+  }
+}

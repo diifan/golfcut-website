@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/70cf2cc0-86ac-11e4-8c28-020000005b00/haggs-castle-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/70cf2cc0-86ac-11e4-8c28-020000005b00/haggs-castle-golf-club",
+  "checked_at": 1795661641.5910113,
+  "sha256": "233537b283e70bf695002eee5e232150819b98e9e03d25de6bcbac2d09dc0ec1",
+  "title": "Haggs Castle Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "70cf2cc0-86ac-11e4-8c28-020000005b00",
+    "name": "Haggs Castle Golf Club",
+    "address": "70 Dumbreck Road, Glasgow",
+    "courses": [
+      {
+        "name": "Haggs",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6426,
+            "par": 72,
+            "rating": 71,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6426,
+            "par": 73,
+            "rating": 77.1,
+            "slope": 140
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5987,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 131
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5987,
+            "par": 73,
+            "rating": 75.8,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5615,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5615,
+            "par": 73,
+            "rating": 71.8,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5539,
+            "par": 72,
+            "rating": 66.9,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5539,
+            "par": 73,
+            "rating": 72.8,
+            "slope": 131
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/70cf2cc0-86ac-11e4-8c28-020000005b00/haggs-castle-golf-club"
+  }
+}

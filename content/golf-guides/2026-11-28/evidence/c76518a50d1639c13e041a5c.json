@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99c74db0-86ac-11e4-8c28-020000005b00/schroon-lake-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99c74db0-86ac-11e4-8c28-020000005b00/schroon-lake-municipal-golf-course",
+  "checked_at": 1795686478.922641,
+  "sha256": "6131b0f8e46e8526ef59dd6c15b89eebedab9a8edc97a97c1229315b558b77cc",
+  "title": "Schroon Lake Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "99c74db0-86ac-11e4-8c28-020000005b00",
+    "name": "Schroon Lake Municipal Golf Course",
+    "address": "36 Clubhouse Rd",
+    "courses": [
+      {
+        "name": "Schroon Lake(9 holes )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White-Blue",
+            "category": "MALE",
+            "yards": 6105,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5142,
+            "par": 72,
+            "rating": 65,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4802,
+            "par": 72,
+            "rating": 63.6,
+            "slope": 98
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99c74db0-86ac-11e4-8c28-020000005b00/schroon-lake-municipal-golf-course"
+  }
+}

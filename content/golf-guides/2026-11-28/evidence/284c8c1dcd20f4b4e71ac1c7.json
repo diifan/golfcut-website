@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2fe61b0-86ac-11e4-8c28-020000005b00/pin-high-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2fe61b0-86ac-11e4-8c28-020000005b00/pin-high-golf-club",
+  "checked_at": 1795685291.6544743,
+  "sha256": "c3d51f807748f2ffa7db075c61be5db1c59c05a8c5edcf29174e1c58e198c8f7",
+  "title": "Pin High Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b2fe61b0-86ac-11e4-8c28-020000005b00",
+    "name": "Pin High Golf Club",
+    "address": "1020 N Main St, Lawton, MI",
+    "courses": [
+      {
+        "name": "Pin High",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5164,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5164,
+            "par": 70,
+            "rating": 73.6,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4142,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4142,
+            "par": 70,
+            "rating": 70.7,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2fe61b0-86ac-11e4-8c28-020000005b00/pin-high-golf-club"
+  }
+}

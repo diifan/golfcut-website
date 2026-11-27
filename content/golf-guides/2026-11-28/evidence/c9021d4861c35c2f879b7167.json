@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0368f20-86ac-11e4-8c28-020000005b00/links-at-city-park",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0368f20-86ac-11e4-8c28-020000005b00/links-at-city-park",
+  "checked_at": 1795685220.542323,
+  "sha256": "188c77c7a8b5db325bfd333dfd72dcc0e24f81973b8b244ee2e229f533a1f13c",
+  "title": "Links at City Park - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b0368f20-86ac-11e4-8c28-020000005b00",
+    "name": "Links at City Park",
+    "address": "5 Cpl J M Williams Ave",
+    "courses": [
+      {
+        "name": "Links at City Park (Once Around)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1846,
+            "par": 30,
+            "rating": 30,
+            "slope": 94
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1547,
+            "par": 30,
+            "rating": 29.3,
+            "slope": 89
+          },
+          {
+            "name": "Junior",
+            "category": "MALE",
+            "yards": 1494,
+            "par": 30,
+            "rating": 28.60776,
+            "slope": 87.41608
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0368f20-86ac-11e4-8c28-020000005b00/links-at-city-park"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8632f1a0-86ac-11e4-8c28-020000005b00/sycamore-park-district-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8632f1a0-86ac-11e4-8c28-020000005b00/sycamore-park-district-golf-course",
+  "checked_at": 1795524422.8825648,
+  "sha256": "2985e764e3752ec07e36c761f12bd677336c865c442bd35ead162b00c3332287",
+  "title": "Sycamore Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8632f1a0-86ac-11e4-8c28-020000005b00",
+    "name": "Sycamore Golf Club",
+    "address": "940 E State St, Sycamore, Illinois 60178, De Kalb County",
+    "courses": [
+      {
+        "name": "Sycamore",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5817,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5817,
+            "par": 71,
+            "rating": 73.4,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5451,
+            "par": 71,
+            "rating": 66.5,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5451,
+            "par": 71,
+            "rating": 71.4,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5115,
+            "par": 71,
+            "rating": 65,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5115,
+            "par": 71,
+            "rating": 69.5,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8632f1a0-86ac-11e4-8c28-020000005b00/sycamore-park-district-golf-course"
+  }
+}

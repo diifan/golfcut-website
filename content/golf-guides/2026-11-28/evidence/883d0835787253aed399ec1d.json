@@ -1,0 +1,107 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/6ea8f160-86ac-11e4-8c28-020000005b00/golf-de-montpellier-massane",
+  "resolved_url": "https://18birdies.com/golf-courses/club/6ea8f160-86ac-11e4-8c28-020000005b00/golf-de-montpellier-massane",
+  "checked_at": 1795663859.8211286,
+  "sha256": "5039e339fa51b198cf73370a678b1172e499e5e78c0f33796d5ce2ef1d2760ad",
+  "title": "Golf de Montpellier Massane - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "6ea8f160-86ac-11e4-8c28-020000005b00",
+    "name": "Golf de Montpellier Massane",
+    "address": "Domaine de Massane,Baillargues,Languedoc-Roussillon",
+    "courses": [
+      {
+        "name": "Montpellier Massane",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6253,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6744,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5673,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5498,
+            "par": 72,
+            "rating": 70,
+            "slope": 120
+          }
+        ]
+      },
+      {
+        "name": "Montpellier Massane (L'Ecureuil)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 881,
+            "par": 27,
+            "rating": 27,
+            "slope": 87
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 881,
+            "par": 27,
+            "rating": 25.82474,
+            "slope": 76.18592
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 677,
+            "par": 27,
+            "rating": 26,
+            "slope": 84
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 677,
+            "par": 27,
+            "rating": 27.2,
+            "slope": 88
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 627,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 627,
+            "par": 27,
+            "rating": 27,
+            "slope": 86
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/6ea8f160-86ac-11e4-8c28-020000005b00/golf-de-montpellier-massane"
+  }
+}

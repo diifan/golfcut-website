@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0809070-86ac-11e4-8c28-020000005b00/riviera-community-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0809070-86ac-11e4-8c28-020000005b00/riviera-community-club",
+  "checked_at": 1795697938.5244536,
+  "sha256": "8010ff3546ae31edfcca215d1bc129fc5835c753ad5b4769dda7a040e1af9250",
+  "title": "Riviera Community Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b0809070-86ac-11e4-8c28-020000005b00",
+    "name": "Riviera Community Club",
+    "address": "11016 Country Club Dr, Anderson Island, WA",
+    "courses": [
+      {
+        "name": "Riviera",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3176,
+            "par": 58,
+            "rating": 59.4,
+            "slope": 101
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "MALE",
+            "yards": 3124,
+            "par": 58,
+            "rating": 57.8,
+            "slope": 91
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0809070-86ac-11e4-8c28-020000005b00/riviera-community-club"
+  }
+}

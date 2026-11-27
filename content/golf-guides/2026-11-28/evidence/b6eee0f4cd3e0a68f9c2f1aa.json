@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7edbabe0-86ac-11e4-8c28-020000005b00/iberostar-playa-paraiso-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7edbabe0-86ac-11e4-8c28-020000005b00/iberostar-playa-paraiso-golf-club",
+  "checked_at": 1795685240.8960998,
+  "sha256": "0ffffdb7853d4005d3aff0b0810a6e491d653952ee4a596cde4109a2d6fa20af",
+  "title": "Iberostar Playa Paraíso Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "7edbabe0-86ac-11e4-8c28-020000005b00",
+    "name": "Iberostar Playa Paraíso Golf Club",
+    "address": "Carr. Chetumal-Pto Juarez KM 309 Solitarian, Riviera Maya, Playa del Carmen, Quintana Roo, Mexico",
+    "courses": [
+      {
+        "name": "Iberostar Playa Paraiso",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 6701,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 136
+          },
+          {
+            "name": "Tournament",
+            "category": "FEMALE",
+            "yards": 6701,
+            "par": 72,
+            "rating": 77.5,
+            "slope": 138
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6189,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 130
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 6189,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 132
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5670,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 121
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 5670,
+            "par": 72,
+            "rating": 73,
+            "slope": 135
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4674,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 113
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 4674,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7edbabe0-86ac-11e4-8c28-020000005b00/iberostar-playa-paraiso-golf-club"
+  }
+}

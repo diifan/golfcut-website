@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/990d7390-86ac-11e4-8c28-020000005b00/stonehedges-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/990d7390-86ac-11e4-8c28-020000005b00/stonehedges-golf-course",
+  "checked_at": 1795694389.8858595,
+  "sha256": "62d3164c158fb3cbcc71fa1b5d020dd2018cb79df5b219d257617042d9aaf373",
+  "title": "Stonehedges Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "990d7390-86ac-11e4-8c28-020000005b00",
+    "name": "Stonehedges Golf Course",
+    "address": "549 Stevens Rd, Groton, NY",
+    "courses": [
+      {
+        "name": "Stonehedges",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6396,
+            "par": 72,
+            "rating": 71,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6396,
+            "par": 73,
+            "rating": 75.9,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6047,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6047,
+            "par": 73,
+            "rating": 74.1,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5048,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5048,
+            "par": 73,
+            "rating": 68.9,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/990d7390-86ac-11e4-8c28-020000005b00/stonehedges-golf-course"
+  }
+}

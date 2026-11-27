@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/94a00750-86ac-11e4-8c28-020000005b00/carrington-greens-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/94a00750-86ac-11e4-8c28-020000005b00/carrington-greens-golf-course",
+  "checked_at": 1795524351.358441,
+  "sha256": "656e1cf86026a5874bb2580a58d6189fcf2771c037204998f2c717177be2e2a0",
+  "title": "[Closed] Carrington Greens Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "94a00750-86ac-11e4-8c28-020000005b00",
+    "name": "[Closed] Carrington Greens Golf Course",
+    "address": "11980 E Highway 36, Salt Lick, KY",
+    "courses": [
+      {
+        "name": "Carrington Greens",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5616,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5616,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/94a00750-86ac-11e4-8c28-020000005b00/carrington-greens-golf-course"
+  }
+}

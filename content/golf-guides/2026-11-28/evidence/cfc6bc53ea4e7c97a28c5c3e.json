@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8f93ea10-86ac-11e4-8c28-020000005b00/suwannee-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8f93ea10-86ac-11e4-8c28-020000005b00/suwannee-country-club",
+  "checked_at": 1795694444.461179,
+  "sha256": "cba8df94344027dd532b1c0274ee0e39ce69c407d9367f2eace20b60f9d107d9",
+  "title": "Suwannee Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8f93ea10-86ac-11e4-8c28-020000005b00",
+    "name": "Suwannee Country Club",
+    "address": "7932 US 90",
+    "courses": [
+      {
+        "name": "Suwannee (9 holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2936,
+            "par": 36,
+            "rating": 35.8,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2660,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8f93ea10-86ac-11e4-8c28-020000005b00/suwannee-country-club"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9aae880-86ac-11e4-8c28-020000005b00/the-club-at-old-hawthorne",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9aae880-86ac-11e4-8c28-020000005b00/the-club-at-old-hawthorne",
+  "checked_at": 1795663865.4121895,
+  "sha256": "d115281c67863883836040267229ee19d1235e3585b553d05d63df8e8c1c6e80",
+  "title": "The Club at Old Hawthorne - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b9aae880-86ac-11e4-8c28-020000005b00",
+    "name": "The Club at Old Hawthorne",
+    "address": "6221 E Highway WW, Columbia, MO",
+    "courses": [
+      {
+        "name": "Old Hawthorne / OLD HAWTHORNE BACK",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 7221,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 134
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6723,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 127
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6234,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 126
+          },
+          {
+            "name": "Intermidiate",
+            "category": "MALE",
+            "yards": 5595,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 121
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4732,
+            "par": 72,
+            "rating": 63.4,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9aae880-86ac-11e4-8c28-020000005b00/the-club-at-old-hawthorne"
+  }
+}

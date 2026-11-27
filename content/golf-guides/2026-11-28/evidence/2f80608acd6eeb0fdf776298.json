@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d699000-86ac-11e4-8c28-020000005b00/salt-creek-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d699000-86ac-11e4-8c28-020000005b00/salt-creek-golf",
+  "checked_at": 1795582860.541533,
+  "sha256": "02376feb46c29250e9b84a13b4b0bed4af24c3278ebd69ab6a6b5cf4877fc330",
+  "title": "Salt Creek Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d699000-86ac-11e4-8c28-020000005b00",
+    "name": "Salt Creek Golf",
+    "address": "2359 State Road 46 East, Nashville, IN",
+    "courses": [
+      {
+        "name": "Salt Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6308,
+            "par": 71,
+            "rating": 70.1,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5832,
+            "par": 71,
+            "rating": 68,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4866,
+            "par": 71,
+            "rating": 62.9,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d699000-86ac-11e4-8c28-020000005b00/salt-creek-golf"
+  }
+}

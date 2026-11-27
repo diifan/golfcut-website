@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b124440-86ac-11e4-8c28-020000005b00/peachtree-hills-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b124440-86ac-11e4-8c28-020000005b00/peachtree-hills-country-club",
+  "checked_at": 1795664708.4433048,
+  "sha256": "86ae5cdb431395394d39dc0058ec0f20d29954121a7572a31e174d103452e600",
+  "title": "Peachtree Hills Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9b124440-86ac-11e4-8c28-020000005b00",
+    "name": "Peachtree Hills Country Club",
+    "address": "3512 Peachtree Hill, Spring Hope, NC",
+    "courses": [
+      {
+        "name": "Peachtree Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 5436,
+            "par": 70,
+            "rating": 65.2,
+            "slope": 120
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 5436,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4178,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4178,
+            "par": 70,
+            "rating": 65.6,
+            "slope": 115
+          }
+        ]
+      },
+      {
+        "name": "9 holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 2718,
+            "par": 35,
+            "rating": 32.6,
+            "slope": 120
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 2718,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2089,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2089,
+            "par": 35,
+            "rating": 32.8,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b124440-86ac-11e4-8c28-020000005b00/peachtree-hills-country-club"
+  }
+}

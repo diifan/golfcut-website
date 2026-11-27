@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/22796df0-83b6-11e8-94a8-0680a328ea36/entwood-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/22796df0-83b6-11e8-94a8-0680a328ea36/entwood-golf-course",
+  "checked_at": 1795686530.5248263,
+  "sha256": "f9aec1aad9d4af6cf71fd66fb7dac5bec9ee99649cd145cba0b60a90c19337f3",
+  "title": "Entwood Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star-o star star-o star-o star star star-o star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "22796df0-83b6-11e8-94a8-0680a328ea36",
+    "name": "Entwood Golf Course",
+    "address": "28135 290th Ave",
+    "courses": [
+      {
+        "name": "Entwood Golf Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2430,
+            "par": 36,
+            "rating": 33.4,
+            "slope": 95
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2011,
+            "par": 36,
+            "rating": 32.7,
+            "slope": 91
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/22796df0-83b6-11e8-94a8-0680a328ea36/entwood-golf-course"
+  }
+}

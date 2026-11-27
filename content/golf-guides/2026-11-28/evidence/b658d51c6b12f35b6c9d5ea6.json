@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b754c380-86ac-11e4-8c28-020000005b00/american-legion-memorial-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b754c380-86ac-11e4-8c28-020000005b00/american-legion-memorial-course",
+  "checked_at": 1795687607.846493,
+  "sha256": "40a6cff11b98e8501e1a243d88f473ba5dd32d50268f8064c48b121e936a9ec4",
+  "title": "American Legion Memorial Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b754c380-86ac-11e4-8c28-020000005b00",
+    "name": "American Legion Memorial Course",
+    "address": "1301 S 6th St, Marshalltown, IA",
+    "courses": [
+      {
+        "name": "American Legion",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6257,
+            "par": 70,
+            "rating": 69.2,
+            "slope": 114
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6257,
+            "par": 71,
+            "rating": 75.2,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5900,
+            "par": 70,
+            "rating": 67.7,
+            "slope": 110
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5900,
+            "par": 71,
+            "rating": 73.3,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5273,
+            "par": 70,
+            "rating": 64.9,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5273,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b754c380-86ac-11e4-8c28-020000005b00/american-legion-memorial-course"
+  }
+}

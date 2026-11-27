@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9295b860-86ac-11e4-8c28-020000005b00/orchards-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9295b860-86ac-11e4-8c28-020000005b00/orchards-golf-course",
+  "checked_at": 1795685229.130781,
+  "sha256": "d799beeb0c7e6c20709d9f8389fe6ad550fb9c781b141d3f2d6ae0b5ce75ab0e",
+  "title": "Orchards Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9295b860-86ac-11e4-8c28-020000005b00",
+    "name": "Orchards Golf Course",
+    "address": "137 Kozlowski Road, Milford, CT",
+    "courses": [
+      {
+        "name": "Orchards ( 9 holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1693,
+            "par": 32,
+            "rating": 31.1,
+            "slope": 101
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1693,
+            "par": 32,
+            "rating": 29.6,
+            "slope": 99
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1583,
+            "par": 32,
+            "rating": 28.33082,
+            "slope": 86.29856
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1583,
+            "par": 32,
+            "rating": 32,
+            "slope": 103
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1443,
+            "par": 32,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1443,
+            "par": 32,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9295b860-86ac-11e4-8c28-020000005b00/orchards-golf-course"
+  }
+}

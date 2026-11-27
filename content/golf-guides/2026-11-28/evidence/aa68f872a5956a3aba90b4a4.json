@@ -1,0 +1,445 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/f7708940-814a-11e7-8ef4-0680a328ea36/riverwood-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/f7708940-814a-11e7-8ef4-0680a328ea36/riverwood-golf-club",
+  "checked_at": 1795696787.0349185,
+  "sha256": "66cfc3ef6a28a626963d4fb765c966d073924ce68bdf6b7fa49a7af78025625f",
+  "title": "Riverwood Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "f7708940-814a-11e7-8ef4-0680a328ea36",
+    "name": "Riverwood Golf Club",
+    "address": "400 Riverwood Drive, Clayton, NC 27527",
+    "courses": [
+      {
+        "name": "Riverview to Meadowlands",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6803,
+            "par": 70,
+            "rating": 73,
+            "slope": 134
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6803,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6385,
+            "par": 70,
+            "rating": 71.4,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6385,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5953,
+            "par": 70,
+            "rating": 69.4,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5953,
+            "par": 70,
+            "rating": 74.1,
+            "slope": 135
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5355,
+            "par": 70,
+            "rating": 66.5,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5355,
+            "par": 70,
+            "rating": 71.1,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4300,
+            "par": 70,
+            "rating": 62.6,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4300,
+            "par": 70,
+            "rating": 65.4,
+            "slope": 109
+          }
+        ]
+      },
+      {
+        "name": "Meadowlands to Deer Run",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7124,
+            "par": 70,
+            "rating": 74.3,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7124,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6836,
+            "par": 70,
+            "rating": 73.3,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6836,
+            "par": 70,
+            "rating": 78.3,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6343,
+            "par": 70,
+            "rating": 71.1,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6343,
+            "par": 70,
+            "rating": 77.2,
+            "slope": 139
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5666,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5666,
+            "par": 70,
+            "rating": 72.8,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4816,
+            "par": 70,
+            "rating": 64.2,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4816,
+            "par": 70,
+            "rating": 68.4,
+            "slope": 117
+          }
+        ]
+      },
+      {
+        "name": "Meadowlands - Riverview",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6688,
+            "par": 71,
+            "rating": 73,
+            "slope": 134
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6688,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6172,
+            "par": 71,
+            "rating": 71.4,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6172,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5778,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5778,
+            "par": 71,
+            "rating": 74.1,
+            "slope": 135
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5308,
+            "par": 71,
+            "rating": 66.5,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5308,
+            "par": 71,
+            "rating": 71.1,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4378,
+            "par": 71,
+            "rating": 62.6,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4378,
+            "par": 71,
+            "rating": 65.4,
+            "slope": 109
+          }
+        ]
+      },
+      {
+        "name": "Deer Run/Meadowlands",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7058,
+            "par": 71,
+            "rating": 74.3,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7058,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6558,
+            "par": 71,
+            "rating": 73.3,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6558,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6207,
+            "par": 71,
+            "rating": 71.1,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6207,
+            "par": 71,
+            "rating": 77.2,
+            "slope": 139
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5652,
+            "par": 71,
+            "rating": 67.6,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5652,
+            "par": 71,
+            "rating": 77.2,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4826,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4826,
+            "par": 71,
+            "rating": 68.4,
+            "slope": 117
+          }
+        ]
+      },
+      {
+        "name": "Riverview/Deer Run",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7048,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7048,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6552,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6552,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6213,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6213,
+            "par": 72,
+            "rating": 76.8,
+            "slope": 143
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5676,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5676,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 132
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4928,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4928,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/f7708940-814a-11e7-8ef4-0680a328ea36/riverwood-golf-club"
+  }
+}

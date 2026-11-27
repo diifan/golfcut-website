@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b3cafa0-86ac-11e4-8c28-020000005b00/wilshire-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b3cafa0-86ac-11e4-8c28-020000005b00/wilshire-golf-club",
+  "checked_at": 1795524693.683583,
+  "sha256": "26eb8b035a3ec6684f2a89f8f027f042b8a73eb92ca5721617419453d2d71614",
+  "title": "Wilshire Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9b3cafa0-86ac-11e4-8c28-020000005b00",
+    "name": "Wilshire Golf Club",
+    "address": "1570 Bridgeton Rd, Winston-Salem, NC",
+    "courses": [
+      {
+        "name": "Wilshire",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6219,
+            "par": 71,
+            "rating": 68,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6219,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5485,
+            "par": 71,
+            "rating": 66.1,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5485,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4372,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4372,
+            "par": 71,
+            "rating": 64,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b3cafa0-86ac-11e4-8c28-020000005b00/wilshire-golf-club"
+  }
+}

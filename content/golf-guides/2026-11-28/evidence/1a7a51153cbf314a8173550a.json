@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e17d160-86ac-11e4-8c28-020000005b00/cave-creek-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e17d160-86ac-11e4-8c28-020000005b00/cave-creek-municipal-golf-course",
+  "checked_at": 1795661672.3062077,
+  "sha256": "8b951bcf3ca3081d841cd900cbf52c03f889af17d56aa8b14711da2854ae7350",
+  "title": "Cave Creek Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8e17d160-86ac-11e4-8c28-020000005b00",
+    "name": "Cave Creek Municipal Golf Course",
+    "address": "15202 N 19th Ave, Phoenix, AZ",
+    "courses": [
+      {
+        "name": "Cave Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6732,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6732,
+            "par": 72,
+            "rating": 77.7,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6207,
+            "par": 72,
+            "rating": 69,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6207,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5552,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5552,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e17d160-86ac-11e4-8c28-020000005b00/cave-creek-municipal-golf-course"
+  }
+}

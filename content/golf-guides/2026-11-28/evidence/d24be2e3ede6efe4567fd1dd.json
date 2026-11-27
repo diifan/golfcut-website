@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d3364d0-86ac-11e4-8c28-020000005b00/arrowhead-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d3364d0-86ac-11e4-8c28-020000005b00/arrowhead-golf-course",
+  "checked_at": 1795661642.6278517,
+  "sha256": "f35f820319fd336941e569b3c2726d619c42501b30ff0f13ed3df7e22507c8ff",
+  "title": "Arrowhead Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d3364d0-86ac-11e4-8c28-020000005b00",
+    "name": "Arrowhead Golf Course",
+    "address": "3974 Club House Dr, Greenfield, IN",
+    "courses": [
+      {
+        "name": "Arrowhead",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5942,
+            "par": 70,
+            "rating": 67.2,
+            "slope": 113
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5942,
+            "par": 70,
+            "rating": 73.5,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5598,
+            "par": 70,
+            "rating": 65.6,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5598,
+            "par": 70,
+            "rating": 71.7,
+            "slope": 125
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 4572,
+            "par": 70,
+            "rating": 63.9,
+            "slope": 103
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 4572,
+            "par": 70,
+            "rating": 66.9,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4405,
+            "par": 70,
+            "rating": 65,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4405,
+            "par": 70,
+            "rating": 66.1,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d3364d0-86ac-11e4-8c28-020000005b00/arrowhead-golf-course"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2eab2a0-86ac-11e4-8c28-020000005b00/crestview-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2eab2a0-86ac-11e4-8c28-020000005b00/crestview-golf-club",
+  "checked_at": 1795694182.731901,
+  "sha256": "0dad17bd8318e6bf673a78ec4deba6b16756551696b2bccfb307303b64f109b8",
+  "title": "Crestview Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b2eab2a0-86ac-11e4-8c28-020000005b00",
+    "name": "Crestview Golf Club",
+    "address": "900 West D Avenue, Kalamazoo, Michigan 49009",
+    "courses": [
+      {
+        "name": "Crestview CC",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6172,
+            "par": 70,
+            "rating": 69.6,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6172,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5926,
+            "par": 70,
+            "rating": 68,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5926,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5219,
+            "par": 70,
+            "rating": 63.7,
+            "slope": 108
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5219,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5055,
+            "par": 70,
+            "rating": 62.7,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5055,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2eab2a0-86ac-11e4-8c28-020000005b00/crestview-golf-club"
+  }
+}

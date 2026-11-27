@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1141de0-86ac-11e4-8c28-020000005b00/birch-ridge-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1141de0-86ac-11e4-8c28-020000005b00/birch-ridge-golf-course",
+  "checked_at": 1795524568.824298,
+  "sha256": "d4ded6d7f8d1ecc93e8d2165001cfa6ce8cd24923b0709fed707888728d3a55e",
+  "title": "Birch Ridge Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1141de0-86ac-11e4-8c28-020000005b00",
+    "name": "Birch Ridge Golf Course",
+    "address": "42223 Sterling Hwy, Soldotna, AK",
+    "courses": [
+      {
+        "name": "Birch Ridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 6225,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 125
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 6225,
+            "par": 72,
+            "rating": 75,
+            "slope": 132
+          },
+          {
+            "name": "Gold/Green",
+            "category": "MALE",
+            "yards": 5300,
+            "par": 72,
+            "rating": 63.9,
+            "slope": 113
+          },
+          {
+            "name": "Gold/Green",
+            "category": "FEMALE",
+            "yards": 5300,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 121
+          },
+          {
+            "name": "Red/Wild Rose",
+            "category": "MALE",
+            "yards": 4900,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 115
+          },
+          {
+            "name": "Red/Wild Rose",
+            "category": "FEMALE",
+            "yards": 4900,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1141de0-86ac-11e4-8c28-020000005b00/birch-ridge-golf-course"
+  }
+}

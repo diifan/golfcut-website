@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6dc1110-86ac-11e4-8c28-020000005b00/coldwater-golf-links",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6dc1110-86ac-11e4-8c28-020000005b00/coldwater-golf-links",
+  "checked_at": 1795661645.297916,
+  "sha256": "f0152d7c1d97b7c542148cc557e1e899a67b37f853e8b409003112f8c24e734a",
+  "title": "Coldwater Golf Links - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6dc1110-86ac-11e4-8c28-020000005b00",
+    "name": "Coldwater Golf Links",
+    "address": "615 S 16th St, Ames, IA",
+    "courses": [
+      {
+        "name": "Coldwater",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6787,
+            "par": 71,
+            "rating": 72.6,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6406,
+            "par": 71,
+            "rating": 70.8,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5952,
+            "par": 71,
+            "rating": 68.6,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5057,
+            "par": 71,
+            "rating": 68,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6dc1110-86ac-11e4-8c28-020000005b00/coldwater-golf-links"
+  }
+}

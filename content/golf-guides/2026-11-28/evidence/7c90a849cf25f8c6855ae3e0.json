@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6bbdee0-86ac-11e4-8c28-020000005b00/orofino-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6bbdee0-86ac-11e4-8c28-020000005b00/orofino-golf-course",
+  "checked_at": 1795696776.927105,
+  "sha256": "1f80e603a05ff8697f183f21fec5e56929cf2f0eca46acb845385f4ea256c133",
+  "title": "Orofino Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "b6bbdee0-86ac-11e4-8c28-020000005b00",
+    "name": "Orofino Golf Course",
+    "address": "423 Debertin Dr, Orofino, ID 83544, USA",
+    "courses": [
+      {
+        "name": "Orofino",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Yellow/Blue",
+            "category": "MALE",
+            "yards": 5415,
+            "par": 70,
+            "rating": 66.4,
+            "slope": 115
+          },
+          {
+            "name": "Yellow/Blue",
+            "category": "FEMALE",
+            "yards": 5415,
+            "par": 74,
+            "rating": 71.5,
+            "slope": 118
+          },
+          {
+            "name": "Red/White",
+            "category": "MALE",
+            "yards": 4952,
+            "par": 70,
+            "rating": 63.7,
+            "slope": 106
+          },
+          {
+            "name": "Red/White",
+            "category": "FEMALE",
+            "yards": 4952,
+            "par": 74,
+            "rating": 68,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6bbdee0-86ac-11e4-8c28-020000005b00/orofino-golf-course"
+  }
+}

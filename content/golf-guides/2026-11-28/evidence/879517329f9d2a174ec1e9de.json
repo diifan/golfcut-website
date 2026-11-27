@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9aa41920-86ac-11e4-8c28-020000005b00/southwick-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9aa41920-86ac-11e4-8c28-020000005b00/southwick-golf-course",
+  "checked_at": 1795694376.8409216,
+  "sha256": "b02fffeb2bcd6d05a3d8a13983bc19995251d2d062b1912a25e243f4a568bb7a",
+  "title": "Southwick Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9aa41920-86ac-11e4-8c28-020000005b00",
+    "name": "Southwick Golf Course",
+    "address": "3136 Southwick Dr, Graham, NC",
+    "courses": [
+      {
+        "name": "Southwick",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5941,
+            "par": 71,
+            "rating": 67.3,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5941,
+            "par": 71,
+            "rating": 73.5,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5592,
+            "par": 71,
+            "rating": 66.4,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5592,
+            "par": 71,
+            "rating": 71.6,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4993,
+            "par": 71,
+            "rating": 63.5,
+            "slope": 110
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4993,
+            "par": 71,
+            "rating": 68,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4625,
+            "par": 71,
+            "rating": 61.3,
+            "slope": 99
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4625,
+            "par": 71,
+            "rating": 63.4,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9aa41920-86ac-11e4-8c28-020000005b00/southwick-golf-course"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b99dc920-86ac-11e4-8c28-020000005b00/warrenton-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b99dc920-86ac-11e4-8c28-020000005b00/warrenton-golf-course",
+  "checked_at": 1795524547.2502263,
+  "sha256": "ac2a13786c697056b629d64cf5ac6f559d28c79ebcf4b4923e63193ec03d1909",
+  "title": "Warrenton Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b99dc920-86ac-11e4-8c28-020000005b00",
+    "name": "Warrenton Golf Course",
+    "address": "24805 S Hwy 47 Warrenton, MO",
+    "courses": [
+      {
+        "name": "Warrenton",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5821,
+            "par": 70,
+            "rating": 67.8,
+            "slope": 108
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5821,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5573,
+            "par": 70,
+            "rating": 66.5,
+            "slope": 106
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5573,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4616,
+            "par": 70,
+            "rating": 61.7,
+            "slope": 92
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4616,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 101
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b99dc920-86ac-11e4-8c28-020000005b00/warrenton-golf-course"
+  }
+}

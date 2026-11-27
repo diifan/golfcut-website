@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7dc14ce0-b2de-11f1-b249-069933b83eb1/chemlake-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7dc14ce0-b2de-11f1-b249-069933b83eb1/chemlake-golf-course",
+  "checked_at": 1795661460.7868106,
+  "sha256": "6578aba027bb898bdcdcb57ae36c72f427d70adbc5fa61eb02f62fb12b65f3c0",
+  "title": "Chemlake Golf Course - Scorecards, Reviews | 18Birdies star star star star star google-play",
+  "course_profile": {
+    "id": "7dc14ce0-b2de-11f1-b249-069933b83eb1",
+    "name": "Chemlake Golf Course",
+    "address": "9502 Bayport Blvd",
+    "courses": [
+      {
+        "name": "Chemlake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6696,
+            "par": 72,
+            "rating": 71,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6696,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6380,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6380,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5148,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5148,
+            "par": 72,
+            "rating": 66,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7dc14ce0-b2de-11f1-b249-069933b83eb1/chemlake-golf-course"
+  }
+}

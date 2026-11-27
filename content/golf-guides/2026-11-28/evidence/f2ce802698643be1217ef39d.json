@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b03ef390-86ac-11e4-8c28-020000005b00/providence-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b03ef390-86ac-11e4-8c28-020000005b00/providence-golf-club",
+  "checked_at": 1795663445.880664,
+  "sha256": "d80b89f7d8dfbc0db2e879ca99acd3d657a2e6f8510ba0a4d983dcc57f2f59eb",
+  "title": "Providence Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b03ef390-86ac-11e4-8c28-020000005b00",
+    "name": "Providence Golf Club",
+    "address": "1160 S Providence Rd, Richmond, VA",
+    "courses": [
+      {
+        "name": "Providence",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6529,
+            "par": 71,
+            "rating": 71.2,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6529,
+            "par": 71,
+            "rating": 76.6,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6137,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6137,
+            "par": 71,
+            "rating": 75.1,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5594,
+            "par": 71,
+            "rating": 66,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5594,
+            "par": 71,
+            "rating": 71.7,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4986,
+            "par": 71,
+            "rating": 63.1,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4986,
+            "par": 71,
+            "rating": 67.6,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b03ef390-86ac-11e4-8c28-020000005b00/providence-golf-club"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8b1d7d20-86ac-11e4-8c28-020000005b00/copperas-hollow-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8b1d7d20-86ac-11e4-8c28-020000005b00/copperas-hollow-country-club",
+  "checked_at": 1795694472.7918167,
+  "sha256": "0b2d2a4c49aa9a2585eaed4f729d86dec5deaec3ff82c35a7b8c2c0417375df8",
+  "title": "Copperas Hollow Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8b1d7d20-86ac-11e4-8c28-020000005b00",
+    "name": "Copperas Hollow Country Club",
+    "address": "995 Country Club Drive, Caldwell, TX",
+    "courses": [
+      {
+        "name": "Copperas Hollow Country Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6420,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6300,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 107
+          },
+          {
+            "name": "Red/Gold",
+            "category": "MALE",
+            "yards": 5550,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8b1d7d20-86ac-11e4-8c28-020000005b00/copperas-hollow-country-club"
+  }
+}

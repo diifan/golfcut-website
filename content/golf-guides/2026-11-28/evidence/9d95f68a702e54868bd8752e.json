@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/949f9220-86ac-11e4-8c28-020000005b00/grayson-lake-state-park",
+  "resolved_url": "https://18birdies.com/golf-courses/club/949f9220-86ac-11e4-8c28-020000005b00/grayson-lake-state-park",
+  "checked_at": 1795661636.3569744,
+  "sha256": "7904c59b7f6efeb761250012fb1787fcd9f2848a4165bd8e571fe22fa9913788",
+  "title": "Grayson Lake State Park - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "949f9220-86ac-11e4-8c28-020000005b00",
+    "name": "Grayson Lake State Park",
+    "address": "314 Grayson Lake Park Road",
+    "courses": [
+      {
+        "name": "Hidden Cove",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Tee 1",
+            "category": "MALE",
+            "yards": 7155,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 135
+          },
+          {
+            "name": "Tee 2",
+            "category": "MALE",
+            "yards": 6469,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 129
+          },
+          {
+            "name": "Tee 3",
+            "category": "MALE",
+            "yards": 5781,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 124
+          },
+          {
+            "name": "Tee 4",
+            "category": "MALE",
+            "yards": 4948,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/949f9220-86ac-11e4-8c28-020000005b00/grayson-lake-state-park"
+  }
+}

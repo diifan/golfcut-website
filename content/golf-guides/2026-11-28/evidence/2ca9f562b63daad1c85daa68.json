@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b96490b0-86ac-11e4-8c28-020000005b00/malden-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b96490b0-86ac-11e4-8c28-020000005b00/malden-country-club",
+  "checked_at": 1795661468.3694508,
+  "sha256": "32c1258cb4b393268ffdd02399ee42f05e165d40c6e942a5996ee8e82686dc27",
+  "title": "Malden Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b96490b0-86ac-11e4-8c28-020000005b00",
+    "name": "Malden Country Club",
+    "address": "2290 Stuart St, Malden, MO",
+    "courses": [
+      {
+        "name": "Malden",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue Front/WhiteBack",
+            "category": "MALE",
+            "yards": 6738,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 113
+          },
+          {
+            "name": "Blue Front/WhiteBack",
+            "category": "FEMALE",
+            "yards": 6738,
+            "par": 68,
+            "rating": 77.7,
+            "slope": 138
+          },
+          {
+            "name": "Red/Yellow/Black",
+            "category": "MALE",
+            "yards": 5926,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 123
+          },
+          {
+            "name": "Red/Yellow/Black",
+            "category": "FEMALE",
+            "yards": 5926,
+            "par": 68,
+            "rating": 66.8,
+            "slope": 113
+          },
+          {
+            "name": " Red/Yellow",
+            "category": "MALE",
+            "yards": 4638,
+            "par": 72,
+            "rating": 66,
+            "slope": 113
+          },
+          {
+            "name": " Red/Yellow",
+            "category": "FEMALE",
+            "yards": 4638,
+            "par": 68,
+            "rating": 66.8,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b96490b0-86ac-11e4-8c28-020000005b00/malden-country-club"
+  }
+}

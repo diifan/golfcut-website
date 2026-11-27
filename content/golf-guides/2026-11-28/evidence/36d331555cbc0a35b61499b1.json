@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8e66dbc0-86ac-11e4-8c28-020000005b00/tucson-estates",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8e66dbc0-86ac-11e4-8c28-020000005b00/tucson-estates",
+  "checked_at": 1795686584.4213333,
+  "sha256": "a086a30133b27a90d068945525979cb385a5b7d2304d1db855bd796691b07381",
+  "title": "Tucson Estates - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8e66dbc0-86ac-11e4-8c28-020000005b00",
+    "name": "Tucson Estates",
+    "address": "2500 S Western Way, Tucson, AZ",
+    "courses": [
+      {
+        "name": "Tucson Estates",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2766,
+            "par": 58,
+            "rating": 55,
+            "slope": 90
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2766,
+            "par": 58,
+            "rating": 57.5,
+            "slope": 96
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2360,
+            "par": 58,
+            "rating": 53.5,
+            "slope": 88
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2360,
+            "par": 58,
+            "rating": 56.3,
+            "slope": 94
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8e66dbc0-86ac-11e4-8c28-020000005b00/tucson-estates"
+  }
+}

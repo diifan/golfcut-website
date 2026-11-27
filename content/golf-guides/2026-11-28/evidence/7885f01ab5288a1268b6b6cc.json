@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c879470-86ac-11e4-8c28-020000005b00/clarendon-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c879470-86ac-11e4-8c28-020000005b00/clarendon-country-club",
+  "checked_at": 1795661653.7160878,
+  "sha256": "5243f48f64bc0379ae3018b0a40de274cae264d356d093aa8df3d3adf0098297",
+  "title": "Clarendon Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8c879470-86ac-11e4-8c28-020000005b00",
+    "name": "Clarendon Country Club",
+    "address": "100 Porter Dr, Howardwick, TX",
+    "courses": [
+      {
+        "name": "Clarendon Country Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6285,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 114
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6285,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6105,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6105,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4900,
+            "par": 72,
+            "rating": 62.5,
+            "slope": 99
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4900,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c879470-86ac-11e4-8c28-020000005b00/clarendon-country-club"
+  }
+}

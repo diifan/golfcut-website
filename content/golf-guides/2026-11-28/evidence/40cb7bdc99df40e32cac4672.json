@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0475800-86ac-11e4-8c28-020000005b00/saltville-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0475800-86ac-11e4-8c28-020000005b00/saltville-golf-course",
+  "checked_at": 1795696857.6274471,
+  "sha256": "d810c1bf1d5baba0922dc605f8bb1b1782f01f7b8ea1a88f621e37adbd27e24f",
+  "title": "Saltville Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b0475800-86ac-11e4-8c28-020000005b00",
+    "name": "Saltville Golf Course",
+    "address": "Stadium Dr, Saltville, VA",
+    "courses": [
+      {
+        "name": "Saltville",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5601,
+            "par": 70,
+            "rating": 70.4,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5601,
+            "par": 70,
+            "rating": 71.7,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5601,
+            "par": 70,
+            "rating": 70.4,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5601,
+            "par": 70,
+            "rating": 71.7,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0475800-86ac-11e4-8c28-020000005b00/saltville-golf-course"
+  }
+}

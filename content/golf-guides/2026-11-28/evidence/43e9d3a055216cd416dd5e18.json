@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b46e4560-86ac-11e4-8c28-020000005b00/hartington-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b46e4560-86ac-11e4-8c28-020000005b00/hartington-golf-course",
+  "checked_at": 1795661640.7158885,
+  "sha256": "e067b44292323319399062e671f825d4cec706f4e0f94b33360ad19c557dbe46",
+  "title": "Hartington Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b46e4560-86ac-11e4-8c28-020000005b00",
+    "name": "Hartington Golf Course",
+    "address": "Felber Park, Hartington, NE",
+    "courses": [
+      {
+        "name": "Hartington",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2995,
+            "par": 36,
+            "rating": 34.5,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2775,
+            "par": 36,
+            "rating": 35.1,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b46e4560-86ac-11e4-8c28-020000005b00/hartington-golf-course"
+  }
+}

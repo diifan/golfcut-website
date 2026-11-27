@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b43c5ff0-86ac-11e4-8c28-020000005b00/vicksburg-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b43c5ff0-86ac-11e4-8c28-020000005b00/vicksburg-country-club",
+  "checked_at": 1795663479.5681503,
+  "sha256": "98668497db06d886dbd63c9c1e9de3d208c1e702796994073e43641b6abfc1b1",
+  "title": "Vicksburg Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b43c5ff0-86ac-11e4-8c28-020000005b00",
+    "name": "Vicksburg Country Club",
+    "address": "127 Country Club Dr., Vicksburg, MS",
+    "courses": [
+      {
+        "name": "Vicksburg",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Senior",
+            "category": "MALE",
+            "yards": 6059,
+            "par": 70,
+            "rating": 65.4,
+            "slope": 111
+          },
+          {
+            "name": "Senior",
+            "category": "FEMALE",
+            "yards": 6059,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 130
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4934,
+            "par": 70,
+            "rating": 67.4,
+            "slope": 115
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 4934,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b43c5ff0-86ac-11e4-8c28-020000005b00/vicksburg-country-club"
+  }
+}

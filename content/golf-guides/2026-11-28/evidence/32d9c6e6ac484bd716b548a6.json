@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9a1c0c0-86ac-11e4-8c28-020000005b00/greene-hills-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9a1c0c0-86ac-11e4-8c28-020000005b00/greene-hills-country-club",
+  "checked_at": 1795697928.0498557,
+  "sha256": "3706f1350bdaf5cc6f45c2eba2100841e8572328d43ee3eda9c1fb7bb6b8031a",
+  "title": "Greene Hills Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b9a1c0c0-86ac-11e4-8c28-020000005b00",
+    "name": "Greene Hills Country Club",
+    "address": "W Hwy 160, Willard, MO",
+    "courses": [
+      {
+        "name": "Greene Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue/Championship\t",
+            "category": "MALE",
+            "yards": 6193,
+            "par": 70,
+            "rating": 70.2,
+            "slope": 119
+          },
+          {
+            "name": "Blue/Championship\t",
+            "category": "FEMALE",
+            "yards": 6193,
+            "par": 71,
+            "rating": 74.8,
+            "slope": 132
+          },
+          {
+            "name": "White/Intermediate",
+            "category": "MALE",
+            "yards": 5845,
+            "par": 70,
+            "rating": 68.1,
+            "slope": 118
+          },
+          {
+            "name": "White/Intermediate",
+            "category": "FEMALE",
+            "yards": 5845,
+            "par": 71,
+            "rating": 73,
+            "slope": 128
+          },
+          {
+            "name": "Red/Forward\t",
+            "category": "MALE",
+            "yards": 5042,
+            "par": 70,
+            "rating": 62.3,
+            "slope": 103
+          },
+          {
+            "name": "Red/Forward\t",
+            "category": "FEMALE",
+            "yards": 5042,
+            "par": 71,
+            "rating": 67.1,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9a1c0c0-86ac-11e4-8c28-020000005b00/greene-hills-country-club"
+  }
+}

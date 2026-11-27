@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/727c4080-86ac-11e4-8c28-020000005b00/blue-lake",
+  "resolved_url": "https://18birdies.com/golf-courses/club/727c4080-86ac-11e4-8c28-020000005b00/blue-lake",
+  "checked_at": 1795694228.0626018,
+  "sha256": "9b3403bbed996220261c25437ba08db8ec4915bf610bd2b32f4ce87b9eff95cb",
+  "title": "Blue Lake - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "727c4080-86ac-11e4-8c28-020000005b00",
+    "name": "Blue Lake",
+    "address": "Bay Road",
+    "courses": [
+      {
+        "name": "Blue Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5440,
+            "par": 70,
+            "rating": 69,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5440,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/727c4080-86ac-11e4-8c28-020000005b00/blue-lake"
+  }
+}

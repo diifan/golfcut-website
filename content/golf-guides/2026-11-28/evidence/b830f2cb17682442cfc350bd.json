@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4384140-86ac-11e4-8c28-020000005b00/southaven-golf-center",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4384140-86ac-11e4-8c28-020000005b00/southaven-golf-center",
+  "checked_at": 1795694206.9998167,
+  "sha256": "da0213ad48ed2c43f363d02ce7a8ef6557abe10d8b829152b68bf6defb7f5921",
+  "title": "Southaven Golf Center - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b4384140-86ac-11e4-8c28-020000005b00",
+    "name": "Southaven Golf Center",
+    "address": "8925 Swinnea Rd., Southaven, MS",
+    "courses": [
+      {
+        "name": "Southaven (9 holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2211,
+            "par": 33,
+            "rating": 31.5,
+            "slope": 92
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2211,
+            "par": 33,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4384140-86ac-11e4-8c28-020000005b00/southaven-golf-center"
+  }
+}

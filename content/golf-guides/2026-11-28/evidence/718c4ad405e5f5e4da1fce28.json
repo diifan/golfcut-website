@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b99f9de0-86ac-11e4-8c28-020000005b00/west-plains-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b99f9de0-86ac-11e4-8c28-020000005b00/west-plains-country-club",
+  "checked_at": 1795661473.9042656,
+  "sha256": "5f151df65fc41870b1b7169abdf1f83b845e533e39559b35aa7bac5c35b78783",
+  "title": "West Plains Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b99f9de0-86ac-11e4-8c28-020000005b00",
+    "name": "West Plains Country Club",
+    "address": "1402 Country Club Dr, West Plains, MO",
+    "courses": [
+      {
+        "name": "West Plains",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6048,
+            "par": 70,
+            "rating": 69.7,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6048,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5465,
+            "par": 70,
+            "rating": 66.3,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5465,
+            "par": 70,
+            "rating": 71.6,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4807,
+            "par": 70,
+            "rating": 63.4,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4807,
+            "par": 70,
+            "rating": 67.5,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b99f9de0-86ac-11e4-8c28-020000005b00/west-plains-country-club"
+  }
+}

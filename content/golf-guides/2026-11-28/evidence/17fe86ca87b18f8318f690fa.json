@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b44fe7f0-86ac-11e4-8c28-020000005b00/poco-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b44fe7f0-86ac-11e4-8c28-020000005b00/poco-creek-golf-course",
+  "checked_at": 1795700303.7366939,
+  "sha256": "2362c69a40fdb8c0b9c1dfe22d92f8b4b3aa2b85299447238f6cb19fee9935e0",
+  "title": "Poco Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b44fe7f0-86ac-11e4-8c28-020000005b00",
+    "name": "Poco Creek Golf Course",
+    "address": "19th & L St, Aurora, NE",
+    "courses": [
+      {
+        "name": "Poco Creek",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3140,
+            "par": 35,
+            "rating": 35,
+            "slope": 114
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3140,
+            "par": 36,
+            "rating": 37.7,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2963,
+            "par": 35,
+            "rating": 34.1,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2963,
+            "par": 36,
+            "rating": 36.7,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2463,
+            "par": 35,
+            "rating": 33.7,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2463,
+            "par": 36,
+            "rating": 33.9,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b44fe7f0-86ac-11e4-8c28-020000005b00/poco-creek-golf-course"
+  }
+}

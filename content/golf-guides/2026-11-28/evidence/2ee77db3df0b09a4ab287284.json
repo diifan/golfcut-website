@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a3985c0-86ac-11e4-8c28-020000005b00/diamond-mountain-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a3985c0-86ac-11e4-8c28-020000005b00/diamond-mountain-golf-club",
+  "checked_at": 1795697913.9802234,
+  "sha256": "51f31964a5e3700f384839eceaefd51886e3d64648ea7591919e05e11391dbcc",
+  "title": "Diamond Mountain Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8a3985c0-86ac-11e4-8c28-020000005b00",
+    "name": "Diamond Mountain Golf Club",
+    "address": "470-835 Circle Dr",
+    "courses": [
+      {
+        "name": "Diamond Mountain",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6417,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5914,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5118,
+            "par": 72,
+            "rating": 64.6,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a3985c0-86ac-11e4-8c28-020000005b00/diamond-mountain-golf-club"
+  }
+}

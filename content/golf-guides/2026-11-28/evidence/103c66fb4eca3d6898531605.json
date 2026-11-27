@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae6614e0-86ac-11e4-8c28-020000005b00/brays-island-plantation",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae6614e0-86ac-11e4-8c28-020000005b00/brays-island-plantation",
+  "checked_at": 1795687640.3514595,
+  "sha256": "2dce4398925621ae2e9e42a2629f95f0c07d5595866f10116d0db3505e1ae899",
+  "title": "Brays Island Plantation - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae6614e0-86ac-11e4-8c28-020000005b00",
+    "name": "Brays Island Plantation",
+    "address": "1 Bryans Ferry Road",
+    "courses": [
+      {
+        "name": "Brays Island Plantation",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6874,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5719,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 124
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5155,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 114
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6317,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae6614e0-86ac-11e4-8c28-020000005b00/brays-island-plantation"
+  }
+}

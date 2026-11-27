@@ -1,0 +1,435 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2e7a560-86ac-11e4-8c28-020000005b00/the-country-club-of-jackson",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2e7a560-86ac-11e4-8c28-020000005b00/the-country-club-of-jackson",
+  "checked_at": 1795666524.5157187,
+  "sha256": "c270b40997d5a03a9d0c9a12fc9c33f48fe4de8194c0037a599b91c13f147711",
+  "title": "The Country Club of Jackson - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b2e7a560-86ac-11e4-8c28-020000005b00",
+    "name": "The Country Club of Jackson",
+    "address": "3135 Horton Rd, Jackson, MI",
+    "courses": [
+      {
+        "name": "Woods / Marsh",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6764,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6764,
+            "par": 72,
+            "rating": 77.9,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6334,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6334,
+            "par": 72,
+            "rating": 76.7,
+            "slope": 138
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5428,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5428,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5265,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5265,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 124
+          }
+        ]
+      },
+      {
+        "name": "Marsh / Pines",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6809,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6809,
+            "par": 72,
+            "rating": 78.1,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6319,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6319,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 135
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5535,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5535,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5220,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5220,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 121
+          }
+        ]
+      },
+      {
+        "name": "Pines / Woods",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6763,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6763,
+            "par": 72,
+            "rating": 77.9,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6401,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6401,
+            "par": 72,
+            "rating": 77,
+            "slope": 135
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5633,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5633,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5297,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5297,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 123
+          }
+        ]
+      },
+      {
+        "name": "Pines 9",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3404,
+            "par": 36,
+            "rating": 36.3,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3404,
+            "par": 36,
+            "rating": 39.1,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3193,
+            "par": 36,
+            "rating": 35.3,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3193,
+            "par": 36,
+            "rating": 38.6,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2870,
+            "par": 36,
+            "rating": 33.5,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2870,
+            "par": 36,
+            "rating": 36.5,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2626,
+            "par": 36,
+            "rating": 34.4,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2626,
+            "par": 36,
+            "rating": 35.3,
+            "slope": 120
+          }
+        ]
+      },
+      {
+        "name": "Woods 9",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3359,
+            "par": 36,
+            "rating": 35.8,
+            "slope": 131
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3359,
+            "par": 36,
+            "rating": 38.8,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3208,
+            "par": 36,
+            "rating": 35.1,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3208,
+            "par": 36,
+            "rating": 38.4,
+            "slope": 138
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2763,
+            "par": 36,
+            "rating": 33,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2763,
+            "par": 36,
+            "rating": 35.7,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2671,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2671,
+            "par": 36,
+            "rating": 35.1,
+            "slope": 126
+          }
+        ]
+      },
+      {
+        "name": "Marsh 9",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3405,
+            "par": 36,
+            "rating": 36.6,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3405,
+            "par": 36,
+            "rating": 39.1,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3126,
+            "par": 36,
+            "rating": 35.2,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3126,
+            "par": 36,
+            "rating": 38.3,
+            "slope": 137
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2665,
+            "par": 36,
+            "rating": 33.1,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2665,
+            "par": 36,
+            "rating": 35.7,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2594,
+            "par": 36,
+            "rating": 34.3,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2594,
+            "par": 36,
+            "rating": 35.3,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2e7a560-86ac-11e4-8c28-020000005b00/the-country-club-of-jackson"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/bef6a6d0-86ac-11e4-8c28-020000005b00/hull-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/bef6a6d0-86ac-11e4-8c28-020000005b00/hull-golf-club",
+  "checked_at": 1795700352.174724,
+  "sha256": "2f63ae71b144334cc63b220c3ef563747520d3801a924a2b3c5c49e757e8bc54",
+  "title": "Hull Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "bef6a6d0-86ac-11e4-8c28-020000005b00",
+    "name": "Hull Golf Club",
+    "address": "The Hall, 27 Packman Lane, Kirk Ella",
+    "courses": [
+      {
+        "name": "Hull",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6235,
+            "par": 70,
+            "rating": 73.3,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6235,
+            "par": 71,
+            "rating": 75.1,
+            "slope": 132
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6026,
+            "par": 70,
+            "rating": 72.4,
+            "slope": 124
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 6026,
+            "par": 71,
+            "rating": 73.9,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5499,
+            "par": 70,
+            "rating": 70,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5499,
+            "par": 71,
+            "rating": 71.1,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/bef6a6d0-86ac-11e4-8c28-020000005b00/hull-golf-club"
+  }
+}

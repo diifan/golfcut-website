@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d285300-86ac-11e4-8c28-020000005b00/coudersport-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d285300-86ac-11e4-8c28-020000005b00/coudersport-country-club",
+  "checked_at": 1795694366.903254,
+  "sha256": "0cb4ab7b3e753099355811b95dfc1a727fadd67c3fa1713e28b917ec0c584aaa",
+  "title": "Coudersport Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d285300-86ac-11e4-8c28-020000005b00",
+    "name": "Coudersport Country Club",
+    "address": "839 Cherry Springs Road, Coudersport, PA",
+    "courses": [
+      {
+        "name": "Coudersport",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5972,
+            "par": 71,
+            "rating": 69.3,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5972,
+            "par": 71,
+            "rating": 74.7,
+            "slope": 121
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5253,
+            "par": 71,
+            "rating": 66,
+            "slope": 108
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5253,
+            "par": 71,
+            "rating": 67.5,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4563,
+            "par": 71,
+            "rating": 63.3,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4563,
+            "par": 71,
+            "rating": 67.5,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d285300-86ac-11e4-8c28-020000005b00/coudersport-country-club"
+  }
+}

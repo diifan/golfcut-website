@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/aeecf820-86ac-11e4-8c28-020000005b00/mason-rudolph",
+  "resolved_url": "https://18birdies.com/golf-courses/club/aeecf820-86ac-11e4-8c28-020000005b00/mason-rudolph",
+  "checked_at": 1795694148.2943964,
+  "sha256": "68efee8bafc4d3a0168272bb5e48d812d45751229512713c6765bef6d4505a73",
+  "title": "Mason Rudolph - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "aeecf820-86ac-11e4-8c28-020000005b00",
+    "name": "Mason Rudolph",
+    "address": "1514 Golf Club Ln, Clarksville, TN",
+    "courses": [
+      {
+        "name": "Mason Rudolph",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Champion",
+            "category": "MALE",
+            "yards": 2008,
+            "par": 30,
+            "rating": 31.6,
+            "slope": 100
+          },
+          {
+            "name": "Men",
+            "category": "MALE",
+            "yards": 1806,
+            "par": 30,
+            "rating": 30.7,
+            "slope": 96
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/aeecf820-86ac-11e4-8c28-020000005b00/mason-rudolph"
+  }
+}

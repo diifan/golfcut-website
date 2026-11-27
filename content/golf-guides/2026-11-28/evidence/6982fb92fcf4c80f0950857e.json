@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99d6de10-86ac-11e4-8c28-020000005b00/hollybrook-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99d6de10-86ac-11e4-8c28-020000005b00/hollybrook-country-club",
+  "checked_at": 1795523805.3347805,
+  "sha256": "bb7bc00962b0798c82ba6521229eaac17ef3c71de287b6e8ae26fb45186d685b",
+  "title": "Hollybrook Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "99d6de10-86ac-11e4-8c28-020000005b00",
+    "name": "Hollybrook Country Club",
+    "address": "29 Fisher Settlement Rd, Spencer, NY",
+    "courses": [
+      {
+        "name": "Hollybrook",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5817,
+            "par": 70,
+            "rating": 70,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5488,
+            "par": 70,
+            "rating": 70,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4766,
+            "par": 70,
+            "rating": 66.6,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99d6de10-86ac-11e4-8c28-020000005b00/hollybrook-country-club"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b464f690-86ac-11e4-8c28-020000005b00/fairbury-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b464f690-86ac-11e4-8c28-020000005b00/fairbury-country-club",
+  "checked_at": 1795687632.266494,
+  "sha256": "bcbcb1a08bea1e305bba1ae0090a66a53e2298e4f1a7f4c2f31aaa37e0521864",
+  "title": "Fairbury Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b464f690-86ac-11e4-8c28-020000005b00",
+    "name": "Fairbury Country Club",
+    "address": "Hwy 136, Fairbury, NE",
+    "courses": [
+      {
+        "name": "Fairbury",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3125,
+            "par": 35,
+            "rating": 36.7,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2318,
+            "par": 35,
+            "rating": 33,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2318,
+            "par": 35,
+            "rating": 33,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b464f690-86ac-11e4-8c28-020000005b00/fairbury-country-club"
+  }
+}

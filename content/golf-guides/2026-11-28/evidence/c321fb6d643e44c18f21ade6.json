@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b0918060-86ac-11e4-8c28-020000005b00/dakota-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b0918060-86ac-11e4-8c28-020000005b00/dakota-creek-golf-course",
+  "checked_at": 1795685212.0455139,
+  "sha256": "b3f0b3a1d0183df85f8e3c10abbb04ac8bc12cc3697090280500853be2db12c6",
+  "title": "Dakota Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b0918060-86ac-11e4-8c28-020000005b00",
+    "name": "Dakota Creek Golf Course",
+    "address": "3258 Haynie Rd, Custer, WA",
+    "courses": [
+      {
+        "name": "Dakota Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5185,
+            "par": 71,
+            "rating": 65.8,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5185,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4803,
+            "par": 71,
+            "rating": 66.8,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4803,
+            "par": 71,
+            "rating": 66.6,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b0918060-86ac-11e4-8c28-020000005b00/dakota-creek-golf-course"
+  }
+}

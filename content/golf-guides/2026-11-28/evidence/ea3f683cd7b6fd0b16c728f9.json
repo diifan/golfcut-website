@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9767b2d0-86ac-11e4-8c28-020000005b00/lake-view-executive-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9767b2d0-86ac-11e4-8c28-020000005b00/lake-view-executive-golf-course",
+  "checked_at": 1795697919.307172,
+  "sha256": "26189ccccb165d3bf27bd5ce81311eda9fa2d18f8045f13d647dbda83e484131",
+  "title": "Lake View Executive Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9767b2d0-86ac-11e4-8c28-020000005b00",
+    "name": "Lake View Executive Golf Course",
+    "address": "1471 E Mount Charleston Dr S., Pahrump, NV",
+    "courses": [
+      {
+        "name": "Lake View Executive",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3518,
+            "par": 60,
+            "rating": 57.8,
+            "slope": 79
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3518,
+            "par": 60,
+            "rating": 58.8,
+            "slope": 90
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3222,
+            "par": 60,
+            "rating": 55.1,
+            "slope": 74
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3222,
+            "par": 60,
+            "rating": 56.8,
+            "slope": 85
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9767b2d0-86ac-11e4-8c28-020000005b00/lake-view-executive-golf-course"
+  }
+}

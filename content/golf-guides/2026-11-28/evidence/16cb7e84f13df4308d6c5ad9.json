@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7bbf9ed0-86ac-11e4-8c28-020000005b00/beaufort-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7bbf9ed0-86ac-11e4-8c28-020000005b00/beaufort-golf-club",
+  "checked_at": 1795583824.6346006,
+  "sha256": "a6361a943085ce528c0765d58b715afcc50d79686717ba889202dfe1e8eb42d6",
+  "title": "Beaufort Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "7bbf9ed0-86ac-11e4-8c28-020000005b00",
+    "name": "Beaufort Golf Club",
+    "address": "Beaufort, Killarney, Co, Kerry\t",
+    "courses": [
+      {
+        "name": "Beaufort",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7007,
+            "par": 71,
+            "rating": 74,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7007,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6571,
+            "par": 71,
+            "rating": 71.7,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6571,
+            "par": 71,
+            "rating": 76.9,
+            "slope": 136
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6121,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 128
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 6121,
+            "par": 71,
+            "rating": 74.5,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5417,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5417,
+            "par": 71,
+            "rating": 72.4,
+            "slope": 132
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7bbf9ed0-86ac-11e4-8c28-020000005b00/beaufort-golf-club"
+  }
+}

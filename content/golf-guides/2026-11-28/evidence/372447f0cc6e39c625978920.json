@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba13bc70-86ac-11e4-8c28-020000005b00/mountain-view-grand-resort-spa",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba13bc70-86ac-11e4-8c28-020000005b00/mountain-view-grand-resort-spa",
+  "checked_at": 1795696646.9391747,
+  "sha256": "be1dd48d3a397b9f203ca49a0aee559b7b8c41bf16c4bf48db2e7c4c41f3037c",
+  "title": "Mountain View Grand Resort & Spa - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ba13bc70-86ac-11e4-8c28-020000005b00",
+    "name": "Mountain View Grand Resort & Spa",
+    "address": "101 Mountain View Rd",
+    "courses": [
+      {
+        "name": "Mountain View Grand",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 5803,
+            "par": 70,
+            "rating": 67.6,
+            "slope": 113
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 5803,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5318,
+            "par": 70,
+            "rating": 69.1,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5318,
+            "par": 72,
+            "rating": 65.2,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba13bc70-86ac-11e4-8c28-020000005b00/mountain-view-grand-resort-spa"
+  }
+}

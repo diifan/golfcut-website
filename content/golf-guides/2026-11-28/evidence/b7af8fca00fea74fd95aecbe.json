@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ada1d40-86ac-11e4-8c28-020000005b00/brights-creek-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ada1d40-86ac-11e4-8c28-020000005b00/brights-creek-club",
+  "checked_at": 1795661430.0348186,
+  "sha256": "063668ce346f370fd5faba3ab7d4beebc9e6e33a939510fcb4e148e3744c768f",
+  "title": "Bright's Creek Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "9ada1d40-86ac-11e4-8c28-020000005b00",
+    "name": "Bright's Creek Club",
+    "address": "2222 Palmer Rd",
+    "courses": [
+      {
+        "name": "Bright's Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7435,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 146
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6903,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 142
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6350,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 139
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5946,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5278,
+            "par": 72,
+            "rating": 65.1,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ada1d40-86ac-11e4-8c28-020000005b00/brights-creek-club"
+  }
+}

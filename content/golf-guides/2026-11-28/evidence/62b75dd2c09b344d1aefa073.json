@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d168e00-86ac-11e4-8c28-020000005b00/timbergate-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d168e00-86ac-11e4-8c28-020000005b00/timbergate-golf-course",
+  "checked_at": 1795524702.3380063,
+  "sha256": "071f9772ea82f5be307038a3a7f983aab4dcd3c65c874a0ae535cdf753429e77",
+  "title": "Timbergate Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d168e00-86ac-11e4-8c28-020000005b00",
+    "name": "Timbergate Golf Course",
+    "address": "151 St Andrews Ave, Edinburgh, IN",
+    "courses": [
+      {
+        "name": "Timbergate",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6965,
+            "par": 72,
+            "rating": 74.3,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6550,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6114,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5536,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 120
+          },
+          {
+            "name": "Burgundy",
+            "category": "MALE",
+            "yards": 5047,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d168e00-86ac-11e4-8c28-020000005b00/timbergate-golf-course"
+  }
+}

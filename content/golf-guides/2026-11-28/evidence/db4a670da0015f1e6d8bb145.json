@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/79b7f6f0-2c64-11e6-a3f0-0680a328ea36/st-ignace-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/79b7f6f0-2c64-11e6-a3f0-0680a328ea36/st-ignace-golf-club",
+  "checked_at": 1795686560.651813,
+  "sha256": "210df67eb81e02f160b0b797eb30cebb50acfd2df84565a2c851369c2cf71e1a",
+  "title": "St. Ignace Golf Club - Scorecards, Reviews | 18Birdies star star star star star google-play",
+  "course_profile": {
+    "id": "79b7f6f0-2c64-11e6-a3f0-0680a328ea36",
+    "name": "St. Ignace Golf Club",
+    "address": "79 Le Buttereau Rd\tSaint Ignace\tNew Brunswick\tCanada, Saint Ignace, New Brunswick",
+    "courses": [
+      {
+        "name": "St. Ignace Golf Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6541,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6325,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 127
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5694,
+            "par": 72,
+            "rating": 70.9,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5167,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/79b7f6f0-2c64-11e6-a3f0-0680a328ea36/st-ignace-golf-club"
+  }
+}

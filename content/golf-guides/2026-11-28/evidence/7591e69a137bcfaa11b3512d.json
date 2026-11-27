@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5e26ed0-86ac-11e4-8c28-020000005b00/evansville-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5e26ed0-86ac-11e4-8c28-020000005b00/evansville-golf-club",
+  "checked_at": 1795524270.7714808,
+  "sha256": "ccbbfca820f887eebf2fcf69d39327261d037fd61b844e95b6d70b271fccb3d4",
+  "title": "Evansville Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b5e26ed0-86ac-11e4-8c28-020000005b00",
+    "name": "Evansville Golf Club",
+    "address": "8501 N. Cemetery Road, Evansville, WI",
+    "courses": [
+      {
+        "name": "Evansville",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6564,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6564,
+            "par": 73,
+            "rating": 76.8,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6230,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6230,
+            "par": 73,
+            "rating": 75.7,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5268,
+            "par": 72,
+            "rating": 65.7,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5268,
+            "par": 73,
+            "rating": 70.4,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5e26ed0-86ac-11e4-8c28-020000005b00/evansville-golf-club"
+  }
+}

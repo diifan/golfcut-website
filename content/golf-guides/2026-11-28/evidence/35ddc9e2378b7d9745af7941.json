@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/837a1330-86ac-11e4-8c28-020000005b00/baker-park",
+  "resolved_url": "https://18birdies.com/golf-courses/club/837a1330-86ac-11e4-8c28-020000005b00/baker-park",
+  "checked_at": 1795686348.228365,
+  "sha256": "1fc99ea3a639358b4466b02475facac696cc1fa77e6982aa9e92ee577636db74",
+  "title": "Baker Park - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "837a1330-86ac-11e4-8c28-020000005b00",
+    "name": "Baker Park",
+    "address": "1095 Cambridge Rd, Kewanee, IL",
+    "courses": [
+      {
+        "name": "Baker Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6081,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 119
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6081,
+            "par": 71,
+            "rating": 74.2,
+            "slope": 131
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5417,
+            "par": 71,
+            "rating": 65.1,
+            "slope": 109
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5417,
+            "par": 71,
+            "rating": 70.7,
+            "slope": 123
+          },
+          {
+            "name": "Copper",
+            "category": "MALE",
+            "yards": 5235,
+            "par": 71,
+            "rating": 64.9,
+            "slope": 108
+          },
+          {
+            "name": "Copper",
+            "category": "FEMALE",
+            "yards": 5235,
+            "par": 71,
+            "rating": 66.1,
+            "slope": 111
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4016,
+            "par": 71,
+            "rating": 63.2,
+            "slope": 108
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 4016,
+            "par": 71,
+            "rating": 65.1,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/837a1330-86ac-11e4-8c28-020000005b00/baker-park"
+  }
+}

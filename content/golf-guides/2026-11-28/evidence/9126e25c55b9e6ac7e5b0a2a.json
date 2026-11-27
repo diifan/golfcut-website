@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af3dfe50-86ac-11e4-8c28-020000005b00/mc-donald-hills",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af3dfe50-86ac-11e4-8c28-020000005b00/mc-donald-hills",
+  "checked_at": 1795697961.6297388,
+  "sha256": "407b89c2f0daf346c42527c340445f591287b106ea021647f05ecb5253b08e50",
+  "title": "McDonald Hills - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af3dfe50-86ac-11e4-8c28-020000005b00",
+    "name": "McDonald Hills",
+    "address": "352 Guntown Rd, Rogersville, TN",
+    "courses": [
+      {
+        "name": "McDonald Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6356,
+            "par": 71,
+            "rating": 68.5,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6037,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5350,
+            "par": 71,
+            "rating": 64.7,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4928,
+            "par": 71,
+            "rating": 67.4,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af3dfe50-86ac-11e4-8c28-020000005b00/mc-donald-hills"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/6b778110-78d2-11e9-bde5-0680a328ea36/prairie-farms-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/6b778110-78d2-11e9-bde5-0680a328ea36/prairie-farms-golf-course",
+  "checked_at": 1795686424.1020126,
+  "sha256": "53b99a040c9b4c2bf85076b06311b26ddd8fceb23a072d51833d3e1019dff744",
+  "title": "Prairie Farms Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "6b778110-78d2-11e9-bde5-0680a328ea36",
+    "name": "Prairie Farms Golf Course",
+    "address": "4910 Shepherd Road North, Havre, MT",
+    "courses": [
+      {
+        "name": "18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6070,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6070,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6156,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6156,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5226,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5226,
+            "par": 72,
+            "rating": 70,
+            "slope": 125
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5258,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 118
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5258,
+            "par": 72,
+            "rating": 70,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/6b778110-78d2-11e9-bde5-0680a328ea36/prairie-farms-golf-course"
+  }
+}

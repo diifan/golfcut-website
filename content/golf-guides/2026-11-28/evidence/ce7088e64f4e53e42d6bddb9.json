@@ -1,0 +1,105 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/54343a10-3b54-11e7-941d-0680a328ea36/willow-creek-golf-course-le-mars",
+  "resolved_url": "https://18birdies.com/golf-courses/club/54343a10-3b54-11e7-941d-0680a328ea36/willow-creek-golf-course-le-mars",
+  "checked_at": 1795661456.775935,
+  "sha256": "e497210209599512dda2938b9d331d309e261683328f09d76b182208c8782a53",
+  "title": "Willow Creek Golf Course Le Mars - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "54343a10-3b54-11e7-941d-0680a328ea36",
+    "name": "Willow Creek Golf Course Le Mars",
+    "address": "935 Park Ln, Le Mars, IA 51031",
+    "courses": [
+      {
+        "name": "Black to Green",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6290,
+            "par": 71,
+            "rating": 71.3,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6090,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5547,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 120
+          }
+        ]
+      },
+      {
+        "name": "Green to Red",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6305,
+            "par": 70,
+            "rating": 71.4,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5857,
+            "par": 70,
+            "rating": 67.4,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5409,
+            "par": 70,
+            "rating": 69.6,
+            "slope": 119
+          }
+        ]
+      },
+      {
+        "name": "Red to Black",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6701,
+            "par": 71,
+            "rating": 71.9,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6053,
+            "par": 71,
+            "rating": 68.7,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5070,
+            "par": 71,
+            "rating": 68,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/54343a10-3b54-11e7-941d-0680a328ea36/willow-creek-golf-course-le-mars"
+  }
+}

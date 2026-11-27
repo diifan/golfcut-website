@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/722a28e0-86ac-11e4-8c28-020000005b00/royal-queensland-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/722a28e0-86ac-11e4-8c28-020000005b00/royal-queensland-golf-club",
+  "checked_at": 1795685318.7323842,
+  "sha256": "d87b10e840863a26a6d69dc915642d4955bd0d05c39950d3c0295782dfd41d3f",
+  "title": "Royal Queensland Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "722a28e0-86ac-11e4-8c28-020000005b00",
+    "name": "Royal Queensland Golf Club",
+    "address": "431 Curtin Avenue West, Eagle Farm, Brisbane ",
+    "courses": [
+      {
+        "name": "Royal Queensland",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7005.66566,
+            "par": 72,
+            "rating": 74,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7005.66566,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6716.952619999999,
+            "par": 72,
+            "rating": 73,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6716.952619999999,
+            "par": 72,
+            "rating": 77.6,
+            "slope": 138
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5821.286029999999,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5821.286029999999,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 128
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/722a28e0-86ac-11e4-8c28-020000005b00/royal-queensland-golf-club"
+  }
+}

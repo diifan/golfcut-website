@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83f584c0-86ac-11e4-8c28-020000005b00/north-county-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83f584c0-86ac-11e4-8c28-020000005b00/north-county-country-club",
+  "checked_at": 1795697904.0166035,
+  "sha256": "6a39e8e2ec223dede40170bd38c13534894ef78d5da14e4c947af5710e0da335",
+  "title": "North County Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "83f584c0-86ac-11e4-8c28-020000005b00",
+    "name": "North County Country Club",
+    "address": "703 W Market St, Red Bud, IL",
+    "courses": [
+      {
+        "name": "North County (18 Holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5684,
+            "par": 70,
+            "rating": 66.7,
+            "slope": 117
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5684,
+            "par": 70,
+            "rating": 72.1,
+            "slope": 126
+          },
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 5165,
+            "par": 70,
+            "rating": 65.2,
+            "slope": 114
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 5165,
+            "par": 70,
+            "rating": 69.4,
+            "slope": 120
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "MALE",
+            "yards": 4218,
+            "par": 70,
+            "rating": 64.1,
+            "slope": 109
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "FEMALE",
+            "yards": 4218,
+            "par": 70,
+            "rating": 64.6,
+            "slope": 109
+          }
+        ]
+      },
+      {
+        "name": "North County (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 2842,
+            "par": 35,
+            "rating": 32.9,
+            "slope": 115
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 2842,
+            "par": 35,
+            "rating": 36.1,
+            "slope": 122
+          },
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 2503,
+            "par": 35,
+            "rating": 32.2,
+            "slope": 112
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 2503,
+            "par": 35,
+            "rating": 34.3,
+            "slope": 116
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "MALE",
+            "yards": 2032,
+            "par": 35,
+            "rating": 31.7,
+            "slope": 100
+          },
+          {
+            "name": "Red/Yellow",
+            "category": "FEMALE",
+            "yards": 2032,
+            "par": 35,
+            "rating": 32,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83f584c0-86ac-11e4-8c28-020000005b00/north-county-country-club"
+  }
+}

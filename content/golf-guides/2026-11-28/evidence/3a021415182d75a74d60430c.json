@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5a05cc0-86ac-11e4-8c28-020000005b00/doyne-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5a05cc0-86ac-11e4-8c28-020000005b00/doyne-park-golf-course",
+  "checked_at": 1795661678.9847972,
+  "sha256": "53a0affa3e8e5da15fc5d2da58d43b1c2c5ea9469101e111583447477d114375",
+  "title": "Doyne Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b5a05cc0-86ac-11e4-8c28-020000005b00",
+    "name": "Doyne Park Golf Course",
+    "address": "5300 W. Wells St., Milwaukee, WI",
+    "courses": [
+      {
+        "name": "Doyne Park Golf Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Yards",
+            "category": "MALE",
+            "yards": 815,
+            "par": 27,
+            "rating": 25.5251,
+            "slope": 74.9768
+          },
+          {
+            "name": "Yards",
+            "category": "FEMALE",
+            "yards": 815,
+            "par": 27,
+            "rating": 25.5251,
+            "slope": 74.9768
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5a05cc0-86ac-11e4-8c28-020000005b00/doyne-park-golf-course"
+  }
+}

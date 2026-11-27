@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b77c6fc0-86ac-11e4-8c28-020000005b00/remsen",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b77c6fc0-86ac-11e4-8c28-020000005b00/remsen",
+  "checked_at": 1795696686.7457895,
+  "sha256": "5502b1a0550c598f74df5f4935edaf1e776f2bd95223eff8ab5b4dc70e6e3188",
+  "title": "Remsen Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b77c6fc0-86ac-11e4-8c28-020000005b00",
+    "name": "Remsen Golf Course",
+    "address": "Sunside Addition, Remsen, IA",
+    "courses": [
+      {
+        "name": "Remsen",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Mens",
+            "category": "MALE",
+            "yards": 3165,
+            "par": 36,
+            "rating": 70.7,
+            "slope": 121
+          },
+          {
+            "name": "Mens",
+            "category": "FEMALE",
+            "yards": 3165,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b77c6fc0-86ac-11e4-8c28-020000005b00/remsen"
+  }
+}

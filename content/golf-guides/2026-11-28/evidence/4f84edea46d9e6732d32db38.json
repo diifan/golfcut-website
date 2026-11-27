@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1a64bc0-86ac-11e4-8c28-020000005b00/martindale-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1a64bc0-86ac-11e4-8c28-020000005b00/martindale-country-club",
+  "checked_at": 1795694439.5349386,
+  "sha256": "04759f42c39173928798ce32e2e5fdac88b45f8c19399d4fd578c4bc6e41fc29",
+  "title": "Martindale Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1a64bc0-86ac-11e4-8c28-020000005b00",
+    "name": "Martindale Country Club",
+    "address": "571 Beech Hill Rd.",
+    "courses": [
+      {
+        "name": "Martindale",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6538,
+            "par": 71,
+            "rating": 72.3,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6538,
+            "par": 71,
+            "rating": 76.7,
+            "slope": 136
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6267,
+            "par": 71,
+            "rating": 71,
+            "slope": 132
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 6267,
+            "par": 71,
+            "rating": 75.2,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5351,
+            "par": 71,
+            "rating": 66.4,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5351,
+            "par": 71,
+            "rating": 71.7,
+            "slope": 123
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4793,
+            "par": 71,
+            "rating": 63.6,
+            "slope": 115
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 4793,
+            "par": 71,
+            "rating": 67.8,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1a64bc0-86ac-11e4-8c28-020000005b00/martindale-country-club"
+  }
+}

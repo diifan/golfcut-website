@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3bdba10-86ac-11e4-8c28-020000005b00/plum-brook-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3bdba10-86ac-11e4-8c28-020000005b00/plum-brook-golf-club",
+  "checked_at": 1795524905.089013,
+  "sha256": "185ed795e021a43bd4caa22f3bde9ff042764777d6c83b9feb1994727c9f1b0b",
+  "title": "Plum Brook Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b3bdba10-86ac-11e4-8c28-020000005b00",
+    "name": "Plum Brook Golf Club",
+    "address": "13390 Plumbrook Dr, Sterling Heights, MI",
+    "courses": [
+      {
+        "name": "Plum Brook",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6273,
+            "par": 71,
+            "rating": 69.3,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6273,
+            "par": 71,
+            "rating": 75,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6049,
+            "par": 71,
+            "rating": 67.7,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6049,
+            "par": 71,
+            "rating": 73.6,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5501,
+            "par": 71,
+            "rating": 69.9,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5501,
+            "par": 71,
+            "rating": 70.1,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3bdba10-86ac-11e4-8c28-020000005b00/plum-brook-golf-club"
+  }
+}

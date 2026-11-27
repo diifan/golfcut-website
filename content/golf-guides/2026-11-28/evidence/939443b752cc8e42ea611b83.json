@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8556aa0-86ac-11e4-8c28-020000005b00/square-butte-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8556aa0-86ac-11e4-8c28-020000005b00/square-butte-creek-golf-course",
+  "checked_at": 1795687602.242836,
+  "sha256": "f8de675ebe1d4cd1277685d6bdda1068dfd4a27193db106a6d5c80f54a7702e8",
+  "title": "Square Butte Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b8556aa0-86ac-11e4-8c28-020000005b00",
+    "name": "Square Butte Creek Golf Course",
+    "address": "Country Club Rd",
+    "courses": [
+      {
+        "name": "Square Butte Creek (9 holes )",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3148,
+            "par": 36,
+            "rating": 36.7,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3148,
+            "par": 36,
+            "rating": 35.8,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2801,
+            "par": 36,
+            "rating": 34.9,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2801,
+            "par": 36,
+            "rating": 35.8,
+            "slope": 121
+          }
+        ]
+      },
+      {
+        "name": "Square Butte Creek (18 holes )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6296,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6296,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5602,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5602,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8556aa0-86ac-11e4-8c28-020000005b00/square-butte-creek-golf-course"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/c4f1cf90-b842-11f1-954b-069933b83eb1/scurry-county-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/c4f1cf90-b842-11f1-954b-069933b83eb1/scurry-county-golf-course",
+  "checked_at": 1795687673.5222418,
+  "sha256": "d7e9685afe0eda5f187434559a9064b156c6af9405ec0ee13ad1a46982d10eae",
+  "title": "Scurry County Golf Course - Scorecards, Reviews | 18Birdies star star star star star google-play",
+  "course_profile": {
+    "id": "c4f1cf90-b842-11f1-954b-069933b83eb1",
+    "name": "Scurry County Golf Course",
+    "address": "557 N US Business Highway 84, Snyder, Texas 79550, Scurry County",
+    "courses": [
+      {
+        "name": "Scurry County (9)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Men",
+            "category": "MALE",
+            "yards": 3043,
+            "par": 36,
+            "rating": 35.2,
+            "slope": 119
+          },
+          {
+            "name": "Men",
+            "category": "FEMALE",
+            "yards": 3043,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 2548,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ladies",
+            "category": "FEMALE",
+            "yards": 2548,
+            "par": 36,
+            "rating": 35.5,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/c4f1cf90-b842-11f1-954b-069933b83eb1/scurry-county-golf-course"
+  }
+}

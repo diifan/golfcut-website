@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/bd83b5e0-86ac-11e4-8c28-020000005b00/keilir-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/bd83b5e0-86ac-11e4-8c28-020000005b00/keilir-golf-course",
+  "checked_at": 1795663866.797469,
+  "sha256": "2fc0f2d9f1d7a435b86f31cf957efff17851377bd9ceb36776a39c5d0f303aaa",
+  "title": "Keilir Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "bd83b5e0-86ac-11e4-8c28-020000005b00",
+    "name": "Keilir Golf Course",
+    "address": "Steinholti 1, 220 Hafnarfjordur",
+    "courses": [
+      {
+        "name": "Hvaleyrarvollur Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "63",
+            "category": "MALE",
+            "yards": 6890.83661,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 133
+          },
+          {
+            "name": "63",
+            "category": "FEMALE",
+            "yards": 6890.83661,
+            "par": 72,
+            "rating": 81.4,
+            "slope": 152
+          },
+          {
+            "name": "57",
+            "category": "MALE",
+            "yards": 6198.581479999999,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 128
+          },
+          {
+            "name": "57",
+            "category": "FEMALE",
+            "yards": 6198.581479999999,
+            "par": 72,
+            "rating": 77.5,
+            "slope": 146
+          },
+          {
+            "name": "53",
+            "category": "MALE",
+            "yards": 5796.132999999999,
+            "par": 72,
+            "rating": 69,
+            "slope": 118
+          },
+          {
+            "name": "53",
+            "category": "FEMALE",
+            "yards": 5796.132999999999,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 134
+          },
+          {
+            "name": "47",
+            "category": "MALE",
+            "yards": 5153.090319999999,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 107
+          },
+          {
+            "name": "47",
+            "category": "FEMALE",
+            "yards": 5153.090319999999,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 129
+          }
+        ]
+      },
+      {
+        "name": "sveinkotsvöllur Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "28 Mens",
+            "category": "MALE",
+            "yards": 3851.6944199999994,
+            "par": 56,
+            "rating": 57.6,
+            "slope": 96
+          },
+          {
+            "name": "28 Mens",
+            "category": "FEMALE",
+            "yards": 3851.6944199999994,
+            "par": 56,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "28 Ladies",
+            "category": "MALE",
+            "yards": 3554.2324999999996,
+            "par": 56,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "28 Ladies",
+            "category": "FEMALE",
+            "yards": 3554.2324999999996,
+            "par": 56,
+            "rating": 60.6,
+            "slope": 96
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/bd83b5e0-86ac-11e4-8c28-020000005b00/keilir-golf-course"
+  }
+}

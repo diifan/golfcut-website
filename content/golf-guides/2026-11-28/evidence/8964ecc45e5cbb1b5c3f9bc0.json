@@ -1,0 +1,219 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/fe5c1be0-dbab-11e8-9943-0680a328ea36/cabot-citrus-farms-roost-course-and-karoo-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/fe5c1be0-dbab-11e8-9943-0680a328ea36/cabot-citrus-farms-roost-course-and-karoo-course",
+  "checked_at": 1795663442.428178,
+  "sha256": "fcdf77eb966d4f8874bafbcd2140d082db1dfa571e8772e95e9018a7891a4879",
+  "title": "Cabot Citrus Farms - Roost & Karoo Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "fe5c1be0-dbab-11e8-9943-0680a328ea36",
+    "name": "Cabot Citrus Farms - Roost & Karoo Course",
+    "address": "17590 Ponce De Leon Blvd, Brooksville FL",
+    "courses": [
+      {
+        "name": "The Roost",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7543,
+            "par": 72,
+            "rating": 75.7,
+            "slope": 142
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7543,
+            "par": 72,
+            "rating": 83.1,
+            "slope": 149
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6931,
+            "par": 72,
+            "rating": 73,
+            "slope": 138
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 6931,
+            "par": 72,
+            "rating": 79.7,
+            "slope": 143
+          },
+          {
+            "name": "Tangerine",
+            "category": "MALE",
+            "yards": 6419,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 123
+          },
+          {
+            "name": "Tangerine",
+            "category": "FEMALE",
+            "yards": 6419,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 135
+          },
+          {
+            "name": "Tangerine/Silver",
+            "category": "MALE",
+            "yards": 6050,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 120
+          },
+          {
+            "name": "Tangerine/Silver",
+            "category": "FEMALE",
+            "yards": 6050,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 132
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5422,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 116
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5422,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4124,
+            "par": 72,
+            "rating": 61.3,
+            "slope": 106
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4124,
+            "par": 72,
+            "rating": 64.7,
+            "slope": 115
+          }
+        ]
+      },
+      {
+        "name": "Karoo Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7562,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 140
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7562,
+            "par": 72,
+            "rating": 82.5,
+            "slope": 79
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 6954,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 135
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 6954,
+            "par": 72,
+            "rating": 79.1,
+            "slope": 141
+          },
+          {
+            "name": "Tangerine",
+            "category": "MALE",
+            "yards": 6431,
+            "par": 72,
+            "rating": 70,
+            "slope": 123
+          },
+          {
+            "name": "Tangerine",
+            "category": "FEMALE",
+            "yards": 6431,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 135
+          },
+          {
+            "name": "Tangerine/Silver",
+            "category": "MALE",
+            "yards": 6009,
+            "par": 72,
+            "rating": 68,
+            "slope": 119
+          },
+          {
+            "name": "Tangerine/Silver",
+            "category": "FEMALE",
+            "yards": 6009,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 128
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 5325,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 109
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 5325,
+            "par": 72,
+            "rating": 70,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 4223,
+            "par": 72,
+            "rating": 60.4,
+            "slope": 100
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 4223,
+            "par": 72,
+            "rating": 63.1,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/fe5c1be0-dbab-11e8-9943-0680a328ea36/cabot-citrus-farms-roost-course-and-karoo-course"
+  }
+}

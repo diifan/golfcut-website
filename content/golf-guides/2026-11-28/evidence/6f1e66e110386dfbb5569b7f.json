@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b5fb4e00-86ac-11e4-8c28-020000005b00/jefferson-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b5fb4e00-86ac-11e4-8c28-020000005b00/jefferson-golf-course",
+  "checked_at": 1795687666.058446,
+  "sha256": "8643bafce0f159b9fa127fc28bb73d6729c7013b2f527c25095ccfec4cc7d5f0",
+  "title": "Jefferson Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b5fb4e00-86ac-11e4-8c28-020000005b00",
+    "name": "Jefferson Golf Course",
+    "address": "216 Golf Dr Jefferson, WI",
+    "courses": [
+      {
+        "name": "Jefferson ",
+        "holes": 13,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 4810,
+            "par": 52,
+            "rating": 70.7,
+            "slope": 122
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 4810,
+            "par": 52,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 4580,
+            "par": 52,
+            "rating": 68.8,
+            "slope": 119
+          },
+          {
+            "name": "Middle",
+            "category": "FEMALE",
+            "yards": 4580,
+            "par": 52,
+            "rating": 74.1,
+            "slope": 127
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 3753,
+            "par": 52,
+            "rating": 64,
+            "slope": 109
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 3753,
+            "par": 52,
+            "rating": 67.9,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b5fb4e00-86ac-11e4-8c28-020000005b00/jefferson-golf-course"
+  }
+}

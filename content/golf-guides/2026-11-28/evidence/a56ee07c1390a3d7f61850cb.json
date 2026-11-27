@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/946e7000-86ac-11e4-8c28-020000005b00/big-hickory-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/946e7000-86ac-11e4-8c28-020000005b00/big-hickory-golf-course",
+  "checked_at": 1795686520.96642,
+  "sha256": "665e985405471cf05d20267e9491d9f435f387e7fb5e66553664361515b54e37",
+  "title": "Big Hickory Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "946e7000-86ac-11e4-8c28-020000005b00",
+    "name": "Big Hickory Golf Course",
+    "address": "Rural Route 5, Manchester, KY",
+    "courses": [
+      {
+        "name": "Big Hickory",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5844,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5844,
+            "par": 72,
+            "rating": 73,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5588,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5588,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4910,
+            "par": 72,
+            "rating": 63.2,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4910,
+            "par": 72,
+            "rating": 66.9,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/946e7000-86ac-11e4-8c28-020000005b00/big-hickory-golf-course"
+  }
+}

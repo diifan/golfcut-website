@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3ce34d0-86ac-11e4-8c28-020000005b00/ubly-heights-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3ce34d0-86ac-11e4-8c28-020000005b00/ubly-heights-golf-country-club",
+  "checked_at": 1795661669.0861797,
+  "sha256": "54db8ffd44759eac6dc7668b9aaa725f710c4e3306c96b93b3fd2bff0720e754",
+  "title": "Ubly Heights Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b3ce34d0-86ac-11e4-8c28-020000005b00",
+    "name": "Ubly Heights Golf & Country Club",
+    "address": "2409 E Atwater Rd",
+    "courses": [
+      {
+        "name": "Ubly Heights",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 7003,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 126
+          },
+          {
+            "name": "Back Middle",
+            "category": "MALE",
+            "yards": 6416,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 120
+          },
+          {
+            "name": "Forward Middle",
+            "category": "MALE",
+            "yards": 5769,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 113
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 4968,
+            "par": 72,
+            "rating": 67.5,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3ce34d0-86ac-11e4-8c28-020000005b00/ubly-heights-golf-country-club"
+  }
+}

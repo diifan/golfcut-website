@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/93e801f0-86ac-11e4-8c28-020000005b00/stone-creek",
+  "resolved_url": "https://18birdies.com/golf-courses/club/93e801f0-86ac-11e4-8c28-020000005b00/stone-creek",
+  "checked_at": 1795661444.600643,
+  "sha256": "f832d4ce1b9383385633f405f27775499a8bbf5c9e26651a7b79d126e8ab991f",
+  "title": "Stone Creek - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "93e801f0-86ac-11e4-8c28-020000005b00",
+    "name": "Stone Creek",
+    "address": "4300 N Coleman Rd, Valdosta, GA",
+    "courses": [
+      {
+        "name": "Stone Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6652,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6111,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5549,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 119
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4901,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4631,
+            "par": 72,
+            "rating": 62.9,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/93e801f0-86ac-11e4-8c28-020000005b00/stone-creek"
+  }
+}

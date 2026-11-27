@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9643f350-86ac-11e4-8c28-020000005b00/valley-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9643f350-86ac-11e4-8c28-020000005b00/valley-golf-course",
+  "checked_at": 1795582938.2152126,
+  "sha256": "64db7af07e06971bd0e21a296b91ee4b8b42d96553cc52950dce9c37bb8a2b11",
+  "title": "Valley Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9643f350-86ac-11e4-8c28-020000005b00",
+    "name": "Valley Golf Course",
+    "address": "2407 River Road NW PO Box 461 East Grand Forks, MN",
+    "courses": [
+      {
+        "name": "Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6835,
+            "par": 73,
+            "rating": 73.9,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6835,
+            "par": 73,
+            "rating": 78.3,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6374,
+            "par": 73,
+            "rating": 71.1,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6374,
+            "par": 73,
+            "rating": 77.2,
+            "slope": 135
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5857,
+            "par": 73,
+            "rating": 71.6,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5857,
+            "par": 73,
+            "rating": 73.9,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5497,
+            "par": 73,
+            "rating": 73.9,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5497,
+            "par": 73,
+            "rating": 72.2,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9643f350-86ac-11e4-8c28-020000005b00/valley-golf-course"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d1714f0-86ac-11e4-8c28-020000005b00/carlisle-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d1714f0-86ac-11e4-8c28-020000005b00/carlisle-country-club",
+  "checked_at": 1795524975.9721706,
+  "sha256": "56bce4d0c62d5bd21b578a91cbfaecd744320b3f8bf7562c092d1365a77679bd",
+  "title": "Carlisle Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d1714f0-86ac-11e4-8c28-020000005b00",
+    "name": "Carlisle Country Club",
+    "address": "1242 Harrisburg Pike, Carlisle, PA 17013",
+    "courses": [
+      {
+        "name": "Carlisle",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6400,
+            "par": 71,
+            "rating": 70.8,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6400,
+            "par": 71,
+            "rating": 75.9,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6045,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6045,
+            "par": 71,
+            "rating": 74.7,
+            "slope": 125
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5440,
+            "par": 71,
+            "rating": 66.6,
+            "slope": 115
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5440,
+            "par": 71,
+            "rating": 71.3,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5031,
+            "par": 71,
+            "rating": 64.7,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5031,
+            "par": 71,
+            "rating": 69,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d1714f0-86ac-11e4-8c28-020000005b00/carlisle-country-club"
+  }
+}

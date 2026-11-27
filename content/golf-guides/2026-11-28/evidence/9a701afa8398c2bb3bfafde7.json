@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/aefb28f0-86ac-11e4-8c28-020000005b00/dyersburg-municipal",
+  "resolved_url": "https://18birdies.com/golf-courses/club/aefb28f0-86ac-11e4-8c28-020000005b00/dyersburg-municipal",
+  "checked_at": 1795686510.9151278,
+  "sha256": "90be588af16635fe0cc3fd272b3bed174d3871820a9e16149d7490406b66f870",
+  "title": "Dyersburg Municipal - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "aefb28f0-86ac-11e4-8c28-020000005b00",
+    "name": "Dyersburg Municipal",
+    "address": "1358 Golf Course Rd, Dyersburg, TN",
+    "courses": [
+      {
+        "name": "Dyersburg Municipal",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6592,
+            "par": 71,
+            "rating": 71.5,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6405,
+            "par": 71,
+            "rating": 70.7,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5746,
+            "par": 71,
+            "rating": 71.1,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/aefb28f0-86ac-11e4-8c28-020000005b00/dyersburg-municipal"
+  }
+}

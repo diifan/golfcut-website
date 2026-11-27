@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b7f178b0-86ac-11e4-8c28-020000005b00/wildcat-creek-fun-fitness",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b7f178b0-86ac-11e4-8c28-020000005b00/wildcat-creek-fun-fitness",
+  "checked_at": 1795671979.7600107,
+  "sha256": "d572ac0d088a49b1ca74fddbc6ca481ee90b21886d30375e4c82abae636d658a",
+  "title": "Wildcat Creek Fun & Fitness - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b7f178b0-86ac-11e4-8c28-020000005b00",
+    "name": "Wildcat Creek Fun & Fitness",
+    "address": "800 Anneberg Cir, Manhattan, KS",
+    "courses": [
+      {
+        "name": "Wildcat Creek (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 2055,
+            "par": 30,
+            "rating": 29.1,
+            "slope": 90
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 2055,
+            "par": 30,
+            "rating": 31.9,
+            "slope": 107
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 1732,
+            "par": 30,
+            "rating": 30.3,
+            "slope": 95
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 1732,
+            "par": 30,
+            "rating": 30.2,
+            "slope": 92
+          }
+        ]
+      },
+      {
+        "name": "Wildcat Creek (18 Holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 4110,
+            "par": 60,
+            "rating": 58.2,
+            "slope": 90
+          },
+          {
+            "name": "Back",
+            "category": "FEMALE",
+            "yards": 4110,
+            "par": 60,
+            "rating": 63.7,
+            "slope": 107
+          },
+          {
+            "name": "Front",
+            "category": "MALE",
+            "yards": 3464,
+            "par": 60,
+            "rating": 60.7,
+            "slope": 103
+          },
+          {
+            "name": "Front",
+            "category": "FEMALE",
+            "yards": 3464,
+            "par": 60,
+            "rating": 60.4,
+            "slope": 92
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b7f178b0-86ac-11e4-8c28-020000005b00/wildcat-creek-fun-fitness"
+  }
+}

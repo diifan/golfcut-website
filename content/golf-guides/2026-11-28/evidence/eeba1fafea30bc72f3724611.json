@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d78f950-86ac-11e4-8c28-020000005b00/prides-creek",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d78f950-86ac-11e4-8c28-020000005b00/prides-creek",
+  "checked_at": 1795685259.781121,
+  "sha256": "f287f9f8a5120853bde7b47adae6f5d44e37be27c737e3ebb74913e8915927fa",
+  "title": "Prides Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d78f950-86ac-11e4-8c28-020000005b00",
+    "name": "Prides Creek Golf Course",
+    "address": "1005 E County Rd 400 No, Petersburg, IN",
+    "courses": [
+      {
+        "name": "Prides Creek",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 3032,
+            "par": 36,
+            "rating": 34.2,
+            "slope": 131
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 3032,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red/Yello",
+            "category": "MALE",
+            "yards": 2515,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red/Yello",
+            "category": "FEMALE",
+            "yards": 2515,
+            "par": 36,
+            "rating": 34.2,
+            "slope": 120
+          }
+        ]
+      },
+      {
+        "name": "Prides Creek (18Holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 6064,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 121
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 6064,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red/Yello",
+            "category": "MALE",
+            "yards": 5030,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red/Yello",
+            "category": "FEMALE",
+            "yards": 5030,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d78f950-86ac-11e4-8c28-020000005b00/prides-creek"
+  }
+}

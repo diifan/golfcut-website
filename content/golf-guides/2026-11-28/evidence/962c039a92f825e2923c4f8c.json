@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ad582750-86ac-11e4-8c28-020000005b00/schuylkill-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ad582750-86ac-11e4-8c28-020000005b00/schuylkill-country-club",
+  "checked_at": 1795664731.4898858,
+  "sha256": "e9b9057d26702f138e8fb8cdc92af0a3859daffc4bed1608b997c629519db3cb",
+  "title": "Schuylkill Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ad582750-86ac-11e4-8c28-020000005b00",
+    "name": "Schuylkill Country Club",
+    "address": "Route 443",
+    "courses": [
+      {
+        "name": "Schuylkill",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6857,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6539,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 132
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6162,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5847,
+            "par": 72,
+            "rating": 71.6,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ad582750-86ac-11e4-8c28-020000005b00/schuylkill-country-club"
+  }
+}

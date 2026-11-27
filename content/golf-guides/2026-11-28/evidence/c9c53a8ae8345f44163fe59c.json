@@ -1,0 +1,107 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/d0b865c0-86ac-11e4-8c28-020000005b00/nieuwegeinse",
+  "resolved_url": "https://18birdies.com/golf-courses/club/d0b865c0-86ac-11e4-8c28-020000005b00/nieuwegeinse",
+  "checked_at": 1795685312.2434583,
+  "sha256": "f2396f54070a62e0226b0821e04a5b70f22ae73dd3f15f1880c3612ef2d6abf8",
+  "title": "Nieuwegeinse Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star-o star star google-play",
+  "course_profile": {
+    "id": "d0b865c0-86ac-11e4-8c28-020000005b00",
+    "name": "Nieuwegeinse Golf Club",
+    "address": "Heemsteedseweg 32a, ",
+    "courses": [
+      {
+        "name": "Nieuwegeinse (9 holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 3002,
+            "par": 35,
+            "rating": 34.4,
+            "slope": 117
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 3002,
+            "par": 35,
+            "rating": 34.9,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2670,
+            "par": 35,
+            "rating": 32.1,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2670,
+            "par": 35,
+            "rating": 32.6,
+            "slope": 109
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 2419,
+            "par": 35,
+            "rating": 32,
+            "slope": 103
+          },
+          {
+            "name": "Orange",
+            "category": "FEMALE",
+            "yards": 2419,
+            "par": 35,
+            "rating": 32.5,
+            "slope": 105
+          }
+        ]
+      },
+      {
+        "name": "De Utrechtse",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 778,
+            "par": 27,
+            "rating": 46.7,
+            "slope": 57
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 778,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 778,
+            "par": 27,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 778,
+            "par": 27,
+            "rating": 47.4,
+            "slope": 61
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/d0b865c0-86ac-11e4-8c28-020000005b00/nieuwegeinse"
+  }
+}

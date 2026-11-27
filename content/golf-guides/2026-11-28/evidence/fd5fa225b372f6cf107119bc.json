@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba607ce0-86ac-11e4-8c28-020000005b00/bridge-haven",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba607ce0-86ac-11e4-8c28-020000005b00/bridge-haven",
+  "checked_at": 1795687595.23599,
+  "sha256": "aaa8e467f979eef37b27cb81bc82adb3465ac7c6f64d0e86973703ec514495dd",
+  "title": "Bridge Haven - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ba607ce0-86ac-11e4-8c28-020000005b00",
+    "name": "Bridge Haven",
+    "address": "295 Browns Rd, Fayetteville, WV",
+    "courses": [
+      {
+        "name": "Bridge Haven",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6205,
+            "par": 70,
+            "rating": 70.8,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6205,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5499,
+            "par": 70,
+            "rating": 66.8,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5499,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4989,
+            "par": 70,
+            "rating": 64.1,
+            "slope": 109
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4989,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4512,
+            "par": 70,
+            "rating": 62.9,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4512,
+            "par": 70,
+            "rating": 65.4,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba607ce0-86ac-11e4-8c28-020000005b00/bridge-haven"
+  }
+}

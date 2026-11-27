@@ -1,0 +1,379 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8ec2b760-86ac-11e4-8c28-020000005b00/bonita-bay-club-east-naples",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8ec2b760-86ac-11e4-8c28-020000005b00/bonita-bay-club-east-naples",
+  "checked_at": 1795661672.2836516,
+  "sha256": "b0b2953ff6e4a1276fd8d43e0a8e83ba16f3221674ee5f4779d9e9086022519c",
+  "title": "Bonita Bay Club East (Naples) - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8ec2b760-86ac-11e4-8c28-020000005b00",
+    "name": "Bonita Bay Club East (Naples)",
+    "address": "3700 Wildwood Boulevard, Naples, Florida, 34120",
+    "courses": [
+      {
+        "name": "Bonita Bay East (Sabal)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "C",
+            "category": "MALE",
+            "yards": 6813,
+            "par": 72,
+            "rating": 76,
+            "slope": 131
+          },
+          {
+            "name": "C",
+            "category": "FEMALE",
+            "yards": 6813,
+            "par": 72,
+            "rating": 78.1,
+            "slope": 139
+          },
+          {
+            "name": "V",
+            "category": "MALE",
+            "yards": 6813,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 139
+          },
+          {
+            "name": "V",
+            "category": "FEMALE",
+            "yards": 6813,
+            "par": 72,
+            "rating": 78.1,
+            "slope": 139
+          },
+          {
+            "name": "IV-V",
+            "category": "MALE",
+            "yards": 6637,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 138
+          },
+          {
+            "name": "IV-V",
+            "category": "FEMALE",
+            "yards": 6637,
+            "par": 72,
+            "rating": 77.2,
+            "slope": 137
+          },
+          {
+            "name": "IV",
+            "category": "MALE",
+            "yards": 6406,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 136
+          },
+          {
+            "name": "IV",
+            "category": "FEMALE",
+            "yards": 6406,
+            "par": 72,
+            "rating": 76,
+            "slope": 134
+          },
+          {
+            "name": "III-IV",
+            "category": "MALE",
+            "yards": 6182,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 134
+          },
+          {
+            "name": "III-IV",
+            "category": "FEMALE",
+            "yards": 6182,
+            "par": 72,
+            "rating": 75.8,
+            "slope": 135
+          },
+          {
+            "name": "III",
+            "category": "MALE",
+            "yards": 5924,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 130
+          },
+          {
+            "name": "III",
+            "category": "FEMALE",
+            "yards": 5924,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 132
+          },
+          {
+            "name": "II-III",
+            "category": "MALE",
+            "yards": 5633,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 127
+          },
+          {
+            "name": "II-III",
+            "category": "FEMALE",
+            "yards": 5633,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 129
+          },
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 5401,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 116
+          },
+          {
+            "name": "II",
+            "category": "FEMALE",
+            "yards": 5401,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 126
+          },
+          {
+            "name": "I-II",
+            "category": "MALE",
+            "yards": 5128,
+            "par": 72,
+            "rating": 65.8,
+            "slope": 114
+          },
+          {
+            "name": "I-II",
+            "category": "FEMALE",
+            "yards": 5128,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 123
+          },
+          {
+            "name": "I",
+            "category": "MALE",
+            "yards": 4852,
+            "par": 72,
+            "rating": 64.6,
+            "slope": 112
+          },
+          {
+            "name": "I",
+            "category": "FEMALE",
+            "yards": 4852,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 120
+          },
+          {
+            "name": "F",
+            "category": "MALE",
+            "yards": 4852,
+            "par": 72,
+            "rating": 67,
+            "slope": 115
+          },
+          {
+            "name": "F",
+            "category": "FEMALE",
+            "yards": 4852,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 116
+          }
+        ]
+      },
+      {
+        "name": "Bonita Bay East (Cypress)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "C",
+            "category": "MALE",
+            "yards": 7437,
+            "par": 72,
+            "rating": 76.5,
+            "slope": 143
+          },
+          {
+            "name": "C",
+            "category": "FEMALE",
+            "yards": 7437,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "V",
+            "category": "MALE",
+            "yards": 7089,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 140
+          },
+          {
+            "name": "V",
+            "category": "FEMALE",
+            "yards": 7089,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "IV-V",
+            "category": "MALE",
+            "yards": 6841,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 137
+          },
+          {
+            "name": "IV-V",
+            "category": "FEMALE",
+            "yards": 6841,
+            "par": 72,
+            "rating": 78.3,
+            "slope": 139
+          },
+          {
+            "name": "IV",
+            "category": "MALE",
+            "yards": 6576,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 135
+          },
+          {
+            "name": "IV",
+            "category": "FEMALE",
+            "yards": 6576,
+            "par": 72,
+            "rating": 78.3,
+            "slope": 142
+          },
+          {
+            "name": "III-IV",
+            "category": "MALE",
+            "yards": 6323,
+            "par": 72,
+            "rating": 71,
+            "slope": 131
+          },
+          {
+            "name": "III-IV",
+            "category": "FEMALE",
+            "yards": 6323,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 139
+          },
+          {
+            "name": "III",
+            "category": "MALE",
+            "yards": 6054,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 127
+          },
+          {
+            "name": "III",
+            "category": "FEMALE",
+            "yards": 6054,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 136
+          },
+          {
+            "name": "II-III",
+            "category": "MALE",
+            "yards": 5750,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 125
+          },
+          {
+            "name": "II-III",
+            "category": "FEMALE",
+            "yards": 5750,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 130
+          },
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 5550,
+            "par": 72,
+            "rating": 67.6,
+            "slope": 121
+          },
+          {
+            "name": "II",
+            "category": "FEMALE",
+            "yards": 5550,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 129
+          },
+          {
+            "name": "I-II",
+            "category": "MALE",
+            "yards": 5303,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 119
+          },
+          {
+            "name": "I-II",
+            "category": "FEMALE",
+            "yards": 5303,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 124
+          },
+          {
+            "name": "I",
+            "category": "MALE",
+            "yards": 5059,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 116
+          },
+          {
+            "name": "I",
+            "category": "FEMALE",
+            "yards": 5059,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 119
+          },
+          {
+            "name": "F",
+            "category": "MALE",
+            "yards": 4583,
+            "par": 72,
+            "rating": 62.7,
+            "slope": 113
+          },
+          {
+            "name": "F",
+            "category": "FEMALE",
+            "yards": 4583,
+            "par": 72,
+            "rating": 68,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8ec2b760-86ac-11e4-8c28-020000005b00/bonita-bay-club-east-naples"
+  }
+}

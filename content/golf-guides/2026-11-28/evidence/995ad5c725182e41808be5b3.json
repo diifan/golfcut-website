@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9cc30180-86ac-11e4-8c28-020000005b00/willard-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9cc30180-86ac-11e4-8c28-020000005b00/willard-golf-club",
+  "checked_at": 1795661462.5358112,
+  "sha256": "e65e1b832870ca651643ef732dc8aa7f1a7c19dc4922fe6a4e1585b87213c277",
+  "title": "Willard Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9cc30180-86ac-11e4-8c28-020000005b00",
+    "name": "Willard Golf Club",
+    "address": "4000 State Route 162 W, Willard, OH",
+    "courses": [
+      {
+        "name": "Willard",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 6215,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 116
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 6215,
+            "par": 72,
+            "rating": 75,
+            "slope": 132
+          },
+          {
+            "name": "Yellow/Red",
+            "category": "MALE",
+            "yards": 4252,
+            "par": 72,
+            "rating": 64.3,
+            "slope": 110
+          },
+          {
+            "name": "Yellow/Red",
+            "category": "FEMALE",
+            "yards": 4252,
+            "par": 72,
+            "rating": 64.3,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9cc30180-86ac-11e4-8c28-020000005b00/willard-golf-club"
+  }
+}

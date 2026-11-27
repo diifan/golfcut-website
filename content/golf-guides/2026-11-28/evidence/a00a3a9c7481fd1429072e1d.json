@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b697b510-86ac-11e4-8c28-020000005b00/lakeview-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b697b510-86ac-11e4-8c28-020000005b00/lakeview-golf-club",
+  "checked_at": 1795524809.8114803,
+  "sha256": "1c1dbef764141a767b45511d3e181864411fc14af60fcb171123fe036aeb1577",
+  "title": "Lakeview Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b697b510-86ac-11e4-8c28-020000005b00",
+    "name": "Lakeview Golf Club",
+    "address": "4200 W Talamore Blvd, Meridian, ID",
+    "courses": [
+      {
+        "name": "Lakeview",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6376,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6376,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6008,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6008,
+            "par": 72,
+            "rating": 74.6,
+            "slope": 137
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5180,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5180,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b697b510-86ac-11e4-8c28-020000005b00/lakeview-golf-club"
+  }
+}

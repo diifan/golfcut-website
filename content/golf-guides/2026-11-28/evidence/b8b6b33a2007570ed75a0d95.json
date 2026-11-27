@@ -1,0 +1,59 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/903fe180-86ac-11e4-8c28-020000005b00/twin-brooks-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/903fe180-86ac-11e4-8c28-020000005b00/twin-brooks-golf-course",
+  "checked_at": 1795663856.875217,
+  "sha256": "6bb4c86aa2d83e72fc9976b8af752642ecd1a971e2bde52aaf18bfef9cc86721",
+  "title": "Twin Brooks Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "903fe180-86ac-11e4-8c28-020000005b00",
+    "name": "Twin Brooks Golf Course",
+    "address": "3800 22nd Ave S, Saint Petersburg, FL",
+    "courses": [
+      {
+        "name": "Twin Brooks (18)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1948,
+            "par": 54,
+            "rating": 51.64772,
+            "slope": 78.36272
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 1948,
+            "par": 54,
+            "rating": 51.64772,
+            "slope": 78.36272
+          }
+        ]
+      },
+      {
+        "name": "Twin Brooks (9)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 974,
+            "par": 27,
+            "rating": 26.24696,
+            "slope": 77.88968
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 974,
+            "par": 27,
+            "rating": 26.24696,
+            "slope": 77.88968
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/903fe180-86ac-11e4-8c28-020000005b00/twin-brooks-golf-course"
+  }
+}

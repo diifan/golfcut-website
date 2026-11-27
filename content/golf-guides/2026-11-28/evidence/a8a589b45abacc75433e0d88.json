@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/891e51c0-86ac-11e4-8c28-020000005b00/riverside-at-fresno",
+  "resolved_url": "https://18birdies.com/golf-courses/club/891e51c0-86ac-11e4-8c28-020000005b00/riverside-at-fresno",
+  "checked_at": 1795669245.893922,
+  "sha256": "9099c01055b5150417290193a655cb86f7646f5d97b76726ed3cd495bd253738",
+  "title": "Riverside at Fresno - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "891e51c0-86ac-11e4-8c28-020000005b00",
+    "name": "Riverside at Fresno",
+    "address": "7672 N Josephine Ave, Fresno, CA",
+    "courses": [
+      {
+        "name": "Riverside at Fresno",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6636,
+            "par": 72,
+            "rating": 71,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6636,
+            "par": 73,
+            "rating": 77.2,
+            "slope": 137
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6416,
+            "par": 72,
+            "rating": 70,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6416,
+            "par": 73,
+            "rating": 76,
+            "slope": 134
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5915,
+            "par": 72,
+            "rating": 71.9,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5915,
+            "par": 73,
+            "rating": 73.6,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/891e51c0-86ac-11e4-8c28-020000005b00/riverside-at-fresno"
+  }
+}

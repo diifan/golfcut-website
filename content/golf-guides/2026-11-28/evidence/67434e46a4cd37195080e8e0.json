@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2decbc0-86ac-11e4-8c28-020000005b00/interlochen-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2decbc0-86ac-11e4-8c28-020000005b00/interlochen-golf-club",
+  "checked_at": 1795582841.8513887,
+  "sha256": "ad0364bcf1a2fe122146bfa561cb6dde5aaeceb0b20384e991d37c5d4c04dcb9",
+  "title": "Interlochen Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b2decbc0-86ac-11e4-8c28-020000005b00",
+    "name": "Interlochen Golf Club",
+    "address": "10586 US 31 S",
+    "courses": [
+      {
+        "name": "Interlochen",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6470,
+            "par": 71,
+            "rating": 71.5,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6470,
+            "par": 71,
+            "rating": 77.1,
+            "slope": 144
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5890,
+            "par": 71,
+            "rating": 68,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5890,
+            "par": 71,
+            "rating": 73.3,
+            "slope": 134
+          },
+          {
+            "name": "Member",
+            "category": "MALE",
+            "yards": 5081,
+            "par": 71,
+            "rating": 64.4,
+            "slope": 118
+          },
+          {
+            "name": "Member",
+            "category": "FEMALE",
+            "yards": 5081,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4868,
+            "par": 71,
+            "rating": 63.8,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4868,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2decbc0-86ac-11e4-8c28-020000005b00/interlochen-golf-club"
+  }
+}

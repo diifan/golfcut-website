@@ -1,0 +1,339 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7490c8a0-86ac-11e4-8c28-020000005b00/hill-view-public-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7490c8a0-86ac-11e4-8c28-020000005b00/hill-view-public-golf-course",
+  "checked_at": 1795524855.127352,
+  "sha256": "627af095790e11d3d0aeccef5c77422b5f0b2076b9d711ada28fd64ac2fec814",
+  "title": "Hill View Public Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "7490c8a0-86ac-11e4-8c28-020000005b00",
+    "name": "Hill View Public Golf Course",
+    "address": "350 Kalamunda Road, Maida Vale, WA, Australia",
+    "courses": [
+      {
+        "name": "Classic 9",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3193.3412000000003,
+            "par": 36,
+            "rating": 35.4,
+            "slope": 122
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3193.3412000000003,
+            "par": 36,
+            "rating": 37.9,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2954.9342199999996,
+            "par": 36,
+            "rating": 34.5,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2954.9342199999996,
+            "par": 36,
+            "rating": 36.7,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2659.6595199999997,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2659.6595199999997,
+            "par": 36,
+            "rating": 35.5,
+            "slope": 109
+          }
+        ]
+      },
+      {
+        "name": "Lake Side 9",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3339.8849399999995,
+            "par": 36,
+            "rating": 35.5,
+            "slope": 115
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3339.8849399999995,
+            "par": 37,
+            "rating": 38.7,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3102.57157,
+            "par": 36,
+            "rating": 34.5,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3102.57157,
+            "par": 37,
+            "rating": 37.5,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2891.50484,
+            "par": 36,
+            "rating": 35.6,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2891.50484,
+            "par": 37,
+            "rating": 36.5,
+            "slope": 120
+          }
+        ]
+      },
+      {
+        "name": "Heritage 9",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3515.95615,
+            "par": 36,
+            "rating": 36.5,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3515.95615,
+            "par": 36,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3314.7319099999995,
+            "par": 36,
+            "rating": 35.5,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3314.7319099999995,
+            "par": 36,
+            "rating": 38.6,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2946.1853400000005,
+            "par": 36,
+            "rating": 35.9,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2946.1853400000005,
+            "par": 36,
+            "rating": 36.5,
+            "slope": 116
+          }
+        ]
+      },
+      {
+        "name": "Classic/Lakeside",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6533.22614,
+            "par": 72,
+            "rating": 71,
+            "slope": 115
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6533.22614,
+            "par": 73,
+            "rating": 76.7,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6057.505790000001,
+            "par": 72,
+            "rating": 68,
+            "slope": 110
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6057.505790000001,
+            "par": 73,
+            "rating": 74.1,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5551.16436,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5551.16436,
+            "par": 73,
+            "rating": 71,
+            "slope": 112
+          }
+        ]
+      },
+      {
+        "name": "Classic/Heritage",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6709.297350000001,
+            "par": 72,
+            "rating": 72,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6709.297350000001,
+            "par": 72,
+            "rating": 77.6,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6269.66613,
+            "par": 72,
+            "rating": 70,
+            "slope": 112
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6269.66613,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 133
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5605.84486,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5605.84486,
+            "par": 72,
+            "rating": 73,
+            "slope": 113
+          }
+        ]
+      },
+      {
+        "name": "Lakeside/Heritage",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6855.84109,
+            "par": 72,
+            "rating": 72,
+            "slope": 114
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6855.84109,
+            "par": 73,
+            "rating": 78.4,
+            "slope": 140
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6417.3034800000005,
+            "par": 72,
+            "rating": 70,
+            "slope": 110
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6417.3034800000005,
+            "par": 73,
+            "rating": 76,
+            "slope": 134
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5837.690180000001,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5837.690180000001,
+            "par": 73,
+            "rating": 74,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7490c8a0-86ac-11e4-8c28-020000005b00/hill-view-public-golf-course"
+  }
+}

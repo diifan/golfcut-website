@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9d61730-86ac-11e4-8c28-020000005b00/overlook-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9d61730-86ac-11e4-8c28-020000005b00/overlook-golf-club",
+  "checked_at": 1795663440.65389,
+  "sha256": "0114125c4eeb912db0704d9975bbcc0d819728f31c77937aab561cef6ac642f0",
+  "title": "Overlook Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b9d61730-86ac-11e4-8c28-020000005b00",
+    "name": "Overlook Golf Club",
+    "address": "5 Overlook Dr",
+    "courses": [
+      {
+        "name": "Overlook",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6624,
+            "par": 71,
+            "rating": 70,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6103,
+            "par": 71,
+            "rating": 68.3,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5255,
+            "par": 71,
+            "rating": 68.9,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9d61730-86ac-11e4-8c28-020000005b00/overlook-golf-club"
+  }
+}

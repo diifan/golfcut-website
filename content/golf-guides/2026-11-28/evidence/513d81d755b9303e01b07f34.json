@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/77fcca70-86ac-11e4-8c28-020000005b00/whirlpool-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/77fcca70-86ac-11e4-8c28-020000005b00/whirlpool-golf-course",
+  "checked_at": 1795700446.639526,
+  "sha256": "70ce1c1544a48a1cd49d2233e1b91cd85939fb3f7c2531a20795f9967b28f0e2",
+  "title": "Whirlpool Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "77fcca70-86ac-11e4-8c28-020000005b00",
+    "name": "Whirlpool Golf Course",
+    "address": "3351 Niagara Parkway",
+    "courses": [
+      {
+        "name": "Niagara Whirlpool",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 7019,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6701,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6292,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5702,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 111
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5203,
+            "par": 72,
+            "rating": 64.3,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/77fcca70-86ac-11e4-8c28-020000005b00/whirlpool-golf-course"
+  }
+}

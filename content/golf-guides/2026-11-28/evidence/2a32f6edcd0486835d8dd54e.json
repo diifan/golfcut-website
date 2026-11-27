@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b320ddd0-86ac-11e4-8c28-020000005b00/north-shore-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b320ddd0-86ac-11e4-8c28-020000005b00/north-shore-golf-club",
+  "checked_at": 1795663446.2217023,
+  "sha256": "0cb8eb45b3ad8ee238a725e461d1c69c15e0b6da2b5a634a0ff35bfff16567fd",
+  "title": "North Shore Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b320ddd0-86ac-11e4-8c28-020000005b00",
+    "name": "North Shore Golf Club",
+    "address": "N2315 Hwy M-35, Menominee, MI",
+    "courses": [
+      {
+        "name": "North Shore",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6459,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6459,
+            "par": 72,
+            "rating": 76.3,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6122,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6122,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b320ddd0-86ac-11e4-8c28-020000005b00/north-shore-golf-club"
+  }
+}

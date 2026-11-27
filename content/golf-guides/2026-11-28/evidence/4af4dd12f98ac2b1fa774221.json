@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/890a7ba0-86ac-11e4-8c28-020000005b00/colton-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/890a7ba0-86ac-11e4-8c28-020000005b00/colton-golf-club",
+  "checked_at": 1795524739.21997,
+  "sha256": "2728e9a97f046317d67db92e06303723e58b8988d3d6ca234a8eb995fcf6b703",
+  "title": "Colton Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "890a7ba0-86ac-11e4-8c28-020000005b00",
+    "name": "Colton Golf Club",
+    "address": "1901 W Valley Blvd",
+    "courses": [
+      {
+        "name": "Colton",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3108,
+            "par": 56,
+            "rating": 54.8,
+            "slope": 86
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3108,
+            "par": 56,
+            "rating": 57.3,
+            "slope": 90
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2626,
+            "par": 56,
+            "rating": 53,
+            "slope": 82
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2626,
+            "par": 56,
+            "rating": 55.1,
+            "slope": 85
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/890a7ba0-86ac-11e4-8c28-020000005b00/colton-golf-club"
+  }
+}

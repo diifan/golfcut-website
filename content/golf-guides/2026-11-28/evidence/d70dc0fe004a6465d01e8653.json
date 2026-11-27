@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9655cda0-86ac-11e4-8c28-020000005b00/frazee-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9655cda0-86ac-11e4-8c28-020000005b00/frazee-golf-course",
+  "checked_at": 1795685158.6526904,
+  "sha256": "d234eb86af3845df6c893afb3b094b9f9ec591fceb0c6a2e5982c849301debda",
+  "title": "Frazee Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9655cda0-86ac-11e4-8c28-020000005b00",
+    "name": "Frazee Golf Course",
+    "address": "34482 MN-87, Frazee, MN ",
+    "courses": [
+      {
+        "name": "Frazee (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2479,
+            "par": 34,
+            "rating": 31.9,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2479,
+            "par": 34,
+            "rating": 34.8,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2322,
+            "par": 34,
+            "rating": 31.5,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2322,
+            "par": 34,
+            "rating": 33.9,
+            "slope": 109
+          }
+        ]
+      },
+      {
+        "name": "Frazee (18 Holes) ",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4958,
+            "par": 68,
+            "rating": 63.8,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4958,
+            "par": 68,
+            "rating": 69.6,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4644,
+            "par": 68,
+            "rating": 63,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4644,
+            "par": 68,
+            "rating": 67.8,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9655cda0-86ac-11e4-8c28-020000005b00/frazee-golf-course"
+  }
+}

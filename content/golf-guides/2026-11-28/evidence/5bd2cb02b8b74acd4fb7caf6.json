@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/94d40fa0-86ac-11e4-8c28-020000005b00/night-hawk",
+  "resolved_url": "https://18birdies.com/golf-courses/club/94d40fa0-86ac-11e4-8c28-020000005b00/night-hawk",
+  "checked_at": 1795524412.5303962,
+  "sha256": "a1a5ca3db096920e7212cfce76d12289761614c82df14a6d016ef748af21db07",
+  "title": "Night Hawk - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "94d40fa0-86ac-11e4-8c28-020000005b00",
+    "name": "Night Hawk",
+    "address": "814 S Route 301",
+    "courses": [
+      {
+        "name": "Night Hawk",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 733,
+            "par": 27,
+            "rating": 27,
+            "slope": 87
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 733,
+            "par": 27,
+            "rating": 28.5,
+            "slope": 89
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/94d40fa0-86ac-11e4-8c28-020000005b00/night-hawk"
+  }
+}

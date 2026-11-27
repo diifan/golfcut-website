@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/074aef00-7bc3-11e7-ad41-0680a328ea36/birchwood-at-spring-lake",
+  "resolved_url": "https://18birdies.com/golf-courses/club/074aef00-7bc3-11e7-ad41-0680a328ea36/birchwood-at-spring-lake",
+  "checked_at": 1795686461.4161448,
+  "sha256": "6045f339e676bb9c37e92e1dfeb18e36784a4487c6eca6ca0663e7a4f5ec17a9",
+  "title": "Birchwood at Spring Lake - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "074aef00-7bc3-11e7-ad41-0680a328ea36",
+    "name": "Birchwood at Spring Lake",
+    "address": "500 Birchwood Park Rd, Middle Island, NY",
+    "courses": [
+      {
+        "name": "Birchwood",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2198,
+            "par": 32,
+            "rating": 31,
+            "slope": 101
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2198,
+            "par": 32,
+            "rating": 32.4,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1974,
+            "par": 32,
+            "rating": 30,
+            "slope": 99
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1974,
+            "par": 32,
+            "rating": 30.9,
+            "slope": 103
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/074aef00-7bc3-11e7-ad41-0680a328ea36/birchwood-at-spring-lake"
+  }
+}

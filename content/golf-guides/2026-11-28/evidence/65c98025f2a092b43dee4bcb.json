@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af267eb0-86ac-11e4-8c28-020000005b00/milan-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af267eb0-86ac-11e4-8c28-020000005b00/milan-country-club",
+  "checked_at": 1795686321.065591,
+  "sha256": "ee535d875fac43fd315e1d9aff6bb25e89a645d1d2a9699491bd992f2b558f7e",
+  "title": "Milan Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af267eb0-86ac-11e4-8c28-020000005b00",
+    "name": "Milan Country Club",
+    "address": "3079 Ledbetter Gate Rd, Milan, TN",
+    "courses": [
+      {
+        "name": "Milan",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6455,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6455,
+            "par": 72,
+            "rating": 76.2,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6190,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6190,
+            "par": 72,
+            "rating": 74.8,
+            "slope": 132
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5331,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5331,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4892,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4892,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af267eb0-86ac-11e4-8c28-020000005b00/milan-country-club"
+  }
+}

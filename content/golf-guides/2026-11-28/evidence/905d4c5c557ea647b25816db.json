@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/78485260-86ac-11e4-8c28-020000005b00/sand-hills-golf-resort",
+  "resolved_url": "https://18birdies.com/golf-courses/club/78485260-86ac-11e4-8c28-020000005b00/sand-hills-golf-resort",
+  "checked_at": 1795663434.4533777,
+  "sha256": "63327d72b156c280c94eac9bdec0ac3a2359e76a9ee36d8f085dd30b23353667",
+  "title": "Sand Hills Golf Resort - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "78485260-86ac-11e4-8c28-020000005b00",
+    "name": "Sand Hills Golf Resort",
+    "address": "9767 Port Franks Road, Thedford, ON",
+    "courses": [
+      {
+        "name": "Sand Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5536,
+            "par": 71,
+            "rating": 66.1,
+            "slope": 104
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5536,
+            "par": 69,
+            "rating": 71.3,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5053,
+            "par": 71,
+            "rating": 63.9,
+            "slope": 100
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5053,
+            "par": 69,
+            "rating": 68.4,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4237,
+            "par": 71,
+            "rating": 64.2,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4237,
+            "par": 69,
+            "rating": 63.7,
+            "slope": 99
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/78485260-86ac-11e4-8c28-020000005b00/sand-hills-golf-resort"
+  }
+}

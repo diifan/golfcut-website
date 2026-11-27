@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/998e1540-86ac-11e4-8c28-020000005b00/beaver-meadows-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/998e1540-86ac-11e4-8c28-020000005b00/beaver-meadows-golf-club",
+  "checked_at": 1795696556.6340845,
+  "sha256": "7fa453929be96da26e8b1b698e40e45f5715fe043b723836d1a17b4e262f5756",
+  "title": "Beaver Meadows Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "998e1540-86ac-11e4-8c28-020000005b00",
+    "name": "Beaver Meadows Golf Club",
+    "address": "185 Barnard Rd, Phoenix, NY",
+    "courses": [
+      {
+        "name": "Beaver Meadows",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6808,
+            "par": 72,
+            "rating": 73,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6314,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6037,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5518,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 116
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5043,
+            "par": 72,
+            "rating": 64.5,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/998e1540-86ac-11e4-8c28-020000005b00/beaver-meadows-golf-club"
+  }
+}

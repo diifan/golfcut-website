@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/4543d7f0-61d2-11e7-b39e-0680a328ea36/golden-oak-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/4543d7f0-61d2-11e7-b39e-0680a328ea36/golden-oak-golf-club",
+  "checked_at": 1795694382.2642727,
+  "sha256": "ab27f5a0008b4e9c21fefc8b07cf3302900d06bbc3c6bcedc2812a53329ff205",
+  "title": "Golden Oak Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "4543d7f0-61d2-11e7-b39e-0680a328ea36",
+    "name": "Golden Oak Golf Club",
+    "address": "679 State Route 79, Windsor",
+    "courses": [
+      {
+        "name": "Golden Oak",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5352,
+            "par": 70,
+            "rating": 70.8,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5352,
+            "par": 70,
+            "rating": 70.4,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5015,
+            "par": 70,
+            "rating": 69.8,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5015,
+            "par": 70,
+            "rating": 68.6,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 4255,
+            "par": 70,
+            "rating": 64.3,
+            "slope": 110
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 4255,
+            "par": 70,
+            "rating": 64.5,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4041,
+            "par": 70,
+            "rating": 63.3,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4041,
+            "par": 70,
+            "rating": 65.6,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/4543d7f0-61d2-11e7-b39e-0680a328ea36/golden-oak-golf-club"
+  }
+}

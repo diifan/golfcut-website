@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8400f670-86ac-11e4-8c28-020000005b00/scripps-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8400f670-86ac-11e4-8c28-020000005b00/scripps-park-golf-course",
+  "checked_at": 1795661686.8195636,
+  "sha256": "62966e71a9b49ac84a8e206468597496f2d88f77bece12e22d906856c5681b68",
+  "title": "Scripps Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8400f670-86ac-11e4-8c28-020000005b00",
+    "name": "Scripps Park Golf Course",
+    "address": "Rural Route 2, Rushville, IL",
+    "courses": [
+      {
+        "name": "Scripps Park",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5651,
+            "par": 70,
+            "rating": 68.2,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5651,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 5647,
+            "par": 70,
+            "rating": 65.3,
+            "slope": 111
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 5647,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5029,
+            "par": 70,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5029,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8400f670-86ac-11e4-8c28-020000005b00/scripps-park-golf-course"
+  }
+}

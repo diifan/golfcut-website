@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/0075f9b0-1734-11e8-b9fd-0680a328ea36/amberwood-executive-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/0075f9b0-1734-11e8-b9fd-0680a328ea36/amberwood-executive-golf-course",
+  "checked_at": 1795685319.7741091,
+  "sha256": "698c6d1cf8c233591559eecdaf66dbc5d37ac9e9b1381784bae6fad29eaade68",
+  "title": "Amberwood Executive Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "0075f9b0-1734-11e8-b9fd-0680a328ea36",
+    "name": "Amberwood Executive Golf Course",
+    "address": "7435 SE 172nd Legacy Ln, The Villages, FL",
+    "courses": [
+      {
+        "name": "Amberwood",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 1658,
+            "par": 28,
+            "rating": 30,
+            "slope": 93
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 1658,
+            "par": 28,
+            "rating": 29.8,
+            "slope": 100
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 1454,
+            "par": 28,
+            "rating": 28.42616,
+            "slope": 86.68328
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 1454,
+            "par": 28,
+            "rating": 28.42616,
+            "slope": 86.68328
+          },
+          {
+            "name": "Default Tee Areen",
+            "category": "MALE",
+            "yards": 1111,
+            "par": 28,
+            "rating": 26.86894,
+            "slope": 80.39952
+          },
+          {
+            "name": "Default Tee Areen",
+            "category": "FEMALE",
+            "yards": 1111,
+            "par": 28,
+            "rating": 26.86894,
+            "slope": 80.39952
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/0075f9b0-1734-11e8-b9fd-0680a328ea36/amberwood-executive-golf-course"
+  }
+}

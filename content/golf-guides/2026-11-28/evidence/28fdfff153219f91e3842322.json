@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1b8c250-86ac-11e4-8c28-020000005b00/dexter-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1b8c250-86ac-11e4-8c28-020000005b00/dexter-municipal-golf-course",
+  "checked_at": 1795687687.642637,
+  "sha256": "054e209691c2d202a6b7570dc31c0f698273bbac0f7752f0f0c1c0bd60ce741a",
+  "title": "Dexter Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1b8c250-86ac-11e4-8c28-020000005b00",
+    "name": "Dexter Municipal Golf Course",
+    "address": "35 Sunrise Ave, Dexter, ME 04930",
+    "courses": [
+      {
+        "name": "Dexter Municipal Golf",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Mens",
+            "category": "MALE",
+            "yards": 5492,
+            "par": 70,
+            "rating": 65.6,
+            "slope": 120
+          },
+          {
+            "name": "Mens",
+            "category": "FEMALE",
+            "yards": 5492,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 124
+          },
+          {
+            "name": "Ladies",
+            "category": "MALE",
+            "yards": 4744,
+            "par": 70,
+            "rating": 66.5,
+            "slope": 114
+          },
+          {
+            "name": "Ladies",
+            "category": "FEMALE",
+            "yards": 4744,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1b8c250-86ac-11e4-8c28-020000005b00/dexter-municipal-golf-course"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9c3e8f40-86ac-11e4-8c28-020000005b00/pleasant-hill-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9c3e8f40-86ac-11e4-8c28-020000005b00/pleasant-hill-golf-course",
+  "checked_at": 1795661440.6319292,
+  "sha256": "a5c83551a2532d2c41532c6e0181219cbce265cf6d0cd2587a410ee06442431b",
+  "title": "Pleasant Hill Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9c3e8f40-86ac-11e4-8c28-020000005b00",
+    "name": "Pleasant Hill Golf Course",
+    "address": "6487 Hankins Rd",
+    "courses": [
+      {
+        "name": "Pleasant Hill at Middletown",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6586,
+            "par": 71,
+            "rating": 71.3,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6236,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 119
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5959,
+            "par": 71,
+            "rating": 65.7,
+            "slope": 110
+          },
+          {
+            "name": "Red 1",
+            "category": "MALE",
+            "yards": 4830,
+            "par": 71,
+            "rating": 66.9,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9c3e8f40-86ac-11e4-8c28-020000005b00/pleasant-hill-golf-course"
+  }
+}

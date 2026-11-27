@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/70b0cf50-86ac-11e4-8c28-020000005b00/craigentinny-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/70b0cf50-86ac-11e4-8c28-020000005b00/craigentinny-golf-club",
+  "checked_at": 1795663478.388233,
+  "sha256": "4ab57146c564b8bce08481a01a1462e6c2ee7eec856f57fe20cdbca6c8793b02",
+  "title": "Craigentinny Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "70b0cf50-86ac-11e4-8c28-020000005b00",
+    "name": "Craigentinny Golf Club",
+    "address": "Fillyside Road, Edinburgh",
+    "courses": [
+      {
+        "name": "Craigentinny",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5511,
+            "par": 67,
+            "rating": 65.6,
+            "slope": 111
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5511,
+            "par": 69,
+            "rating": 71.2,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5207,
+            "par": 67,
+            "rating": 64.3,
+            "slope": 108
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5207,
+            "par": 69,
+            "rating": 69.5,
+            "slope": 118
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5179,
+            "par": 67,
+            "rating": 64,
+            "slope": 108
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5179,
+            "par": 69,
+            "rating": 69.3,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/70b0cf50-86ac-11e4-8c28-020000005b00/craigentinny-golf-club"
+  }
+}

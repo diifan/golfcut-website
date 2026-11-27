@@ -1,0 +1,331 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b006a580-86ac-11e4-8c28-020000005b00/independence-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b006a580-86ac-11e4-8c28-020000005b00/independence-golf-club",
+  "checked_at": 1795669260.5702095,
+  "sha256": "6ad0bdcdf0df9831998e9d2f9148371e419ebb0e6b98513ba729f63bb6e843a9",
+  "title": "Independence Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b006a580-86ac-11e4-8c28-020000005b00",
+    "name": "Independence Golf Club",
+    "address": "600 Founders Bridge Blvd, Midlothian, VA",
+    "courses": [
+      {
+        "name": "Independence Golf Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Spider",
+            "category": "MALE",
+            "yards": 7410,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 139
+          },
+          {
+            "name": "Spider",
+            "category": "FEMALE",
+            "yards": 7410,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Spider/Blue",
+            "category": "MALE",
+            "yards": 7070,
+            "par": 72,
+            "rating": 73.8,
+            "slope": 136
+          },
+          {
+            "name": "Spider/Blue",
+            "category": "FEMALE",
+            "yards": 7070,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6710,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6710,
+            "par": 72,
+            "rating": 77.6,
+            "slope": 138
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 6460,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 131
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 6460,
+            "par": 72,
+            "rating": 76.3,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6230,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6230,
+            "par": 72,
+            "rating": 75.9,
+            "slope": 134
+          },
+          {
+            "name": "White/Yellow",
+            "category": "MALE",
+            "yards": 5865,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 124
+          },
+          {
+            "name": "White/Yellow",
+            "category": "FEMALE",
+            "yards": 5865,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 130
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5595,
+            "par": 72,
+            "rating": 66.9,
+            "slope": 116
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5595,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 127
+          },
+          {
+            "name": "Yellow/Red",
+            "category": "MALE",
+            "yards": 5150,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 113
+          },
+          {
+            "name": "Yellow/Red",
+            "category": "FEMALE",
+            "yards": 5150,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4930,
+            "par": 72,
+            "rating": 63.9,
+            "slope": 110
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4930,
+            "par": 72,
+            "rating": 68.5,
+            "slope": 116
+          }
+        ]
+      },
+      {
+        "name": "Short Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Spider",
+            "category": "MALE",
+            "yards": 1324,
+            "par": 27,
+            "rating": 27.83596,
+            "slope": 84.30168
+          },
+          {
+            "name": "Spider",
+            "category": "FEMALE",
+            "yards": 1324,
+            "par": 27,
+            "rating": 27.83596,
+            "slope": 84.30168
+          },
+          {
+            "name": "Mid-Am",
+            "category": "MALE",
+            "yards": 1324,
+            "par": 27,
+            "rating": 27.83596,
+            "slope": 84.30168
+          },
+          {
+            "name": "Mid-Am",
+            "category": "FEMALE",
+            "yards": 1324,
+            "par": 27,
+            "rating": 27.83596,
+            "slope": 84.30168
+          },
+          {
+            "name": "Spider/Blue",
+            "category": "MALE",
+            "yards": 1324,
+            "par": 27,
+            "rating": 27.83596,
+            "slope": 84.30168
+          },
+          {
+            "name": "Spider/Blue",
+            "category": "FEMALE",
+            "yards": 1324,
+            "par": 27,
+            "rating": 27.83596,
+            "slope": 84.30168
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1324,
+            "par": 27,
+            "rating": 27,
+            "slope": 84
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1324,
+            "par": 27,
+            "rating": 28.2,
+            "slope": 89
+          },
+          {
+            "name": "Blue/White",
+            "category": "MALE",
+            "yards": 1324,
+            "par": 27,
+            "rating": 27.83596,
+            "slope": 84.30168
+          },
+          {
+            "name": "Blue/White",
+            "category": "FEMALE",
+            "yards": 1324,
+            "par": 27,
+            "rating": 27.83596,
+            "slope": 84.30168
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1324,
+            "par": 27,
+            "rating": 26.2,
+            "slope": 76
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1324,
+            "par": 27,
+            "rating": 27.3,
+            "slope": 86
+          },
+          {
+            "name": "White/Yellow",
+            "category": "MALE",
+            "yards": 1324,
+            "par": 27,
+            "rating": 27.83596,
+            "slope": 84.30168
+          },
+          {
+            "name": "White/Yellow",
+            "category": "FEMALE",
+            "yards": 1324,
+            "par": 27,
+            "rating": 27.83596,
+            "slope": 84.30168
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 1324,
+            "par": 27,
+            "rating": 27.83596,
+            "slope": 84.30168
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 1324,
+            "par": 27,
+            "rating": 27.83596,
+            "slope": 84.30168
+          },
+          {
+            "name": "Yellow/Red",
+            "category": "MALE",
+            "yards": 1324,
+            "par": 27,
+            "rating": 27.83596,
+            "slope": 84.30168
+          },
+          {
+            "name": "Yellow/Red",
+            "category": "FEMALE",
+            "yards": 1324,
+            "par": 27,
+            "rating": 27.83596,
+            "slope": 84.30168
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1324,
+            "par": 27,
+            "rating": 27.83596,
+            "slope": 84.30168
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1324,
+            "par": 27,
+            "rating": 27.83596,
+            "slope": 84.30168
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b006a580-86ac-11e4-8c28-020000005b00/independence-golf-club"
+  }
+}

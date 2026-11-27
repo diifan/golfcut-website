@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/c01d2570-86ac-11e4-8c28-020000005b00/wildernesse-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/c01d2570-86ac-11e4-8c28-020000005b00/wildernesse-golf-club",
+  "checked_at": 1795686583.0976,
+  "sha256": "3c2adb38b241bd6a49f2ae86b896a1eb0721f1832aea68f467d595620ceae633",
+  "title": "Wildernesse Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "c01d2570-86ac-11e4-8c28-020000005b00",
+    "name": "Wildernesse Golf Club",
+    "address": "Park Lane, Sevenoaks",
+    "courses": [
+      {
+        "name": "Wildernesse",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6539,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 146
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6539,
+            "par": 73,
+            "rating": 76.7,
+            "slope": 136
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6157,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 141
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 6157,
+            "par": 73,
+            "rating": 74.6,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5721,
+            "par": 72,
+            "rating": 71,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5721,
+            "par": 73,
+            "rating": 75.1,
+            "slope": 143
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/c01d2570-86ac-11e4-8c28-020000005b00/wildernesse-golf-club"
+  }
+}

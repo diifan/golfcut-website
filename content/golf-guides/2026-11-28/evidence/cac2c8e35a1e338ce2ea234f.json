@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/adfa5ac0-86ac-11e4-8c28-020000005b00/charleston-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/adfa5ac0-86ac-11e4-8c28-020000005b00/charleston-municipal-golf-course",
+  "checked_at": 1795525002.8739831,
+  "sha256": "8de7ecf53d9912f3182a469e89f8e1bec85cda11375139b20ae6de9842e466fb",
+  "title": "Charleston Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "adfa5ac0-86ac-11e4-8c28-020000005b00",
+    "name": "Charleston Municipal Golf Course",
+    "address": "2110 Maybank Hwy, Charleston, SC",
+    "courses": [
+      {
+        "name": "Charleston Municipal Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6417,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 139
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6417,
+            "par": 72,
+            "rating": 78.3,
+            "slope": 142
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6125,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6125,
+            "par": 72,
+            "rating": 76,
+            "slope": 138
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5169,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5169,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4611,
+            "par": 72,
+            "rating": 63.4,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4611,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/adfa5ac0-86ac-11e4-8c28-020000005b00/charleston-municipal-golf-course"
+  }
+}

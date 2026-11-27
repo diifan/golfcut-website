@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/899ca980-86ac-11e4-8c28-020000005b00/ocean-hills-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/899ca980-86ac-11e4-8c28-020000005b00/ocean-hills-country-club",
+  "checked_at": 1795524512.9139407,
+  "sha256": "795eda48b03ba4d459a969446b87f1f89a1a9724212756957ca095c25dc94504",
+  "title": "Ocean Hills Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "899ca980-86ac-11e4-8c28-020000005b00",
+    "name": "Ocean Hills Country Club",
+    "address": "4600 Leisure Village Way, Oceanside, CA 92056, USA",
+    "courses": [
+      {
+        "name": "Ocean Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2252,
+            "par": 56,
+            "rating": 55,
+            "slope": 90
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2252,
+            "par": 56,
+            "rating": 52.90628,
+            "slope": 79.84928
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1927,
+            "par": 56,
+            "rating": 51.56078,
+            "slope": 78.26003
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1927,
+            "par": 56,
+            "rating": 55,
+            "slope": 90
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/899ca980-86ac-11e4-8c28-020000005b00/ocean-hills-country-club"
+  }
+}

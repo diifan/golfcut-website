@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83bbfe30-86ac-11e4-8c28-020000005b00/monticello-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83bbfe30-86ac-11e4-8c28-020000005b00/monticello-golf-club",
+  "checked_at": 1795661635.8873947,
+  "sha256": "526fce3f3576181cf193fcfe4514a6cd15d2703e7d73268a7add75aa44a59029",
+  "title": "Monticello Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "83bbfe30-86ac-11e4-8c28-020000005b00",
+    "name": "Monticello Golf Club",
+    "address": "720 W Marion St, Monticello, IL",
+    "courses": [
+      {
+        "name": "Monticello Golf Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White to Blue",
+            "category": "MALE",
+            "yards": 5893,
+            "par": 72,
+            "rating": 67.2,
+            "slope": 115
+          },
+          {
+            "name": "White to Blue",
+            "category": "FEMALE",
+            "yards": 5893,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 128
+          },
+          {
+            "name": "Green to Black",
+            "category": "MALE",
+            "yards": 4880,
+            "par": 72,
+            "rating": 67.4,
+            "slope": 113
+          },
+          {
+            "name": "Green to Black",
+            "category": "FEMALE",
+            "yards": 4880,
+            "par": 72,
+            "rating": 67.8,
+            "slope": 116
+          },
+          {
+            "name": "Gold to Red",
+            "category": "MALE",
+            "yards": 4635,
+            "par": 72,
+            "rating": 66,
+            "slope": 113
+          },
+          {
+            "name": "Gold to Red",
+            "category": "FEMALE",
+            "yards": 4635,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83bbfe30-86ac-11e4-8c28-020000005b00/monticello-golf-club"
+  }
+}

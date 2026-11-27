@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9ceef380-86ac-11e4-8c28-020000005b00/willowbrook-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9ceef380-86ac-11e4-8c28-020000005b00/willowbrook-country-club",
+  "checked_at": 1795696779.015013,
+  "sha256": "3794a217fe7f493582608135624c25cbdfec5d515ed382a9c79061ad98abfeeb",
+  "title": "Willowbrook Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9ceef380-86ac-11e4-8c28-020000005b00",
+    "name": "Willowbrook Country Club",
+    "address": "181 Grossheim Road, Apollo, PA",
+    "courses": [
+      {
+        "name": "Willowbrook CC",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6675,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6394,
+            "par": 72,
+            "rating": 72,
+            "slope": 134
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5969,
+            "par": 72,
+            "rating": 70,
+            "slope": 132
+          },
+          {
+            "name": "White/Gold",
+            "category": "MALE",
+            "yards": 5595,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 124
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5256,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9ceef380-86ac-11e4-8c28-020000005b00/willowbrook-country-club"
+  }
+}

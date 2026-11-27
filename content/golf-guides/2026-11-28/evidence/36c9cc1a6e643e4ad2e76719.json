@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b29873f0-86ac-11e4-8c28-020000005b00/terrace-bluff-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b29873f0-86ac-11e4-8c28-020000005b00/terrace-bluff-golf-club",
+  "checked_at": 1795663510.0889997,
+  "sha256": "0bb9006aa9b819c984d0ba6301754f0fd4afd606479fc809447a450a878455eb",
+  "title": "Terrace Bluff Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b29873f0-86ac-11e4-8c28-020000005b00",
+    "name": "Terrace Bluff Golf Club",
+    "address": "7527 Lake Bluff Rd.",
+    "courses": [
+      {
+        "name": "Terrace Bluff",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6360,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 127
+          },
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6050,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 123
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 5333,
+            "par": 72,
+            "rating": 69,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b29873f0-86ac-11e4-8c28-020000005b00/terrace-bluff-golf-club"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c719b70-86ac-11e4-8c28-020000005b00/hilltop-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c719b70-86ac-11e4-8c28-020000005b00/hilltop-country-club",
+  "checked_at": 1795694161.6815655,
+  "sha256": "68c8e97bdddbace0ea5c0a57eb64c50f52caf7e7f87b36d91b0d62177bf795cf",
+  "title": "Hilltop Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "8c719b70-86ac-11e4-8c28-020000005b00",
+    "name": "Hilltop Country Club",
+    "address": "815 Arp Drive, Troup, TX",
+    "courses": [
+      {
+        "name": "9 holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White to Blue",
+            "category": "MALE",
+            "yards": 2625,
+            "par": 35,
+            "rating": 34.4,
+            "slope": 111
+          },
+          {
+            "name": "White to Blue",
+            "category": "FEMALE",
+            "yards": 2625,
+            "par": 35,
+            "rating": 34.9,
+            "slope": 118
+          },
+          {
+            "name": "Black to Green",
+            "category": "MALE",
+            "yards": 2146,
+            "par": 35,
+            "rating": 32.2,
+            "slope": 102
+          },
+          {
+            "name": "Black to Green",
+            "category": "FEMALE",
+            "yards": 2146,
+            "par": 35,
+            "rating": 32.4,
+            "slope": 109
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 2253,
+            "par": 35,
+            "rating": 32.7,
+            "slope": 104
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 2253,
+            "par": 35,
+            "rating": 32.9,
+            "slope": 111
+          },
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 2146,
+            "par": 35,
+            "rating": 32.2,
+            "slope": 102
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 2146,
+            "par": 35,
+            "rating": 32.4,
+            "slope": 109
+          }
+        ]
+      },
+      {
+        "name": "18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White to Blue",
+            "category": "MALE",
+            "yards": 5395,
+            "par": 70,
+            "rating": 66,
+            "slope": 113
+          },
+          {
+            "name": "White to Blue",
+            "category": "FEMALE",
+            "yards": 5395,
+            "par": 70,
+            "rating": 70.6,
+            "slope": 123
+          },
+          {
+            "name": "Black to Green",
+            "category": "MALE",
+            "yards": 4399,
+            "par": 70,
+            "rating": 64.9,
+            "slope": 111
+          },
+          {
+            "name": "Black to Green",
+            "category": "FEMALE",
+            "yards": 4399,
+            "par": 70,
+            "rating": 64.1,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c719b70-86ac-11e4-8c28-020000005b00/hilltop-country-club"
+  }
+}

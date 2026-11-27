@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b47ceb60-86ac-11e4-8c28-020000005b00/minden-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b47ceb60-86ac-11e4-8c28-020000005b00/minden-country-club",
+  "checked_at": 1795661472.9189436,
+  "sha256": "214a5177ef462e824f987c7e72d8012a63bcf1ec1d7c7b22e1a94a2aa13ab09a",
+  "title": "Minden Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b47ceb60-86ac-11e4-8c28-020000005b00",
+    "name": "Minden Country Club",
+    "address": "N Hwy 10 & 16th St, Minden, NE",
+    "courses": [
+      {
+        "name": "Minden",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5986,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5522,
+            "par": 72,
+            "rating": 70.1,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b47ceb60-86ac-11e4-8c28-020000005b00/minden-country-club"
+  }
+}

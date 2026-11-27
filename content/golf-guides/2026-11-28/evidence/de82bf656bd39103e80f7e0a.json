@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b7631b60-86ac-11e4-8c28-020000005b00/westwood-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b7631b60-86ac-11e4-8c28-020000005b00/westwood-golf-club",
+  "checked_at": 1795661426.4778006,
+  "sha256": "cf5c1d30e267d807dcf9f0cb66ec17f552ade9db1a8dd4f0e1e910a7161e58ea",
+  "title": "Westwood Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b7631b60-86ac-11e4-8c28-020000005b00",
+    "name": "Westwood Golf Club",
+    "address": "3387 Hwy F48 W Newton, IA",
+    "courses": [
+      {
+        "name": "Westwood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6386,
+            "par": 71,
+            "rating": 70.6,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6386,
+            "par": 71,
+            "rating": 74.2,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6045,
+            "par": 71,
+            "rating": 69,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6045,
+            "par": 71,
+            "rating": 74.9,
+            "slope": 127
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4704,
+            "par": 71,
+            "rating": 62.7,
+            "slope": 104
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 4704,
+            "par": 71,
+            "rating": 67.1,
+            "slope": 109
+          },
+          {
+            "name": "RED",
+            "category": "MALE",
+            "yards": 4664,
+            "par": 71,
+            "rating": 62.7,
+            "slope": 104
+          },
+          {
+            "name": "RED",
+            "category": "FEMALE",
+            "yards": 4664,
+            "par": 71,
+            "rating": 67.1,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b7631b60-86ac-11e4-8c28-020000005b00/westwood-golf-club"
+  }
+}

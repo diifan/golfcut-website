@@ -1,0 +1,365 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b478ccb0-86ac-11e4-8c28-020000005b00/nu-mark-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b478ccb0-86ac-11e4-8c28-020000005b00/nu-mark-golf-course",
+  "checked_at": 1795694279.6734087,
+  "sha256": "e808c56b933a99925d263ffc89dec06fea1e4c21490e20215decc25ab790c925",
+  "title": "NuMark Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b478ccb0-86ac-11e4-8c28-020000005b00",
+    "name": "NuMark Golf Course",
+    "address": "4944 South 89th Street ",
+    "courses": [
+      {
+        "name": "White Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black Shirts",
+            "category": "MALE",
+            "yards": 6585,
+            "par": 72,
+            "rating": 72,
+            "slope": 128
+          },
+          {
+            "name": "Black Shirts",
+            "category": "FEMALE",
+            "yards": 6585,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Varsity Tees",
+            "category": "MALE",
+            "yards": 6129,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 122
+          },
+          {
+            "name": "Varsity Tees",
+            "category": "FEMALE",
+            "yards": 6129,
+            "par": 72,
+            "rating": 75.6,
+            "slope": 132
+          },
+          {
+            "name": "Javees",
+            "category": "MALE",
+            "yards": 5409,
+            "par": 72,
+            "rating": 66.9,
+            "slope": 115
+          },
+          {
+            "name": "Javees",
+            "category": "FEMALE",
+            "yards": 5409,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 124
+          },
+          {
+            "name": "Frosh",
+            "category": "MALE",
+            "yards": 4678,
+            "par": 72,
+            "rating": 64,
+            "slope": 111
+          },
+          {
+            "name": "Frosh",
+            "category": "FEMALE",
+            "yards": 4678,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 117
+          }
+        ]
+      },
+      {
+        "name": "Red to Blue Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black Shirts",
+            "category": "MALE",
+            "yards": 5885,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 127
+          },
+          {
+            "name": "Black Shirts",
+            "category": "FEMALE",
+            "yards": 5885,
+            "par": 71,
+            "rating": 73.6,
+            "slope": 129
+          },
+          {
+            "name": "Varsity Tees",
+            "category": "MALE",
+            "yards": 5502,
+            "par": 71,
+            "rating": 68.3,
+            "slope": 123
+          },
+          {
+            "name": "Varsity Tees",
+            "category": "FEMALE",
+            "yards": 5502,
+            "par": 71,
+            "rating": 71.7,
+            "slope": 125
+          },
+          {
+            "name": "Javees",
+            "category": "MALE",
+            "yards": 4843,
+            "par": 71,
+            "rating": 65.2,
+            "slope": 114
+          },
+          {
+            "name": "Javees",
+            "category": "FEMALE",
+            "yards": 4843,
+            "par": 71,
+            "rating": 68.2,
+            "slope": 117
+          },
+          {
+            "name": "Frosh",
+            "category": "MALE",
+            "yards": 4222,
+            "par": 71,
+            "rating": 64.6,
+            "slope": 110
+          },
+          {
+            "name": "Frosh",
+            "category": "FEMALE",
+            "yards": 4222,
+            "par": 71,
+            "rating": 66.5,
+            "slope": 115
+          }
+        ]
+      },
+      {
+        "name": "Blue Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black Shirts",
+            "category": "MALE",
+            "yards": 3141,
+            "par": 36,
+            "rating": 36,
+            "slope": 136
+          },
+          {
+            "name": "Black Shirts",
+            "category": "FEMALE",
+            "yards": 3141,
+            "par": 36,
+            "rating": 37.7,
+            "slope": 128
+          },
+          {
+            "name": "Varsity Tees",
+            "category": "MALE",
+            "yards": 2922,
+            "par": 36,
+            "rating": 34.8,
+            "slope": 131
+          },
+          {
+            "name": "Varsity Tees",
+            "category": "FEMALE",
+            "yards": 2922,
+            "par": 36,
+            "rating": 36.5,
+            "slope": 123
+          },
+          {
+            "name": "Javees",
+            "category": "MALE",
+            "yards": 2569,
+            "par": 36,
+            "rating": 33.3,
+            "slope": 121
+          },
+          {
+            "name": "Javees",
+            "category": "FEMALE",
+            "yards": 2569,
+            "par": 36,
+            "rating": 34.6,
+            "slope": 117
+          },
+          {
+            "name": "Frosh",
+            "category": "MALE",
+            "yards": 2263,
+            "par": 36,
+            "rating": 32.8,
+            "slope": 104
+          },
+          {
+            "name": "Frosh",
+            "category": "FEMALE",
+            "yards": 2263,
+            "par": 36,
+            "rating": 34,
+            "slope": 119
+          }
+        ]
+      },
+      {
+        "name": "Red Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black Shirts",
+            "category": "MALE",
+            "yards": 2744,
+            "par": 35,
+            "rating": 34.2,
+            "slope": 117
+          },
+          {
+            "name": "Black Shirts",
+            "category": "FEMALE",
+            "yards": 2744,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Varsity Tees",
+            "category": "MALE",
+            "yards": 2580,
+            "par": 35,
+            "rating": 33.5,
+            "slope": 114
+          },
+          {
+            "name": "Varsity Tees",
+            "category": "FEMALE",
+            "yards": 2580,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Javees",
+            "category": "MALE",
+            "yards": 2274,
+            "par": 35,
+            "rating": 31.9,
+            "slope": 107
+          },
+          {
+            "name": "Javees",
+            "category": "FEMALE",
+            "yards": 2274,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Frosh",
+            "category": "MALE",
+            "yards": 1959,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Frosh",
+            "category": "FEMALE",
+            "yards": 1959,
+            "par": 35,
+            "rating": 32.5,
+            "slope": 110
+          }
+        ]
+      },
+      {
+        "name": "Gold Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black Shirts",
+            "category": "MALE",
+            "yards": 6585,
+            "par": 72,
+            "rating": 71.8,
+            "slope": 132
+          },
+          {
+            "name": "Black Shirts",
+            "category": "FEMALE",
+            "yards": 6585,
+            "par": 72,
+            "rating": 76.9,
+            "slope": 136
+          },
+          {
+            "name": "Varsity Tees",
+            "category": "MALE",
+            "yards": 6129,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 125
+          },
+          {
+            "name": "Varsity Tees",
+            "category": "FEMALE",
+            "yards": 6129,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 131
+          },
+          {
+            "name": "Javees",
+            "category": "MALE",
+            "yards": 5409,
+            "par": 72,
+            "rating": 66,
+            "slope": 113
+          },
+          {
+            "name": "Javees",
+            "category": "FEMALE",
+            "yards": 5409,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 123
+          },
+          {
+            "name": "Frosh",
+            "category": "MALE",
+            "yards": 4678,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 113
+          },
+          {
+            "name": "Frosh",
+            "category": "FEMALE",
+            "yards": 4678,
+            "par": 72,
+            "rating": 66.4,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b478ccb0-86ac-11e4-8c28-020000005b00/nu-mark-golf-course"
+  }
+}

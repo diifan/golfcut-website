@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1d3eb70-86ac-11e4-8c28-020000005b00/north-haven-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1d3eb70-86ac-11e4-8c28-020000005b00/north-haven-golf-club",
+  "checked_at": 1795697946.2013938,
+  "sha256": "65bd6810075ba73657e9abc950117d7f2846b0cdd122baf6f22083372722b7c5",
+  "title": "North Haven Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star star star star star star star star google-play",
+  "course_profile": {
+    "id": "b1d3eb70-86ac-11e4-8c28-020000005b00",
+    "name": "North Haven Golf Club",
+    "address": "Golf Course Rd",
+    "courses": [
+      {
+        "name": "North Haven",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2970,
+            "par": 35,
+            "rating": 34,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2602,
+            "par": 35,
+            "rating": 32.6,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2412,
+            "par": 35,
+            "rating": 31.5,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1d3eb70-86ac-11e4-8c28-020000005b00/north-haven-golf-club"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8dcc55d0-209a-11e6-8489-0680a328ea36/elk-point-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8dcc55d0-209a-11e6-8489-0680a328ea36/elk-point-golf-country-club",
+  "checked_at": 1795525000.452063,
+  "sha256": "43b485ae99aa4e4a91d9a9c6fd0d14232ec0656b53ed5c2e9791cde2c5f9b48b",
+  "title": "Elk Point Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8dcc55d0-209a-11e6-8489-0680a328ea36",
+    "name": "Elk Point Golf & Country Club",
+    "address": "Range Rd 71, Elk Point",
+    "courses": [
+      {
+        "name": "Elk Point Golf & Country Club",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "BACK",
+            "category": "MALE",
+            "yards": 3288,
+            "par": 36,
+            "rating": 37.4,
+            "slope": 123
+          },
+          {
+            "name": "BACK",
+            "category": "FEMALE",
+            "yards": 3288,
+            "par": 36,
+            "rating": 38.4,
+            "slope": 130
+          },
+          {
+            "name": "REGULAR",
+            "category": "MALE",
+            "yards": 3134,
+            "par": 36,
+            "rating": 36.7,
+            "slope": 120
+          },
+          {
+            "name": "REGULAR",
+            "category": "FEMALE",
+            "yards": 3134,
+            "par": 36,
+            "rating": 37.6,
+            "slope": 127
+          },
+          {
+            "name": "FORWARD",
+            "category": "MALE",
+            "yards": 2749,
+            "par": 36,
+            "rating": 35,
+            "slope": 113
+          },
+          {
+            "name": "FORWARD",
+            "category": "FEMALE",
+            "yards": 2749,
+            "par": 36,
+            "rating": 35.6,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8dcc55d0-209a-11e6-8489-0680a328ea36/elk-point-golf-country-club"
+  }
+}

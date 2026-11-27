@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/942001e0-86ac-11e4-8c28-020000005b00/eagle-creek-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/942001e0-86ac-11e4-8c28-020000005b00/eagle-creek-country-club",
+  "checked_at": 1795663860.3166783,
+  "sha256": "2fc0155a0d30a6a5204e1ce1c947281443d8a43bd897b67deb4edabb7d14f15a",
+  "title": "Eagle Creek Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "942001e0-86ac-11e4-8c28-020000005b00",
+    "name": "Eagle Creek Country Club",
+    "address": "990 Crittenden-Mt. Zion Road",
+    "courses": [
+      {
+        "name": "Eagle Creek",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6002,
+            "par": 70,
+            "rating": 67.9,
+            "slope": 119
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5364,
+            "par": 70,
+            "rating": 65,
+            "slope": 116
+          },
+          {
+            "name": "Orange",
+            "category": "MALE",
+            "yards": 4710,
+            "par": 70,
+            "rating": 66.4,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/942001e0-86ac-11e4-8c28-020000005b00/eagle-creek-country-club"
+  }
+}

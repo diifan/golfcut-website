@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/55624ad0-f0fc-11e8-ab82-0680a328ea36/red-stick-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/55624ad0-f0fc-11e8-ab82-0680a328ea36/red-stick-golf-club",
+  "checked_at": 1795694196.8602262,
+  "sha256": "ef1c676967f23dcaa7fa0a0740317c376ce68571788c2cd6cc70da141a381f17",
+  "title": "RedStick Golf Club - Scorecards, Reviews | 18Birdies star star star star star star-o star-o star-o star-o star-o star-o star-o star-o star-o star-o star star google-play",
+  "course_profile": {
+    "id": "55624ad0-f0fc-11e8-ab82-0680a328ea36",
+    "name": "RedStick Golf Club",
+    "address": "8350 58th Avenue",
+    "courses": [
+      {
+        "name": "RedStick",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7192,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 140
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6587,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6165,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 133
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5513,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 125
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/55624ad0-f0fc-11e8-ab82-0680a328ea36/red-stick-golf-club"
+  }
+}

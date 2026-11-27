@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6f0aa80-86ac-11e4-8c28-020000005b00/carroll-municipal-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6f0aa80-86ac-11e4-8c28-020000005b00/carroll-municipal-golf-course",
+  "checked_at": 1795583830.4527526,
+  "sha256": "7d725b28cd3bc28a1df75f75469d241644383bc200c6d6630078964b7ba37d52",
+  "title": "Carroll Municipal Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6f0aa80-86ac-11e4-8c28-020000005b00",
+    "name": "Carroll Municipal Golf Course",
+    "address": "2266 NW St, Carroll, IA",
+    "courses": [
+      {
+        "name": "Carroll Municipal",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6145,
+            "par": 71,
+            "rating": 70.9,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6145,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5894,
+            "par": 71,
+            "rating": 68.4,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5894,
+            "par": 71,
+            "rating": 73.5,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5390,
+            "par": 71,
+            "rating": 64.3,
+            "slope": 111
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5390,
+            "par": 71,
+            "rating": 68.4,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5004,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5004,
+            "par": 71,
+            "rating": 66.8,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6f0aa80-86ac-11e4-8c28-020000005b00/carroll-municipal-golf-course"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83e18790-86ac-11e4-8c28-020000005b00/pana-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83e18790-86ac-11e4-8c28-020000005b00/pana-country-club",
+  "checked_at": 1795685208.015859,
+  "sha256": "021b1d379d77b302fc828dfb2642711f342e3b19318fc933871515d12565ab32",
+  "title": "Pana Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "83e18790-86ac-11e4-8c28-020000005b00",
+    "name": "Pana Country Club",
+    "address": "411 E 9th St, Pana, IL",
+    "courses": [
+      {
+        "name": "Pana",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2902,
+            "par": 35,
+            "rating": 35.7,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2361,
+            "par": 35,
+            "rating": 33.2,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83e18790-86ac-11e4-8c28-020000005b00/pana-country-club"
+  }
+}

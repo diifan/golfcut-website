@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9d4550e0-86ac-11e4-8c28-020000005b00/emporium-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9d4550e0-86ac-11e4-8c28-020000005b00/emporium-country-club",
+  "checked_at": 1795694198.5234344,
+  "sha256": "8a86315200f8bac2b677cfa5ab7c8d36b37a7048474bd8507086a82bda5e4c1a",
+  "title": "Emporium country club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9d4550e0-86ac-11e4-8c28-020000005b00",
+    "name": "Emporium country club",
+    "address": "229 Country Club Lane",
+    "courses": [
+      {
+        "name": "Emporium",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5940,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5940,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 130
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6291,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6291,
+            "par": 72,
+            "rating": 74.5,
+            "slope": 133
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5253,
+            "par": 72,
+            "rating": 64.5,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5253,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5190,
+            "par": 72,
+            "rating": 64.2,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5190,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9d4550e0-86ac-11e4-8c28-020000005b00/emporium-country-club"
+  }
+}

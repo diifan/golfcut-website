@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a5e5d90-86ac-11e4-8c28-020000005b00/oak-hills-golf-event-center",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a5e5d90-86ac-11e4-8c28-020000005b00/oak-hills-golf-event-center",
+  "checked_at": 1795524492.7490356,
+  "sha256": "6199ae2348b8db7ff99edbd1f4b6f36e1479f397f241972e6aaa57128f5a5361",
+  "title": "Oak Hills Golf & Event Center - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9a5e5d90-86ac-11e4-8c28-020000005b00",
+    "name": "Oak Hills Golf & Event Center",
+    "address": "436 E Stadium Dr, Eden, NC 27288",
+    "courses": [
+      {
+        "name": "Oak Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "I",
+            "category": "MALE",
+            "yards": 6413,
+            "par": 71,
+            "rating": 70.8,
+            "slope": 129
+          },
+          {
+            "name": "I",
+            "category": "FEMALE",
+            "yards": 6413,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 6020,
+            "par": 71,
+            "rating": 69.4,
+            "slope": 124
+          },
+          {
+            "name": "II",
+            "category": "FEMALE",
+            "yards": 6020,
+            "par": 71,
+            "rating": 74.6,
+            "slope": 130
+          },
+          {
+            "name": "III",
+            "category": "MALE",
+            "yards": 5412,
+            "par": 71,
+            "rating": 66.3,
+            "slope": 119
+          },
+          {
+            "name": "III",
+            "category": "FEMALE",
+            "yards": 5412,
+            "par": 71,
+            "rating": 71.7,
+            "slope": 123
+          },
+          {
+            "name": "IV",
+            "category": "MALE",
+            "yards": 4371,
+            "par": 71,
+            "rating": 62.2,
+            "slope": 109
+          },
+          {
+            "name": "IV",
+            "category": "FEMALE",
+            "yards": 4371,
+            "par": 71,
+            "rating": 65.8,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a5e5d90-86ac-11e4-8c28-020000005b00/oak-hills-golf-event-center"
+  }
+}

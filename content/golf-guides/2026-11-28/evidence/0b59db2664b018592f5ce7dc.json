@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b16e24c0-86ac-11e4-8c28-020000005b00/oak-lake-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b16e24c0-86ac-11e4-8c28-020000005b00/oak-lake-golf-course",
+  "checked_at": 1795694245.230301,
+  "sha256": "86fad048b60359ce7b9efafe94ae31069b8e9088b6532245b84a76cce69e1552",
+  "title": "Oak Lake Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b16e24c0-86ac-11e4-8c28-020000005b00",
+    "name": "Oak Lake Golf Course",
+    "address": "9007 LA-67, Clinton, LA 70722",
+    "courses": [
+      {
+        "name": "Oak Lake",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue/Gold",
+            "category": "MALE",
+            "yards": 6428,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 121
+          },
+          {
+            "name": "Blue/Gold",
+            "category": "FEMALE",
+            "yards": 6428,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 6112,
+            "par": 72,
+            "rating": 70,
+            "slope": 120
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 6112,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4698,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4698,
+            "par": 72,
+            "rating": 66.9,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b16e24c0-86ac-11e4-8c28-020000005b00/oak-lake-golf-course"
+  }
+}

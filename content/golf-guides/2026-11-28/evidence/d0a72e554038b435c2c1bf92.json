@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ae8e0f40-86ac-11e4-8c28-020000005b00/aberdeen-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ae8e0f40-86ac-11e4-8c28-020000005b00/aberdeen-country-club",
+  "checked_at": 1795686566.9007998,
+  "sha256": "b692423eabe671ae20b5cf5862b94b299587777e74f82a2fe094146812534645",
+  "title": "Aberdeen Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "ae8e0f40-86ac-11e4-8c28-020000005b00",
+    "name": "Aberdeen Country Club",
+    "address": "701 Bucks Trail, Longs, SC",
+    "courses": [
+      {
+        "name": "Highlands to Meadows",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6711,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 139
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6115,
+            "par": 72,
+            "rating": 69.1,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5556,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4684,
+            "par": 72,
+            "rating": 63.1,
+            "slope": 109
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ae8e0f40-86ac-11e4-8c28-020000005b00/aberdeen-country-club"
+  }
+}

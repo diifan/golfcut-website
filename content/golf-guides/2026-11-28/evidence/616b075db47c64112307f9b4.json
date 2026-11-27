@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9b1810a0-86ac-11e4-8c28-020000005b00/dan-valley-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9b1810a0-86ac-11e4-8c28-020000005b00/dan-valley-golf-club",
+  "checked_at": 1795661464.8893762,
+  "sha256": "13097041c45ceda7b8b20126493ea95ba18d6faa78eef3f5d8aea203babd9158",
+  "title": "Dan Valley Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9b1810a0-86ac-11e4-8c28-020000005b00",
+    "name": "Dan Valley Golf Club",
+    "address": "6564 Hwy. 135, Stoneville, NC",
+    "courses": [
+      {
+        "name": "Dan Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5265,
+            "par": 72,
+            "rating": 65,
+            "slope": 104
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4969,
+            "par": 72,
+            "rating": 64.4,
+            "slope": 99
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4434,
+            "par": 72,
+            "rating": 61.9,
+            "slope": 96
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9b1810a0-86ac-11e4-8c28-020000005b00/dan-valley-golf-club"
+  }
+}

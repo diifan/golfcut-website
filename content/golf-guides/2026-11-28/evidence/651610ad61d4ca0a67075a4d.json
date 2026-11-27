@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a3f8af0-86ac-11e4-8c28-020000005b00/asheboro-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a3f8af0-86ac-11e4-8c28-020000005b00/asheboro-country-club",
+  "checked_at": 1795669244.1210217,
+  "sha256": "ac3cd1d6373c9632e446cde117690d56297385534401e0b208f54674e6a9bc61",
+  "title": "Asheboro Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "9a3f8af0-86ac-11e4-8c28-020000005b00",
+    "name": "Asheboro Country Club",
+    "address": "5105 Old Lexington Rd, Asheboro, NC",
+    "courses": [
+      {
+        "name": "Asheboro",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6473,
+            "par": 71,
+            "rating": 70.1,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6209,
+            "par": 71,
+            "rating": 69.1,
+            "slope": 127
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5543,
+            "par": 71,
+            "rating": 65,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4787,
+            "par": 71,
+            "rating": 62.8,
+            "slope": 102
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a3f8af0-86ac-11e4-8c28-020000005b00/asheboro-country-club"
+  }
+}

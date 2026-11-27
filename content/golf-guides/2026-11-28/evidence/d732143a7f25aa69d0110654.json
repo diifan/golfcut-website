@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6c4b880-86ac-11e4-8c28-020000005b00/rupert-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6c4b880-86ac-11e4-8c28-020000005b00/rupert-country-club",
+  "checked_at": 1795686393.693533,
+  "sha256": "f0f8dee9234ce515c69eb36bff818ac48aacfd49fd5d93620f7fbf0a1de0ea88",
+  "title": "Rupert Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6c4b880-86ac-11e4-8c28-020000005b00",
+    "name": "Rupert Country Club",
+    "address": "200 W 85 S",
+    "courses": [
+      {
+        "name": "Rupert",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6459,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 119
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6459,
+            "par": 72,
+            "rating": 76.3,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6174,
+            "par": 71,
+            "rating": 68.5,
+            "slope": 116
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6174,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5221,
+            "par": 71,
+            "rating": 63.6,
+            "slope": 102
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5221,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6c4b880-86ac-11e4-8c28-020000005b00/rupert-country-club"
+  }
+}

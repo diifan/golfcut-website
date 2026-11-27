@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a0afbb0-86ac-11e4-8c28-020000005b00/golden-gate-park-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a0afbb0-86ac-11e4-8c28-020000005b00/golden-gate-park-golf-course",
+  "checked_at": 1795697918.8002412,
+  "sha256": "eb852b02bc57950c4a339b3824626043be63a25cdf1845afff273911f1a671bd",
+  "title": "Golden Gate Park Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a0afbb0-86ac-11e4-8c28-020000005b00",
+    "name": "Golden Gate Park Golf Course",
+    "address": "970 47th Ave, San Francisco, CA",
+    "courses": [
+      {
+        "name": "Golden Gate Park (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 1177,
+            "par": 27,
+            "rating": 27.16858,
+            "slope": 81.60864
+          },
+          {
+            "name": "II",
+            "category": "FEMALE",
+            "yards": 1177,
+            "par": 27,
+            "rating": 27.16858,
+            "slope": 81.60864
+          },
+          {
+            "name": "I",
+            "category": "MALE",
+            "yards": 931,
+            "par": 27,
+            "rating": 26.05174,
+            "slope": 77.10192
+          },
+          {
+            "name": "I",
+            "category": "FEMALE",
+            "yards": 931,
+            "par": 27,
+            "rating": 26.05174,
+            "slope": 77.10192
+          }
+        ]
+      },
+      {
+        "name": "Golden Gate Park (18 Holes) ",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "II",
+            "category": "MALE",
+            "yards": 2354,
+            "par": 54,
+            "rating": 54.4,
+            "slope": 81.6
+          },
+          {
+            "name": "II",
+            "category": "FEMALE",
+            "yards": 2354,
+            "par": 54,
+            "rating": 54.4,
+            "slope": 81.6
+          },
+          {
+            "name": "I",
+            "category": "MALE",
+            "yards": 1862,
+            "par": 54,
+            "rating": 52.2,
+            "slope": 77.1
+          },
+          {
+            "name": "I",
+            "category": "FEMALE",
+            "yards": 1862,
+            "par": 54,
+            "rating": 52.2,
+            "slope": 77.1
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a0afbb0-86ac-11e4-8c28-020000005b00/golden-gate-park-golf-course"
+  }
+}

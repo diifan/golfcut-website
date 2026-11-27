@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9cf50e00-86ac-11e4-8c28-020000005b00/cambrian-hills-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9cf50e00-86ac-11e4-8c28-020000005b00/cambrian-hills-golf-course",
+  "checked_at": 1795666529.3824263,
+  "sha256": "ab917f4a26f2d9e629fb439f9ed95e72f87867d1815ddc49bba11f0a78675a87",
+  "title": "Cambrian Hills Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9cf50e00-86ac-11e4-8c28-020000005b00",
+    "name": "Cambrian Hills Golf Course",
+    "address": "1137 Municipal Road, Hastings",
+    "courses": [
+      {
+        "name": "Cambrian Hills(9 holes )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White/Blue",
+            "category": "MALE",
+            "yards": 6117,
+            "par": 71,
+            "rating": 69.6,
+            "slope": 125
+          },
+          {
+            "name": "White/Blue",
+            "category": "FEMALE",
+            "yards": 6117,
+            "par": 71,
+            "rating": 74.8,
+            "slope": 129
+          },
+          {
+            "name": "Red/Gold",
+            "category": "MALE",
+            "yards": 4987,
+            "par": 71,
+            "rating": 63.4,
+            "slope": 113
+          },
+          {
+            "name": "Red/Gold",
+            "category": "FEMALE",
+            "yards": 4987,
+            "par": 71,
+            "rating": 67.9,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9cf50e00-86ac-11e4-8c28-020000005b00/cambrian-hills-golf-course"
+  }
+}

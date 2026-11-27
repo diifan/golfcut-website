@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7bc0b040-86ac-11e4-8c28-020000005b00/westport-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7bc0b040-86ac-11e4-8c28-020000005b00/westport-golf-club",
+  "checked_at": 1795583786.9562385,
+  "sha256": "3c72ab208a2897e642332ea3be519014c30a9a8730fb69f57fbf3454b6e4f827",
+  "title": "Westport Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "7bc0b040-86ac-11e4-8c28-020000005b00",
+    "name": "Westport Golf Club",
+    "address": "Golf Course Road, Carrowholly, Westport, Co. Mayo, F28 VY07, Ireland",
+    "courses": [
+      {
+        "name": "Westport",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7015,
+            "par": 73,
+            "rating": 74.8,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7015,
+            "par": 74,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6759,
+            "par": 73,
+            "rating": 73.6,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6759,
+            "par": 74,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6477,
+            "par": 73,
+            "rating": 72.1,
+            "slope": 130
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 6477,
+            "par": 74,
+            "rating": 78.2,
+            "slope": 141
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5711,
+            "par": 73,
+            "rating": 68.6,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5711,
+            "par": 74,
+            "rating": 74.4,
+            "slope": 129
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7bc0b040-86ac-11e4-8c28-020000005b00/westport-golf-club"
+  }
+}

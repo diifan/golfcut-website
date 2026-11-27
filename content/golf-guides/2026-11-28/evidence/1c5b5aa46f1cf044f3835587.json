@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/88806410-86ac-11e4-8c28-020000005b00/newman",
+  "resolved_url": "https://18birdies.com/golf-courses/club/88806410-86ac-11e4-8c28-020000005b00/newman",
+  "checked_at": 1795524721.1794946,
+  "sha256": "c24df9d7db9a2646eae8957ca8436f757e0c31f09aa83ecf9794440bca37f650",
+  "title": "Newman - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "88806410-86ac-11e4-8c28-020000005b00",
+    "name": "Newman",
+    "address": "2021 W Nebraska Ave, Peoria, IL",
+    "courses": [
+      {
+        "name": "Newman",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6838,
+            "par": 72,
+            "rating": 72.9,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6467,
+            "par": 72,
+            "rating": 71,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5826,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5826,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/88806410-86ac-11e4-8c28-020000005b00/newman"
+  }
+}

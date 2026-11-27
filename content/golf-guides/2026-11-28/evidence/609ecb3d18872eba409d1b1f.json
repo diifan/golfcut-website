@@ -1,0 +1,251 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b471c7d0-86ac-11e4-8c28-020000005b00/kirkmans-lakeview-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b471c7d0-86ac-11e4-8c28-020000005b00/kirkmans-lakeview-golf-course",
+  "checked_at": 1795696769.8263113,
+  "sha256": "bbf89fad1bdf13753d6b98f0cd6420f5f01fac5d8817a73ac026dc6cdc0aaa9d",
+  "title": "Kirkman's Lakeview Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b471c7d0-86ac-11e4-8c28-020000005b00",
+    "name": "Kirkman's Lakeview Golf Course",
+    "address": "71550 631 Ave",
+    "courses": [
+      {
+        "name": "Kirkman's Lakeview (9 Holes)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3348,
+            "par": 36,
+            "rating": 36.1,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3348,
+            "par": 36,
+            "rating": 38.8,
+            "slope": 131
+          },
+          {
+            "name": "Blue/Gold",
+            "category": "MALE",
+            "yards": 3348,
+            "par": 36,
+            "rating": 34.9,
+            "slope": 113
+          },
+          {
+            "name": "Blue/Gold",
+            "category": "FEMALE",
+            "yards": 3348,
+            "par": 36,
+            "rating": 37.8,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3084,
+            "par": 36,
+            "rating": 36.5,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3084,
+            "par": 36,
+            "rating": 35.6,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 2713,
+            "par": 36,
+            "rating": 34.8,
+            "slope": 113
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 2713,
+            "par": 36,
+            "rating": 35.4,
+            "slope": 120
+          },
+          {
+            "name": "White/Gold",
+            "category": "MALE",
+            "yards": 2713,
+            "par": 36,
+            "rating": 34.8,
+            "slope": 113
+          },
+          {
+            "name": "White/Gold",
+            "category": "FEMALE",
+            "yards": 2713,
+            "par": 36,
+            "rating": 35.4,
+            "slope": 120
+          },
+          {
+            "name": "Red/Gold",
+            "category": "MALE",
+            "yards": 2713,
+            "par": 36,
+            "rating": 34.8,
+            "slope": 113
+          },
+          {
+            "name": "Red/Gold",
+            "category": "FEMALE",
+            "yards": 2713,
+            "par": 36,
+            "rating": 35.4,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2713,
+            "par": 36,
+            "rating": 34.8,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2713,
+            "par": 36,
+            "rating": 35.4,
+            "slope": 120
+          }
+        ]
+      },
+      {
+        "name": "Kirkman's Lakeview (18 Holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6696,
+            "par": 72,
+            "rating": 72.2,
+            "slope": 123
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6696,
+            "par": 72,
+            "rating": 77.5,
+            "slope": 138
+          },
+          {
+            "name": "Blue/Gold",
+            "category": "MALE",
+            "yards": 6696,
+            "par": 72,
+            "rating": 71,
+            "slope": 120
+          },
+          {
+            "name": "Blue/Gold",
+            "category": "FEMALE",
+            "yards": 6696,
+            "par": 72,
+            "rating": 77.5,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6168,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6168,
+            "par": 72,
+            "rating": 74.7,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5426,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 117
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5426,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 123
+          },
+          {
+            "name": "White/Gold",
+            "category": "MALE",
+            "yards": 5426,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 116
+          },
+          {
+            "name": "White/Gold",
+            "category": "FEMALE",
+            "yards": 5426,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 123
+          },
+          {
+            "name": "Red/Gold",
+            "category": "MALE",
+            "yards": 5426,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 111
+          },
+          {
+            "name": "Red/Gold",
+            "category": "FEMALE",
+            "yards": 5426,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5426,
+            "par": 72,
+            "rating": 66,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5426,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b471c7d0-86ac-11e4-8c28-020000005b00/kirkmans-lakeview-golf-course"
+  }
+}

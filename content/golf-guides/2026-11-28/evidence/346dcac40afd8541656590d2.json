@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8df79f30-86ac-11e4-8c28-020000005b00/haven-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8df79f30-86ac-11e4-8c28-020000005b00/haven-golf-course",
+  "checked_at": 1795697994.0761733,
+  "sha256": "1cc09b34b2cd9e4cb3e14f95127ef80fbd8fd51aab3b8773601cbf93cdcefcf2",
+  "title": "Haven Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8df79f30-86ac-11e4-8c28-020000005b00",
+    "name": "Haven Golf Course",
+    "address": "110 N Abrego Dr Green Valley, AZ",
+    "courses": [
+      {
+        "name": "Haven Golf Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6394,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5722,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5095,
+            "par": 72,
+            "rating": 62.9,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8df79f30-86ac-11e4-8c28-020000005b00/haven-golf-course"
+  }
+}

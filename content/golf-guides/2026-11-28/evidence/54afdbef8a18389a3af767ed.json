@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9bb0ce30-86ac-11e4-8c28-020000005b00/ivy-hills-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9bb0ce30-86ac-11e4-8c28-020000005b00/ivy-hills-country-club",
+  "checked_at": 1795524145.5105426,
+  "sha256": "104cf46c7a6409097db34c44f21d5ef79833446878ddfd29c3f75c2549af9758",
+  "title": "Ivy Hills Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9bb0ce30-86ac-11e4-8c28-020000005b00",
+    "name": "Ivy Hills Country Club",
+    "address": "7711 Ivy Hills Blvd",
+    "courses": [
+      {
+        "name": "Ivy Hills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6764,
+            "par": 71,
+            "rating": 73.8,
+            "slope": 138
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6255,
+            "par": 71,
+            "rating": 71.4,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5255,
+            "par": 71,
+            "rating": 66.5,
+            "slope": 120
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 4303,
+            "par": 71,
+            "rating": 64.5,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9bb0ce30-86ac-11e4-8c28-020000005b00/ivy-hills-country-club"
+  }
+}

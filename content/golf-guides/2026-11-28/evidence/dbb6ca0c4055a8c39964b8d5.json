@@ -1,0 +1,251 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b8f41ba0-86ac-11e4-8c28-020000005b00/kapalua-golf",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b8f41ba0-86ac-11e4-8c28-020000005b00/kapalua-golf",
+  "checked_at": 1795663474.2440875,
+  "sha256": "0522a7a38fabde279456c862e5e845ef997b6e5c82322b00660f85daa3bfe2a5",
+  "title": "Kapalua Golf - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b8f41ba0-86ac-11e4-8c28-020000005b00",
+    "name": "Kapalua Golf",
+    "address": "300 Kapalua Dr, Lahaina, HI",
+    "courses": [
+      {
+        "name": "Bay Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 6600,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 137
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 6600,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Championship / Regular",
+            "category": "MALE",
+            "yards": 6294,
+            "par": 72,
+            "rating": 71.4,
+            "slope": 135
+          },
+          {
+            "name": "Championship / Regular",
+            "category": "FEMALE",
+            "yards": 6294,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Regular",
+            "category": "MALE",
+            "yards": 6051,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 132
+          },
+          {
+            "name": "Regular",
+            "category": "FEMALE",
+            "yards": 6051,
+            "par": 72,
+            "rating": 76,
+            "slope": 134
+          },
+          {
+            "name": "Regular / Resort",
+            "category": "MALE",
+            "yards": 5686,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 126
+          },
+          {
+            "name": "Regular / Resort",
+            "category": "FEMALE",
+            "yards": 5686,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 131
+          },
+          {
+            "name": "Resort",
+            "category": "MALE",
+            "yards": 5414,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Resort",
+            "category": "FEMALE",
+            "yards": 5414,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 129
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5119,
+            "par": 72,
+            "rating": 65.5,
+            "slope": 115
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5119,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 123
+          }
+        ]
+      },
+      {
+        "name": "Plantation Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Tournament",
+            "category": "MALE",
+            "yards": 7596,
+            "par": 73,
+            "rating": 77,
+            "slope": 144
+          },
+          {
+            "name": "Tournament",
+            "category": "FEMALE",
+            "yards": 7596,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Championship",
+            "category": "MALE",
+            "yards": 7284,
+            "par": 73,
+            "rating": 75.5,
+            "slope": 140
+          },
+          {
+            "name": "Championship",
+            "category": "FEMALE",
+            "yards": 7284,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Championship / Regular",
+            "category": "MALE",
+            "yards": 6938,
+            "par": 73,
+            "rating": 74,
+            "slope": 137
+          },
+          {
+            "name": "Championship / Regular",
+            "category": "FEMALE",
+            "yards": 6938,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Regular",
+            "category": "MALE",
+            "yards": 6701,
+            "par": 73,
+            "rating": 72.8,
+            "slope": 134
+          },
+          {
+            "name": "Regular",
+            "category": "FEMALE",
+            "yards": 6701,
+            "par": 73,
+            "rating": 80,
+            "slope": 146
+          },
+          {
+            "name": "Regular / Resort",
+            "category": "MALE",
+            "yards": 6407,
+            "par": 73,
+            "rating": 71.6,
+            "slope": 130
+          },
+          {
+            "name": "Regular / Resort",
+            "category": "FEMALE",
+            "yards": 6407,
+            "par": 73,
+            "rating": 77.9,
+            "slope": 139
+          },
+          {
+            "name": "Resort",
+            "category": "MALE",
+            "yards": 6077,
+            "par": 73,
+            "rating": 70,
+            "slope": 127
+          },
+          {
+            "name": "Resort",
+            "category": "FEMALE",
+            "yards": 6077,
+            "par": 73,
+            "rating": 75.4,
+            "slope": 135
+          },
+          {
+            "name": "Forward",
+            "category": "MALE",
+            "yards": 5228,
+            "par": 73,
+            "rating": 65.5,
+            "slope": 116
+          },
+          {
+            "name": "Forward",
+            "category": "FEMALE",
+            "yards": 5228,
+            "par": 73,
+            "rating": 70.2,
+            "slope": 124
+          },
+          {
+            "name": "Resort / Forward",
+            "category": "MALE",
+            "yards": 5591,
+            "par": 73,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Resort / Forward",
+            "category": "FEMALE",
+            "yards": 5591,
+            "par": 73,
+            "rating": 72.5,
+            "slope": 129
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b8f41ba0-86ac-11e4-8c28-020000005b00/kapalua-golf"
+  }
+}

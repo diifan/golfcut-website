@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1a49e10-86ac-11e4-8c28-020000005b00/cedar-springs-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1a49e10-86ac-11e4-8c28-020000005b00/cedar-springs-golf-course",
+  "checked_at": 1795686328.926554,
+  "sha256": "63f562ed7d27499d20971ba9d4b36b9e466ecf73df4de2adf001d2b045eb08c6",
+  "title": "[Closed] Cedar Springs Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b1a49e10-86ac-11e4-8c28-020000005b00",
+    "name": "[Closed] Cedar Springs Golf Course",
+    "address": "63 Bog Rd.",
+    "courses": [
+      {
+        "name": "Cedar Springs",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5840,
+            "par": 70,
+            "rating": 71.5,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5400,
+            "par": 70,
+            "rating": 65.4,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4710,
+            "par": 70,
+            "rating": 66.4,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1a49e10-86ac-11e4-8c28-020000005b00/cedar-springs-golf-course"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/97d84ef0-86ac-11e4-8c28-020000005b00/soldier-hill-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/97d84ef0-86ac-11e4-8c28-020000005b00/soldier-hill-golf-club",
+  "checked_at": 1795685300.1339657,
+  "sha256": "99f36f6e1be694b848fd033115a024d8474ec8d5a1cd309e816ee69ab63a911a",
+  "title": "Soldier Hill Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "97d84ef0-86ac-11e4-8c28-020000005b00",
+    "name": "Soldier Hill Golf Club",
+    "address": "99 Palisade Ave, Emerson, NJ",
+    "courses": [
+      {
+        "name": "Emerson",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6749,
+            "par": 71,
+            "rating": 72.8,
+            "slope": 130
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6749,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6225,
+            "par": 71,
+            "rating": 70.1,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6225,
+            "par": 71,
+            "rating": 75.8,
+            "slope": 134
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5260,
+            "par": 71,
+            "rating": 65.9,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5260,
+            "par": 71,
+            "rating": 70.4,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5105,
+            "par": 71,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5105,
+            "par": 71,
+            "rating": 69.7,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/97d84ef0-86ac-11e4-8c28-020000005b00/soldier-hill-golf-club"
+  }
+}

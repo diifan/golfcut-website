@@ -1,0 +1,279 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9a592d70-86ac-11e4-8c28-020000005b00/governors-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9a592d70-86ac-11e4-8c28-020000005b00/governors-club",
+  "checked_at": 1795694367.7339036,
+  "sha256": "4cd847b28168226db74bbadada3096639ce2c0558b9824916017786b7ecdc162",
+  "title": "Governors Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9a592d70-86ac-11e4-8c28-020000005b00",
+    "name": "Governors Club",
+    "address": "11000 Club Dr, Chapel Hill, NC",
+    "courses": [
+      {
+        "name": "Foothills/Mountain",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6895,
+            "par": 72,
+            "rating": 74.2,
+            "slope": 142
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6672,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6308,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5934,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 128
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5320,
+            "par": 72,
+            "rating": 66.3,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5075,
+            "par": 72,
+            "rating": 68,
+            "slope": 116
+          }
+        ]
+      },
+      {
+        "name": "Lakes/Foothills",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7062,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 142
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6713,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 138
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6381,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6047,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 127
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5363,
+            "par": 72,
+            "rating": 66.8,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5149,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 117
+          }
+        ]
+      },
+      {
+        "name": "Mountain/Lakes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6837,
+            "par": 72,
+            "rating": 73.3,
+            "slope": 138
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6837,
+            "par": 72,
+            "rating": 78.3,
+            "slope": 139
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6671,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6671,
+            "par": 72,
+            "rating": 77.4,
+            "slope": 137
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6283,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6283,
+            "par": 72,
+            "rating": 75.3,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5925,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5925,
+            "par": 72,
+            "rating": 75,
+            "slope": 138
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5383,
+            "par": 72,
+            "rating": 66.5,
+            "slope": 121
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5383,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5150,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5150,
+            "par": 72,
+            "rating": 70.4,
+            "slope": 123
+          }
+        ]
+      },
+      {
+        "name": "Lakes/Mountain",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 3502,
+            "par": 36,
+            "rating": 38.4,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 3356,
+            "par": 36,
+            "rating": 37.8,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3178,
+            "par": 36,
+            "rating": 36.9,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3019,
+            "par": 36,
+            "rating": 36.2,
+            "slope": 118
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 2713,
+            "par": 36,
+            "rating": 34.8,
+            "slope": 113
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2612,
+            "par": 36,
+            "rating": 34.4,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9a592d70-86ac-11e4-8c28-020000005b00/governors-club"
+  }
+}

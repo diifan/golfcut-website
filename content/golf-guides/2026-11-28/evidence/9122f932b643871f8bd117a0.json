@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8379c510-86ac-11e4-8c28-020000005b00/joliet-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8379c510-86ac-11e4-8c28-020000005b00/joliet-country-club",
+  "checked_at": 1795661631.6933007,
+  "sha256": "b7608a74778e94c00e120242e65bb978370cf8a000285a015571c91db8e501b4",
+  "title": "(CLOSED) Joliet Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8379c510-86ac-11e4-8c28-020000005b00",
+    "name": "(CLOSED) Joliet Country Club",
+    "address": "1009 Spencer Rd, Joliet, IL",
+    "courses": [
+      {
+        "name": "Joliet",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6570,
+            "par": 72,
+            "rating": 72.4,
+            "slope": 131
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6570,
+            "par": 74,
+            "rating": 76.8,
+            "slope": 136
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6285,
+            "par": 72,
+            "rating": 71.3,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6285,
+            "par": 74,
+            "rating": 75.3,
+            "slope": 133
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 5765,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 122
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 5765,
+            "par": 74,
+            "rating": 74.2,
+            "slope": 130
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4490,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 112
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 4490,
+            "par": 74,
+            "rating": 67.4,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8379c510-86ac-11e4-8c28-020000005b00/joliet-country-club"
+  }
+}

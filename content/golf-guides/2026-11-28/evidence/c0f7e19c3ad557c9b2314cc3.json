@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1c08a80-86ac-11e4-8c28-020000005b00/gorham-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1c08a80-86ac-11e4-8c28-020000005b00/gorham-country-club",
+  "checked_at": 1795663445.7248204,
+  "sha256": "dd285cdfb125efaa573c5aba5ec9dba8943426f157898de8a56805e4f3facc54",
+  "title": "Gorham Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b1c08a80-86ac-11e4-8c28-020000005b00",
+    "name": "Gorham Country Club",
+    "address": "68 McLellan Rd",
+    "courses": [
+      {
+        "name": "Gorham",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6555,
+            "par": 71,
+            "rating": 68.6,
+            "slope": 116
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6555,
+            "par": 72,
+            "rating": 76.8,
+            "slope": 136
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6334,
+            "par": 71,
+            "rating": 67.4,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6334,
+            "par": 72,
+            "rating": 75.6,
+            "slope": 134
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5474,
+            "par": 71,
+            "rating": 69.9,
+            "slope": 120
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5474,
+            "par": 72,
+            "rating": 71,
+            "slope": 123
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5426,
+            "par": 71,
+            "rating": 64.8,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5426,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1c08a80-86ac-11e4-8c28-020000005b00/gorham-country-club"
+  }
+}

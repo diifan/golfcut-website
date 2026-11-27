@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b58051a0-86ac-11e4-8c28-020000005b00/homestead-supper-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b58051a0-86ac-11e4-8c28-020000005b00/homestead-supper-country-club",
+  "checked_at": 1795661425.651173,
+  "sha256": "138094b2541cc92e2ae21f6d7e130ac382c715cad073f699223e8604a24c6951",
+  "title": "Homestead Supper & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b58051a0-86ac-11e4-8c28-020000005b00",
+    "name": "Homestead Supper & Country Club",
+    "address": "3372 Hwy 13 N",
+    "courses": [
+      {
+        "name": "Homestead Supper",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5424,
+            "par": 68,
+            "rating": 66.6,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5134,
+            "par": 68,
+            "rating": 63,
+            "slope": 99
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b58051a0-86ac-11e4-8c28-020000005b00/homestead-supper-country-club"
+  }
+}

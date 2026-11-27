@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/1fa07470-5273-11ee-a393-06780482e2ce/twin-springs-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/1fa07470-5273-11ee-a393-06780482e2ce/twin-springs-golf-course",
+  "checked_at": 1795661445.0786843,
+  "sha256": "4242bbadf6a92a29acf4d9079573072a3bf8bfdde59ca8ae02ff9224f1a4aff5",
+  "title": "Twin Springs Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star-o star-o star-o star star star-o star-o star-o star star google-play",
+  "course_profile": {
+    "id": "1fa07470-5273-11ee-a393-06780482e2ce",
+    "name": "Twin Springs Golf Course",
+    "address": "32985 OH-172, Lisbon, OH",
+    "courses": [
+      {
+        "name": "Twin Springs",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4742,
+            "par": 68,
+            "rating": 66.5,
+            "slope": 114
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4742,
+            "par": 68,
+            "rating": 67.1,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3886,
+            "par": 68,
+            "rating": 62.6,
+            "slope": 107
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3886,
+            "par": 68,
+            "rating": 62.5,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/1fa07470-5273-11ee-a393-06780482e2ce/twin-springs-golf-course"
+  }
+}

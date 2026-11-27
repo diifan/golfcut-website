@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b789dd40-86ac-11e4-8c28-020000005b00/sibley-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b789dd40-86ac-11e4-8c28-020000005b00/sibley-country-club",
+  "checked_at": 1795663498.542167,
+  "sha256": "ea56ace8ca7703872f61902d5e537a9d0b58fd9c43c950a2183e6d82d7bced85",
+  "title": "Sibley Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b789dd40-86ac-11e4-8c28-020000005b00",
+    "name": "Sibley Country Club",
+    "address": "11th Ave E, Sibley, IA",
+    "courses": [
+      {
+        "name": "Sibley",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3429,
+            "par": 36,
+            "rating": 36.3,
+            "slope": 126
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3429,
+            "par": 36,
+            "rating": 39.2,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3128,
+            "par": 36,
+            "rating": 34.7,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3128,
+            "par": 36,
+            "rating": 37.6,
+            "slope": 127
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2801,
+            "par": 36,
+            "rating": 33.2,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2801,
+            "par": 36,
+            "rating": 35.5,
+            "slope": 115
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b789dd40-86ac-11e4-8c28-020000005b00/sibley-country-club"
+  }
+}

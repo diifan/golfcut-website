@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/aeb21200-86ac-11e4-8c28-020000005b00/britton-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/aeb21200-86ac-11e4-8c28-020000005b00/britton-country-club",
+  "checked_at": 1795694377.110636,
+  "sha256": "f05ab494a94e91736142b6f5916bd87a14b545fa533ba05eb5e7c9f29c4d7ea1",
+  "title": "Britton Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "aeb21200-86ac-11e4-8c28-020000005b00",
+    "name": "Britton Country Club",
+    "address": "10920 424th Ave, Britton, SD ",
+    "courses": [
+      {
+        "name": "Britton Country(9 holes )",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5302,
+            "par": 68,
+            "rating": 65.4,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4966,
+            "par": 68,
+            "rating": 67.5,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/aeb21200-86ac-11e4-8c28-020000005b00/britton-country-club"
+  }
+}

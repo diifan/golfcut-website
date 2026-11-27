@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b1c2fb80-86ac-11e4-8c28-020000005b00/hampden-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b1c2fb80-86ac-11e4-8c28-020000005b00/hampden-country-club",
+  "checked_at": 1795671978.7018917,
+  "sha256": "501039141ec2222f7cf8dd5683ad16e7eed3f254d373681e8d4f985726f4cdc3",
+  "title": "Hampden Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b1c2fb80-86ac-11e4-8c28-020000005b00",
+    "name": "Hampden Country Club",
+    "address": "25 Thomas Rd, Hampden, ME",
+    "courses": [
+      {
+        "name": "Hampden (18 Holes)",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5468,
+            "par": 72,
+            "rating": 64.9,
+            "slope": 104
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5468,
+            "par": 72,
+            "rating": 71,
+            "slope": 123
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5100,
+            "par": 72,
+            "rating": 63,
+            "slope": 100
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5100,
+            "par": 72,
+            "rating": 69,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4490,
+            "par": 72,
+            "rating": 65.4,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4490,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 118
+          }
+        ]
+      },
+      {
+        "name": "Hampden (9 Holes Only)",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2734,
+            "par": 36,
+            "rating": 32.1,
+            "slope": 103
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2734,
+            "par": 36,
+            "rating": 35.5,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2550,
+            "par": 36,
+            "rating": 31.5,
+            "slope": 100
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2550,
+            "par": 36,
+            "rating": 34.5,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2245,
+            "par": 36,
+            "rating": 32.7,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2245,
+            "par": 36,
+            "rating": 34.8,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b1c2fb80-86ac-11e4-8c28-020000005b00/hampden-country-club"
+  }
+}

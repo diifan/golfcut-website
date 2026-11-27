@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/96943630-86ac-11e4-8c28-020000005b00/luverne-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/96943630-86ac-11e4-8c28-020000005b00/luverne-country-club",
+  "checked_at": 1795694397.8723354,
+  "sha256": "44e9c414ed01d3d1b58061269b1325256eefe15fa9891cd2f24b314273a87545",
+  "title": "Luverne Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "96943630-86ac-11e4-8c28-020000005b00",
+    "name": "Luverne Country Club",
+    "address": "Rural Route 3",
+    "courses": [
+      {
+        "name": "Luverne",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 3339,
+            "par": 36,
+            "rating": 36.1,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3213,
+            "par": 36,
+            "rating": 35.6,
+            "slope": 130
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2516,
+            "par": 36,
+            "rating": 32.3,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/96943630-86ac-11e4-8c28-020000005b00/luverne-country-club"
+  }
+}

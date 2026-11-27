@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/914ff1f0-86ac-11e4-8c28-020000005b00/coosa-pines-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/914ff1f0-86ac-11e4-8c28-020000005b00/coosa-pines-golf-course",
+  "checked_at": 1795694362.2465293,
+  "sha256": "a90c80f15bdb2e4f1042da8a7528c2902544461f4233e67fb1bbdeea4c7d4fa2",
+  "title": "Coosa Pines Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "914ff1f0-86ac-11e4-8c28-020000005b00",
+    "name": "Coosa Pines Golf Course",
+    "address": "16615 Plant Rd, Childersburg, AL",
+    "courses": [
+      {
+        "name": "Coosa Pines",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6429,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 121
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 6046,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5679,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 111
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5273,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/914ff1f0-86ac-11e4-8c28-020000005b00/coosa-pines-golf-course"
+  }
+}

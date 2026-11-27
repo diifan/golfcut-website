@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b92da230-86ac-11e4-8c28-020000005b00/l-a-nickell-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b92da230-86ac-11e4-8c28-020000005b00/l-a-nickell-golf-course",
+  "checked_at": 1795663887.7011616,
+  "sha256": "d984b94afa27827247b83bfa84251ca735340456ada8e3d796d800b4ba7d8f64",
+  "title": "L A Nickell Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b92da230-86ac-11e4-8c28-020000005b00",
+    "name": "L A Nickell Golf Course",
+    "address": "1800 Parkside Dr, Columbia, MO",
+    "courses": [
+      {
+        "name": "L A Nickell / L.A. nickell back",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6231,
+            "par": 70,
+            "rating": 70.8,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5712,
+            "par": 70,
+            "rating": 68.1,
+            "slope": 122
+          },
+          {
+            "name": "Combo",
+            "category": "MALE",
+            "yards": 5273,
+            "par": 70,
+            "rating": 65.8,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4684,
+            "par": 70,
+            "rating": 63,
+            "slope": 107
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b92da230-86ac-11e4-8c28-020000005b00/l-a-nickell-golf-course"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b7c90920-86ac-11e4-8c28-020000005b00/prairie-trails-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b7c90920-86ac-11e4-8c28-020000005b00/prairie-trails-golf-course",
+  "checked_at": 1795661438.841718,
+  "sha256": "0866d7169e8f7ea764fb8de1c240d339b853040d7d7f681781532188bde2f706",
+  "title": "Prairie Trails Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b7c90920-86ac-11e4-8c28-020000005b00",
+    "name": "Prairie Trails Golf Course",
+    "address": "1110 Country Club Ln, El Dorado, KS",
+    "courses": [
+      {
+        "name": "Prairie Trails",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6290,
+            "par": 71,
+            "rating": 71.4,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5937,
+            "par": 71,
+            "rating": 69.8,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5524,
+            "par": 71,
+            "rating": 67.9,
+            "slope": 122
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b7c90920-86ac-11e4-8c28-020000005b00/prairie-trails-golf-course"
+  }
+}

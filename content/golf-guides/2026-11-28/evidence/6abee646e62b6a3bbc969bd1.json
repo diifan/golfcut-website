@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b2d8b140-86ac-11e4-8c28-020000005b00/faulkwood-shores-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b2d8b140-86ac-11e4-8c28-020000005b00/faulkwood-shores-golf-club",
+  "checked_at": 1795669242.473351,
+  "sha256": "4c428af304c6e55d7e328babc947e228c8972dd032bfc9037212e04a6612ebe1",
+  "title": "Faulkwood Shores Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b2d8b140-86ac-11e4-8c28-020000005b00",
+    "name": "Faulkwood Shores Golf Club",
+    "address": "300 S Hughes, Howell, MI",
+    "courses": [
+      {
+        "name": "Faulkwood Shores",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 7014,
+            "par": 72,
+            "rating": 73.7,
+            "slope": 134
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 7014,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6634,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6634,
+            "par": 72,
+            "rating": 77.1,
+            "slope": 140
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5311,
+            "par": 72,
+            "rating": 66.7,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5311,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5042,
+            "par": 72,
+            "rating": 65.9,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5042,
+            "par": 72,
+            "rating": 71.2,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b2d8b140-86ac-11e4-8c28-020000005b00/faulkwood-shores-golf-club"
+  }
+}

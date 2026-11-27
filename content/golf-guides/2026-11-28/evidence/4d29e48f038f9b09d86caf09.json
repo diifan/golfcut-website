@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/75559f40-86ac-11e4-8c28-020000005b00/delta-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/75559f40-86ac-11e4-8c28-020000005b00/delta-golf-course",
+  "checked_at": 1795583832.5912943,
+  "sha256": "38e44a80b0412f21271d0774fd46323c59c68b20c22b0f8157692ee4a854e2b8",
+  "title": "Delta Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "75559f40-86ac-11e4-8c28-020000005b00",
+    "name": "Delta Golf Course",
+    "address": "11550 - No. 10 Highway , Delta, British Columbia, V4K 3N3",
+    "courses": [
+      {
+        "name": "Delta",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue Mens",
+            "category": "MALE",
+            "yards": 4954,
+            "par": 68,
+            "rating": 64.7,
+            "slope": 114
+          },
+          {
+            "name": "Blue Mens",
+            "category": "FEMALE",
+            "yards": 4954,
+            "par": 68,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue Ladies",
+            "category": "MALE",
+            "yards": 4895,
+            "par": 68,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue Ladies",
+            "category": "FEMALE",
+            "yards": 4895,
+            "par": 68,
+            "rating": 69,
+            "slope": 120
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4665,
+            "par": 68,
+            "rating": 63.6,
+            "slope": 108
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 4665,
+            "par": 68,
+            "rating": 67.5,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/75559f40-86ac-11e4-8c28-020000005b00/delta-golf-course"
+  }
+}

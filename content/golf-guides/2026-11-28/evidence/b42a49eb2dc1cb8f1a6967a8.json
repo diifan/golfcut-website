@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b3217a10-86ac-11e4-8c28-020000005b00/riverside-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b3217a10-86ac-11e4-8c28-020000005b00/riverside-golf-club",
+  "checked_at": 1795661666.0491269,
+  "sha256": "042aec93c67a441e37e5a526885b645386215adc2531b50b94669fbc97629ece",
+  "title": "Riverside Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b3217a10-86ac-11e4-8c28-020000005b00",
+    "name": "Riverside Golf Club",
+    "address": "3001 14th Ave",
+    "courses": [
+      {
+        "name": "Riverside",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6279,
+            "par": 72,
+            "rating": 70.8,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6279,
+            "par": 74,
+            "rating": 75.3,
+            "slope": 133
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5996,
+            "par": 72,
+            "rating": 69.5,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5996,
+            "par": 74,
+            "rating": 75.3,
+            "slope": 129
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5602,
+            "par": 72,
+            "rating": 67.7,
+            "slope": 118
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5602,
+            "par": 74,
+            "rating": 73.1,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5415,
+            "par": 72,
+            "rating": 66.1,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5415,
+            "par": 74,
+            "rating": 71.2,
+            "slope": 121
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b3217a10-86ac-11e4-8c28-020000005b00/riverside-golf-club"
+  }
+}

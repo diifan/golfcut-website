@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b71633e0-86ac-11e4-8c28-020000005b00/woods-edge-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b71633e0-86ac-11e4-8c28-020000005b00/woods-edge-golf-course",
+  "checked_at": 1795686402.3573663,
+  "sha256": "bfe248ee85e1e49548b8455f6eb80ed9d5a2af582b7b8bb20e0b7311301299ba",
+  "title": "Woods Edge Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b71633e0-86ac-11e4-8c28-020000005b00",
+    "name": "Woods Edge Golf Course",
+    "address": "504 W Union St, Edgewood, IA",
+    "courses": [
+      {
+        "name": "Woods Edge",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3173,
+            "par": 36,
+            "rating": 36.9,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3173,
+            "par": 36,
+            "rating": 37.8,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2957,
+            "par": 36,
+            "rating": 35.9,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2957,
+            "par": 36,
+            "rating": 36.7,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b71633e0-86ac-11e4-8c28-020000005b00/woods-edge-golf-course"
+  }
+}

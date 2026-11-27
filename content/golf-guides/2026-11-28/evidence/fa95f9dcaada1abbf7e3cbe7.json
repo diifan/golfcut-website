@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/affb81f0-86ac-11e4-8c28-020000005b00/the-greens-at-tanyard-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/affb81f0-86ac-11e4-8c28-020000005b00/the-greens-at-tanyard-golf-club",
+  "checked_at": 1795686571.617763,
+  "sha256": "d7f650ba208200033faba5a12eae116568154cf0ad9beab06e60ce16dc1f2b25",
+  "title": "The Greens at Tanyard Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star-o star star star star-o star-o star star google-play",
+  "course_profile": {
+    "id": "affb81f0-86ac-11e4-8c28-020000005b00",
+    "name": "The Greens at Tanyard Golf Club",
+    "address": "404 E Main Street, Louisa, VA",
+    "courses": [
+      {
+        "name": "Tanyard",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6500,
+            "par": 72,
+            "rating": 71.5,
+            "slope": 127
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6070,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 122
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5757,
+            "par": 72,
+            "rating": 68.3,
+            "slope": 119
+          },
+          {
+            "name": "Green/Red",
+            "category": "MALE",
+            "yards": 4829,
+            "par": 72,
+            "rating": 63.8,
+            "slope": 108
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/affb81f0-86ac-11e4-8c28-020000005b00/the-greens-at-tanyard-golf-club"
+  }
+}

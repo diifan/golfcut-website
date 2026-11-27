@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/04cbb060-4bae-11e7-aa7a-0680a328ea36/cove-view-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/04cbb060-4bae-11e7-aa7a-0680a328ea36/cove-view-golf-club",
+  "checked_at": 1795661675.845335,
+  "sha256": "9104474197e9d51ea6f5f201620fdf151404258965e70110cb9f44c3ed1c73b6",
+  "title": "Cove View Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "04cbb060-4bae-11e7-aa7a-0680a328ea36",
+    "name": "Cove View Golf Club",
+    "address": "1315 West 1800 South, Richfield, UT 84701",
+    "courses": [
+      {
+        "name": "Cove View",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6687,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6037,
+            "par": 72,
+            "rating": 68,
+            "slope": 121
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5532,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 114
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5090,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/04cbb060-4bae-11e7-aa7a-0680a328ea36/cove-view-golf-club"
+  }
+}

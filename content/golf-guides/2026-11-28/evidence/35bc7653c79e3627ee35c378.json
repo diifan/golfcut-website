@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b86214d0-86ac-11e4-8c28-020000005b00/memorial-park-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b86214d0-86ac-11e4-8c28-020000005b00/memorial-park-country-club",
+  "checked_at": 1795661421.0890596,
+  "sha256": "a0ffa7b2f3e5f1c143f245ed2b5f8b931f7e8900c7120dc0a244ca04b310b40e",
+  "title": "Memorial Park Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b86214d0-86ac-11e4-8c28-020000005b00",
+    "name": "Memorial Park Country Club",
+    "address": "9755 66th St SE",
+    "courses": [
+      {
+        "name": "9 Holes Only",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3135,
+            "par": 36,
+            "rating": 35.4,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2970,
+            "par": 36,
+            "rating": 34.7,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2615,
+            "par": 36,
+            "rating": 34.4,
+            "slope": 111
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b86214d0-86ac-11e4-8c28-020000005b00/memorial-park-country-club"
+  }
+}

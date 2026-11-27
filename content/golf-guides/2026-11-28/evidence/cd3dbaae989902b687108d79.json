@@ -1,0 +1,101 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8d19c250-86ac-11e4-8c28-020000005b00/cambridge-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8d19c250-86ac-11e4-8c28-020000005b00/cambridge-golf-course",
+  "checked_at": 1795663925.488947,
+  "sha256": "b3f29ef6f5e2bb28eb7a205361830dd15c7fb61fe4a55236f33577b4f0be5b67",
+  "title": "Cambridge Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8d19c250-86ac-11e4-8c28-020000005b00",
+    "name": "Cambridge Golf Course",
+    "address": "1034 Beacon Hill, Evansville, IN",
+    "courses": [
+      {
+        "name": "Cambridge",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Onyx",
+            "category": "MALE",
+            "yards": 7216,
+            "par": 72,
+            "rating": 75.4,
+            "slope": 136
+          },
+          {
+            "name": "Onyx",
+            "category": "FEMALE",
+            "yards": 7216,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Ruby",
+            "category": "MALE",
+            "yards": 6695,
+            "par": 72,
+            "rating": 72.6,
+            "slope": 130
+          },
+          {
+            "name": "Ruby",
+            "category": "FEMALE",
+            "yards": 6695,
+            "par": 72,
+            "rating": 77.5,
+            "slope": 138
+          },
+          {
+            "name": "Jade",
+            "category": "MALE",
+            "yards": 6227,
+            "par": 72,
+            "rating": 70.5,
+            "slope": 128
+          },
+          {
+            "name": "Jade",
+            "category": "FEMALE",
+            "yards": 6227,
+            "par": 72,
+            "rating": 75,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5862,
+            "par": 72,
+            "rating": 68.8,
+            "slope": 122
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5862,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 128
+          },
+          {
+            "name": "Pearl",
+            "category": "MALE",
+            "yards": 5091,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 117
+          },
+          {
+            "name": "Pearl",
+            "category": "FEMALE",
+            "yards": 5091,
+            "par": 72,
+            "rating": 69.7,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8d19c250-86ac-11e4-8c28-020000005b00/cambridge-golf-course"
+  }
+}

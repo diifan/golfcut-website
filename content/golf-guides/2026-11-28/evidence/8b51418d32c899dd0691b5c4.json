@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/83a6a170-86ac-11e4-8c28-020000005b00/harry-mussatto-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/83a6a170-86ac-11e4-8c28-020000005b00/harry-mussatto-golf-course",
+  "checked_at": 1795687650.1206255,
+  "sha256": "d1704c1b31cb2aefe4adf0210fcc8c6f8163cc6daaad973b11581fcbd96922e0",
+  "title": "Harry Mussatto Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "83a6a170-86ac-11e4-8c28-020000005b00",
+    "name": "Harry Mussatto Golf Course",
+    "address": "1215 Tower Road, Macomb, IL",
+    "courses": [
+      {
+        "name": "Harry Mussatto",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6862,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 136
+          },
+          {
+            "name": "Purple",
+            "category": "MALE",
+            "yards": 6449,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 132
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6054,
+            "par": 72,
+            "rating": 69.9,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5069,
+            "par": 72,
+            "rating": 68,
+            "slope": 116
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/83a6a170-86ac-11e4-8c28-020000005b00/harry-mussatto-golf-course"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/be575990-86ac-11e4-8c28-020000005b00/whitehaven-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/be575990-86ac-11e4-8c28-020000005b00/whitehaven-golf-club",
+  "checked_at": 1795686357.7735703,
+  "sha256": "ac76fbc05cbf5bc785c6c5fe36ed9545398fb7a6c77298fa64bbb733538ff0e2",
+  "title": "Whitehaven Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "be575990-86ac-11e4-8c28-020000005b00",
+    "name": "Whitehaven Golf Club",
+    "address": "Red Lonning,Whitehaven",
+    "courses": [
+      {
+        "name": "Whitehaven",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6269,
+            "par": 70,
+            "rating": 70.7,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6269,
+            "par": 72,
+            "rating": 75.2,
+            "slope": 133
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5964,
+            "par": 70,
+            "rating": 69.1,
+            "slope": 121
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5964,
+            "par": 72,
+            "rating": 73.6,
+            "slope": 129
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5429,
+            "par": 70,
+            "rating": 69.7,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5429,
+            "par": 72,
+            "rating": 72.1,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/be575990-86ac-11e4-8c28-020000005b00/whitehaven-golf-club"
+  }
+}

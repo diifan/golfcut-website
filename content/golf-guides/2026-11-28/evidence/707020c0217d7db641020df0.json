@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b878f830-86ac-11e4-8c28-020000005b00/riverwood-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b878f830-86ac-11e4-8c28-020000005b00/riverwood-golf-course",
+  "checked_at": 1795685190.3922288,
+  "sha256": "ac5d4b752c4defede22f369e86a3bd4f98cd2d2e72f6da7762c57be756fe3915",
+  "title": "Riverwood Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b878f830-86ac-11e4-8c28-020000005b00",
+    "name": "Riverwood Golf Course",
+    "address": "725 Riverwood Dr, Bismarck, North Dakota",
+    "courses": [
+      {
+        "name": "Riverwood",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7066,
+            "par": 72,
+            "rating": 74.9,
+            "slope": 132
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7066,
+            "par": 72,
+            "rating": 81.6,
+            "slope": 147
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6486,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6486,
+            "par": 72,
+            "rating": 78.4,
+            "slope": 140
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6059,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6059,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5169,
+            "par": 72,
+            "rating": 66.2,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5169,
+            "par": 72,
+            "rating": 71.1,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b878f830-86ac-11e4-8c28-020000005b00/riverwood-golf-course"
+  }
+}

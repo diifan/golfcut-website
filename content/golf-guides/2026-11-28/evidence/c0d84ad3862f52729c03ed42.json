@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b76a9570-86ac-11e4-8c28-020000005b00/don-williams-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b76a9570-86ac-11e4-8c28-020000005b00/don-williams-golf-course",
+  "checked_at": 1795687691.313605,
+  "sha256": "1ce7c32646cd390d19a0cbe2fdf63f3fb86a2169ff5951c68b24370bfb46a332",
+  "title": "Don Williams Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b76a9570-86ac-11e4-8c28-020000005b00",
+    "name": "Don Williams Golf Course",
+    "address": "Don Williams, Ogden, IA",
+    "courses": [
+      {
+        "name": "Don Williams",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3045,
+            "par": 36,
+            "rating": 36.3,
+            "slope": 119
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3045,
+            "par": 36,
+            "rating": 37.1,
+            "slope": 126
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3045,
+            "par": 36,
+            "rating": 36.3,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3045,
+            "par": 36,
+            "rating": 37.1,
+            "slope": 126
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b76a9570-86ac-11e4-8c28-020000005b00/don-williams-golf-course"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af0959c0-86ac-11e4-8c28-020000005b00/emory-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af0959c0-86ac-11e4-8c28-020000005b00/emory-golf-country-club",
+  "checked_at": 1795696739.846458,
+  "sha256": "7fa40b96e80476b108b6992a92f2a17baa1ab766d0fbe7c8da1518ef33978e2e",
+  "title": "Emory Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "af0959c0-86ac-11e4-8c28-020000005b00",
+    "name": "Emory Golf & Country Club",
+    "address": "201 Westberry Heights Dr, Harriman, TN",
+    "courses": [
+      {
+        "name": "9 Holes Only",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2800,
+            "par": 35,
+            "rating": 36.1,
+            "slope": 113
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2800,
+            "par": 35,
+            "rating": 35.8,
+            "slope": 121
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 2244,
+            "par": 35,
+            "rating": 32.7,
+            "slope": 104
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 2244,
+            "par": 35,
+            "rating": 32,
+            "slope": 101
+          }
+        ]
+      },
+      {
+        "name": "18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5600,
+            "par": 70,
+            "rating": 67.2,
+            "slope": 113
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 5600,
+            "par": 70,
+            "rating": 71.7,
+            "slope": 125
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4488,
+            "par": 70,
+            "rating": 65.4,
+            "slope": 112
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 4488,
+            "par": 70,
+            "rating": 64.1,
+            "slope": 101
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af0959c0-86ac-11e4-8c28-020000005b00/emory-golf-country-club"
+  }
+}

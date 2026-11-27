@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b73a84c0-86ac-11e4-8c28-020000005b00/jesup-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b73a84c0-86ac-11e4-8c28-020000005b00/jesup-golf-country-club",
+  "checked_at": 1795663442.653191,
+  "sha256": "feaebdbaf83b498e69dbae5e7d077fa320dd88fdef994dfd021b8583885995cf",
+  "title": "Jesup Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b73a84c0-86ac-11e4-8c28-020000005b00",
+    "name": "Jesup Golf & Country Club",
+    "address": "601 N St W, Jesup, IA",
+    "courses": [
+      {
+        "name": "Jesup",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3137,
+            "par": 36,
+            "rating": 36.8,
+            "slope": 120
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3137,
+            "par": 36,
+            "rating": 37.6,
+            "slope": 127
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3021,
+            "par": 36,
+            "rating": 36.2,
+            "slope": 118
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3021,
+            "par": 36,
+            "rating": 37,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2681,
+            "par": 36,
+            "rating": 34.7,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2681,
+            "par": 36,
+            "rating": 35.2,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b73a84c0-86ac-11e4-8c28-020000005b00/jesup-golf-country-club"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afe38d20-86ac-11e4-8c28-020000005b00/gloucester-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afe38d20-86ac-11e4-8c28-020000005b00/gloucester-country-club",
+  "checked_at": 1795661683.774821,
+  "sha256": "c6f3fcc95a44db0a9604410af6d3e0e70d57bc9c5ad997c4fa2dafe827c045fa",
+  "title": "Gloucester Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "afe38d20-86ac-11e4-8c28-020000005b00",
+    "name": "Gloucester Country Club",
+    "address": "6731 Golf Club Road, Gloucester, VA",
+    "courses": [
+      {
+        "name": "Gloucester",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Red/White",
+            "category": "MALE",
+            "yards": 6165,
+            "par": 72,
+            "rating": 70.7,
+            "slope": 121
+          },
+          {
+            "name": "Red/White",
+            "category": "FEMALE",
+            "yards": 6165,
+            "par": 74,
+            "rating": 74.7,
+            "slope": 132
+          },
+          {
+            "name": "Blue/Yellow",
+            "category": "MALE",
+            "yards": 5035,
+            "par": 72,
+            "rating": 67.9,
+            "slope": 116
+          },
+          {
+            "name": "Blue/Yellow",
+            "category": "FEMALE",
+            "yards": 5035,
+            "par": 74,
+            "rating": 71.7,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afe38d20-86ac-11e4-8c28-020000005b00/gloucester-country-club"
+  }
+}

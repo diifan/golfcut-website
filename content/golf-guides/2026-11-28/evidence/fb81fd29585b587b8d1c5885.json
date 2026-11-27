@@ -1,0 +1,357 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/17f582c0-fe4f-11ec-89c0-06780482e2ce/oaks-north",
+  "resolved_url": "https://18birdies.com/golf-courses/club/17f582c0-fe4f-11ec-89c0-06780482e2ce/oaks-north",
+  "checked_at": 1795583796.0975342,
+  "sha256": "adcb00b76bf79945bf828109fff11f8e8e7cf5649511fce6a5aa78babafae4b8",
+  "title": "Oaks North - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "17f582c0-fe4f-11ec-89c0-06780482e2ce",
+    "name": "Oaks North",
+    "address": "12602 Oaks North Drive, San Diego, CA",
+    "courses": [
+      {
+        "name": "East Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1668,
+            "par": 30,
+            "rating": 27.6,
+            "slope": 86
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1668,
+            "par": 30,
+            "rating": 28.5,
+            "slope": 84
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1479,
+            "par": 30,
+            "rating": 26.6,
+            "slope": 80
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1479,
+            "par": 30,
+            "rating": 27.6,
+            "slope": 83
+          }
+        ]
+      },
+      {
+        "name": "North Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1749,
+            "par": 30,
+            "rating": 28.5,
+            "slope": 89
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1749,
+            "par": 30,
+            "rating": 30.1,
+            "slope": 93
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1564,
+            "par": 30,
+            "rating": 27.7,
+            "slope": 85
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1564,
+            "par": 30,
+            "rating": 29.3,
+            "slope": 89
+          }
+        ]
+      },
+      {
+        "name": "South Course",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1859,
+            "par": 30,
+            "rating": 28.8,
+            "slope": 95
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1859,
+            "par": 30,
+            "rating": 30.6,
+            "slope": 98
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1651,
+            "par": 30,
+            "rating": 28,
+            "slope": 88
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1651,
+            "par": 30,
+            "rating": 29.5,
+            "slope": 92
+          }
+        ]
+      },
+      {
+        "name": "East to North",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3417,
+            "par": 60,
+            "rating": 56.5,
+            "slope": 88
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3417,
+            "par": 60,
+            "rating": 59.7,
+            "slope": 92
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3043,
+            "par": 60,
+            "rating": 54.9,
+            "slope": 83
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3043,
+            "par": 60,
+            "rating": 57.8,
+            "slope": 87
+          }
+        ]
+      },
+      {
+        "name": "East to South",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3527,
+            "par": 60,
+            "rating": 56.8,
+            "slope": 91
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3527,
+            "par": 60,
+            "rating": 60.2,
+            "slope": 94
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3130,
+            "par": 60,
+            "rating": 60.2,
+            "slope": 94
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3130,
+            "par": 60,
+            "rating": 58,
+            "slope": 89
+          }
+        ]
+      },
+      {
+        "name": "North to East",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3417,
+            "par": 60,
+            "rating": 56.5,
+            "slope": 88
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3417,
+            "par": 60,
+            "rating": 59.7,
+            "slope": 92
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3043,
+            "par": 60,
+            "rating": 54.9,
+            "slope": 83
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3043,
+            "par": 60,
+            "rating": 57.8,
+            "slope": 87
+          }
+        ]
+      },
+      {
+        "name": "North to South",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3608,
+            "par": 60,
+            "rating": 57.3,
+            "slope": 92
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3608,
+            "par": 60,
+            "rating": 60.7,
+            "slope": 96
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3215,
+            "par": 60,
+            "rating": 55.7,
+            "slope": 87
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3215,
+            "par": 60,
+            "rating": 58.8,
+            "slope": 91
+          }
+        ]
+      },
+      {
+        "name": "South to East",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3527,
+            "par": 60,
+            "rating": 56.8,
+            "slope": 91
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3527,
+            "par": 60,
+            "rating": 60.2,
+            "slope": 94
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3130,
+            "par": 60,
+            "rating": 55.2,
+            "slope": 85
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3130,
+            "par": 60,
+            "rating": 58,
+            "slope": 89
+          }
+        ]
+      },
+      {
+        "name": "South to North",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3608,
+            "par": 60,
+            "rating": 57.3,
+            "slope": 92
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3608,
+            "par": 60,
+            "rating": 60.7,
+            "slope": 96
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 3215,
+            "par": 60,
+            "rating": 55.7,
+            "slope": 87
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 3215,
+            "par": 60,
+            "rating": 58.8,
+            "slope": 91
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/17f582c0-fe4f-11ec-89c0-06780482e2ce/oaks-north"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8adaf5e0-86ac-11e4-8c28-020000005b00/live-oak-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8adaf5e0-86ac-11e4-8c28-020000005b00/live-oak-golf-club",
+  "checked_at": 1795525024.7595925,
+  "sha256": "26e97961035a5677f6cde8d71e77e8910e8c70ab92199bcbef356279f2463e9f",
+  "title": "Live Oak Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8adaf5e0-86ac-11e4-8c28-020000005b00",
+    "name": "Live Oak Golf Club",
+    "address": "3721 National Drive, Abilene, TX 79602",
+    "courses": [
+      {
+        "name": "Diamond Back",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6977,
+            "par": 71,
+            "rating": 74.4,
+            "slope": 137
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 6977,
+            "par": 71,
+            "rating": 81.1,
+            "slope": 141
+          },
+          {
+            "name": "Silver",
+            "category": "MALE",
+            "yards": 6516,
+            "par": 71,
+            "rating": 72.4,
+            "slope": 131
+          },
+          {
+            "name": "Silver",
+            "category": "FEMALE",
+            "yards": 6516,
+            "par": 71,
+            "rating": 78.5,
+            "slope": 136
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6009,
+            "par": 71,
+            "rating": 70,
+            "slope": 126
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6009,
+            "par": 71,
+            "rating": 75.7,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5006,
+            "par": 71,
+            "rating": 65.5,
+            "slope": 116
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5006,
+            "par": 71,
+            "rating": 70.2,
+            "slope": 123
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8adaf5e0-86ac-11e4-8c28-020000005b00/live-oak-golf-club"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/bd549da0-1caa-11ec-b15d-06780482e2ce/savannah-oaks-golf-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/bd549da0-1caa-11ec-b15d-06780482e2ce/savannah-oaks-golf-club",
+  "checked_at": 1795687606.3960218,
+  "sha256": "d2f38105c0c020000d5bc1773b43fa5c95f6ea2c1960a290da152e68671b88a0",
+  "title": "Savannah Oaks Golf Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "bd549da0-1caa-11ec-b15d-06780482e2ce",
+    "name": "Savannah Oaks Golf Club",
+    "address": "100 Savannah Dr, Poplar Grove, IL",
+    "courses": [
+      {
+        "name": "Savannah Oaks Golf Club",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2925,
+            "par": 35,
+            "rating": 36,
+            "slope": 135
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2925,
+            "par": 35,
+            "rating": 39,
+            "slope": 148
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2709,
+            "par": 35,
+            "rating": 34.6,
+            "slope": 129
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2709,
+            "par": 35,
+            "rating": 37.3,
+            "slope": 140
+          },
+          {
+            "name": "Burgundy",
+            "category": "MALE",
+            "yards": 2338,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Burgundy",
+            "category": "FEMALE",
+            "yards": 2338,
+            "par": 35,
+            "rating": null,
+            "slope": null
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/bd549da0-1caa-11ec-b15d-06780482e2ce/savannah-oaks-golf-club"
+  }
+}

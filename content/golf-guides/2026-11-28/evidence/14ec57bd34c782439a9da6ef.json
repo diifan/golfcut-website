@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b942fef0-86ac-11e4-8c28-020000005b00/higginsville-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b942fef0-86ac-11e4-8c28-020000005b00/higginsville-country-club",
+  "checked_at": 1795686559.6617558,
+  "sha256": "4450f9167188cb543742831d4fe17ecf5bf0b6ae26aff3bd7d397bbbec687f03",
+  "title": "Higginsville Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b942fef0-86ac-11e4-8c28-020000005b00",
+    "name": "Higginsville Country Club",
+    "address": "Route AA City Lake",
+    "courses": [
+      {
+        "name": "Higginsville",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3037,
+            "par": 35,
+            "rating": 36.3,
+            "slope": 118
+          },
+          {
+            "name": "Mens",
+            "category": "MALE",
+            "yards": 2919,
+            "par": 35,
+            "rating": 34.5,
+            "slope": 120
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2575,
+            "par": 35,
+            "rating": 34.2,
+            "slope": 110
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b942fef0-86ac-11e4-8c28-020000005b00/higginsville-country-club"
+  }
+}

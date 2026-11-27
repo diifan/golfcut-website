@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/9bf52a30-86ac-11e4-8c28-020000005b00/twin-run-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/9bf52a30-86ac-11e4-8c28-020000005b00/twin-run-golf-course",
+  "checked_at": 1795700497.1149018,
+  "sha256": "f20fbce9948ddb5c43090c54a688f3891e55bbac0c0ff22eecf47e18c3cd405a",
+  "title": "Twin Run Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "9bf52a30-86ac-11e4-8c28-020000005b00",
+    "name": "Twin Run Golf Course",
+    "address": "2505 Eaton Rd, Hamilton, OH",
+    "courses": [
+      {
+        "name": "Twin Run",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6515,
+            "par": 72,
+            "rating": 71,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6068,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 4925,
+            "par": 72,
+            "rating": 63.9,
+            "slope": 105
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/9bf52a30-86ac-11e4-8c28-020000005b00/twin-run-golf-course"
+  }
+}

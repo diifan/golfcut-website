@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9189390-86ac-11e4-8c28-020000005b00/bolivar",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9189390-86ac-11e4-8c28-020000005b00/bolivar",
+  "checked_at": 1795694419.9523056,
+  "sha256": "69ed1411656a2d229276c26b257c370abd447fe1f06763730f5d9e48a1733ff4",
+  "title": "Bolivar - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b9189390-86ac-11e4-8c28-020000005b00",
+    "name": "Bolivar",
+    "address": "W Hwy 32, Bolivar, MO",
+    "courses": [
+      {
+        "name": "Bolivar",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue 18",
+            "category": "MALE",
+            "yards": 6734,
+            "par": 72,
+            "rating": 72,
+            "slope": 122
+          },
+          {
+            "name": "White 18",
+            "category": "MALE",
+            "yards": 6318,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 119
+          },
+          {
+            "name": "Gold 18",
+            "category": "MALE",
+            "yards": 5558,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 115
+          },
+          {
+            "name": "Red 18",
+            "category": "MALE",
+            "yards": 5270,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 118
+          },
+          {
+            "name": "Black 18",
+            "category": "MALE",
+            "yards": 4480,
+            "par": 72,
+            "rating": 65.3,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9189390-86ac-11e4-8c28-020000005b00/bolivar"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af954610-86ac-11e4-8c28-020000005b00/lakeside-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af954610-86ac-11e4-8c28-020000005b00/lakeside-golf-course",
+  "checked_at": 1795661628.081345,
+  "sha256": "a842fb6b880aac41c66836a22eee7bbaf2cd033632de4c81447b9626ba491e77",
+  "title": "Lakeside Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af954610-86ac-11e4-8c28-020000005b00",
+    "name": "Lakeside Golf Course",
+    "address": "1201 N 1100 W, West Bountiful, UT",
+    "courses": [
+      {
+        "name": "Lakeside",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 6113,
+            "par": 71,
+            "rating": 68.1,
+            "slope": 109
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 5767,
+            "par": 71,
+            "rating": 66.7,
+            "slope": 107
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5318,
+            "par": 71,
+            "rating": 64.1,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4723,
+            "par": 71,
+            "rating": 62.1,
+            "slope": 101
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 3084,
+            "par": 71,
+            "rating": 58.9,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af954610-86ac-11e4-8c28-020000005b00/lakeside-golf-course"
+  }
+}

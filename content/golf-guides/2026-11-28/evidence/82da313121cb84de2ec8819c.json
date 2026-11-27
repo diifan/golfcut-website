@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/a34a22d0-323e-11ee-af3b-06780482e2ce/memorial-links-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/a34a22d0-323e-11ee-af3b-06780482e2ce/memorial-links-golf-course",
+  "checked_at": 1795661425.7994306,
+  "sha256": "f70313b0b886b2c14bdae27d0e5c301421be3957de4f7cdc5969d2cbc4ce16f2",
+  "title": "Memorial Links Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "a34a22d0-323e-11ee-af3b-06780482e2ce",
+    "name": "Memorial Links Golf Course",
+    "address": "106 Memorial Links Rd, Waymart, PA",
+    "courses": [
+      {
+        "name": "Memorial Links",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2783,
+            "par": 35,
+            "rating": 33.6,
+            "slope": 113
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2783,
+            "par": 35,
+            "rating": 35.7,
+            "slope": 121
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2222,
+            "par": 35,
+            "rating": 32.6,
+            "slope": 104
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2222,
+            "par": 35,
+            "rating": 32.1,
+            "slope": 101
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/a34a22d0-323e-11ee-af3b-06780482e2ce/memorial-links-golf-course"
+  }
+}

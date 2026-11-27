@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/920e5ff0-86ac-11e4-8c28-020000005b00/heather-gardens",
+  "resolved_url": "https://18birdies.com/golf-courses/club/920e5ff0-86ac-11e4-8c28-020000005b00/heather-gardens",
+  "checked_at": 1795685188.928237,
+  "sha256": "2a99cd971890bb37c0ba5c1be7c545727bf3e11c22aa370d662a02b3b46d7972",
+  "title": "Heather Gardens - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "920e5ff0-86ac-11e4-8c28-020000005b00",
+    "name": "Heather Gardens",
+    "address": "2888 S Heather Gardens Way",
+    "courses": [
+      {
+        "name": "Heather Gardens",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2461,
+            "par": 32,
+            "rating": 33.7,
+            "slope": 108
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2277,
+            "par": 32,
+            "rating": 32.8,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2003,
+            "par": 32,
+            "rating": 31.6,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/920e5ff0-86ac-11e4-8c28-020000005b00/heather-gardens"
+  }
+}

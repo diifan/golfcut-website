@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b9ada7a0-86ac-11e4-8c28-020000005b00/oak-meadow-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b9ada7a0-86ac-11e4-8c28-020000005b00/oak-meadow-country-club",
+  "checked_at": 1795663479.7837412,
+  "sha256": "53a255946248af1611052113df67cc0585efaefa630666d588e922d4e1e775fc",
+  "title": "Oak Meadow Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b9ada7a0-86ac-11e4-8c28-020000005b00",
+    "name": "Oak Meadow Country Club",
+    "address": "10700 County Rd 3110",
+    "courses": [
+      {
+        "name": "Oak Meadow",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6141,
+            "par": 70,
+            "rating": 70.6,
+            "slope": 124
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6141,
+            "par": 70,
+            "rating": 77.5,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5848,
+            "par": 70,
+            "rating": 68.9,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5848,
+            "par": 70,
+            "rating": 75.2,
+            "slope": 125
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4681,
+            "par": 70,
+            "rating": 62.3,
+            "slope": 96
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4681,
+            "par": 70,
+            "rating": 65.8,
+            "slope": 114
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b9ada7a0-86ac-11e4-8c28-020000005b00/oak-meadow-country-club"
+  }
+}

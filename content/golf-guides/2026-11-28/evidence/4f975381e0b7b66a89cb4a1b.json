@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/94df0c20-86ac-11e4-8c28-020000005b00/montgomery-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/94df0c20-86ac-11e4-8c28-020000005b00/montgomery-country-club",
+  "checked_at": 1795700449.507428,
+  "sha256": "21f9c851d677f8b602f951c7cf654f1d5092d7ead3a1d28167f87f3f2dc51c87",
+  "title": "Montgomery Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "94df0c20-86ac-11e4-8c28-020000005b00",
+    "name": "Montgomery Country Club",
+    "address": "20908 Golf View Dr, Laytonsville, MD",
+    "courses": [
+      {
+        "name": "Montgomery",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6713,
+            "par": 72,
+            "rating": 72.7,
+            "slope": 129
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6713,
+            "par": 72,
+            "rating": 77.6,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6239,
+            "par": 72,
+            "rating": 70.6,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6239,
+            "par": 72,
+            "rating": 73.9,
+            "slope": 133
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 6053,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 123
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 6053,
+            "par": 72,
+            "rating": 74.1,
+            "slope": 130
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5434,
+            "par": 72,
+            "rating": 66.6,
+            "slope": 119
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5434,
+            "par": 72,
+            "rating": 71.7,
+            "slope": 124
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/94df0c20-86ac-11e4-8c28-020000005b00/montgomery-country-club"
+  }
+}

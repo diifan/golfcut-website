@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/99a93e60-86ac-11e4-8c28-020000005b00/sandy-pond-links",
+  "resolved_url": "https://18birdies.com/golf-courses/club/99a93e60-86ac-11e4-8c28-020000005b00/sandy-pond-links",
+  "checked_at": 1795687620.4778938,
+  "sha256": "8843c33e784454e0522fdda430db27aaebc6230587d66807b7b9c13bb8bfc031",
+  "title": "Sandy Pond Links - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "99a93e60-86ac-11e4-8c28-020000005b00",
+    "name": "Sandy Pond Links",
+    "address": "1495 Roanoke Ave, Riverhead, NY",
+    "courses": [
+      {
+        "name": "Sandy Pond Links",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 1085,
+            "par": 27,
+            "rating": 26.2,
+            "slope": 77
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 1085,
+            "par": 27,
+            "rating": 27.5,
+            "slope": 86
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 1004,
+            "par": 27,
+            "rating": 25.8,
+            "slope": 74
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 1004,
+            "par": 27,
+            "rating": 27.1,
+            "slope": 85
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 863,
+            "par": 27,
+            "rating": 25.4,
+            "slope": 72
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 863,
+            "par": 27,
+            "rating": 26.7,
+            "slope": 81
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/99a93e60-86ac-11e4-8c28-020000005b00/sandy-pond-links"
+  }
+}

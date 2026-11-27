@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/840e3ce0-86ac-11e4-8c28-020000005b00/shewami-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/840e3ce0-86ac-11e4-8c28-020000005b00/shewami-country-club",
+  "checked_at": 1795687661.4126673,
+  "sha256": "a2a54fc62233566265581d90180eb616521ce9cc0c4ede034008fd91ad3ce085",
+  "title": "Shewami Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "840e3ce0-86ac-11e4-8c28-020000005b00",
+    "name": "Shewami Country Club",
+    "address": "Golf Rd, Sheldon, IL",
+    "courses": [
+      {
+        "name": "Shewami",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6117,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 128
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6117,
+            "par": 72,
+            "rating": 74.4,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5802,
+            "par": 72,
+            "rating": 68,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5802,
+            "par": 72,
+            "rating": 72.8,
+            "slope": 127
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5376,
+            "par": 72,
+            "rating": 64.8,
+            "slope": 116
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5376,
+            "par": 72,
+            "rating": 69.3,
+            "slope": 117
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4699,
+            "par": 72,
+            "rating": 63,
+            "slope": 112
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4699,
+            "par": 72,
+            "rating": 67.1,
+            "slope": 112
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/840e3ce0-86ac-11e4-8c28-020000005b00/shewami-country-club"
+  }
+}

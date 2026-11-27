@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/14d6cd30-6b40-11e7-8971-0680a328ea36/bears-den-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/14d6cd30-6b40-11e7-8971-0680a328ea36/bears-den-golf-course",
+  "checked_at": 1795686313.0747032,
+  "sha256": "42a048f8dde52f81c9321cd32b4188399b70b501d2a374021c3d07dd1070ddca",
+  "title": "Bears Den Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "14d6cd30-6b40-11e7-8971-0680a328ea36",
+    "name": "Bears Den Golf Course",
+    "address": "18454 Dayspring Dr., Park Rapids, MN 56470",
+    "courses": [
+      {
+        "name": "Bears Den",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6820,
+            "par": 72,
+            "rating": 76,
+            "slope": 131
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6018,
+            "par": 72,
+            "rating": 72.3,
+            "slope": 124
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5370,
+            "par": 72,
+            "rating": 69.4,
+            "slope": 119
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/14d6cd30-6b40-11e7-8971-0680a328ea36/bears-den-golf-course"
+  }
+}

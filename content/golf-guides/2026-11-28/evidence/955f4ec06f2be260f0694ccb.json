@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/7461f070-86ac-11e4-8c28-020000005b00/hartfield-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/7461f070-86ac-11e4-8c28-020000005b00/hartfield-country-club",
+  "checked_at": 1795686435.4429238,
+  "sha256": "89f978b0f39e5f1eb4d98ee0ee780fcfb137a7bc5a8b7a260014ac0ac8bded6e",
+  "title": "Hartfield Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "7461f070-86ac-11e4-8c28-020000005b00",
+    "name": "Hartfield Country Club",
+    "address": "90 Hartfield Road, Forrestfield, Australia",
+    "courses": [
+      {
+        "name": "Hartfield",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6752,
+            "par": 72,
+            "rating": 73.1,
+            "slope": 132
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6752,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5955,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5955,
+            "par": 72,
+            "rating": 75.1,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5955,
+            "par": 72,
+            "rating": 72.5,
+            "slope": 132
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5955,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 5955,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 5955,
+            "par": 72,
+            "rating": 69.6,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/7461f070-86ac-11e4-8c28-020000005b00/hartfield-country-club"
+  }
+}

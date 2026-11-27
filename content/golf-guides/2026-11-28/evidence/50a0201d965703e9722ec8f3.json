@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/af16ee50-86ac-11e4-8c28-020000005b00/williams-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/af16ee50-86ac-11e4-8c28-020000005b00/williams-creek-golf-course",
+  "checked_at": 1795696630.4406188,
+  "sha256": "b839e938212fa19412e9187583598e984d65cad2c3a9910f83b86d716b69e7ad",
+  "title": "Williams Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "af16ee50-86ac-11e4-8c28-020000005b00",
+    "name": "Williams Creek Golf Course",
+    "address": "2351 Dandridge Ave, Knoxville, TN",
+    "courses": [
+      {
+        "name": "The Wee Course",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2869,
+            "par": 54,
+            "rating": 52.9,
+            "slope": 101
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 2869,
+            "par": 54,
+            "rating": 55.46066,
+            "slope": 82.86641
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2306,
+            "par": 54,
+            "rating": 50.1,
+            "slope": 99
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2306,
+            "par": 54,
+            "rating": 53.12984,
+            "slope": 80.11334
+          },
+          {
+            "name": "Green",
+            "category": "MALE",
+            "yards": 2364,
+            "par": 54,
+            "rating": 53.36996,
+            "slope": 80.39696
+          },
+          {
+            "name": "Green",
+            "category": "FEMALE",
+            "yards": 2364,
+            "par": 54,
+            "rating": 53.36996,
+            "slope": 80.39696
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1834,
+            "par": 54,
+            "rating": 49.5,
+            "slope": 95
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 1834,
+            "par": 54,
+            "rating": 52.7,
+            "slope": 100
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/af16ee50-86ac-11e4-8c28-020000005b00/williams-creek-golf-course"
+  }
+}

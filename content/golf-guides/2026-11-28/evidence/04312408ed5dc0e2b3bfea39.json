@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b47b16a0-86ac-11e4-8c28-020000005b00/taylor-creek-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b47b16a0-86ac-11e4-8c28-020000005b00/taylor-creek-golf-course",
+  "checked_at": 1795582951.6953175,
+  "sha256": "80bea518c999149f2178822745a605c445038b77481ee022eea99990216e8a7f",
+  "title": "Taylor Creek Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "b47b16a0-86ac-11e4-8c28-020000005b00",
+    "name": "Taylor Creek Golf Course",
+    "address": "120 Taylor Creek Rd",
+    "courses": [
+      {
+        "name": "Taylor Creek",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 2338,
+            "par": 33,
+            "rating": 33.1,
+            "slope": 106
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 1935,
+            "par": 33,
+            "rating": 31.3,
+            "slope": 98
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b47b16a0-86ac-11e4-8c28-020000005b00/taylor-creek-golf-course"
+  }
+}

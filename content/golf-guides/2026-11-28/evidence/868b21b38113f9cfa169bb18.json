@@ -1,0 +1,91 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/ba697d90-86ac-11e4-8c28-020000005b00/woodbrier-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/ba697d90-86ac-11e4-8c28-020000005b00/woodbrier-golf-course",
+  "checked_at": 1795696854.462667,
+  "sha256": "bc4538f7896cb157cf4acea524ef8ca9882c7dd26432d47beacf6ba1e95c610d",
+  "title": "Woodbrier Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star-o star star-o star star star star-o star star-o star star google-play",
+  "course_profile": {
+    "id": "ba697d90-86ac-11e4-8c28-020000005b00",
+    "name": "Woodbrier Golf Course",
+    "address": "250 TopFlite Dr., Martinsburg, WV",
+    "courses": [
+      {
+        "name": "9 holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 2533,
+            "par": 35,
+            "rating": 34,
+            "slope": 109
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 2533,
+            "par": 35,
+            "rating": 34.5,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 2442,
+            "par": 35,
+            "rating": 34.2,
+            "slope": 107
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 2442,
+            "par": 35,
+            "rating": 33.9,
+            "slope": 115
+          }
+        ]
+      },
+      {
+        "name": "18 holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5066,
+            "par": 70,
+            "rating": 68,
+            "slope": 116
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5066,
+            "par": 70,
+            "rating": 69.3,
+            "slope": 109
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5147,
+            "par": 70,
+            "rating": 68.2,
+            "slope": 107
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5147,
+            "par": 70,
+            "rating": 67.9,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/ba697d90-86ac-11e4-8c28-020000005b00/woodbrier-golf-course"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b6276710-86ac-11e4-8c28-020000005b00/duncan-golf-and-tennis-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b6276710-86ac-11e4-8c28-020000005b00/duncan-golf-and-tennis-club",
+  "checked_at": 1795663447.546808,
+  "sha256": "65d82d6ee929a51bc1d1c2a736323af767d6f87626fab347c066f78bd4919276",
+  "title": "Duncan Golf and Tennis Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b6276710-86ac-11e4-8c28-020000005b00",
+    "name": "Duncan Golf and Tennis Club",
+    "address": "1800 Country Club Drive",
+    "courses": [
+      {
+        "name": "Duncan",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6601,
+            "par": 71,
+            "rating": 70.8,
+            "slope": 124
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6225,
+            "par": 71,
+            "rating": 67.6,
+            "slope": 118
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5125,
+            "par": 71,
+            "rating": 68.3,
+            "slope": 117
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b6276710-86ac-11e4-8c28-020000005b00/duncan-golf-and-tennis-club"
+  }
+}

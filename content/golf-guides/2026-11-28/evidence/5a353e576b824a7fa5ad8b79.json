@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/740ca480-86ac-11e4-8c28-020000005b00/st-andrews-beach",
+  "resolved_url": "https://18birdies.com/golf-courses/club/740ca480-86ac-11e4-8c28-020000005b00/st-andrews-beach",
+  "checked_at": 1795663486.9817526,
+  "sha256": "de67078d9188d89ab67d8dd09cb1dc0277198a724f89f5add6de490663afb3ef",
+  "title": "St Andrews Beach - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "740ca480-86ac-11e4-8c28-020000005b00",
+    "name": "St Andrews Beach",
+    "address": "209 Sandy Road, St Andrews Beach, Victoria",
+    "courses": [
+      {
+        "name": "St Andrews Beach",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6686.33154,
+            "par": 70,
+            "rating": 73.6,
+            "slope": 139
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6686.33154,
+            "par": 70,
+            "rating": 77.5,
+            "slope": 138
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6153.743470000001,
+            "par": 70,
+            "rating": 71.4,
+            "slope": 135
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6153.743470000001,
+            "par": 70,
+            "rating": 74.6,
+            "slope": 131
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5774.260799999999,
+            "par": 70,
+            "rating": 71.2,
+            "slope": 122
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5774.260799999999,
+            "par": 70,
+            "rating": 72.3,
+            "slope": 134
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/740ca480-86ac-11e4-8c28-020000005b00/st-andrews-beach"
+  }
+}

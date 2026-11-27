@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/afa65d10-86ac-11e4-8c28-020000005b00/riverside-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/afa65d10-86ac-11e4-8c28-020000005b00/riverside-country-club",
+  "checked_at": 1795685286.944719,
+  "sha256": "c25ed83af5f32fe40e255720c235cc4503e37c44b9034ab6d49992296dc72f22",
+  "title": "Riverside Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "afa65d10-86ac-11e4-8c28-020000005b00",
+    "name": "Riverside Country Club",
+    "address": "2701 N University Ave, Provo, UT",
+    "courses": [
+      {
+        "name": "Riverside",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Black",
+            "category": "MALE",
+            "yards": 7142,
+            "par": 72,
+            "rating": 73.4,
+            "slope": 140
+          },
+          {
+            "name": "Black",
+            "category": "FEMALE",
+            "yards": 7142,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6380,
+            "par": 72,
+            "rating": 70.2,
+            "slope": 133
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6380,
+            "par": 72,
+            "rating": 76.1,
+            "slope": 142
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5916,
+            "par": 72,
+            "rating": 68.2,
+            "slope": 128
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5916,
+            "par": 72,
+            "rating": 73.5,
+            "slope": 137
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5255,
+            "par": 72,
+            "rating": 64.5,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5255,
+            "par": 72,
+            "rating": 69,
+            "slope": 127
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/afa65d10-86ac-11e4-8c28-020000005b00/riverside-country-club"
+  }
+}

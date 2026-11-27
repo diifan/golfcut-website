@@ -1,0 +1,85 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8a9d2990-86ac-11e4-8c28-020000005b00/apple-valley-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8a9d2990-86ac-11e4-8c28-020000005b00/apple-valley-golf-course",
+  "checked_at": 1795700348.38245,
+  "sha256": "6dd0d7e5927daea306694feabba9b16acae5ec2e36df34a0c7acf21494a06cb6",
+  "title": "Apple Valley Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8a9d2990-86ac-11e4-8c28-020000005b00",
+    "name": "Apple Valley Golf Course",
+    "address": "15200 Rancherias Rd, Apple Valley, CA",
+    "courses": [
+      {
+        "name": "Apple Valley",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6721,
+            "par": 71,
+            "rating": 72,
+            "slope": 125
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6721,
+            "par": 71,
+            "rating": 78.3,
+            "slope": 140
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6392,
+            "par": 71,
+            "rating": 70.4,
+            "slope": 121
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6392,
+            "par": 71,
+            "rating": 76.3,
+            "slope": 135
+          },
+          {
+            "name": "Gold",
+            "category": "MALE",
+            "yards": 5843,
+            "par": 71,
+            "rating": 67.7,
+            "slope": 114
+          },
+          {
+            "name": "Gold",
+            "category": "FEMALE",
+            "yards": 5843,
+            "par": 71,
+            "rating": 73.3,
+            "slope": 128
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5399,
+            "par": 71,
+            "rating": 64.1,
+            "slope": 105
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5399,
+            "par": 71,
+            "rating": 68.5,
+            "slope": 118
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8a9d2990-86ac-11e4-8c28-020000005b00/apple-valley-golf-course"
+  }
+}

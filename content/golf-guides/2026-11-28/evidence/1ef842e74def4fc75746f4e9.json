@@ -1,0 +1,37 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/76b5f290-86ac-11e4-8c28-020000005b00/huron-pines-golf-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/76b5f290-86ac-11e4-8c28-020000005b00/huron-pines-golf-country-club",
+  "checked_at": 1795686464.2360399,
+  "sha256": "87c5a6d63545fbc96dec54304bf7a22afaf0f422e43031b9198092c49f61a538",
+  "title": "Huron Pines Golf & Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "76b5f290-86ac-11e4-8c28-020000005b00",
+    "name": "Huron Pines Golf & Country Club",
+    "address": "Box 2041, Blind River, Ontario",
+    "courses": [
+      {
+        "name": "Huron Pines",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Back",
+            "category": "MALE",
+            "yards": 6763,
+            "par": 72,
+            "rating": 73.2,
+            "slope": 134
+          },
+          {
+            "name": "Middle",
+            "category": "MALE",
+            "yards": 6245,
+            "par": 72,
+            "rating": 70.3,
+            "slope": 132
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/76b5f290-86ac-11e4-8c28-020000005b00/huron-pines-golf-country-club"
+  }
+}

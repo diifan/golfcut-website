@@ -1,0 +1,53 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/b4701a20-86ac-11e4-8c28-020000005b00/hebron-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/b4701a20-86ac-11e4-8c28-020000005b00/hebron-country-club",
+  "checked_at": 1795687614.3841872,
+  "sha256": "35a62faf418dab8384f65e5c1ceb7b52a7a80cb6ebff255a88640c119fa1ba66",
+  "title": "Hebron Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "b4701a20-86ac-11e4-8c28-020000005b00",
+    "name": "Hebron Country Club",
+    "address": "Route 1, Hebron, NE",
+    "courses": [
+      {
+        "name": "Hebron",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5854,
+            "par": 70,
+            "rating": 68.4,
+            "slope": 107
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5854,
+            "par": 70,
+            "rating": 74.2,
+            "slope": 115
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 5114,
+            "par": 70,
+            "rating": 64.8,
+            "slope": 99
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 5114,
+            "par": 70,
+            "rating": 69.8,
+            "slope": 106
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/b4701a20-86ac-11e4-8c28-020000005b00/hebron-country-club"
+  }
+}

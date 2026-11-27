@@ -1,0 +1,69 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/849b7370-5ca9-11ea-a138-06780482e2ce/plattsburg-country-club",
+  "resolved_url": "https://18birdies.com/golf-courses/club/849b7370-5ca9-11ea-a138-06780482e2ce/plattsburg-country-club",
+  "checked_at": 1795700389.87574,
+  "sha256": "343baf18d1b1134ed7517e8dce47961d6e520cb40390d630e63ef0626408317a",
+  "title": "Plattsburg Country Club - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "849b7370-5ca9-11ea-a138-06780482e2ce",
+    "name": "Plattsburg Country Club",
+    "address": "804 W Frost St Plattsburg, MO",
+    "courses": [
+      {
+        "name": "Plattsburg Country Club",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6250,
+            "par": 72,
+            "rating": 69.8,
+            "slope": 121
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6250,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 5862,
+            "par": 72,
+            "rating": 68.1,
+            "slope": 117
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 5862,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "MALE",
+            "yards": 4769,
+            "par": 72,
+            "rating": null,
+            "slope": null
+          },
+          {
+            "name": "Red",
+            "category": "FEMALE",
+            "yards": 4769,
+            "par": 72,
+            "rating": 68.7,
+            "slope": 120
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/849b7370-5ca9-11ea-a138-06780482e2ce/plattsburg-country-club"
+  }
+}

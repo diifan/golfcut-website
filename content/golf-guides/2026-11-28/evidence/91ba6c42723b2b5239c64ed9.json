@@ -1,0 +1,123 @@
+{
+  "url": "https://18birdies.com/golf-courses/club/8c603650-86ac-11e4-8c28-020000005b00/weimar-golf-course",
+  "resolved_url": "https://18birdies.com/golf-courses/club/8c603650-86ac-11e4-8c28-020000005b00/weimar-golf-course",
+  "checked_at": 1795697932.7594557,
+  "sha256": "d26995e61a55c60d691683db1472bfff1b3d096d1cf3bab38a668da73cd2dc38",
+  "title": "Weimar Golf Course - Scorecards, Reviews | 18Birdies star star star star star star star star star star-o star star star star star star-o star star star google-play",
+  "course_profile": {
+    "id": "8c603650-86ac-11e4-8c28-020000005b00",
+    "name": "Weimar Golf Course",
+    "address": "Highway 90 E",
+    "courses": [
+      {
+        "name": "9 Holes",
+        "holes": 9,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 3062,
+            "par": 36,
+            "rating": 35.2,
+            "slope": 118
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 3062,
+            "par": 36,
+            "rating": 37.2,
+            "slope": 126
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 3094,
+            "par": 36,
+            "rating": 33.2,
+            "slope": 113
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 3094,
+            "par": 36,
+            "rating": 35.7,
+            "slope": 123
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 2443,
+            "par": 36,
+            "rating": 31.9,
+            "slope": 109
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 2443,
+            "par": 36,
+            "rating": 34.2,
+            "slope": 117
+          }
+        ]
+      },
+      {
+        "name": "18 Holes",
+        "holes": 18,
+        "tees": [
+          {
+            "name": "Blue",
+            "category": "MALE",
+            "yards": 6159,
+            "par": 72,
+            "rating": 69.2,
+            "slope": 116
+          },
+          {
+            "name": "Blue",
+            "category": "FEMALE",
+            "yards": 6159,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 115
+          },
+          {
+            "name": "White",
+            "category": "MALE",
+            "yards": 6156,
+            "par": 72,
+            "rating": 73,
+            "slope": 125
+          },
+          {
+            "name": "White",
+            "category": "FEMALE",
+            "yards": 6156,
+            "par": 72,
+            "rating": 68.4,
+            "slope": 109
+          },
+          {
+            "name": "Yellow",
+            "category": "MALE",
+            "yards": 4951,
+            "par": 72,
+            "rating": 68.9,
+            "slope": 115
+          },
+          {
+            "name": "Yellow",
+            "category": "FEMALE",
+            "yards": 4951,
+            "par": 72,
+            "rating": 68.6,
+            "slope": 113
+          }
+        ]
+      }
+    ],
+    "source_url": "https://18birdies.com/golf-courses/club/8c603650-86ac-11e4-8c28-020000005b00/weimar-golf-course"
+  }
+}
